@@ -21,7 +21,7 @@ from xml.sax.saxutils import escape as xesc
 import yaml
 
 from src import assets, store
-from src.i18n import HTML_LANG, LANG_LABEL, SOURCE_LABEL, src, t
+from src.i18n import CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, cat, src, t
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -154,24 +154,32 @@ def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[s
     out = [head(sc, lang, f"{title} · {t('latest', lang)}", t("tagline", lang), f"{lang}/", langs, 1, lang_paths), body_open(sc, lang)]
     out.append(topbar(sc, lang, langs, "../", lang_paths))
     out.append(f'<main class="wrap"><section class="hero"><h1>{e(t("tagline", lang))}</h1><p>{e(t("updated", lang))}: {e(updated)}</p></section>')
-    chips = [f'<button class="chip" data-filter-src="all" aria-pressed="true">{e(t("all", lang))}</button>']
-    chips += [f'<button class="chip" data-filter-src="{s}" aria-pressed="false">{e(src(s, lang))}</button>' for s in sources_used]
-    chips.append(f'<button class="chip hot" data-filter-hot aria-pressed="false">{e(t("only_important", lang))}</button>')
-    out.append(f'<div class="bar"><div class="row">{"".join(chips)}<input class="search" type="search" placeholder="{e(t("search", lang))}" aria-label="{e(t("search", lang))}"></div></div>')
+    counts = {c: sum(1 for a in arts if (a.get("category") or "notice") == c) for c in CATEGORY_ORDER}
+    tabs = [f'<button class="tab" data-filter-cat="all" aria-pressed="true">{e(t("all", lang))} <span>{len(arts)}</span></button>']
+    tabs += [f'<button class="tab" data-filter-cat="{c}" aria-pressed="false">{e(cat(c, lang))} <span>{counts[c]}</span></button>'
+             for c in CATEGORY_ORDER if counts[c]]
+    opts = f'<option value="all">{e(t("all_sources", lang))}</option>' + "".join(
+        f'<option value="{s}">{e(src(s, lang))}</option>' for s in sources_used)
+    out.append(
+        f'<div class="bar"><nav class="tabs" aria-label="{e(t("category", lang))}">{"".join(tabs)}</nav>'
+        f'<div class="row"><select class="srcsel" data-filter-src aria-label="source">{opts}</select>'
+        f'<button class="chip hot" data-filter-hot aria-pressed="false">{e(t("only_important", lang))}</button>'
+        f'<input class="search" type="search" placeholder="{e(t("search", lang))}" aria-label="{e(t("search", lang))}"></div></div>')
     if not arts:
         out.append(f'<p class="empty">{e(t("empty", lang))}</p>')
     else:
         out.append('<ol class="list">')
         for a in arts:
             L = a["langs"][lang]
-            q = " ".join([L["title"], L["summary"], " ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang)]).lower()
+            c = a.get("category") or "notice"
+            q = " ".join([L["title"], L["summary"], " ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang), cat(c, lang)]).lower()
             hot = '<span class="badge hot">' + e(t("imp_high", lang)) + "</span>" if a.get("importance") == "high" else ""
             tags = "".join(f'<span class="tag">#{e(x)}</span>' for x in a.get("tags", [])[:4])
             eff = f'<div class="eff">{e(t("effective", lang))}: {e(fmt_date(a.get("effective_date"), lang))}</div>' if a.get("effective_date") else ""
             out.append(
-                f'<li class="card" data-src="{e(a["source"])}" data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}">'
+                f'<li class="card" data-cat="{e(c)}" data-src="{e(a["source"])}" data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}">'
                 f'<time datetime="{e(a.get("published") or "")}">{e(fmt_date(a.get("published"), lang))}</time>'
-                f'<div><div class="meta"><span class="badge">{e(src(a["source"], lang))}</span>{hot}{tags}</div>'
+                f'<div><div class="meta"><span class="badge cat-{e(c)}">{e(cat(c, lang))}</span><span class="badge">{e(src(a["source"], lang))}</span>{hot}{tags}</div>'
                 f'<h2><a href="news/{a["id"]}.html">{e(L["title"])}</a></h2><p>{e(L["summary"])}</p>{eff}</div></li>'
             )
         out.append("</ol>")
@@ -213,7 +221,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
     out.append(f"""<main class="wrap">
 <a class="backlink" href="../">← {e(t('back', lang))}</a>
 <article class="doc">
-<div class="meta"><span class="badge">{e(src(a['source'], lang))}</span>{hot}{tags}</div>
+<div class="meta"><span class="badge cat-{e(a.get('category') or 'notice')}">{e(cat(a.get('category') or 'notice', lang))}</span><span class="badge">{e(src(a['source'], lang))}</span>{hot}{tags}</div>
 <h1>{e(L['title'])}</h1>
 <div class="facts">{''.join(facts)}</div>
 <p class="lede">{e(L['summary'])}</p>

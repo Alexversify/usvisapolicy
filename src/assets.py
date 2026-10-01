@@ -36,6 +36,21 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 .chip{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
 .chip.hot[aria-pressed="true"]{background:var(--hot);border-color:var(--hot);color:#fff}
+.tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;margin:0 0 10px;border-bottom:1px solid var(--rule)}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;border:0;background:none;color:var(--muted);font:inherit;font-size:14.5px;padding:8px 12px 10px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
+.tab span{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
+.tab[aria-pressed="true"]{color:var(--ink);font-weight:700;border-bottom-color:var(--ink)}
+.srcsel{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 10px;border-radius:999px}
+.badge.cat-policy{background:#e7efff;color:#1d4ed8}
+.badge.cat-fees{background:#fff4e0;color:#9a5b00}
+.badge.cat-processing{background:#e6f6ee;color:#17784a}
+.badge.cat-enforcement{background:#f1ecfb;color:#6b3fb5}
+.badge.cat-notice{background:var(--chip);color:var(--ink-2)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .badge.cat-policy{background:#1c2c4d;color:#9db8ff}
+:root:not([data-theme="light"]) .badge.cat-fees{background:#3a2c12;color:#f2c06b}
+:root:not([data-theme="light"]) .badge.cat-processing{background:#16332a;color:#7fd6a8}
+:root:not([data-theme="light"]) .badge.cat-enforcement{background:#2c2240;color:#c3a6f2}}
 .search{flex:1 1 220px;min-width:0;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font:inherit;font-size:14px;padding:8px 12px;border-radius:8px}
 .list{list-style:none;margin:0;padding:8px 0 0}
 .card{display:grid;grid-template-columns:92px 1fr;gap:16px;padding:20px 0;border-bottom:1px solid var(--hair)}
@@ -90,26 +105,32 @@ JS = r"""
   // 목록 필터
   var list = document.querySelector('.list');
   if (list) {
-    var state = {src: 'all', hot: false, q: ''};
+    var state = {cat: 'all', src: 'all', hot: false, q: ''};
+    try { var h = (location.hash || '').slice(1); if (h) state.cat = h; } catch(e) {}
     var cards = Array.prototype.slice.call(list.querySelectorAll('.card'));
     var none = document.getElementById('no-match');
     function apply(){
       var shown = 0, q = state.q.trim().toLowerCase();
       cards.forEach(function(c){
-        var ok = (state.src === 'all' || c.dataset.src === state.src)
+        var ok = (state.cat === 'all' || c.dataset.cat === state.cat)
+          && (state.src === 'all' || c.dataset.src === state.src)
           && (!state.hot || c.dataset.imp === 'high')
           && (!q || c.dataset.q.indexOf(q) !== -1);
         c.hidden = !ok; if (ok) shown++;
       });
       if (none) none.hidden = shown !== 0;
     }
-    document.querySelectorAll('[data-filter-src]').forEach(function(b){
-      b.addEventListener('click', function(){
-        state.src = b.dataset.filterSrc;
-        document.querySelectorAll('[data-filter-src]').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-        apply();
-      });
-    });
+    var tabs = document.querySelectorAll('[data-filter-cat]');
+    function setCat(v){
+      state.cat = v;
+      tabs.forEach(function(x){ x.setAttribute('aria-pressed', x.dataset.filterCat === v ? 'true' : 'false'); });
+      try { history.replaceState(null, '', v === 'all' ? location.pathname : '#' + v); } catch(e) {}
+      apply();
+    }
+    tabs.forEach(function(b){ b.addEventListener('click', function(){ setCat(b.dataset.filterCat); }); });
+    var sel = document.querySelector('select[data-filter-src]');
+    if (sel) sel.addEventListener('change', function(){ state.src = sel.value; apply(); });
+    if (state.cat !== 'all') setCat(state.cat);
     var hot = document.querySelector('[data-filter-hot]');
     if (hot) hot.addEventListener('click', function(){ state.hot = !state.hot; hot.setAttribute('aria-pressed', String(state.hot)); apply(); });
     var s = document.querySelector('.search');

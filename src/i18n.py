@@ -14,6 +14,8 @@ T: dict[str, dict[str, str]] = {
         "ja": "USCIS・米国務省の移民政策アップデートを5言語で",
     },
     "latest": {"ko": "최신 업데이트", "en": "Latest updates", "es": "Últimas novedades", "zh": "最新动态", "ja": "最新アップデート"},
+    "all_sources": {"ko": "모든 출처", "en": "All sources", "es": "Todas las fuentes", "zh": "全部来源", "ja": "すべての出典"},
+    "category": {"ko": "분류", "en": "Category", "es": "Categoría", "zh": "分类", "ja": "分類"},
     "all": {"ko": "전체", "en": "All", "es": "Todo", "zh": "全部", "ja": "すべて"},
     "search": {"ko": "검색 (예: H-1B, EB-5, 수수료)", "en": "Search (e.g. H-1B, EB-5, fees)", "es": "Buscar (p. ej. H-1B, EB-5, tarifas)", "zh": "搜索（如 H-1B、EB-5、费用）", "ja": "検索（例: H-1B、EB-5、手数料）"},
     "important": {"ko": "중요", "en": "Key", "es": "Clave", "zh": "重要", "ja": "重要"},
@@ -61,6 +63,21 @@ T: dict[str, dict[str, str]] = {
     "rss": {"ko": "RSS", "en": "RSS", "es": "RSS", "zh": "RSS", "ja": "RSS"},
     "imp_high": {"ko": "중요", "en": "Key", "es": "Clave", "zh": "重要", "ja": "重要"},
 }
+
+CATEGORY_LABEL: dict[str, dict[str, str]] = {
+    "policy": {"ko": "정책·규정", "en": "Policy & Rules", "es": "Políticas y normas", "zh": "政策法规", "ja": "政策・規則"},
+    "fees": {"ko": "수수료", "en": "Fees", "es": "Tarifas", "zh": "费用", "ja": "手数料"},
+    "processing": {"ko": "접수·처리", "en": "Filing & Processing", "es": "Trámites", "zh": "申请与处理", "ja": "申請・審査"},
+    "enforcement": {"ko": "단속·사기", "en": "Enforcement & Fraud", "es": "Fraude y sanciones", "zh": "执法与欺诈", "ja": "取締り・不正"},
+    "notice": {"ko": "공고·기타", "en": "Notices", "es": "Avisos", "zh": "公告", "ja": "告示・その他"},
+}
+CATEGORY_ORDER = ["policy", "fees", "processing", "enforcement", "notice"]
+
+
+def cat(key: str, lang: str) -> str:
+    row = CATEGORY_LABEL.get(key or "notice", CATEGORY_LABEL["notice"])
+    return row.get(lang) or row["en"]
+
 
 SOURCE_LABEL: dict[str, dict[str, str]] = {
     "uscis_news": {"ko": "USCIS", "en": "USCIS", "es": "USCIS", "zh": "USCIS", "ja": "USCIS"},

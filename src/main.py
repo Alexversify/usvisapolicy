@@ -125,16 +125,45 @@ def run(cfg: dict[str, Any]) -> None:
                 "published": published,
                 "effective_date": data.get("effective_date") or it.get("effective_on"),
                 "importance": data.get("importance", "medium"),
+                "category": data.get("category") if data.get("category") in translate.CATEGORIES else "notice",
                 "tags": data.get("tags", [])[:8],
                 "langs": data["langs"],
-                "added": dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"),
+                "added": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
                 "model": cfg["model"],
             }
             store.save_article(it["id"], article)
-            index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "tags", "added")})
+            index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "tags", "added")})
 
+    backfill_categories(cfg, index)
     store.save_index(index)
     store.save_seen(seen)
+
+
+def backfill_categories(cfg: dict[str, Any], index: list[dict[str, Any]]) -> None:
+    """카테고리가 없는 기존 기사를 분류해 채웁니다. 한 번 채우면 다시 호출하지 않습니다."""
+    if not translate.enabled():
+        return
+    missing = []
+    for row in index:
+        if row.get("category"):
+            continue
+        a = store.load_article(row["id"])
+        if a:
+            en = a["langs"].get("en", {})
+            missing.append({"id": a["id"], "title": en.get("title") or a["original_title"], "summary": en.get("summary", "")})
+    if not missing:
+        return
+    print(f"  - 카테고리 보충 {len(missing)}건")
+    for i in range(0, len(missing), 40):
+        result = translate.classify(missing[i:i + 40], cfg["model"])
+        for row in index:
+            cat = result.get(row["id"])
+            if cat:
+                row["category"] = cat
+                a = store.load_article(row["id"])
+                if a:
+                    a["category"] = cat
+                    store.save_article(row["id"], a)
 
 
 def main() -> int:

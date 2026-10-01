@@ -38,6 +38,7 @@ Return ONLY a JSON object, no code fences, in this exact shape:
   "published": "YYYY-MM-DD or null (publication date stated in the source)",
   "effective_date": "YYYY-MM-DD or null (when the change takes effect, if stated)",
   "importance": "high | medium | low",
+  "category": "policy | fees | processing | enforcement | notice",
   "tags": ["short English tags such as H-1B, EB-5, Fees, Visa Bulletin, Travel Ban, TPS, Naturalization"],
   "langs": {
     "<lang code>": {
@@ -49,6 +50,12 @@ Return ONLY a JSON object, no code fences, in this exact shape:
     }
   }
 }
+category:
+- policy: new or changed rules, eligibility, policy manual updates, proclamations, executive orders, travel/entry restrictions, Visa Bulletin
+- fees: filing fees, visa fees, fee schedules, payment changes
+- processing: caps, filing locations, forms, processing times, appointments, system or operational notices
+- enforcement: fraud, criminal cases, arrests, prosecutions, denaturalization, investigations
+- notice: anything else (public access, delegations, general announcements)
 importance high = changes eligibility, fees, travel/entry, or deadlines for many people.
 """
 
@@ -110,3 +117,32 @@ def build(item: dict[str, Any], text: str, langs: list[str], model: str, source_
             elif isinstance(v, list):
                 loc[k] = [s.replace("—", ", ").replace("아울러 ", "") for s in v if isinstance(s, str)]
     return data
+
+
+CATEGORIES = ["policy", "fees", "processing", "enforcement", "notice"]
+
+CLASSIFY_SYSTEM = """Classify each U.S. immigration news item into exactly one category:
+policy (rules, eligibility, policy changes, proclamations, entry restrictions, Visa Bulletin),
+fees (filing or visa fees), processing (caps, forms, filing locations, processing, operations),
+enforcement (fraud, criminal cases, prosecutions, denaturalization), notice (anything else).
+Return ONLY a JSON object mapping id to category. No code fences."""
+
+
+def classify(items: list[dict[str, str]], model: str) -> dict[str, str]:
+    """카테고리가 없는 기존 기사를 한 번에 분류합니다. items: [{id, title, summary}]"""
+    if not items:
+        return {}
+    try:
+        msg = _client().messages.create(
+            model=model,
+            max_tokens=2000,
+            system=CLASSIFY_SYSTEM,
+            messages=[{"role": "user", "content": json.dumps(items, ensure_ascii=False)}],
+        )
+        raw = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
+        m = re.search(r"\{.*\}", raw, re.S)
+        data = json.loads(m.group(0)) if m else {}
+    except Exception as exc:  # noqa: BLE001
+        print(f"    ! 분류 실패: {exc}")
+        return {}
+    return {k: v for k, v in data.items() if v in CATEGORIES}
