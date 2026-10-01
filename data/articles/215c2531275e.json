@@ -1,0 +1,84 @@
+{
+  "id": "215c2531275e",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/news-releases/nigerian-alien-indicted-for-illegally-voting",
+  "original_title": "Nigerian Alien Indicted for Illegally Voting",
+  "published": "2026-09-25",
+  "effective_date": null,
+  "importance": "low",
+  "tags": [
+    "Immigration Fraud",
+    "Voter Fraud",
+    "Enforcement",
+    "Permanent Resident"
+  ],
+  "langs": {
+    "ko": {
+      "title": "나이지리아 국적 영주권자, 불법 투표 혐의로 기소",
+      "summary": "캔자스주 연방 대배심은 나이지리아 국적의 영주권자 조지 올라운미 존슨을 미국 시민권자라고 허위로 주장해 투표한 혐의로 기소했습니다. USCIS는 국토안보수사국의 수사에 협조했습니다.",
+      "points": [
+        "존슨은 2010년 2월 캔자스주 존슨카운티에서 유권자 등록 시 자신을 미국 시민이라고 허위로 밝혔다고 알려졌습니다.",
+        "2024년 11월에는 대통령, 부통령, 상원, 하원 선거가 포함된 투표를 한 것으로 알려졌습니다.",
+        "그는 시민권 허위 주장, 투표를 위한 시민권 허위 주장, 부정선거 행위, 외국인의 연방 선거 투표 등 총 4개 혐의로 기소되었습니다.",
+        "국토안보수사국이 이 사건을 수사했으며 USCIS가 수사를 지원했습니다.",
+        "캔자스주 연방검찰청이 이번 기소 사실을 발표했습니다."
+      ],
+      "who": "미국 시민권자가 아니면서 시민권자로 허위 주장해 투표에 참여한 영주권자 등 외국인이 해당됩니다.",
+      "action": "이민 혜택 관련 사기나 남용이 의심되는 경우 USCIS Tip Form을 통해 신고할 수 있습니다."
+    },
+    "en": {
+      "title": "Nigerian National Indicted for Falsely Claiming Citizenship to Vote",
+      "summary": "A federal grand jury in Kansas indicted George Olawunmi Johnson, a Nigerian national and lawful permanent resident, for falsely claiming U.S. citizenship to register and vote in elections. USCIS assisted Homeland Security Investigations in the case.",
+      "points": [
+        "Johnson allegedly falsely claimed U.S. citizenship when registering to vote in Johnson County, Kansas, in February 2010.",
+        "He allegedly cast a ballot in November 2024 in a federal election involving president, vice president, Senate, and House races.",
+        "He faces four charges: false claim to citizenship, false claim to citizenship to vote, fraudulent election conduct, and voting by an alien in a federal election.",
+        "Homeland Security Investigations led the investigation, with assistance from USCIS.",
+        "The indictment was announced by the U.S. Attorney's Office for the District of Kansas."
+      ],
+      "who": "The case concerns a lawful permanent resident accused of falsely claiming U.S. citizenship to vote in federal elections.",
+      "action": "Anyone suspecting immigration benefit fraud or abuse can report it to USCIS using the USCIS Tip Form."
+    },
+    "es": {
+      "title": "Ciudadano nigeriano acusado por votar ilegalmente tras afirmar falsamente ser ciudadano estadounidense",
+      "summary": "Un gran jurado federal en Kansas acusó a George Olawunmi Johnson, nacional de Nigeria y residente permanente legal, de afirmar falsamente ser ciudadano estadounidense para registrarse y votar en elecciones. USCIS colaboró con Homeland Security Investigations en el caso.",
+      "points": [
+        "Según el expediente, Johnson afirmó falsamente ser ciudadano estadounidense al registrarse para votar en el condado de Johnson, Kansas, en febrero de 2010.",
+        "Se le acusa de haber votado en noviembre de 2024 en una elección federal que incluía los cargos de presidente, vicepresidente, Senado y Cámara de Representantes.",
+        "Enfrenta cuatro cargos: afirmación falsa de ciudadanía, afirmación falsa de ciudadanía para votar, conducta electoral fraudulenta y voto de un extranjero en una elección federal.",
+        "Homeland Security Investigations dirigió la investigación, con apoyo de USCIS.",
+        "La fiscalía federal del Distrito de Kansas anunció la acusación."
+      ],
+      "who": "El caso involucra a un residente permanente legal acusado de afirmar falsamente ser ciudadano estadounidense para votar en elecciones federales.",
+      "action": "Quien sospeche de fraude o abuso de beneficios migratorios puede reportarlo a USCIS mediante el USCIS Tip Form."
+    },
+    "zh": {
+      "title": "尼日利亚籍人士因谎称美国公民身份非法投票被起诉",
+      "summary": "堪萨斯州联邦大陪审团起诉尼日利亚籍合法永久居民乔治·奥拉温米·约翰逊,指控其谎称美国公民身份进行选民登记并投票。USCIS协助了国土安全调查局的调查工作。",
+      "points": [
+        "据称约翰逊于2010年2月在堪萨斯州约翰逊县登记选民时谎称自己是美国公民。",
+        "据称他于2024年11月在一次联邦选举中投票,该选举涉及总统、副总统、参议院和众议院席位。",
+        "他面临四项指控,包括虚假声称公民身份、为投票而虚假声称公民身份、欺诈性选举行为以及外国人参与联邦选举投票。",
+        "此案由国土安全调查局主导调查,USCIS提供了协助。",
+        "堪萨斯联邦检察官办公室宣布了此次起诉。"
+      ],
+      "who": "此案涉及一名被控谎称美国公民身份以参与联邦选举投票的合法永久居民。",
+      "action": "如发现涉嫌移民福利欺诈或滥用行为,可通过USCIS Tip Form向USCIS举报。"
+    },
+    "ja": {
+      "title": "ナイジェリア国籍者、米国市民権を偽って投票した疑いで起訴",
+      "summary": "カンザス州の連邦大陪審は、ナイジェリア国籍の合法永住者ジョージ・オラウンミ・ジョンソン氏を、米国市民であると偽って有権者登録と投票を行った疑いで起訴しました。USCISは国土安全保障調査局の捜査に協力しました。",
+      "points": [
+        "ジョンソン氏は2010年2月、カンザス州ジョンソン郡で有権者登録を行う際、米国市民であると偽って申告したとされています。",
+        "2024年11月には、大統領、副大統領、上院、下院選挙を含む連邦選挙で投票したとされています。",
+        "同氏は市民権の虚偽申告、投票目的での市民権虚偽申告、不正選挙行為、外国人による連邦選挙投票の4つの罪に問われています。",
+        "本件は国土安全保障調査局が主導して捜査し、USCISが協力しました。",
+        "起訴はカンザス州連邦検事局により発表されました。"
+      ],
+      "who": "米国市民であると偽って連邦選挙で投票したとされる合法永住者に関する事案です。",
+      "action": "移民給付に関する不正や悪用が疑われる場合は、USCIS Tip Formを通じてUSCISに報告することができます。"
+    }
+  },
+  "added": "2026-10-01T07:35Z",
+  "model": "claude-sonnet-5"
+}

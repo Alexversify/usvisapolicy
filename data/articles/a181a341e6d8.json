@@ -1,0 +1,87 @@
+{
+  "id": "a181a341e6d8",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
+  "original_title": "USCIS Announces FY 2027 Inflation Increase for Certain Immigration-Related Fees",
+  "published": "2026-09-30",
+  "effective_date": "2026-10-16",
+  "importance": "medium",
+  "tags": [
+    "Fees",
+    "Asylum",
+    "TPS",
+    "Parole",
+    "Form I-765",
+    "Form I-131",
+    "Form I-821"
+  ],
+  "langs": {
+    "en": {
+      "title": "USCIS Announces FY 2027 Inflation Adjustment for Certain H.R. 1 Immigration Fees",
+      "summary": "USCIS has published a Federal Register notice raising certain H.R. 1 immigration-related fees for fiscal year 2027 to account for inflation from July 2025 through July 2026. The new fees take effect on Oct. 16, 2026, and apply to requests postmarked on or after that date.",
+      "points": [
+        "The Annual Asylum Application Fee increases from $102 to $105.",
+        "The Form I-131 Immigration Parole Fee increases from $1,020 to $1,050.",
+        "The Form I-765 fee for initial Asylum, Parole, and TPS Employment Authorization Documents increases from $560 to $570.",
+        "The Form I-821 Application for Temporary Protected Status fee increases from $510 to $520.",
+        "Requests postmarked on or after Oct. 16, 2026, without the correct fee will be rejected."
+      ],
+      "who": "Applicants for asylum, parole documents, initial asylum/parole/TPS employment authorization, and TPS registration.",
+      "action": "Confirm the correct fee amount before filing any request postmarked on or after Oct. 16, 2026, for the affected benefits."
+    },
+    "ko": {
+      "title": "USCIS, 2027 회계연도 일부 이민 수수료 물가연동 인상 발표",
+      "summary": "USCIS가 연방관보 공고를 통해 H.R. 1에 따른 일부 이민 관련 수수료를 2027 회계연도에 맞춰 인상한다고 밝혔습니다. 이번 조정은 2025년 7월부터 2026년 7월까지의 물가 상승을 반영한 것이며 2026년 10월 16일부터 적용됩니다.",
+      "points": [
+        "연간 망명 신청 수수료가 102달러에서 105달러로 인상됩니다.",
+        "Form I-131 여행증명서, 가석방 서류, 출입국기록 신청 중 이민 가석방 수수료가 1,020달러에서 1,050달러로 인상됩니다.",
+        "망명 신청자, 가석방, TPS 관련 최초 고용허가서(EAD) 신청에 적용되는 Form I-765 수수료가 560달러에서 570달러로 인상됩니다.",
+        "Form I-821 임시보호신분(TPS) 신청 수수료가 510달러에서 520달러로 인상됩니다.",
+        "2026년 10월 16일 이후 소인이 찍힌 신청서에 정확한 수수료가 포함되지 않으면 접수가 거부됩니다."
+      ],
+      "who": "망명 신청자, 가석방 서류 신청자, 최초 고용허가서(EAD) 신청자, TPS 등록 신청자 등이 영향을 받습니다.",
+      "action": "2026년 10월 16일 이후 소인으로 서류를 제출할 경우 해당 수수료가 인상된 금액으로 적용되는지 반드시 확인해야 합니다."
+    },
+    "es": {
+      "title": "USCIS anuncia ajuste por inflación de ciertas tarifas migratorias para el año fiscal 2027",
+      "summary": "USCIS publicó un aviso en el Registro Federal que aumenta ciertas tarifas migratorias establecidas por la H.R. 1 para el año fiscal 2027, en función de la inflación registrada entre julio de 2025 y julio de 2026. Las nuevas tarifas entran en vigor el 16 de octubre de 2026 y aplican a solicitudes con matasellos a partir de esa fecha.",
+      "points": [
+        "La tarifa anual de solicitud de asilo aumenta de $102 a $105.",
+        "La tarifa de libertad condicional migratoria del Formulario I-131 aumenta de $1,020 a $1,050.",
+        "La tarifa del Formulario I-765 para el permiso de trabajo inicial de asilo, libertad condicional o TPS aumenta de $560 a $570.",
+        "La tarifa del Formulario I-821 para la solicitud de Estatus de Protección Temporal (TPS) aumenta de $510 a $520.",
+        "Las solicitudes con matasellos a partir del 16 de octubre de 2026 que no incluyan la tarifa correcta serán rechazadas."
+      ],
+      "who": "Solicitantes de asilo, de documentos de libertad condicional, de permisos de trabajo iniciales relacionados con asilo, libertad condicional o TPS, y solicitantes de TPS.",
+      "action": "Verificar el monto correcto de la tarifa antes de presentar cualquier solicitud con matasellos a partir del 16 de octubre de 2026."
+    },
+    "zh": {
+      "title": "USCIS宣布2027财年部分移民相关费用因通胀上调",
+      "summary": "USCIS发布联邦公报通知,将根据H.R. 1法案对2027财年部分移民相关费用进行通胀调整,调整幅度反映2025年7月至2026年7月的通胀情况。新费用将于2026年10月16日生效,适用于该日期或之后邮戳的申请。",
+      "points": [
+        "年度庇护申请费用从102美元上调至105美元。",
+        "I-131表格(旅行证件、假释文件及出入境记录申请)中的移民假释费用从1,020美元上调至1,050美元。",
+        "I-765表格中首次申请庇护、假释或TPS工作许可(EAD)的费用从560美元上调至570美元。",
+        "I-821表格(临时保护身份TPS申请)费用从510美元上调至520美元。",
+        "2026年10月16日及以后邮戳的申请如未缴纳正确费用,将被退回。"
+      ],
+      "who": "影响庇护申请人、假释文件申请人、首次申请庇护/假释/TPS工作许可者以及TPS申请人。",
+      "action": "在2026年10月16日及以后提交相关申请前,应确认所需缴纳的最新费用金额。"
+    },
+    "ja": {
+      "title": "USCIS、2027会計年度の一部移民関連手数料をインフレ調整し引き上げへ",
+      "summary": "USCISは連邦官報告示を通じて、H.R. 1に基づく一部移民関連手数料を2027会計年度に向けてインフレ調整すると発表しました。この調整は2025年7月から2026年7月までの物価上昇を反映したもので、新料金は2026年10月16日から適用されます。",
+      "points": [
+        "年次亡命申請手数料は102ドルから105ドルに引き上げられます。",
+        "Form I-131(旅行証明書、仮放免文書、出入国記録申請)の仮放免手数料は1,020ドルから1,050ドルに引き上げられます。",
+        "亡命申請者、仮放免、TPS関連の初回就労許可証(EAD)に適用されるForm I-765の手数料は560ドルから570ドルに引き上げられます。",
+        "Form I-821(一時保護身分TPS申請)の手数料は510ドルから520ドルに引き上げられます。",
+        "2026年10月16日以降の消印の申請で正しい手数料が含まれていない場合、申請は却下されます。"
+      ],
+      "who": "亡命申請者、仮放免文書の申請者、初回就労許可証(EAD)の申請者、TPS申請者が対象です。",
+      "action": "2026年10月16日以降の消印で申請する場合は、最新の手数料額を事前に確認する必要があります。"
+    }
+  },
+  "added": "2026-10-01T07:33Z",
+  "model": "claude-sonnet-5"
+}

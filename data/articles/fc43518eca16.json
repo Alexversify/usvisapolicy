@@ -1,0 +1,90 @@
+{
+  "id": "fc43518eca16",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19223/public-access-to-information",
+  "original_title": "Public Access to Information",
+  "published": "2026-09-21",
+  "effective_date": "2026-10-21",
+  "importance": "medium",
+  "tags": [
+    "FOIA",
+    "Visa Records",
+    "State Department",
+    "Privacy Act",
+    "Public Access"
+  ],
+  "langs": {
+    "ko": {
+      "title": "국무부, 정보공개(FOIA) 규정 개정, 비자 기록 요청 방법 구체화",
+      "summary": "국무부는 22 CFR Part 171을 개정해 FOIA 및 개인정보보호법에 따른 정보공개 요청 절차를 정비했습니다. 이번 개정은 이메일 등 전자 제출 방식을 반영하고, 비자 기록을 요청할 때 제출해야 하는 구체적인 정보를 명시합니다. 규정은 2026년 10월 21일부터 시행됩니다.",
+      "points": [
+        "국무부는 FOIA Improvement Act of 2016을 반영해 FOIA 규정 22 CFR Part 171을 전면 개정했습니다.",
+        "정보공개 요청자는 요청 전 국무부 웹사이트나 FOIA 라이브러리에서 자료가 이미 공개되어 있는지 먼저 확인하도록 권고됩니다.",
+        "정보공개 및 개인정보보호법(Privacy Act) 요청은 국무부 FOIA 웹사이트, National FOIA Portal(www.foia.gov) 또는 우편으로 제출해야 합니다.",
+        "비자 기록을 요청할 경우 신청자 및 청원인의 성명, 사용한 가명, 현재 주소, 이메일, 출생일 및 출생지(도시, 주, 국가)를 포함해야 합니다.",
+        "본인 확인 절차와 관련 조항(Sec. 171.22)도 정리되어 요청자가 신원 확인에 필요한 정보를 더 명확히 알 수 있게 되었습니다.",
+        "이번 개정은 행정절차법상 통지 및 의견수렴 절차가 면제되는 기관 내부 절차 변경으로 처리되었습니다."
+      ],
+      "who": "국무부에 비자 기록이나 기타 자료에 대한 FOIA 또는 개인정보보호법 요청을 제출하려는 신청자, 청원인, 변호사 및 일반 대중이 영향을 받습니다.",
+      "action": "비자 기록 등 국무부 자료를 요청할 계획이 있다면 2026년 10월 21일 시행일 이후 새 규정에 따라 요구되는 정보(성명, 주소, 이메일, 출생일 및 출생지 등)를 준비해 국무부 FOIA 웹사이트를 통해 제출하는 것이 바람직합니다."
+    },
+    "en": {
+      "title": "State Department Updates FOIA Rules, Clarifies Requirements for Visa Record Requests",
+      "summary": "The State Department has revised its public access to information regulations at 22 CFR Part 171 to reflect changes in agency organization and procedures, including electronic submission of requests. The rule updates how requesters should describe records sought and consolidates identity verification requirements. It takes effect on October 21, 2026.",
+      "points": [
+        "The final rule implements the FOIA Improvement Act of 2016 and updates 22 CFR Part 171.",
+        "Requesters are encouraged to check the Department's website or FOIA Library before filing a request.",
+        "Requests must be submitted via the Department's FOIA website, the National FOIA Portal (www.foia.gov), or by mail.",
+        "Requests for visa records must include the applicant's and petitioner's full name, any aliases, current address, email, and date and place of birth.",
+        "Identity verification procedures under the Privacy Act are consolidated for clarity.",
+        "The rule was exempt from notice and comment because it concerns agency organization and procedure."
+      ],
+      "who": "Individuals, petitioners, attorneys, and others who submit FOIA or Privacy Act requests to the State Department, including requests for visa records.",
+      "action": "Anyone planning to request visa or other records from the State Department should prepare the specific information required under the new rule, such as full name, aliases, address, email, and date and place of birth, and submit requests through the Department's FOIA website after the October 21, 2026 effective date."
+    },
+    "es": {
+      "title": "El Departamento de Estado actualiza sus reglas de FOIA y precisa requisitos para solicitar registros de visa",
+      "summary": "El Departamento de Estado revisó su reglamento sobre acceso público a la información en 22 CFR Part 171 para reflejar cambios en su organización y procedimientos, incluido el uso de medios electrónicos para presentar solicitudes. La norma también detalla qué información se debe incluir al solicitar registros de visa. Entra en vigor el 21 de octubre de 2026.",
+      "points": [
+        "La norma final implementa la FOIA Improvement Act of 2016 y actualiza el reglamento 22 CFR Part 171.",
+        "Se recomienda a los solicitantes verificar primero si la información buscada ya está disponible en el sitio web del Departamento o en la FOIA Library.",
+        "Las solicitudes deben presentarse a través del sitio web de FOIA del Departamento, el National FOIA Portal (www.foia.gov), o por correo postal.",
+        "Las solicitudes de registros de visa deben incluir el nombre completo del solicitante y del peticionario, alias utilizados, dirección actual, correo electrónico, y fecha y lugar de nacimiento.",
+        "Se consolidan los procedimientos de verificación de identidad bajo la Privacy Act para mayor claridad.",
+        "La norma estuvo exenta del proceso de notificación y comentario público porque se refiere a la organización y procedimientos internos de la agencia."
+      ],
+      "who": "Personas, peticionarios, abogados y cualquier solicitante que presente solicitudes de FOIA o de la Privacy Act al Departamento de Estado, incluidas solicitudes de registros de visa.",
+      "action": "Quienes planeen solicitar registros de visa u otra información al Departamento de Estado deben preparar la información exigida por la nueva norma, como nombre completo, alias, dirección, correo electrónico, y fecha y lugar de nacimiento, y presentar la solicitud a través del sitio web de FOIA del Departamento a partir del 21 de octubre de 2026."
+    },
+    "zh": {
+      "title": "美国国务院更新FOIA信息公开规定,明确签证记录申请要求",
+      "summary": "美国国务院修订了其关于公众获取信息的规定,即22 CFR第171部分,以反映机构组织和程序的变化,包括允许以电子方式提交申请。新规还明确了申请签证记录时需提供的具体信息,并整合了身份验证程序。该规则将于2026年10月21日起生效。",
+      "points": [
+        "最终规则落实了2016年《FOIA改进法》,更新了22 CFR第171部分的规定。",
+        "国务院鼓励申请人在提交申请前先查看国务院网站或FOIA资料库,确认所需信息是否已公开。",
+        "申请须通过国务院FOIA网站、国家FOIA门户(www.foia.gov)或邮寄方式提交。",
+        "申请签证记录时需提供申请人及请愿人的全名、曾用别名、现居地址、电子邮箱以及出生日期和出生地。",
+        "根据《隐私法》进行身份验证的相关程序已被整合,以便申请人更清楚了解所需信息。",
+        "由于该规则涉及机构内部组织和程序,依法免于公告和征求意见程序。"
+      ],
+      "who": "该规定影响向国务院提交FOIA或隐私法信息公开申请的个人、请愿人、律师以及其他申请签证记录的公众。",
+      "action": "计划向国务院申请签证记录或其他信息的人员,应在2026年10月21日新规生效后,按要求准备全名、别名、地址、电子邮箱及出生日期和地点等信息,并通过国务院FOIA网站提交申请。"
+    },
+    "ja": {
+      "title": "米国務省、FOIA情報公開規則を改定、ビザ記録請求の要件を明確化",
+      "summary": "米国務省は、公的情報へのアクセスに関する規則(22 CFR第171部)を改定し、機関の組織や手続きの変化、電子メールによる請求受付などを反映しました。改定では、ビザ記録を請求する際に必要な具体的情報も明記されています。本規則は2026年10月21日に施行されます。",
+      "points": [
+        "最終規則は2016年FOIA改善法を実施し、22 CFR第171部を更新するものです。",
+        "請求前に国務省ウェブサイトまたはFOIAライブラリーで情報が既に公開されていないか確認するよう推奨されています。",
+        "請求は国務省のFOIAウェブサイト、全国FOIAポータル(www.foia.gov)、または郵送で提出する必要があります。",
+        "ビザ記録の請求には、申請者および申請人(petitioner)の氏名、使用した別名、現住所、メールアドレス、出生日と出生地を含める必要があります。",
+        "プライバシー法に基づく本人確認手続きが整理され、請求者が必要情報をより理解しやすくなりました。",
+        "本規則は機関の組織及び手続きに関するものであるため、意見公募手続きの対象から除外されています。"
+      ],
+      "who": "ビザ記録を含む情報公開請求やプライバシー法に基づく請求を国務省に提出する個人、申請人、弁護士などが対象です。",
+      "action": "国務省にビザ記録などの情報を請求する予定がある場合は、2026年10月21日の施行後、氏名、別名、住所、メールアドレス、出生日と出生地などの必要情報を準備し、国務省のFOIAウェブサイトを通じて請求することが推奨されます。"
+    }
+  },
+  "added": "2026-10-01T07:39Z",
+  "model": "claude-sonnet-5"
+}

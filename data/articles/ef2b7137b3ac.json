@@ -1,0 +1,89 @@
+{
+  "id": "ef2b7137b3ac",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/news-releases/aliens-charged-with-illegally-voting-and-making-false-statements-while-applying-for-us-citizenship",
+  "original_title": "Aliens Charged with Illegally Voting and Making False Statements While Applying for US Citizenship",
+  "published": "2026-09-25",
+  "effective_date": null,
+  "importance": "medium",
+  "tags": [
+    "Naturalization",
+    "N-400",
+    "Fraud",
+    "Election Integrity"
+  ],
+  "langs": {
+    "ko": {
+      "title": "뉴저지서 불법 투표 및 시민권 신청 허위진술 혐의로 외국인 2명 기소",
+      "summary": "USCIS가 수사에 참여한 사건으로, 뉴저지 거주 자메이카 출신과 베네수엘라 출신 외국인 각 1명이 연방 선거에서 불법 투표하고 N-400 시민권 신청서에 허위 진술을 한 혐의로 기소되었습니다. 두 사람 모두 투표 당시 미국 시민이 아니었으며, 이후 시민권 신청 과정에서 투표 이력을 숨긴 것으로 알려졌습니다.",
+      "points": [
+        "자메이카 출신 패트릭 테런스 레이드(61)와 베네수엘라 출신 다누비스 베르나트(49)가 각각 별도 혐의로 기소되었습니다.",
+        "두 사람은 미국 시민이 아님에도 유권자 등록 시 시민이라고 허위로 서약한 것으로 나타났습니다.",
+        "레이드는 2012년, 2016년, 2020년, 2024년 대통령 선거에 투표했고, 베르나트는 2024년 총선에서 투표했습니다.",
+        "이후 두 사람은 Form N-400 시민권 신청서를 제출하면서 투표 등록이나 투표 사실이 없다고 허위로 진술했습니다.",
+        "외국인의 불법 투표 혐의는 최대 징역 1년과 벌금 10만 달러, 허위 진술 혐의는 최대 징역 10년과 벌금 25만 달러에 처해질 수 있습니다.",
+        "현재 혐의는 공소 단계이며, 두 피고인은 유죄가 확정되기 전까지 무죄로 추정됩니다."
+      ],
+      "who": "미국 시민권이 없는 상태에서 투표하거나 시민권 신청 과정에서 투표 이력을 허위로 기재한 외국인 신청자와 관련된 사건입니다.",
+      "action": "N-400 신청 시 투표 이력 등 모든 정보를 사실대로 기재해야 하며, 의심되는 이민 혜택 관련 사기나 부정행위는 USCIS Tip Form을 통해 신고할 수 있습니다."
+    },
+    "en": {
+      "title": "Two Aliens Charged in New Jersey With Illegal Voting and False Statements on N-400",
+      "summary": "USCIS assisted an investigation that led to charges against a Jamaican national and a Venezuelan national living in New Jersey, accused of voting in federal elections while not U.S. citizens and lying about it on their naturalization applications. Both allegedly certified falsely on voter registration forms that they were citizens and later denied voting history on Form N-400.",
+      "points": [
+        "Patrick Terrance Reid, 61, and Danubis Bernat, 49, were each charged by separate complaints in the District of New Jersey.",
+        "Neither was a U.S. citizen at the time they registered to vote or cast ballots in federal elections.",
+        "Reid voted in the 2012, 2016, 2020 and 2024 presidential elections; Bernat voted in the 2024 general election.",
+        "Both later filed Form N-400 and falsely claimed they had never registered to vote or voted in federal elections.",
+        "Illegal voting by an alien carries up to 1 year in prison and a $100,000 fine; false statements on a naturalization application carry up to 10 years in prison and a $250,000 fine.",
+        "The charges are accusations only, and both defendants are presumed innocent unless proven guilty."
+      ],
+      "who": "Noncitizens who vote in federal elections or make false statements on naturalization applications, and anyone involved in USCIS naturalization or voter fraud investigations.",
+      "action": "Applicants must answer all questions on Form N-400 truthfully, including any history of voter registration or voting, and suspected immigration benefit fraud can be reported through the USCIS Tip Form."
+    },
+    "es": {
+      "title": "Dos extranjeros acusados en Nueva Jersey de votar ilegalmente y mentir en su solicitud de ciudadanía",
+      "summary": "Con apoyo de USCIS en la investigación, un hombre de origen jamaiquino y una mujer de origen venezolano, ambos residentes de Nueva Jersey, fueron acusados de votar en elecciones federales sin ser ciudadanos estadounidenses y de mentir al respecto en su solicitud de naturalización. Ambos habrían certificado falsamente ser ciudadanos al registrarse para votar y luego negaron haber votado al presentar el Formulario N-400.",
+      "points": [
+        "Patrick Terrance Reid, de 61 años, y Danubis Bernat, de 49 años, fueron acusados mediante denuncias separadas en el Distrito de Nueva Jersey.",
+        "Ninguno de los dos era ciudadano estadounidense cuando se registraron para votar ni cuando emitieron sus votos en elecciones federales.",
+        "Reid votó en las elecciones presidenciales de 2012, 2016, 2020 y 2024; Bernat votó en las elecciones generales de 2024.",
+        "Posteriormente, ambos presentaron el Formulario N-400 y afirmaron falsamente que nunca se habían registrado para votar ni habían votado en elecciones federales.",
+        "Votar ilegalmente como extranjero conlleva una pena máxima de 1 año de prisión y una multa de 100,000 dólares; hacer declaraciones falsas en la solicitud de naturalización conlleva hasta 10 años de prisión y una multa de 250,000 dólares.",
+        "Los cargos son solo acusaciones, y ambos acusados se presumen inocentes hasta que se demuestre lo contrario."
+      ],
+      "who": "Personas extranjeras que votan en elecciones federales sin ser ciudadanas o que hacen declaraciones falsas en solicitudes de naturalización, así como quienes participan en procesos de naturalización ante USCIS.",
+      "action": "Los solicitantes deben responder con veracidad todas las preguntas del Formulario N-400, incluyendo cualquier historial de registro o voto, y los casos sospechosos de fraude migratorio pueden reportarse mediante el USCIS Tip Form."
+    },
+    "zh": {
+      "title": "新泽西两名外国人被控非法投票及在入籍申请中作虚假陈述",
+      "summary": "在USCIS协助调查下,一名牙买加籍男子和一名委内瑞拉籍女子在新泽西被分别起诉,指控他们在非美国公民身份下参与联邦选举投票,并在入籍申请中就此作虚假陈述。两人均被指在选民登记表上谎称自己是美国公民,后又在N-400表格中否认曾登记或投票。",
+      "points": [
+        "61岁的Patrick Terrance Reid和49岁的Danubis Bernat分别在新泽西地区被起诉,案件各自独立提出。",
+        "两人在登记投票及实际投票时均不是美国公民。",
+        "Reid曾在2012年、2016年、2020年及2024年总统选举中投票,Bernat曾在2024年大选中投票。",
+        "此后两人提交Form N-400入籍申请,并在表格中谎称从未登记或参与联邦选举投票。",
+        "外国人非法投票最高可判处1年监禁及10万美元罚款,入籍申请中作虚假陈述最高可判处10年监禁及25万美元罚款。",
+        "目前指控仅为起诉阶段,两名被告在被证明有罪之前均被推定无罪。"
+      ],
+      "who": "涉及非美国公民参与联邦选举投票,或在入籍申请中作虚假陈述的外国人,以及参与USCIS入籍审查程序的相关人士。",
+      "action": "申请人应在Form N-400中如实填写包括选民登记或投票历史在内的所有信息,如怀疑存在移民福利欺诈行为,可通过USCIS Tip Form进行举报。"
+    },
+    "ja": {
+      "title": "ニュージャージー州で外国人2人が不正投票と市民権申請での虚偽申告の罪で起訴",
+      "summary": "USCISが捜査に協力した本件では、ニュージャージー州在住のジャマイカ出身男性とベネズエラ出身女性が、米国市民でないにもかかわらず連邦選挙で投票し、帰化申請書類でその事実を偽ったとして、それぞれ別個の訴状で起訴されました。両名は有権者登録時に市民であると虚偽の宣誓をし、その後N-400申請書でも投票歴を否定していたとされます。",
+      "points": [
+        "61歳のPatrick Terrance Reid氏と49歳のDanubis Bernat氏が、それぞれ別個の訴状でニュージャージー州地区にて起訴されました。",
+        "両名とも、有権者登録時および実際の投票時に米国市民ではありませんでした。",
+        "Reid氏は2012年、2016年、2020年、2024年の大統領選挙で投票し、Bernat氏は2024年の総選挙で投票しました。",
+        "その後両名はForm N-400を提出し、選挙人登録や投票歴がないと虚偽の申告をしました。",
+        "外国人による不正投票は最大懲役1年および罰金10万ドル、帰化申請における虚偽申告は最大懲役10年および罰金25万ドルが科され得ます。",
+        "現時点での容疑は起訴段階にとどまり、両被告は有罪が確定するまで無罪と推定されます。"
+      ],
+      "who": "米国市民でないまま連邦選挙で投票した、または帰化申請で虚偽の申告を行った外国人、ならびにUSCISの帰化審査に関わる人々が対象です。",
+      "action": "申請者はForm N-400において投票登録や投票歴を含むすべての情報を正確に記載する必要があり、移民給付に関する不正が疑われる場合はUSCIS Tip Formを通じて通報できます。"
+    }
+  },
+  "added": "2026-10-01T07:35Z",
+  "model": "claude-sonnet-5"
+}

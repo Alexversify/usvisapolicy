@@ -1,1 +1,238 @@
-[]
+[
+  {
+    "id": "a181a341e6d8",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
+    "published": "2026-09-30",
+    "effective_date": "2026-10-16",
+    "importance": "medium",
+    "tags": [
+      "Fees",
+      "Asylum",
+      "TPS",
+      "Parole",
+      "Form I-765",
+      "Form I-131",
+      "Form I-821"
+    ],
+    "added": "2026-10-01T07:33Z"
+  },
+  {
+    "id": "cdd3348ed453",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-florida-investigation-leading-to-charges-for-unlawful-voting",
+    "published": "2026-09-29",
+    "effective_date": null,
+    "importance": "medium",
+    "tags": [
+      "Voter Fraud",
+      "Enforcement",
+      "Lawful Permanent Residents",
+      "Immigration Fraud",
+      "Florida"
+    ],
+    "added": "2026-10-01T07:34Z"
+  },
+  {
+    "id": "d0ab52185851",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-adjusts-eb-5-fees-to-cover-program-costs-and-strengthen-integrity-measures",
+    "published": "2026-09-29",
+    "effective_date": "2026-11-30",
+    "importance": "high",
+    "tags": [
+      "EB-5",
+      "Fees",
+      "USCIS",
+      "Immigrant Investor"
+    ],
+    "added": "2026-10-01T07:33Z"
+  },
+  {
+    "id": "4b18808fe0e5",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-convicted-for-international-alien-smuggling-and-money-laundering-conspiracy",
+    "published": "2026-09-28",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Fraud",
+      "Alien Smuggling",
+      "ESTA",
+      "Money Laundering",
+      "USCIS"
+    ],
+    "added": "2026-10-01T07:34Z"
+  },
+  {
+    "id": "5ba2579d7496",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/romanian-alien-admits-conspiring-to-commit-marriage-fraud",
+    "published": "2026-09-25",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Marriage Fraud",
+      "USCIS",
+      "Enforcement",
+      "Criminal Case"
+    ],
+    "added": "2026-10-01T07:36Z"
+  },
+  {
+    "id": "ef2b7137b3ac",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/aliens-charged-with-illegally-voting-and-making-false-statements-while-applying-for-us-citizenship",
+    "published": "2026-09-25",
+    "effective_date": null,
+    "importance": "medium",
+    "tags": [
+      "Naturalization",
+      "N-400",
+      "Fraud",
+      "Election Integrity"
+    ],
+    "added": "2026-10-01T07:35Z"
+  },
+  {
+    "id": "215c2531275e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/nigerian-alien-indicted-for-illegally-voting",
+    "published": "2026-09-25",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Immigration Fraud",
+      "Voter Fraud",
+      "Enforcement",
+      "Permanent Resident"
+    ],
+    "added": "2026-10-01T07:35Z"
+  },
+  {
+    "id": "27a836395697",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19554/restriction-on-entry-of-certain-nonimmigrant-workers",
+    "published": "2026-09-23",
+    "effective_date": "2026-09-21",
+    "importance": "high",
+    "tags": [
+      "H-1B",
+      "Proclamation",
+      "Travel Restriction",
+      "Immigration Policy",
+      "Nonimmigrant Workers"
+    ],
+    "added": "2026-10-01T07:38Z"
+  },
+  {
+    "id": "50c91111157c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/man-charged-with-naturalization-fraud-three-others-face-denaturalization",
+    "published": "2026-09-23",
+    "effective_date": null,
+    "importance": "medium",
+    "tags": [
+      "Naturalization",
+      "Denaturalization",
+      "Fraud",
+      "USCIS"
+    ],
+    "added": "2026-10-01T07:37Z"
+  },
+  {
+    "id": "3ec626692258",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19555/enhancing-program-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b",
+    "published": "2026-09-23",
+    "effective_date": "2026-09-18",
+    "importance": "high",
+    "tags": [
+      "H-1B",
+      "Executive Order",
+      "Program Integrity",
+      "LCA",
+      "DOL",
+      "DHS",
+      "DOS"
+    ],
+    "added": "2026-10-01T07:37Z"
+  },
+  {
+    "id": "dff3218400ab",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/haitian-alien-pleads-guilty-to-illegally-voting-in-2024-election",
+    "published": "2026-09-23",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Fraud",
+      "Enforcement",
+      "Naturalization",
+      "Voting"
+    ],
+    "added": "2026-10-01T07:36Z"
+  },
+  {
+    "id": "06f0bdf2490f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/chinese-aliens-indicted-on-naturalization-and-firearms-charges",
+    "published": "2026-09-22",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Naturalization",
+      "Fraud",
+      "Firearms",
+      "Enforcement",
+      "USCIS"
+    ],
+    "added": "2026-10-01T07:39Z"
+  },
+  {
+    "id": "fc43518eca16",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19223/public-access-to-information",
+    "published": "2026-09-21",
+    "effective_date": "2026-10-21",
+    "importance": "medium",
+    "tags": [
+      "FOIA",
+      "Visa Records",
+      "State Department",
+      "Privacy Act",
+      "Public Access"
+    ],
+    "added": "2026-10-01T07:39Z"
+  },
+  {
+    "id": "6d1fe2ac80df",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18958/delegation-of-authority-for-visa-bond-waivers",
+    "published": "2026-09-16",
+    "effective_date": null,
+    "importance": "low",
+    "tags": [
+      "Visa Bond",
+      "State Department",
+      "Delegation of Authority",
+      "Consular Affairs"
+    ],
+    "added": "2026-10-01T07:40Z"
+  },
+  {
+    "id": "04fd05d1667d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2027",
+    "published": "2026-09-11",
+    "effective_date": "2026-09-04",
+    "importance": "high",
+    "tags": [
+      "H-2B",
+      "Cap",
+      "Nonimmigrant Visa",
+      "Seasonal Workers"
+    ],
+    "added": "2026-10-01T07:40Z"
+  }
+]
