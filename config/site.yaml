@@ -23,7 +23,7 @@ cta:
 # endpoint가 있으면 사이트 우하단 피드백 버튼이 이 주소로 POST 합니다.
 # 비우면 메일 작성 화면으로 떨어집니다.
 feedbal:
-  endpoint: "https://feedbal.com/api/feedback"
+  endpoint: "/feedback"
   site_key: usvisapolicy
   # feedbal.com이 제공하는 위젯 스크립트가 있다면 여기에 넣습니다.
   # 값이 있으면 자체 버튼 대신 이 스크립트를 씁니다.
