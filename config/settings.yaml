@@ -1,0 +1,61 @@
+# 수집 대상과 번역 설정. 소스를 추가하거나 빼려면 여기만 고치면 됩니다.
+
+# 번역·요약 모델. 비용을 줄이려면 하위 모델로 바꿉니다.
+model: claude-sonnet-5
+
+# 한 번 실행에 새로 번역할 최대 건수. API 비용 상한 역할을 합니다.
+max_new_per_run: 15
+
+# 최초 실행 시 거슬러 올라갈 기간(일). 이후 실행은 새 글만 잡습니다.
+backfill_days: 45
+
+# 사이트 언어. 순서대로 언어 메뉴에 표시됩니다. 첫 번째가 기준 언어입니다.
+languages: [ko, en, es, zh, ja]
+
+sources:
+  uscis_news:
+    enabled: true
+    label: USCIS
+    # USCIS는 봇 차단이 있어 Playwright 실제 브라우저로 엽니다.
+    list_urls:
+      - https://www.uscis.gov/newsroom/all-news
+      - https://www.uscis.gov/newsroom/alerts
+    link_pattern: "/newsroom/(news-releases|alerts|press-releases|news-releases-and-alerts)/[^?#]+"
+
+  dos_visa_news:
+    enabled: true
+    label: Department of State
+    list_urls:
+      - https://travel.state.gov/content/travel/en/News/visas-news.html
+    link_pattern: "/content/travel/en/News/visas-news/(?!archive)[^?#]+\\.html"
+
+  visa_bulletin:
+    enabled: true
+    label: Visa Bulletin
+    list_urls:
+      - https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
+    link_pattern: "/visa-bulletin/20\\d\\d/visa-bulletin-for-[a-z]+-20\\d\\d\\.html"
+    # 최신 몇 개월치만 봅니다.
+    max_items: 2
+
+  federal_register:
+    enabled: true
+    label: Federal Register
+    # 공개 API, 키 불필요. 규칙 제정과 공고를 시행 전에 잡습니다.
+    agencies:
+      - u-s-citizenship-and-immigration-services
+      - state-department
+    types: [RULE, PRORULE, NOTICE]
+    term: "visa OR immigration OR nonimmigrant OR immigrant OR naturalization OR asylum OR parole"
+    # 제목이 이 문구로 시작하면 버립니다. 정보수집 공고는 실무 영향이 거의 없습니다.
+    skip_title_prefixes:
+      - "Agency Information Collection Activities"
+      - "30-Day Notice of Proposed Information Collection"
+      - "60-Day Notice of Proposed Information Collection"
+
+  presidential:
+    enabled: true
+    label: White House
+    # 비자·입국 관련 대통령 포고문과 행정명령 (Federal Register 게재분)
+    types: [PRESDOCU]
+    term: "visa OR immigrants OR \"entry of\" OR nonimmigrant"
