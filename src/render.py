@@ -11,6 +11,7 @@ docs/sitemap.xml robots.txt CNAME 404.html
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import html
 import json
 import shutil
@@ -26,6 +27,8 @@ from src.i18n import CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, cat, s
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 e = html.escape
+# 자산이 바뀌면 주소가 바뀌어 브라우저 캐시가 갱신됩니다.
+VER = hashlib.sha1((assets.CSS + assets.JS).encode()).hexdigest()[:8]
 
 
 def site_cfg() -> dict[str, Any]:
@@ -68,7 +71,7 @@ def head(sc: dict[str, Any], lang: str, title: str, desc: str, path: str, langs:
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
 {canon}{alts}{rss}{verify}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect x='2' y='3' width='20' height='18' rx='3' fill='%2313233a'/%3E%3Cpath d='M6 8h12M6 12h8M6 16h10' stroke='white' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
-{font}<link rel="stylesheet" href="{up}assets/site.css">
+{font}<link rel="stylesheet" href="{up}assets/site.css?v={VER}">
 {ga_tag}{ad_tag}
 </head>"""
 
@@ -125,7 +128,7 @@ def footer(sc: dict[str, Any], lang: str, up: str, updated: str) -> str:
 <p>{e(t('updated', lang))}: {e(updated)} · <a href="{up}{lang}/rss.xml">RSS</a></p>
 </div></footer>
 {feedback(sc, lang)}
-<script src="{up}assets/site.js" defer></script>
+<script src="{up}assets/site.js?v={VER}" defer></script>
 </body></html>"""
 
 
@@ -247,7 +250,7 @@ def page_root(sc: dict[str, Any], langs: list[str], prefix: str = "") -> str:
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(site.get('title', 'US Visa Policy'))}</title>
 <meta name="description" content="{e(t('tagline', 'en'))}">{alts}
-<link rel="stylesheet" href="{prefix}assets/site.css">
+<link rel="stylesheet" href="{prefix}assets/site.css?v={VER}">
 <script>(function(){{var L={json.dumps(langs)},c=null;
 try{{c=localStorage.getItem('uvp-lang')}}catch(e){{}}
 if(!c||L.indexOf(c)<0){{var n=(navigator.languages||[navigator.language||'en']);for(var i=0;i<n.length;i++){{var k=String(n[i]).slice(0,2).toLowerCase();if(L.indexOf(k)>=0){{c=k;break}}}}}}
