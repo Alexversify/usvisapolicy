@@ -1,0 +1,51 @@
+name: news
+
+on:
+  schedule:
+    # KST 07:40, 19:40. USCIS·국무부는 미 동부 업무시간에 게시하므로 아침 실행이 전날 발표를 잡습니다.
+    - cron: "40 22 * * *"
+    - cron: "40 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-write
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: 수집, 번역, 사이트 생성
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HEADFUL: "1"
+        run: xvfb-run -a python -m src.main
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "usvisapolicy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "news: 업데이트 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi
