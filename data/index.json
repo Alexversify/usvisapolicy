@@ -15,7 +15,8 @@
       "Form I-131",
       "Form I-821"
     ],
-    "added": "2026-10-01T07:33Z"
+    "added": "2026-10-01T07:33Z",
+    "category": "fees"
   },
   {
     "id": "cdd3348ed453",
@@ -31,7 +32,8 @@
       "Immigration Fraud",
       "Florida"
     ],
-    "added": "2026-10-01T07:34Z"
+    "added": "2026-10-01T07:34Z",
+    "category": "enforcement"
   },
   {
     "id": "d0ab52185851",
@@ -46,7 +48,8 @@
       "USCIS",
       "Immigrant Investor"
     ],
-    "added": "2026-10-01T07:33Z"
+    "added": "2026-10-01T07:33Z",
+    "category": "fees"
   },
   {
     "id": "4b18808fe0e5",
@@ -62,7 +65,8 @@
       "Money Laundering",
       "USCIS"
     ],
-    "added": "2026-10-01T07:34Z"
+    "added": "2026-10-01T07:34Z",
+    "category": "enforcement"
   },
   {
     "id": "5ba2579d7496",
@@ -77,7 +81,8 @@
       "Enforcement",
       "Criminal Case"
     ],
-    "added": "2026-10-01T07:36Z"
+    "added": "2026-10-01T07:36Z",
+    "category": "enforcement"
   },
   {
     "id": "ef2b7137b3ac",
@@ -92,7 +97,8 @@
       "Fraud",
       "Election Integrity"
     ],
-    "added": "2026-10-01T07:35Z"
+    "added": "2026-10-01T07:35Z",
+    "category": "enforcement"
   },
   {
     "id": "215c2531275e",
@@ -107,7 +113,8 @@
       "Enforcement",
       "Permanent Resident"
     ],
-    "added": "2026-10-01T07:35Z"
+    "added": "2026-10-01T07:35Z",
+    "category": "enforcement"
   },
   {
     "id": "27a836395697",
@@ -123,7 +130,8 @@
       "Immigration Policy",
       "Nonimmigrant Workers"
     ],
-    "added": "2026-10-01T07:38Z"
+    "added": "2026-10-01T07:38Z",
+    "category": "policy"
   },
   {
     "id": "50c91111157c",
@@ -138,7 +146,8 @@
       "Fraud",
       "USCIS"
     ],
-    "added": "2026-10-01T07:37Z"
+    "added": "2026-10-01T07:37Z",
+    "category": "enforcement"
   },
   {
     "id": "3ec626692258",
@@ -156,7 +165,8 @@
       "DHS",
       "DOS"
     ],
-    "added": "2026-10-01T07:37Z"
+    "added": "2026-10-01T07:37Z",
+    "category": "policy"
   },
   {
     "id": "dff3218400ab",
@@ -171,7 +181,8 @@
       "Naturalization",
       "Voting"
     ],
-    "added": "2026-10-01T07:36Z"
+    "added": "2026-10-01T07:36Z",
+    "category": "enforcement"
   },
   {
     "id": "06f0bdf2490f",
@@ -187,7 +198,8 @@
       "Enforcement",
       "USCIS"
     ],
-    "added": "2026-10-01T07:39Z"
+    "added": "2026-10-01T07:39Z",
+    "category": "enforcement"
   },
   {
     "id": "fc43518eca16",
@@ -203,7 +215,8 @@
       "Privacy Act",
       "Public Access"
     ],
-    "added": "2026-10-01T07:39Z"
+    "added": "2026-10-01T07:39Z",
+    "category": "processing"
   },
   {
     "id": "6d1fe2ac80df",
@@ -218,7 +231,8 @@
       "Delegation of Authority",
       "Consular Affairs"
     ],
-    "added": "2026-10-01T07:40Z"
+    "added": "2026-10-01T07:40Z",
+    "category": "notice"
   },
   {
     "id": "04fd05d1667d",
@@ -233,6 +247,172 @@
       "Nonimmigrant Visa",
       "Seasonal Workers"
     ],
-    "added": "2026-10-01T07:40Z"
+    "added": "2026-10-01T07:40Z",
+    "category": "processing"
+  },
+  {
+    "id": "c23d288f878a",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18573/labor-day-2026",
+    "published": "2026-09-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "tags": [
+      "H-1B",
+      "Proclamation",
+      "Labor Day"
+    ],
+    "added": "2026-10-01T08:08Z"
+  },
+  {
+    "id": "2e2227e48cb3",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18442/foreign-terrorist-organization-designation-of-los-tiguerones",
+    "published": "2026-09-10",
+    "effective_date": "2026-09-10",
+    "importance": "medium",
+    "category": "policy",
+    "tags": [
+      "Foreign Terrorist Organization",
+      "INA 219",
+      "Inadmissibility",
+      "National Security"
+    ],
+    "added": "2026-10-01T08:07Z"
+  },
+  {
+    "id": "55ed6752e8d0",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy",
+    "published": "2026-09-04",
+    "effective_date": "2026-08-28",
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "Diversity Visa",
+      "Adjustment of Status",
+      "Court Order",
+      "DV-2026"
+    ],
+    "added": "2026-10-01T08:09Z"
+  },
+  {
+    "id": "f27fc922616b",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/dhs-announces-rule-for-certain-children-born-in-the-united-states-to-foreign-government-employees",
+    "published": "2026-09-04",
+    "effective_date": "2026-09-04",
+    "importance": "medium",
+    "category": "policy",
+    "tags": [
+      "DHS",
+      "Green Card",
+      "Form I-485",
+      "Form G-325R",
+      "Citizenship",
+      "Executive Order"
+    ],
+    "added": "2026-10-01T08:08Z"
+  },
+  {
+    "id": "c857c586cef3",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-new-international-field-office-in-ethiopia-to-support-fraud-prevention",
+    "published": "2026-09-03",
+    "effective_date": "2026-09-09",
+    "importance": "medium",
+    "category": "notice",
+    "tags": [
+      "International Offices",
+      "Fraud Prevention",
+      "Ethiopia",
+      "DNA Testing"
+    ],
+    "added": "2026-10-01T08:09Z"
+  },
+  {
+    "id": "2e0ae675848b",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+    "published": "2026-08-31",
+    "effective_date": "2026-08-26",
+    "importance": "medium",
+    "category": "policy",
+    "tags": [
+      "Executive Order",
+      "National Emergency",
+      "Bulk-Power System",
+      "IEEPA",
+      "Energy Security"
+    ],
+    "added": "2026-10-01T08:10Z"
+  },
+  {
+    "id": "29bba39c196e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies",
+    "published": "2026-08-28",
+    "effective_date": "2026-08-24",
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "Travel Ban",
+      "Asylum",
+      "I-589",
+      "Litigation",
+      "Policy Memorandum",
+      "Class Action"
+    ],
+    "added": "2026-10-01T08:11Z"
+  },
+  {
+    "id": "7240aa75c8cb",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-edition-of-form-i-485-older-editions-will-be-rejected-starting-sept-18",
+    "published": "2026-08-19",
+    "effective_date": "2026-09-18",
+    "importance": "high",
+    "category": "processing",
+    "tags": [
+      "I-485",
+      "Adjustment of Status",
+      "Public Charge",
+      "Forms"
+    ],
+    "added": "2026-10-01T08:11Z"
+  },
+  {
+    "id": "9946e9007407",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination",
+    "published": "2026-08-18",
+    "effective_date": "2026-09-18",
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "Public Charge",
+      "Adjustment of Status",
+      "I-485",
+      "I-864",
+      "I-945",
+      "Policy Manual"
+    ],
+    "added": "2026-10-01T08:12Z"
+  },
+  {
+    "id": "889e5db9f76d",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026",
+    "published": "2026-08-17",
+    "effective_date": "2026-08-12",
+    "importance": "low",
+    "category": "notice",
+    "tags": [
+      "Proclamation",
+      "Border Security",
+      "General Notice"
+    ],
+    "added": "2026-10-01T08:12Z"
   }
 ]

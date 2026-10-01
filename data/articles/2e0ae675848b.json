@@ -1,0 +1,91 @@
+{
+  "id": "2e0ae675848b",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+  "original_title": "Declaring a National Emergency To Secure the United States Bulk-Power System",
+  "published": "2026-08-31",
+  "effective_date": "2026-08-26",
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "Executive Order",
+    "National Emergency",
+    "Bulk-Power System",
+    "IEEPA",
+    "Energy Security"
+  ],
+  "langs": {
+    "ko": {
+      "title": "트럼프 대통령, 미국 대용량 전력망 보호를 위한 국가비상사태 선포",
+      "summary": "2026년 8월 26일자 행정명령 14421호를 통해 대통령은 외국산 대용량 전력망(Bulk-Power System) 장비가 국가안보에 미치는 위협과 관련해 국가비상사태를 선포했습니다. 이 명령은 특정 외국 통제 주체가 공급한 전력 설비 거래를 제한하고, 에너지부 장관에게 관련 규제 마련 권한을 부여합니다. 이는 이민 또는 비자 절차와는 무관한 에너지 인프라 안보 조치입니다.",
+      "points": [
+        "행정명령은 국제긴급경제권한법(IEEPA)과 국가비상사태법(NEA)에 근거해 발효되었습니다.",
+        "'대용량 전력망 전기 장비'로 지정된 외국산 장비의 취득, 수입, 설치 등 거래가 특정 조건 하에서 금지됩니다.",
+        "에너지부 장관은 국방부, 상무부, 국토안보부, 국가정보국장 등과 협의해 해당 외국 주체(Covered Foreign Entity)와 위험 거래를 판단합니다.",
+        "명령일 이전에 설치된 장비에 대해서도 장관은 격리, 교체, 제거 등의 조건을 부과할 수 있습니다.",
+        "120일 이내에 시행 규칙을, 180일 이내에 연방조달규정(FAR) 개정 권고안을 마련하도록 규정하고 있습니다.",
+        "이 조치는 비자나 이민 절차와 직접적인 관련이 없으며, 에너지 인프라 공급망 보안에 초점을 맞추고 있습니다."
+      ],
+      "who": "대용량 전력망 장비를 제조, 공급, 운영하는 기업 및 관련 연방기관이 영향을 받습니다.",
+      "action": "해당 분야 기업은 에너지부가 발표할 세부 규칙과 사전 승인 장비 목록을 주시할 필요가 있습니다."
+    },
+    "en": {
+      "title": "Trump Declares National Emergency Over Foreign Threats to U.S. Bulk-Power System",
+      "summary": "Executive Order 14421, signed August 26, 2026, declares a national emergency regarding foreign-supplied electric equipment used in the U.S. bulk-power system. The order restricts certain transactions involving equipment linked to designated Covered Foreign Entities and directs the Secretary of Energy to develop implementing rules. This measure concerns energy infrastructure security and is unrelated to visa or immigration processing.",
+      "points": [
+        "The order invokes IEEPA and the National Emergencies Act to address risks from foreign-made bulk-power system equipment.",
+        "Certain transactions involving equipment from Covered Foreign Entities after the order's date are prohibited if they pose undue security risks.",
+        "The Secretary of Energy, in consultation with other agencies, may require isolation, replacement, or removal of pre-existing equipment.",
+        "The Secretary may pre-qualify certain vendors or equipment as exempt from the prohibitions.",
+        "Implementing rules are due within 120 days, and recommendations to revise federal procurement regulations are due within 180 days.",
+        "The order does not affect visa categories, filing forms, or immigration eligibility."
+      ],
+      "who": "Manufacturers, suppliers, and operators of bulk-power system equipment, along with federal agencies involved in energy procurement.",
+      "action": "Affected companies should monitor forthcoming Department of Energy rules and any published list of pre-qualified equipment or vendors."
+    },
+    "es": {
+      "title": "Trump declara emergencia nacional por amenazas extranjeras al sistema eléctrico de EE. UU.",
+      "summary": "La Orden Ejecutiva 14421, firmada el 26 de agosto de 2026, declara una emergencia nacional relacionada con equipos eléctricos de origen extranjero utilizados en el sistema de transmisión eléctrica masiva (bulk-power system) de Estados Unidos. La orden restringe ciertas transacciones vinculadas a Entidades Extranjeras Cubiertas y ordena al Secretario de Energía desarrollar normas de implementación. Esta medida se refiere a la seguridad de la infraestructura energética y no guarda relación con trámites de visa o inmigración.",
+      "points": [
+        "La orden invoca la IEEPA y la Ley de Emergencias Nacionales para abordar los riesgos derivados de equipos extranjeros en el sistema eléctrico masivo.",
+        "Se prohíben ciertas transacciones posteriores a la fecha de la orden si involucran equipos de Entidades Extranjeras Cubiertas y representan un riesgo indebido.",
+        "El Secretario de Energía, en consulta con otras agencias, puede exigir el aislamiento, reemplazo o retiro de equipos instalados antes de la orden.",
+        "El Secretario puede precalificar a ciertos proveedores o equipos como exentos de las prohibiciones.",
+        "Las normas de implementación deben publicarse dentro de 120 días, y las recomendaciones para modificar las regulaciones federales de adquisiciones dentro de 180 días.",
+        "La orden no afecta categorías de visa, formularios de inmigración ni criterios de elegibilidad migratoria."
+      ],
+      "who": "Fabricantes, proveedores y operadores de equipos del sistema eléctrico masivo, así como agencias federales relacionadas con adquisiciones energéticas.",
+      "action": "Las empresas afectadas deben seguir de cerca las próximas normas del Departamento de Energía y cualquier lista publicada de equipos o proveedores precalificados."
+    },
+    "zh": {
+      "title": "特朗普就外国威胁美国大型电力系统宣布国家紧急状态",
+      "summary": "2026年8月26日签署的第14421号行政命令,就外国供应的设备对美国大型电力系统(bulk-power system)构成的威胁宣布国家紧急状态。该命令限制与被列为“受管制外国实体”相关设备的部分交易,并指示能源部制定实施细则。此举涉及能源基础设施安全,与签证或移民程序无关。",
+      "points": [
+        "该命令援引《国际紧急经济权力法》(IEEPA)和《国家紧急状态法》应对外国制造的大型电力系统设备带来的风险。",
+        "命令发布之日起,若交易涉及受管制外国实体提供的设备且构成不当风险,则予以禁止。",
+        "能源部长可与其他机构协商,要求对命令发布前已安装的设备进行隔离、更换或拆除。",
+        "能源部长可将部分供应商或设备预先认定为合格,从而豁免相关禁令。",
+        "实施细则须在120天内公布,联邦采购法规修订建议须在180天内提交。",
+        "该命令不涉及签证类别、申请表格或移民资格问题。"
+      ],
+      "who": "大型电力系统设备的制造商、供应商和运营商,以及参与能源采购的联邦机构受到影响。",
+      "action": "相关企业应关注能源部即将发布的实施细则及预先认定的设备或供应商名单。"
+    },
+    "ja": {
+      "title": "トランプ大統領、米国の大規模電力システムを巡る国家非常事態を宣言",
+      "summary": "2026年8月26日に署名された大統領令第14421号は、米国の大規模電力システム(bulk-power system)に使用される外国製電気設備に関連する国家非常事態を宣言しました。同命令は、指定された「対象外国事業体」が供給する設備に関わる一部取引を制限し、エネルギー省長官に実施規則の策定を指示しています。この措置はエネルギーインフラの安全保障に関するものであり、ビザや移民手続きとは関係ありません。",
+      "points": [
+        "同命令は国際緊急経済権限法(IEEPA)と国家非常事態法に基づき、外国製電力設備による安全保障上のリスクに対応します。",
+        "命令発効日以降に行われる取引で、対象外国事業体の設備が過度なリスクをもたらす場合は禁止されます。",
+        "エネルギー省長官は他省庁と協議の上、既存設備の隔離、交換、撤去を求めることができます。",
+        "長官は特定の設備や供給業者を事前認定し、禁止対象から除外することができます。",
+        "実施規則は120日以内に、連邦調達規則の改正提案は180日以内に策定される予定です。",
+        "この命令はビザの区分、申請書式、移民資格には影響しません。"
+      ],
+      "who": "大規模電力システム向け設備の製造業者、供給業者、運用者、およびエネルギー調達に関わる連邦機関が対象です。",
+      "action": "対象企業は今後発表されるエネルギー省の実施規則や事前認定設備・業者リストの動向を注視する必要があります。"
+    }
+  },
+  "added": "2026-10-01T08:10Z",
+  "model": "claude-sonnet-5"
+}

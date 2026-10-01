@@ -2,26 +2,32 @@
   // 목록 필터
   var list = document.querySelector('.list');
   if (list) {
-    var state = {src: 'all', hot: false, q: ''};
+    var state = {cat: 'all', src: 'all', hot: false, q: ''};
+    try { var h = (location.hash || '').slice(1); if (h) state.cat = h; } catch(e) {}
     var cards = Array.prototype.slice.call(list.querySelectorAll('.card'));
     var none = document.getElementById('no-match');
     function apply(){
       var shown = 0, q = state.q.trim().toLowerCase();
       cards.forEach(function(c){
-        var ok = (state.src === 'all' || c.dataset.src === state.src)
+        var ok = (state.cat === 'all' || c.dataset.cat === state.cat)
+          && (state.src === 'all' || c.dataset.src === state.src)
           && (!state.hot || c.dataset.imp === 'high')
           && (!q || c.dataset.q.indexOf(q) !== -1);
         c.hidden = !ok; if (ok) shown++;
       });
       if (none) none.hidden = shown !== 0;
     }
-    document.querySelectorAll('[data-filter-src]').forEach(function(b){
-      b.addEventListener('click', function(){
-        state.src = b.dataset.filterSrc;
-        document.querySelectorAll('[data-filter-src]').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-        apply();
-      });
-    });
+    var tabs = document.querySelectorAll('[data-filter-cat]');
+    function setCat(v){
+      state.cat = v;
+      tabs.forEach(function(x){ x.setAttribute('aria-pressed', x.dataset.filterCat === v ? 'true' : 'false'); });
+      try { history.replaceState(null, '', v === 'all' ? location.pathname : '#' + v); } catch(e) {}
+      apply();
+    }
+    tabs.forEach(function(b){ b.addEventListener('click', function(){ setCat(b.dataset.filterCat); }); });
+    var sel = document.querySelector('select[data-filter-src]');
+    if (sel) sel.addEventListener('change', function(){ state.src = sel.value; apply(); });
+    if (state.cat !== 'all') setCat(state.cat);
     var hot = document.querySelector('[data-filter-hot]');
     if (hot) hot.addEventListener('click', function(){ state.hot = !state.hot; hot.setAttribute('aria-pressed', String(state.hot)); apply(); });
     var s = document.querySelector('.search');

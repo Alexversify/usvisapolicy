@@ -1,0 +1,92 @@
+{
+  "id": "9946e9007407",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination",
+  "original_title": "USCIS Issues Guidance on Making Public Charge Inadmissibility Determination",
+  "published": "2026-08-18",
+  "effective_date": "2026-09-18",
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Public Charge",
+    "Adjustment of Status",
+    "I-485",
+    "I-864",
+    "I-945",
+    "Policy Manual"
+  ],
+  "langs": {
+    "en": {
+      "title": "USCIS Issues New Public Charge Guidance for Adjustment of Status Applicants",
+      "summary": "USCIS updated its Policy Manual to explain how officers will decide whether an applicant for adjustment of status is likely to become a public charge, following a DHS final rule that rescinds the 2022 Biden-era public charge regulations. The new guidance takes effect Sept. 18, 2026 and applies to Form I-485 filings submitted on or after that date.",
+      "points": [
+        "DHS announced the final rule on July 16, 2026, published it in the Federal Register on July 20, 2026, and it takes effect Sept. 18, 2026.",
+        "The guidance lists which immigrant categories are subject to the public charge ground of inadmissibility and which are exempt, such as asylees, refugees, VAWA self-petitioners, and T and U nonimmigrants.",
+        "Officers must weigh five statutory factors: age, health, family status, assets/resources/financial status, and education and skills, and may also consider Form I-864, Affidavit of Support.",
+        "For benefits received before Sept. 18, 2026, only cash assistance for income maintenance and long-term institutionalization count; for benefits received on or after that date, any means-tested public benefit may be considered.",
+        "Applicants found inadmissible solely due to public charge concerns may be invited by USCIS to post a public charge bond using Form I-945, but only after receiving a Notice of Intent to Deny.",
+        "This guidance supersedes the 1999 Interim Field Guidance and all related prior public charge guidance."
+      ],
+      "who": "Applicants filing Form I-485 to adjust status to lawful permanent resident, and their sponsors or attorneys, are affected.",
+      "action": "Applicants and petitioners should review the updated USCIS Policy Manual guidance and prepare supporting evidence of self-sufficiency before filing Form I-485 on or after Sept. 18, 2026."
+    },
+    "ko": {
+      "title": "USCIS, 영주권 신청자 공적부담 판단 관련 새 지침 발표",
+      "summary": "USCIS는 정책매뉴얼을 개정해 신분조정(영주권) 신청자가 공적부담(public charge)이 될 가능성이 있는지 판단하는 기준을 설명했습니다. 이는 DHS가 2022년 바이든 행정부 시절의 공적부담 규정을 폐지하는 최종규칙을 발표한 데 따른 것으로, 새 지침은 2026년 9월 18일부터 시행됩니다.",
+      "points": [
+        "DHS는 2026년 7월 16일 최종규칙을 발표했고 7월 20일 연방관보에 공식 게재했으며, 시행일은 2026년 9월 18일입니다.",
+        "이번 지침은 공적부담 판단 대상이 되는 이민 범주와 면제되는 범주를 구체적으로 열거하며, 망명자, 난민, VAWA 자기청원자, T 및 U 비이민자 등은 면제 대상입니다.",
+        "심사관은 나이, 건강, 가족상황, 자산 및 재정상태, 교육 및 기술이라는 다섯 가지 법정요소를 고려해야 하며, Form I-864 신원보증서도 참고할 수 있습니다.",
+        "2026년 9월 18일 이전에 받은 공적 혜택은 현금지원 및 장기요양시설 수용만 고려되며, 그 이후 받은 혜택은 모든 자산조사형 공적 혜택이 고려 대상이 됩니다.",
+        "오로지 공적부담 우려만으로 입국부적격 판정을 받은 신청자는 USCIS로부터 거부의향통지서(Notice of Intent to Deny)를 받은 경우에 한해 Form I-945를 통해 공적부담 보증금 납부를 요청받을 수 있습니다.",
+        "이번 지침은 1999년 임시현장지침을 비롯한 기존의 관련 공적부담 지침을 모두 대체합니다."
+      ],
+      "who": "Form I-485를 통해 영주권으로 신분조정을 신청하는 사람들과 그 후원자, 담당 변호사가 영향을 받습니다.",
+      "action": "신청자와 후원자는 개정된 USCIS 정책매뉴얼 지침을 확인하고, 2026년 9월 18일 이후 Form I-485를 제출하기 전에 경제적 자립을 입증할 증빙자료를 준비해야 합니다."
+    },
+    "es": {
+      "title": "USCIS emite nueva guía sobre la determinación de carga pública para ajuste de estatus",
+      "summary": "USCIS actualizo su Manual de Politicas para explicar como los oficiales determinaran si un solicitante de ajuste de estatus es probable que se convierta en carga publica, luego de una regla final del DHS que deroga las regulaciones de carga publica de la era Biden de 2022. La nueva guia entra en vigor el 18 de septiembre de 2026 y aplica a las solicitudes del Formulario I-485 presentadas a partir de esa fecha.",
+      "points": [
+        "El DHS anuncio la regla final el 16 de julio de 2026, la publico en el Registro Federal el 20 de julio de 2026 y entrara en vigor el 18 de septiembre de 2026.",
+        "La guia enumera que categorias migratorias estan sujetas al motivo de inadmisibilidad por carga publica y cuales estan exentas, como asilados, refugiados, autopeticionarios bajo VAWA y titulares de visas T y U.",
+        "Los oficiales deben considerar cinco factores legales: edad, salud, estado familiar, bienes, recursos y situacion financiera, y educacion y habilidades, y tambien pueden considerar el Formulario I-864, Declaracion Jurada de Patrocinio.",
+        "Para beneficios recibidos antes del 18 de septiembre de 2026, solo se considera la asistencia en efectivo para mantenimiento de ingresos y la institucionalizacion a largo plazo; para beneficios recibidos a partir de esa fecha, se puede considerar cualquier beneficio publico sujeto a evaluacion de recursos.",
+        "Los solicitantes declarados inadmisibles unicamente por motivos de carga publica pueden ser invitados por USCIS a presentar una fianza de carga publica mediante el Formulario I-945, pero solo despues de recibir un Aviso de Intencion de Denegar.",
+        "Esta guia reemplaza la Guia de Campo Provisional de 1999 y toda guia anterior relacionada con la carga publica."
+      ],
+      "who": "Afecta a los solicitantes que presentan el Formulario I-485 para ajustar su estatus a residente permanente legal, asi como a sus patrocinadores y abogados.",
+      "action": "Los solicitantes y patrocinadores deben revisar la guia actualizada del Manual de Politicas de USCIS y preparar evidencia de autosuficiencia antes de presentar el Formulario I-485 a partir del 18 de septiembre de 2026."
+    },
+    "zh": {
+      "title": "USCIS发布关于调整身份申请人公共负担可否入境认定的新指南",
+      "summary": "美国公民及移民服务局（USCIS）更新了政策手册，说明官员将如何判断申请调整身份的外国人是否可能成为公共负担，此前国土安全部（DHS）发布最终规则，废止了2022年拜登政府时期的公共负担法规。新指南将于2026年9月18日生效，适用于当日及之后提交的I-485表格申请。",
+      "points": [
+        "DHS于2026年7月16日宣布最终规则，7月20日在联邦公报正式刊登，规则将于2026年9月18日生效。",
+        "指南列出了哪些移民类别受公共负担入境障碍约束，哪些类别获得豁免，例如庇护申请人、难民、《反对妇女暴力法》自我申请人，以及T类和U类非移民签证持有人。",
+        "官员必须权衡五项法定因素，包括年龄、健康状况、家庭状况、资产资源及财务状况、教育与技能，并可参考I-864经济担保书。",
+        "对于2026年9月18日之前获得的福利，仅考虑现金收入维持援助和长期机构照护费用；对于该日期之后获得的福利，可考虑任何经济状况审查类公共福利。",
+        "若申请人仅因公共负担问题被认定为不可入境，USCIS可能邀请其通过I-945表格缴纳公共负担保证金，但前提是已收到拒绝意向通知书。",
+        "该指南取代1999年临时实地指南以及此前所有相关的公共负担指南。"
+      ],
+      "who": "受影响的是提交I-485表格申请调整为合法永久居民身份的人士，以及其担保人和代理律师。",
+      "action": "申请人和担保人应查阅更新后的USCIS政策手册指南，并在2026年9月18日之后提交I-485表格前准备好能证明经济自立的证据材料。"
+    },
+    "ja": {
+      "title": "USCIS、調整申請者の公的負担該当性判断に関する新指針を発表",
+      "summary": "USCISはポリシーマニュアルを改定し、永住権への身分調整を申請する外国人が将来公的負担になる可能性があるかどうかを判断する方法を説明しました。これはDHSが2022年のバイデン政権下の公的負担規則を廃止する最終規則を発表したことを受けたもので、新指針は2026年9月18日に施行され、同日以降に提出されるForm I-485に適用されます。",
+      "points": [
+        "DHSは2026年7月16日に最終規則を発表し、7月20日に連邦官報に正式掲載、施行日は2026年9月18日です。",
+        "指針は公的負担による入国不適格事由の対象となる移民区分と、免除される区分を明記しており、亡命者、難民、DV防止法自己申請者、TおよびUビザ所持者などが免除対象です。",
+        "審査官は年齢、健康状態、家族状況、資産・資力・財政状況、教育・技能という5つの法定要素を考慮しなければならず、Form I-864扶養誓約書も参考にできます。",
+        "2026年9月18日より前に受給した公的給付については、現金所得維持支援と長期施設収容のみが考慮され、同日以降に受給した給付については、資力審査付きの公的給付が幅広く考慮されます。",
+        "公的負担のみを理由に入国不適格と判断された申請者は、拒否意向通知を受け取った場合に限り、Form I-945により公的負担保証金の納付をUSCISから求められることがあります。",
+        "本指針は1999年の暫定現場指針を含む従来の関連指針をすべて置き換えます。"
+      ],
+      "who": "Form I-485により永住権への身分調整を申請する人々、およびその保証人や担当弁護士が影響を受けます。",
+      "action": "申請者および保証人は、改定されたUSCISポリシーマニュアルの指針を確認し、2026年9月18日以降にForm I-485を提出する前に経済的自立を示す証拠資料を準備することが推奨されます。"
+    }
+  },
+  "added": "2026-10-01T08:12Z",
+  "model": "claude-sonnet-5"
+}
