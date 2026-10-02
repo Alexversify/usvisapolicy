@@ -1,5 +1,39 @@
 [
   {
+    "id": "1ee2bd2493d9",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027",
+    "published": "2026-10-02",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "Refugee Admissions",
+      "Executive Order",
+      "Travel Ban",
+      "South Africa",
+      "Presidential Determination"
+    ],
+    "added": "2026-10-02T16:23Z"
+  },
+  {
+    "id": "95969f3a2876",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/federal-grand-jury-indicts-ten-aliens-for-voter-fraud-in-minnesota-elections",
+    "published": "2026-10-02",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "Voter Fraud",
+      "Enforcement",
+      "USCIS",
+      "ICE",
+      "Deportation"
+    ],
+    "added": "2026-10-02T16:22Z"
+  },
+  {
     "id": "a181a341e6d8",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
