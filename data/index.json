@@ -1,5 +1,22 @@
 [
   {
+    "id": "e926bf4fefad",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/former-syrian-prison-official-sentenced-for-torture-and-immigration-fraud",
+    "published": "2026-10-02",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "Immigration Fraud",
+      "Naturalization Fraud",
+      "Visa Fraud",
+      "Human Rights",
+      "Enforcement"
+    ],
+    "added": "2026-10-03T01:23Z"
+  },
+  {
     "id": "1ee2bd2493d9",
     "source": "presidential",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027",
