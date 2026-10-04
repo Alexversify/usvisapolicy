@@ -19,6 +19,7 @@ src/assets.py          공통 CSS, JS(필터, 피드백 위젯)
 data/index.json        기사 목록
 data/articles/<id>.json  기사 1건 (언어별 title, summary, points, who, action)
 data/seen.json         번역하지 않고 넘긴 URL
+data/status.json       마지막 수집 시각과 소스별 결과. 화면의 갱신 시각은 이 값을 쓴다
 docs/                  자동 생성물. 직접 고치지 말고 src/ 를 고친 뒤 --render-only
 ```
 

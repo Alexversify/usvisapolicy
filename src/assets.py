@@ -16,6 +16,8 @@ CSS = r"""
   }
 }
 *{box-sizing:border-box}
+/* .card 등이 display를 지정하면 hidden 속성이 무시됩니다. 필터가 동작하려면 필요합니다. */
+[hidden]{display:none !important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.65;word-break:keep-all;overflow-wrap:anywhere}
 a{color:inherit}
@@ -131,6 +133,8 @@ JS = r"""
     var sel = document.querySelector('select[data-filter-src]');
     if (sel) sel.addEventListener('change', function(){ state.src = sel.value; apply(); });
     if (state.cat !== 'all') setCat(state.cat);
+    // 뒤로가기 등으로 주소의 #분류가 바뀌면 탭도 따라갑니다.
+    window.addEventListener('hashchange', function(){ var v = (location.hash || '').slice(1) || 'all'; if (v !== state.cat) setCat(v); });
     var hot = document.querySelector('[data-filter-hot]');
     if (hot) hot.addEventListener('click', function(){ state.hot = !state.hot; hot.setAttribute('aria-pressed', String(state.hot)); apply(); });
     var s = document.querySelector('.search');

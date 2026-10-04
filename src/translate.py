@@ -35,6 +35,7 @@ Rules:
 
 Return ONLY a JSON object, no code fences, in this exact shape:
 {
+  "relevant": true,
   "published": "YYYY-MM-DD or null (publication date stated in the source)",
   "effective_date": "YYYY-MM-DD or null (when the change takes effect, if stated)",
   "importance": "high | medium | low",
@@ -57,6 +58,9 @@ category:
 - enforcement: fraud, criminal cases, arrests, prosecutions, denaturalization, investigations
 - notice: anything else (public access, delegations, general announcements)
 importance high = changes eligibility, fees, travel/entry, or deadlines for many people.
+relevant = false when the document has no real bearing on U.S. visas, immigration, entry, citizenship or
+immigration enforcement (for example energy, trade or commemorative proclamations that only mention
+immigration in passing). Still fill every other field.
 """
 
 

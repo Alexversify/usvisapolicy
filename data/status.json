@@ -1,0 +1,30 @@
+{
+  "checked": "2026-10-04T01:58Z",
+  "sources": {
+    "uscis_news": {
+      "ok": true,
+      "items": 18,
+      "error": null
+    },
+    "dos_visa_news": {
+      "ok": false,
+      "items": 0,
+      "error": "Cloudflare 챌린지 페이지 (러너 IP 차단)"
+    },
+    "visa_bulletin": {
+      "ok": false,
+      "items": 0,
+      "error": "Cloudflare 챌린지 페이지 (러너 IP 차단)"
+    },
+    "federal_register": {
+      "ok": true,
+      "items": 3,
+      "error": null
+    },
+    "presidential": {
+      "ok": true,
+      "items": 5,
+      "error": null
+    }
+  }
+}
