@@ -13,6 +13,8 @@
   }
 }
 *{box-sizing:border-box}
+/* .card 등이 display를 지정하면 hidden 속성이 무시됩니다. 필터가 동작하려면 필요합니다. */
+[hidden]{display:none !important}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.65;word-break:keep-all;overflow-wrap:anywhere}
 a{color:inherit}

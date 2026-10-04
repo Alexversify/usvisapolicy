@@ -383,23 +383,6 @@
     "added": "2026-10-01T08:09Z"
   },
   {
-    "id": "2e0ae675848b",
-    "source": "presidential",
-    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
-    "published": "2026-08-31",
-    "effective_date": "2026-08-26",
-    "importance": "medium",
-    "category": "policy",
-    "tags": [
-      "Executive Order",
-      "National Emergency",
-      "Bulk-Power System",
-      "IEEPA",
-      "Energy Security"
-    ],
-    "added": "2026-10-01T08:10Z"
-  },
-  {
     "id": "29bba39c196e",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies",
@@ -448,21 +431,6 @@
       "I-864",
       "I-945",
       "Policy Manual"
-    ],
-    "added": "2026-10-01T08:12Z"
-  },
-  {
-    "id": "889e5db9f76d",
-    "source": "presidential",
-    "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026",
-    "published": "2026-08-17",
-    "effective_date": "2026-08-12",
-    "importance": "low",
-    "category": "notice",
-    "tags": [
-      "Proclamation",
-      "Border Security",
-      "General Notice"
     ],
     "added": "2026-10-01T08:12Z"
   }

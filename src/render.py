@@ -300,6 +300,15 @@ def sitemap(sc: dict[str, Any], langs: list[str], arts: list[dict[str, Any]]) ->
 # ---------------------------------------------------------------- 실행
 
 
+def kst(stamp: str) -> str:
+    """'2026-10-03T01:23Z' 같은 UTC 표기를 KST 문자열로. 못 읽으면 그대로."""
+    try:
+        t = dt.datetime.strptime(stamp, "%Y-%m-%dT%H:%MZ").replace(tzinfo=dt.timezone.utc)
+    except ValueError:
+        return stamp
+    return t.astimezone(dt.timezone(dt.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M KST")
+
+
 def render_all(cfg: dict[str, Any]) -> str:
     sc = site_cfg()
     langs = cfg["languages"]
@@ -314,7 +323,10 @@ def render_all(cfg: dict[str, Any]) -> str:
     sources_used = sorted({a["source"] for a in arts}, key=lambda s: order.index(s) if s in order else 99)
     if not sources_used:
         sources_used = [k for k, v in cfg["sources"].items() if v.get("enabled", True)]
-    now = dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M KST")
+    # 렌더 시각이 아니라 마지막 수집 시각을 씁니다. --render-only 로 다시 만들어도 바뀌지 않고,
+    # 기사 페이지는 기사 자신의 추가 시각을 써서 새 기사가 없을 때 수백 개 파일이 매번 바뀌지 않습니다.
+    checked = store.load_status().get("checked") or max((a.get("added") or "" for a in arts), default="")
+    now = kst(checked)
 
     # 기사 파일은 매번 새로 씁니다. 지워진 기사가 남지 않도록 언어 폴더를 비웁니다.
     for l in langs:
@@ -328,7 +340,7 @@ def render_all(cfg: dict[str, Any]) -> str:
         (DOCS / l / "index.html").write_text(page_list(sc, l, langs, arts, sources_used, now), encoding="utf-8")
         (DOCS / l / "rss.xml").write_text(rss(sc, l, arts), encoding="utf-8")
         for a in arts:
-            (DOCS / l / "news" / f"{a['id']}.html").write_text(page_article(sc, l, langs, a, now), encoding="utf-8")
+            (DOCS / l / "news" / f"{a['id']}.html").write_text(page_article(sc, l, langs, a, kst(a.get("added") or checked)), encoding="utf-8")
 
     (DOCS / "index.html").write_text(page_root(sc, langs), encoding="utf-8")
     (DOCS / "404.html").write_text(page_root(sc, langs, "/"), encoding="utf-8")

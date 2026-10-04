@@ -9,6 +9,7 @@ from __future__ import annotations
 import argparse
 import contextlib
 import datetime as dt
+import os
 import sys
 from pathlib import Path
 from typing import Any
@@ -28,7 +29,7 @@ def load_cfg() -> dict[str, Any]:
     return yaml.safe_load((ROOT / "config" / "settings.yaml").read_text(encoding="utf-8"))
 
 
-def collect(cfg: dict[str, Any], browser: Any, since: dt.date) -> list[dict[str, Any]]:
+def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str, Any]) -> list[dict[str, Any]]:
     found: list[dict[str, Any]] = []
     for key, scfg in cfg["sources"].items():
         if not scfg.get("enabled", True):
@@ -38,11 +39,16 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date) -> list[dict[str,
         elif key in BROWSER_SOURCES:
             if browser is None:
                 print(f"  - {key}: 건너뜀 (브라우저 없음)")
+                report[key] = {"ok": False, "items": 0, "error": "브라우저 없음"}
                 continue
             res = sources.collect_listing(browser, key, scfg)
         else:
             continue
         print(f"  - {key}: {res['error'] or 'ok'} ({len(res['items'])}건)")
+        report[key] = {"ok": not res["error"], "items": len(res["items"]), "error": (res["error"] or "")[:300] or None}
+        if res["error"] and os.environ.get("GITHUB_ACTIONS"):
+            # Actions 실행 요약에 경고로 드러냅니다. 실행은 초록색이어도 소스 실패를 놓치지 않게 합니다.
+            print(f"::warning title=수집 실패 {key}::{res['error'][:300]}")
         found.extend(res["items"])
     return found
 
@@ -84,7 +90,8 @@ def run(cfg: dict[str, Any]) -> None:
 
     with browser_cm as browser:
         print("[1/3] 수집")
-        found = collect(cfg, browser, since)
+        report: dict[str, Any] = {}
+        found = collect(cfg, browser, since, report)
 
         fresh: dict[str, dict[str, Any]] = {}
         for it in found:
@@ -116,6 +123,11 @@ def run(cfg: dict[str, Any]) -> None:
             data = translate.build({**it, "published": published}, text, langs, cfg["model"], labels[it["source"]])
             if not data:
                 continue
+            if data.get("relevant") is False:
+                # 연방관보 검색어에 걸렸지만 비자·이민과 무관한 문서 (전력망, 기념일 선포 등)
+                print("    - 이민과 무관. 게시하지 않음")
+                seen[it["id"]] = f"irrelevant {published or ''} {it['url']}"
+                continue
             published = published or data.get("published") or today.isoformat()
             article = {
                 "id": it["id"],
@@ -137,6 +149,10 @@ def run(cfg: dict[str, Any]) -> None:
     backfill_categories(cfg, index)
     store.save_index(index)
     store.save_seen(seen)
+    store.save_status({
+        "checked": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
+        "sources": report,
+    })
 
 
 def backfill_categories(cfg: dict[str, Any], index: list[dict[str, Any]]) -> None:
