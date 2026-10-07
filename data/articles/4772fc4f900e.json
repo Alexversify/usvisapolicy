@@ -1,0 +1,90 @@
+{
+  "id": "4772fc4f900e",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/news-releases/italian-alien-charged-with-voting-in-2024-general-election-and-lying-about-it",
+  "original_title": "Italian Alien Charged With Voting in 2024 General Election and Lying About It",
+  "published": "2026-10-07",
+  "effective_date": null,
+  "importance": "low",
+  "category": "enforcement",
+  "tags": [
+    "Naturalization",
+    "Fraud",
+    "Enforcement",
+    "N-400"
+  ],
+  "langs": {
+    "ko": {
+      "title": "이탈리아 국적자, 2024년 총선 투표 및 허위 진술 혐의로 기소",
+      "summary": "플로리다주 탬파에서 이탈리아 국적자 안드레아 카타네세가 미국 시민이 아님에도 2024년 총선에서 투표하고 이를 N-400 양식과 USCIS 면접에서 허위로 진술한 혐의로 연방 기소되었습니다. USCIS는 이민세관단속국 산하 국토안보수사국의 수사에 협조했습니다.",
+      "points": [
+        "60세 이탈리아 국적자 안드레아 카타네세가 외국인의 투표, 귀화 부정 취득 시도, 귀화 관련 허위 진술 혐의로 기소되었습니다.",
+        "기소장에 따르면 그는 미국 시민이 아님에도 2024년 총선에서 투표한 것으로 알려졌습니다.",
+        "그는 Form N-400 신청서와 USCIS 심사관 면접에서 연방 선거 투표 사실을 부인한 것으로 알려졌습니다.",
+        "모든 혐의로 유죄 판결을 받을 경우 최대 10년의 연방 징역형에 처해질 수 있습니다.",
+        "이 사건은 국토안보수사국이 USCIS와 Pasco County 선거관리위원회의 협조를 받아 수사했습니다.",
+        "기소는 유죄가 확정될 때까지 혐의 사실로 간주되며, 피고인은 무죄로 추정됩니다."
+      ],
+      "who": "미국 시민이 아닌 상태에서 투표하거나 귀화 신청 과정에서 허위 진술을 한 외국인에게 해당되는 사안입니다.",
+      "action": "이민 혜택과 관련된 사기나 허위 진술이 의심되는 경우 USCIS Tip Form을 통해 신고할 수 있습니다."
+    },
+    "en": {
+      "title": "Italian National Indicted for Voting in 2024 Election and Lying on Naturalization Form",
+      "summary": "USCIS assisted in the federal investigation leading to the indictment of Andrea Catanese, a 60-year-old Italian national, for voting while not a U.S. citizen and making false statements on his naturalization application. If convicted on all counts, he faces up to 10 years in federal prison.",
+      "points": [
+        "Andrea Catanese, 60, an Italian national, was indicted for voting by an alien, attempting to unlawfully procure naturalization, and making a false statement related to naturalization.",
+        "The indictment alleges Catanese voted in the 2024 general election despite not being a U.S. citizen.",
+        "He allegedly falsely stated on Form N-400 and to a USCIS official that he had never voted in a federal election.",
+        "If convicted on all counts, Catanese faces a maximum penalty of 10 years in federal prison.",
+        "The case was investigated by ICE Homeland Security Investigations with assistance from USCIS and the Pasco County Supervisor of Elections.",
+        "An indictment is only a formal charge, and the defendant is presumed innocent until proven guilty."
+      ],
+      "who": "This affects noncitizens who may have voted in federal elections or made false statements on naturalization applications.",
+      "action": "Suspected immigration benefit fraud can be reported to USCIS using the USCIS Tip Form."
+    },
+    "es": {
+      "title": "Ciudadano italiano acusado de votar en las elecciones de 2024 y mentir al respecto",
+      "summary": "USCIS colaboró en la investigación federal que llevó a la acusación de Andrea Catanese, ciudadano italiano de 60 años, por votar sin ser ciudadano estadounidense y hacer declaraciones falsas en su solicitud de naturalización. Si es declarado culpable de todos los cargos, podría enfrentar hasta 10 años de prisión federal.",
+      "points": [
+        "Andrea Catanese, de 60 años, ciudadano italiano, fue acusado de votar siendo extranjero, intentar obtener la naturalización de forma ilegal y hacer una declaración falsa relacionada con la naturalización.",
+        "Según la acusación, Catanese votó en las elecciones generales de 2024 pese a no ser ciudadano estadounidense.",
+        "Se le acusa de haber declarado falsamente en el Formulario N-400 y ante un oficial de USCIS que nunca había votado en una elección federal.",
+        "Si es condenado por todos los cargos, enfrenta una pena máxima de 10 años de prisión federal.",
+        "El caso fue investigado por Investigaciones de Seguridad Nacional de ICE, con apoyo de USCIS y la oficina electoral del condado de Pasco.",
+        "Una acusación formal no implica culpabilidad, y el acusado se presume inocente hasta que se demuestre lo contrario."
+      ],
+      "who": "Afecta a personas no ciudadanas que podrían haber votado en elecciones federales o hecho declaraciones falsas en solicitudes de naturalización.",
+      "action": "El fraude o abuso relacionado con beneficios migratorios puede reportarse a USCIS mediante el formulario USCIS Tip Form."
+    },
+    "zh": {
+      "title": "意大利籍人士因在2024年大选中投票并撒谎被起诉",
+      "summary": "美国公民及移民服务局（USCIS）协助联邦调查，导致60岁的意大利籍人士安德烈亚·卡塔内塞被起诉，罪名包括在非美国公民身份下投票以及在入籍申请中作虚假陈述。若所有罪名成立，他最高可面临10年联邦监禁。",
+      "points": [
+        "60岁的意大利籍人士安德烈亚·卡塔内塞被控非法投票、企图非法获得入籍资格以及在入籍过程中作虚假陈述。",
+        "起诉书称，卡塔内塞在并非美国公民的情况下参加了2024年大选投票。",
+        "他被指控在N-400入籍申请表及接受USCIS官员面谈时，谎称自己从未在联邦选举中投票。",
+        "若所有罪名成立，他最高可面临10年联邦监禁。",
+        "该案由美国移民及海关执法局（ICE）国土安全调查部门调查，USCIS及帕斯科县选举事务办公室提供协助。",
+        "起诉仅为正式指控，被告在被证明有罪前依法推定无罪。"
+      ],
+      "who": "此事件涉及非美国公民在联邦选举中投票或在入籍申请中作虚假陈述的情况。",
+      "action": "如发现涉嫌移民福利欺诈或滥用行为，可通过USCIS举报表（USCIS Tip Form）向USCIS举报。"
+    },
+    "ja": {
+      "title": "イタリア国籍の男、2024年総選挙での投票と虚偽申告の疑いで起訴",
+      "summary": "米国市民権・移民局（USCIS）が協力した連邦捜査の結果、イタリア国籍のアンドレア・カタネーゼ容疑者（60歳）が、米国市民でないにもかかわらず投票し、帰化申請で虚偽の申告をした疑いで起訴されました。全ての罪状で有罪となった場合、最大で禁錮10年の刑が科される可能性があります。",
+      "points": [
+        "イタリア国籍のアンドレア・カタネーゼ容疑者（60歳）が、外国人による投票、不正な帰化取得未遂、帰化に関する虚偽申告の罪で起訴されました。",
+        "起訴状によると、同容疑者は米国市民でないにもかかわらず2024年の総選挙で投票したとされています。",
+        "同容疑者はForm N-400（帰化申請書）およびUSCIS担当官への面接で、連邦選挙での投票経験を否定したとされています。",
+        "全ての罪状で有罪となった場合、最大で禁錮10年の刑が科される可能性があります。",
+        "本件はICE国土安全保障調査局が捜査を主導し、USCISおよびパスコ郡選挙管理事務所が協力しました。",
+        "起訴は正式な容疑に過ぎず、有罪が確定するまで被告人は無罪と推定されます。"
+      ],
+      "who": "米国市民でない人が連邦選挙で投票したり、帰化申請で虚偽の申告をした場合に関係する内容です。",
+      "action": "移民給付に関する不正や悪用が疑われる場合は、USCIS Tip Formを通じて報告することができます。"
+    }
+  },
+  "added": "2026-10-07T20:40Z",
+  "model": "claude-sonnet-5"
+}
