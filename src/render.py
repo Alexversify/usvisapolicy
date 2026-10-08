@@ -232,6 +232,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
 {who}{action}
 <div class="src">{e(t('original_title', lang))}: {e(a['original_title'])}<br>
 <a class="btn" href="{e(a['url'])}" rel="noopener" target="_blank">{e(t('original', lang))} ↗</a>
+<a class="arch" href="https://web.archive.org/web/{e(a['url'])}" rel="noopener" target="_blank">{e(t('archived', lang))}</a>
 <p class="note">{e(t('ai_note', lang))}</p></div>
 {cta}{ad}
 </article>
@@ -316,8 +317,12 @@ def render_all(cfg: dict[str, Any]) -> str:
     arts = []
     for row in index:
         a = store.load_article(row["id"])
-        if a and all(l in a.get("langs", {}) for l in langs):
-            arts.append(a)
+        if not a or not a.get("langs"):
+            continue
+        # 한 번 올린 기사는 언어가 하나 빠져도 내리지 않습니다. 빠진 언어는 영어(없으면 있는 언어)로 채웁니다.
+        fallback = a["langs"].get("en") or next(iter(a["langs"].values()))
+        a["langs"] = {l: a["langs"].get(l) or fallback for l in langs}
+        arts.append(a)
     arts.sort(key=lambda a: (a.get("published") or "", a.get("added") or ""), reverse=True)
     order = list(SOURCE_LABEL)
     sources_used = sorted({a["source"] for a in arts}, key=lambda s: order.index(s) if s in order else 99)

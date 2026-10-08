@@ -26,6 +26,7 @@ T: dict[str, dict[str, str]] = {
     "who": {"ko": "영향 대상", "en": "Who is affected", "es": "A quién afecta", "zh": "影响对象", "ja": "対象者"},
     "action": {"ko": "확인할 일", "en": "What to do", "es": "Qué hacer", "zh": "建议行动", "ja": "取るべき対応"},
     "original": {"ko": "원문 보기", "en": "Read the official source", "es": "Ver la fuente oficial", "zh": "查看官方原文", "ja": "公式原文を見る"},
+    "archived": {"ko": "원문이 내려간 경우 보관본 보기", "en": "Archived copy (if the original is removed)", "es": "Copia archivada (si se retira el original)", "zh": "原文删除时查看存档", "ja": "原文が削除された場合のアーカイブ"},
     "original_title": {"ko": "원문 제목", "en": "Original title", "es": "Título original", "zh": "原文标题", "ja": "原文タイトル"},
     "back": {"ko": "목록으로", "en": "All updates", "es": "Todas las novedades", "zh": "返回列表", "ja": "一覧へ"},
     "empty": {"ko": "아직 게시된 업데이트가 없습니다. 첫 수집이 끝나면 여기에 표시됩니다.", "en": "No updates yet. They will appear here after the first collection run.", "es": "Aún no hay novedades. Aparecerán aquí tras la primera recopilación.", "zh": "暂无更新。首次采集完成后将在此显示。", "ja": "まだ更新はありません。初回収集後にここに表示されます。"},
