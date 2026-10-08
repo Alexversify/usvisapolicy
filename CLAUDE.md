@@ -10,6 +10,7 @@ Claude로 한국어·영어·스페인어·중국어(간체)·일본어 기사�
 config/settings.yaml   수집 소스, 언어, 모델, 실행당 번역 상한
 config/site.yaml       도메인, 운영자, 광고/분석, 상담 링크, feedbal 연동
 src/sources.py         수집 (USCIS·국무부·DHS는 Playwright, 연방관보는 공개 API와 공개열람 API)
+                       국무부는 Actions에서 Cloudflare에 막혀 web.archive.org 최신 사본으로 대체 (archive_fallback)
 src/translate.py       Claude 호출. 5개 언어 기사 JSON 생성
 src/store.py           data/ 읽기·쓰기
 src/main.py            진입점. --render-only 는 docs/만 재생성

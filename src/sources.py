@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import datetime as dt
 import hashlib
+import html as html_lib
 import os
 import re
 from typing import Any
@@ -144,6 +145,77 @@ class Browser:
             page.close()
 
 
+# ---------------------------------------------------------------- 인터넷 아카이브 대체 경로
+# travel.state.gov는 GitHub Actions 같은 데이터센터 IP에 Cloudflare 확인 화면만 돌려줍니다.
+# 확인 화면을 통과시키는 조작은 하지 않고, 같은 공개 페이지의 인터넷 아카이브(web.archive.org)
+# 최신 사본을 읽습니다. 기사에는 원래 주소(travel.state.gov)를 그대로 링크합니다.
+
+ARCHIVE_CDX = "https://web.archive.org/cdx/search/cdx"
+BLOCK_MARKS = ("just a moment", "cf-chl", "challenge-platform", "attention required", "cloudflare ray id")
+
+
+def looks_blocked(text: str) -> bool:
+    low = (text or "")[:4000].lower()
+    return any(m in low for m in BLOCK_MARKS)
+
+
+def archive_get(url: str, max_age_days: int = 60) -> tuple[str, str] | None:
+    """(원본 HTML, 사본 시각 YYYYMMDDhhmmss). 최근 사본 중 확인 화면이 아닌 첫 번째. 없으면 None."""
+    try:
+        res = requests.get(ARCHIVE_CDX, params={
+            "url": url, "output": "json", "fl": "timestamp,statuscode",
+            "filter": "statuscode:200", "limit": "-6",
+        }, timeout=45, headers={"User-Agent": UA})
+        res.raise_for_status()
+        rows = [r for r in (res.json() or [])[1:] if r and r[0].isdigit()]
+    except Exception:  # noqa: BLE001
+        return None
+    oldest = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=max_age_days)).strftime("%Y%m%d%H%M%S")
+    for ts, _ in sorted(rows, reverse=True):
+        if ts < oldest:
+            break
+        try:
+            r = requests.get(f"https://web.archive.org/web/{ts}id_/{url}", timeout=60, headers={"User-Agent": UA})
+            if r.status_code == 200 and not looks_blocked(r.text):
+                return r.text, ts
+        except Exception:  # noqa: BLE001
+            continue
+    return None
+
+
+def _strip(fragment: str) -> str:
+    fragment = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", fragment)
+    fragment = re.sub(r"(?i)<br\s*/?>|</(p|div|li|h\d|tr)>", "\n", fragment)
+    text = html_lib.unescape(re.sub(r"<[^>]+>", " ", fragment))
+    text = re.sub(r"[ \t\xa0]+", " ", text)
+    return re.sub(r"\n\s*\n+", "\n\n", text).strip()
+
+
+def html_links(page: str, base: str) -> list[dict[str, str]]:
+    """원본 HTML에서 링크, 링크 문구, 앞뒤 문맥(날짜 추출용)을 뽑습니다."""
+    out = []
+    for m in re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', page):
+        # 문맥은 링크를 감싼 항목(li, tr, p) 안에서만 봅니다. 옆 항목의 날짜를 가져오지 않게 합니다.
+        lo = max(page.rfind(t, 0, m.start()) for t in ("<li", "<tr", "<p", "<article"))
+        his = [i for i in (page.find(t, m.end()) for t in ("</li>", "</tr>", "</p>", "</article>")) if i != -1]
+        lo = lo if lo != -1 and m.start() - lo < 1500 else m.start()
+        hi = min(his) if his and min(his) - m.end() < 1500 else m.end()
+        ctx = _strip(page[lo:hi])
+        out.append({"href": urljoin(base, html_lib.unescape(m.group(1))), "text": _strip(m.group(2)), "context": ctx[:400], "time": ""})
+    return out
+
+
+def html_main_text(page: str) -> str:
+    """원본 HTML의 본문 텍스트. 국무부 페이지는 본문 영역부터 읽어 메뉴 문구를 줄입니다."""
+    page = re.sub(r"(?is)<(nav|header|footer)[^>]*>.*?</\1>", " ", page)
+    for mark in ("tsg-rwd-main-copy-body-frame", "<main", 'id="main-content"', "<article"):
+        i = page.find(mark)
+        if i != -1:
+            page = page[max(page.rfind("<", 0, i), 0) if not mark.startswith("<") else i:]
+            break
+    return _strip(page)
+
+
 def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str, Any]:
     """목록 페이지에서 패턴에 맞는 기사 링크를 뽑습니다."""
     pat = re.compile(cfg["link_pattern"])
@@ -153,7 +225,14 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
     errors = []
     for list_url in cfg.get("list_urls", []):
         try:
-            links = browser.links(list_url)
+            links = browser.links(list_url) if browser is not None else []
+            via = ""
+            blocked = browser is None or len(links) < 5 or any("cloudflare.com" in l["href"] for l in links[:5])
+            if blocked and cfg.get("archive_fallback"):
+                got = archive_get(list_url, int(cfg.get("archive_max_age_days", 14)))
+                if got:
+                    links, via = html_links(got[0], list_url), f"archive {got[1]}"
+                    print(f"    {key}: 차단되어 인터넷 아카이브 사본 사용 ({got[1][:8]})")
             before = len(seen)
             for link in links:
                 href = urljoin(list_url, link["href"]).split("#")[0]
@@ -168,6 +247,8 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
                     "url": href,
                     "title": title,
                     "published": parse_date(link.get("time", "")) or parse_date(link.get("context", "")),
+                    "archive_fallback": bool(cfg.get("archive_fallback")),
+                    "via": via,
                 }
             if len(seen) == before and not title_pat:
                 # 차단 페이지나 구조 변경을 로그로 드러냅니다.
