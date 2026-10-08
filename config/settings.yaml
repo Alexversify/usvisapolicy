@@ -42,10 +42,19 @@ sources:
     enabled: true
     label: Federal Register
     # 공개 API, 키 불필요. 규칙 제정과 공고를 시행 전에 잡습니다.
+    # USCIS·국무부만 보면 DHS 본부나 ICE(SEVP, 유학생 F-1/OPT), CBP, 노동부(H-1B LCA, PERM),
+    # 이민법원(EOIR) 명의 규정을 놓칩니다. 예: 2026-10 OPT 수수료 규정안은 DHS/ICE 명의.
     agencies:
       - u-s-citizenship-and-immigration-services
       - state-department
+      - homeland-security-department
+      - u-s-immigration-and-customs-enforcement
+      - u-s-customs-and-border-protection
+      - employment-and-training-administration
+      - executive-office-for-immigration-review
     types: [RULE, PRORULE, NOTICE]
+    # 한 페이지 100건. 정보수집 공고가 많아 여러 페이지를 봐야 실제 규정이 빠지지 않습니다.
+    max_pages: 5
     # 연방관보 검색은 OR 대신 | 를 씁니다.
     term: "visa | immigration | immigrant | nonimmigrant | naturalization | asylum | parole"
     # 제목에 이 문구가 있으면 버립니다. 정보수집 공고는 실무 영향이 거의 없습니다.
@@ -54,6 +63,42 @@ sources:
       - "Currently Approved Collection"
       - "International Traffic in Arms"
       - "Culturally Significant Objects"
+
+  fr_public_inspection:
+    enabled: true
+    label: Federal Register (Public Inspection)
+    # 연방관보 게재 하루 전 공개열람본. 규정안이 발표되는 날 바로 잡습니다.
+    # 다음 날 정식 게재본은 같은 문서 번호라 중복 게시하지 않습니다.
+    agencies:
+      - u-s-citizenship-and-immigration-services
+      - state-department
+      - homeland-security-department
+      - u-s-immigration-and-customs-enforcement
+      - u-s-customs-and-border-protection
+      - employment-and-training-administration
+      - executive-office-for-immigration-review
+      - executive-office-of-the-president
+    types: [Rule, Proposed Rule, Notice, Presidential Document]
+    # 이 기관 문서는 제목 키워드 없이 받습니다.
+    core_agencies:
+      - u-s-citizenship-and-immigration-services
+      - u-s-immigration-and-customs-enforcement
+      - executive-office-for-immigration-review
+    title_pattern: "practical training|OPT|F-1|J-1|visa|immigra|alien|nonimmigrant|naturaliz|asylum|parole|refugee|student|exchange visitor|SEVP|SEVIS|H-1B|H-2|labor certification|entry|deport|removal|citizenship|employment authorization|TPS|temporary protected"
+    skip_title_prefixes:
+      - "Information Collection"
+      - "Currently Approved Collection"
+      - "Agency Information Collection"
+
+  dhs_news:
+    enabled: true
+    label: DHS
+    # DHS 본부 보도자료. 규정안 발표(예: OPT 수수료)가 USCIS 뉴스룸에는 안 올라오는 경우가 있습니다.
+    list_urls:
+      - https://www.dhs.gov/news-releases/press-releases
+    link_pattern: "/news/20\\d\\d/\\d\\d/\\d\\d/[^?#]+"
+    max_items: 20
+    title_pattern: "practical training|visa|immigra|alien|migrant|nonimmigrant|naturaliz|asylum|parole|refugee|student|OPT|F-1|SEVP|SEVIS|H-1B|H-2|green card|citizenship|deport|removal|border|ICE|CBP|USCIS|TPS|entry|travel ban|work permit|employment authorization"
 
   presidential:
     enabled: true

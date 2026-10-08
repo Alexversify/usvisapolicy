@@ -29,6 +29,9 @@ Rules:
 - Keep legal terms precise. Keep form numbers (I-129, DS-160), visa classes (H-1B, EB-5) and agency
   names in their original Latin form in every language.
 - Neutral, factual newsroom tone. No hype, no advice phrased as legal advice.
+- Proposed rules are not law. Say clearly that the change is only proposed, not final or in effect, and give
+  the comment deadline if the source states it. If the source says it was filed for public inspection, say it is
+  scheduled to be published in the Federal Register.
 - Never use the em dash character. Use commas or periods.
 - In Korean, never use the word "아울러". Write natural Korean news style (~다/~습니다 consistent within an article, prefer ~습니다).
 - Each language version must be written natively, not a word-for-word translation.

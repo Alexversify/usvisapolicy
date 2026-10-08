@@ -21,8 +21,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src import render, sources, store, translate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin"}
+BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news"}
 FR_SOURCES = {"federal_register", "presidential"}
+PI_SOURCES = {"fr_public_inspection"}
 
 
 def load_cfg() -> dict[str, Any]:
@@ -36,6 +37,8 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
             continue
         if key in FR_SOURCES:
             res = sources.collect_federal_register(key, scfg, since)
+        elif key in PI_SOURCES:
+            res = sources.collect_public_inspection(key, scfg)
         elif key in BROWSER_SOURCES:
             if browser is None:
                 print(f"  - {key}: 건너뜀 (브라우저 없음)")
@@ -56,7 +59,7 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
 def source_text(item: dict[str, Any], browser: Any) -> tuple[str, str | None]:
     """(본문, 페이지에서 찾은 게시일)."""
     if item.get("prefetched_text") is not None:
-        extra = sources.fetch_fr_text(item.get("text_url"))
+        extra = sources.fetch_fr_text(item.get("text_url"), pdf_url=item.get("pdf_url"))
         return (item["prefetched_text"] + ("\n\n--- FULL TEXT (truncated) ---\n" + extra if extra else ""), None)
     if browser is None:
         return "", None
@@ -73,6 +76,9 @@ def run(cfg: dict[str, Any]) -> None:
     index = store.load_index()
     seen = store.load_seen()
     known = {x["id"] for x in index} | set(seen)
+    # 공개열람본으로 이미 낸 문서가 다음 날 정식 게재되면 URL이 달라도 같은 문서 번호입니다.
+    known_docs = {sources.fr_doc_number(x["url"]) for x in index} | {sources.fr_doc_number(v) for v in seen.values()}
+    known_docs.discard(None)
     today = dt.date.today()
     since = today - dt.timedelta(days=int(cfg.get("backfill_days", 45)))
 
@@ -96,6 +102,9 @@ def run(cfg: dict[str, Any]) -> None:
         fresh: dict[str, dict[str, Any]] = {}
         for it in found:
             if it["id"] in known or it["id"] in fresh:
+                continue
+            if it.get("doc") and (it["doc"] in known_docs or any(f.get("doc") == it["doc"] for f in fresh.values())):
+                promote_published(index, it)
                 continue
             if it.get("published") and it["published"] < since.isoformat():
                 seen[it["id"]] = f"old {it['published']} {it['url']}"
@@ -153,6 +162,22 @@ def run(cfg: dict[str, Any]) -> None:
         "checked": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
         "sources": report,
     })
+
+
+def promote_published(index: list[dict[str, Any]], it: dict[str, Any]) -> None:
+    """공개열람본으로 낸 기사의 원문 링크를 정식 게재본 주소로 바꿉니다."""
+    if "/public-inspection/" in it["url"]:
+        return
+    for row in index:
+        if "/public-inspection/" in row["url"] and sources.fr_doc_number(row["url"]) == it["doc"]:
+            row["url"] = it["url"]
+            a = store.load_article(row["id"])
+            if a:
+                a["url"] = it["url"]
+                if it.get("effective_on") and not a.get("effective_date"):
+                    a["effective_date"] = row["effective_date"] = it["effective_on"]
+                store.save_article(row["id"], a)
+            print(f"  - 게재본 링크로 교체: {it['doc']}")
 
 
 def backfill_categories(cfg: dict[str, Any], index: list[dict[str, Any]]) -> None:

@@ -11,7 +11,9 @@ Claude가 한국어·영어·스페인어·중국어·일본어 기사로 요약
 | USCIS Newsroom (All News, Alerts) | Playwright | 보도자료, 정책 알림 |
 | 국무부 travel.state.gov Visas News | Playwright | 비자 정책, 영사 업무 공지 |
 | Visa Bulletin | Playwright | 최근 2개월 |
-| Federal Register (USCIS, 국무부) | 공개 API | 규칙 제정, 공고. 정보수집 공고는 제외 |
+| Federal Register (USCIS, 국무부, DHS, ICE/SEVP, CBP, 노동부 ETA, EOIR) | 공개 API | 규칙 제정, 공고. 정보수집 공고는 제외 |
+| Federal Register 공개열람 | 공개 API | 게재 하루 전 공개본. 게재되면 같은 문서 번호로 링크만 교체 |
+| DHS 보도자료 | Playwright | 이민 관련 제목만 |
 | Federal Register 대통령 문서 | 공개 API | 비자·입국 관련 포고문, 행정명령 |
 
 USCIS와 travel.state.gov는 봇 차단이 있어 requests로는 안 열립니다. visacal과 같이 실제 브라우저로 엽니다.
