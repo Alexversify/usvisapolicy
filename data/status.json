@@ -1,45 +1,68 @@
 {
-  "checked": "2026-10-08T08:16Z",
+  "checked": "2026-10-08T08:34Z",
   "sources": {
     "uscis_news": {
       "ok": true,
       "items": 18,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     },
     "dos_visa_news": {
       "ok": false,
       "items": 0,
-      "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+      "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 1개, 예시 [('https://www.cloudflare.com/5xx-error-landing', 'Cloudflare')])",
+      "fail_streak": 1,
+      "alert": false
     },
     "visa_bulletin": {
       "ok": false,
       "items": 0,
-      "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+      "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "fail_streak": 1,
+      "alert": false
     },
     "uscis_vb_chart": {
       "ok": true,
       "items": 1,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     },
     "state_press": {
       "ok": true,
       "items": 0,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     },
     "federal_register": {
       "ok": true,
       "items": 21,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     },
     "fr_public_inspection": {
       "ok": true,
       "items": 1,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     },
     "presidential": {
       "ok": true,
       "items": 5,
-      "error": null
+      "error": null,
+      "fail_streak": 0,
+      "alert": true
     }
-  }
+  },
+  "translate": {
+    "done": 0,
+    "failed": 0,
+    "key": true,
+    "fail_streak": 0
+  },
+  "retries": {}
 }
