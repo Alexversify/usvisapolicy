@@ -91,9 +91,10 @@ sources:
       - "Agency Information Collection"
 
   dhs_news:
-    enabled: true
+    # 꺼둠. 목록 대부분이 ICE 체포 홍보라 피드를 흐리고, DHS 규정은 연방관보 공개열람에서 발표 당일 잡힙니다.
+    # (2026-10 OPT 수수료 규정안도 공개열람으로 수집됨. 보도자료와 겹쳐 중복 게시됨)
+    enabled: false
     label: DHS
-    # DHS 본부 보도자료. 규정안 발표(예: OPT 수수료)가 USCIS 뉴스룸에는 안 올라오는 경우가 있습니다.
     list_urls:
       - https://www.dhs.gov/news-releases/press-releases
     link_pattern: "/news/20\\d\\d/\\d\\d/\\d\\d/[^?#]+"
