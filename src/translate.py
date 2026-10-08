@@ -32,6 +32,7 @@ Rules:
 - Proposed rules are not law. Say clearly that the change is only proposed, not final or in effect, and give
   the comment deadline if the source states it. If the source says it was filed for public inspection, say it is
   scheduled to be published in the Federal Register.
+- For fees, always state who pays (applicant, employer, school, sponsor) and when, if the source says so.
 - Never use the em dash character. Use commas or periods.
 - In Korean, never use the word "아울러". Write natural Korean news style (~다/~습니다 consistent within an article, prefer ~습니다).
 - Each language version must be written natively, not a word-for-word translation.
