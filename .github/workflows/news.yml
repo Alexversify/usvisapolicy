@@ -19,9 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -44,8 +44,22 @@ jobs:
           git add data docs
           if git diff --staged --quiet; then
             echo "변경 없음"
-          else
-            git commit -m "news: 업데이트 $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -m "news: 업데이트 $(date -u +%Y-%m-%dT%H:%MZ)"
+          # 피드백 반영 PR 등과 docs/ 가 겹쳐도 멈추지 않게 최신 main 을 합치고 다시 생성합니다.
+          for i in 1 2 3; do
+            git fetch -q origin main
+            # 겹치는 파일은 이번 수집 결과를 우선하고, 다른 변경은 그대로 둡니다. docs/ 는 아래에서 다시 생성합니다.
+            git merge -q --no-edit -X ours origin/main || { git merge --abort; exit 1; }
+            python -m src.main --render-only
+            git add data docs
+            git diff --staged --quiet || git commit -q -m "news: 사이트 재생성"
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 15))
+          done
+          exit 1
+
+      # 소스가 계속 실패하거나 번역이 멈추면 실행을 실패로 표시합니다. GitHub이 저장소 소유자에게 메일을 보냅니다.
+      - name: 상태 점검
+        run: python scripts/health.py

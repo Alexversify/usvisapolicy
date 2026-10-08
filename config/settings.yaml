@@ -26,6 +26,8 @@ sources:
     enabled: true
     label: Department of State
     # GitHub Actions 서버는 Cloudflare 확인 화면에 막힙니다. 막히면 인터넷 아카이브 최신 사본을 읽습니다.
+    # 차단이 알려진 소스라 연속 실패해도 알림을 보내지 않습니다.
+    alert: false
     archive_fallback: true
     archive_max_age_days: 14
     list_urls:
@@ -36,6 +38,8 @@ sources:
     enabled: true
     label: Visa Bulletin
     # GitHub Actions 서버는 Cloudflare 확인 화면에 막힙니다. 막히면 인터넷 아카이브 최신 사본을 읽습니다.
+    # 차단이 알려진 소스라 연속 실패해도 알림을 보내지 않습니다.
+    alert: false
     archive_fallback: true
     archive_max_age_days: 14
     list_urls:

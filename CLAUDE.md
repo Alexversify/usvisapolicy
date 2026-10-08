@@ -35,6 +35,14 @@ docs/                  자동 생성물. 직접 고치지 말고 src/ 를 고친
 - 피드백 POST는 `Content-Type: text/plain` 으로 보낸다. JSON으로 바꾸면 CORS 프리플라이트로 실패한다.
 - 모바일(390px)에서 가로 스크롤이 생기지 않게 한다. 다크모드 토큰(assets.CSS :root)을 유지한다.
 
+## 자동 운영
+
+- news 워크플로가 3시간마다 수집, 번역, 커밋, 배포까지 한다. 사람 손이 필요 없다.
+- 같은 글이 계속 실패하면 접는다 (번역 3회, 본문 없음 8회). 번역이 전부 실패한 실행은 세지 않는다 (API 장애로 글을 잃지 않게).
+- scripts/health.py 가 소스 3회 연속 실패, 번역 2회 연속 실패를 잡아 실행을 실패로 표시한다. GitHub이 소유자에게 메일을 보낸다.
+  차단이 알려진 소스는 settings.yaml 에 alert: false.
+- 커밋 시 main 이 앞서 있으면 합친 뒤 docs/ 를 다시 생성해 푸시한다.
+
 ## 소스 추가
 
 settings.yaml 에 항목을 추가한다. 목록 페이지형이면 main.py 의 BROWSER_SOURCES 에,
