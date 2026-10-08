@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-08T08:08Z",
+  "checked": "2026-10-08T08:13Z",
   "sources": {
     "uscis_news": {
       "ok": true,
@@ -15,6 +15,16 @@
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    },
+    "uscis_vb_chart": {
+      "ok": true,
+      "items": 1,
+      "error": null
+    },
+    "state_press": {
+      "ok": true,
+      "items": 0,
+      "error": null
     },
     "federal_register": {
       "ok": true,

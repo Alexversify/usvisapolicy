@@ -100,6 +100,23 @@
     "added": "2026-10-02T16:22Z"
   },
   {
+    "id": "807179a8adaa",
+    "source": "uscis_vb_chart",
+    "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin?bulletin=2026-10",
+    "published": "2026-10-01",
+    "effective_date": "2026-10-01",
+    "importance": "high",
+    "category": "processing",
+    "tags": [
+      "Visa Bulletin",
+      "Adjustment of Status",
+      "Green Card",
+      "Family-Sponsored",
+      "Employment-Based"
+    ],
+    "added": "2026-10-08T08:13Z"
+  },
+  {
     "id": "936f90ad09fe",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20186/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation",
