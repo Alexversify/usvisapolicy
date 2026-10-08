@@ -1,0 +1,91 @@
+{
+  "id": "936f90ad09fe",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20186/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation",
+  "original_title": "Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation",
+  "published": "2026-10-01",
+  "effective_date": "2026-10-16",
+  "importance": "medium",
+  "category": "fees",
+  "tags": [
+    "Fees",
+    "ICE",
+    "Removal",
+    "Inadmissibility",
+    "HR-1"
+  ],
+  "langs": {
+    "ko": {
+      "title": "DHS, HR-1 이민 집행 수수료 2027회계연도 인플레이션 조정 발표",
+      "summary": "국토안보부(DHS)가 HR-1(One Big Beautiful Bill Act)에 따라 설정된 두 가지 이민 집행 관련 수수료를 2027회계연도 기준으로 인플레이션 조정했습니다. 궐석 재판으로 추방 명령을 받은 후 체포된 외국인과 입국항 사이에서 체포된 입국불허 대상 외국인에게 부과되는 수수료가 각각 5,130달러에서 5,300달러로 인상됩니다. 이 수수료는 2026년 10월 16일부터 부과 및 징수됩니다.",
+      "points": [
+        "DHS는 HR-1 Title X에 따라 매년 이민 집행 관련 수수료를 소비자물가지수(CPI-U)에 따라 조정해야 합니다.",
+        "2027회계연도 조정 수수료는 두 항목 모두 5,300달러로, 2026회계연도의 5,130달러에서 인상되었습니다.",
+        "대상은 궐석으로 추방 명령을 받은 후 ICE에 체포된 외국인, 그리고 입국항이 아닌 곳에서 체포된 입국불허 대상 외국인입니다.",
+        "궐석 추방 명령이 INA 240(b)(5)(C)에 따라 취소된 경우에는 수수료 부과 예외가 적용됩니다.",
+        "이 수수료에 대한 면제(waiver)는 허용되지 않습니다.",
+        "새로운 수수료는 2026년 10월 16일부터 적용 및 징수됩니다."
+      ],
+      "who": "궐석으로 추방 명령을 받은 후 체포된 외국인과 입국항 사이에서 체포된 입국불허 대상 외국인이 영향을 받습니다.",
+      "action": "해당 대상자는 DHS로부터 개별 통지를 받게 되며, 통지에 포함된 납부 방법 안내를 확인해야 합니다."
+    },
+    "en": {
+      "title": "DHS Raises Two HR-1 Immigration Enforcement Fees to $5,300 for FY2027",
+      "summary": "The Department of Homeland Security has issued its fiscal year 2027 inflation adjustment for two immigration enforcement fees created by HR-1, the One Big Beautiful Bill Act. Both fees, which apply to aliens arrested after an in absentia removal order and to inadmissible aliens apprehended between ports of entry, rise from $5,130 to $5,300. DHS will begin assessing and collecting the new amounts on October 16, 2026.",
+      "points": [
+        "HR-1 requires DHS to adjust these two immigration enforcement fees annually based on the Consumer Price Index.",
+        "Both fees increase from $5,130 (FY2026) to $5,300 (FY2027), rounded down to the nearest $10.",
+        "The fees apply to aliens ordered removed in absentia under INA 240(b)(5) who are later arrested by ICE, and to inadmissible aliens apprehended between ports of entry.",
+        "An exception exists if an in absentia removal order is rescinded under INA 240(b)(5)(C).",
+        "No waivers are available for either fee.",
+        "The new amounts take effect and begin being collected on October 16, 2026."
+      ],
+      "who": "Aliens who were ordered removed in absentia and later arrested by ICE, and inadmissible aliens apprehended between ports of entry.",
+      "action": "Affected individuals will be individually notified by DHS with payment instructions and should follow those instructions."
+    },
+    "es": {
+      "title": "DHS eleva a $5,300 dos tarifas de ejecucion migratoria bajo HR-1 para el año fiscal 2027",
+      "summary": "El Departamento de Seguridad Nacional (DHS) anuncio el ajuste por inflacion del año fiscal 2027 para dos tarifas de ejecucion migratoria creadas por HR-1, la One Big Beautiful Bill Act. Ambas tarifas, aplicables a extranjeros arrestados tras una orden de remocion en ausencia y a extranjeros inadmisibles aprehendidos entre puertos de entrada, suben de $5,130 a $5,300. DHS comenzara a cobrar los nuevos montos el 16 de octubre de 2026.",
+      "points": [
+        "HR-1 exige que DHS ajuste anualmente estas dos tarifas de ejecucion migratoria segun el Indice de Precios al Consumidor.",
+        "Ambas tarifas aumentan de $5,130 (año fiscal 2026) a $5,300 (año fiscal 2027), redondeado al multiplo de $10 mas bajo.",
+        "Las tarifas aplican a extranjeros con orden de remocion en ausencia bajo la seccion 240(b)(5) de la INA que luego son arrestados por ICE, y a extranjeros inadmisibles aprehendidos entre puertos de entrada.",
+        "Existe una excepcion si la orden de remocion en ausencia es anulada conforme a la seccion 240(b)(5)(C) de la INA.",
+        "No se permiten exenciones (waivers) para ninguna de las dos tarifas.",
+        "Los nuevos montos entran en vigor y comenzaran a cobrarse a partir del 16 de octubre de 2026."
+      ],
+      "who": "Extranjeros con orden de remocion en ausencia posteriormente arrestados por ICE, y extranjeros inadmisibles aprehendidos entre puertos de entrada.",
+      "action": "Las personas afectadas recibiran una notificacion individual de DHS con instrucciones de pago y deben seguirlas."
+    },
+    "zh": {
+      "title": "DHS将HR-1规定的两项移民执法费用在2027财年上调至5300美元",
+      "summary": "美国国土安全部(DHS)公布了根据HR-1法案(One Big Beautiful Bill Act)设立的两项移民执法相关费用在2027财年的通胀调整结果。这两项费用分别适用于被缺席判决驱逐后又被逮捕的外国人,以及在入境口岸之间被截获的不可入境外国人,费用将从5130美元上调至5300美元。DHS将从2026年10月16日起开始收取新费用。",
+      "points": [
+        "HR-1要求DHS每年根据消费者物价指数(CPI-U)对这两项移民执法费用进行通胀调整。",
+        "两项费用均从2026财年的5130美元上调至2027财年的5300美元,向下取整至最接近的10美元倍数。",
+        "该费用适用于依据移民与国籍法(INA)第240(b)(5)条被缺席判决驱逐后又被ICE逮捕的外国人,以及在入境口岸之间被截获的不可入境外国人。",
+        "如缺席驱逐令依据INA第240(b)(5)(C)条被撤销,则可获得费用豁免。",
+        "这两项费用均不提供减免(waiver)。",
+        "新费用将自2026年10月16日起生效并开始征收。"
+      ],
+      "who": "被缺席判决驱逐后又被ICE逮捕的外国人,以及在入境口岸之间被截获的不可入境外国人受到影响。",
+      "action": "受影响人员将收到DHS的个别通知及缴费说明,应按通知要求操作。"
+    },
+    "ja": {
+      "title": "DHS、HR-1に基づく2つの移民執行関連手数料を2027会計年度に5300ドルへ引き上げ",
+      "summary": "米国土安全保障省(DHS)は、HR-1(One Big Beautiful Bill Act)により設けられた2つの移民執行関連手数料について、2027会計年度のインフレ調整を発表しました。欠席による退去強制命令後にICEに逮捕された外国人、および入国港以外の場所で拘束された入国不許可の外国人に適用される手数料は、いずれも5130ドルから5300ドルに引き上げられます。DHSは2026年10月16日からこの新しい金額の賦課と徴収を開始します。",
+      "points": [
+        "HR-1は、これら2つの移民執行関連手数料を消費者物価指数(CPI-U)に基づき毎年調整するようDHSに義務付けています。",
+        "両手数料とも2026会計年度の5130ドルから2027会計年度は5300ドルに引き上げられ、最も近い10ドル単位に切り下げて算定されています。",
+        "対象は、移民国籍法(INA)第240条(b)(5)に基づき欠席のまま退去強制命令を受けた後にICEに逮捕された外国人、および入国港以外の場所で拘束された入国不許可の外国人です。",
+        "欠席退去命令がINA第240条(b)(5)(C)に基づき取り消された場合は、手数料の例外が適用されます。",
+        "いずれの手数料についても免除(ウェイバー)は認められていません。",
+        "新しい手数料は2026年10月16日から発効し、徴収が開始されます。"
+      ],
+      "who": "欠席のまま退去強制命令を受けた後にICEに逮捕された外国人、および入国港以外の場所で拘束された入国不許可の外国人が対象です。",
+      "action": "対象者にはDHSから個別に通知が送付され、支払い方法の案内に従う必要があります。"
+    }
+  },
+  "added": "2026-10-08T00:51Z",
+  "model": "claude-sonnet-5"
+}

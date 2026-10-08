@@ -1,5 +1,88 @@
 [
   {
+    "id": "fe9b76151e83",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-highlights-worst-illegal-aliens-arrested-or-convicted-san-antonio-texas",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Texas",
+      "Public Safety"
+    ],
+    "added": "2026-10-08T00:45Z"
+  },
+  {
+    "id": "0cbaa815d32e",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "F-1",
+      "OPT",
+      "STEM OPT",
+      "SEVP",
+      "Fees",
+      "Proposed Rule",
+      "USCIS"
+    ],
+    "added": "2026-10-08T00:45Z"
+  },
+  {
+    "id": "7456a1bd243b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-issues-statement-after-ice-arrests-illegal-alien-nigeria-who-exposed-himself",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Deferred Action",
+      "Pennsylvania"
+    ],
+    "added": "2026-10-08T00:44Z"
+  },
+  {
+    "id": "bef7c1183e55",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/worst-worst-ice-arrests-pedophiles-animal-abusers-and-drug-traffickers",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-08T00:44Z"
+  },
+  {
+    "id": "0018f6724165",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-20660/optional-practical-training-fees",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "OPT",
+      "F-1",
+      "Student Visa",
+      "Fees",
+      "SEVP"
+    ],
+    "added": "2026-10-08T00:43Z"
+  },
+  {
     "id": "4772fc4f900e",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/italian-alien-charged-with-voting-in-2024-general-election-and-lying-about-it",
@@ -14,6 +97,118 @@
       "N-400"
     ],
     "added": "2026-10-07T20:40Z"
+  },
+  {
+    "id": "43fb442916cb",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/06/dhs-issues-statement-after-two-illegal-aliens-stab-duty-nypd-detective-suspects",
+    "published": "2026-10-06",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Sanctuary City",
+      "Criminal History"
+    ],
+    "added": "2026-10-08T00:47Z"
+  },
+  {
+    "id": "156b867c1780",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/06/worst-worst-ice-arrests-pedophiles-money-launderers-and-drug-traffickers",
+    "published": "2026-10-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "Deportation"
+    ],
+    "added": "2026-10-08T00:46Z"
+  },
+  {
+    "id": "825e99a06c78",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/ice-lodges-detainer-illegal-alien-charged-sexually-assaulting-minor-tennessee",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Immigration Enforcement",
+      "Criminal Case"
+    ],
+    "added": "2026-10-08T00:49Z"
+  },
+  {
+    "id": "7bf9f7af19dd",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/worst-worst-ice-arrests-murderers-pedophiles-sexual-assailants-and-drug-traffickers",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "DHS"
+    ],
+    "added": "2026-10-08T00:48Z"
+  },
+  {
+    "id": "81358e7d2858",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/secretary-mullin-observes-deportation-flight-removing-dangerous-illegal-aliens-el",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "Deportation",
+      "ICE",
+      "El Salvador",
+      "Enforcement"
+    ],
+    "added": "2026-10-08T00:48Z"
+  },
+  {
+    "id": "2bfd1019d031",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/dhs-highlights-worst-illegal-aliens-arrested-or-convicted-nebraska",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "Nebraska"
+    ],
+    "added": "2026-10-08T00:47Z"
+  },
+  {
+    "id": "e23afafdca30",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20233/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-10-02",
+    "effective_date": "2026-10-02",
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "Border Security",
+      "IIRIRA",
+      "Border Wall",
+      "El Paso Sector"
+    ],
+    "added": "2026-10-08T00:49Z"
   },
   {
     "id": "e926bf4fefad",
@@ -65,6 +260,62 @@
       "Deportation"
     ],
     "added": "2026-10-02T16:22Z"
+  },
+  {
+    "id": "936f90ad09fe",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20186/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation",
+    "published": "2026-10-01",
+    "effective_date": "2026-10-16",
+    "importance": "medium",
+    "category": "fees",
+    "tags": [
+      "Fees",
+      "ICE",
+      "Removal",
+      "Inadmissibility",
+      "HR-1"
+    ],
+    "added": "2026-10-08T00:51Z"
+  },
+  {
+    "id": "789db600443f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20185/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation",
+    "published": "2026-10-01",
+    "effective_date": "2026-10-16",
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "Fees",
+      "ESTA",
+      "EVUS",
+      "I-94",
+      "Parole",
+      "DHS",
+      "CBP"
+    ],
+    "added": "2026-10-08T00:51Z"
+  },
+  {
+    "id": "8fd5ffaa3d4e",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees",
+    "published": "2026-10-01",
+    "effective_date": "2026-10-16",
+    "importance": "medium",
+    "category": "fees",
+    "tags": [
+      "Fees",
+      "H.R. 1",
+      "Asylum",
+      "TPS",
+      "Parole",
+      "EAD",
+      "I-765",
+      "I-131"
+    ],
+    "added": "2026-10-08T00:50Z"
   },
   {
     "id": "a181a341e6d8",

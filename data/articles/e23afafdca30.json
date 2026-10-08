@@ -1,0 +1,85 @@
+{
+  "id": "e23afafdca30",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20233/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+  "original_title": "Determination Pursuant to Section 102 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, as Amended",
+  "published": "2026-10-02",
+  "effective_date": "2026-10-02",
+  "importance": "low",
+  "category": "enforcement",
+  "tags": [
+    "Border Security",
+    "IIRIRA",
+    "Border Wall",
+    "El Paso Sector"
+  ],
+  "langs": {
+    "ko": {
+      "title": "DHS, 뉴멕시코 국경장벽 건설 위해 일부 법률 적용 면제",
+      "summary": "국토안보부 장관은 IIRIRA 제102조에 따라 엘패소 구역 내 뉴멕시코 지역에서 국경장벽과 도로 건설을 신속히 진행하기 위해 특정 연방 및 주 법률의 적용을 면제한다고 발표했습니다. 이번 조치는 2026년 10월 2일자로 발효되었습니다.",
+      "points": [
+        "국토안보부는 IIRIRA 제102조(c)에 따른 권한을 행사해 국경장벽 및 도로 건설과 관련된 특정 법적 요건을 면제했습니다.",
+        "면제 대상 지역은 뉴멕시코주 엘패소 구역 내 국경기념비 71번에서 53번, 40번, 1번을 잇는 구간입니다.",
+        "면제되는 법률에는 연방 수자원법 일부 조항과 뉴멕시코주 수자원법 및 행정법규가 포함됩니다.",
+        "국토안보부는 2021회계연도부터 2026년 8월까지 해당 구역에서 124만8천여 명의 불법 입국자를 적발하고 다량의 마약을 압수했다고 밝혔습니다.",
+        "이번 면제는 기존에 발표된 다른 제102조 면제 결정의 효력에 영향을 미치지 않습니다."
+      ],
+      "who": "뉴멕시코주 엘패소 구역 인근에서 국경장벽 건설 공사가 진행되는 지역의 주민 및 관련 토지, 수자원 이용 당사자에게 영향을 미칩니다.",
+      "action": "이번 조치는 비자 신청자나 이민 수속 절차에 직접적인 영향을 주지 않으므로 별도의 대응 조치는 필요하지 않습니다."
+    },
+    "en": {
+      "title": "DHS Waives Certain Laws to Speed Border Wall Construction in New Mexico",
+      "summary": "The Secretary of Homeland Security has determined, under section 102 of IIRIRA, that certain federal and state legal requirements will be waived to allow expedited construction of border barriers and roads in a segment of New Mexico within the El Paso Sector. The determination took effect on October 2, 2026.",
+      "points": [
+        "DHS invoked its authority under IIRIRA section 102(c) to waive legal requirements related to the construction of physical barriers and roads.",
+        "The waiver applies to a project area in New Mexico stretching between Border Monuments 71, 53, 40, and 1.",
+        "Waived provisions include a federal water rights statute, the New Mexico Water Code, and related New Mexico administrative regulations.",
+        "DHS cited over 1.24 million apprehensions and large drug seizures in the El Paso Sector between fiscal year 2021 and August 2026 as justification.",
+        "The determination does not affect or revoke any other previously issued section 102 waivers."
+      ],
+      "who": "This affects landowners, water rights holders, and local authorities in the project area of the El Paso Sector in New Mexico where construction will occur.",
+      "action": "No action is required from visa applicants or immigration petitioners, as this notice concerns border infrastructure construction rather than visa or immigration benefit processing."
+    },
+    "es": {
+      "title": "DHS exime ciertas leyes para acelerar construcción del muro fronterizo en Nuevo México",
+      "summary": "El Secretario de Seguridad Nacional determinó, conforme a la sección 102 de la IIRIRA, que se eximirán ciertos requisitos legales federales y estatales para permitir la construcción acelerada de barreras y caminos fronterizos en un tramo de Nuevo México dentro del Sector El Paso. La determinación entró en vigor el 2 de octubre de 2026.",
+      "points": [
+        "El DHS invocó su autoridad bajo la sección 102(c) de la IIRIRA para eximir requisitos legales relacionados con la construcción de barreras físicas y caminos.",
+        "La exención aplica a un área de proyecto en Nuevo México entre los Monumentos Fronterizos 71, 53, 40 y 1.",
+        "Las disposiciones exentas incluyen una ley federal sobre derechos de agua, el Código de Aguas de Nuevo México y reglamentos administrativos relacionados.",
+        "El DHS citó más de 1.24 millones de aprehensiones y decomisos significativos de drogas en el Sector El Paso entre el año fiscal 2021 y agosto de 2026 como justificación.",
+        "La determinación no afecta ni revoca otras exenciones previas emitidas bajo la sección 102."
+      ],
+      "who": "Afecta a propietarios de tierras, titulares de derechos de agua y autoridades locales en el área del proyecto dentro del Sector El Paso en Nuevo México.",
+      "action": "No se requiere ninguna acción por parte de solicitantes de visa o peticionarios de inmigración, ya que este aviso se refiere a la construcción de infraestructura fronteriza y no a trámites de visas o beneficios migratorios."
+    },
+    "zh": {
+      "title": "DHS豁免部分法律以加快新墨西哥州边境墙建设",
+      "summary": "美国国土安全部部长根据《1996年非法移民改革和移民责任法》第102条决定,豁免若干联邦及州法律要求,以加快在埃尔帕索辖区内新墨西哥州一段边境修建隔离墙和道路。该决定自2026年10月2日起生效。",
+      "points": [
+        "国土安全部援引IIRIRA第102(c)条授权,豁免与建造实体隔离墙和道路相关的法律要求。",
+        "豁免范围为新墨西哥州境内,位于第71号、53号、40号及1号边界界碑之间的项目区域。",
+        "被豁免的法律包括一项联邦水权法规、新墨西哥州水法及相关行政法规。",
+        "国土安全部称,自2021财年至2026年8月,埃尔帕索辖区共查获逾124.8万名非法入境者,并缴获大量毒品。",
+        "此次豁免不影响或撤销此前根据第102条作出的其他豁免决定。"
+      ],
+      "who": "此举影响新墨西哥州埃尔帕索辖区项目区域内的土地所有者、水权持有人及地方当局。",
+      "action": "签证申请人或移民申请人无需采取任何行动,因为该公告涉及边境基础设施建设,而非签证或移民福利审理事项。"
+    },
+    "ja": {
+      "title": "DHS、ニューメキシコ州の国境フェンス建設加速のため一部法律を適用除外",
+      "summary": "国土安全保障省長官は、IIRIRA第102条に基づき、エルパソ管区内のニューメキシコ州の一部区間で国境フェンスおよび道路の建設を迅速化するため、特定の連邦法および州法の要件を適用除外すると発表しました。この決定は2026年10月2日に発効しました。",
+      "points": [
+        "DHSはIIRIRA第102条(c)の権限を行使し、物理的障壁や道路建設に関連する法的要件を適用除外しました。",
+        "適用除外の対象はニューメキシコ州内の国境標識第71号、53号、40号、1号を結ぶ区域です。",
+        "除外対象には連邦の水利権に関する法律、ニューメキシコ州水法、および関連する州行政規則が含まれます。",
+        "DHSは2021会計年度から2026年8月までの間に、エルパソ管区で124万8千人以上の不法入国者を摘発し、大量の麻薬を押収したと説明しています。",
+        "今回の決定は、過去に発表された他の第102条に基づく適用除外の効力には影響しません。"
+      ],
+      "who": "ニューメキシコ州エルパソ管区内の建設対象地域にある土地所有者、水利権者、地方当局が影響を受けます。",
+      "action": "この通知はビザ申請や移民手続きではなく国境インフラ建設に関するものであるため、ビザ申請者や移民申請者が取るべき特段の対応はありません。"
+    }
+  },
+  "added": "2026-10-08T00:49Z",
+  "model": "claude-sonnet-5"
+}
