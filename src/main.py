@@ -24,6 +24,8 @@ ROOT = Path(__file__).resolve().parents[1]
 BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
 FR_SOURCES = {"federal_register", "presidential"}
 PI_SOURCES = {"fr_public_inspection"}
+# 실패 사유별 재시도 상한. 3시간마다 실행되므로 empty 8회는 약 하루.
+MAX_RETRIES = {"translate": 3, "empty": 8}
 CHART_SOURCES = {"uscis_vb_chart"}
 
 
@@ -96,6 +98,20 @@ def run(cfg: dict[str, Any]) -> None:
     index = store.load_index()
     seen = store.load_seen()
     known = {x["id"] for x in index} | set(seen)
+    prev = store.load_status()
+    retries: dict[str, int] = dict(prev.get("retries") or {})
+    tr = {"done": 0, "failed": 0, "key": translate.enabled()}
+
+    tr_failed: list[dict[str, Any]] = []
+
+    def give_up(it: dict[str, Any], why: str) -> None:
+        """같은 글이 매 실행마다 실패하며 비용과 시간을 쓰지 않도록, 일정 횟수 실패하면 접고 seen 에 남깁니다."""
+        limit = MAX_RETRIES[why]
+        retries[it["id"]] = retries.get(it["id"], 0) + 1
+        if retries[it["id"]] >= limit:
+            seen[it["id"]] = f"gaveup {why} {it['url']}"
+            retries.pop(it["id"], None)
+            print(f"    ! {limit}회 실패, 건너뜀")
     # 공개열람본으로 이미 낸 문서가 다음 날 정식 게재되면 URL이 달라도 같은 문서 번호입니다.
     known_docs = {sources.fr_doc_number(x["url"]) for x in index} | {sources.fr_doc_number(v) for v in seen.values()}
     known_docs.discard(None)
@@ -144,6 +160,7 @@ def run(cfg: dict[str, Any]) -> None:
             text, page_date = source_text(it, browser)
             if len(text.strip()) < 80:
                 print("    ! 본문이 비어 다음 실행에서 재시도")
+                give_up(it, "empty")
                 continue
             published = it.get("published") or page_date
             if published and published < since.isoformat():
@@ -151,7 +168,11 @@ def run(cfg: dict[str, Any]) -> None:
                 continue
             data = translate.build({**it, "published": published}, text, langs, cfg["model"], labels[it["source"]])
             if not data:
+                tr["failed"] += 1
+                tr_failed.append(it)
                 continue
+            tr["done"] += 1
+            retries.pop(it["id"], None)
             if data.get("relevant") is False:
                 # 연방관보 검색어에 걸렸지만 비자·이민과 무관한 문서 (전력망, 기념일 선포 등)
                 print("    - 이민과 무관. 게시하지 않음")
@@ -175,12 +196,27 @@ def run(cfg: dict[str, Any]) -> None:
             store.save_article(it["id"], article)
             index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "tags", "added")})
 
+    # 번역이 하나라도 성공한 실행에서만 실패를 그 글의 문제로 셉니다.
+    # 전부 실패했다면 API 키·크레딧 같은 전체 장애이므로 글을 버리지 않고 기다립니다 (health.py 가 알림).
+    if tr["done"]:
+        for it in tr_failed:
+            give_up(it, "translate")
+
     backfill_categories(cfg, index)
     store.save_index(index)
     store.save_seen(seen)
+    # 연속 실패 횟수. scripts/health.py 가 이 값으로 실행을 실패 처리해 GitHub 알림 메일이 가게 합니다.
+    for key, r in report.items():
+        before = ((prev.get("sources") or {}).get(key) or {}).get("fail_streak", 0)
+        r["fail_streak"] = 0 if r["ok"] else before + 1
+        r["alert"] = cfg["sources"].get(key, {}).get("alert", True)
+    before = (prev.get("translate") or {}).get("fail_streak", 0)
+    tr["fail_streak"] = before + 1 if (not tr["key"] or (tr["failed"] and not tr["done"])) else 0
     store.save_status({
         "checked": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
         "sources": report,
+        "translate": tr,
+        "retries": retries,
     })
 
 
