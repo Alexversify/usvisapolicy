@@ -254,9 +254,13 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
                     links, via = html_links(got[0], list_url), f"archive {got[1]}"
                     print(f"    {key}: 차단되어 인터넷 아카이브 사본 사용 ({got[1][:8]})")
             before = len(seen)
+            matched = 0
             for link in links:
                 href = urljoin(list_url, link["href"]).split("#")[0]
-                if not pat.search(href) or href in seen:
+                if not pat.search(href):
+                    continue
+                matched += 1
+                if href in seen:
                     continue
                 title = re.sub(r"\s+", " ", link["text"]).strip()
                 if len(title) < 8 or (title_pat and not title_pat.search(title)):
@@ -270,7 +274,7 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
                     "archive_fallback": bool(cfg.get("archive_fallback")),
                     "via": via,
                 }
-            if len(seen) == before and not title_pat:
+            if matched == 0:
                 # 차단 페이지나 구조 변경을 로그로 드러냅니다.
                 sample = [(l["href"], l["text"][:40]) for l in links][:3]
                 errors.append(f"{list_url}: 일치 링크 0 (전체 링크 {len(links)}개, 예시 {sample})")
