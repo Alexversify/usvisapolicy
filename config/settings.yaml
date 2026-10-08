@@ -25,6 +25,9 @@ sources:
   dos_visa_news:
     enabled: true
     label: Department of State
+    # GitHub Actions 서버는 Cloudflare 확인 화면에 막힙니다. 막히면 인터넷 아카이브 최신 사본을 읽습니다.
+    archive_fallback: true
+    archive_max_age_days: 14
     list_urls:
       - https://travel.state.gov/content/travel/en/News/visas-news.html
     link_pattern: "/content/travel/en/News/visas-news/(?!archive)[^?#]+\\.html"
@@ -32,6 +35,9 @@ sources:
   visa_bulletin:
     enabled: true
     label: Visa Bulletin
+    # GitHub Actions 서버는 Cloudflare 확인 화면에 막힙니다. 막히면 인터넷 아카이브 최신 사본을 읽습니다.
+    archive_fallback: true
+    archive_max_age_days: 14
     list_urls:
       - https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
     link_pattern: "/visa-bulletin/20\\d\\d/visa-bulletin-for-[a-z]+-20\\d\\d\\.html"

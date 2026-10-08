@@ -40,7 +40,7 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
         elif key in PI_SOURCES:
             res = sources.collect_public_inspection(key, scfg)
         elif key in BROWSER_SOURCES:
-            if browser is None:
+            if browser is None and not scfg.get("archive_fallback"):
                 print(f"  - {key}: 건너뜀 (브라우저 없음)")
                 report[key] = {"ok": False, "items": 0, "error": "브라우저 없음"}
                 continue
@@ -49,6 +49,9 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
             continue
         print(f"  - {key}: {res['error'] or 'ok'} ({len(res['items'])}건)")
         report[key] = {"ok": not res["error"], "items": len(res["items"]), "error": (res["error"] or "")[:300] or None}
+        via = sorted({it.get("via") for it in res["items"] if it.get("via")})
+        if via:
+            report[key]["via"] = via[0]
         if res["error"] and os.environ.get("GITHUB_ACTIONS"):
             # Actions 실행 요약에 경고로 드러냅니다. 실행은 초록색이어도 소스 실패를 놓치지 않게 합니다.
             print(f"::warning title=수집 실패 {key}::{res['error'][:300]}")
@@ -61,14 +64,23 @@ def source_text(item: dict[str, Any], browser: Any) -> tuple[str, str | None]:
     if item.get("prefetched_text") is not None:
         extra = sources.fetch_fr_text(item.get("text_url"), pdf_url=item.get("pdf_url"))
         return (item["prefetched_text"] + ("\n\n--- FULL TEXT (truncated) ---\n" + extra if extra else ""), None)
-    if browser is None:
-        return "", None
-    try:
-        art = browser.article(item["url"])
-    except Exception as exc:  # noqa: BLE001
-        print(f"    ! 본문 실패: {exc}")
-        return "", None
-    return art.get("text") or "", sources.parse_date(art.get("date") or "") or sources.parse_date((art.get("text") or "")[:600])
+    art: dict[str, Any] = {}
+    if browser is not None:
+        try:
+            art = browser.article(item["url"])
+        except Exception as exc:  # noqa: BLE001
+            print(f"    ! 본문 실패: {exc}")
+    text = art.get("text") or ""
+    if item.get("archive_fallback") and (len(text.strip()) < 200 or sources.looks_blocked(text) or sources.looks_blocked(art.get("title") or "")):
+        # 차단된 국무부 페이지는 인터넷 아카이브 사본에서 본문을 읽습니다.
+        got = sources.archive_get(item["url"])
+        if not got:
+            print("    ! 차단, 아카이브 사본 없음. 다음 실행에서 재시도")
+            return "", None
+        text = sources.html_main_text(got[0])
+        print(f"    - 아카이브 사본으로 본문 확보 ({got[1][:8]})")
+        return text, sources.parse_date(text[:600])
+    return text, sources.parse_date(art.get("date") or "") or sources.parse_date(text[:600])
 
 
 def run(cfg: dict[str, Any]) -> None:
