@@ -2,9 +2,9 @@
   {
     "id": "0018f6724165",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-20660/optional-practical-training-fees",
+    "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
     "published": "2026-10-07",
-    "effective_date": null,
+    "effective_date": "2026-11-09",
     "importance": "high",
     "category": "fees",
     "tags": [
@@ -543,6 +543,24 @@
       "National Security"
     ],
     "added": "2026-10-01T08:07Z"
+  },
+  {
+    "id": "d95633120370",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
+    "published": "2026-09-09",
+    "effective_date": "2026-09-04",
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "Birthright Citizenship",
+      "I-485",
+      "Permanent Residence",
+      "Foreign Government Employees",
+      "USCIS Rule",
+      "Executive Order"
+    ],
+    "added": "2026-10-08T08:04Z"
   },
   {
     "id": "55ed6752e8d0",
