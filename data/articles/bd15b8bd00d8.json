@@ -1,0 +1,94 @@
+{
+  "id": "bd15b8bd00d8",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19841/inflation-adjustment-for-eoir-obbba-fees-for-certain-dhs-forms-fiscal-year-2027",
+  "original_title": "Inflation Adjustment for EOIR OBBBA Fees for Certain DHS Forms; Fiscal Year 2027",
+  "published": "2026-09-29",
+  "effective_date": "2026-10-01",
+  "importance": "medium",
+  "category": "fees",
+  "tags": [
+    "Fees",
+    "EOIR",
+    "OBBBA",
+    "Asylum",
+    "TPS",
+    "Adjustment of Status",
+    "I-485",
+    "I-589"
+  ],
+  "langs": {
+    "ko": {
+      "title": "EOIR, 2027회계연도 OBBBA 수수료 물가연동 인상안 발표, 10월 1일부터 적용",
+      "summary": "미 법무부 이민항소국(EOIR)이 One Big Beautiful Bill Act(OBBBA)에 따라 이민법원과 이민항소위원회(BIA)에서 처리되는 일부 DHS 서식의 OBBBA 수수료를 2027회계연도 물가상승률에 맞춰 조정한다고 발표했습니다. 이번 조정은 이미 2026년 8월 21일 공표된 최종규칙을 구체적으로 적용한 것으로, 2026년 10월 1일부터 시행됩니다.",
+      "points": [
+        "대상 서식은 I-485(영주권 신청), I-589(망명 및 추방유예 신청), I-601(입국 부적격 사유 면제 신청), I-821(임시보호신분 신청)입니다.",
+        "I-485의 OBBBA 수수료는 1,540달러에서 1,590달러로 인상됩니다.",
+        "I-589 최초 신청 수수료는 100달러로 변동이 없으나, 연간 망명 수수료(Annual Asylum Fee)는 102달러에서 105달러로 인상됩니다.",
+        "I-601 수수료는 1,070달러에서 1,100달러로, I-821 수수료는 510달러에서 520달러로 각각 인상됩니다.",
+        "이번 수수료는 DHS가 별도로 부과하는 이민국적법 286(m)조 수수료와는 별개이며, EOIR 결제포털에는 두 수수료의 합산 금액이 표시됩니다.",
+        "이번 조정은 이미 확정된 규칙에 따른 것으로 제안 단계가 아니며, 2026년 10월 1일 이후 접수되는 이민법원 및 BIA 신청에 적용됩니다."
+      ],
+      "who": "이민법원이나 BIA에 I-485, I-589, I-601, I-821 서식을 제출하는 신청인과 피신청인이 영향을 받습니다.",
+      "action": "해당 서식을 10월 1일 이후 제출할 예정인 신청인은 변경된 수수료 금액을 확인하고 정확한 금액 또는 수수료 면제 신청서를 함께 제출해야 합니다."
+    },
+    "en": {
+      "title": "EOIR Announces FY2027 Inflation Adjustment to OBBBA Fees for Certain DHS Forms",
+      "summary": "The Department of Justice's Executive Office for Immigration Review (EOIR) has issued a notice detailing FY2027 inflation adjustments to OBBBA fees for certain DHS forms filed in immigration court and before the Board of Immigration Appeals. The adjustments implement a final rule already published on August 21, 2026, and take effect October 1, 2026.",
+      "points": [
+        "Affected forms are I-485 (Adjustment of Status), I-589 (Asylum and Withholding of Removal), I-601 (Waiver of Inadmissibility), and I-821 (Temporary Protected Status).",
+        "The I-485 OBBBA fee rises from $1,540 to $1,590.",
+        "The I-589 initial application fee stays at $100, but the Annual Asylum Fee rises from $102 to $105.",
+        "The I-601 fee rises from $1,070 to $1,100, and the I-821 fee rises from $510 to $520.",
+        "These OBBBA fees are separate from DHS's existing section 286(m) fees, and EOIR's payment portal displays the combined total.",
+        "This is a final notice, not a proposal, and applies to filings made on or after October 1, 2026."
+      ],
+      "who": "Individuals filing I-485, I-589, I-601, or I-821 forms in immigration court or with the BIA are affected.",
+      "action": "Those filing these forms on or after October 1, 2026 should confirm the updated fee amounts and submit the correct fee or a fee waiver request with their filing."
+    },
+    "es": {
+      "title": "EOIR anuncia ajuste por inflación a tarifas OBBBA para ciertos formularios de DHS en el año fiscal 2027",
+      "summary": "La Oficina Ejecutiva de Revisión de Inmigración (EOIR) del Departamento de Justicia emitió un aviso con los ajustes por inflación para el año fiscal 2027 de las tarifas OBBBA aplicables a ciertos formularios de DHS presentados ante las cortes de inmigración y la Junta de Apelaciones de Inmigración (BIA). Los ajustes implementan una regla final ya publicada el 21 de agosto de 2026 y entran en vigor el 1 de octubre de 2026.",
+      "points": [
+        "Los formularios afectados son I-485 (ajuste de estatus), I-589 (asilo y suspensión de remoción), I-601 (exención de inadmisibilidad) e I-821 (estatus de protección temporal).",
+        "La tarifa OBBBA del I-485 sube de 1,540 a 1,590 dólares.",
+        "La tarifa inicial del I-589 se mantiene en 100 dólares, pero la Tarifa Anual de Asilo sube de 102 a 105 dólares.",
+        "La tarifa del I-601 sube de 1,070 a 1,100 dólares, y la del I-821 sube de 510 a 520 dólares.",
+        "Estas tarifas OBBBA son independientes de las tarifas existentes bajo la sección 286(m), y el portal de pagos de EOIR muestra el monto combinado.",
+        "Se trata de un aviso final, no de una propuesta, y se aplica a las solicitudes presentadas a partir del 1 de octubre de 2026."
+      ],
+      "who": "Las personas que presenten los formularios I-485, I-589, I-601 o I-821 ante las cortes de inmigración o la BIA se verán afectadas.",
+      "action": "Quienes presenten estos formularios a partir del 1 de octubre de 2026 deben confirmar los nuevos montos y acompañar el pago correcto o una solicitud de exención de tarifa."
+    },
+    "zh": {
+      "title": "EOIR宣布对部分DHS表格的OBBBA费用进行2027财年通胀调整",
+      "summary": "美国司法部移民上诉事务执行办公室(EOIR)发布通知,说明2027财年对在移民法庭和移民上诉委员会(BIA)提交的部分DHS表格所涉OBBBA费用的通胀调整。该调整落实了此前已于2026年8月21日公布的最终规则,并自2026年10月1日起生效。",
+      "points": [
+        "受影响的表格包括I-485(调整身份申请)、I-589(庇护及暂缓遣返申请)、I-601(不可入境豁免申请)及I-821(临时保护身份申请)。",
+        "I-485的OBBBA费用将从1,540美元上调至1,590美元。",
+        "I-589初次申请费用维持100美元不变,但年度庇护费将从102美元上调至105美元。",
+        "I-601费用将从1,070美元上调至1,100美元,I-821费用将从510美元上调至520美元。",
+        "此OBBBA费用与DHS现行的第286(m)条费用相互独立,EOIR支付平台将显示两者合计金额。",
+        "本通知为最终措施,并非提案,适用于2026年10月1日及以后提交的申请。"
+      ],
+      "who": "在移民法庭或BIA提交I-485、I-589、I-601或I-821表格的申请人将受到影响。",
+      "action": "计划在2026年10月1日后提交上述表格的申请人应确认新的费用金额,并附上正确费用或费用减免申请。"
+    },
+    "ja": {
+      "title": "EOIR、2027会計年度のOBBBA手数料のインフレ調整を発表、10月1日から適用",
+      "summary": "米司法省の移民審査執行局(EOIR)は、移民裁判所および移民上訴委員会(BIA)に提出される一部のDHS様式に関するOBBBA手数料について、2027会計年度のインフレ調整を発表しました。この調整は2026年8月21日に公表済みの最終規則を具体的に適用するものであり、2026年10月1日から施行されます。",
+      "points": [
+        "対象となる様式はI-485(永住権申請)、I-589(亡命・退去強制停止申請)、I-601(入国不適格事由免除申請)、I-821(一時的保護身分申請)です。",
+        "I-485のOBBBA手数料は1,540ドルから1,590ドルに引き上げられます。",
+        "I-589の初回申請手数料は100ドルのまま変更ありませんが、年次亡命手数料は102ドルから105ドルに引き上げられます。",
+        "I-601の手数料は1,070ドルから1,100ドルに、I-821の手数料は510ドルから520ドルにそれぞれ引き上げられます。",
+        "このOBBBA手数料はDHSの既存の第286(m)条手数料とは別であり、EOIRの決済ポータルには両者の合計額が表示されます。",
+        "本通知は提案ではなく最終的なものであり、2026年10月1日以降に提出される申請に適用されます。"
+      ],
+      "who": "移民裁判所またはBIAにI-485、I-589、I-601、I-821の各様式を提出する申請者が影響を受けます。",
+      "action": "2026年10月1日以降にこれらの様式を提出する予定の申請者は、新しい手数料額を確認し、正しい手数料または手数料免除申請を添付して提出する必要があります。"
+    }
+  },
+  "added": "2026-10-08T01:05Z",
+  "model": "claude-sonnet-5"
+}

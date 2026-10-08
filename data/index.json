@@ -156,6 +156,23 @@
     "added": "2026-10-08T00:50Z"
   },
   {
+    "id": "328b02f931a3",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+    "published": "2026-09-30",
+    "effective_date": "2026-11-30",
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "EB-5",
+      "Fees",
+      "Regional Center",
+      "USCIS",
+      "Immigrant Investor"
+    ],
+    "added": "2026-10-08T01:04Z"
+  },
+  {
     "id": "a181a341e6d8",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2027-inflation-increase-for-certain-immigration-related-fees",
@@ -173,6 +190,26 @@
     ],
     "added": "2026-10-01T07:33Z",
     "category": "fees"
+  },
+  {
+    "id": "bd15b8bd00d8",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19841/inflation-adjustment-for-eoir-obbba-fees-for-certain-dhs-forms-fiscal-year-2027",
+    "published": "2026-09-29",
+    "effective_date": "2026-10-01",
+    "importance": "medium",
+    "category": "fees",
+    "tags": [
+      "Fees",
+      "EOIR",
+      "OBBBA",
+      "Asylum",
+      "TPS",
+      "Adjustment of Status",
+      "I-485",
+      "I-589"
+    ],
+    "added": "2026-10-08T01:05Z"
   },
   {
     "id": "cdd3348ed453",
@@ -358,6 +395,24 @@
     "category": "enforcement"
   },
   {
+    "id": "32d1b4bb80a5",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19253/finding-of-mass-influx-of-aliens",
+    "published": "2026-09-21",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "Mass Influx",
+      "Border",
+      "DHS",
+      "ICE",
+      "Detention",
+      "Enforcement"
+    ],
+    "added": "2026-10-08T01:06Z"
+  },
+  {
     "id": "fc43518eca16",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19223/public-access-to-information",
@@ -373,6 +428,23 @@
     ],
     "added": "2026-10-01T07:39Z",
     "category": "processing"
+  },
+  {
+    "id": "a390ee8dbb25",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18949/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
+    "published": "2026-09-16",
+    "effective_date": "2026-09-16",
+    "importance": "low",
+    "category": "policy",
+    "tags": [
+      "Form I-485",
+      "Form I-508",
+      "Permanent Residence",
+      "USCIS",
+      "Foreign Government Employees"
+    ],
+    "added": "2026-10-08T01:07Z"
   },
   {
     "id": "6d1fe2ac80df",
@@ -391,6 +463,26 @@
     "category": "notice"
   },
   {
+    "id": "8c9b9e4e1eba",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period",
+    "published": "2026-09-11",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "tags": [
+      "H-1B",
+      "L-1",
+      "O-1",
+      "TN",
+      "E-1",
+      "E-2",
+      "E-3",
+      "Grace Period"
+    ],
+    "added": "2026-10-08T01:07Z"
+  },
+  {
     "id": "04fd05d1667d",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2027",
@@ -405,6 +497,21 @@
     ],
     "added": "2026-10-01T07:40Z",
     "category": "processing"
+  },
+  {
+    "id": "7dd6229e30fa",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/10/C1-2026-17324/fee-for-certain-h-1b-petitions",
+    "published": "2026-09-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "tags": [
+      "H-1B",
+      "Fees",
+      "Correction"
+    ],
+    "added": "2026-10-08T01:08Z"
   },
   {
     "id": "c23d288f878a",
@@ -488,6 +595,22 @@
     "added": "2026-10-01T08:09Z"
   },
   {
+    "id": "da4a490680bb",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
+    "published": "2026-08-31",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "tags": [
+      "Asylum",
+      "USCIS",
+      "EOIR",
+      "I-589"
+    ],
+    "added": "2026-10-08T01:09Z"
+  },
+  {
     "id": "29bba39c196e",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies",
@@ -504,6 +627,39 @@
       "Class Action"
     ],
     "added": "2026-10-01T08:11Z"
+  },
+  {
+    "id": "23de50857009",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas",
+    "published": "2026-08-25",
+    "effective_date": "2026-08-25",
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "CBP",
+      "Border Enforcement",
+      "Customs",
+      "Maritime Enforcement",
+      "Illegal Entry"
+    ],
+    "added": "2026-10-08T01:11Z"
+  },
+  {
+    "id": "b0fe8ee64175",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions",
+    "published": "2026-08-25",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "H-1B",
+      "Fees",
+      "Proposed Rule",
+      "USCIS"
+    ],
+    "added": "2026-10-08T01:11Z"
   },
   {
     "id": "7240aa75c8cb",

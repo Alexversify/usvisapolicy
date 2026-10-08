@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-08T00:51Z",
+  "checked": "2026-10-08T01:11Z",
   "sources": {
     "uscis_news": {
       "ok": true,
@@ -24,11 +24,6 @@
     "fr_public_inspection": {
       "ok": true,
       "items": 1,
-      "error": null
-    },
-    "dhs_news": {
-      "ok": true,
-      "items": 10,
       "error": null
     },
     "presidential": {
