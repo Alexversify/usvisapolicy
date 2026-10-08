@@ -282,6 +282,49 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
     return {"source": key, "error": "; ".join(errors) or None, "items": items}
 
 
+# ---------------------------------------------------------------- USCIS Visa Bulletin 차트 공지
+
+VB_RE = re.compile(rf"Visa Bulletin for ({MONTHS}) (20\d\d)", re.I)
+
+
+def collect_uscis_vb_chart(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str, Any]:
+    """USCIS 'Adjustment of Status Filing Charts from the Visa Bulletin' 페이지.
+    travel.state.gov가 막혀도 매달 어떤 Visa Bulletin의 어느 차트를 쓰는지 여기서 확인됩니다.
+    달마다 새 기사가 되도록 주소에 해당 월을 붙여 구분합니다."""
+    url = cfg["url"]
+    try:
+        art = browser.article(url)
+    except Exception as exc:  # noqa: BLE001
+        return {"source": key, "error": f"{url}: {exc}", "items": []}
+    text = art.get("text") or ""
+    found = []
+    for m in VB_RE.finditer(text):
+        try:
+            d = dt.datetime.strptime(f"{m.group(1)[:3]} 1 {m.group(2)}", "%b %d %Y").date()
+        except ValueError:
+            continue
+        found.append(d)
+    if not found:
+        return {"source": key, "error": f"{url}: 'Visa Bulletin for <월> <연도>' 문구 없음 (구조 변경?)", "items": []}
+    month = max(found)
+    label = month.strftime("%B %Y")
+    page_url = f"{url}?bulletin={month.strftime('%Y-%m')}"
+    return {"source": key, "error": None, "items": [{
+        "id": item_id(page_url),
+        "source": key,
+        "url": page_url,
+        "title": f"Visa Bulletin for {label}: USCIS adjustment of status filing charts",
+        "published": parse_date(art.get("date") or "") or None,
+        "prefetched_text": (
+            f"Source page: USCIS 'Adjustment of Status Filing Charts from the Visa Bulletin'. "
+            f"Latest bulletin referenced on the page: Visa Bulletin for {label}. "
+            "Summarize which chart (Final Action Dates or Dates for Filing) USCIS says to use for "
+            "family-sponsored and employment-based adjustment of status filings for that month. "
+            "Use only what the page states; do not invent priority dates.\n\n" + text[:14000]
+        ),
+    }]}
+
+
 # ---------------------------------------------------------------- Federal Register
 
 

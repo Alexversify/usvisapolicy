@@ -21,9 +21,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src import render, sources, store, translate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news"}
+BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
 FR_SOURCES = {"federal_register", "presidential"}
 PI_SOURCES = {"fr_public_inspection"}
+CHART_SOURCES = {"uscis_vb_chart"}
 
 
 def load_cfg() -> dict[str, Any]:
@@ -39,6 +40,11 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
             res = sources.collect_federal_register(key, scfg, since)
         elif key in PI_SOURCES:
             res = sources.collect_public_inspection(key, scfg)
+        elif key in CHART_SOURCES:
+            if browser is None:
+                print(f"  - {key}: 건너뜀 (브라우저 없음)")
+                continue
+            res = sources.collect_uscis_vb_chart(browser, key, scfg)
         elif key in BROWSER_SOURCES:
             if browser is None and not scfg.get("archive_fallback"):
                 print(f"  - {key}: 건너뜀 (브라우저 없음)")
@@ -61,6 +67,8 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
 
 def source_text(item: dict[str, Any], browser: Any) -> tuple[str, str | None]:
     """(본문, 페이지에서 찾은 게시일)."""
+    if item.get("prefetched_text") is not None and not item.get("text_url") and not item.get("pdf_url"):
+        return item["prefetched_text"], None
     if item.get("prefetched_text") is not None:
         extra = sources.fetch_fr_text(item.get("text_url"), pdf_url=item.get("pdf_url"))
         return (item["prefetched_text"] + ("\n\n--- FULL TEXT (truncated) ---\n" + extra if extra else ""), None)

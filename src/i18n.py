@@ -86,6 +86,8 @@ SOURCE_LABEL: dict[str, dict[str, str]] = {
     "federal_register": {"ko": "연방관보", "en": "Federal Register", "es": "Registro Federal", "zh": "联邦公报", "ja": "連邦官報"},
     "presidential": {"ko": "대통령령", "en": "White House", "es": "Casa Blanca", "zh": "白宫", "ja": "大統領令"},
     "fr_public_inspection": {"ko": "연방관보 공개열람", "en": "Federal Register (Public Inspection)", "es": "Registro Federal (Inspección Pública)", "zh": "联邦公报（公开预览）", "ja": "連邦官報（事前公開）"},
+    "uscis_vb_chart": {"ko": "비자블러틴", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
+    "state_press": {"ko": "국무부", "en": "State Dept.", "es": "Dpto. de Estado", "zh": "国务院", "ja": "国務省"},
     "dhs_news": {"ko": "국토안보부", "en": "DHS", "es": "DHS", "zh": "国土安全部", "ja": "国土安全保障省"},
 }
 

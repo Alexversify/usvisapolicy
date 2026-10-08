@@ -44,6 +44,23 @@ sources:
     # 최신 몇 개월치만 봅니다.
     max_items: 2
 
+  uscis_vb_chart:
+    enabled: true
+    label: Visa Bulletin (USCIS)
+    # travel.state.gov는 Actions 서버에서 막히고 인터넷 아카이브도 7월 이후 사본이 없습니다.
+    # USCIS가 매달 올리는 Visa Bulletin 차트 공지로 새 Bulletin과 적용 차트를 잡습니다.
+    url: https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin
+
+  state_press:
+    enabled: true
+    label: Department of State
+    # 국무부 본 사이트 보도자료. travel.state.gov와 달리 막히지 않으면 비자 관련 발표를 여기서 잡습니다.
+    list_urls:
+      - https://www.state.gov/press-releases/
+    link_pattern: "https://www\\.state\\.gov/releases/[^?#]+"
+    title_pattern: "visa|immigra|consular|passport|travel advisory|entry|nonimmigrant|refugee|asylum|deport|removal|migrant|border"
+    max_items: 20
+
   federal_register:
     enabled: true
     label: Federal Register
