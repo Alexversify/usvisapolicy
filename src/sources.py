@@ -203,6 +203,15 @@ def archive_get(url: str, max_age_days: int = 60) -> tuple[str, str] | None:
     return None
 
 
+def archive_save(url: str) -> None:
+    """새 기사를 올릴 때 원문을 인터넷 아카이브에 저장 요청합니다. 원문이 나중에 내려가도 보관본 링크가 살아 있게 합니다.
+    실패해도 무시합니다 (travel.state.gov처럼 아카이브도 막힌 곳이 있음)."""
+    try:
+        requests.get(f"https://web.archive.org/save/{url}", timeout=30, headers={"User-Agent": UA})
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def _strip(fragment: str) -> str:
     fragment = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", fragment)
     fragment = re.sub(r"(?i)<br\s*/?>|</(p|div|li|h\d|tr)>", "\n", fragment)

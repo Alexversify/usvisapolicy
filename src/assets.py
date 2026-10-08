@@ -78,6 +78,7 @@ article.doc li{margin:6px 0}
 .callout{background:var(--chip);border-radius:8px;padding:12px 14px;margin-top:8px}
 .src{margin-top:26px;padding-top:16px;border-top:1px solid var(--hair);font-size:13.5px;color:var(--muted)}
 .src a.btn{display:inline-block;margin-top:8px;padding:9px 14px;border:1px solid var(--ink);border-radius:8px;text-decoration:none;color:var(--ink);font-weight:600}
+.src a.arch{display:block;margin-top:8px;font-size:13px;color:var(--muted)}
 .note{font-size:12.5px;color:var(--faint);margin-top:12px}
 .cta{display:block;text-align:center;background:var(--ink);color:var(--paper);text-decoration:none;font-weight:600;padding:13px;border-radius:8px;margin:18px 0 0}
 .backlink{display:inline-block;margin-top:18px;font-size:14px;color:var(--muted);text-decoration:none}

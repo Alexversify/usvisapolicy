@@ -2,9 +2,9 @@ name: news
 
 on:
   schedule:
-    # 3시간마다. GitHub 예약 실행은 몇 시간씩 늦게 뜨는 일이 잦아 하루 2회로는 발표 반영이 반나절 넘게 늦습니다.
-    # 새 글만 번역하므로 실행이 잦아도 API 비용은 늘지 않습니다. 정각을 피해 지연을 줄입니다.
-    - cron: "17 */3 * * *"
+    # 30분마다. 새 글만 번역하므로 실행이 잦아도 API 비용은 늘지 않습니다 (공개 저장소라 Actions 시간도 무료).
+    # 정각·30분을 피해 GitHub 예약 실행 지연을 줄입니다.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v5
 
@@ -41,6 +41,9 @@ jobs:
         run: |
           git config user.name "usvisapolicy-bot"
           git config user.email "actions@users.noreply.github.com"
+          # 한 번 올린 기사는 내리지 않습니다. 빠진 기사가 있으면 되살립니다.
+          python scripts/keep_articles.py HEAD
+          python -m src.main --render-only
           git add data docs
           if git diff --staged --quiet; then
             echo "변경 없음"
@@ -52,6 +55,7 @@ jobs:
             git fetch -q origin main
             # 겹치는 파일은 이번 수집 결과를 우선하고, 다른 변경은 그대로 둡니다. docs/ 는 아래에서 다시 생성합니다.
             git merge -q --no-edit -X ours origin/main || { git merge --abort; exit 1; }
+            python scripts/keep_articles.py origin/main
             python -m src.main --render-only
             git add data docs
             git diff --staged --quiet || git commit -q -m "news: 사이트 재생성"

@@ -24,8 +24,8 @@ ROOT = Path(__file__).resolve().parents[1]
 BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
 FR_SOURCES = {"federal_register", "presidential"}
 PI_SOURCES = {"fr_public_inspection"}
-# 실패 사유별 재시도 상한. 3시간마다 실행되므로 empty 8회는 약 하루.
-MAX_RETRIES = {"translate": 3, "empty": 8}
+# 실패 사유별 재시도 상한. 30분마다 실행되므로 empty 48회는 약 하루.
+MAX_RETRIES = {"translate": 3, "empty": 48}
 CHART_SOURCES = {"uscis_vb_chart"}
 
 
@@ -194,6 +194,7 @@ def run(cfg: dict[str, Any]) -> None:
                 "model": cfg["model"],
             }
             store.save_article(it["id"], article)
+            sources.archive_save(it["url"].split("?")[0])
             index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "tags", "added")})
 
     # 번역이 하나라도 성공한 실행에서만 실패를 그 글의 문제로 셉니다.
