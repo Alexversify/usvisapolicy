@@ -1,5 +1,5 @@
 {
-  "checked": "2026-10-08T08:39Z",
+  "checked": "2026-10-08T16:24Z",
   "sources": {
     "uscis_news": {
       "ok": true,
@@ -12,14 +12,14 @@
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 2,
+      "fail_streak": 3,
       "alert": false
     },
     "visa_bulletin": {
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 2,
+      "fail_streak": 3,
       "alert": false
     },
     "uscis_vb_chart": {
@@ -45,7 +45,7 @@
     },
     "fr_public_inspection": {
       "ok": true,
-      "items": 1,
+      "items": 0,
       "error": null,
       "fail_streak": 0,
       "alert": true
