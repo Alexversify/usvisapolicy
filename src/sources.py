@@ -160,26 +160,46 @@ def looks_blocked(text: str) -> bool:
 
 
 def archive_get(url: str, max_age_days: int = 60) -> tuple[str, str] | None:
-    """(원본 HTML, 사본 시각 YYYYMMDDhhmmss). 최근 사본 중 확인 화면이 아닌 첫 번째. 없으면 None."""
+    """(원본 HTML, 사본 시각 YYYYMMDDhhmmss). 최근 사본 중 확인 화면이 아닌 첫 번째. 없으면 None.
+    실패 이유는 로그에 남깁니다."""
+    now = dt.datetime.now(dt.timezone.utc)
+    oldest = (now - dt.timedelta(days=max_age_days)).strftime("%Y%m%d%H%M%S")
+    stamps: list[str] = []
+    why = []
+    # 1) available API: 가장 최근 사본 하나. 빠릅니다.
     try:
-        res = requests.get(ARCHIVE_CDX, params={
+        r = requests.get("https://archive.org/wayback/available", params={"url": url, "timestamp": now.strftime("%Y%m%d%H%M%S")},
+                         timeout=30, headers={"User-Agent": UA})
+        snap = ((r.json() or {}).get("archived_snapshots") or {}).get("closest") or {}
+        if snap.get("timestamp") and str(snap.get("status", "200")) == "200":
+            stamps.append(snap["timestamp"])
+        else:
+            why.append(f"available: 사본 없음 ({r.status_code})")
+    except Exception as exc:  # noqa: BLE001
+        why.append(f"available: {type(exc).__name__}")
+    # 2) CDX: 최근 사본 여러 개. 최신 사본이 확인 화면일 때를 대비합니다.
+    try:
+        r = requests.get(ARCHIVE_CDX, params={
             "url": url, "output": "json", "fl": "timestamp,statuscode",
             "filter": "statuscode:200", "limit": "-6",
-        }, timeout=45, headers={"User-Agent": UA})
-        res.raise_for_status()
-        rows = [r for r in (res.json() or [])[1:] if r and r[0].isdigit()]
-    except Exception:  # noqa: BLE001
-        return None
-    oldest = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=max_age_days)).strftime("%Y%m%d%H%M%S")
-    for ts, _ in sorted(rows, reverse=True):
+        }, timeout=60, headers={"User-Agent": UA})
+        r.raise_for_status()
+        stamps += [row[0] for row in (r.json() or [])[1:] if row and str(row[0]).isdigit()]
+    except Exception as exc:  # noqa: BLE001
+        why.append(f"cdx: {type(exc).__name__}")
+    for ts in sorted(set(stamps), reverse=True):
         if ts < oldest:
+            why.append(f"최신 사본이 오래됨 ({ts[:8]})")
             break
         try:
             r = requests.get(f"https://web.archive.org/web/{ts}id_/{url}", timeout=60, headers={"User-Agent": UA})
-            if r.status_code == 200 and not looks_blocked(r.text):
-                return r.text, ts
-        except Exception:  # noqa: BLE001
+        except Exception as exc:  # noqa: BLE001
+            why.append(f"{ts[:8]}: {type(exc).__name__}")
             continue
+        if r.status_code == 200 and not looks_blocked(r.text):
+            return r.text, ts
+        why.append(f"{ts[:8]}: {'확인 화면' if r.status_code == 200 else r.status_code}")
+    print(f"    ! 아카이브 실패 {url}: {'; '.join(why) or '사본 없음'}")
     return None
 
 
