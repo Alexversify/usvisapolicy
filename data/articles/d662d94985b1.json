@@ -1,0 +1,85 @@
+{
+  "id": "d662d94985b1",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260914-RevocationReferrals.pdf",
+  "original_title": "Read More",
+  "published": "2026-09-14",
+  "effective_date": null,
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Naturalization",
+    "Denaturalization",
+    "Policy Manual"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, 시민권 취소(탈시민권) 회부 관련 정책 매뉴얼 지침 발표",
+      "summary": "USCIS는 2026년 9월 14일 이민국적법(INA) 제340조에 따른 귀화 취소, 즉 탈시민권 사건을 회부하는 절차에 관한 정책 지침을 정책 매뉴얼에 추가했습니다. 이번 업데이트는 정책 매뉴얼 12편 L부, 미국 국적 상실 및 귀화 취소 관련 부분에 반영되었습니다. 원문에는 구체적인 심사 기준이나 적용 시점은 명시되어 있지 않습니다.",
+      "points": [
+        "USCIS가 INA 제340조에 근거한 귀화 취소 사건 회부에 관한 지침을 발표했습니다.",
+        "이 지침은 정책 매뉴얼 12편 L부, 미국 국적 상실 및 귀화 취소 부분에 반영됩니다.",
+        "발표일은 2026년 9월 14일이며, 시행일은 별도로 명시되어 있지 않습니다.",
+        "원문에는 구체적인 심사 절차나 기준에 대한 세부 내용이 포함되어 있지 않습니다."
+      ],
+      "who": "귀화 시민권자 및 귀화 취소 가능성과 관련된 법적 절차를 다루는 변호사와 신청인에게 영향을 줄 수 있습니다.",
+      "action": "자세한 내용은 USCIS 정책 매뉴얼 12편 L부 원문을 확인하는 것이 좋습니다."
+    },
+    "en": {
+      "title": "USCIS Issues Policy Guidance on Referrals for Revocation of Naturalization",
+      "summary": "USCIS released policy guidance on September 14, 2026, addressing how cases are referred for revocation of naturalization, commonly called denaturalization, under section 340 of the INA. The update affects Volume 12, Part L of the USCIS Policy Manual, which covers loss of U.S. nationality and revocation of naturalization. The source does not specify the detailed criteria or procedures involved.",
+      "points": [
+        "USCIS issued guidance on referring cases for revocation of naturalization under INA section 340.",
+        "The update applies to 12 USCIS-PM L, covering loss of U.S. nationality and revocation of naturalization.",
+        "The guidance was announced on September 14, 2026.",
+        "No specific effective date, criteria, or procedural details are stated in the source."
+      ],
+      "who": "Naturalized U.S. citizens and attorneys handling denaturalization proceedings may be affected.",
+      "action": "Those seeking details should consult the full text of Volume 12, Part L of the USCIS Policy Manual."
+    },
+    "es": {
+      "title": "USCIS emite orientacion sobre remisiones para revocacion de naturalizacion",
+      "summary": "El 14 de septiembre de 2026, USCIS publico una guia de politica sobre como se remiten los casos para la revocacion de la naturalizacion, conocida comunmente como desnaturalizacion, segun la seccion 340 del INA. La actualizacion afecta el Volumen 12, Parte L del Manual de Politicas de USCIS, relativo a la perdida de la nacionalidad estadounidense y la revocacion de la naturalizacion. La fuente no especifica criterios ni procedimientos detallados.",
+      "points": [
+        "USCIS emitio orientacion sobre la remision de casos para revocacion de naturalizacion bajo la seccion 340 del INA.",
+        "La actualizacion corresponde a 12 USCIS-PM L, sobre perdida de la nacionalidad estadounidense y revocacion de la naturalizacion.",
+        "El anuncio se realizo el 14 de septiembre de 2026.",
+        "No se indica una fecha de vigencia especifica ni detalles procedimentales en la fuente."
+      ],
+      "who": "Puede afectar a ciudadanos naturalizados y a abogados que manejan procesos de desnaturalizacion.",
+      "action": "Quienes necesiten mas detalles deben consultar el texto completo del Volumen 12, Parte L del Manual de Politicas de USCIS."
+    },
+    "zh": {
+      "title": "USCIS发布关于转介撤销入籍案件的政策指南",
+      "summary": "美国公民及移民服务局(USCIS)于2026年9月14日发布政策指南,说明根据移民与国籍法(INA)第340条转介撤销入籍案件(俗称剥夺公民权)的程序。此次更新涉及USCIS政策手册第12卷L部分,内容关于丧失美国国籍及撤销入籍。来源未说明具体审核标准或生效日期。",
+      "points": [
+        "USCIS发布了关于依据INA第340条转介撤销入籍案件的指南。",
+        "此次更新适用于政策手册第12卷L部分,涉及丧失美国国籍与撤销入籍。",
+        "该指南于2026年9月14日公布。",
+        "来源未说明具体生效日期、审核标准或程序细节。"
+      ],
+      "who": "可能影响已入籍的美国公民以及处理剥夺公民权案件的律师。",
+      "action": "需要了解详情的人士应查阅USCIS政策手册第12卷L部分原文。"
+    },
+    "ja": {
+      "title": "USCIS、帰化取消(市民権剥奪)の照会に関する政策指針を発表",
+      "summary": "USCISは2026年9月14日、移民国籍法(INA)第340条に基づく帰化取消、いわゆる市民権剥奪の事案照会手続きに関する政策指針を発表しました。この更新はUSCIS政策マニュアル第12巻L部、米国国籍の喪失および帰化取消に関する部分に反映されます。出典には具体的な審査基準や施行日は明記されていません。",
+      "points": [
+        "USCISはINA第340条に基づく帰化取消事案の照会に関する指針を発表しました。",
+        "この更新は政策マニュアル第12巻L部、米国国籍の喪失および帰化取消に関する部分に適用されます。",
+        "発表日は2026年9月14日です。",
+        "出典には具体的な施行日や審査手続きの詳細は記載されていません。"
+      ],
+      "who": "帰化した米国市民および帰化取消手続きを扱う弁護士に影響する可能性があります。",
+      "action": "詳細を知りたい場合はUSCIS政策マニュアル第12巻L部の原文を確認することが推奨されます。"
+    }
+  },
+  "added": "2026-10-09T08:22Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "citizenship",
+    "enforcement"
+  ]
+}

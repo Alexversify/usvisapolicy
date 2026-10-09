@@ -1,0 +1,83 @@
+{
+  "id": "cbbf60354298",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
+  "original_title": "Federal-State Unemployment Compensation (UC) Program; Data Availability",
+  "published": "2026-09-16",
+  "effective_date": "2026-11-16",
+  "importance": "low",
+  "category": "policy",
+  "tags": [
+    "Unemployment Compensation",
+    "DOL"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "DOL, 주 실업급여 데이터 연방 공개 의무화 최종 규칙 발표",
+      "summary": "미국 노동부가 주 실업급여(UC) 기관이 연방 감독 및 감사 목적으로 기밀 실업급여 정보를 연방 공무원에게 의무적으로 공개하도록 하는 최종 규칙을 발표했습니다. 이는 이민 비자 제도와 직접적인 관련이 없는 행정 규정입니다.",
+      "points": [
+        "이 규칙은 2026년 11월 16일부터 시행됩니다.",
+        "주 정부는 2027년 9월 16일까지 관련 법률을 개정해야 합니다.",
+        "목적은 실업급여 프로그램의 사기 방지와 연방 감독 강화입니다.",
+        "이민 비자나 체류 자격과는 관련이 없는 사안입니다."
+      ],
+      "who": "주 실업급여 기관 및 관련 연방 기관이 영향을 받습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "DOL Final Rule Requires States to Disclose Unemployment Data to Federal Officials",
+      "summary": "The Department of Labor issued a final rule requiring State unemployment compensation (UC) agencies to disclose confidential UC information to Federal officials for oversight and fraud prevention. This rule does not involve visas or immigration status.",
+      "points": [
+        "The rule becomes effective November 16, 2026.",
+        "States must amend their laws as needed by September 16, 2027.",
+        "The rule aims to help DOL-OIG and other Federal officials detect and address fraud in UC programs.",
+        "This is not an immigration-related rule."
+      ],
+      "who": "State unemployment compensation agencies and Federal oversight bodies are affected.",
+      "action": ""
+    },
+    "es": {
+      "title": "El DOL exige a los estados divulgar datos de desempleo a funcionarios federales",
+      "summary": "El Departamento de Trabajo de EE. UU. emitió una regla final que obliga a las agencias estatales de compensación por desempleo a divulgar información confidencial a funcionarios federales con fines de supervisión y control de fraude. Esta norma no está relacionada con visas ni inmigración.",
+      "points": [
+        "La regla entra en vigor el 16 de noviembre de 2026.",
+        "Los estados deben modificar sus leyes antes del 16 de septiembre de 2027.",
+        "El objetivo es permitir que el DOL-OIG y otros funcionarios federales detecten fraudes en los programas de desempleo.",
+        "No se trata de una medida migratoria."
+      ],
+      "who": "Las agencias estatales de desempleo y los organismos federales de supervisión.",
+      "action": ""
+    },
+    "zh": {
+      "title": "美国劳工部发布最终规则,要求各州向联邦官员披露失业补偿数据",
+      "summary": "美国劳工部发布最终规则,要求各州失业补偿(UC)机构向联邦官员披露机密数据,以便进行监督和欺诈审查。该规则与签证或移民事务无直接关系。",
+      "points": [
+        "该规则将于2026年11月16日起生效。",
+        "各州须在2027年9月16日前修订相关法律以符合规定。",
+        "目的是帮助劳工部监察长办公室等联邦机构发现并打击欺诈行为。",
+        "此规则不涉及移民或签证政策。"
+      ],
+      "who": "各州失业补偿机构及联邦监督部门受到影响。",
+      "action": ""
+    },
+    "ja": {
+      "title": "米労働省、州の失業給付データの連邦当局への開示を義務付ける最終規則を発表",
+      "summary": "米労働省(DOL)は、州の失業補償(UC)機関に対し、監督および不正防止を目的として機密データを連邦当局に開示することを義務付ける最終規則を発表しました。この規則はビザや移民関連の措置ではありません。",
+      "points": [
+        "規則は2026年11月16日に発効します。",
+        "各州は2027年9月16日までに関連法を改正する必要があります。",
+        "目的はDOL監察官室などの連邦機関による不正検出と監督強化です。",
+        "移民やビザ政策とは関係のない内容です。"
+      ],
+      "who": "州の失業補償機関および連邦監督機関が対象です。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-09T08:22Z",
+  "model": "claude-sonnet-5",
+  "agency": "dol",
+  "topics": [
+    "other"
+  ]
+}

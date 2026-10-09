@@ -1,5 +1,25 @@
 [
   {
+    "id": "9fbfdb872417",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/08/hstf-investigation-leads-sentencing-illegal-alien-drug-trafficker-20-years-prison",
+    "published": "2026-10-08",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "HSI",
+      "Drug Trafficking",
+      "Illegal Reentry"
+    ],
+    "added": "2026-10-09T08:19Z"
+  },
+  {
     "id": "3933011e0392",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/08/worst-worst-ice-arrests-murderers-sexual-predators-and-kidnappers",
@@ -679,6 +699,46 @@
     ]
   },
   {
+    "id": "ca9ec3434946",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260923-CriminalInadmissibility.pdf",
+    "published": "2026-09-23",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "travel",
+      "family"
+    ],
+    "tags": [
+      "Policy Manual",
+      "Inadmissibility",
+      "Trafficking in Persons",
+      "Money Laundering"
+    ],
+    "added": "2026-10-09T08:21Z"
+  },
+  {
+    "id": "15f160d0108b",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260923-DefinitionOfDay.pdf",
+    "published": "2026-09-23",
+    "effective_date": "2026-10-23",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Policy Manual",
+      "Filing Deadlines"
+    ],
+    "added": "2026-10-09T08:20Z"
+  },
+  {
     "id": "27a836395697",
     "source": "presidential",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19554/restriction-on-entry-of-certain-nonimmigrant-workers",
@@ -833,6 +893,24 @@
     ]
   },
   {
+    "id": "cbbf60354298",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
+    "published": "2026-09-16",
+    "effective_date": "2026-11-16",
+    "importance": "low",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Unemployment Compensation",
+      "DOL"
+    ],
+    "added": "2026-10-09T08:22Z"
+  },
+  {
     "id": "a390ee8dbb25",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18949/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
@@ -873,6 +951,26 @@
     "topics": [
       "travel"
     ]
+  },
+  {
+    "id": "d662d94985b1",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260914-RevocationReferrals.pdf",
+    "published": "2026-09-14",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization",
+      "Denaturalization",
+      "Policy Manual"
+    ],
+    "added": "2026-10-09T08:22Z"
   },
   {
     "id": "8c9b9e4e1eba",
@@ -981,6 +1079,26 @@
     ]
   },
   {
+    "id": "674fd96748fb",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260909-ChildrenOfForeignGovernmentEmployees.pdf",
+    "published": "2026-09-09",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "family",
+      "citizenship"
+    ],
+    "tags": [
+      "Policy Manual",
+      "Foreign Government Employees",
+      "Lawful Permanent Residence"
+    ],
+    "added": "2026-10-09T08:23Z"
+  },
+  {
     "id": "d95633120370",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
@@ -1068,6 +1186,46 @@
     ]
   },
   {
+    "id": "4b74e7b0465d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17726/rescission-of-coordinated-enforcement-regulations",
+    "published": "2026-08-31",
+    "effective_date": "2026-09-30",
+    "importance": "low",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "employment",
+      "enforcement"
+    ],
+    "tags": [
+      "H-2A",
+      "DOL",
+      "Farmworkers",
+      "Rescission"
+    ],
+    "added": "2026-10-09T08:25Z"
+  },
+  {
+    "id": "caab3ae839ec",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260831-VoterRegNatzCeremonies.pdf",
+    "published": "2026-08-31",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "citizenship"
+    ],
+    "tags": [
+      "Naturalization",
+      "Voter Registration",
+      "Policy Manual"
+    ],
+    "added": "2026-10-09T08:24Z"
+  },
+  {
     "id": "da4a490680bb",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
@@ -1131,6 +1289,27 @@
       "employment",
       "humanitarian"
     ]
+  },
+  {
+    "id": "85f7a92c30f8",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260825-InvestigationsForNatzEligibility.pdf",
+    "published": "2026-08-25",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization",
+      "N-400",
+      "Policy Manual",
+      "Background Investigation"
+    ],
+    "added": "2026-10-09T08:26Z"
   },
   {
     "id": "23de50857009",
