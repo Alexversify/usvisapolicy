@@ -1,0 +1,89 @@
+{
+  "id": "745da2ad056e",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20650/low-value-shipments",
+  "original_title": "Low-Value Shipments",
+  "published": "2026-10-08",
+  "effective_date": null,
+  "importance": "low",
+  "category": "policy",
+  "tags": [
+    "Customs",
+    "Low-Value Shipments",
+    "CBP"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "CBP, 저가 수입물품 통관 규정 개정 제안, 이민 사안과는 무관",
+      "summary": "미국 관세국경보호청(CBP)은 2,500달러 이하 소액 수입물품의 통관 절차와 우편물 전자 통관 방식을 변경하는 규칙을 제안했습니다. 이 문서는 관세 및 통관 행정에 관한 것으로 비자, 영주권, 시민권 등 이민 절차와는 직접적인 관련이 없습니다.",
+      "points": [
+        "CBP는 2,500달러 이하 물품의 약식 통관 요건을 변경하는 규칙을 제안했습니다.",
+        "우편으로 들어오는 상품을 위한 새로운 전자 약식 통관 유형(Entry Type 13)을 신설하는 내용입니다.",
+        "운송업체에 대한 추가 데이터 제출 의무와 일부 약식 통관에 대한 보증금(bond) 요건도 포함됩니다.",
+        "이 규칙은 아직 제안 단계이며 확정되거나 발효된 것이 아닙니다.",
+        "의견 제출 마감일은 2026년 12월 7일입니다."
+      ],
+      "who": "저가 상품을 미국으로 수입하거나 우편으로 발송하는 수입업자, 운송업체, 전자상거래 판매자가 영향을 받습니다.",
+      "action": "이민 관련 당사자에게는 해당 사항이 없으며, 수입 및 통관 관련 당사자는 연방관보 원문을 확인하고 필요 시 의견을 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "CBP Proposes Changes to Low-Value Shipment Customs Entry Rules, Not Immigration-Related",
+      "summary": "U.S. Customs and Border Protection (CBP) has proposed a rule modifying filing requirements for informal customs entries of goods valued at $2,500 or less, including a new electronic entry type for mail shipments. This is a customs and trade rulemaking and does not concern visas, green cards, or citizenship.",
+      "points": [
+        "CBP proposes to modify filing requirements for informal entries of goods valued at $2,500 or less.",
+        "A new electronic informal entry type, Entry Type 13, would be created for merchandise entering through the mail.",
+        "The proposal adds data requirements for carriers and bonding requirements for certain informal entries.",
+        "This is only a proposed rule, not yet final or in effect.",
+        "Comments are due by December 7, 2026."
+      ],
+      "who": "Importers, customs brokers, carriers, and e-commerce sellers handling low-value shipments into the United States.",
+      "action": "This notice does not affect immigration applicants; parties involved in customs entries may review the Federal Register notice and submit comments by the deadline."
+    },
+    "es": {
+      "title": "CBP propone cambios en las reglas de entrada aduanera para envíos de bajo valor, no relacionado con inmigración",
+      "summary": "La Oficina de Aduanas y Protección Fronteriza de EE. UU. (CBP) propuso una regla que modifica los requisitos de declaración para entradas informales de mercancías valoradas en 2,500 dólares o menos, incluyendo un nuevo tipo de entrada electrónica para envíos postales. Se trata de una normativa aduanera y comercial que no afecta visas, residencia permanente ni ciudadanía.",
+      "points": [
+        "CBP propone modificar los requisitos de presentación para entradas informales de mercancías de 2,500 dólares o menos.",
+        "Se crearía un nuevo tipo de entrada informal electrónica, Entry Type 13, para mercancías que llegan por correo.",
+        "La propuesta añade requisitos de datos para transportistas y de fianza para ciertas entradas informales.",
+        "Se trata solo de una propuesta, no es una regla final ni está en vigor.",
+        "El plazo para comentarios vence el 7 de diciembre de 2026."
+      ],
+      "who": "Importadores, agentes aduanales, transportistas y vendedores de comercio electrónico que manejan envíos de bajo valor hacia Estados Unidos.",
+      "action": "Este aviso no afecta a solicitantes de inmigración; las partes involucradas en operaciones aduaneras pueden revisar el aviso del Registro Federal y enviar comentarios antes del plazo."
+    },
+    "zh": {
+      "title": "CBP提议修改低价值货物报关规则,与移民事务无关",
+      "summary": "美国海关与边境保护局(CBP)提议修改对价值2500美元及以下货物的非正式报关申报要求,并为邮寄进口商品设立新的电子非正式报关类型。该文件属于海关贸易监管事项,与签证、绿卡或入籍等移民程序无关。",
+      "points": [
+        "CBP提议修改价值2500美元及以下货物的非正式报关申报要求。",
+        "拟设立新的电子非正式报关类型(Entry Type 13),适用于通过邮件进口的商品。",
+        "该提案还拟增加承运人的数据申报要求,并对部分非正式报关设定保证金要求。",
+        "该规则目前仅为提议,尚未最终确定或生效。",
+        "公众意见截止日期为2026年12月7日。"
+      ],
+      "who": "涉及向美国进口低价值货物的进口商、报关行、承运人及电商卖家受此影响。",
+      "action": "本通知不涉及移民申请人;与海关业务相关方可查阅联邦公报原文并在截止日期前提交意见。"
+    },
+    "ja": {
+      "title": "CBP、低価値貨物の通関規則改正を提案、移民関連ではない",
+      "summary": "米国税関国境警備局(CBP)は、2,500ドル以下の貨物に関する簡易通関手続きを変更し、郵便輸入貨物向けの新たな電子簡易通関区分を設ける規則案を公表しました。本件は税関及び貿易に関する規則であり、ビザ、永住権、市民権などの移民手続きには関係しません。",
+      "points": [
+        "CBPは2,500ドル以下の貨物に関する簡易通関の申告要件を変更する規則を提案しました。",
+        "郵便で輸入される貨物向けに新たな電子簡易通関区分(Entry Type 13)を設ける内容です。",
+        "運送業者に対する追加データ提出義務や、一部簡易通関への保証金要件も盛り込まれています。",
+        "本規則案は提案段階であり、まだ最終決定や施行には至っていません。",
+        "意見提出の締め切りは2026年12月7日です。"
+      ],
+      "who": "米国向けに低価値貨物を輸入する輸入者、通関業者、運送業者、eコマース事業者が対象です。",
+      "action": "移民手続きの当事者には関係ありません。通関関係者は連邦官報の原文を確認し、締め切りまでに意見を提出できます。"
+    }
+  },
+  "added": "2026-10-09T08:12Z",
+  "model": "claude-sonnet-5",
+  "agency": "cbp",
+  "topics": [
+    "other"
+  ]
+}

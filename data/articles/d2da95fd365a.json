@@ -1,0 +1,84 @@
+{
+  "id": "d2da95fd365a",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/policy-manual/volume-3",
+  "original_title": "Volume 3 - Humanitarian Protection and Parole",
+  "published": "2026-10-09",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Policy Manual",
+    "Humanitarian",
+    "Parole"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS 정책매뉴얼 제3권, 인도적 보호 및 패롤 편 소개",
+      "summary": "이 자료는 USCIS 정책매뉴얼 제3권인 인도적 보호 및 패롤(Humanitarian Protection and Parole) 편의 표제 페이지입니다. 구체적인 정책 변경 내용이나 세부 규정은 제공된 원문에 포함되어 있지 않습니다.",
+      "points": [
+        "원문은 USCIS 정책매뉴얼 제3권의 제목만 포함하고 있습니다.",
+        "인도적 보호 및 패롤 관련 구체적인 정책 변경 사항은 명시되어 있지 않습니다.",
+        "발표일이나 시행일에 대한 정보도 원문에 나와 있지 않습니다.",
+        "이 페이지는 해당 챕터로 연결되는 목차 성격의 자료로 보입니다."
+      ],
+      "who": "난민, 망명 신청자, 패롤 신청자 등 인도적 보호 관련 절차에 관심 있는 사람들입니다.",
+      "action": "구체적인 정책 내용을 확인하려면 USCIS 정책매뉴얼 제3권의 세부 챕터를 직접 참고하시기 바랍니다."
+    },
+    "en": {
+      "title": "USCIS Policy Manual Volume 3: Humanitarian Protection and Parole, Title Page Only",
+      "summary": "This source is the title page for Volume 3 of the USCIS Policy Manual, covering Humanitarian Protection and Parole. No specific policy content, changes, or dates are included in the provided text.",
+      "points": [
+        "The source text contains only the title of Volume 3 of the USCIS Policy Manual.",
+        "No specific eligibility rules, fees, or procedural changes are described.",
+        "No publication or effective date is stated in the source.",
+        "This appears to be a landing or index page linking to detailed chapters."
+      ],
+      "who": "Refugees, asylum seekers, parole applicants, and others interested in humanitarian immigration provisions.",
+      "action": "Consult the full chapters of Volume 3 directly on the USCIS website for specific policy details."
+    },
+    "es": {
+      "title": "Manual de Políticas del USCIS, Volumen 3: Protección Humanitaria y Permiso de Permanencia Temporal",
+      "summary": "Esta fuente corresponde únicamente a la página de título del Volumen 3 del Manual de Políticas del USCIS, dedicado a la Protección Humanitaria y el Parole. El texto proporcionado no incluye contenido específico sobre cambios de política.",
+      "points": [
+        "El texto fuente solo contiene el título del Volumen 3 del Manual de Políticas del USCIS.",
+        "No se describen reglas de elegibilidad, tarifas ni cambios de procedimiento específicos.",
+        "No se indica fecha de publicación ni de entrada en vigor en el texto original.",
+        "Parece tratarse de una página de índice que enlaza a capítulos más detallados."
+      ],
+      "who": "Refugiados, solicitantes de asilo, solicitantes de parole y otras personas interesadas en disposiciones humanitarias migratorias.",
+      "action": "Consultar directamente los capítulos completos del Volumen 3 en el sitio web del USCIS para obtener detalles específicos."
+    },
+    "zh": {
+      "title": "USCIS政策手册第3卷,人道保护与假释,仅为标题页面",
+      "summary": "此资料仅为USCIS政策手册第3卷的标题页面,内容涉及人道保护与假释(Parole)。所提供原文中未包含具体政策变化或细节内容。",
+      "points": [
+        "原文内容仅包含USCIS政策手册第3卷的标题。",
+        "未说明具体的资格规则、费用或程序变化。",
+        "原文未注明发布日期或生效日期。",
+        "该页面似为索引页面,链接至更详细的章节内容。"
+      ],
+      "who": "难民、庇护申请人、假释申请人以及其他关注人道主义移民条款的人士。",
+      "action": "如需了解具体政策内容,请直接查阅USCIS网站上第3卷的详细章节。"
+    },
+    "ja": {
+      "title": "USCISポリシーマニュアル第3巻、人道的保護とパロール、表題ページのみ",
+      "summary": "この資料はUSCISポリシーマニュアル第3巻、人道的保護とパロールに関する表題ページです。提供された原文には具体的な政策変更内容は含まれていません。",
+      "points": [
+        "原文にはUSCISポリシーマニュアル第3巻のタイトルのみが記載されています。",
+        "具体的な資格要件、手数料、手続き変更については記載がありません。",
+        "発表日や施行日についても原文には明記されていません。",
+        "このページは詳細な章へのリンクを含む目次ページと見られます。"
+      ],
+      "who": "難民、庇護希望者、パロール申請者など人道的保護に関連する移民手続きに関心のある人々です。",
+      "action": "具体的な政策内容については、USCISウェブサイトの第3巻の各章を直接確認してください。"
+    }
+  },
+  "added": "2026-10-09T08:08Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "humanitarian"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "2863c28a490e",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/policy-manual/volume-1",
+  "original_title": "Volume 1 - General Policies and Procedures",
+  "published": "2026-10-09",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Policy Manual"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS 정책매뉴얼 제1권, 일반 정책 및 절차 소개",
+      "summary": "이 자료는 USCIS 정책매뉴얼 제1권 '일반 정책 및 절차'의 표지 페이지로, 구체적인 정책 변경 내용은 포함되어 있지 않습니다. 해당 권은 USCIS의 전반적인 행정 절차와 기준을 다루는 참고 자료입니다.",
+      "points": [
+        "USCIS 정책매뉴얼 제1권은 일반 정책 및 절차를 다룹니다.",
+        "제공된 자료에는 구체적인 변경 사항이나 날짜가 명시되어 있지 않습니다.",
+        "이는 새로운 규정 발표가 아니라 기존 매뉴얼의 목차 성격의 페이지입니다.",
+        "자세한 내용은 USCIS 웹사이트의 전체 매뉴얼 본문을 확인해야 합니다."
+      ],
+      "who": "USCIS 정책매뉴얼을 참고하는 신청인, 고용주, 이민 전문 변호사에게 해당합니다.",
+      "action": "구체적인 정책 내용을 확인하려면 USCIS 웹사이트에서 정책매뉴얼 제1권 본문을 직접 열람하시기 바랍니다."
+    },
+    "en": {
+      "title": "USCIS Policy Manual Volume 1, General Policies and Procedures",
+      "summary": "This source is the title page for Volume 1 of the USCIS Policy Manual, covering general policies and procedures. It contains no specific policy change, date, or eligibility detail.",
+      "points": [
+        "Volume 1 of the USCIS Policy Manual addresses general agency policies and procedures.",
+        "The source text provided does not include any specific updates, dates, or rule changes.",
+        "This appears to be a reference or landing page rather than an announcement of a new policy.",
+        "Readers should consult the full text of Volume 1 on the USCIS website for substantive content."
+      ],
+      "who": "Applicants, employers, and immigration attorneys who reference the USCIS Policy Manual.",
+      "action": "Check the full Volume 1 text on uscis.gov for specific policy details, as none are provided here."
+    },
+    "es": {
+      "title": "Manual de Políticas de USCIS, Volumen 1, Políticas y Procedimientos Generales",
+      "summary": "Esta fuente corresponde a la página de título del Volumen 1 del Manual de Políticas de USCIS, que trata sobre políticas y procedimientos generales. No incluye ningún cambio de política, fecha o detalle de elegibilidad específico.",
+      "points": [
+        "El Volumen 1 del Manual de Políticas de USCIS aborda las políticas y procedimientos generales de la agencia.",
+        "El texto fuente proporcionado no incluye actualizaciones, fechas ni cambios de reglas específicos.",
+        "Parece ser una página de referencia o portada, no un anuncio de una nueva política.",
+        "Los interesados deben consultar el texto completo del Volumen 1 en el sitio web de USCIS para obtener contenido sustantivo."
+      ],
+      "who": "Solicitantes, empleadores y abogados de inmigración que consultan el Manual de Políticas de USCIS.",
+      "action": "Revisar el texto completo del Volumen 1 en uscis.gov para conocer los detalles específicos, ya que no se proporcionan aquí."
+    },
+    "zh": {
+      "title": "USCIS政策手册第一卷,总体政策与程序",
+      "summary": "该资料为USCIS政策手册第一卷的标题页,内容涉及总体政策与程序,但未包含任何具体的政策变化、日期或资格细节。",
+      "points": [
+        "USCIS政策手册第一卷涉及该机构的总体政策与程序。",
+        "来源文本未包含任何具体的更新内容、日期或规则变化。",
+        "该页面似乎是参考性或导航性页面,而非新政策的公告。",
+        "读者应在USCIS官网查阅第一卷的完整内容以获取实质信息。"
+      ],
+      "who": "参考USCIS政策手册的申请人、雇主及移民律师。",
+      "action": "请前往uscis.gov查阅第一卷的完整文本以了解具体政策内容,因本资料未提供详细信息。"
+    },
+    "ja": {
+      "title": "USCISポリシーマニュアル第1巻、一般方針及び手続き",
+      "summary": "この資料はUSCISポリシーマニュアル第1巻「一般方針及び手続き」の表題ページであり、具体的な政策変更や日付、資格要件の詳細は含まれていません。",
+      "points": [
+        "USCISポリシーマニュアル第1巻は、USCISの一般的な方針及び手続きを扱っています。",
+        "提供された原文には具体的な更新内容、日付、規則変更は記載されていません。",
+        "これは新しい政策の発表ではなく、参照用またはトップページ的な内容と見られます。",
+        "具体的な内容を確認するには、USCISウェブサイトで第1巻の本文全体を参照する必要があります。"
+      ],
+      "who": "USCISポリシーマニュアルを参照する申請者、雇用主、移民弁護士が対象です。",
+      "action": "具体的な政策内容を確認するため、uscis.govで第1巻の本文全体を確認してください。"
+    }
+  },
+  "added": "2026-10-09T08:08Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "other"
+  ]
+}

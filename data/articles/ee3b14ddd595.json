@@ -1,0 +1,79 @@
+{
+  "id": "ee3b14ddd595",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/policy-manual/volume-11",
+  "original_title": "Volume 11 - Travel and Identity Documents",
+  "published": "2026-10-09",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Policy Manual",
+    "Travel Documents"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS 정책 매뉴얼 제11권, 여행 및 신분증명서류 안내",
+      "summary": "USCIS 정책 매뉴얼 제11권은 여행 및 신분증명서류와 관련된 내용을 다루는 장입니다. 제공된 자료에는 구체적인 변경 사항이나 내용이 명시되어 있지 않습니다.",
+      "points": [
+        "USCIS 정책 매뉴얼 제11권은 여행 및 신분증명서류를 다루는 항목입니다.",
+        "제공된 자료에는 구체적인 정책 변경 내용이 포함되어 있지 않습니다.",
+        "해당 매뉴얼의 세부 내용은 USCIS 공식 웹사이트에서 확인할 수 있습니다."
+      ],
+      "who": "여행허가서, 재입국허가서 등 신분증명서류와 관련된 신청인 및 이민자가 해당될 수 있습니다.",
+      "action": "구체적인 내용을 확인하려면 USCIS 정책 매뉴얼 제11권 원문을 직접 참고하시기 바랍니다."
+    },
+    "en": {
+      "title": "USCIS Policy Manual Volume 11 Covers Travel and Identity Documents",
+      "summary": "USCIS Policy Manual Volume 11 addresses travel and identity documents. The provided source does not specify any particular policy change or update.",
+      "points": [
+        "Volume 11 of the USCIS Policy Manual is the chapter covering travel and identity documents.",
+        "No specific policy change or content detail is provided in this source.",
+        "Further details are available on the USCIS Policy Manual website."
+      ],
+      "who": "Applicants and immigrants dealing with travel permits, reentry permits, or identity documents may be affected.",
+      "action": "Consult the full text of USCIS Policy Manual Volume 11 for specific guidance."
+    },
+    "es": {
+      "title": "El Volumen 11 del Manual de Políticas de USCIS trata sobre documentos de viaje e identidad",
+      "summary": "El Volumen 11 del Manual de Políticas de USCIS aborda los documentos de viaje e identidad. La fuente proporcionada no especifica ningún cambio o actualización de política en particular.",
+      "points": [
+        "El Volumen 11 del Manual de Políticas de USCIS es el capítulo que cubre documentos de viaje e identidad.",
+        "No se proporciona ningún detalle específico de cambio de política en esta fuente.",
+        "Puede encontrar más detalles en el sitio web del Manual de Políticas de USCIS."
+      ],
+      "who": "Puede afectar a solicitantes e inmigrantes que tramitan permisos de viaje, permisos de reingreso o documentos de identidad.",
+      "action": "Consulte el texto completo del Volumen 11 del Manual de Políticas de USCIS para obtener orientación específica."
+    },
+    "zh": {
+      "title": "USCIS政策手册第11卷涉及旅行和身份证件",
+      "summary": "USCIS政策手册第11卷涉及旅行和身份证件相关内容。目前提供的资料中未说明具体的政策变更或更新内容。",
+      "points": [
+        "USCIS政策手册第11卷是涵盖旅行和身份证件的章节。",
+        "该资料未提供具体的政策变更细节。",
+        "更多详情可在USCIS政策手册官方网站上查阅。"
+      ],
+      "who": "涉及旅行许可证、再入境许可证或身份证件的申请人及移民可能受到影响。",
+      "action": "如需具体指导,请查阅USCIS政策手册第11卷全文。"
+    },
+    "ja": {
+      "title": "USCISポリシーマニュアル第11巻、渡航および身分証明書類について",
+      "summary": "USCISポリシーマニュアル第11巻は渡航および身分証明書類に関する内容を扱っています。提供された資料には具体的な政策変更内容は示されていません。",
+      "points": [
+        "USCISポリシーマニュアル第11巻は渡航および身分証明書類を扱う章です。",
+        "この資料には具体的な政策変更の詳細は記載されていません。",
+        "詳細はUSCIS公式ウェブサイトのポリシーマニュアルで確認できます。"
+      ],
+      "who": "渡航許可証、再入国許可証、身分証明書類に関わる申請者や移民が対象となる可能性があります。",
+      "action": "具体的な内容についてはUSCISポリシーマニュアル第11巻の原文を参照してください。"
+    }
+  },
+  "added": "2026-10-09T08:10Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "travel",
+    "other"
+  ]
+}
