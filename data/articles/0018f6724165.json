@@ -87,5 +87,11 @@
     }
   },
   "added": "2026-10-08T00:43Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "ice",
+  "topics": [
+    "students",
+    "fees"
+  ],
+  "classified_by": "manual"
 }

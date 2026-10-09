@@ -2,7 +2,7 @@
   // 목록 필터
   var list = document.querySelector('.list');
   if (list) {
-    var state = {cat: 'all', src: 'all', hot: false, q: ''};
+    var state = {cat: 'all', agency: 'all', topic: '', hot: false, q: ''};
     try { var h = (location.hash || '').slice(1); if (h) state.cat = h; } catch(e) {}
     var cards = Array.prototype.slice.call(list.querySelectorAll('.card'));
     var none = document.getElementById('no-match');
@@ -10,7 +10,8 @@
       var shown = 0, q = state.q.trim().toLowerCase();
       cards.forEach(function(c){
         var ok = (state.cat === 'all' || c.dataset.cat === state.cat)
-          && (state.src === 'all' || c.dataset.src === state.src)
+          && (state.agency === 'all' || c.dataset.agency === state.agency)
+          && (!state.topic || c.dataset.topics.indexOf(' ' + state.topic + ' ') !== -1)
           && (!state.hot || c.dataset.imp === 'high')
           && (!q || c.dataset.q.indexOf(q) !== -1);
         c.hidden = !ok; if (ok) shown++;
@@ -25,8 +26,25 @@
       apply();
     }
     tabs.forEach(function(b){ b.addEventListener('click', function(){ setCat(b.dataset.filterCat); }); });
-    var sel = document.querySelector('select[data-filter-src]');
-    if (sel) sel.addEventListener('change', function(){ state.src = sel.value; apply(); });
+    var sel = document.querySelector('select[data-filter-agency]');
+    if (sel) sel.addEventListener('change', function(){ state.agency = sel.value; apply(); });
+    // 주요 이슈 타일: 누르면 그 주제만, 다시 누르거나 해제 칩을 누르면 전체.
+    var tiles = document.querySelectorAll('[data-filter-topic]');
+    var clearBtn = document.querySelector('[data-clear-topic]');
+    function setTopic(v, label){
+      state.topic = v;
+      tiles.forEach(function(x){ x.setAttribute('aria-pressed', x.dataset.filterTopic === v ? 'true' : 'false'); });
+      if (clearBtn) { clearBtn.hidden = !v; clearBtn.textContent = v ? label + ' ✕' : ''; }
+      apply();
+      if (v) { var b = document.querySelector('.bar'); if (b) b.scrollIntoView({behavior: 'smooth', block: 'start'}); }
+    }
+    tiles.forEach(function(b){ b.addEventListener('click', function(){
+      var v = b.dataset.filterTopic;
+      setTopic(state.topic === v ? '' : v, b.querySelector('b').textContent);
+    }); });
+    if (clearBtn) clearBtn.addEventListener('click', function(){ setTopic('', ''); });
+    var more = document.querySelector('[data-more-topics]');
+    if (more) more.addEventListener('click', function(){ more.closest('.issues').classList.add('open'); });
     if (state.cat !== 'all') setCat(state.cat);
     // 뒤로가기 등으로 주소의 #분류가 바뀌면 탭도 따라갑니다.
     window.addEventListener('hashchange', function(){ var v = (location.hash || '').slice(1) || 'all'; if (v !== state.cat) setCat(v); });

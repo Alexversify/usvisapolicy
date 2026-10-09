@@ -87,5 +87,12 @@
   },
   "added": "2026-10-01T07:38Z",
   "model": "claude-sonnet-5",
-  "category": "policy"
+  "category": "policy",
+  "agency": "president",
+  "topics": [
+    "h1b",
+    "travel",
+    "fees"
+  ],
+  "classified_by": "manual"
 }

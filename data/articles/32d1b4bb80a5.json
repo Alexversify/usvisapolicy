@@ -88,5 +88,11 @@
     }
   },
   "added": "2026-10-08T01:06Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "enforcement",
+    "humanitarian"
+  ],
+  "classified_by": "manual"
 }

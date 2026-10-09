@@ -90,5 +90,11 @@
     }
   },
   "added": "2026-10-08T01:05Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "doj",
+  "topics": [
+    "fees",
+    "humanitarian"
+  ],
+  "classified_by": "manual"
 }

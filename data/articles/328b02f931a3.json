@@ -87,5 +87,11 @@
     }
   },
   "added": "2026-10-08T01:04Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "eb5",
+    "fees"
+  ],
+  "classified_by": "manual"
 }

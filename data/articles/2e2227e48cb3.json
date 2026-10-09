@@ -81,5 +81,10 @@
     }
   },
   "added": "2026-10-01T08:07Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "travel"
+  ],
+  "classified_by": "manual"
 }

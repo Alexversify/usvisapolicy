@@ -40,6 +40,26 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 .tab{flex:none;border:0;background:none;color:var(--muted);font:inherit;font-size:14.5px;padding:8px 12px 10px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
 .tab span{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
 .tab[aria-pressed="true"]{color:var(--ink);font-weight:700;border-bottom-color:var(--ink)}
+.issues{margin:4px 0 18px}
+.issues-h{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.issues-h h2{font-size:18px;margin:0;letter-spacing:-.01em}
+.issues-h p{margin:0;font-size:13px;color:var(--muted)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.tile{display:flex;flex-direction:column;gap:6px;text-align:left;font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-left:4px solid var(--rule);border-radius:10px;padding:12px 14px;cursor:pointer;min-width:0}
+.tile.hot{border-left-color:var(--hot)}
+.tile.extra{display:none}
+.issues.open .tile.extra{display:flex}
+.issues.open .more{display:none}
+.more{margin-top:10px;border:0;background:none;color:var(--accent);font:inherit;font-size:13.5px;cursor:pointer;padding:4px 0}
+.tile:hover{border-color:var(--ink-2)}
+.tile[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.tile-h{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.tile-h b{font-size:15px}
+.tile-h span{font-size:12px;color:var(--faint);white-space:nowrap;font-variant-numeric:tabular-nums}
+.tile-t{font-size:13.5px;line-height:1.45;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tile-d{font-size:12px;color:var(--faint)}
+@media (max-width:520px){.tiles{grid-template-columns:1fr 1fr;gap:8px}.tile{padding:10px 11px}.tile-t{-webkit-line-clamp:3;font-size:13px}}
+.badge.ag{background:var(--paper);border:1px solid var(--rule);color:var(--ink-2)}
 .srcsel{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 10px;border-radius:999px}
 .badge.cat-policy{background:#e7efff;color:#1d4ed8}
 .badge.cat-fees{background:#fff4e0;color:#9a5b00}

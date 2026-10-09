@@ -1,0 +1,99 @@
+{
+  "id": "0cbaa815d32e",
+  "source": "dhs_news",
+  "url": "https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs",
+  "original_title": "DHS Proposes Fees for Foreign Student Work Program to Protect American Jobs",
+  "published": "2026-10-07",
+  "effective_date": null,
+  "importance": "high",
+  "category": "fees",
+  "tags": [
+    "F-1",
+    "OPT",
+    "STEM OPT",
+    "SEVP",
+    "Fees",
+    "Proposed Rule",
+    "USCIS"
+  ],
+  "langs": {
+    "ko": {
+      "title": "DHS, F-1 유학생 OPT 취업허가에 최대 7만 달러 수수료 신설 제안",
+      "summary": "미 국토안보부(DHS)가 F-1 유학생의 선택적 실습훈련(OPT) 참여에 새로운 수수료를 부과하는 규칙을 제안했습니다. 최초 OPT는 7만 달러, 이후 OPT는 3만 달러의 수수료가 책정될 예정이며 이는 아직 확정되지 않은 제안 단계입니다.",
+      "points": [
+        "제안된 수수료는 최초 OPT 1인당 7만 달러, 이후 OPT 1인당 3만 달러입니다.",
+        "수수료는 특정 고용주와 연계되지 않고 학교가 SEVIS에서 OPT를 추천할 때마다 적용됩니다.",
+        "학교가 수수료를 납부하지 않으면 USCIS는 F-1 유학생에게 취업허가를 발급하지 않습니다.",
+        "DHS는 이번 제안이 OPT 관련 사기와 악용 사례(문제 있는 근무지, '페이투스테이' 비자 편법 등)를 줄이기 위한 것이라고 설명했습니다.",
+        "공개 의견 수렴 기간은 10월 8일부터 11월 9일까지이며, 문서 감축법(Paperwork Reduction Act) 관련 조항은 60일간 별도로 의견을 받습니다.",
+        "이 규칙은 아직 제안 단계로 확정되거나 발효된 것이 아닙니다."
+      ],
+      "who": "OPT 참여를 계획 중이거나 현재 참여 중인 F-1 유학생, SEVP 인증 학교, 지정교직원(DSO), 고용주가 영향을 받습니다.",
+      "action": "관련 학교와 학생은 연방관보(Federal Register)에 게재될 정식 공고를 확인하고 의견 제출 마감일인 11월 9일 전까지 의견을 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "DHS Proposes New Fees of Up to $70,000 for F-1 Student OPT Work Authorization",
+      "summary": "DHS has issued a proposed rule to impose new fees on F-1 nonimmigrant students participating in Optional Practical Training (OPT). The rule, which is not yet final, would set a $70,000 fee for initial OPT and a $30,000 fee for subsequent OPT.",
+      "points": [
+        "The proposed fee is $70,000 per student for initial OPT and $30,000 for any subsequent OPT.",
+        "The fee is not tied to a specific employer but applies whenever a school recommends a student for OPT in SEVIS.",
+        "USCIS would not grant employment authorization unless the school has paid the required fee.",
+        "DHS says the fees are intended to reduce fraud and abuse, including problematic worksites and 'pay-to-stay' visa schemes.",
+        "Public comments are accepted from October 8 through November 9, with a separate 60-day comment period for the Paperwork Reduction Act section.",
+        "This is only a proposed rule and is not yet final or in effect."
+      ],
+      "who": "F-1 nonimmigrant students seeking or currently in OPT, SEVP-certified schools, designated school officials, and employers are affected.",
+      "action": "Interested parties should review the Notice of Proposed Rulemaking in the Federal Register and submit comments before the November 9 deadline."
+    },
+    "es": {
+      "title": "DHS propone nuevas tarifas de hasta 70.000 dólares para la autorización de trabajo OPT de estudiantes F-1",
+      "summary": "El Departamento de Seguridad Nacional (DHS) de Estados Unidos propuso una nueva regla que impondría tarifas a los estudiantes F-1 que participan en el programa de Capacitación Práctica Opcional (OPT). La propuesta establecería una tarifa de 70.000 dólares para el OPT inicial y 30.000 dólares para cualquier OPT posterior, y aún no es definitiva.",
+      "points": [
+        "La tarifa propuesta es de 70.000 dólares por estudiante para el OPT inicial y de 30.000 dólares para cualquier OPT subsiguiente.",
+        "La tarifa no está vinculada a un empleador específico, sino que se aplica cada vez que una escuela recomienda a un estudiante para el OPT en el sistema SEVIS.",
+        "USCIS no otorgaría la autorización de empleo si la escuela no ha pagado la tarifa requerida.",
+        "DHS afirma que las tarifas buscan reducir el fraude y el abuso, incluidos sitios de trabajo problemáticos y esquemas de visa de tipo 'pago por estadía'.",
+        "El período de comentarios públicos va del 8 de octubre al 9 de noviembre, con un plazo adicional de 60 días para la sección relacionada con la Ley de Reducción de Trámites (Paperwork Reduction Act).",
+        "Se trata únicamente de una propuesta que todavía no es definitiva ni está en vigor."
+      ],
+      "who": "Afecta a los estudiantes no inmigrantes F-1 que buscan participar o ya participan en el OPT, a las escuelas certificadas por SEVP, a los funcionarios escolares designados y a los empleadores.",
+      "action": "Las partes interesadas deben revisar el aviso de propuesta de reglamentación (NPRM) en el Federal Register y enviar sus comentarios antes del 9 de noviembre."
+    },
+    "zh": {
+      "title": "美国国土安全部提议对F-1学生OPT工作许可收取最高7万美元费用",
+      "summary": "美国国土安全部(DHS)提出一项拟议规则，拟对参与选择性实习训练(OPT)的F-1非移民学生收取新费用。该规则尚未最终确定，拟规定首次OPT收费7万美元，后续OPT收费3万美元。",
+      "points": [
+        "拟议费用为每名学生首次OPT收取7万美元，后续OPT收取3万美元。",
+        "该费用不与特定雇主挂钩，而是在学校通过SEVIS系统推荐学生申请任何类型的OPT时适用。",
+        "若学校未缴纳规定费用，USCIS将不会批准F-1学生的工作许可。",
+        "DHS表示该费用旨在遏制欺诈和滥用行为，包括存在问题的工作场所以及“付费留美”签证骗局。",
+        "公众意见征集期为10月8日至11月9日，其中涉及《文书削减法》的部分另设60天意见征集期。",
+        "该规则目前仅为提议阶段，尚未最终确定或生效。"
+      ],
+      "who": "该规则影响正在申请或已参与OPT的F-1非移民学生、获SEVP认证的学校、指定学校官员(DSO)以及雇主。",
+      "action": "相关人员应查阅即将刊登于联邦公报(Federal Register)的正式公告，并在11月9日截止日期前提交意见。"
+    },
+    "ja": {
+      "title": "DHS、F-1学生のOPT就労許可に最大7万ドルの新手数料を提案",
+      "summary": "米国土安全保障省(DHS)は、オプショナル・プラクティカル・トレーニング(OPT)に参加するF-1非移民学生に対して新たな手数料を課す規則案を発表しました。この規則案はまだ最終決定されておらず、初回OPTには7万ドル、それ以降のOPTには3万ドルの手数料を設定するとしています。",
+      "points": [
+        "提案されている手数料は、初回OPTが学生1人につき7万ドル、以降のOPTは3万ドルです。",
+        "手数料は特定の雇用主に紐づくものではなく、学校がSEVISシステムでOPTを推薦するたびに適用されます。",
+        "学校が手数料を支払わない限り、USCISはF-1学生に就労許可を発行しません。",
+        "DHSは、問題のある勤務先や「滞在目的の支払い」型ビザの不正利用などの不正や濫用を減らすことが目的だとしています。",
+        "意見公募期間は10月8日から11月9日までで、文書削減法(Paperwork Reduction Act)関連部分については別途60日間の意見公募期間があります。",
+        "本規則はあくまで提案段階であり、まだ最終決定または施行されていません。"
+      ],
+      "who": "OPTへの参加を予定または現在参加中のF-1非移民学生、SEVP認定校、指定学校職員(DSO)、雇用主が影響を受けます。",
+      "action": "関係者は連邦官報(Federal Register)に掲載される正式告知を確認し、11月9日の締め切りまでに意見を提出することができます。"
+    }
+  },
+  "added": "2026-10-08T00:45Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "students",
+    "fees"
+  ],
+  "classified_by": "manual"
+}

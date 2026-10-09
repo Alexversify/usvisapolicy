@@ -85,5 +85,12 @@
     }
   },
   "added": "2026-10-08T01:07Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "h1b",
+    "employment",
+    "students"
+  ],
+  "classified_by": "manual"
 }

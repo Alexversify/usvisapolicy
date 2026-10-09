@@ -82,5 +82,12 @@
     }
   },
   "added": "2026-10-08T08:13Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "visa_bulletin",
+    "family",
+    "employment"
+  ],
+  "classified_by": "manual"
 }

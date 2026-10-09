@@ -15,7 +15,8 @@ src/translate.py       Claude 호출. 5개 언어 기사 JSON 생성
 src/store.py           data/ 읽기·쓰기
 src/main.py            진입점. --render-only 는 docs/만 재생성
 src/render.py          페이지 생성 (목록, 기사, RSS, sitemap, 루트 언어 이동)
-src/i18n.py            화면 문구 5개 언어
+src/i18n.py            화면 문구 5개 언어, 기관(AGENCY_LABEL)·주제(TOPIC_LABEL) 이름
+src/taxonomy.py        기관·주제 목록과 규칙 기반 임시 분류
 src/assets.py          공통 CSS, JS(필터, 피드백 위젯)
 data/index.json        기사 목록
 data/articles/<id>.json  기사 1건 (언어별 title, summary, points, who, action)
@@ -38,12 +39,17 @@ docs/                  자동 생성물. 직접 고치지 말고 src/ 를 고친
 ## 자동 운영
 
 - news 워크플로가 30분마다 수집, 번역, 커밋, 배포까지 한다. 사람 손이 필요 없다.
-- 한 번 올린 기사는 내리지 않는다. 원문이 삭제돼도 남기고, scripts/keep_articles.py 가 커밋 전 빠진 기사를 되살린다.
+- 한 번 올린 기사는 내리지 않는다. 이민과 무관해 보여도 지우지 말고 기관·주제로 분류한다. 원문이 삭제돼도 남기고, scripts/keep_articles.py 가 커밋 전 빠진 기사를 되살린다.
   기사 페이지에 web.archive.org 보관본 링크를 달고, 게시할 때 원문 저장을 요청한다.
 - 같은 글이 계속 실패하면 접는다 (번역 3회, 본문 없음 48회). 번역이 전부 실패한 실행은 세지 않는다 (API 장애로 글을 잃지 않게).
 - scripts/health.py 가 소스 6회 연속 실패, 번역 4회 연속 실패를 잡아 실행을 실패로 표시한다. GitHub이 소유자에게 메일을 보낸다.
   차단이 알려진 소스는 settings.yaml 에 alert: false.
 - 커밋 시 main 이 앞서 있으면 합친 뒤 docs/ 를 다시 생성해 푸시한다.
+
+## 분류
+
+- 기사마다 category(정책·수수료·접수·단속·공고), agency(발표 기관), topics(주제 1~3개). 번역 단계에서 Claude가 고른다.
+- 목록 첫 화면의 '주요 이슈' 보드는 topics 로 묶는다. 순서는 최근 30일 중요도 가중치.
 
 ## 소스 추가
 

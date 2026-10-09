@@ -86,5 +86,11 @@
     }
   },
   "added": "2026-10-08T01:11Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "h1b",
+    "fees"
+  ],
+  "classified_by": "manual"
 }

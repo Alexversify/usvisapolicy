@@ -81,5 +81,10 @@
     }
   },
   "added": "2026-10-08T01:09Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "humanitarian"
+  ],
+  "classified_by": "manual"
 }

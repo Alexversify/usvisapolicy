@@ -86,5 +86,11 @@
   },
   "added": "2026-10-01T07:35Z",
   "model": "claude-sonnet-5",
-  "category": "enforcement"
+  "category": "enforcement",
+  "agency": "uscis",
+  "topics": [
+    "enforcement",
+    "citizenship"
+  ],
+  "classified_by": "manual"
 }
