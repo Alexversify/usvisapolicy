@@ -28,7 +28,8 @@ sources:
     # Policy Manual 개정 공지 (예: 2026-10-02 EAD 자동연장 기술 개정). 뉴스룸에 안 올라오는 정책 변경이 여기 있습니다.
     list_urls:
       - https://www.uscis.gov/policy-manual/updates
-    link_pattern: "(/sites/default/files/document/policy-manual-updates/[^?#]+|/policy-manual/updates/[^?#]+|/policy-manual/volume-[^?#]+)"
+    # 개정 공지 PDF만. /policy-manual/volume-* 는 매뉴얼 목차라 잡으면 안 됩니다.
+    link_pattern: "/sites/default/files/document/policy-manual-updates/[^?#]+"
     context_as_text: true
     max_items: 15
 

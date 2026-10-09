@@ -78,13 +78,5 @@
     "key": true,
     "fail_streak": 0
   },
-  "retries": {
-    "e21e12e4ec0f": 1,
-    "6f371604b47a": 1,
-    "9f823e8cde21": 1,
-    "5b963740dc56": 1,
-    "052d077e31f8": 1,
-    "a946ca7fe435": 1,
-    "bd5c4f4085be": 1
-  }
+  "retries": {}
 }
