@@ -88,5 +88,11 @@
     }
   },
   "added": "2026-10-08T08:04Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "family",
+    "citizenship"
+  ],
+  "classified_by": "manual"
 }

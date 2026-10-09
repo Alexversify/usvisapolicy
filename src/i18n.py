@@ -27,6 +27,12 @@ T: dict[str, dict[str, str]] = {
     "action": {"ko": "확인할 일", "en": "What to do", "es": "Qué hacer", "zh": "建议行动", "ja": "取るべき対応"},
     "original": {"ko": "원문 보기", "en": "Read the official source", "es": "Ver la fuente oficial", "zh": "查看官方原文", "ja": "公式原文を見る"},
     "archived": {"ko": "원문이 내려간 경우 보관본 보기", "en": "Archived copy (if the original is removed)", "es": "Copia archivada (si se retira el original)", "zh": "原文删除时查看存档", "ja": "原文が削除された場合のアーカイブ"},
+    "issues": {"ko": "주요 이슈", "en": "Key issues", "es": "Temas clave", "zh": "重点议题", "ja": "主要トピック"},
+    "issues_hint": {"ko": "주제를 누르면 관련 소식만 모아 봅니다.", "en": "Tap a topic to see only related updates.", "es": "Toque un tema para ver solo sus novedades.", "zh": "点击主题，只看相关动态。", "ja": "トピックを押すと関連ニュースだけを表示します。"},
+    "count": {"ko": "{n}건", "en": "{n} updates", "es": "{n} novedades", "zh": "{n} 条", "ja": "{n}件"},
+    "all_agencies": {"ko": "모든 기관", "en": "All agencies", "es": "Todas las agencias", "zh": "全部机构", "ja": "すべての機関"},
+    "more_topics": {"ko": "주제 {n}개 더 보기", "en": "Show {n} more topics", "es": "Ver {n} temas más", "zh": "再显示 {n} 个主题", "ja": "ほか{n}件のトピック"},
+    "clear": {"ko": "전체 보기", "en": "Show all", "es": "Ver todo", "zh": "显示全部", "ja": "すべて表示"},
     "original_title": {"ko": "원문 제목", "en": "Original title", "es": "Título original", "zh": "原文标题", "ja": "原文タイトル"},
     "back": {"ko": "목록으로", "en": "All updates", "es": "Todas las novedades", "zh": "返回列表", "ja": "一覧へ"},
     "empty": {"ko": "아직 게시된 업데이트가 없습니다. 첫 수집이 끝나면 여기에 표시됩니다.", "en": "No updates yet. They will appear here after the first collection run.", "es": "Aún no hay novedades. Aparecerán aquí tras la primera recopilación.", "zh": "暂无更新。首次采集完成后将在此显示。", "ja": "まだ更新はありません。初回収集後にここに表示されます。"},
@@ -74,6 +80,48 @@ CATEGORY_LABEL: dict[str, dict[str, str]] = {
 }
 CATEGORY_ORDER = ["policy", "fees", "processing", "enforcement", "notice"]
 
+# 발표 기관. 번역 단계에서 Claude가 고르고, 없으면 taxonomy.rule_classify 가 출처로 채웁니다.
+AGENCY_LABEL: dict[str, dict[str, str]] = {
+    "uscis": {"ko": "이민국(USCIS)", "en": "USCIS", "es": "USCIS", "zh": "移民局 (USCIS)", "ja": "移民局 (USCIS)"},
+    "state": {"ko": "국무부", "en": "State Dept.", "es": "Dpto. de Estado", "zh": "国务院", "ja": "国務省"},
+    "dhs": {"ko": "국토안보부(DHS)", "en": "DHS", "es": "DHS", "zh": "国土安全部 (DHS)", "ja": "国土安全保障省 (DHS)"},
+    "ice": {"ko": "이민세관단속국(ICE)", "en": "ICE", "es": "ICE", "zh": "移民海关执法局 (ICE)", "ja": "移民・関税執行局 (ICE)"},
+    "cbp": {"ko": "세관국경보호청(CBP)", "en": "CBP", "es": "CBP", "zh": "海关与边境保护局 (CBP)", "ja": "税関・国境警備局 (CBP)"},
+    "dol": {"ko": "노동부", "en": "Dept. of Labor", "es": "Dpto. de Trabajo", "zh": "劳工部", "ja": "労働省"},
+    "doj": {"ko": "법무부·이민법원", "en": "DOJ / Immigration Courts", "es": "DOJ / Tribunales de Inmigración", "zh": "司法部·移民法院", "ja": "司法省・移民裁判所"},
+    "president": {"ko": "대통령·백악관", "en": "White House", "es": "Casa Blanca", "zh": "总统·白宫", "ja": "大統領・ホワイトハウス"},
+    "courts": {"ko": "연방법원", "en": "Federal courts", "es": "Tribunales federales", "zh": "联邦法院", "ja": "連邦裁判所"},
+    "other": {"ko": "기타 기관", "en": "Other agencies", "es": "Otras agencias", "zh": "其他机构", "ja": "その他の機関"},
+}
+AGENCY_ORDER = list(AGENCY_LABEL)
+
+# 주제. 기사 하나에 1~3개. 첫 화면 '주요 이슈' 보드가 이 단위로 묶습니다.
+TOPIC_LABEL: dict[str, dict[str, str]] = {
+    "h1b": {"ko": "H-1B·전문직", "en": "H-1B & specialty workers", "es": "H-1B y profesionales", "zh": "H-1B 专业人士", "ja": "H-1B・専門職"},
+    "students": {"ko": "유학생·OPT", "en": "Students & OPT", "es": "Estudiantes y OPT", "zh": "留学生与 OPT", "ja": "留学生・OPT"},
+    "employment": {"ko": "취업이민·노동허가", "en": "Employment immigration & EAD", "es": "Inmigración laboral y EAD", "zh": "职业移民与工卡", "ja": "就労移民・就労許可"},
+    "eb5": {"ko": "투자이민 EB-5", "en": "EB-5 investors", "es": "Inversionistas EB-5", "zh": "EB-5 投资移民", "ja": "EB-5 投資移民"},
+    "family": {"ko": "가족이민·영주권", "en": "Family & green cards", "es": "Familia y green card", "zh": "亲属移民与绿卡", "ja": "家族移民・グリーンカード"},
+    "citizenship": {"ko": "시민권·귀화", "en": "Citizenship & naturalization", "es": "Ciudadanía y naturalización", "zh": "公民与入籍", "ja": "市民権・帰化"},
+    "humanitarian": {"ko": "난민·망명·TPS", "en": "Refugees, asylum & TPS", "es": "Refugio, asilo y TPS", "zh": "难民·庇护·TPS", "ja": "難民・亡命・TPS"},
+    "travel": {"ko": "입국·비자발급", "en": "Entry & visa issuance", "es": "Ingreso y emisión de visas", "zh": "入境与签证签发", "ja": "入国・ビザ発給"},
+    "visa_bulletin": {"ko": "비자블러틴", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
+    "fees": {"ko": "수수료", "en": "Fees", "es": "Tarifas", "zh": "费用", "ja": "手数料"},
+    "enforcement": {"ko": "단속·추방·사기", "en": "Enforcement & fraud", "es": "Control y fraude", "zh": "执法·遣返·欺诈", "ja": "取締り・送還・不正"},
+    "other": {"ko": "기타", "en": "Other", "es": "Otros", "zh": "其他", "ja": "その他"},
+}
+TOPIC_ORDER = list(TOPIC_LABEL)
+
+
+def agency(key: str, lang: str) -> str:
+    row = AGENCY_LABEL.get(key or "other", AGENCY_LABEL["other"])
+    return row.get(lang) or row["en"]
+
+
+def topic(key: str, lang: str) -> str:
+    row = TOPIC_LABEL.get(key or "other", TOPIC_LABEL["other"])
+    return row.get(lang) or row["en"]
+
 
 def cat(key: str, lang: str) -> str:
     row = CATEGORY_LABEL.get(key or "notice", CATEGORY_LABEL["notice"])
@@ -87,6 +135,7 @@ SOURCE_LABEL: dict[str, dict[str, str]] = {
     "federal_register": {"ko": "연방관보", "en": "Federal Register", "es": "Registro Federal", "zh": "联邦公报", "ja": "連邦官報"},
     "presidential": {"ko": "대통령령", "en": "White House", "es": "Casa Blanca", "zh": "白宫", "ja": "大統領令"},
     "fr_public_inspection": {"ko": "연방관보 공개열람", "en": "Federal Register (Public Inspection)", "es": "Registro Federal (Inspección Pública)", "zh": "联邦公报（公开预览）", "ja": "連邦官報（事前公開）"},
+    "uscis_policy_manual": {"ko": "USCIS 정책매뉴얼", "en": "USCIS Policy Manual", "es": "Manual de Políticas de USCIS", "zh": "USCIS 政策手册", "ja": "USCIS ポリシーマニュアル"},
     "uscis_vb_chart": {"ko": "비자블러틴", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
     "state_press": {"ko": "국무부", "en": "State Dept.", "es": "Dpto. de Estado", "zh": "国务院", "ja": "国務省"},
     "dhs_news": {"ko": "국토안보부", "en": "DHS", "es": "DHS", "zh": "国土安全部", "ja": "国土安全保障省"},

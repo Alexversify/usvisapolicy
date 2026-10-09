@@ -87,5 +87,11 @@
     }
   },
   "added": "2026-10-08T00:51Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "fees",
+    "enforcement"
+  ],
+  "classified_by": "manual"
 }

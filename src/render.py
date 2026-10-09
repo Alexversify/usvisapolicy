@@ -22,7 +22,8 @@ from xml.sax.saxutils import escape as xesc
 import yaml
 
 from src import assets, store
-from src.i18n import CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, cat, src, t
+from src import taxonomy
+from src.i18n import AGENCY_ORDER, CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, TOPIC_ORDER, agency, cat, src, t, topic
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -151,22 +152,78 @@ def fmt_date(d: str | None, lang: str) -> str:
 # ---------------------------------------------------------------- 페이지
 
 
+def classify(a: dict[str, Any]) -> tuple[str, list[str]]:
+    """기사의 기관·주제. 저장된 값이 없으면 출처·제목으로 임시 분류합니다."""
+    ag, tp = taxonomy.clean(a.get("agency"), a.get("topics"))
+    if ag and tp:
+        return ag, tp
+    rag, rtp = taxonomy.rule_classify(a)
+    return ag or rag, tp or rtp
+
+
+def issue_board(lang: str, arts: list[dict[str, Any]]) -> str:
+    """주요 이슈 보드. 주제별 건수, 최근 날짜, 대표 기사(최근 30일 중요 기사 우선). 누르면 그 주제만 봅니다."""
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for a in arts:
+        for tp in classify(a)[1]:
+            if tp != "other":
+                groups.setdefault(tp, []).append(a)
+    if not groups:
+        return ""
+    newest = max((a.get("published") or "") for a in arts)
+    try:
+        cutoff = (dt.date.fromisoformat(newest) - dt.timedelta(days=30)).isoformat()
+    except ValueError:
+        cutoff = ""
+
+    def lead(items: list[dict[str, Any]]) -> dict[str, Any]:
+        recent_hot = [a for a in items if a.get("importance") == "high" and (a.get("published") or "") >= cutoff]
+        return (recent_hot or items)[0]
+
+    def heat(item: tuple[str, list[dict[str, Any]]]) -> tuple[int, int, str]:
+        tp, items = item
+        recent = [a for a in items if (a.get("published") or "") >= cutoff]
+        # 중요 기사 위주로 순서를 정합니다. 단속 홍보처럼 건수만 많은 주제가 앞서지 않게 합니다.
+        w = {"high": 3.0, "medium": 1.0}
+        return (sum(w.get(a.get("importance", ""), 0.1) for a in recent), len(items), items[0].get("published") or "")
+
+    tiles = []
+    for i, (tp, items) in enumerate(sorted(groups.items(), key=heat, reverse=True)):
+        top = lead(items)
+        hot = " hot" if any(a.get("importance") == "high" and (a.get("published") or "") >= cutoff for a in items) else ""
+        tiles.append(
+            f'<button class="tile{hot}{" extra" if i >= 8 else ""}" data-filter-topic="{e(tp)}" aria-pressed="false">'
+            f'<span class="tile-h"><b>{e(topic(tp, lang))}</b><span>{e(t("count", lang).format(n=len(items)))}</span></span>'
+            f'<span class="tile-t">{e(top["langs"][lang]["title"])}</span>'
+            f'<span class="tile-d">{e(fmt_date(items[0].get("published"), lang))}</span></button>')
+    return (f'<section class="issues" aria-label="{e(t("issues", lang))}"><div class="issues-h"><h2>{e(t("issues", lang))}</h2>'
+            f'<p>{e(t("issues_hint", lang))}</p></div><div class="tiles">{"".join(tiles)}</div>'
+            + (f'<button class="more" data-more-topics>{e(t("more_topics", lang).format(n=len(tiles) - 8))}</button>' if len(tiles) > 8 else "")
+            + '</section>')
+
+
 def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[str, Any]], sources_used: list[str], updated: str) -> str:
     title = (sc.get("site") or {}).get("title", "US Visa Policy")
     lang_paths = {l: f"{l}/" for l in langs}
     out = [head(sc, lang, f"{title} · {t('latest', lang)}", t("tagline", lang), f"{lang}/", langs, 1, lang_paths), body_open(sc, lang)]
     out.append(topbar(sc, lang, langs, "../", lang_paths))
     out.append(f'<main class="wrap"><section class="hero"><h1>{e(t("tagline", lang))}</h1><p>{e(t("updated", lang))}: {e(updated)}</p></section>')
+    out.append(issue_board(lang, arts))
     counts = {c: sum(1 for a in arts if (a.get("category") or "notice") == c) for c in CATEGORY_ORDER}
     tabs = [f'<button class="tab" data-filter-cat="all" aria-pressed="true">{e(t("all", lang))} <span>{len(arts)}</span></button>']
     tabs += [f'<button class="tab" data-filter-cat="{c}" aria-pressed="false">{e(cat(c, lang))} <span>{counts[c]}</span></button>'
              for c in CATEGORY_ORDER if counts[c]]
-    opts = f'<option value="all">{e(t("all_sources", lang))}</option>' + "".join(
-        f'<option value="{s}">{e(src(s, lang))}</option>' for s in sources_used)
+    ag_counts: dict[str, int] = {}
+    for a in arts:
+        ag = classify(a)[0]
+        ag_counts[ag] = ag_counts.get(ag, 0) + 1
+    opts = f'<option value="all">{e(t("all_agencies", lang))}</option>' + "".join(
+        f'<option value="{g}">{e(agency(g, lang))} ({ag_counts[g]})</option>' for g in AGENCY_ORDER if ag_counts.get(g))
     out.append(
         f'<div class="bar"><nav class="tabs" aria-label="{e(t("category", lang))}">{"".join(tabs)}</nav>'
-        f'<div class="row"><select class="srcsel" data-filter-src aria-label="source">{opts}</select>'
+        f'<div class="row"><select class="srcsel" data-filter-agency aria-label="agency">{opts}</select>'
         f'<button class="chip hot" data-filter-hot aria-pressed="false">{e(t("only_important", lang))}</button>'
+        f'<button class="chip" data-clear-topic hidden></button>'
         f'<input class="search" type="search" placeholder="{e(t("search", lang))}" aria-label="{e(t("search", lang))}"></div></div>')
     if not arts:
         out.append(f'<p class="empty">{e(t("empty", lang))}</p>')
@@ -175,14 +232,16 @@ def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[s
         for a in arts:
             L = a["langs"][lang]
             c = a.get("category") or "notice"
-            q = " ".join([L["title"], L["summary"], " ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang), cat(c, lang)]).lower()
+            ag, tps = classify(a)
+            q = " ".join([L["title"], L["summary"], " ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang),
+                          cat(c, lang), agency(ag, lang), " ".join(topic(x, lang) for x in tps)]).lower()
             hot = '<span class="badge hot">' + e(t("imp_high", lang)) + "</span>" if a.get("importance") == "high" else ""
-            tags = "".join(f'<span class="tag">#{e(x)}</span>' for x in a.get("tags", [])[:4])
+            tchips = "".join(f'<span class="tag">#{e(topic(x, lang))}</span>' for x in tps if x != "other")
             eff = f'<div class="eff">{e(t("effective", lang))}: {e(fmt_date(a.get("effective_date"), lang))}</div>' if a.get("effective_date") else ""
             out.append(
-                f'<li class="card" data-cat="{e(c)}" data-src="{e(a["source"])}" data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}">'
+                f'<li class="card" data-cat="{e(c)}" data-agency="{e(ag)}" data-topics=" {e(" ".join(tps))} " data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}">'
                 f'<time datetime="{e(a.get("published") or "")}">{e(fmt_date(a.get("published"), lang))}</time>'
-                f'<div><div class="meta"><span class="badge cat-{e(c)}">{e(cat(c, lang))}</span><span class="badge">{e(src(a["source"], lang))}</span>{hot}{tags}</div>'
+                f'<div><div class="meta"><span class="badge cat-{e(c)}">{e(cat(c, lang))}</span><span class="badge ag">{e(agency(ag, lang))}</span>{hot}{tchips}</div>'
                 f'<h2><a href="news/{a["id"]}.html">{e(L["title"])}</a></h2><p>{e(L["summary"])}</p>{eff}</div></li>'
             )
         out.append("</ol>")
@@ -200,7 +259,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
     out = [head(sc, lang, f"{L['title']} · {title}", L["summary"], lang_paths[lang], langs, 2, lang_paths), body_open(sc, lang, a["id"])]
     out.append(topbar(sc, lang, avail, "../../", lang_paths))
     hot = '<span class="badge hot">' + e(t("imp_high", lang)) + "</span>" if a.get("importance") == "high" else ""
-    tags = "".join(f'<span class="tag">#{e(x)}</span>' for x in a.get("tags", []))
+    tags = "".join(f'<span class="tag">#{e(topic(x, lang))}</span>' for x in classify(a)[1] if x != "other")
     facts = [f'<span>{e(t("published", lang))} <b>{e(fmt_date(a.get("published"), lang))}</b></span>']
     if a.get("effective_date"):
         facts.append(f'<span>{e(t("effective", lang))} <b>{e(fmt_date(a["effective_date"], lang))}</b></span>')
@@ -224,7 +283,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
     out.append(f"""<main class="wrap">
 <a class="backlink" href="../">← {e(t('back', lang))}</a>
 <article class="doc">
-<div class="meta"><span class="badge cat-{e(a.get('category') or 'notice')}">{e(cat(a.get('category') or 'notice', lang))}</span><span class="badge">{e(src(a['source'], lang))}</span>{hot}{tags}</div>
+<div class="meta"><span class="badge cat-{e(a.get('category') or 'notice')}">{e(cat(a.get('category') or 'notice', lang))}</span><span class="badge ag">{e(agency(classify(a)[0], lang))}</span>{hot}{tags}</div>
 <h1>{e(L['title'])}</h1>
 <div class="facts">{''.join(facts)}</div>
 <p class="lede">{e(L['summary'])}</p>

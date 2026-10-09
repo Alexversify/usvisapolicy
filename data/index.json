@@ -1,5 +1,88 @@
 [
   {
+    "id": "0cbaa815d32e",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-proposes-fees-foreign-student-work-program-protect-american-jobs",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "tags": [
+      "F-1",
+      "OPT",
+      "STEM OPT",
+      "SEVP",
+      "Fees",
+      "Proposed Rule",
+      "USCIS"
+    ],
+    "added": "2026-10-08T00:45Z",
+    "agency": "dhs",
+    "topics": [
+      "students",
+      "fees"
+    ]
+  },
+  {
+    "id": "fe9b76151e83",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-highlights-worst-illegal-aliens-arrested-or-convicted-san-antonio-texas",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Texas",
+      "Public Safety"
+    ],
+    "added": "2026-10-08T00:45Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "7456a1bd243b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/dhs-issues-statement-after-ice-arrests-illegal-alien-nigeria-who-exposed-himself",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Deferred Action",
+      "Pennsylvania"
+    ],
+    "added": "2026-10-08T00:44Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "bef7c1183e55",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/07/worst-worst-ice-arrests-pedophiles-animal-abusers-and-drug-traffickers",
+    "published": "2026-10-07",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-08T00:44Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
     "id": "0018f6724165",
     "source": "fr_public_inspection",
     "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
@@ -14,7 +97,12 @@
       "Fees",
       "SEVP"
     ],
-    "added": "2026-10-08T00:43Z"
+    "added": "2026-10-08T00:43Z",
+    "agency": "ice",
+    "topics": [
+      "students",
+      "fees"
+    ]
   },
   {
     "id": "4772fc4f900e",
@@ -30,7 +118,132 @@
       "Enforcement",
       "N-400"
     ],
-    "added": "2026-10-07T20:40Z"
+    "added": "2026-10-07T20:40Z",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
+  },
+  {
+    "id": "43fb442916cb",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/06/dhs-issues-statement-after-two-illegal-aliens-stab-duty-nypd-detective-suspects",
+    "published": "2026-10-06",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Sanctuary City",
+      "Criminal History"
+    ],
+    "added": "2026-10-08T00:47Z",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "156b867c1780",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/06/worst-worst-ice-arrests-pedophiles-money-launderers-and-drug-traffickers",
+    "published": "2026-10-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "Deportation"
+    ],
+    "added": "2026-10-08T00:46Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "825e99a06c78",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/ice-lodges-detainer-illegal-alien-charged-sexually-assaulting-minor-tennessee",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Immigration Enforcement",
+      "Criminal Case"
+    ],
+    "added": "2026-10-08T00:49Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "7bf9f7af19dd",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/worst-worst-ice-arrests-murderers-pedophiles-sexual-assailants-and-drug-traffickers",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "DHS"
+    ],
+    "added": "2026-10-08T00:48Z",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "81358e7d2858",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/secretary-mullin-observes-deportation-flight-removing-dangerous-illegal-aliens-el",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "tags": [
+      "Deportation",
+      "ICE",
+      "El Salvador",
+      "Enforcement"
+    ],
+    "added": "2026-10-08T00:48Z",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ]
+  },
+  {
+    "id": "2bfd1019d031",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/05/dhs-highlights-worst-illegal-aliens-arrested-or-convicted-nebraska",
+    "published": "2026-10-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens",
+      "Nebraska"
+    ],
+    "added": "2026-10-08T00:47Z",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ]
   },
   {
     "id": "e23afafdca30",
@@ -46,7 +259,11 @@
       "Border Wall",
       "El Paso Sector"
     ],
-    "added": "2026-10-08T00:49Z"
+    "added": "2026-10-08T00:49Z",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ]
   },
   {
     "id": "e926bf4fefad",
@@ -63,7 +280,12 @@
       "Human Rights",
       "Enforcement"
     ],
-    "added": "2026-10-03T01:23Z"
+    "added": "2026-10-03T01:23Z",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "1ee2bd2493d9",
@@ -80,7 +302,11 @@
       "South Africa",
       "Presidential Determination"
     ],
-    "added": "2026-10-02T16:23Z"
+    "added": "2026-10-02T16:23Z",
+    "agency": "president",
+    "topics": [
+      "humanitarian"
+    ]
   },
   {
     "id": "95969f3a2876",
@@ -97,7 +323,12 @@
       "ICE",
       "Deportation"
     ],
-    "added": "2026-10-02T16:22Z"
+    "added": "2026-10-02T16:22Z",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "807179a8adaa",
@@ -114,7 +345,13 @@
       "Family-Sponsored",
       "Employment-Based"
     ],
-    "added": "2026-10-08T08:13Z"
+    "added": "2026-10-08T08:13Z",
+    "agency": "uscis",
+    "topics": [
+      "visa_bulletin",
+      "family",
+      "employment"
+    ]
   },
   {
     "id": "936f90ad09fe",
@@ -131,7 +368,12 @@
       "Inadmissibility",
       "HR-1"
     ],
-    "added": "2026-10-08T00:51Z"
+    "added": "2026-10-08T00:51Z",
+    "agency": "dhs",
+    "topics": [
+      "fees",
+      "enforcement"
+    ]
   },
   {
     "id": "789db600443f",
@@ -150,7 +392,13 @@
       "DHS",
       "CBP"
     ],
-    "added": "2026-10-08T00:51Z"
+    "added": "2026-10-08T00:51Z",
+    "agency": "dhs",
+    "topics": [
+      "fees",
+      "travel",
+      "humanitarian"
+    ]
   },
   {
     "id": "8fd5ffaa3d4e",
@@ -170,7 +418,11 @@
       "I-765",
       "I-131"
     ],
-    "added": "2026-10-08T00:50Z"
+    "added": "2026-10-08T00:50Z",
+    "agency": "uscis",
+    "topics": [
+      "fees"
+    ]
   },
   {
     "id": "328b02f931a3",
@@ -187,7 +439,12 @@
       "USCIS",
       "Immigrant Investor"
     ],
-    "added": "2026-10-08T01:04Z"
+    "added": "2026-10-08T01:04Z",
+    "agency": "uscis",
+    "topics": [
+      "eb5",
+      "fees"
+    ]
   },
   {
     "id": "a181a341e6d8",
@@ -206,7 +463,11 @@
       "Form I-821"
     ],
     "added": "2026-10-01T07:33Z",
-    "category": "fees"
+    "category": "fees",
+    "agency": "uscis",
+    "topics": [
+      "fees"
+    ]
   },
   {
     "id": "bd15b8bd00d8",
@@ -226,7 +487,12 @@
       "I-485",
       "I-589"
     ],
-    "added": "2026-10-08T01:05Z"
+    "added": "2026-10-08T01:05Z",
+    "agency": "doj",
+    "topics": [
+      "fees",
+      "humanitarian"
+    ]
   },
   {
     "id": "cdd3348ed453",
@@ -243,7 +509,12 @@
       "Florida"
     ],
     "added": "2026-10-01T07:34Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "d0ab52185851",
@@ -259,7 +530,12 @@
       "Immigrant Investor"
     ],
     "added": "2026-10-01T07:33Z",
-    "category": "fees"
+    "category": "fees",
+    "agency": "uscis",
+    "topics": [
+      "eb5",
+      "fees"
+    ]
   },
   {
     "id": "4b18808fe0e5",
@@ -276,7 +552,11 @@
       "USCIS"
     ],
     "added": "2026-10-01T07:34Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement"
+    ]
   },
   {
     "id": "5ba2579d7496",
@@ -292,7 +572,12 @@
       "Criminal Case"
     ],
     "added": "2026-10-01T07:36Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ]
   },
   {
     "id": "ef2b7137b3ac",
@@ -308,7 +593,12 @@
       "Election Integrity"
     ],
     "added": "2026-10-01T07:35Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "215c2531275e",
@@ -324,7 +614,12 @@
       "Permanent Resident"
     ],
     "added": "2026-10-01T07:35Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "27a836395697",
@@ -341,7 +636,13 @@
       "Nonimmigrant Workers"
     ],
     "added": "2026-10-01T07:38Z",
-    "category": "policy"
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "h1b",
+      "travel",
+      "fees"
+    ]
   },
   {
     "id": "50c91111157c",
@@ -357,7 +658,12 @@
       "USCIS"
     ],
     "added": "2026-10-01T07:37Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "3ec626692258",
@@ -376,7 +682,11 @@
       "DOS"
     ],
     "added": "2026-10-01T07:37Z",
-    "category": "policy"
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "h1b"
+    ]
   },
   {
     "id": "dff3218400ab",
@@ -392,7 +702,12 @@
       "Voting"
     ],
     "added": "2026-10-01T07:36Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "06f0bdf2490f",
@@ -409,7 +724,12 @@
       "USCIS"
     ],
     "added": "2026-10-01T07:39Z",
-    "category": "enforcement"
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ]
   },
   {
     "id": "32d1b4bb80a5",
@@ -427,7 +747,12 @@
       "Detention",
       "Enforcement"
     ],
-    "added": "2026-10-08T01:06Z"
+    "added": "2026-10-08T01:06Z",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ]
   },
   {
     "id": "fc43518eca16",
@@ -444,7 +769,11 @@
       "Public Access"
     ],
     "added": "2026-10-01T07:39Z",
-    "category": "processing"
+    "category": "processing",
+    "agency": "state",
+    "topics": [
+      "other"
+    ]
   },
   {
     "id": "a390ee8dbb25",
@@ -461,7 +790,12 @@
       "USCIS",
       "Foreign Government Employees"
     ],
-    "added": "2026-10-08T01:07Z"
+    "added": "2026-10-08T01:07Z",
+    "agency": "dhs",
+    "topics": [
+      "family",
+      "citizenship"
+    ]
   },
   {
     "id": "6d1fe2ac80df",
@@ -477,7 +811,11 @@
       "Consular Affairs"
     ],
     "added": "2026-10-01T07:40Z",
-    "category": "notice"
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "travel"
+    ]
   },
   {
     "id": "8c9b9e4e1eba",
@@ -497,7 +835,13 @@
       "E-3",
       "Grace Period"
     ],
-    "added": "2026-10-08T01:07Z"
+    "added": "2026-10-08T01:07Z",
+    "agency": "dhs",
+    "topics": [
+      "h1b",
+      "employment",
+      "students"
+    ]
   },
   {
     "id": "04fd05d1667d",
@@ -513,7 +857,11 @@
       "Seasonal Workers"
     ],
     "added": "2026-10-01T07:40Z",
-    "category": "processing"
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "employment"
+    ]
   },
   {
     "id": "7dd6229e30fa",
@@ -528,7 +876,12 @@
       "Fees",
       "Correction"
     ],
-    "added": "2026-10-08T01:08Z"
+    "added": "2026-10-08T01:08Z",
+    "agency": "dhs",
+    "topics": [
+      "h1b",
+      "fees"
+    ]
   },
   {
     "id": "c23d288f878a",
@@ -543,7 +896,12 @@
       "Proclamation",
       "Labor Day"
     ],
-    "added": "2026-10-01T08:08Z"
+    "added": "2026-10-01T08:08Z",
+    "agency": "president",
+    "topics": [
+      "h1b",
+      "fees"
+    ]
   },
   {
     "id": "2e2227e48cb3",
@@ -559,7 +917,11 @@
       "Inadmissibility",
       "National Security"
     ],
-    "added": "2026-10-01T08:07Z"
+    "added": "2026-10-01T08:07Z",
+    "agency": "state",
+    "topics": [
+      "travel"
+    ]
   },
   {
     "id": "d95633120370",
@@ -577,7 +939,12 @@
       "USCIS Rule",
       "Executive Order"
     ],
-    "added": "2026-10-08T08:04Z"
+    "added": "2026-10-08T08:04Z",
+    "agency": "uscis",
+    "topics": [
+      "family",
+      "citizenship"
+    ]
   },
   {
     "id": "55ed6752e8d0",
@@ -593,7 +960,11 @@
       "Court Order",
       "DV-2026"
     ],
-    "added": "2026-10-01T08:09Z"
+    "added": "2026-10-01T08:09Z",
+    "agency": "courts",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "f27fc922616b",
@@ -611,7 +982,12 @@
       "Citizenship",
       "Executive Order"
     ],
-    "added": "2026-10-01T08:08Z"
+    "added": "2026-10-01T08:08Z",
+    "agency": "dhs",
+    "topics": [
+      "family",
+      "citizenship"
+    ]
   },
   {
     "id": "c857c586cef3",
@@ -627,7 +1003,12 @@
       "Ethiopia",
       "DNA Testing"
     ],
-    "added": "2026-10-01T08:09Z"
+    "added": "2026-10-01T08:09Z",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ]
   },
   {
     "id": "da4a490680bb",
@@ -643,7 +1024,32 @@
       "EOIR",
       "I-589"
     ],
-    "added": "2026-10-08T01:09Z"
+    "added": "2026-10-08T01:09Z",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian"
+    ]
+  },
+  {
+    "id": "2e0ae675848b",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+    "published": "2026-08-31",
+    "effective_date": "2026-08-26",
+    "importance": "medium",
+    "category": "policy",
+    "tags": [
+      "Executive Order",
+      "National Emergency",
+      "Bulk-Power System",
+      "IEEPA",
+      "Energy Security"
+    ],
+    "added": "2026-10-01T08:10Z",
+    "agency": "president",
+    "topics": [
+      "other"
+    ]
   },
   {
     "id": "29bba39c196e",
@@ -661,7 +1067,13 @@
       "Policy Memorandum",
       "Class Action"
     ],
-    "added": "2026-10-01T08:11Z"
+    "added": "2026-10-01T08:11Z",
+    "agency": "courts",
+    "topics": [
+      "family",
+      "employment",
+      "humanitarian"
+    ]
   },
   {
     "id": "23de50857009",
@@ -678,7 +1090,11 @@
       "Maritime Enforcement",
       "Illegal Entry"
     ],
-    "added": "2026-10-08T01:11Z"
+    "added": "2026-10-08T01:11Z",
+    "agency": "cbp",
+    "topics": [
+      "enforcement"
+    ]
   },
   {
     "id": "b0fe8ee64175",
@@ -694,7 +1110,12 @@
       "Proposed Rule",
       "USCIS"
     ],
-    "added": "2026-10-08T01:11Z"
+    "added": "2026-10-08T01:11Z",
+    "agency": "dhs",
+    "topics": [
+      "h1b",
+      "fees"
+    ]
   },
   {
     "id": "7240aa75c8cb",
@@ -710,7 +1131,11 @@
       "Public Charge",
       "Forms"
     ],
-    "added": "2026-10-01T08:11Z"
+    "added": "2026-10-01T08:11Z",
+    "agency": "uscis",
+    "topics": [
+      "family"
+    ]
   },
   {
     "id": "9946e9007407",
@@ -728,6 +1153,29 @@
       "I-945",
       "Policy Manual"
     ],
-    "added": "2026-10-01T08:12Z"
+    "added": "2026-10-01T08:12Z",
+    "agency": "uscis",
+    "topics": [
+      "family"
+    ]
+  },
+  {
+    "id": "889e5db9f76d",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026",
+    "published": "2026-08-17",
+    "effective_date": "2026-08-12",
+    "importance": "low",
+    "category": "notice",
+    "tags": [
+      "Proclamation",
+      "Border Security",
+      "General Notice"
+    ],
+    "added": "2026-10-01T08:12Z",
+    "agency": "president",
+    "topics": [
+      "other"
+    ]
   }
 ]

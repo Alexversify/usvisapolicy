@@ -84,5 +84,10 @@
   },
   "added": "2026-10-01T07:37Z",
   "model": "claude-sonnet-5",
-  "category": "policy"
+  "category": "policy",
+  "agency": "president",
+  "topics": [
+    "h1b"
+  ],
+  "classified_by": "manual"
 }

@@ -95,7 +95,7 @@ class Browser:
                     let box = a.closest('li, article, tr, .views-row, .usa-collection__item') || a.parentElement;
                     let t = a.closest('li, article, tr, .views-row, .usa-collection__item');
                     let time = (t && t.querySelector('time')) ? (t.querySelector('time').getAttribute('datetime') || t.querySelector('time').innerText) : '';
-                    return {href: a.href, text: (a.innerText || '').trim(), context: ((box && box.innerText) || '').slice(0, 400), time: time || ''};
+                    return {href: a.href, text: (a.innerText || '').trim(), context: ((box && box.innerText) || '').slice(0, 1500), time: time || ''};
                 })"""
             )
         finally:
@@ -281,6 +281,8 @@ def collect_listing(browser: Browser, key: str, cfg: dict[str, Any]) -> dict[str
                     "title": title,
                     "published": parse_date(link.get("time", "")) or parse_date(link.get("context", "")),
                     "archive_fallback": bool(cfg.get("archive_fallback")),
+                    # 링크가 PDF처럼 본문을 읽기 어려운 목록(Policy Manual 업데이트)은 목록의 요약문을 본문으로 씁니다.
+                    **({"prefetched_text": f"{title}\n\n{link.get('context', '')}"} if cfg.get("context_as_text") else {}),
                     "via": via,
                 }
             if matched == 0:

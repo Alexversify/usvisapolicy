@@ -18,10 +18,10 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from src import render, sources, store, translate  # noqa: E402
+from src import render, sources, store, taxonomy, translate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-BROWSER_SOURCES = {"uscis_news", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
+BROWSER_SOURCES = {"uscis_news", "uscis_policy_manual", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
 FR_SOURCES = {"federal_register", "presidential"}
 PI_SOURCES = {"fr_public_inspection"}
 # 실패 사유별 재시도 상한. 30분마다 실행되므로 empty 48회는 약 하루.
@@ -173,11 +173,7 @@ def run(cfg: dict[str, Any]) -> None:
                 continue
             tr["done"] += 1
             retries.pop(it["id"], None)
-            if data.get("relevant") is False:
-                # 연방관보 검색어에 걸렸지만 비자·이민과 무관한 문서 (전력망, 기념일 선포 등)
-                print("    - 이민과 무관. 게시하지 않음")
-                seen[it["id"]] = f"irrelevant {published or ''} {it['url']}"
-                continue
+            # 이민과 무관해 보여도 내리지 않고 게시합니다. 분류(기관·주제)로 구분합니다.
             published = published or data.get("published") or today.isoformat()
             article = {
                 "id": it["id"],
@@ -189,13 +185,19 @@ def run(cfg: dict[str, Any]) -> None:
                 "importance": data.get("importance", "medium"),
                 "category": data.get("category") if data.get("category") in translate.CATEGORIES else "notice",
                 "tags": data.get("tags", [])[:8],
+                "relevant": data.get("relevant", True),
                 "langs": data["langs"],
                 "added": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
                 "model": cfg["model"],
             }
+            ag, tp = taxonomy.clean(data.get("agency"), data.get("topics"))
+            if not ag or not tp:
+                rag, rtp = taxonomy.rule_classify(article)
+                ag, tp = ag or rag, tp or rtp
+            article["agency"], article["topics"] = ag, tp
             store.save_article(it["id"], article)
             sources.archive_save(it["url"].split("?")[0])
-            index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "tags", "added")})
+            index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "agency", "topics", "tags", "added")})
 
     # 번역이 하나라도 성공한 실행에서만 실패를 그 글의 문제로 셉니다.
     # 전부 실패했다면 API 키·크레딧 같은 전체 장애이므로 글을 버리지 않고 기다립니다 (health.py 가 알림).

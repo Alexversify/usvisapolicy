@@ -44,6 +44,8 @@ Return ONLY a JSON object, no code fences, in this exact shape:
   "effective_date": "YYYY-MM-DD or null (when the change takes effect, if stated)",
   "importance": "high | medium | low",
   "category": "policy | fees | processing | enforcement | notice",
+  "agency": "uscis | state | dhs | ice | cbp | dol | doj | president | courts | other",
+  "topics": ["1 to 3 of: h1b, students, employment, eb5, family, citizenship, humanitarian, travel, visa_bulletin, fees, enforcement, other"],
   "tags": ["short English tags such as H-1B, EB-5, Fees, Visa Bulletin, Travel Ban, TPS, Naturalization"],
   "langs": {
     "<lang code>": {
@@ -62,6 +64,19 @@ category:
 - enforcement: fraud, criminal cases, arrests, prosecutions, denaturalization, investigations
 - notice: anything else (public access, delegations, general announcements)
 importance high = changes eligibility, fees, travel/entry, or deadlines for many people.
+agency = the body whose action this is (who issued the rule, order or announcement), not who reposted it:
+- uscis: USCIS. state: Department of State (visas, consular, Visa Bulletin, FTO designations).
+- dhs: DHS headquarters or the DHS Secretary. ice: ICE, including SEVP. cbp: CBP.
+- dol: Department of Labor (PERM, LCA, prevailing wage). doj: DOJ, EOIR, immigration courts, Attorney General.
+- president: proclamations, executive orders, presidential determinations. courts: federal court rulings.
+topics (most specific first, at most 3):
+- h1b: H-1B and specialty occupation workers. students: F-1, J-1, M-1, OPT, STEM OPT, SEVP/SEVIS.
+- employment: other work visas and employment-based immigration (H-2A/B, L-1, O-1, EB-1/2/3, PERM, EAD, grace periods).
+- eb5: EB-5 investors. family: family-based immigration, adjustment of status, green cards, diversity visa, public charge.
+- citizenship: naturalization, N-400, denaturalization, citizenship claims, birthright.
+- humanitarian: refugees, asylum, TPS, parole. travel: entry restrictions, travel bans, visa issuance, consular processing, ESTA, I-94.
+- visa_bulletin: Visa Bulletin and priority dates. fees: any fee change. enforcement: arrests, removals, fraud, prosecutions, border enforcement.
+- other: none of the above.
 relevant = false when the document has no real bearing on U.S. visas, immigration, entry, citizenship or
 immigration enforcement (for example energy, trade or commemorative proclamations that only mention
 immigration in passing). Still fill every other field.

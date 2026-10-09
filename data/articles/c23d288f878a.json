@@ -80,5 +80,11 @@
     }
   },
   "added": "2026-10-01T08:08Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "h1b",
+    "fees"
+  ],
+  "classified_by": "manual"
 }

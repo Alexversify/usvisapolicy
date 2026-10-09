@@ -88,5 +88,11 @@
     }
   },
   "added": "2026-10-01T08:08Z",
-  "model": "claude-sonnet-5"
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "family",
+    "citizenship"
+  ],
+  "classified_by": "manual"
 }

@@ -22,6 +22,16 @@ sources:
       - https://www.uscis.gov/newsroom/alerts
     link_pattern: "/newsroom/(news-releases|alerts|press-releases|news-releases-and-alerts)/[^?#]+"
 
+  uscis_policy_manual:
+    enabled: true
+    label: USCIS Policy Manual
+    # Policy Manual 개정 공지 (예: 2026-10-02 EAD 자동연장 기술 개정). 뉴스룸에 안 올라오는 정책 변경이 여기 있습니다.
+    list_urls:
+      - https://www.uscis.gov/policy-manual/updates
+    link_pattern: "(/sites/default/files/document/policy-manual-updates/[^?#]+|/policy-manual/updates/[^?#]+|/policy-manual/volume-[^?#]+)"
+    context_as_text: true
+    max_items: 15
+
   dos_visa_news:
     enabled: true
     label: Department of State
@@ -118,9 +128,8 @@ sources:
       - "Agency Information Collection"
 
   dhs_news:
-    # 꺼둠. 목록 대부분이 ICE 체포 홍보라 피드를 흐리고, DHS 규정은 연방관보 공개열람에서 발표 당일 잡힙니다.
-    # (2026-10 OPT 수수료 규정안도 공개열람으로 수집됨. 보도자료와 겹쳐 중복 게시됨)
-    enabled: false
+    # DHS 본부 보도자료. 단속 홍보가 많지만 내리지 않고 기관(DHS/ICE)·주제(단속)로 분류해 게시합니다.
+    enabled: true
     label: DHS
     list_urls:
       - https://www.dhs.gov/news-releases/press-releases

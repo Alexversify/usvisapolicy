@@ -43,6 +43,26 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 .tab{flex:none;border:0;background:none;color:var(--muted);font:inherit;font-size:14.5px;padding:8px 12px 10px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
 .tab span{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums}
 .tab[aria-pressed="true"]{color:var(--ink);font-weight:700;border-bottom-color:var(--ink)}
+.issues{margin:4px 0 18px}
+.issues-h{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.issues-h h2{font-size:18px;margin:0;letter-spacing:-.01em}
+.issues-h p{margin:0;font-size:13px;color:var(--muted)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.tile{display:flex;flex-direction:column;gap:6px;text-align:left;font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-left:4px solid var(--rule);border-radius:10px;padding:12px 14px;cursor:pointer;min-width:0}
+.tile.hot{border-left-color:var(--hot)}
+.tile.extra{display:none}
+.issues.open .tile.extra{display:flex}
+.issues.open .more{display:none}
+.more{margin-top:10px;border:0;background:none;color:var(--accent);font:inherit;font-size:13.5px;cursor:pointer;padding:4px 0}
+.tile:hover{border-color:var(--ink-2)}
+.tile[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.tile-h{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.tile-h b{font-size:15px}
+.tile-h span{font-size:12px;color:var(--faint);white-space:nowrap;font-variant-numeric:tabular-nums}
+.tile-t{font-size:13.5px;line-height:1.45;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tile-d{font-size:12px;color:var(--faint)}
+@media (max-width:520px){.tiles{grid-template-columns:1fr 1fr;gap:8px}.tile{padding:10px 11px}.tile-t{-webkit-line-clamp:3;font-size:13px}}
+.badge.ag{background:var(--paper);border:1px solid var(--rule);color:var(--ink-2)}
 .srcsel{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 10px;border-radius:999px}
 .badge.cat-policy{background:#e7efff;color:#1d4ed8}
 .badge.cat-fees{background:#fff4e0;color:#9a5b00}
@@ -108,7 +128,7 @@ JS = r"""
   // 목록 필터
   var list = document.querySelector('.list');
   if (list) {
-    var state = {cat: 'all', src: 'all', hot: false, q: ''};
+    var state = {cat: 'all', agency: 'all', topic: '', hot: false, q: ''};
     try { var h = (location.hash || '').slice(1); if (h) state.cat = h; } catch(e) {}
     var cards = Array.prototype.slice.call(list.querySelectorAll('.card'));
     var none = document.getElementById('no-match');
@@ -116,7 +136,8 @@ JS = r"""
       var shown = 0, q = state.q.trim().toLowerCase();
       cards.forEach(function(c){
         var ok = (state.cat === 'all' || c.dataset.cat === state.cat)
-          && (state.src === 'all' || c.dataset.src === state.src)
+          && (state.agency === 'all' || c.dataset.agency === state.agency)
+          && (!state.topic || c.dataset.topics.indexOf(' ' + state.topic + ' ') !== -1)
           && (!state.hot || c.dataset.imp === 'high')
           && (!q || c.dataset.q.indexOf(q) !== -1);
         c.hidden = !ok; if (ok) shown++;
@@ -131,8 +152,25 @@ JS = r"""
       apply();
     }
     tabs.forEach(function(b){ b.addEventListener('click', function(){ setCat(b.dataset.filterCat); }); });
-    var sel = document.querySelector('select[data-filter-src]');
-    if (sel) sel.addEventListener('change', function(){ state.src = sel.value; apply(); });
+    var sel = document.querySelector('select[data-filter-agency]');
+    if (sel) sel.addEventListener('change', function(){ state.agency = sel.value; apply(); });
+    // 주요 이슈 타일: 누르면 그 주제만, 다시 누르거나 해제 칩을 누르면 전체.
+    var tiles = document.querySelectorAll('[data-filter-topic]');
+    var clearBtn = document.querySelector('[data-clear-topic]');
+    function setTopic(v, label){
+      state.topic = v;
+      tiles.forEach(function(x){ x.setAttribute('aria-pressed', x.dataset.filterTopic === v ? 'true' : 'false'); });
+      if (clearBtn) { clearBtn.hidden = !v; clearBtn.textContent = v ? label + ' ✕' : ''; }
+      apply();
+      if (v) { var b = document.querySelector('.bar'); if (b) b.scrollIntoView({behavior: 'smooth', block: 'start'}); }
+    }
+    tiles.forEach(function(b){ b.addEventListener('click', function(){
+      var v = b.dataset.filterTopic;
+      setTopic(state.topic === v ? '' : v, b.querySelector('b').textContent);
+    }); });
+    if (clearBtn) clearBtn.addEventListener('click', function(){ setTopic('', ''); });
+    var more = document.querySelector('[data-more-topics]');
+    if (more) more.addEventListener('click', function(){ more.closest('.issues').classList.add('open'); });
     if (state.cat !== 'all') setCat(state.cat);
     // 뒤로가기 등으로 주소의 #분류가 바뀌면 탭도 따라갑니다.
     window.addEventListener('hashchange', function(){ var v = (location.hash || '').slice(1) || 'all'; if (v !== state.cat) setCat(v); });

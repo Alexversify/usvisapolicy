@@ -81,5 +81,10 @@
   },
   "added": "2026-10-01T07:40Z",
   "model": "claude-sonnet-5",
-  "category": "processing"
+  "category": "processing",
+  "agency": "uscis",
+  "topics": [
+    "employment"
+  ],
+  "classified_by": "manual"
 }
