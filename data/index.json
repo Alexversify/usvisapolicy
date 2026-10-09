@@ -1,5 +1,89 @@
 [
   {
+    "id": "9fa6fcf808ce",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "ICE",
+      "Sanctuary City",
+      "Detainers",
+      "New York",
+      "Enforcement"
+    ],
+    "added": "2026-10-09T20:26Z"
+  },
+  {
+    "id": "5955ef8420e4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/09/make-america-safe-again-dhs-deports-illegal-alien-gangsters-including-attempted",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Deportation",
+      "Criminal Aliens",
+      "Enforcement"
+    ],
+    "added": "2026-10-09T20:24Z"
+  },
+  {
+    "id": "6417e40a6f10",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
+    "published": "2026-10-09",
+    "effective_date": "2026-10-14",
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "Civil Penalties",
+      "Removal Orders",
+      "Voluntary Departure",
+      "ICE",
+      "EOIR"
+    ],
+    "added": "2026-10-09T20:23Z"
+  },
+  {
+    "id": "201e5bf80a6f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-charlotte",
+    "published": "2026-10-09",
+    "effective_date": "2026-10-13",
+    "importance": "medium",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "Asylum",
+      "North Carolina",
+      "South Carolina"
+    ],
+    "added": "2026-10-09T20:22Z"
+  },
+  {
     "id": "a690a7c2411f",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/former-medical-doctor-convicted-of-naturalization-fraud",
