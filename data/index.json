@@ -1,5 +1,25 @@
 [
   {
+    "id": "a690a7c2411f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/former-medical-doctor-convicted-of-naturalization-fraud",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "N-400",
+      "Denaturalization"
+    ],
+    "added": "2026-10-09T15:15Z"
+  },
+  {
     "id": "9fbfdb872417",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/08/hstf-investigation-leads-sentencing-illegal-alien-drug-trafficker-20-years-prison",
