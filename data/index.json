@@ -1,5 +1,64 @@
 [
   {
+    "id": "8d26f82a3075",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-10T00:21Z"
+  },
+  {
+    "id": "3b2f1098bc27",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-arrested-for-unlawfully-voting",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship",
+      "family"
+    ],
+    "tags": [
+      "Voter Fraud",
+      "Unlawful Voting",
+      "Lawful Permanent Resident"
+    ],
+    "added": "2026-10-10T00:20Z"
+  },
+  {
+    "id": "1f0854d0c3cb",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/09/dhs-highlights-worst-illegal-aliens-arrested-syracuse-new-york",
+    "published": "2026-10-09",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Removal"
+    ],
+    "added": "2026-10-10T00:20Z"
+  },
+  {
     "id": "9fa6fcf808ce",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/09/dhs-debunks-new-york-sanctuary-politicians-lies-about-ice-shooting-illegal-alien",
