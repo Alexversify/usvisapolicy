@@ -1,0 +1,95 @@
+{
+  "id": "1d61b8280c46",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
+  "original_title": "Advance Traveler Information for Rail",
+  "published": "2026-10-13",
+  "effective_date": null,
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "CBP",
+    "Rail Travel",
+    "Advance Passenger Information",
+    "Proposed Rule"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "CBP, 국제 철도 여행자 사전정보 제출 의무화 규칙 제안",
+      "summary": "미국 세관국경보호청(CBP)이 미국을 출입국하는 열차의 승객과 승무원에 대해 철도 운송사가 전자 여행자 정보를 사전에 CBP에 제출하도록 의무화하는 규칙을 제안했습니다. 현재는 자발적 제출 방식이며, 이번 제안은 아직 확정되지 않았고 2026년 12월 14일까지 의견을 받습니다.",
+      "points": [
+        "CBP는 미국을 출입국하거나 경유하는 열차의 승객과 승무원에 대한 여권 정보 등 전자 여행자 정보를 철도 운송사가 사전에 제출하도록 요구할 계획입니다.",
+        "철도 운송사는 열차의 도착 또는 출발 24시간 전까지 도착 또는 출발 사전 통지도 제출해야 합니다.",
+        "요구되는 정보에는 성명, 생년월일, 국적, 여행 서류 정보, 탑승 중 지위, 여정, 미국 내 주소, 좌석 정보 등이 포함됩니다.",
+        "CBP는 제출된 정보를 심사한 뒤 수용 또는 추가 연락 요청 메시지를 운송사에 보내며, 우려 대상 여행자는 탑승이 거부될 수 있습니다.",
+        "이 규칙은 아직 제안 단계로 법적 효력이 없으며, 의견 제출 마감일은 2026년 12월 14일입니다."
+      ],
+      "who": "미국과 캐나다 등을 오가는 국제 철도 노선의 승객과 승무원, 그리고 이를 운영하는 철도 운송사가 영향을 받습니다.",
+      "action": "관련 철도 운송사와 이해관계자는 2026년 12월 14일까지 regulations.gov를 통해 의견을 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "CBP Proposes Mandatory Advance Traveler Information for Rail Crossings",
+      "summary": "U.S. Customs and Border Protection has proposed requiring rail carriers to transmit advance electronic traveler information to CBP for all passengers and crew arriving in or departing from the United States by train. The rule, which also requires advance notice of arrival or departure, is not yet final and CBP is accepting comments until December 14, 2026.",
+      "points": [
+        "Rail carriers would have to transmit advance electronic information for every traveler, including crew, arriving, departing, or transiting the U.S. border by train.",
+        "Notices of arrival or departure would be due no later than 24 hours before the train reaches the U.S. border crossing point.",
+        "Required traveler data includes name, date of birth, citizenship, travel document details, itinerary, U.S. address, and seat information.",
+        "CBP will vet the information and may ask a carrier to contact CBP, or recommend that a flagged traveler not be allowed to board.",
+        "Carriers may transmit data through a CBP-certified system or an approved system such as eAPIS.",
+        "This is a proposed rule, not yet in effect, and public comments are due by December 14, 2026."
+      ],
+      "who": "Rail carriers operating international train service to or from the United States, and the passengers and crew traveling on those trains, would be affected.",
+      "action": "Interested parties can submit comments on the proposed rule through regulations.gov by December 14, 2026."
+    },
+    "es": {
+      "title": "CBP propone exigir información anticipada de viajeros para trenes internacionales",
+      "summary": "La Oficina de Aduanas y Protección Fronteriza de EE. UU. (CBP) propuso exigir a las empresas ferroviarias que transmitan información electrónica anticipada de pasajeros y tripulantes que entren o salgan de Estados Unidos en tren. La norma aun no es definitiva y CBP recibira comentarios publicos hasta el 14 de diciembre de 2026.",
+      "points": [
+        "Las empresas ferroviarias deberan enviar informacion electronica anticipada de cada viajero, incluida la tripulacion, que cruce la frontera de EE. UU. en tren.",
+        "Los avisos de llegada o salida deberan presentarse a mas tardar 24 horas antes de que el tren llegue al punto fronterizo.",
+        "La informacion requerida incluye nombre, fecha de nacimiento, nacionalidad, datos del documento de viaje, itinerario, direccion en EE. UU. y ubicacion del asiento.",
+        "CBP evaluara la informacion y podra pedir a la empresa que la contacte, o recomendar que un viajero senalado no aborde el tren.",
+        "Las empresas podran transmitir los datos mediante un sistema certificado por CBP o uno aprobado como eAPIS.",
+        "Se trata de una propuesta, no vigente aun, y el plazo para comentarios publicos vence el 14 de diciembre de 2026."
+      ],
+      "who": "Afecta a las empresas ferroviarias que operan trenes internacionales desde o hacia Estados Unidos, asi como a los pasajeros y tripulantes de esos trenes.",
+      "action": "Las partes interesadas pueden enviar comentarios sobre la propuesta a traves de regulations.gov antes del 14 de diciembre de 2026."
+    },
+    "zh": {
+      "title": "CBP提议要求铁路公司提交旅客预先电子信息",
+      "summary": "美国海关与边境保护局(CBP)提议要求铁路承运人就所有进出美国的乘客和乘务人员向CBP提交预先电子旅客信息。该规则目前仅为提案,尚未生效,公众可在2026年12月14日前提交意见。",
+      "points": [
+        "铁路承运人需为每名经由火车进出或过境美国边境的旅客,包括乘务人员,提交预先电子信息。",
+        "列车抵达或离开美国边境口岸前24小时内,承运人须提交到达或离境通知。",
+        "所需信息包括姓名、出生日期、国籍、旅行证件信息、行程、在美地址及座位信息等。",
+        "CBP将对信息进行审核,可能要求承运人联系CBP,或建议拒绝被标记旅客登车。",
+        "承运人可通过CBP认证系统或eAPIS等已批准系统传输数据。",
+        "该规则仍属提案阶段,尚未生效,公众意见截止日期为2026年12月14日。"
+      ],
+      "who": "受影响的包括经营往返美国国际列车服务的铁路公司,以及乘坐这些列车的乘客和乘务人员。",
+      "action": "相关方可在2026年12月14日前通过regulations.gov提交对该提案的意见。"
+    },
+    "ja": {
+      "title": "CBP、鉄道利用者の事前情報提出を義務化する規則案を発表",
+      "summary": "米税関国境警備局(CBP)は、米国を出入国する列車の乗客および乗務員について、鉄道事業者が電子的な事前旅行者情報をCBPに提出することを義務付ける規則を提案しました。この規則案はまだ確定しておらず、2026年12月14日まで意見公募が行われます。",
+      "points": [
+        "鉄道事業者は、米国国境を越えて到着、出発、または通過するすべての旅行者(乗務員含む)について事前電子情報を提出する必要があります。",
+        "列車が米国国境検問所に到着する24時間前までに、到着または出発の事前通知を提出しなければなりません。",
+        "必要情報には氏名、生年月日、国籍、旅行書類情報、旅程、米国内の住所、座席情報などが含まれます。",
+        "CBPは提出情報を審査し、事業者に連絡を求めたり、懸念のある旅行者の搭乗を認めないよう勧告する場合があります。",
+        "事業者はCBP認証システムまたはeAPISなどの承認済みシステムを通じてデータを送信できます。",
+        "本規則案はまだ提案段階で法的効力はなく、意見提出期限は2026年12月14日です。"
+      ],
+      "who": "米国と他国を結ぶ国際列車を運行する鉄道事業者、およびそれらの列車に乗車する乗客と乗務員が対象です。",
+      "action": "関係者はregulations.govを通じて2026年12月14日までに意見を提出できます。"
+    }
+  },
+  "added": "2026-10-10T13:02Z",
+  "model": "claude-sonnet-5",
+  "agency": "cbp",
+  "topics": [
+    "travel",
+    "enforcement"
+  ]
+}

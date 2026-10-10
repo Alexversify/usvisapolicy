@@ -1,5 +1,26 @@
 [
   {
+    "id": "1d61b8280c46",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
+    "published": "2026-10-13",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "cbp",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "CBP",
+      "Rail Travel",
+      "Advance Passenger Information",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-10T13:02Z"
+  },
+  {
     "id": "8d26f82a3075",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
