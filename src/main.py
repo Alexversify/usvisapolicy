@@ -18,7 +18,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-from src import render, sources, store, taxonomy, translate  # noqa: E402
+from src import fulltext, render, sources, store, taxonomy, translate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 BROWSER_SOURCES = {"uscis_news", "uscis_policy_manual", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
@@ -39,6 +39,8 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
         if not scfg.get("enabled", True):
             continue
         if key in FR_SOURCES:
+            if os.environ.get("BACKFILL"):
+                scfg = {**scfg, "max_pages": int((cfg.get("backfill") or {}).get("fr_max_pages", 20))}
             res = sources.collect_federal_register(key, scfg, since)
         elif key in PI_SOURCES:
             res = sources.collect_public_inspection(key, scfg)
@@ -52,7 +54,19 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
                 print(f"  - {key}: 건너뜀 (브라우저 없음)")
                 report[key] = {"ok": False, "items": 0, "error": "브라우저 없음"}
                 continue
+            bf = cfg.get("backfill") or {}
+            pages = int((bf.get("pages") or {}).get(key, 0) or 0) if os.environ.get("BACKFILL") else 0
+            if pages > 1:
+                # 과거 글 채우기: 목록의 뒤 페이지까지 봅니다. 빈 페이지는 실패로 치지 않습니다.
+                fmt = (bf.get("page_fmt") or {}).get(key) or "{u}{sep}page={n}"
+                urls = []
+                for u in scfg.get("list_urls", []):
+                    urls.append(u)
+                    urls += [fmt.format(u=u, sep="&" if "?" in u else "?", n=n) for n in range(1, pages)]
+                scfg = {**scfg, "list_urls": urls, "max_items": None}
             res = sources.collect_listing(browser, key, scfg)
+            if pages > 1 and res["error"]:
+                res["error"] = "; ".join(p for p in res["error"].split("; ") if "page=" not in p and "/page/" not in p) or None
         else:
             continue
         print(f"  - {key}: {res['error'] or 'ok'} ({len(res['items'])}건)")
@@ -117,6 +131,12 @@ def run(cfg: dict[str, Any]) -> None:
     known_docs.discard(None)
     today = dt.date.today()
     since = today - dt.timedelta(days=int(cfg.get("backfill_days", 45)))
+    backfill_cfg = cfg.get("backfill") or {}
+    if os.environ.get("BACKFILL") and backfill_cfg.get("since"):
+        # 과거 글 채우기: 지정일 이후 글을 모두 대상으로 하고, 예전에 '오래됨'으로 넘긴 글을 다시 봅니다.
+        since = dt.date.fromisoformat(str(backfill_cfg["since"]))
+        seen = {k: v for k, v in seen.items() if not str(v).startswith("old ")}
+        known = {x["id"] for x in index} | set(seen)
 
     need_browser = any(
         k in BROWSER_SOURCES and v.get("enabled", True) for k, v in cfg["sources"].items()
@@ -147,7 +167,7 @@ def run(cfg: dict[str, Any]) -> None:
                 continue
             fresh[it["id"]] = it
         queue = sorted(fresh.values(), key=lambda x: x.get("published") or "9999", reverse=True)
-        cap = int(cfg.get("max_new_per_run", 15))
+        cap = int(os.environ.get("MAX_NEW") or cfg.get("max_new_per_run", 15))
         print(f"  - 새 글 {len(queue)}건, 이번 실행 처리 {min(len(queue), cap)}건")
 
         print("[2/3] 번역")
@@ -155,7 +175,11 @@ def run(cfg: dict[str, Any]) -> None:
             print("  ! ANTHROPIC_API_KEY 없음. 번역을 건너뜁니다.")
             queue = []
         labels = {k: v.get("label", k) for k, v in cfg["sources"].items()}
+        new_started = __import__("time").time()
         for it in queue[:cap]:
+            if fulltext.past_deadline(cfg) or (os.environ.get("NEW_BUDGET_MIN") and __import__("time").time() - new_started > float(os.environ["NEW_BUDGET_MIN"]) * 60):
+                print("  - 시간 한도에 닿아 나머지 새 글은 다음 실행에서 처리")
+                break
             print(f"  · [{it['source']}] {it['title'][:80]}")
             text, page_date = source_text(it, browser)
             if len(text.strip()) < 80:
@@ -195,9 +219,14 @@ def run(cfg: dict[str, Any]) -> None:
                 rag, rtp = taxonomy.rule_classify(article)
                 ag, tp = ag or rag, tp or rtp
             article["agency"], article["topics"] = ag, tp
+            # 공식 원문 전문을 보관하고 4개 언어로 전문 번역합니다.
+            fulltext.ensure(article, browser, cfg, item=it)
             store.save_article(it["id"], article)
             sources.archive_save(it["url"].split("?")[0])
             index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "agency", "topics", "tags", "added")})
+
+        print("[2b/3] 원문 보관·전문 번역")
+        fulltext.backfill(index, browser, cfg)
 
     # 번역이 하나라도 성공한 실행에서만 실패를 그 글의 문제로 셉니다.
     # 전부 실패했다면 API 키·크레딧 같은 전체 장애이므로 글을 버리지 않고 기다립니다 (health.py 가 알림).

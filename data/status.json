@@ -3,7 +3,7 @@
   "sources": {
     "uscis_news": {
       "ok": true,
-      "items": 17,
+      "items": 320,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -38,14 +38,14 @@
     },
     "state_press": {
       "ok": true,
-      "items": 0,
+      "items": 6,
       "error": null,
       "fail_streak": 0,
       "alert": true
     },
     "federal_register": {
       "ok": true,
-      "items": 20,
+      "items": 101,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -66,7 +66,7 @@
     },
     "presidential": {
       "ok": true,
-      "items": 5,
+      "items": 22,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -78,5 +78,7 @@
     "key": true,
     "fail_streak": 0
   },
-  "retries": {}
+  "retries": {
+    "68dbb2e68b49": 1
+  }
 }

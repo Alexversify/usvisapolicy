@@ -87,5 +87,111 @@
     "enforcement",
     "citizenship",
     "family"
-  ]
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "10/09/2026"
+      },
+      {
+        "t": "p",
+        "x": "KANSAS CITY, Mo. — A Cuban alien was arrested after being charged with unlawful voting by an alien. U.S. Citizenship and Immigration Services assisted the investigation. The U.S. Attorney’s Office for the Western District of Missouri made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "Andrés Garcia, 64, was charged with two counts of illegally voting in federal elections in November 2022 and November 2024."
+      },
+      {
+        "t": "p",
+        "x": "Garcia was born in Cuba to two Cuban citizens and immigrated to the U.S. during his childhood. In 2009, he applied for and was granted lawful permanent resident status. Before becoming a lawful permanent resident, Garcia registered to vote in Cass County, Missouri, in 2004. Garcia has voted regularly for the last 20 years in at least 15 elections, including at least 13 federal elections. Lawful permanent residents are not allowed to vote in federal elections and are not allowed to vote in state or local elections in Missouri. Garcia knew he was not a U.S. citizen but nevertheless claimed to be one when he registered to vote in 2004 and again in 2013."
+      },
+      {
+        "t": "p",
+        "x": "The charges contained in the indictment are simply accusations and not evidence of guilt. Evidence supporting the charges must be presented to a federal trial jury, which will determine whether the defendants are guilty or not."
+      },
+      {
+        "t": "p",
+        "x": "Under federal statutes, Garcia is subject to a sentence of up to one year in prison and a fine of $100,000 on each charge. The maximum statutory sentence is prescribed by Congress and is provided here for informational purposes. The court will determine the sentencing of the defendant based on the advisory sentencing guidelines and other statutory factors."
+      },
+      {
+        "t": "p",
+        "x": "The U.S. Attorney’s Office for the Western District of Missouri is prosecuting this case. Immigration and Customs Enforcement’s Homeland Security Investigations investigated this case, with assistance from USCIS."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "10/09/2026"
+      }
+    ],
+    "fetched": "2026-10-12T15:47Z",
+    "from": "page",
+    "chars": 2093
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 10월 9일",
+      "미주리주 캔자스시티, 쿠바 출신 외국인이 외국인의 불법 투표 혐의로 기소된 후 체포되었습니다. 미국 시민권 및 이민 서비스국(USCIS)이 수사를 지원하였습니다. 미주리주 서부지검이 이를 발표하였습니다.",
+      "안드레스 가르시아(64세)는 2022년 11월과 2024년 11월 연방 선거에서 불법으로 투표한 혐의로 두 건의 기소를 받았습니다.",
+      "가르시아는 쿠바 국적의 부모 사이에서 쿠바에서 출생하였으며 어린 시절 미국으로 이주하였습니다. 2009년, 그는 합법적 영주권 신분을 신청하여 승인받았습니다. 합법적 영주권자가 되기 전인 2004년, 가르시아는 미주리주 캐스 카운티에서 유권자로 등록하였습니다. 가르시아는 지난 20년 동안 최소 15회의 선거, 그중 최소 13회의 연방 선거를 포함하여 정기적으로 투표해 왔습니다. 합법적 영주권자는 연방 선거에 투표할 수 없으며, 미주리주의 주 선거나 지방 선거에도 투표할 수 없습니다. 가르시아는 자신이 미국 시민이 아님을 알고 있었음에도 불구하고 2004년과 2013년에 유권자로 등록할 당시 자신이 시민이라고 주장하였습니다.",
+      "기소장에 포함된 혐의는 단순한 주장일 뿐이며 유죄의 증거가 아닙니다. 혐의를 뒷받침하는 증거는 연방 배심원단에 제출되어야 하며, 배심원단이 피고인의 유죄 여부를 판단하게 됩니다.",
+      "연방 법령에 따라 가르시아는 각 혐의에 대해 최대 1년의 징역형과 10만 달러의 벌금형에 처해질 수 있습니다. 법정 최고 형량은 의회에서 정한 것이며 이는 정보 제공 목적으로 기재된 것입니다. 법원은 권고 양형 기준 및 기타 법정 요소를 바탕으로 피고인의 형량을 결정하게 됩니다.",
+      "미주리주 서부지검이 이 사건을 기소하고 있습니다. 이민세관단속국(ICE) 국토안보수사국(HSI)이 USCIS의 지원을 받아 이 사건을 수사하였습니다.",
+      "이민 혜택 관련 사기나 남용이 의심되는 경우 USCIS에 신고하려면 USCIS 제보 양식을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 10월 9일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "09/10/2026",
+      "KANSAS CITY, Mo. ,  Un extranjero cubano fue arrestado después de ser acusado de votación ilegal por un extranjero. Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) asistieron en la investigación. La Fiscalía de los Estados Unidos para el Distrito Oeste de Missouri hizo el anuncio.",
+      "Andrés García, de 64 años, fue acusado de dos cargos por votar ilegalmente en elecciones federales en noviembre de 2022 y noviembre de 2024.",
+      "García nació en Cuba de padres cubanos y emigró a los Estados Unidos durante su infancia. En 2009, solicitó y se le concedió la condición de residente permanente legal. Antes de convertirse en residente permanente legal, García se registró para votar en el condado de Cass, Missouri, en 2004. García ha votado regularmente durante los últimos 20 años en al menos 15 elecciones, incluyendo al menos 13 elecciones federales. A los residentes permanentes legales no se les permite votar en elecciones federales y tampoco se les permite votar en elecciones estatales o locales en Missouri. García sabía que no era ciudadano estadounidense, pero aun así afirmó serlo cuando se registró para votar en 2004 y nuevamente en 2013.",
+      "Los cargos contenidos en la acusación formal son simplemente alegaciones y no constituyen evidencia de culpabilidad. La evidencia que respalda los cargos debe presentarse ante un jurado de juicio federal, el cual determinará si los acusados son culpables o no.",
+      "Conforme a los estatutos federales, García está sujeto a una pena de hasta un año de prisión y una multa de $100,000 por cada cargo. La pena máxima establecida por ley es prescrita por el Congreso y se proporciona aquí únicamente con fines informativos. El tribunal determinará la sentencia del acusado con base en las directrices de sentencia consultivas y otros factores estatutarios.",
+      "La Fiscalía de los Estados Unidos para el Distrito Oeste de Missouri está procesando este caso. La División de Investigaciones de Seguridad Nacional de Inmigración y Control de Aduanas (ICE) investigó este caso, con la asistencia de USCIS.",
+      "Para reportar a USCIS una presunta fraude o abuso de beneficios de inmigración, por favor utilice el Formulario de Denuncias de USCIS.",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "09/10/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年10月9日",
+      "密苏里州堪萨斯城(KANSAS CITY, Mo.) 一名古巴籍外国人因涉嫌外国人非法投票罪被逮捕。美国公民及移民服务局(USCIS)协助了此次调查。美国密苏里州西区检察官办公室发布了这一消息。",
+      "64岁的安德烈斯·加西亚(Andrés Garcia)被指控两项罪名,即在2022年11月和2024年11月的联邦选举中非法投票。",
+      "加西亚出生于古巴,其父母均为古巴公民,他在童年时期移民美国。2009年,他申请并获得了合法永久居民身份。在成为合法永久居民之前,加西亚于2004年在密苏里州卡斯县(Cass County)登记投票。过去20年间,加西亚持续参与投票,至少参加了15次选举,其中至少包括13次联邦选举。合法永久居民不得参与联邦选举投票,也不得在密苏里州参与州或地方选举投票。加西亚明知自己并非美国公民,但在2004年及2013年登记投票时仍谎称自己是美国公民。",
+      "起诉书中所载的指控仅为指控,并非定罪的证据。支持这些指控的证据必须提交联邦陪审团审理,由陪审团裁定被告是否有罪。",
+      "根据联邦法规,加西亚每项罪名最高可被判处一年监禁及10万美元罚款。该法定最高刑罚由国会规定,此处仅作信息参考之用。法院将根据量刑指导方针及其他法定因素来决定被告的最终判决。",
+      "本案由美国密苏里州西区检察官办公室负责起诉。本案由美国移民及海关执法局(ICE)国土安全调查处(Homeland Security Investigations)负责调查,并获得了美国公民及移民服务局(USCIS)的协助。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为,请使用USCIS举报表格(USCIS Tip Form)。",
+      "欲了解有关USCIS及其项目的更多信息,请访问uscis.gov,或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年10月9日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年10月9日",
+      "ミズーリ州カンザスシティ、外国人による不法投票の容疑で起訴されたキューバ人が逮捕された。米国市民権・移民局(USCIS)が捜査に協力した。ミズーリ州西部地区連邦検事局がこの発表を行った。",
+      "アンドレス・ガルシア、64歳は、2022年11月及び2024年11月の連邦選挙において不法に投票を行った容疑で2件の罪で起訴された。",
+      "ガルシアはキューバで2人のキューバ国民の間に生まれ、幼少期に米国に移住した。2009年、同人は適法永住者資格を申請し、許可された。適法永住者となる以前の2004年、ガルシアはミズーリ州キャス郡において有権者登録を行った。ガルシアはこの20年間、少なくとも15回の選挙(うち連邦選挙は少なくとも13回を含む)において定期的に投票を行ってきた。適法永住者は連邦選挙において投票することを認められておらず、またミズーリ州における州及び地方選挙において投票することも認められていない。ガルシアは自身が米国市民でないことを認識していたにもかかわらず、2004年及び2013年に再度有権者登録を行った際、自らを米国市民であると申告した。",
+      "起訴状に記載された容疑は単なる告発に過ぎず、有罪の証拠ではない。容疑を裏付ける証拠は連邦裁判陪審に提示されなければならず、陪審が被告人の有罪又は無罪を判断することとなる。",
+      "連邦法の下、ガルシアは各訴因につき最長1年の拘禁刑及び10万ドルの罰金に処される可能性がある。法定の最高刑は連邦議会により定められたものであり、ここでは情報提供の目的で記載している。裁判所は、量刑ガイドライン及びその他の法定要因に基づき、被告人の量刑を決定する。",
+      "本件はミズーリ州西部地区連邦検事局が訴追を担当している。本件は移民税関捜査局(ICE)国土安全保障捜査部がUSCISの協力を得て捜査を行った。",
+      "移民給付詐欺又は不正行為が疑われる場合には、USCISのティップフォーム(Tip Form)を使用してUSCISに報告してください。",
+      "USCIS及びそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook及びLinkedInにて弊局をフォローしてください。",
+      "2026年10月9日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

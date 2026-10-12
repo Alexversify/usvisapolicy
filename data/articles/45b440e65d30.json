@@ -1,0 +1,448 @@
+{
+  "id": "45b440e65d30",
+  "source": "state_press",
+  "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/protecting-the-sanctity-of-u-s-citizenshipa-new-visa-restriction-policy-for-those-who-engage-in-or-facilitate-birth-tourism/",
+  "original_title": "Protecting the Sanctity of U.S. Citizenship: A New Visa Restriction Policy for Those Who Engage in or Facilitate Birth Tourism",
+  "published": "2026-10-12",
+  "effective_date": null,
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Birth Tourism",
+    "Visa Restriction",
+    "Citizenship"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "미 국무부, '출산 관광' 관련자 비자 제한 새 정책 발표",
+      "summary": "미국 국무부가 출산 관광에 참여하거나 이를 알선하는 사람들에 대한 비자 제한 정책을 새로 발표했습니다. 출산 관광이란 자녀가 미국 시민권을 얻도록 하기 위해 출산 목적으로 미국에 입국하는 행위를 말합니다. 다만 구체적인 적용 대상 비자 종류, 시행 시기, 세부 기준 등은 현재 공개된 자료에 명시되어 있지 않습니다.",
+      "points": [
+        "국무부는 출산 관광에 관여하거나 이를 알선하는 사람에 대해 비자를 제한하는 새 정책을 발표했습니다.",
+        "이번 정책은 자녀의 미국 시민권 취득을 목적으로 한 출산 목적 입국 관행을 겨냥한 것입니다.",
+        "구체적으로 어떤 비자 종류가 영향을 받는지, 시행일은 언제인지는 현재 공개된 내용에 명시되어 있지 않습니다.",
+        "세부 적용 기준과 절차는 추후 국무부의 추가 발표를 통해 확인될 것으로 보입니다."
+      ],
+      "who": "관광 또는 방문 목적 비자로 미국 입국을 신청하는 임신부 및 이를 알선하는 관련자들이 영향을 받을 수 있습니다.",
+      "action": "관련자는 국무부의 추가 공식 발표와 영사관 지침을 지속적으로 확인해야 합니다."
+    },
+    "en": {
+      "title": "State Department Announces New Visa Restriction Policy on Birth Tourism",
+      "summary": "The U.S. Department of State has announced a new policy restricting visas for individuals who engage in or facilitate birth tourism, referring to travel to the United States for the purpose of giving birth so a child obtains U.S. citizenship. The source available does not specify which visa categories are affected, the effective date, or detailed eligibility criteria.",
+      "points": [
+        "The State Department announced a new visa restriction policy targeting birth tourism.",
+        "Birth tourism refers to travel to the United States specifically for childbirth to secure U.S. citizenship for the child.",
+        "The policy targets both individuals who engage in birth tourism and those who facilitate it.",
+        "Details such as affected visa classes, implementation date, and specific criteria are not specified in the available source."
+      ],
+      "who": "Pregnant travelers applying for visitor visas and those who facilitate such travel may be affected.",
+      "action": "Affected individuals should monitor further official announcements and consular guidance from the Department of State for details."
+    },
+    "es": {
+      "title": "El Departamento de Estado anuncia nueva política de restricción de visas por turismo de nacimiento",
+      "summary": "El Departamento de Estado de EE. UU. anunció una nueva política que restringe las visas de personas que participan en o facilitan el llamado turismo de nacimiento, es decir, viajar a Estados Unidos con el fin de dar a luz para que el hijo obtenga la ciudadanía estadounidense. La fuente disponible no especifica qué categorías de visa se verán afectadas, la fecha de entrada en vigor ni los criterios detallados.",
+      "points": [
+        "El Departamento de Estado anunció una nueva política de restricción de visas enfocada en el turismo de nacimiento.",
+        "El turismo de nacimiento se refiere a viajar a Estados Unidos específicamente para dar a luz y así obtener la ciudadanía estadounidense para el hijo.",
+        "La política apunta tanto a quienes participan en esta práctica como a quienes la facilitan.",
+        "No se especifican en la fuente disponible detalles como las categorías de visa afectadas, la fecha de implementación ni los criterios exactos."
+      ],
+      "who": "Las personas embarazadas que solicitan visas de visitante y quienes facilitan este tipo de viajes pueden verse afectadas.",
+      "action": "Las personas afectadas deben estar atentas a futuros anuncios oficiales y orientación consular del Departamento de Estado."
+    },
+    "zh": {
+      "title": "美国国务院宣布针对“生育旅游”的新签证限制政策",
+      "summary": "美国国务院宣布了一项新的签证限制政策，针对从事或协助“生育旅游”的人员。生育旅游是指为使孩子获得美国公民身份而专程前往美国生产的行为。目前公开的信息未说明具体受影响的签证类别、生效日期或详细适用标准。",
+      "points": [
+        "美国国务院宣布了一项新的签证限制政策，针对生育旅游相关人员。",
+        "生育旅游指为让孩子获得美国公民身份而专程赴美生产的行为。",
+        "该政策针对从事此类行为者以及协助安排者。",
+        "具体受影响的签证类别、生效日期及详细标准目前尚未在公开资料中说明。"
+      ],
+      "who": "申请访客签证的孕妇及协助安排此类行程的相关人员可能受到影响。",
+      "action": "相关人员应持续关注美国国务院及领事馆发布的后续正式说明。"
+    },
+    "ja": {
+      "title": "米国務省、「出産ツーリズム」関係者へのビザ制限新政策を発表",
+      "summary": "米国務省は、子どもに米国市民権を取得させる目的で渡米して出産する「出産ツーリズム」に関与または斡旋する人物に対するビザ制限の新政策を発表しました。現在公開されている情報では、対象となる具体的なビザ区分、施行時期、詳細な基準は明示されていません。",
+      "points": [
+        "米国務省は出産ツーリズムを対象とする新たなビザ制限政策を発表しました。",
+        "出産ツーリズムとは、子どもに米国市民権を取得させる目的で渡米し出産する行為を指します。",
+        "この政策は、出産ツーリズムに関与する本人だけでなく、それを斡旋する者も対象としています。",
+        "対象となるビザの種類、施行開始日、具体的な基準については現時点の情報では明示されていません。"
+      ],
+      "who": "訪問者ビザを申請する妊娠中の渡航者や、関連する渡航を斡旋する関係者が影響を受ける可能性があります。",
+      "action": "関係者は米国務省および領事館からの今後の公式発表を注視する必要があります。"
+    }
+  },
+  "added": "2026-10-12T15:21Z",
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "travel",
+    "citizenship",
+    "family"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "hide"
+      },
+      {
+        "t": "h",
+        "x": "Protecting the Sanctity of U.S. Citizenship: A New Visa Restriction Policy for Those Who Engage in or Facilitate Birth Tourism"
+      },
+      {
+        "t": "p",
+        "x": "Press Statement"
+      },
+      {
+        "t": "p",
+        "x": "Marco Rubio, Secretary of State"
+      },
+      {
+        "t": "p",
+        "x": "September 23, 2026"
+      },
+      {
+        "t": "p",
+        "x": "Foreign commercial birth tourism networks have exploited the U.S. immigration system to sell U.S. citizenship for profit. These networks advertise and coach foreign nationals to lie on U.S. visa applications and collect tens of thousands of dollars to arrange births on American soil for the sole purpose of obtaining U.S. citizenship."
+      },
+      {
+        "t": "p",
+        "x": "Today, I am announcing a new visa restriction policy under Section 212(a)(3)(C) of the Immigration and Nationality Act. This policy targets individuals who knowingly engage in, have engaged in, or facilitate birth tourism to the United States, including owners, operators, and managers of commercial birth tourism facilitation networks, visa “fixers” who coach applicants to commit fraud, foreign medical providers who knowingly abet and facilitate such travel and the fraudulent use of our Medicaid system, and other individuals who support, abet, and enable commercial birth tourism."
+      },
+      {
+        "t": "p",
+        "x": "The Trump Administration is using every tool at our disposal to defend the integrity of U.S. citizenship, protect American public benefits and U.S. taxpayers from exploitation, and safeguard our national security. By restricting visa issuance of those who both engage in and profit from this fraud, we are sending a clear message: The United States will not allow foreigners to exploit our immigration system and violate the sanctity of U.S. citizenship."
+      },
+      {
+        "t": "p",
+        "x": "This visa restriction policy is pursuant to Section 212(a)(3)(C) of the Immigration and Nationality Act. Certain family members may also be covered by these restrictions."
+      },
+      {
+        "t": "p",
+        "x": "Tags"
+      },
+      {
+        "t": "p",
+        "x": "Bureau of Consular Affairs\nImmigration\nOffice of the Spokesman\nThe Secretary of State\nSection 212(a)(3)(c) Visa Restrictions\nU.S. Visas and Green Cards"
+      },
+      {
+        "t": "p",
+        "x": "Cookie Settings"
+      },
+      {
+        "t": "p",
+        "x": "We use cookies to make our website work better and improve your experience. By continuing to use the site, you agree to our privacy policy."
+      },
+      {
+        "t": "p",
+        "x": "Functional\nFunctional\nAlways active"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network."
+      },
+      {
+        "t": "p",
+        "x": "Preferences\nPreferences"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user."
+      },
+      {
+        "t": "p",
+        "x": "Statistics\nStatistics"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you."
+      },
+      {
+        "t": "p",
+        "x": "Marketing\nMarketing"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes."
+      },
+      {
+        "t": "li",
+        "x": "Manage options"
+      },
+      {
+        "t": "li",
+        "x": "Manage services"
+      },
+      {
+        "t": "li",
+        "x": "Manage {vendor_count} vendors"
+      },
+      {
+        "t": "li",
+        "x": "Read more about these purposes"
+      },
+      {
+        "t": "p",
+        "x": "View preferences"
+      },
+      {
+        "t": "li",
+        "x": "{title}"
+      },
+      {
+        "t": "p",
+        "x": "Cookie Settings"
+      },
+      {
+        "t": "p",
+        "x": "We use cookies to make our website work better and improve your experience. By continuing to use the site, you agree to our privacy policy."
+      },
+      {
+        "t": "p",
+        "x": "Functional\nFunctional\nAlways active"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network."
+      },
+      {
+        "t": "p",
+        "x": "Preferences\nPreferences"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user."
+      },
+      {
+        "t": "p",
+        "x": "Statistics\nStatistics"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you."
+      },
+      {
+        "t": "p",
+        "x": "Marketing\nMarketing"
+      },
+      {
+        "t": "p",
+        "x": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes."
+      },
+      {
+        "t": "li",
+        "x": "Manage options"
+      },
+      {
+        "t": "li",
+        "x": "Manage services"
+      },
+      {
+        "t": "li",
+        "x": "Manage {vendor_count} vendors"
+      },
+      {
+        "t": "li",
+        "x": "Read more about these purposes"
+      },
+      {
+        "t": "p",
+        "x": "View preferences"
+      },
+      {
+        "t": "li",
+        "x": "{title}"
+      }
+    ],
+    "fetched": "2026-10-12T15:46Z",
+    "from": "archive",
+    "chars": 4647
+  },
+  "full": {
+    "ko": [
+      "숨기기",
+      "미국 시민권의 신성함 보호: 출산 관광에 관여하거나 이를 조장하는 자들에 대한 새로운 비자 제한 정책",
+      "언론 성명",
+      "마르코 루비오, 국무장관",
+      "2026년 9월 23일",
+      "외국의 상업적 출산 관광 네트워크는 미국 이민 제도를 악용하여 영리를 목적으로 미국 시민권을 판매해 왔습니다. 이러한 네트워크는 외국인들에게 미국 비자 신청서에 거짓으로 기재하도록 광고하고 지도하며, 오로지 미국 시민권 취득만을 목적으로 미국 영토 내에서의 출산을 주선하기 위해 수만 달러를 받고 있습니다.",
+      "오늘 저는 이민 및 국적법(Immigration and Nationality Act) 제212조(a)(3)(C)에 따른 새로운 비자 제한 정책을 발표합니다. 이 정책은 미국으로의 출산 관광에 고의로 관여하거나, 관여한 적이 있거나, 이를 조장하는 개인을 대상으로 하며, 여기에는 상업적 출산 관광 조장 네트워크의 소유자, 운영자 및 관리자, 신청자에게 사기 행위를 저지르도록 지도하는 비자 '브로커', 그러한 여행과 우리의 메디케이드(Medicaid) 제도의 부정 이용을 고의로 방조하고 조장하는 외국 의료 제공자, 그리고 상업적 출산 관광을 지원, 방조, 가능하게 하는 기타 개인이 포함됩니다.",
+      "트럼프 행정부는 미국 시민권의 완전성을 수호하고, 미국의 공공 혜택과 미국 납세자를 착취로부터 보호하며, 우리의 국가 안보를 지키기 위해 가용한 모든 수단을 활용하고 있습니다. 이러한 사기 행위에 관여하고 이로부터 이익을 얻는 자들에 대한 비자 발급을 제한함으로써, 우리는 분명한 메시지를 전달하고 있습니다. 미국은 외국인들이 우리의 이민 제도를 악용하고 미국 시민권의 신성함을 침해하도록 허용하지 않을 것입니다.",
+      "본 비자 제한 정책은 이민 및 국적법 제212조(a)(3)(C)에 따른 것입니다. 특정 가족 구성원도 이러한 제한의 대상이 될 수 있습니다.",
+      "태그",
+      "영사국\n이민\n대변인실\n국무장관\n제212조(a)(3)(c) 비자 제한\n미국 비자 및 영주권",
+      "쿠키 설정",
+      "당사는 웹사이트를 더 잘 작동시키고 귀하의 경험을 개선하기 위해 쿠키를 사용합니다. 사이트를 계속 이용하시면 당사의 개인정보 보호정책에 동의하는 것으로 간주됩니다.",
+      "기능적\n기능적\n항상 활성화",
+      "기술적 저장 또는 접근은 가입자 또는 이용자가 명시적으로 요청한 특정 서비스의 이용을 가능하게 하는 정당한 목적을 위해, 또는 전자 통신 네트워크를 통한 통신 전송을 수행하기 위한 유일한 목적을 위해 엄격히 필요합니다.",
+      "환경설정\n환경설정",
+      "기술적 저장 또는 접근은 가입자 또는 이용자가 요청하지 않은 환경설정을 저장하기 위한 정당한 목적을 위해 필요합니다.",
+      "통계\n통계",
+      "통계 목적으로만 사용되는 기술적 저장 또는 접근입니다.\n익명 통계 목적으로만 사용되는 기술적 저장 또는 접근입니다. 소환장, 귀하의 인터넷 서비스 제공업체의 자발적 협조, 또는 제3자로부터의 추가 기록이 없는 경우, 이 목적만을 위해 저장되거나 검색된 정보로는 일반적으로 귀하의 신원을 확인할 수 없습니다.",
+      "마케팅\n마케팅",
+      "광고를 전송하거나, 유사한 마케팅 목적으로 하나의 웹사이트 또는 여러 웹사이트에 걸쳐 사용자를 추적하기 위해 사용자 프로필을 생성하는 데에는 기술적 저장 또는 접근이 필요합니다.",
+      "옵션 관리",
+      "서비스 관리",
+      "{vendor_count}개 업체 관리",
+      "이러한 목적에 대해 자세히 알아보기",
+      "환경설정 보기",
+      "{title}",
+      "쿠키 설정",
+      "저희는 웹사이트를 더 잘 작동시키고 귀하의 경험을 개선하기 위해 쿠키를 사용합니다. 사이트를 계속 이용하시면 저희의 개인정보 보호정책에 동의하시는 것으로 간주됩니다.",
+      "기능\n기능\n항상 활성화됨",
+      "기술적 저장 또는 접근은 가입자나 사용자가 명시적으로 요청한 특정 서비스의 이용을 가능하게 하는 정당한 목적을 위해, 또는 전자통신 네트워크를 통한 통신 전송을 수행하는 유일한 목적을 위해 반드시 필요합니다.",
+      "환경설정\n환경설정",
+      "기술적 저장 또는 접근은 가입자나 사용자가 요청하지 않은 환경설정을 저장하는 정당한 목적을 위해 필요합니다.",
+      "통계\n통계",
+      "통계 목적으로만 사용되는 기술적 저장 또는 접근입니다.\n익명 통계 목적으로만 사용되는 기술적 저장 또는 접근입니다. 소환장, 귀하의 인터넷 서비스 제공업체의 자발적 협조, 또는 제3자로부터의 추가 기록이 없는 경우, 이 목적만을 위해 저장되거나 검색된 정보로는 일반적으로 귀하의 신원을 확인할 수 없습니다.",
+      "마케팅\n마케팅",
+      "이러한 기술적 저장 또는 접근은 광고를 전송하기 위한 사용자 프로필을 생성하거나, 유사한 마케팅 목적을 위하여 하나의 웹사이트 또는 여러 웹사이트에 걸쳐 사용자를 추적하는 데 필요합니다.",
+      "옵션 관리",
+      "서비스 관리",
+      "{vendor_count}개 공급업체 관리",
+      "이러한 목적에 대해 자세히 알아보기",
+      "설정 보기",
+      "{title}"
+    ],
+    "es": [
+      "ocultar",
+      "Protegiendo la Santidad de la Ciudadanía Estadounidense: Una Nueva Política de Restricción de Visas para Quienes Participan o Facilitan el Turismo de Nacimiento",
+      "Comunicado de Prensa",
+      "Marco Rubio, Secretario de Estado",
+      "23 de septiembre de 2026",
+      "Las redes comerciales extranjeras de turismo de nacimiento han explotado el sistema de inmigración de los Estados Unidos para vender la ciudadanía estadounidense con fines de lucro. Estas redes anuncian y preparan a ciudadanos extranjeros para que mientan en las solicitudes de visa de los Estados Unidos y cobran decenas de miles de dólares para organizar nacimientos en suelo estadounidense con el único propósito de obtener la ciudadanía de los Estados Unidos.",
+      "Hoy anuncio una nueva política de restricción de visas conforme a la Sección 212(a)(3)(C) de la Ley de Inmigración y Nacionalidad. Esta política está dirigida a las personas que a sabiendas participan, han participado o facilitan el turismo de nacimiento hacia los Estados Unidos, incluyendo a los propietarios, operadores y gerentes de redes comerciales de facilitación de turismo de nacimiento, a los “arregladores” de visas que preparan a los solicitantes para cometer fraude, a los proveedores médicos extranjeros que a sabiendas ayudan y facilitan dicho viaje y el uso fraudulento de nuestro sistema de Medicaid, y a otras personas que apoyan, ayudan y permiten el turismo de nacimiento comercial.",
+      "La Administración Trump está utilizando todas las herramientas a nuestra disposición para defender la integridad de la ciudadanía estadounidense, proteger los beneficios públicos estadounidenses y a los contribuyentes de los Estados Unidos de la explotación, y salvaguardar nuestra seguridad nacional. Al restringir la emisión de visas a quienes tanto participan como se benefician de este fraude, estamos enviando un mensaje claro: los Estados Unidos no permitirán que los extranjeros exploten nuestro sistema de inmigración y violen la santidad de la ciudadanía estadounidense.",
+      "Esta política de restricción de visas se aplica conforme a la Sección 212(a)(3)(C) de la Ley de Inmigración y Nacionalidad. Ciertos miembros de la familia también pueden estar cubiertos por estas restricciones.",
+      "Etiquetas",
+      "Oficina de Asuntos Consulares\nInmigración\nOficina del Portavoz\nEl Secretario de Estado\nRestricciones de Visa de la Sección 212(a)(3)(c)\nVisas y Tarjetas de Residencia de los Estados Unidos",
+      "Configuración de Cookies",
+      "Utilizamos cookies para hacer que nuestro sitio web funcione mejor y mejorar su experiencia. Al continuar usando el sitio, usted acepta nuestra política de privacidad.",
+      "Funcional\nFuncional\nSiempre activo",
+      "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico solicitado explícitamente por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+      "Preferencias\nPreferencias",
+      "El almacenamiento o acceso técnico es necesario para el propósito legítimo de almacenar preferencias que no han sido solicitadas por el abonado o usuario.",
+      "Estadísticas\nEstadísticas",
+      "El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos.\nEl almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin una citación judicial, el cumplimiento voluntario por parte de su proveedor de servicios de Internet, o registros adicionales de un tercero, la información almacenada o recuperada únicamente para este propósito generalmente no puede utilizarse para identificarlo.",
+      "Marketing\nMarketing",
+      "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario y enviar publicidad, o para rastrear al usuario en un sitio web o en varios sitios web con fines de marketing similares.",
+      "Administrar opciones",
+      "Administrar servicios",
+      "Administrar {vendor_count} proveedores",
+      "Leer más sobre estos propósitos",
+      "Ver preferencias",
+      "{title}",
+      "Configuración de Cookies",
+      "Utilizamos cookies para hacer que nuestro sitio web funcione mejor y mejorar su experiencia. Al continuar usando el sitio, usted acepta nuestra política de privacidad.",
+      "Funcional\nFuncional\nSiempre activo",
+      "El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico solicitado explícitamente por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.",
+      "Preferencias\nPreferencias",
+      "El almacenamiento o acceso técnico es necesario para el propósito legítimo de almacenar preferencias que no han sido solicitadas por el abonado o usuario.",
+      "Estadísticas\nEstadísticas",
+      "El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos.\nEl almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin una citación judicial, el cumplimiento voluntario por parte de su proveedor de servicios de Internet, o registros adicionales de un tercero, la información almacenada o recuperada únicamente para este propósito generalmente no puede utilizarse para identificarlo.",
+      "Marketing\nMarketing",
+      "El almacenamiento o acceso técnico es necesario para crear perfiles de usuario y enviar publicidad, o para rastrear al usuario en un sitio web o en varios sitios web con fines de marketing similares.",
+      "Administrar opciones",
+      "Administrar servicios",
+      "Administrar {vendor_count} proveedores",
+      "Leer más sobre estos propósitos",
+      "Ver preferencias",
+      "{title}"
+    ],
+    "zh": [
+      "隐藏",
+      "维护美国公民身份的神圣性:针对从事或协助生育旅游行为者的新签证限制政策",
+      "新闻声明",
+      "国务卿马可·鲁比奥",
+      "2026年9月23日",
+      "外国商业生育旅游网络一直在利用美国移民制度牟利,出售美国公民身份。这些网络通过广告宣传,并教唆外国公民在美国签证申请中撒谎,收取数万美元费用,安排其在美国领土上生产,其唯一目的就是获得美国公民身份。",
+      "今天,我宣布根据《移民与国籍法》第212(a)(3)(C)条实施一项新的签证限制政策。该政策针对明知故犯地从事、曾经从事或协助赴美生育旅游的个人,包括商业生育旅游协助网络的所有者、经营者和管理者,教唆申请人实施欺诈的签证“掮客”,明知并协助此类旅行以及欺诈性使用我国医疗补助(Medicaid)制度的外国医疗服务提供者,以及其他支持、协助和纵容商业生育旅游行为的个人。",
+      "特朗普政府正在动用我们所掌握的一切手段,捍卫美国公民身份的完整性,保护美国公共福利和美国纳税人免受滥用侵害,并维护我们的国家安全。通过限制那些既从事此类欺诈行为又从中牟利者获发签证,我们正在传递一个明确的信息:美国绝不允许外国人滥用我国移民制度,侵犯美国公民身份的神圣性。",
+      "本签证限制政策依据《移民与国籍法》第212(a)(3)(C)条实施。某些家庭成员也可能被纳入此项限制范围。",
+      "标签",
+      "领事事务局\n移民事务\n发言人办公室\n国务卿办公室\n第212(a)(3)(c)条签证限制\n美国签证与绿卡",
+      "Cookie 设置",
+      "我们使用Cookie来改善我们网站的运行效果并提升您的体验。继续使用本网站即表示您同意我们的隐私政策。",
+      "功能性\n功能性\n始终启用",
+      "出于使订阅者或用户明确请求的特定服务得以实现这一合法目的,或仅为通过电子通信网络传输通信之目的,此类技术存储或访问是严格必要的。",
+      "偏好设置\n偏好设置",
+      "出于存储订阅者或用户未请求的偏好设置这一合法目的,此类技术存储或访问是必要的。",
+      "统计\n统计",
+      "仅用于统计目的的技术存储或访问。\n仅用于匿名统计目的的技术存储或访问。在没有传票、您的互联网服务提供商自愿配合,或第三方提供的额外记录的情况下,仅为此目的而存储或检索的信息通常无法用于识别您的身份。",
+      "营销\n营销",
+      "出于创建用户画像以发送广告,或出于类似营销目的在一个网站内或跨多个网站跟踪用户这一目的,此类技术存储或访问是必需的。",
+      "管理选项",
+      "管理服务",
+      "管理 {vendor_count} 个供应商",
+      "进一步了解这些目的",
+      "查看偏好设置",
+      "{title}",
+      "Cookie 设置",
+      "我们使用Cookie来改善我们网站的运行效果并提升您的体验。继续使用本网站即表示您同意我们的隐私政策。",
+      "功能性\n功能性\n始终启用",
+      "出于使订阅者或用户明确请求的特定服务得以实现这一合法目的,或仅为通过电子通信网络传输通信之目的,此类技术存储或访问是严格必要的。",
+      "偏好设置\n偏好设置",
+      "出于存储订阅者或用户未请求的偏好设置这一合法目的,此类技术存储或访问是必要的。",
+      "统计\n统计",
+      "仅用于统计目的的技术存储或访问。\n仅用于匿名统计目的的技术存储或访问。在没有传票、您的互联网服务提供商自愿配合,或第三方提供的额外记录的情况下,仅为此目的而存储或检索的信息通常无法用于识别您的身份。",
+      "营销\n营销",
+      "技术存储或访问是创建用户资料以投放广告,或出于类似营销目的在某一网站或多个网站上追踪用户所必需的。",
+      "管理选项",
+      "管理服务",
+      "管理 {vendor_count} 个供应商",
+      "阅读更多有关这些目的的信息",
+      "查看偏好设置",
+      "{title}"
+    ],
+    "ja": [
+      "非表示",
+      "米国市民権の神聖性を守る:出産ツーリズムに関与または助長する者に対する新たな査証制限政策",
+      "記者発表",
+      "マルコ・ルビオ国務長官",
+      "2026年9月23日",
+      "外国の商業的出産ツーリズムネットワークは、米国の移民制度を悪用し、利益のために米国市民権を売買してきました。これらのネットワークは、外国人に対して米国査証申請書に虚偽の記載をするよう宣伝し指導するとともに、米国市民権取得のみを目的として米国領土内での出産を手配するために数万ドルを徴収しています。",
+      "本日、私は移民及び国籍法第212条(a)(3)(C)に基づく新たな査証制限政策を発表します。本政策は、商業的出産ツーリズム仲介ネットワークの所有者、運営者及び管理者、申請者に不正行為を行うよう指導する査証「ブローカー」、かかる渡航及び我が国のメディケイド制度の不正利用を認識の上で幇助し助長する外国の医療提供者、並びに商業的出産ツーリズムを支援し、幇助し、可能にするその他の個人を含め、米国への出産ツーリズムに故意に関与し、関与したことがあり、又はこれを助長する個人を対象とします。",
+      "トランプ政権は、米国市民権の完全性を守り、米国の公的給付及び米国の納税者を悪用から保護し、我が国の国家安全保障を守るために、利用可能なあらゆる手段を講じています。この不正行為に関与し、かつそれによって利益を得る者の査証発給を制限することにより、我々は明確なメッセージを発しています。すなわち、米国は、外国人が我が国の移民制度を悪用し、米国市民権の神聖性を侵害することを許さないということです。",
+      "本査証制限政策は、移民及び国籍法第212条(a)(3)(C)に基づくものです。一定の家族構成員も本制限の対象となる場合があります。",
+      "タグ",
+      "領事局\n移民\n報道官室\n国務長官\n第212条(a)(3)(c)査証制限\n米国査証及びグリーンカード",
+      "クッキー設定",
+      "当社は、ウェブサイトの機能向上及びお客様の利用体験の改善のためにクッキーを使用しています。本サイトの利用を継続することにより、お客様は当社のプライバシーポリシーに同意したものとみなされます。",
+      "機能\n機能\n常に有効",
+      "技術的な保存又はアクセスは、加入者又は利用者が明示的に要求した特定のサービスの利用を可能にするという正当な目的のため、あるいは電気通信ネットワークを通じた通信の伝送を行うという唯一の目的のために、厳密に必要なものです。",
+      "設定\n設定",
+      "技術的な保存又はアクセスは、加入者又は利用者によって要求されていない設定情報を保存するという正当な目的のために必要です。",
+      "統計\n統計",
+      "技術的な保存又はアクセスは、統計目的のみに使用されます。\n技術的な保存又はアクセスは、匿名の統計目的のみに使用されます。召喚状、インターネットサービスプロバイダによる自発的な協力、又は第三者による追加の記録がない限り、この目的のためにのみ保存又は取得された情報は、通常、お客様を特定するために使用することはできません。",
+      "マーケティング\nマーケティング",
+      "技術的な保存又はアクセスは、広告を送信するため、又は同様のマーケティング目的でウェブサイト上若しくは複数のウェブサイトにわたって利用者を追跡するために、利用者プロファイルを作成するために必要です。",
+      "オプションを管理",
+      "サービスを管理",
+      "{vendor_count}のベンダーを管理",
+      "これらの目的の詳細を読む",
+      "設定を表示",
+      "{title}",
+      "クッキー設定",
+      "当社は、ウェブサイトの機能向上及びお客様の利用体験の改善のためにクッキーを使用しています。本サイトの利用を継続することにより、お客様は当社のプライバシーポリシーに同意したものとみなされます。",
+      "機能\n機能\n常に有効",
+      "技術的な保存又はアクセスは、加入者又は利用者が明示的に要求した特定のサービスの利用を可能にするという正当な目的のため、あるいは電気通信ネットワークを通じた通信の伝送を行うという唯一の目的のために、厳密に必要なものです。",
+      "設定\n設定",
+      "技術的な保存又はアクセスは、加入者又は利用者によって要求されていない設定情報を保存するという正当な目的のために必要です。",
+      "統計\n統計",
+      "技術的な保存又はアクセスは、統計目的のみに使用されます。\n技術的な保存又はアクセスは、匿名の統計目的のみに使用されます。召喚状、インターネットサービスプロバイダによる自発的な協力、又は第三者による追加の記録がない限り、この目的のためにのみ保存又は取得された情報は、通常、お客様を特定するために使用することはできません。",
+      "マーケティング\nマーケティング",
+      "広告を送信する目的、または同様のマーケティング目的でウェブサイト上もしくは複数のウェブサイトにわたってユーザーを追跡する目的でユーザープロファイルを作成するために、技術的な保存またはアクセスが必要です。",
+      "オプションを管理する",
+      "サービスを管理する",
+      "{vendor_count}社のベンダーを管理する",
+      "これらの目的の詳細を読む",
+      "設定を表示する",
+      "{title}"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

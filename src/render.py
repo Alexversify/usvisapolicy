@@ -22,7 +22,7 @@ from xml.sax.saxutils import escape as xesc
 import yaml
 
 from src import assets, store
-from src import taxonomy
+from src import fulltext, taxonomy
 from src.i18n import AGENCY_ORDER, CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, TOPIC_ORDER, agency, cat, src, t, topic
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -289,6 +289,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
 <p class="lede">{e(L['summary'])}</p>
 <h2>{e(t('key_points', lang))}</h2><ul>{points}</ul>
 {who}{action}
+{fulltext.section(a, lang)}
 <div class="src">{e(t('original_title', lang))}: {e(a['original_title'])}<br>
 <a class="btn" href="{e(a['url'])}" rel="noopener" target="_blank">{e(t('original', lang))} ↗</a>
 <a class="arch" href="https://web.archive.org/web/{e(a['url'])}" rel="noopener" target="_blank">{e(t('archived', lang))}</a>

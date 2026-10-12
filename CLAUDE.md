@@ -69,3 +69,12 @@ python -m playwright install chromium
 ANTHROPIC_API_KEY=... python -m src.main
 cd docs && python -m http.server 8080
 ```
+
+## 원문 보관과 전문 번역
+
+- src/fulltext.py. 기사마다 공식 원문 전체를 문단 단위로 data/articles/<id>.json 의 original.blocks 에 보관하고,
+  문단마다 ko·es·zh·ja 전문 번역을 full.<lang> 에 같은 순서로 넣는다. 아직 못 한 문단은 null.
+- 기사 페이지는 요약 아래에 전문을 보여준다. 번역·원문·대조 보기를 고를 수 있다. 원문 사이트가 글을 내려도 여기 남는다.
+- 정기 실행은 새 기사의 전문을 바로 만들고, 빠진 기존 기사를 실행당 몇 건씩 채운다 (settings.yaml fulltext).
+- 과거 글은 .github/workflows/backfill.yml 이 settings.yaml backfill.since 이후 것을 채운다.
+- 번역 수정은 full.<lang> 의 해당 문단만 고친다. 문단 수와 순서를 바꾸지 않는다.

@@ -85,5 +85,111 @@
   "agency": "uscis",
   "topics": [
     "humanitarian"
-  ]
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "10/09/2026"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services (USCIS) is opening an asylum office in Charlotte, North Carolina."
+      },
+      {
+        "t": "p",
+        "x": "Beginning Oct. 13, 2026, aliens residing in North Carolina or South Carolina who have filed or are filing for asylum will fall under the jurisdiction of the new Charlotte Asylum Office and may be scheduled to appear for interview at this location. If you applied for asylum and USCIS schedules you for an asylum interview, carefully review your interview notice for important information about where to appear for your interview."
+      },
+      {
+        "t": "p",
+        "x": "The physical and mailing address for the Charlotte Asylum Office is:"
+      },
+      {
+        "t": "p",
+        "x": "Charlotte Asylum Office"
+      },
+      {
+        "t": "p",
+        "x": "128 South Tryon Street, Suite 600"
+      },
+      {
+        "t": "p",
+        "x": "Charlotte, North Carolina 28202"
+      },
+      {
+        "t": "p",
+        "x": "Interviews and other services are by appointment only. Asylum offices do not accept walk-ins. See the Asylum Office Locator for more information about asylum office locations."
+      },
+      {
+        "t": "p",
+        "x": "For accessibility and accommodation requests, please visit our Disability Accommodations for the Public webpage. For more information about what to expect at your affirmative asylum interview, see our Preparing for Your Affirmative Asylum Interview webpage. If you need to reschedule your interview prior to your appointment, call the USCIS Contact Center at 1-800-375-5283."
+      },
+      {
+        "t": "p",
+        "x": "10/09/2026"
+      }
+    ],
+    "fetched": "2026-10-12T16:02Z",
+    "from": "page",
+    "chars": 1272
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 10월 9일",
+      "미국 시민권 및 이민 서비스국(USCIS)은 노스캐롤라이나주 샬럿에 망명 사무소를 개설합니다.",
+      "2026년 10월 13일부터 노스캐롤라이나주 또는 사우스캐롤라이나주에 거주하며 망명을 신청하였거나 신청 중인 외국인은 신설된 샬럿 망명 사무소의 관할에 속하게 되며, 이 장소에서 인터뷰를 위해 출석하도록 일정이 잡힐 수 있습니다. 망명을 신청하였고 USCIS가 망명 인터뷰 일정을 잡은 경우, 인터뷰 출석 장소에 관한 중요한 정보를 확인하기 위해 인터뷰 통지서를 주의 깊게 검토하시기 바랍니다.",
+      "샬럿 망명 사무소의 실제 주소 및 우편 주소는 다음과 같습니다.",
+      "샬럿 망명 사무소(Charlotte Asylum Office)",
+      "128 South Tryon Street, Suite 600",
+      "Charlotte, North Carolina 28202",
+      "인터뷰 및 기타 서비스는 예약제로만 제공됩니다. 망명 사무소는 사전 예약 없는 방문을 받지 않습니다. 망명 사무소 위치에 관한 자세한 정보는 망명 사무소 찾기(Asylum Office Locator)를 참고하시기 바랍니다.",
+      "접근성 및 편의 제공 요청과 관련하여서는 일반인을 위한 장애인 편의 제공(Disability Accommodations for the Public) 웹페이지를 방문하시기 바랍니다. 적극적 망명 인터뷰에서 예상되는 사항에 관한 자세한 정보는 적극적 망명 인터뷰 준비하기(Preparing for Your Affirmative Asylum Interview) 웹페이지를 참고하시기 바랍니다. 예약된 인터뷰 일정을 변경해야 하는 경우, USCIS 고객 상담 센터(USCIS Contact Center)로 1-800-375-5283번으로 전화하시기 바랍니다.",
+      "2026년 10월 9일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "09/10/2026",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está abriendo una oficina de asilo en Charlotte, Carolina del Norte.",
+      "A partir del 13 de octubre de 2026, los extranjeros que residan en Carolina del Norte o Carolina del Sur que hayan presentado o estén presentando una solicitud de asilo quedarán bajo la jurisdicción de la nueva Oficina de Asilo de Charlotte y podrán ser programados para presentarse a una entrevista en este lugar. Si usted solicitó asilo y USCIS lo programa para una entrevista de asilo, revise cuidadosamente su aviso de entrevista para obtener información importante sobre dónde debe presentarse para su entrevista.",
+      "La dirección física y postal de la Oficina de Asilo de Charlotte es:",
+      "Oficina de Asilo de Charlotte",
+      "128 South Tryon Street, Suite 600",
+      "Charlotte, Carolina del Norte 28202",
+      "Las entrevistas y otros servicios son únicamente con cita previa. Las oficinas de asilo no atienden sin cita. Consulte el Localizador de Oficinas de Asilo (Asylum Office Locator) para obtener más información sobre la ubicación de las oficinas de asilo.",
+      "Para solicitudes de accesibilidad y adaptaciones, visite nuestra página web de Adaptaciones por Discapacidad para el Público (Disability Accommodations for the Public). Para obtener más información sobre qué esperar en su entrevista de asilo afirmativo, consulte nuestra página web Cómo Prepararse para Su Entrevista de Asilo Afirmativo (Preparing for Your Affirmative Asylum Interview). Si necesita reprogramar su entrevista antes de su cita, llame al Centro de Contacto de USCIS al 1-800-375-5283.",
+      "09/10/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年10月09日",
+      "美国公民及移民服务局(USCIS)将在北卡罗来纳州夏洛特市开设一个庇护办公室。",
+      "自2026年10月13日起,居住在北卡罗来纳州或南卡罗来纳州且已提交或正在提交庇护申请的外国人将归新设立的夏洛特庇护办公室管辖,并可能被安排在该地点出席面谈。如果您已申请庇护,且美国公民及移民服务局安排您进行庇护面谈,请仔细查看您的面谈通知,了解有关前往何处出席面谈的重要信息。",
+      "夏洛特庇护办公室的实际地址和邮寄地址为:",
+      "夏洛特庇护办公室",
+      "南特赖恩街128号600室",
+      "北卡罗来纳州夏洛特市,邮编28202",
+      "面谈及其他服务均需预约,庇护办公室不接受无预约到访。有关庇护办公室地点的更多信息,请参阅庇护办公室查找工具。",
+      "如需提出无障碍及便利需求,请访问我们的“面向公众的残障便利服务”网页。有关庇护积极面谈中应预期事项的更多信息,请参阅我们的“为您的积极庇护面谈做准备”网页。如果您需要在面谈预约日期之前重新安排面谈时间,请致电美国公民及移民服务局联络中心,电话:1-800-375-5283。",
+      "2026年10月09日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年10月9日",
+      "米国市民権移民局(USCIS)は、ノースカロライナ州シャーロットに難民認定申請事務所を開設します。",
+      "2026年10月13日以降、ノースカロライナ州またはサウスカロライナ州に居住し、難民認定(asylum)を申請済みまたは申請中の外国人は、新設されるシャーロット難民認定申請事務所の管轄下に入り、同所で面接のために出頭するよう予定される場合があります。難民認定を申請し、USCISが難民認定面接の予定を設定した場合は、面接通知書を注意深く確認し、面接のためにどこに出頭すべきかについての重要な情報を確認してください。",
+      "シャーロット難民認定申請事務所の所在地および郵送先住所は以下のとおりです。",
+      "シャーロット難民認定申請事務所",
+      "128 South Tryon Street, Suite 600",
+      "Charlotte, North Carolina 28202",
+      "面接およびその他のサービスは予約制のみです。難民認定申請事務所では予約なしでの来訪(ウォークイン)は受け付けておりません。難民認定申請事務所の所在地に関する詳細情報については、難民認定申請事務所検索(Asylum Office Locator)をご覧ください。",
+      "アクセシビリティおよび配慮のご要望につきましては、一般向け障害者配慮(Disability Accommodations for the Public)のウェブページをご覧ください。積極的難民認定面接(affirmative asylum interview)で何が行われるかについての詳細情報は、積極的難民認定面接の準備(Preparing for Your Affirmative Asylum Interview)のウェブページをご覧ください。予約日より前に面接の予定を変更する必要がある場合は、USCISコンタクトセンター(1-800-375-5283)までお電話ください。",
+      "2026年10月9日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
