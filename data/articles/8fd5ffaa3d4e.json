@@ -90,5 +90,591 @@
   "topics": [
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain\nthe following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part\nthe document amends, proposes to amend, or is directly\nrelated to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in\nthe Unified Agenda of Federal Regulatory and Deregulatory\nActions"
+      },
+      {
+        "t": "p",
+        "x": "See the\nDocument Drafting Handbook\nfor more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "li",
+        "x": "[CIS No. 2879-26]"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services, DHS."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice of inflationary fee adjustment."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services (USCIS), a component of the Department of Homeland Security (DHS), is announcing inflationary adjustments to immigration-related fees administered by USCIS under the One Big Beautiful Bill Act (H.R. 1) for Fiscal Year (FY) 2027. H.R. 1 mandates that USCIS adjust the H.R. 1 fees annually. This notice outlines the adjusted fees and their effective date."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The fees announced in this notice are effective on or after October 16, 2026. Any immigration benefit request postmarked on or after October 16, 2026 without the proper filing fee will be rejected."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Office of Chief Financial Officer, U.S. Citizenship and Immigration Services, Department of Homeland Security, 5900 Capital Gateway Drive, Camp Springs, MD 20746; telephone 240-721-3000 (this is not a toll-free number). Individuals with hearing or speech impairments may access the telephone number above via TTY by calling the toll-free Federal Information Relay Service at 1-877-889-5627 (TTY/TDD)."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "Table of Abbreviations"
+      },
+      {
+        "t": "p",
+        "x": "BLS—U.S. Bureau of Labor Statistics"
+      },
+      {
+        "t": "p",
+        "x": "CPI-U—Consumer Price Index for All Urban Consumers"
+      },
+      {
+        "t": "p",
+        "x": "DHS—Department of Homeland Security"
+      },
+      {
+        "t": "p",
+        "x": "EAD—Employment Authorization Document"
+      },
+      {
+        "t": "p",
+        "x": "FY—Fiscal Year"
+      },
+      {
+        "t": "p",
+        "x": "H.R. 1—One Big Beautiful Bill Act"
+      },
+      {
+        "t": "p",
+        "x": "INA—Immigration and Nationality Act"
+      },
+      {
+        "t": "p",
+        "x": "TPS—Temporary Protected Status"
+      },
+      {
+        "t": "p",
+        "x": "USCIS—U.S. Citizenship and Immigration Services"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 62541)"
+      },
+      {
+        "t": "h",
+        "x": "I. Background and Authority"
+      },
+      {
+        "t": "h",
+        "x": "H.R. 1—One Big Beautiful Bill Act"
+      },
+      {
+        "t": "p",
+        "x": "On July 4, 2025, the President signed into law H.R. 1—One Big Beautiful Bill Act, Public Law 119-21, 139 Stat. 72 (H.R. 1), a comprehensive legislative package that amended various laws, including the Immigration and Nationality Act (INA). Among its changes, H.R. 1 introduced new immigration fees as minimum amounts for FY 2025, authorized agencies to adjust them through rulemaking, and mandated annual updates based on the Consumer Price Index for All Urban Consumers (CPI-U).\nSee\nH.R. 1, Title X, Subtitle A, Part I, Sections 100001 through 100018. The fees are codified at 8 U.S.C. Chapter 16. On July 22, 2025, USCIS published a\nFederal Register\nNotice announcing the implementation of these fees.\nSee USCIS Immigration Fees Required by HR-1 Reconciliation Bill,90 FR 34511 (July 22, 2025) (notice). Following the initial implementation, USCIS issued additional regulatory actions to operationalize H.R. 1's requirements and ensure compliance with its annual inflation adjustment mandate. Next, on October 16, 2025, DHS announced the implementation of the parole fee established in H.R. 1 of $1,000 for any alien who is paroled into the United States who does not meet an exception.\nImmigration Parole Fee Required by HR-1 Reconciliation Bill,90 FR 48317 (Oct. 16, 2025) (notice). Additionally, on November 21, 2025, USCIS published a\nFederal Register\nNotice detailing the inflationary adjustment to H.R. 1 immigration fees for Fiscal Year 2026.\nSee Inflation Adjustment to HR-1 Immigration Fees,90 FR 52693 (Nov. 21, 2025) (notice). This notice provided the methodology for calculating the annual adjustment, based on the percentage change in the CPI-U from July 2024 to July 2025 and specified the new fee amounts effective January 1, 2026. The notice also clarified the rounding rules mandated by H.R. 1, requiring fees to be rounded down to the next lowest multiple of $10 or, for certain fees, to the nearest dollar.\nId.\nat 52694. On April 29, 2026, DHS issued an interim final rule further detailing the procedures and requirements for the collection of H.R. 1 fees and clarifying operational aspects of fee implementation, including consequences for fee nonpayment.\nSee USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill,91 FR 22952 (Apr. 29, 2026) (interim final rule). The interim final rule addressed procedural updates, including guidance for applicants and petitioners, payment instructions, and the handling of fee waivers and exemptions. After the interim final rule published, DHS issued a correction restoring text that had been inadvertently removed in 8 CFR 208.7(a).\nSee USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction,91 FR 45637 (July 21, 2026) (correcting amendment)."
+      },
+      {
+        "t": "p",
+        "x": "These regulatory actions collectively establish the operational framework for the collection and adjustment of H.R. 1 immigration fees. They ensure that the fee schedule remains current, transparent, and consistent with statutory requirements, and provide clear guidance to applicants, petitioners, and other stakeholders on the procedures for submitting immigration benefit requests and associated fees required by H.R. 1."
+      },
+      {
+        "t": "p",
+        "x": "H.R. 1 requires that DHS, beginning in FY 2026 and continuing for each subsequent fiscal year, adjust the immigration-related fees for inflation. H.R. 1 prescribes that DHS use the percentage change to the CPI-U for the month of July in the current year compared to the preceding calendar year and round each fee to the next lowest multiple of $10 or, in some instances, down to the nearest dollar as authorized by H.R. 1.\nSee, e.g.,8 U.S.C. 1802(c), 1803(a)(3), 1808(b)(2)(B)."
+      },
+      {
+        "t": "h",
+        "x": "II. Basis for Adjustment"
+      },
+      {
+        "t": "p",
+        "x": "In accordance with the provisions outlined in H.R. 1, most fees established for various immigration-related applications and benefit requests are subject to annual inflation adjustments. USCIS calculated these adjustments using the percentage change in the CPI-U from July 2025 to July 2026, with most fees “rounded to the next lowest multiple of $10” as required by H.R. 1.\nSee, e.g.,8 U.S.C. 1802(c). H.R. 1 specifies that the Annual Asylum Fee is adjusted for inflation and rounded down to the nearest “dollar.”\nSee\nU.S.C. 1808(b)(2)(B). This approach aligns with H.R. 1 requirements to use the percentage change in CPI-U from the “month of July preceding the date on which such adjustment takes effect . . . for the same month of the preceding calendar year.”\nId.\nIn July 2025, the CPI-U was 323.048 and in July 2026 it was 333.918.[1]\nTherefore, between July 2025 and July 2026, the CPI-U increased by approximately 3.36 percent.[2]\nWhen this percentage increase is applied to the current (FY 2026) H.R. 1 fees and rounded to the next lowest $10 increment, some fees increase by $10. Some fees do not change because the inflation adjusted amount is equal to the current fee when rounded to the next lowest $10 increment. Table 1 summarizes the H.R. 1 fees which USCIS collects, including changes for FY 2027."
+      },
+      {
+        "t": "p",
+        "x": "Table 1—H.R. 1 Inflation Adjustments for FY 2027"
+      },
+      {
+        "t": "tr",
+        "x": "Immigration fee type\n| Current fee\n| CPI-U\nchange\n(%)\n| Inflation\nadjustment\n| Fee plus\ninflation\n| Round\ndown to\n$10\n| Round down\nto nearest\ndollar\n| Fee increase\n| FY 2027\nfee"
+      },
+      {
+        "t": "tr",
+        "x": "I-589 Asylum Fee (Initial fee for aliens filing an application for asylum)\n| $100\n| 3.36%\n| $3.36\n| $103.36\n| $100\n| N/A\n| $0\n| $100"
+      },
+      {
+        "t": "tr",
+        "x": "I-589 Annual Pending Asylum Application Fee\n| 102\n| 3.36\n| 3.43\n| 105.43\n| N/A\n| 105\n| $3\n| 105"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Initial Asylum Applicant Employment Authorization Document (EAD)\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Renewal or Extension of Asylum Applicant EAD\n| 275\n| N/A\n| N/A\n| N/A\n| N/A\n| N/A\n| H.R. 1 does not provide for adjustment 3\n| 275"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Initial Parole EAD—Valid for 1 year\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Renewal or Extension of Parole EAD—Valid for 1 year\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280"
+      },
+      {
+        "t": "tr",
+        "x": "( printed page 62542)"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Initial Temporary Protected Status (TPS) EAD—Valid for 1 year or the duration of the TPS designation whichever is shorter\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Renewal or Extension of TPS EAD—Valid for 1 year\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280"
+      },
+      {
+        "t": "tr",
+        "x": "I-765 Re-parole EAD\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280"
+      },
+      {
+        "t": "tr",
+        "x": "I-821 TPS Fee\n| 510\n| 3.36\n| 17.16\n| 527.16\n| 520\n| N/A\n| $10\n| 520"
+      },
+      {
+        "t": "tr",
+        "x": "I-360 Special Immigrant Juvenile (SIJ) Fee\n| 250\n| 3.36\n| 8.41\n| 258.41\n| 250\n| N/A\n| $0\n| 250"
+      },
+      {
+        "t": "tr",
+        "x": "I-131 Immigration Parole Fee\n| 1,020\n| 3.36\n| 34.32\n| 1,054.32\n| 1,050\n| N/A\n| $30\n| 1,050"
+      },
+      {
+        "t": "tr",
+        "x": "I-94 Immigration Fee\n| 24\n| 3.36\n| 0.81\n| 24.81\n| N/A\n| 24\n| $0\n| 24"
+      },
+      {
+        "t": "p",
+        "x": "For the fees outlined in this notice, the statute clearly states that agencies should round inflation adjustments down to the nearest dollar or, in most cases, to the “next lowest multiple of $10.” Consistent with the statute and the previous inflationary adjustment,\nsee90 FR 52693, 52695, when applicable, USCIS is rounding down to the next lowest multiple of $10 increment rather than rounding to the nearest $10 increment."
+      },
+      {
+        "t": "p",
+        "x": "The methodology USCIS used ensures that fees keep pace with inflation as enacted by Congress in H.R. 1.[4]"
+      },
+      {
+        "t": "h",
+        "x": "III. Effective Date and Implementation"
+      },
+      {
+        "t": "p",
+        "x": "USCIS will require the filing fees for FY 2027 established in this notice for any immigration benefit requests postmarked on or after October 16, 2026. Because DHS believes this provides adequate time needed for DHS and USCIS to issue guidance on and operationalize the change in the required fees, and for the public to adapt their immigration benefit requests that are in process to the changes, requests postmarked on or after October 16, 2026 without the proper filing fee will be rejected. DHS has determined that the policy required by this notice is the most equitable path forward to collect H.R. 1 fees for FY 2027 as expeditiously as practicable for the fees administered by USCIS. DHS may codify the annual fee adjustments covered by this notice in 8 CFR part 106 in a future rule."
+      },
+      {
+        "t": "p",
+        "x": "Markwayne Mullin,"
+      },
+      {
+        "t": "p",
+        "x": "Secretary, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1.\n \nSee\nU.S. Bureau of Labor Statistics (BLS), CPI-U Series Id CUUR0000SA0,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0\n(last visited Aug. 12, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2 .\n DHS calculated this by subtracting the July 2025 CPI-U (323.048) from the July 2026 CPI-U (333.918), then dividing the result (10.87) by the July 2025 CPI-U (323.048). Calculation: (333.918−323.048)/323.048 = 0.0336 × 100 = 3.36 percent."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3 .\n H.R. 1 does not provide for inflationary adjustments to the fee relating to renewal or extension of employment authorization for asylum applicants.\nSee 8 U.S.C. 1810."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4.\n \nSee e.g.,8 U.S.C. 1802(c)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-20187 Filed 9-30-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-97-P"
+      }
+    ],
+    "fetched": "2026-10-12T17:05Z",
+    "from": "federalregister.gov",
+    "chars": 10910
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "해당 문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 연방규정집(CFR) 편(title) 번호 및 각 부(part) 번호",
+      "기관 접수번호/기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 규제식별번호(RIN)",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하시기 바랍니다.",
+      "국토안보부",
+      "[CIS No. 2879-26]",
+      "기관:",
+      "미국 시민권 및 이민 서비스국(U.S. Citizenship and Immigration Services), 국토안보부(DHS).",
+      "조치:",
+      "물가상승률에 따른 수수료 조정 고시.",
+      "요약:",
+      "국토안보부(Department of Homeland Security, DHS) 산하 기관인 미국 시민권 및 이민 서비스국(U.S. Citizenship and Immigration Services, USCIS)은 원 빅 뷰티풀 빌 법(One Big Beautiful Bill Act, H.R. 1)에 따라 USCIS가 관장하는 이민 관련 수수료에 대하여 2027회계연도(FY)의 물가상승률 조정을 발표합니다. H.R. 1은 USCIS가 H.R. 1 수수료를 매년 조정하도록 규정하고 있습니다. 본 고시는 조정된 수수료 및 그 발효일을 명시합니다.",
+      "일자:",
+      "본 고시에서 발표하는 수수료는 2026년 10월 16일 또는 그 이후부터 효력이 발생합니다. 2026년 10월 16일 또는 그 이후 소인이 찍힌 이민 혜택 신청서로서 정확한 신청 수수료가 동봉되지 않은 경우에는 반려됩니다.",
+      "추가 정보 문의처:",
+      "최고재무책임자실(Office of Chief Financial Officer), 미국 시민권 및 이민 서비스국, 국토안보부, 5900 Capital Gateway Drive, Camp Springs, MD 20746, 전화 240-721-3000(이는 수신자 부담 번호가 아닙니다). 청각 또는 언어 장애가 있는 분들은 수신자 부담 연방 정보중계서비스(Federal Information Relay Service) 1-877-889-5627(TTY/TDD)번으로 전화하여 위 전화번호에 TTY로 접속하실 수 있습니다.",
+      "보충 정보:",
+      "약어표",
+      "BLS, 미국 노동통계국(U.S. Bureau of Labor Statistics)",
+      "CPI-U, 도시 소비자 대상 소비자물가지수(Consumer Price Index for All Urban Consumers)",
+      "DHS, 국토안보부",
+      "EAD, 취업허가서(Employment Authorization Document)",
+      "FY, 회계연도",
+      "H.R. 1, 원 빅 뷰티풀 빌 법",
+      "INA, 이민 및 국적법(Immigration and Nationality Act)",
+      "TPS, 임시보호신분(Temporary Protected Status)",
+      "USCIS, 미국 시민권 및 이민 서비스국",
+      "(인쇄본 62541페이지)",
+      "I. 배경 및 권한",
+      "H.R. 1, 원 빅 뷰티풀 빌 법",
+      "2025년 7월 4일, 대통령은 H.R. 1(원 빅 뷰티풀 법안), 공법 119-21, 139 Stat. 72(H.R. 1)에 서명하여 법률로 제정하였습니다. 이는 이민국적법(INA)을 포함한 다양한 법률을 개정하는 포괄적인 입법 패키지입니다. H.R. 1의 변경 사항 중에는 2025회계연도에 대한 최저 금액으로 새로운 이민 수수료를 도입하고, 관계 기관이 규칙 제정을 통해 이를 조정할 수 있도록 권한을 부여하였으며, 전 도시 소비자물가지수(CPI-U)에 기초한 연례 갱신을 의무화한 내용이 포함됩니다.\nH.R. 1, Title X, Subtitle A, Part I, Sections 100001 through 100018 참조. 해당 수수료는 8 U.S.C. Chapter 16에 성문화되어 있습니다. 2025년 7월 22일, 미국 시민권이민국(USCIS)은 이러한 수수료의 시행을 발표하는 연방관보(Federal Register) 공고를 게시하였습니다.\nUSCIS Immigration Fees Required by HR-1 Reconciliation Bill, 90 FR 34511 (July 22, 2025) (notice) 참조. 최초 시행 이후, USCIS는 H.R. 1의 요건을 운영화하고 그 연례 인플레이션 조정 의무를 준수하기 위하여 추가적인 규제 조치를 발표하였습니다. 이어서, 2026년 10월 16일, 국토안보부(DHS)는 예외 사유에 해당하지 않는 한 미국으로 가석방되는 모든 외국인에게 H.R. 1에서 정한 1,000달러의 가석방 수수료를 시행한다고 발표하였습니다.\nImmigration Parole Fee Required by HR-1 Reconciliation Bill, 90 FR 48317 (Oct. 16, 2025) (notice). 또한, 2025년 11월 21일, USCIS는 2026회계연도 H.R. 1 이민 수수료에 대한 인플레이션 조정 내용을 상세히 설명하는 연방관보 공고를 게시하였습니다.\nInflation Adjustment to HR-1 Immigration Fees, 90 FR 52693 (Nov. 21, 2025) (notice) 참조. 본 공고는 2024년 7월부터 2025년 7월까지의 CPI-U 변동률에 기초한 연례 조정 산정 방법을 제시하였으며, 2026년 1월 1일부터 시행되는 새로운 수수료 금액을 명시하였습니다. 또한 본 공고는 H.R. 1이 규정한 반올림 규칙을 명확히 하였는데, 이는 수수료를 10달러 단위로 내림하거나, 특정 수수료의 경우 가장 가까운 1달러 단위로 내림하도록 요구하는 것입니다.\n위의 자료, 52694면. 2026년 4월 29일, DHS는 H.R. 1 수수료 징수에 관한 절차 및 요건을 보다 상세히 규정하고 수수료 미납에 따른 결과를 포함하여 수수료 시행의 운영적 측면을 명확히 하는 잠정 최종 규칙(interim final rule)을 발표하였습니다.\nUSCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill, 91 FR 22952 (Apr. 29, 2026) (interim final rule) 참조. 해당 잠정 최종 규칙은 신청인 및 청원인을 위한 지침, 납부 방법, 수수료 면제 및 예외 처리 등 절차적 갱신 사항을 다루었습니다. 잠정 최종 규칙 게시 이후, DHS는 8 CFR 208.7(a)에서 실수로 삭제되었던 문구를 복원하는 정정을 발표하였습니다.\nUSCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction, 91 FR 45637 (July 21, 2026) (correcting amendment) 참조.",
+      "이러한 규제 조치들은 전체적으로 H.R. 1 이민 수수료의 징수 및 조정을 위한 운영 체계를 수립합니다. 이는 수수료 일정이 최신성, 투명성을 유지하고 법적 요건에 부합하도록 보장하며, H.R. 1이 요구하는 이민 혜택 신청서 및 관련 수수료 제출 절차에 관하여 신청인, 청원인 및 기타 이해관계자에게 명확한 지침을 제공합니다.",
+      "H.R. 1은 DHS가 2026회계연도부터 시작하여 이후 매 회계연도마다 이민 관련 수수료를 인플레이션에 맞추어 조정하도록 요구하고 있습니다. H.R. 1은 DHS가 당해 연도 7월의 CPI-U를 전년도 동월과 비교한 변동률을 사용하도록 규정하고 있으며, 각 수수료를 10달러 단위로 내림하거나, 일부 경우에는 H.R. 1이 허용하는 바에 따라 가장 가까운 1달러 단위로 내림하도록 규정하고 있습니다.\n예를 들어, 8 U.S.C. 1802(c), 1803(a)(3), 1808(b)(2)(B) 참조.",
+      "II. 조정의 근거",
+      "H.R. 1에 명시된 규정에 따라, 다양한 이민 관련 신청 및 혜택 요청에 대해 책정된 대부분의 수수료는 매년 물가 상승률에 따라 조정됩니다. 미국 시민권이민국(USCIS)은 2025년 7월부터 2026년 7월까지의 소비자물가지수(CPI-U) 변동률을 사용하여 이러한 조정을 산정하였으며, H.R. 1에서 요구하는 바와 같이 대부분의 수수료는 \"10달러 단위로 내림\" 처리되었습니다.\n8 U.S.C. 1802(c) 참조. H.R. 1은 연간 망명 수수료(Annual Asylum Fee)가 물가 상승에 따라 조정되며 가장 가까운 \"달러\" 단위로 내림 처리된다고 명시하고 있습니다.\nU.S.C. 1808(b)(2)(B) 참조. 이러한 방식은 \"해당 조정이 발효되는 날짜가 속한 달의 직전 7월\"의 CPI-U를 \"직전 역년의 동일한 달\"과 비교하여 변동률을 사용하도록 하는 H.R. 1의 요건에 부합합니다.\n위와 동일. 2025년 7월 CPI-U는 323.048이었고 2026년 7월에는 333.918이었습니다.[1]\n따라서 2025년 7월부터 2026년 7월 사이에 CPI-U는 약 3.36퍼센트 상승하였습니다.[2]\n이러한 상승률을 현행(2026회계연도) H.R. 1 수수료에 적용하고 10달러 단위로 내림 처리할 경우, 일부 수수료는 10달러 인상됩니다. 일부 수수료는 물가 조정 금액이 10달러 단위로 내림 처리했을 때 현행 수수료와 동일하여 변동이 없습니다. 표 1은 USCIS가 징수하는 H.R. 1 수수료와 2027회계연도의 변경 사항을 요약한 것입니다.",
+      "표 1. 2027회계연도 H.R. 1 물가 조정",
+      "이민 수수료 종류\n| 현행 수수료\n| CPI-U\n변동률\n(%)\n| 물가\n조정액\n| 수수료 더하기\n물가조정액\n| 10달러\n단위로\n내림\n| 가장 가까운\n달러 단위로\n내림\n| 수수료\n인상액\n| 2027회계연도\n수수료",
+      "I-589 망명 수수료(외국인이 망명 신청서를 제출할 때의 최초 수수료)\n| 100달러\n| 3.36%\n| 3.36달러\n| 103.36달러\n| 100달러\n| 해당 없음\n| 0달러\n| 100달러",
+      "I-589 연간 계류 중인 망명 신청 수수료\n| 102\n| 3.36\n| 3.43\n| 105.43\n| 해당 없음\n| 105\n| 3달러\n| 105",
+      "I-765 최초 망명 신청자 취업허가서(EAD)\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 해당 없음\n| 10달러\n| 570",
+      "I-765 망명 신청자 EAD 갱신 또는 연장\n| 275\n| 해당 없음\n| 해당 없음\n| 해당 없음\n| 해당 없음\n| 해당 없음\n| H.R. 1은 조정을 규정하지 않음 3\n| 275",
+      "I-765 최초 가석방 EAD, 1년간 유효\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 해당 없음\n| 10달러\n| 570",
+      "I-765 가석방 EAD 갱신 또는 연장, 1년간 유효\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 해당 없음\n| 0달러\n| 280",
+      "(인쇄본 페이지 62542)",
+      "I-765 최초 임시보호지위(TPS) EAD, 1년 또는 TPS 지정 기간 중 짧은 기간 동안 유효\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 해당 없음\n| 10달러\n| 570",
+      "I-765 TPS EAD 갱신 또는 연장, 1년간 유효\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 해당 없음\n| 0달러\n| 280",
+      "I-765 재가석방 EAD\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 해당 없음\n| 0달러\n| 280",
+      "I-821 TPS 수수료\n| 510\n| 3.36\n| 17.16\n| 527.16\n| 520\n| 해당 없음\n| 10달러\n| 520",
+      "I-360 특별이민 소년(SIJ) 수수료\n| 250\n| 3.36\n| 8.41\n| 258.41\n| 250\n| 해당 없음\n| 0달러\n| 250",
+      "I-131 이민 가석방 수수료\n| 1,020\n| 3.36\n| 34.32\n| 1,054.32\n| 1,050\n| 해당 없음\n| 30달러\n| 1,050",
+      "I-94 이민 수수료\n| 24\n| 3.36\n| 0.81\n| 24.81\n| 해당 없음\n| 24\n| 0달러\n| 24",
+      "본 고시에 명시된 수수료와 관련하여, 해당 법령은 기관이 물가 조정액을 가장 가까운 달러 단위로, 또는 대부분의 경우 \"10달러 단위로 내림\" 처리해야 한다고 명확히 규정하고 있습니다. 해당 법령 및 이전의 물가 조정 방식과 일관되게, 90 FR 52693, 52695 참조, 해당하는 경우 USCIS는 가장 가까운 10달러 단위로 반올림하는 대신 10달러 단위로 내림 처리하고 있습니다.",
+      "USCIS가 사용한 산정 방식은 의회가 H.R. 1을 통해 제정한 바와 같이 수수료가 물가 상승률에 맞추어 조정되도록 보장합니다.[4]",
+      "III. 시행일 및 시행",
+      "USCIS는 본 고시에서 정한 2027회계연도 수수료를 2026년 10월 16일 이후 소인이 찍힌 모든 이민 혜택 요청에 대해 적용할 것입니다. 국토안보부(DHS)는 이러한 조치가 DHS 및 USCIS가 수수료 변경에 관한 지침을 발표하고 이를 운영상 적용하는 데 필요한 충분한 시간을 제공하며, 또한 진행 중인 이민 혜택 요청에 대해 국민이 변경 사항에 적응할 수 있는 시간을 제공한다고 판단하므로, 2026년 10월 16일 이후 소인이 찍혔으나 적절한 신청 수수료가 동봉되지 않은 요청은 거부될 것입니다. DHS는 본 고시에서 요구하는 정책이 USCIS가 관리하는 수수료에 대해 2027회계연도 H.R. 1 수수료를 가능한 한 신속하게 징수하기 위한 가장 공평한 방안이라고 판단하였습니다. DHS는 본 고시에서 다루는 연간 수수료 조정을 향후 규칙을 통해 8 CFR part 106에 성문화할 수 있습니다.",
+      "마크웨인 멀린(Markwayne Mullin),",
+      "미국 국토안보부 장관.",
+      "각주",
+      "1.\n \n미국 노동통계국(BLS), CPI-U 시리즈 ID CUUR0000SA0 참조,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0\n(2026년 8월 12일 최종 방문).",
+      "인용으로 돌아가기",
+      "2.\n 국토안보부(DHS)는 2026년 7월 CPI-U(333.918)에서 2025년 7월 CPI-U(323.048)를 뺀 다음, 그 결과(10.87)를 2025년 7월 CPI-U(323.048)로 나누어 이를 산출하였습니다. 계산식: (333.918−323.048)/323.048 = 0.0336 × 100 = 3.36퍼센트.",
+      "인용으로 돌아가기",
+      "3.\n H.R. 1은 망명 신청자의 취업허가 갱신 또는 연장과 관련된 수수료에 대한 물가연동 조정을 규정하지 않습니다.\n8 U.S.C. 1810 참조.",
+      "인용으로 돌아가기",
+      "4.\n \n예를 들어, 8 U.S.C. 1802(c) 참조.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-20187 Filed 9-30-26; 8:45 am]",
+      "BILLING CODE 9111-97-P"
+    ],
+    "es": [
+      "Encabezados del documento",
+      "Los encabezados del documento varían según el tipo de documento, pero pueden contener\nlo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte\nque el documento modifica, propone modificar, o con la cual está directamente\nrelacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción reglamentaria incluida en\nla Agenda Unificada de Acciones Reglamentarias y Desreglamentarias Federales\n(Unified Agenda of Federal Regulatory and Deregulatory Actions)",
+      "Consulte el\nManual de Redacción de Documentos (Document Drafting Handbook)\npara obtener más detalles.",
+      "Departamento de Seguridad Nacional (DHS)",
+      "[CIS No. 2879-26]",
+      "AGENCIA:",
+      "Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés), DHS.",
+      "ACCIÓN:",
+      "Aviso de ajuste inflacionario de tarifas.",
+      "RESUMEN:",
+      "Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS), un componente del Departamento de Seguridad Nacional (DHS), anuncian ajustes inflacionarios a las tarifas relacionadas con inmigración administradas por USCIS conforme a la One Big Beautiful Bill Act (H.R. 1) para el Año Fiscal (FY) 2027. La H.R. 1 exige que USCIS ajuste anualmente las tarifas establecidas por la H.R. 1. Este aviso describe las tarifas ajustadas y su fecha de entrada en vigor.",
+      "FECHAS:",
+      "Las tarifas anunciadas en este aviso entran en vigor el 16 de octubre de 2026 o después de esa fecha. Cualquier solicitud de beneficio migratorio con matasellos del 16 de octubre de 2026 o posterior que no incluya la tarifa de presentación correspondiente será rechazada.",
+      "PARA MÁS INFORMACIÓN, COMUNÍQUESE CON:",
+      "Oficina del Director Financiero, Servicios de Ciudadanía e Inmigración de los Estados Unidos, Departamento de Seguridad Nacional, 5900 Capital Gateway Drive, Camp Springs, MD 20746; teléfono 240-721-3000 (este no es un número gratuito). Las personas con discapacidades auditivas o del habla pueden acceder al número telefónico indicado anteriormente mediante TTY llamando al Servicio Federal de Retransmisión de Información (Federal Information Relay Service), sin cargo, al 1-877-889-5627 (TTY/TDD).",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "Tabla de Abreviaturas",
+      "BLS, Oficina de Estadísticas Laborales de los Estados Unidos (U.S. Bureau of Labor Statistics)",
+      "CPI-U, Índice de Precios al Consumidor para Todos los Consumidores Urbanos (Consumer Price Index for All Urban Consumers)",
+      "DHS, Departamento de Seguridad Nacional",
+      "EAD, Documento de Autorización de Empleo (Employment Authorization Document)",
+      "FY, Año Fiscal",
+      "H.R. 1, One Big Beautiful Bill Act",
+      "INA, Ley de Inmigración y Nacionalidad (Immigration and Nationality Act)",
+      "TPS, Estatus de Protección Temporal (Temporary Protected Status)",
+      "USCIS, Servicios de Ciudadanía e Inmigración de los Estados Unidos",
+      "(página impresa 62541)",
+      "I. Antecedentes y Autoridad",
+      "H.R. 1, One Big Beautiful Bill Act",
+      "El 4 de julio de 2025, el Presidente promulgó la Ley H.R. 1, titulada One Big Beautiful Bill Act, Ley Pública 119-21, 139 Stat. 72 (H.R. 1), un paquete legislativo integral que modificó diversas leyes, incluyendo la Ley de Inmigración y Nacionalidad (INA, por sus siglas en inglés). Entre sus cambios, la H.R. 1 introdujo nuevas tarifas de inmigración como montos mínimos para el año fiscal 2025, autorizó a las agencias a ajustarlas mediante el proceso de reglamentación, y ordenó actualizaciones anuales basadas en el Índice de Precios al Consumidor para Todos los Consumidores Urbanos (CPI-U, por sus siglas en inglés).\nVéase\nH.R. 1, Título X, Subtítulo A, Parte I, Secciones 100001 a 100018. Las tarifas están codificadas en el Capítulo 16 del Título 8 del Código de los Estados Unidos (8 U.S.C.). El 22 de julio de 2025, el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés) publicó un\nAviso\nen el Registro Federal\nanunciando la implementación de dichas tarifas.\nVéase USCIS Immigration Fees Required by HR-1 Reconciliation Bill, 90 FR 34511 (22 de julio de 2025) (aviso). Posteriormente a la implementación inicial, USCIS emitió acciones regulatorias adicionales para operacionalizar los requisitos de la H.R. 1 y garantizar el cumplimiento de su mandato de ajuste inflacionario anual. A continuación, el 16 de octubre de 2025, el Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) anunció la implementación de la tarifa de libertad condicional (parole) establecida en la H.R. 1, de $1,000 para todo extranjero que sea admitido en libertad condicional en los Estados Unidos y que no cumpla con una excepción.\nImmigration Parole Fee Required by HR-1 Reconciliation Bill, 90 FR 48317 (16 de octubre de 2025) (aviso). Adicionalmente, el 21 de noviembre de 2025, USCIS publicó un\nAviso\nen el Registro Federal\ndetallando el ajuste inflacionario de las tarifas de inmigración de la H.R. 1 para el año fiscal 2026.\nVéase Inflation Adjustment to HR-1 Immigration Fees, 90 FR 52693 (21 de noviembre de 2025) (aviso). Este aviso proporcionó la metodología para calcular el ajuste anual, basada en el cambio porcentual del CPI-U entre julio de 2024 y julio de 2025, y especificó los nuevos montos de tarifas vigentes a partir del 1 de enero de 2026. El aviso también aclaró las reglas de redondeo exigidas por la H.R. 1, que requieren que las tarifas se redondeen hacia abajo al siguiente múltiplo más bajo de $10 o, para ciertas tarifas, al dólar más cercano.\nId.\nen 52694. El 29 de abril de 2026, el DHS emitió una regla final provisional que detalla aún más los procedimientos y requisitos para el cobro de las tarifas de la H.R. 1 y aclara aspectos operativos de la implementación de las tarifas, incluyendo las consecuencias por falta de pago.\nVéase USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill, 91 FR 22952 (29 de abril de 2026) (regla final provisional). La regla final provisional abordó actualizaciones procedimentales, incluyendo orientación para solicitantes y peticionarios, instrucciones de pago, y el tratamiento de exenciones y dispensas de tarifas. Después de la publicación de la regla final provisional, el DHS emitió una corrección para restablecer el texto que había sido eliminado inadvertidamente en el 8 CFR 208.7(a).\nVéase USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction, 91 FR 45637 (21 de julio de 2026) (modificación de corrección).",
+      "Estas acciones regulatorias establecen en conjunto el marco operativo para el cobro y ajuste de las tarifas de inmigración de la H.R. 1. Garantizan que el cuadro de tarifas permanezca actualizado, transparente y conforme a los requisitos legales, y proporcionan orientación clara a los solicitantes, peticionarios y demás partes interesadas sobre los procedimientos para presentar solicitudes de beneficios de inmigración y las tarifas asociadas requeridas por la H.R. 1.",
+      "La H.R. 1 exige que el DHS, a partir del año fiscal 2026 y de manera continua en cada año fiscal subsiguiente, ajuste por inflación las tarifas relacionadas con inmigración. La H.R. 1 establece que el DHS utilice el cambio porcentual del CPI-U correspondiente al mes de julio del año en curso en comparación con el año calendario anterior, y redondee cada tarifa al siguiente múltiplo más bajo de $10 o, en algunos casos, al dólar más cercano, según lo autorizado por la H.R. 1.\nVéase, por ejemplo, 8 U.S.C. 1802(c), 1803(a)(3), 1808(b)(2)(B).",
+      "II. Fundamento para el Ajuste",
+      "De conformidad con las disposiciones establecidas en la H.R. 1, la mayoría de las tarifas establecidas para diversas solicitudes relacionadas con inmigración y solicitudes de beneficios están sujetas a ajustes anuales por inflación. USCIS calculó estos ajustes utilizando el cambio porcentual en el CPI-U (Índice de Precios al Consumidor para Todos los Consumidores Urbanos) de julio de 2025 a julio de 2026, con la mayoría de las tarifas \"redondeadas al múltiplo de $10 inmediatamente inferior\" según lo exige la H.R. 1.\nVéase, por ejemplo, 8 U.S.C. 1802(c). La H.R. 1 especifica que la Tarifa Anual de Asilo se ajusta por inflación y se redondea hacia abajo al \"dólar\" más cercano.\nVéase\nU.S.C. 1808(b)(2)(B). Este enfoque se ajusta a los requisitos de la H.R. 1 de utilizar el cambio porcentual en el CPI-U desde el \"mes de julio anterior a la fecha en que dicho ajuste entre en vigor . . . para el mismo mes del año calendario anterior.\"\nÍd.\nEn julio de 2025, el CPI-U fue de 323.048 y en julio de 2026 fue de 333.918.[1]\nPor lo tanto, entre julio de 2025 y julio de 2026, el CPI-U aumentó aproximadamente un 3.36 por ciento.[2]\nCuando se aplica este incremento porcentual a las tarifas actuales (del AF 2026) de la H.R. 1 y se redondea al múltiplo de $10 inmediatamente inferior, algunas tarifas aumentan en $10. Algunas tarifas no cambian porque el monto ajustado por inflación es igual a la tarifa actual al redondear al múltiplo de $10 inmediatamente inferior. La Tabla 1 resume las tarifas de la H.R. 1 que USCIS recauda, incluyendo los cambios para el AF 2027.",
+      "Tabla 1: Ajustes por Inflación de la H.R. 1 para el AF 2027",
+      "Tipo de tarifa de inmigración\n| Tarifa actual\n| Cambio\ndel CPI-U\n(%)\n| Ajuste\npor inflación\n| Tarifa más\ninflación\n| Redondeo\nhacia abajo a\n$10\n| Redondeo hacia abajo\nal dólar\nmás cercano\n| Aumento\nde la tarifa\n| Tarifa del\nAF 2027",
+      "Tarifa de Asilo I-589 (tarifa inicial para extranjeros que presentan una solicitud de asilo)\n| $100\n| 3.36%\n| $3.36\n| $103.36\n| $100\n| N/A\n| $0\n| $100",
+      "Tarifa Anual de Solicitud de Asilo Pendiente I-589\n| 102\n| 3.36\n| 3.43\n| 105.43\n| N/A\n| 105\n| $3\n| 105",
+      "Documento de Autorización de Empleo (EAD) Inicial para Solicitante de Asilo I-765\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570",
+      "Renovación o Extensión del EAD de Solicitante de Asilo I-765\n| 275\n| N/A\n| N/A\n| N/A\n| N/A\n| N/A\n| La H.R. 1 no prevé ajuste 3\n| 275",
+      "EAD Inicial de Libertad Condicional I-765, Válido por 1 año\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570",
+      "Renovación o Extensión del EAD de Libertad Condicional I-765, Válido por 1 año\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280",
+      "(página impresa 62542)",
+      "EAD Inicial de Estatus de Protección Temporal (TPS) I-765, Válido por 1 año o la duración de la designación de TPS, lo que sea más corto\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| N/A\n| $10\n| 570",
+      "Renovación o Extensión del EAD de TPS I-765, Válido por 1 año\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280",
+      "EAD de Nueva Libertad Condicional I-765\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| N/A\n| $0\n| 280",
+      "Tarifa de TPS I-821\n| 510\n| 3.36\n| 17.16\n| 527.16\n| 520\n| N/A\n| $10\n| 520",
+      "Tarifa de Menor Inmigrante Especial (SIJ) I-360\n| 250\n| 3.36\n| 8.41\n| 258.41\n| 250\n| N/A\n| $0\n| 250",
+      "Tarifa de Libertad Condicional Migratoria I-131\n| 1,020\n| 3.36\n| 34.32\n| 1,054.32\n| 1,050\n| N/A\n| $30\n| 1,050",
+      "Tarifa de Inmigración I-94\n| 24\n| 3.36\n| 0.81\n| 24.81\n| N/A\n| 24\n| $0\n| 24",
+      "Para las tarifas descritas en este aviso, la ley establece claramente que las agencias deben redondear los ajustes por inflación hacia abajo al dólar más cercano o, en la mayoría de los casos, al \"múltiplo de $10 inmediatamente inferior.\" En consonancia con la ley y el ajuste inflacionario anterior,\nvéase 90 FR 52693, 52695, cuando corresponda, USCIS está redondeando hacia abajo al múltiplo de $10 inmediatamente inferior en lugar de redondear al múltiplo de $10 más cercano.",
+      "La metodología que utilizó USCIS garantiza que las tarifas se mantengan al ritmo de la inflación según lo promulgado por el Congreso en la H.R. 1.[4]",
+      "III. Fecha de Vigencia e Implementación",
+      "USCIS exigirá las tarifas de presentación para el AF 2027 establecidas en este aviso para cualquier solicitud de beneficio de inmigración con matasellos del 16 de octubre de 2026 o posterior. Debido a que el DHS considera que esto proporciona el tiempo adecuado necesario para que el DHS y USCIS emitan orientación y pongan en práctica el cambio en las tarifas requeridas, y para que el público adapte sus solicitudes de beneficios de inmigración que están en trámite a los cambios, las solicitudes con matasellos del 16 de octubre de 2026 o posterior que no incluyan la tarifa de presentación correcta serán rechazadas. El DHS ha determinado que la política requerida por este aviso es el camino más equitativo para recaudar las tarifas de la H.R. 1 para el AF 2027 de la manera más expedita posible para las tarifas administradas por USCIS. El DHS podrá codificar los ajustes anuales de tarifas cubiertos por este aviso en el 8 CFR parte 106 en una norma futura.",
+      "Markwayne Mullin,",
+      "Secretario, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "Notas al pie",
+      "1.\n \nVéase\nOficina de Estadísticas Laborales de los Estados Unidos (BLS, por sus siglas en inglés), Serie del Índice de Precios al Consumidor para Todos los Consumidores Urbanos (CPI-U) con Id CUUR0000SA0,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0\n(visitado por última vez el 12 de agosto de 2026).",
+      "Volver a la cita",
+      "2.\n El Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) calculó esto restando el CPI-U de julio de 2025 (323.048) del CPI-U de julio de 2026 (333.918), y luego dividiendo el resultado (10.87) entre el CPI-U de julio de 2025 (323.048). Cálculo: (333.918−323.048)/323.048 = 0.0336 × 100 = 3.36 por ciento.",
+      "Volver a la cita",
+      "3.\n La Ley Pública H.R. 1 no establece ajustes por inflación para la tarifa relacionada con la renovación o extensión de la autorización de empleo para los solicitantes de asilo.\nVéase 8 U.S.C. 1810.",
+      "Volver a la cita",
+      "4.\n \nVéase, por ejemplo, 8 U.S.C. 1802(c).",
+      "Volver a la cita",
+      "[FR Doc. 2026-20187 Presentado el 9-30-26; 8:45 a.m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-97-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含\n以下内容:",
+      "发布并签署文件的一个或多个机构",
+      "文件所修订、拟议修订或直接相关的\n《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "监管识别号(RIN),用于识别《联邦监管与放松监管行动统一议程》\n中列出的每项监管行动",
+      "详情请参阅\n《文件起草手册》。",
+      "美国国土安全部",
+      "[CIS 编号 2879-26]",
+      "机构:",
+      "美国公民及移民服务局,国土安全部。",
+      "行动:",
+      "通胀费用调整通知。",
+      "摘要:",
+      "美国公民及移民服务局(USCIS),国土安全部(DHS)下属机构,现宣布根据《一个美好大法案》(H.R. 1)对USCIS管理的移民相关费用进行2027财年(FY)的通胀调整。H.R. 1规定USCIS须每年调整H.R. 1费用。本通知概述了调整后的费用及其生效日期。",
+      "日期:",
+      "本通知中公布的费用自2026年10月16日起或之后生效。凡在2026年10月16日或之后邮戳标注且未附正确申请费的移民福利申请,将被拒收。",
+      "如需更多信息,请联系:",
+      "美国公民及移民服务局首席财务官办公室,国土安全部,地址:5900 Capital Gateway Drive, Camp Springs, MD 20746;电话240-721-3000(此号码非免费电话)。有听力或语言障碍人士可通过联邦信息中继服务免费电话1-877-889-5627(TTY/TDD)拨打文本电话(TTY)接入上述电话号码。",
+      "补充信息:",
+      "缩略语表",
+      "BLS,美国劳工统计局",
+      "CPI-U,城市消费者消费价格指数",
+      "DHS,国土安全部",
+      "EAD,就业许可文件",
+      "FY,财政年度",
+      "H.R. 1,《一个美好大法案》",
+      "INA,《移民与国籍法》",
+      "TPS,临时保护身份",
+      "USCIS,美国公民及移民服务局",
+      "(印刷页第62541页)",
+      "一、背景与授权",
+      "H.R. 1,《一个美好大法案》",
+      "2025年7月4日,总统签署了H.R. 1号法案,即《大而美法案》(One Big Beautiful Bill Act),该法案为《公法119-21号》,139 Stat. 72(H.R. 1),是一项综合立法方案,修订了包括《移民与国籍法》(INA)在内的多部法律。在其各项变更中,H.R. 1引入了新的移民费用,作为2025财政年度的最低金额,授权各机构通过规则制定程序对其进行调整,并要求根据城市消费者消费价格指数(CPI-U)进行年度更新。\n参见H.R. 1,第十编,A分编,第一部分,第100001条至第100018条。相关费用编入《美国法典》第8编第16章。2025年7月22日,美国公民及移民服务局(USCIS)发布了一份\n联邦公报\n通知,宣布实施这些费用。\n参见《HR-1和解法案要求的USCIS移民费用》,90 FR 34511(2025年7月22日)(通知)。在初步实施之后,USCIS发布了额外的监管行动,以落实H.R. 1的各项要求,并确保遵守其年度通货膨胀调整要求。随后,2025年10月16日,国土安全部(DHS)宣布实施H.R. 1所设立的假释费,即对任何不符合豁免条件而被假释进入美国的外国人收取1,000美元。\n《HR-1和解法案要求的移民假释费》,90 FR 48317(2025年10月16日)(通知)。此外,2025年11月21日,USCIS发布了一份\n联邦公报\n通知,详细说明了2026财政年度H.R. 1移民费用的通货膨胀调整。\n参见《HR-1移民费用的通货膨胀调整》,90 FR 52693(2025年11月21日)(通知)。该通知提供了计算年度调整的方法,该方法基于2024年7月至2025年7月CPI-U的百分比变化,并规定了自2026年1月1日起生效的新费用金额。该通知还澄清了H.R. 1所要求的四舍五入规则,要求费用向下舍入至最接近的10美元倍数,或者对于某些费用,向下舍入至最接近的美元。\n同上,第52694页。2026年4月29日,DHS发布了一项临时最终规则,进一步详细说明了H.R. 1费用征收的程序和要求,并澄清了费用实施的操作方面,包括未缴费的后果。\n参见《H.R.1和解法案要求的USCIS移民费用及相关程序》,91 FR 22952(2026年4月29日)(临时最终规则)。该临时最终规则涉及程序更新,包括对申请人和请愿人的指导、付款说明以及费用减免和豁免的处理。临时最终规则发布后,DHS发布了一项更正,恢复了在8 CFR 208.7(a)中被无意删除的文本。\n参见《H.R.1和解法案要求的USCIS移民费用及相关程序;更正》,91 FR 45637(2026年7月21日)(更正修正案)。",
+      "这些监管行动共同建立了征收和调整H.R. 1移民费用的操作框架。它们确保费用表保持最新、透明,并与法定要求保持一致,并就提交移民福利申请及H.R. 1所要求的相关费用的程序,向申请人、请愿人和其他利益相关方提供明确指导。",
+      "H.R. 1要求DHS自2026财政年度起,并在其后每个财政年度,根据通货膨胀调整移民相关费用。H.R. 1规定,DHS应使用当年7月CPI-U与上一历年7月CPI-U相比的百分比变化,并将每项费用向下舍入至最接近的10美元倍数,或在某些情况下,如H.R. 1所授权的那样,向下舍入至最接近的美元。\n参见,例如,8 U.S.C. 1802(c)、1803(a)(3)、1808(b)(2)(B)。",
+      "二、调整依据",
+      "根据H.R. 1中规定的条款,为各类移民相关申请和福利请求设定的大多数费用均须进行年度通胀调整。美国公民及移民服务局(USCIS)依据2025年7月至2026年7月期间城镇消费者物价指数(CPI-U)的百分比变化计算了这些调整幅度,并按照H.R. 1的要求,将大多数费用“向下舍入至最接近的10美元整数倍”。\n参见,例如,《美国法典》第8编第1802条(c)款。H.R. 1规定,年度庇护费应根据通胀进行调整,并向下舍入至最接近的“美元”整数。\n参见\n《美国法典》第1808条(b)款(2)项(B)目。该做法符合H.R. 1的要求,即使用“该调整生效之日前一个7月”与“上一日历年同月”相比的CPI-U百分比变化。\n同上。\n2025年7月,CPI-U为323.048,2026年7月为333.918。[1]\n因此,在2025年7月至2026年7月期间,CPI-U上涨了约3.36%。[2]\n将该百分比增幅应用于当前(2026财年)H.R. 1费用,并向下舍入至最接近的10美元整数倍后,部分费用上涨10美元。部分费用保持不变,因为经通胀调整后的金额在向下舍入至最接近的10美元整数倍时与当前费用相同。表1汇总了USCIS收取的H.R. 1费用,包括2027财年的变化情况。",
+      "表1, , 2027财年H.R. 1通胀调整",
+      "移民费用类型\n| 当前费用\n| CPI-U\n变化\n(%)\n| 通胀\n调整额\n| 费用加\n通胀调整\n| 向下舍入\n至10美元\n整数倍\n| 向下舍入\n至最接近\n的美元\n| 费用\n增幅\n| 2027财年\n费用",
+      "I-589庇护申请费(外国人提交庇护申请的初始费用)\n| 100美元\n| 3.36%\n| 3.36美元\n| 103.36美元\n| 100美元\n| 不适用\n| 0美元\n| 100美元",
+      "I-589年度待审庇护申请费\n| 102\n| 3.36\n| 3.43\n| 105.43\n| 不适用\n| 105\n| 3美元\n| 105",
+      "I-765初始庇护申请人就业许可文件(EAD)\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 不适用\n| 10美元\n| 570",
+      "I-765庇护申请人EAD续签或延期\n| 275\n| 不适用\n| 不适用\n| 不适用\n| 不适用\n| 不适用\n| H.R. 1未规定调整3\n| 275",
+      "I-765初始假释EAD,有效期1年\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 不适用\n| 10美元\n| 570",
+      "I-765假释EAD续签或延期,有效期1年\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 不适用\n| 0美元\n| 280",
+      "(印刷页第62542页)",
+      "I-765初始临时保护身份(TPS)EAD,有效期1年或TPS指定期限,以较短者为准\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 不适用\n| 10美元\n| 570",
+      "I-765 TPS EAD续签或延期,有效期1年\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 不适用\n| 0美元\n| 280",
+      "I-765再假释EAD\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 不适用\n| 0美元\n| 280",
+      "I-821 TPS费用\n| 510\n| 3.36\n| 17.16\n| 527.16\n| 520\n| 不适用\n| 10美元\n| 520",
+      "I-360特殊移民青少年(SIJ)费用\n| 250\n| 3.36\n| 8.41\n| 258.41\n| 250\n| 不适用\n| 0美元\n| 250",
+      "I-131移民假释费用\n| 1,020\n| 3.36\n| 34.32\n| 1,054.32\n| 1,050\n| 不适用\n| 30美元\n| 1,050",
+      "I-94移民费用\n| 24\n| 3.36\n| 0.81\n| 24.81\n| 不适用\n| 24\n| 0美元\n| 24",
+      "就本通知所列费用而言,该法规明确规定,各机构应将通胀调整向下舍入至最接近的美元,或在大多数情况下向下舍入至“最接近的10美元整数倍”。与该法规及先前的通胀调整保持一致,\n参见90 FR 52693, 52695,在适用的情况下,USCIS将向下舍入至最接近的10美元整数倍,而非四舍五入至最接近的10美元整数倍。",
+      "USCIS所采用的方法确保费用与国会在H.R. 1中规定的通胀保持同步。[4]",
+      "三、生效日期与实施",
+      "对于2026年10月16日或之后邮戳的任何移民福利请求,USCIS将要求按本通知中规定的2027财年申请费缴费。由于美国国土安全部(DHS)认为,这为DHS和USCIS就费用变更出台指导意见并实施该变更,以及为公众调整正在办理中的移民福利请求以适应相关变化,提供了充足的时间,因此,凡在2026年10月16日或之后邮戳且未缴纳正确申请费的请求将被拒收。DHS已确定,本通知所要求的政策是在USCIS管理的费用范围内,以尽可能快捷且公平的方式为2027财年征收H.R. 1费用的最佳途径。DHS日后可能通过规则制定程序,将本通知所涉及的年度费用调整纳入《联邦法规汇编》第8编第106部分。",
+      "马克韦恩·马林,",
+      "美国国土安全部部长。",
+      "脚注",
+      "1.\n \n参见\n美国劳工统计局(BLS),CPI-U系列编号CUUR0000SA0,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0\n(最后访问日期为2026年8月12日)。",
+      "返回引文",
+      "2.\n 美国国土安全部(DHS)通过以下方式计算得出此数据:用2026年7月CPI-U(333.918)减去2025年7月CPI-U(323.048),然后将所得结果(10.87)除以2025年7月CPI-U(323.048)。计算公式:(333.918−323.048)/323.048 = 0.0336 × 100 = 3.36%。",
+      "返回引文",
+      "3.\n H.R. 1法案未对庇护申请人就业授权续期或延期相关费用规定通货膨胀调整。\n参见8 U.S.C. 1810。",
+      "返回引文",
+      "4.\n \n例如参见,8 U.S.C. 1802(c)。",
+      "返回引文",
+      "[FR Doc. 2026-20187 Filed 9-30-26; 8:45 am]",
+      "BILLING CODE 9111-97-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含むことがある。",
+      "文書を発出し署名した一又は複数の機関",
+      "当該文書が改正し、改正を提案し、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の整理番号又は機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブック(Document Drafting Handbook)を参照されたい。",
+      "国土安全保障省",
+      "[CIS番号 2879-26]",
+      "機関:",
+      "米国市民権移民局、国土安全保障省",
+      "措置:",
+      "インフレ調整による手数料改定の通知",
+      "概要:",
+      "国土安全保障省(DHS)の一部局である米国市民権移民局(USCIS)は、ワン・ビッグ・ビューティフル・ビル法(H.R. 1)に基づきUSCISが管理する移民関連手数料について、2027会計年度(FY)のインフレ調整を公表する。H.R. 1は、USCISがH.R. 1手数料を毎年調整することを義務付けている。本通知は、調整後の手数料及びその発効日を示すものである。",
+      "日付:",
+      "本通知で公表される手数料は、2026年10月16日以降に発効する。2026年10月16日以降の消印がある移民上の利益の申請で、適正な申請手数料が同封されていないものは却下される。",
+      "問い合わせ先:",
+      "米国市民権移民局 最高財務責任者室、国土安全保障省、5900 Capital Gateway Drive, Camp Springs, MD 20746、電話番号240-721-3000(フリーダイヤルではない)。聴覚又は言語に障害のある方は、連邦情報リレーサービスのフリーダイヤル1-877-889-5627(TTY/TDD)を通じて、上記の電話番号にTTYでアクセスすることができる。",
+      "補足情報:",
+      "略語表",
+      "BLS - 米国労働統計局",
+      "CPI-U - 全都市消費者向け消費者物価指数",
+      "DHS - 国土安全保障省",
+      "EAD - 就労許可証",
+      "FY - 会計年度",
+      "H.R. 1 - ワン・ビッグ・ビューティフル・ビル法",
+      "INA - 移民国籍法",
+      "TPS - 暫定保護status(TPS)",
+      "USCIS - 米国市民権移民局",
+      "(印刷ページ 62541)",
+      "I. 背景及び権限",
+      "H.R. 1 - ワン・ビッグ・ビューティフル・ビル法",
+      "2025年7月4日、大統領は H.R. 1「One Big Beautiful Bill Act」、公法119-21号、139 Stat. 72(H.R. 1)に署名し、これを法律として成立させた。これは移民国籍法(INA)を含む各種法律を改正する包括的な立法パッケージである。H.R. 1はその変更の中で、2025会計年度の最低額として新たな移民関連手数料を導入し、規則制定を通じて各省庁がこれを調整することを認め、消費者物価指数(都市消費者向け総合指数、CPI-U)に基づく年次更新を義務付けた。\nH.R. 1、第X編、サブタイトルA、パートI、第100001条から第100018条を参照のこと。これらの手数料は8 U.S.C. 第16章に法典化されている。2025年7月22日、米国市民権移民局(USCIS)は連邦官報告示を公表し、これらの手数料の実施を発表した。\nUSCIS Immigration Fees Required by HR-1 Reconciliation Bill, 90 FR 34511(2025年7月22日)(告示)を参照のこと。初回の実施の後、USCISはH.R. 1の要件を運用化し、その年次インフレ調整義務への適合を確保するため、追加の規制措置を講じた。次に、2025年10月16日、国土安全保障省(DHS)は、H.R. 1において定められた、適用除外に該当しない仮放免により米国に入国する外国人に対する1,000ドルの仮放免手数料の実施を発表した。\nImmigration Parole Fee Required by HR-1 Reconciliation Bill, 90 FR 48317(2025年10月16日)(告示)。さらに、2025年11月21日、USCISは、2026会計年度のH.R. 1移民関連手数料へのインフレ調整の詳細を定めた連邦官報告示を公表した。\nInflation Adjustment to HR-1 Immigration Fees, 90 FR 52693(2025年11月21日)(告示)を参照のこと。本告示は、2024年7月から2025年7月までのCPI-Uの変動率に基づく年次調整の算定方法を示し、2026年1月1日に発効する新たな手数料額を specifiedした。また、本告示は、H.R. 1が義務付ける端数処理規則、すなわち手数料を10ドルの倍数のうち直近の低い額に切り下げること、あるいは特定の手数料については最も近い1ドル単位に切り下げることを明確にした。\n同書、52694頁。2026年4月29日、DHSはH.R. 1手数料の徴収に関する手続及び要件をさらに詳細に定め、手数料不払いの効果を含む手数料実施の運用上の側面を明確化する暫定最終規則を発出した。\nUSCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill, 91 FR 22952(2026年4月29日)(暫定最終規則)を参照のこと。この暫定最終規則は、申請人及び請願人向けの指針、支払手続、並びに手数料免除及び適用除外の取扱いを含む手続上の更新事項を扱った。暫定最終規則の公表後、DHSは8 CFR 208.7(a)において誤って削除された文言を復元する訂正を発出した。\nUSCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction, 91 FR 45637(2026年7月21日)(訂正改正)を参照のこと。",
+      "これらの規制措置は、総体として、H.R. 1移民関連手数料の徴収及び調整に関する運用上の枠組みを確立するものである。これらの措置は、手数料体系が最新かつ透明であり、法定要件と整合していることを確保するとともに、H.R. 1により義務付けられた移民上の便益請求及び関連手数料の提出手続について、申請人、請願人及びその他の関係者に対し明確な指針を提供するものである。",
+      "H.R. 1は、DHSに対し、2026会計年度に開始し、以後の各会計年度において継続的に、移民関連手数料をインフレーションに応じて調整することを義務付けている。H.R. 1は、DHSが当該年の7月のCPI-Uの前暦年比の変動率を用いること、及び各手数料を10ドルの倍数のうち直近の低い額に、あるいは一部の場合にはH.R. 1により認められるとおり最も近い1ドル単位に切り下げることを定めている。\n例えば、8 U.S.C. 1802(c)、1803(a)(3)、1808(b)(2)(B)を参照のこと。",
+      "II. 調整の根拠",
+      "H.R. 1に規定された規定に従い、各種移民関連申請及び給付申請に関して設定された手数料の大半は、年次インフレ調整の対象となる。米国市民権・移民局(USCIS)は、2025年7月から2026年7月までの都市消費者物価指数(CPI-U)の変動率を用いてこれらの調整額を算出し、H.R. 1の要求に従い、大半の手数料を「10ドル単位で直近の低い倍数に切り下げる」こととした。\n例えば、8 U.S.C. 1802(c)を参照のこと。H.R. 1は、年次庇護手数料についてはインフレ調整を行った上で、最も近い「ドル」単位に切り下げることを規定している。\nU.S.C. 1808(b)(2)(B)を参照のこと。この方法は、「当該調整が発効する日の前の7月」から「前暦年の同月」までのCPI-Uの変動率を用いるとするH.R. 1の要求に合致するものである。\n同上。\n2025年7月のCPI-Uは323.048であり、2026年7月には333.918であった。[1]\nしたがって、2025年7月から2026年7月までの間に、CPI-Uは約3.36パーセント上昇した。[2]\nこの上昇率を現行(2026会計年度)のH.R. 1手数料に適用し、10ドル単位で直近の低い倍数に切り下げると、一部の手数料は10ドル増加する。一部の手数料については、インフレ調整後の金額が10ドル単位で直近の低い倍数に切り下げた場合に現行の手数料と等しくなるため、変更はない。表1は、USCISが徴収するH.R. 1手数料について、2027会計年度における変更を含めて要約したものである。",
+      "表1 2027会計年度に向けたH.R. 1インフレ調整",
+      "移民手数料の種類\n| 現行手数料\n| CPI-U\n変動率\n(%)\n| インフレ\n調整額\n| 手数料に\nインフレ調整額を\n加算した額\n| 10ドル単位に\n切り下げ\n| 最も近い\nドル単位に\n切り下げ\n| 手数料\n増加額\n| 2027\n会計年度\n手数料",
+      "I-589庇護手数料(外国人が庇護申請を行う際の初回手数料)\n| 100ドル\n| 3.36%\n| 3.36ドル\n| 103.36ドル\n| 100ドル\n| 該当なし\n| 0ドル\n| 100ドル",
+      "I-589庇護申請係属年次手数料\n| 102\n| 3.36\n| 3.43\n| 105.43\n| 該当なし\n| 105\n| 3ドル\n| 105",
+      "I-765初回庇護申請者就労許可証(EAD)\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 該当なし\n| 10ドル\n| 570",
+      "I-765庇護申請者EADの更新又は延長\n| 275\n| 該当なし\n| 該当なし\n| 該当なし\n| 該当なし\n| 該当なし\n| H.R. 1は調整を規定していない3\n| 275",
+      "I-765初回仮放免EAD、有効期間1年\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 該当なし\n| 10ドル\n| 570",
+      "I-765仮放免EADの更新又は延長、有効期間1年\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 該当なし\n| 0ドル\n| 280",
+      "(印刷ページ62542)",
+      "I-765初回一時保護身分(TPS)EAD、有効期間1年又はTPS指定期間のいずれか短い方\n| 560\n| 3.36\n| 18.84\n| 578.84\n| 570\n| 該当なし\n| 10ドル\n| 570",
+      "I-765 TPS EADの更新又は延長、有効期間1年\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 該当なし\n| 0ドル\n| 280",
+      "I-765再仮放免EAD\n| 280\n| 3.36\n| 9.42\n| 289.42\n| 280\n| 該当なし\n| 0ドル\n| 280",
+      "I-821 TPS手数料\n| 510\n| 3.36\n| 17.16\n| 527.16\n| 520\n| 該当なし\n| 10ドル\n| 520",
+      "I-360特別移民少年(SIJ)手数料\n| 250\n| 3.36\n| 8.41\n| 258.41\n| 250\n| 該当なし\n| 0ドル\n| 250",
+      "I-131移民仮放免手数料\n| 1,020\n| 3.36\n| 34.32\n| 1,054.32\n| 1,050\n| 該当なし\n| 30ドル\n| 1,050",
+      "I-94移民手数料\n| 24\n| 3.36\n| 0.81\n| 24.81\n| 該当なし\n| 24\n| 0ドル\n| 24",
+      "本通知に記載された手数料については、法律上、各機関はインフレ調整額を最も近いドル単位に、又は大半の場合には「10ドル単位で直近の低い倍数」に切り下げるべきことが明確に規定されている。当該法律及び前回のインフレ調整と整合させるため、\n90 FR 52693, 52695を参照のこと、該当する場合、USCISは最も近い10ドル単位に丸めるのではなく、10ドル単位で直近の低い倍数に切り下げている。",
+      "USCISが用いた方法論は、議会がH.R. 1により制定した手数料がインフレに見合うものとなることを確保するものである。[4]",
+      "III. 発効日及び実施",
+      "USCISは、本通知において定められる2027会計年度の申請手数料を、2026年10月16日以降の消印が押されたあらゆる移民給付申請に対して適用する。国土安全保障省(DHS)は、これにより、DHS及びUSCISが必要な手数料の変更に関するガイダンスを発行し、これを実施に移すために十分な時間が確保され、また、一般市民が処理中の移民給付申請を当該変更に適応させるための十分な時間が確保されると考えているため、2026年10月16日以降の消印が押された申請であって、適正な申請手数料が添付されていないものは却下される。DHSは、本通知により義務付けられる政策が、USCISが管理する手数料について、2027会計年度のH.R. 1手数料をできる限り迅速に、かつ最も公平な形で徴収するための方策であると判断した。DHSは、本通知の対象となる年次手数料調整について、将来の規則において8 CFR part 106に成文化する場合がある。",
+      "マークウェイン・マリン",
+      "国土安全保障省長官",
+      "脚注",
+      "1.\n\n米国労働統計局(BLS)、CPI-U系列ID CUUR0000SA0を参照のこと、\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0\n(2026年8月12日最終閲覧)。",
+      "引用元に戻る",
+      "2 .\nDHSは、2026年7月のCPI-U(333.918)から2025年7月のCPI-U(323.048)を差し引き、その結果(10.87)を2025年7月のCPI-U(323.048)で除することによりこれを算出した。計算式:(333.918-323.048)/323.048 = 0.0336 × 100 = 3.36パーセント。",
+      "引用元に戻る",
+      "3 .\nH.R. 1は、庇護申請者の就労許可の更新又は延長に関する手数料についてインフレ調整を規定していない。\n8 U.S.C. 1810を参照のこと。",
+      "引用元に戻る",
+      "4.\n\n例えば、8 U.S.C. 1802(c)を参照のこと。",
+      "引用元に戻る",
+      "[FR Doc. 2026-20187 Filed 9-30-26; 8:45 am]",
+      "BILLING CODE 9111-97-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

@@ -95,5 +95,231 @@
     "students",
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "li",
+        "x": "Home"
+      },
+      {
+        "t": "li",
+        "x": "News"
+      },
+      {
+        "t": "li",
+        "x": "Press Releases"
+      },
+      {
+        "t": "li",
+        "x": "DHS Proposes Fees for Foreign Student Work Program to Protect American Jobs"
+      },
+      {
+        "t": "p",
+        "x": "Release Date: October 7, 2026"
+      },
+      {
+        "t": "p",
+        "x": "WASHINGTON — The United States Department of Homeland Security (DHS) announced a proposed rule that, if finalized, would implement new fees for F-1 nonimmigrant students seeking to participate in Optional Practical Training (OPT), a temporary employment authorization connected to a student’s field of study, in order to reduce the flow of cheap labor into the United States and make it easier for American citizens to compete in the job market."
+      },
+      {
+        "t": "p",
+        "x": "The proposed rule would establish a $70,000 fee per F-1 nonimmigrant student for initial OPT and a $30,000 fee per F-1 nonimmigrant student for any subsequent OPT. DHS is proposing the fees to combat fraud and abuse, strengthen the integrity of the immigration system, and protect U.S. workers."
+      },
+      {
+        "t": "p",
+        "x": "“Optional Practical Training was never meant to be a back door into the American workforce, a subsidy for cheap labor, or a prize for those who game the system,” said a DHS Spokesperson. “DHS is upskilling OPT to require foreign students to justify their worth to employers. American workers should not have to compete against a program that has been turned into a pipeline for cheap foreign labor.”"
+      },
+      {
+        "t": "p",
+        "x": "Existing federal regulations allow eligible F-1 nonimmigrant students to engage in OPT if the OPT is directly related to the student’s major area of study. To participate, F-1 nonimmigrant students must receive a recommendation from their designated school official (DSO) and apply for employment authorization with U.S. Citizenship and Immigration Services (USCIS)."
+      },
+      {
+        "t": "p",
+        "x": "F-1 nonimmigrant students may apply for OPT during their academic program (pre-completion OPT) or after completing their program (post-completion OPT). Eligible F-1 nonimmigrant students may receive up to 12 months of OPT at each education level. Those who earn degrees in science, technology, engineering, or mathematics fields may be eligible for an additional 24-month extension."
+      },
+      {
+        "t": "p",
+        "x": "DHS is proposing the rule in response to fraud and abuse identified by the Student and Exchange Visitor Program (SEVP). As more F-1 nonimmigrant students have participated in OPT, SEVP has encountered schools, designated school officials, employers, and F-1 nonimmigrant students engaged in schemes to exploit current regulations, including problematic worksites and “pay-to-stay” visa schemes."
+      },
+      {
+        "t": "p",
+        "x": "DHS believes the proposed fees would encourage schools to exercise greater oversight and selectivity when recommending F-1 nonimmigrant students for OPT, helping reduce fraud and strengthen program integrity."
+      },
+      {
+        "t": "p",
+        "x": "The proposed rule also aligns with recent executive orders and other presidential directives emphasizing the protection of U.S. workers and the integrity of employment-based immigration programs. The increased fees would support program oversight and help ensure schools, F-1 nonimmigrant students, and employers use OPT consistent with its intended purpose and applicable regulatory requirements."
+      },
+      {
+        "t": "p",
+        "x": "Under the proposed rule, SEVP-certified schools must pay the fee before designated school officials recommend F-1 nonimmigrant students for OPT in the Student and Exchange Visitor Information System (SEVIS) and before F-1 nonimmigrant students apply for employment authorization with USCIS. USCIS would not grant employment authorization to F-1 nonimmigrant students if schools have not paid the required fee."
+      },
+      {
+        "t": "p",
+        "x": "The proposed fee would not be tied to a specific employer. Instead, it would apply when schools recommend an F-1 nonimmigrant student for any type of OPT. Collected fees would be deposited in the Treasury of the United States."
+      },
+      {
+        "t": "p",
+        "x": "DHS will accept public comments on the proposed rule from October 8 through November 9. Additionally, the Paperwork Reduction Act section of the rule will have a 60-day public comment period. Members of the public should refer to the Federal Register notice for instructions on how to submit comments for DHS consideration. After the public comment period closes, DHS will review all properly submitted comments and materials and may revise the rule based on public feedback."
+      },
+      {
+        "t": "p",
+        "x": "SEVP will provide additional communications about the proposed rule through its communications channels, including SEVIS Broadcast Messages, Study in the States, and field representatives."
+      },
+      {
+        "t": "p",
+        "x": "For more information, refer to the Notice of Proposed Rulemaking (NPRM) in the Federal Register, the Practical Training page on ICE.gov/SEVP, and the Training Opportunities in the United States page on Study in the States."
+      },
+      {
+        "t": "p",
+        "x": "# # #"
+      },
+      {
+        "t": "li",
+        "x": "Citizenship and Immigration Services"
+      },
+      {
+        "t": "li",
+        "x": "Homeland Security Enterprise"
+      },
+      {
+        "t": "h",
+        "x": "Keywords"
+      },
+      {
+        "t": "li",
+        "x": "Federal Register Notice"
+      },
+      {
+        "t": "li",
+        "x": "Student"
+      },
+      {
+        "t": "li",
+        "x": "U.S. Citizenship and Immigration Services (USCIS)"
+      },
+      {
+        "t": "p",
+        "x": "Last Updated: 10/07/2026"
+      }
+    ],
+    "fetched": "2026-10-12T16:51Z",
+    "from": "page",
+    "chars": 4711
+  },
+  "full": {
+    "ko": [
+      "홈",
+      "뉴스",
+      "보도자료",
+      "국토안보부, 미국인 일자리 보호를 위해 외국인 학생 취업 프로그램에 수수료 부과 제안",
+      "발표일: 2026년 10월 7일",
+      "워싱턴, 미국 국토안보부(DHS)는 저임금 노동력의 미국 유입을 줄이고 미국 시민이 취업 시장에서 더 쉽게 경쟁할 수 있도록 하기 위하여, 학생의 전공 분야와 관련된 임시 취업 허가인 선택적 실무연수(Optional Practical Training, OPT) 프로그램에 참여하고자 하는 F-1 비이민 학생에게 새로운 수수료를 부과하는 내용의 규칙 제정안을 발표하였습니다. 이 규칙은 확정될 경우 시행됩니다.",
+      "이 규칙 제정안은 최초 OPT에 대하여 F-1 비이민 학생 1인당 70,000달러의 수수료를, 이후의 모든 OPT에 대하여 F-1 비이민 학생 1인당 30,000달러의 수수료를 부과하는 내용을 규정하고 있습니다. 국토안보부는 사기 및 남용을 방지하고, 이민제도의 건전성을 강화하며, 미국 근로자를 보호하기 위하여 이러한 수수료를 제안하고 있습니다.",
+      "국토안보부 대변인은 \"선택적 실무연수는 미국 노동시장으로 들어오는 뒷문도, 저임금 노동력에 대한 보조금도, 제도를 악용하는 자들에 대한 보상도 되어서는 안 됩니다\"라고 밝혔습니다. \"국토안보부는 외국인 학생들이 고용주에게 자신의 가치를 입증하도록 요구함으로써 OPT의 수준을 높이고 있습니다. 미국 근로자는 저임금 외국인 노동력의 통로로 변질된 프로그램과 경쟁해서는 안 됩니다.\"",
+      "현행 연방 규정에 따르면, 적격 F-1 비이민 학생은 OPT가 해당 학생의 전공 분야와 직접적으로 관련이 있는 경우 OPT에 참여할 수 있습니다. 참여하기 위해서는 F-1 비이민 학생이 지정 학교 담당자(DSO)의 추천을 받고 미국 시민권 및 이민 서비스국(USCIS)에 취업 허가를 신청하여야 합니다.",
+      "F-1 비이민 학생은 학업 과정 중(수료 전 OPT) 또는 과정을 마친 후(수료 후 OPT)에 OPT를 신청할 수 있습니다. 적격 F-1 비이민 학생은 각 교육 단계별로 최대 12개월의 OPT를 받을 수 있습니다. 과학, 기술, 공학 또는 수학(STEM) 분야에서 학위를 취득한 학생은 추가로 24개월 연장을 받을 자격이 있을 수 있습니다.",
+      "국토안보부는 학생 및 교환방문자 프로그램(SEVP)이 확인한 사기 및 남용에 대응하여 이 규칙을 제안하고 있습니다. OPT에 참여하는 F-1 비이민 학생이 증가함에 따라, SEVP는 학교, 지정 학교 담당자, 고용주 및 F-1 비이민 학생이 현행 규정을 악용하는 수법에 연루된 사례를 확인하였으며, 여기에는 문제가 있는 근무지와 \"체류비 지불\" 비자 편법이 포함됩니다.",
+      "국토안보부는 제안된 수수료가 학교들로 하여금 F-1 비이민 학생을 OPT에 추천할 때 더 큰 감독과 선별을 하도록 유도하여 사기를 줄이고 프로그램의 건전성을 강화하는 데 도움이 될 것으로 보고 있습니다.",
+      "이 규칙 제정안은 또한 미국 근로자 보호와 고용 기반 이민 프로그램의 건전성을 강조하는 최근의 행정명령 및 기타 대통령 지시와도 부합합니다. 인상된 수수료는 프로그램 감독을 지원하고 학교, F-1 비이민 학생 및 고용주가 OPT를 본래의 목적과 해당 규제 요건에 맞게 사용하도록 보장하는 데 도움이 될 것입니다.",
+      "이 규칙 제정안에 따르면, SEVP 인증 학교는 지정 학교 담당자가 학생 및 교환방문자 정보시스템(SEVIS)에서 F-1 비이민 학생을 OPT 대상으로 추천하기 전과 F-1 비이민 학생이 USCIS에 취업 허가를 신청하기 전에 수수료를 납부하여야 합니다. 학교가 요구된 수수료를 납부하지 않은 경우, USCIS는 F-1 비이민 학생에게 취업 허가를 부여하지 않습니다.",
+      "제안된 수수료는 특정 고용주와 연계되지 않습니다. 대신, 학교가 F-1 비이민 학생을 어떠한 유형의 OPT에 대해서든 추천할 때 적용됩니다. 징수된 수수료는 미국 재무부에 예치됩니다.",
+      "국토안보부는 10월 8일부터 11월 9일까지 이 규칙 제정안에 대한 공공 의견을 접수합니다. 또한, 이 규칙의 문서업무 감축법(Paperwork Reduction Act) 관련 조항에 대해서는 60일간의 공공 의견수렴 기간이 별도로 마련됩니다. 일반인은 국토안보부에 제출할 의견 제출 방법에 관한 안내를 위해 연방관보(Federal Register) 공고를 참조하여야 합니다. 공공 의견수렴 기간이 종료된 후, 국토안보부는 적절하게 제출된 모든 의견과 자료를 검토하며, 공공의 의견을 반영하여 규칙을 수정할 수 있습니다.",
+      "SEVP는 SEVIS 방송 메시지, Study in the States, 그리고 현장 담당자 등 자체 소통 채널을 통하여 이 규칙 제정안에 관한 추가 안내를 제공할 예정입니다.",
+      "자세한 내용은 연방관보(Federal Register)에 게재된 규칙제정안 사전통지(Notice of Proposed Rulemaking, NPRM), ICE.gov/SEVP의 실무연수(Practical Training) 페이지, 그리고 Study in the States의 미국 내 연수 기회(Training Opportunities in the United States) 페이지를 참고하시기 바랍니다.",
+      "# # #",
+      "시민권 및 이민서비스국",
+      "국토안보 전체 기관",
+      "키워드",
+      "연방관보 공고",
+      "학생",
+      "미국 시민권 및 이민서비스국(U.S. Citizenship and Immigration Services, USCIS)",
+      "최종 업데이트: 2026년 10월 7일"
+    ],
+    "es": [
+      "Inicio",
+      "Noticias",
+      "Comunicados de prensa",
+      "El DHS propone tarifas para el programa de trabajo de estudiantes extranjeros a fin de proteger los empleos estadounidenses",
+      "Fecha de publicación: 7 de octubre de 2026",
+      "WASHINGTON ,  El Departamento de Seguridad Nacional de los Estados Unidos (DHS, por sus siglas en inglés) anunció una norma propuesta que, de finalizarse, implementaría nuevas tarifas para los estudiantes no inmigrantes F-1 que buscan participar en la Capacitación Práctica Opcional (OPT, por sus siglas en inglés), una autorización de empleo temporal relacionada con el campo de estudio del estudiante, con el fin de reducir el flujo de mano de obra barata hacia los Estados Unidos y facilitar que los ciudadanos estadounidenses compitan en el mercado laboral.",
+      "La norma propuesta establecería una tarifa de $70,000 por estudiante no inmigrante F-1 para la OPT inicial y una tarifa de $30,000 por estudiante no inmigrante F-1 para cualquier OPT subsiguiente. El DHS está proponiendo las tarifas para combatir el fraude y el abuso, fortalecer la integridad del sistema migratorio y proteger a los trabajadores estadounidenses.",
+      "“La Capacitación Práctica Opcional nunca tuvo la intención de ser una puerta trasera hacia la fuerza laboral estadounidense, un subsidio para la mano de obra barata, o un premio para quienes manipulan el sistema”, declaró un portavoz del DHS. “El DHS está elevando el nivel de exigencia de la OPT para requerir que los estudiantes extranjeros justifiquen su valor ante los empleadores. Los trabajadores estadounidenses no deberían tener que competir contra un programa que se ha convertido en un conducto para la mano de obra extranjera barata.”",
+      "Las regulaciones federales vigentes permiten que los estudiantes no inmigrantes F-1 elegibles participen en la OPT si esta está directamente relacionada con el área principal de estudio del estudiante. Para participar, los estudiantes no inmigrantes F-1 deben recibir una recomendación de su funcionario escolar designado (DSO, por sus siglas en inglés) y solicitar autorización de empleo ante el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés).",
+      "Los estudiantes no inmigrantes F-1 pueden solicitar la OPT durante su programa académico (OPT previa a la finalización) o después de completar su programa (OPT posterior a la finalización). Los estudiantes no inmigrantes F-1 elegibles pueden recibir hasta 12 meses de OPT en cada nivel educativo. Aquellos que obtengan títulos en campos de ciencia, tecnología, ingeniería o matemáticas pueden ser elegibles para una extensión adicional de 24 meses.",
+      "El DHS está proponiendo la norma en respuesta al fraude y abuso identificados por el Programa de Estudiantes y Visitantes de Intercambio (SEVP, por sus siglas en inglés). A medida que más estudiantes no inmigrantes F-1 han participado en la OPT, el SEVP ha encontrado escuelas, funcionarios escolares designados, empleadores y estudiantes no inmigrantes F-1 involucrados en esquemas para explotar las regulaciones vigentes, incluyendo lugares de trabajo problemáticos y esquemas de visa de “pago por estadía”.",
+      "El DHS considera que las tarifas propuestas alentarían a las escuelas a ejercer una mayor supervisión y selectividad al recomendar a los estudiantes no inmigrantes F-1 para la OPT, lo que ayudaría a reducir el fraude y fortalecer la integridad del programa.",
+      "La norma propuesta también se alinea con las órdenes ejecutivas recientes y otras directivas presidenciales que enfatizan la protección de los trabajadores estadounidenses y la integridad de los programas de inmigración basados en empleo. El aumento de las tarifas respaldaría la supervisión del programa y ayudaría a garantizar que las escuelas, los estudiantes no inmigrantes F-1 y los empleadores utilicen la OPT de manera consistente con su propósito previsto y los requisitos regulatorios aplicables.",
+      "Según la norma propuesta, las escuelas certificadas por el SEVP deben pagar la tarifa antes de que los funcionarios escolares designados recomienden a los estudiantes no inmigrantes F-1 para la OPT en el Sistema de Información de Estudiantes y Visitantes de Intercambio (SEVIS, por sus siglas en inglés) y antes de que los estudiantes no inmigrantes F-1 soliciten autorización de empleo ante el USCIS. El USCIS no otorgaría autorización de empleo a los estudiantes no inmigrantes F-1 si las escuelas no han pagado la tarifa requerida.",
+      "La tarifa propuesta no estaría vinculada a un empleador específico. Más bien, se aplicaría cuando las escuelas recomienden a un estudiante no inmigrante F-1 para cualquier tipo de OPT. Las tarifas recaudadas se depositarían en la Tesorería de los Estados Unidos.",
+      "El DHS aceptará comentarios públicos sobre la norma propuesta desde el 8 de octubre hasta el 9 de noviembre. Además, la sección de la norma relativa a la Ley de Reducción de Trámites (Paperwork Reduction Act) tendrá un período de comentarios públicos de 60 días. Los miembros del público deben consultar el aviso del Registro Federal (Federal Register) para obtener instrucciones sobre cómo presentar comentarios para consideración del DHS. Después de que cierre el período de comentarios públicos, el DHS revisará todos los comentarios y materiales presentados correctamente y podrá revisar la norma con base en los comentarios recibidos del público.",
+      "El SEVP proporcionará comunicaciones adicionales sobre la norma propuesta a través de sus canales de comunicación, incluyendo los Mensajes de Difusión de SEVIS (SEVIS Broadcast Messages), Study in the States, y representantes de campo.",
+      "Para obtener más información, consulte el Aviso de Propuesta de Reglamentación (NPRM, por sus siglas en inglés) en el Registro Federal, la página de Capacitación Práctica en ICE.gov/SEVP, y la página de Oportunidades de Capacitación en los Estados Unidos en Study in the States.",
+      "# # #",
+      "Servicios de Ciudadanía e Inmigración",
+      "Entidad de Seguridad Nacional",
+      "Palabras clave",
+      "Aviso del Registro Federal",
+      "Estudiante",
+      "Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS)",
+      "Última actualización: 10/07/2026"
+    ],
+    "zh": [
+      "首页",
+      "新闻",
+      "新闻稿",
+      "国土安全部提议对外国学生工作项目收取费用以保护美国人的就业机会",
+      "发布日期:2026年10月7日",
+      "华盛顿,美国国土安全部(DHS)宣布了一项拟议规则,该规则一旦最终确定,将对寻求参加选择性实习培训(OPT)的F-1非移民学生实施新的费用,OPT是一种与学生专业领域相关的临时就业授权,此举旨在减少廉价劳动力流入美国,并使美国公民更容易在就业市场上进行竞争。",
+      "该拟议规则将对每名申请初次OPT的F-1非移民学生设立70,000美元的费用,并对每名申请后续OPT的F-1非移民学生设立30,000美元的费用。国土安全部提议征收此类费用,旨在打击欺诈和滥用行为,加强移民体系的完整性,并保护美国工人。",
+      "“选择性实习培训从来就不是进入美国劳动力市场的后门,不是廉价劳动力的补贴,也不是钻制度空子者的奖品,”一位国土安全部发言人表示。“国土安全部正在提升OPT的要求标准,要求外国学生向雇主证明自身的价值。美国工人不应该被迫与一个已沦为廉价外国劳动力输送管道的项目竞争。”",
+      "现行联邦法规允许符合条件的F-1非移民学生在OPT与其主修学习领域直接相关的情况下参加OPT。要参加该项目,F-1非移民学生必须获得其指定学校官员(DSO)的推荐,并向美国公民及移民服务局(USCIS)申请就业授权。",
+      "F-1非移民学生可以在其学业期间(完成前OPT)或完成学业后(完成后OPT)申请OPT。符合条件的F-1非移民学生在每个教育阶段最多可获得12个月的OPT。获得科学、技术、工程或数学领域学位的学生可能有资格获得额外24个月的延期。",
+      "国土安全部提议该规则是为了应对学生和交流访问者项目(SEVP)所发现的欺诈和滥用行为。随着越来越多的F-1非移民学生参加OPT,SEVP发现学校、指定学校官员、雇主和F-1非移民学生利用现行法规从事各种违规行为,包括存在问题的工作场所和“付费留美”签证计划。",
+      "国土安全部认为,拟议的费用将促使学校在推荐F-1非移民学生参加OPT时加强监督并提高遴选标准,从而有助于减少欺诈行为并加强项目的完整性。",
+      "该拟议规则也与近期强调保护美国工人及基于就业的移民项目完整性的行政命令和其他总统指令相一致。提高后的费用将支持项目监督,并有助于确保学校、F-1非移民学生及雇主按照OPT的既定宗旨及适用的监管要求使用该项目。",
+      "根据拟议规则,经SEVP认证的学校必须在指定学校官员在学生和交流访问者信息系统(SEVIS)中推荐F-1非移民学生参加OPT之前,以及在F-1非移民学生向USCIS申请就业授权之前缴纳该费用。如果学校未缴纳所需费用,USCIS将不会授予F-1非移民学生就业授权。",
+      "拟议费用不与特定雇主挂钩。相反,只要学校推荐F-1非移民学生参加任何类型的OPT,均须缴纳该费用。收取的费用将存入美国财政部。",
+      "国土安全部将在10月8日至11月9日期间接受关于拟议规则的公众意见。此外,该规则中有关《文书削减法》的部分将设有60天的公众意见征询期。公众应参阅《联邦公报》通知,了解向国土安全部提交意见的具体方式。公众意见征询期结束后,国土安全部将审查所有依规提交的意见和材料,并可能根据公众反馈对该规则进行修订。",
+      "SEVP将通过其各类通讯渠道,包括SEVIS广播信息、“留学美国”网站及实地代表,就该拟议规则发布进一步通知。",
+      "如需更多信息,请参阅《联邦公报》(Federal Register)中发布的拟议规则制定通知(NPRM)、ICE.gov/SEVP网站上的“实习培训”(Practical Training)页面,以及“留学美国”(Study in the States)网站上的“美国培训机会”(Training Opportunities in the United States)页面。",
+      "# # #",
+      "公民及移民服务局",
+      "国土安全事务",
+      "关键词",
+      "联邦公报通知",
+      "学生",
+      "美国公民及移民服务局(USCIS)",
+      "最后更新日期:2026年10月7日"
+    ],
+    "ja": [
+      "ホームページ",
+      "ニュース",
+      "プレスリリース",
+      "国土安全保障省、米国人の雇用を保護するため外国人学生就労プログラムに係る手数料を提案",
+      "発表日:2026年10月7日",
+      "ワシントン, 米国国土安全保障省(DHS)は、学生の専攻分野に関連する一時的な就労許可であるオプショナル・プラクティカル・トレーニング(OPT)への参加を希望するF-1非移民学生に対し、米国への安価な労働力の流入を抑制し、米国市民が雇用市場でより競争しやすくなるようにするため、新たな手数料を実施する規則案を発表した。",
+      "この規則案は、初回のOPTについてF-1非移民学生1人当たり70,000ドルの手数料を、その後のOPTについてF-1非移民学生1人当たり30,000ドルの手数料をそれぞれ設定するものである。DHSは、不正及び不正利用に対抗し、移民制度の健全性を強化し、米国人労働者を保護するため、この手数料を提案している。",
+      "「オプショナル・プラクティカル・トレーニングは、米国の労働市場への裏口となること、安価な労働力への補助金となること、または制度を悪用する者への褒賞となることを意図したものでは断じてありません」とDHSの報道官は述べた。「DHSは、外国人学生が雇用主に対して自らの価値を証明することを求めるよう、OPTの水準を引き上げています。米国人労働者は、安価な外国人労働力の供給経路と化したプログラムと競争することを強いられるべきではありません。」",
+      "現行の連邦規則は、OPTが学生の専攻分野と直接関連している場合に、対象となるF-1非移民学生がOPTに従事することを認めている。参加するためには、F-1非移民学生は自らの指定校担当者(DSO)からの推薦を受け、米国市民権・移民局(USCIS)に就労許可を申請しなければならない。",
+      "F-1非移民学生は、在学中(修了前OPT)または課程修了後(修了後OPT)にOPTを申請することができる。対象となるF-1非移民学生は、各教育段階において最長12か月間のOPTを受けることができる。科学、技術、工学、または数学の分野で学位を取得した者は、さらに24か月間の延長を受ける資格がある場合がある。",
+      "DHSは、学生・交流訪問者プログラム(SEVP)によって確認された不正及び不正利用に対応するため、本規則案を提案している。F-1非移民学生によるOPTへの参加が増加するにつれ、SEVPは、問題のある就労先や「滞在目的の支払い」ビザの仕組みを含め、現行規則を悪用する学校、指定校担当者、雇用主及びF-1非移民学生による計画を確認してきた。",
+      "DHSは、提案された手数料が、学校がF-1非移民学生をOPTに推薦する際により厳格な監督と選別を行うよう促し、不正の削減とプログラムの健全性の強化に資するものと考えている。",
+      "本規則案はまた、米国人労働者の保護及び雇用に基づく移民プログラムの健全性を重視する最近の大統領令その他の大統領指令とも整合するものである。手数料の引き上げは、プログラムの監督を支援し、学校、F-1非移民学生及び雇用主が、OPTをその本来の目的及び適用される規制上の要件に沿って利用することを確保する一助となる。",
+      "本規則案の下では、SEVP認定校は、指定校担当者が学生・交流訪問者情報システム(SEVIS)においてF-1非移民学生をOPTに推薦する前、及びF-1非移民学生がUSCISに就労許可を申請する前に、手数料を支払わなければならない。USCISは、学校が必要な手数料を支払っていない場合、F-1非移民学生に対して就労許可を付与しない。",
+      "提案された手数料は、特定の雇用主に紐づけられるものではない。むしろ、学校がF-1非移民学生をいずれかの種類のOPTに推薦する際に適用されるものである。徴収された手数料は、米国財務省に預託される。",
+      "DHSは、10月8日から11月9日まで、本規則案に対するパブリックコメントを受け付ける。さらに、本規則のペーパーワーク削減法(Paperwork Reduction Act)に関する部分については、60日間のパブリックコメント期間が設けられる。一般の方々は、DHSの審査のためのコメント提出方法について、連邦官報(Federal Register)の告示を参照されたい。パブリックコメント期間終了後、DHSは適切に提出されたすべてのコメント及び資料を精査し、寄せられた意見に基づき規則を改訂する場合がある。",
+      "SEVPは、SEVIS一斉配信メッセージ、Study in the States、及び現地担当者を含む自らの広報チャネルを通じて、本規則案に関する追加情報を提供する予定である。",
+      "詳細については、連邦官報(Federal Register)に掲載された規則制定案告示(Notice of Proposed Rulemaking、NPRM)、ICE.gov/SEVPの実務研修(Practical Training)のページ、及びStudy in the Statesの米国における研修機会(Training Opportunities in the United States)のページをご参照ください。",
+      "# # #",
+      "市民権・移民局",
+      "国土安全保障エンタープライズ",
+      "キーワード",
+      "連邦官報告示",
+      "学生",
+      "米国市民権・移民局(U.S. Citizenship and Immigration Services、USCIS)",
+      "最終更新日：2026年10月7日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

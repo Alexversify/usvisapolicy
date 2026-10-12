@@ -93,5 +93,191 @@
     "enforcement",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "10/02/2026"
+      },
+      {
+        "t": "p",
+        "x": "MINNEAPOLIS — Ten defendants were separately indicted on Sept. 24 by a federal grand jury for voter fraud. All defendants have made their initial appearances in federal court. U.S. Citizenship and Immigration Services assisted the investigations. The U.S. Attorney’s Office for the District of Minnesota made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "“Our message to aliens who vote in American elections is clear: we will find you, arrest you, and you will face the consequences, including criminal charges and deportation,” said DHS Secretary Markwayne Mullin. “Under President Trump’s leadership, this administration will never allow the votes of American citizens to be cancelled out by non-citizens illegally voting in our elections. Only American citizens should be electing American leaders.”"
+      },
+      {
+        "t": "p",
+        "x": "The defendants and their charges include:"
+      },
+      {
+        "t": "li",
+        "x": "Bhator Konah Bryant, 61, a Liberian alien, on one count of making a false claim of citizenship in order to vote. She is alleged to have falsely claimed U.S. citizenship when registering to vote on Oct. 18, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Edvile Vaidoto Edmunds, 59, a Lithuanian alien, on one count of voting by alien. She is alleged to have voted illegally as an alien in Minnesota on Nov. 8, 2022."
+      },
+      {
+        "t": "li",
+        "x": "Joshua Frederick Kofi Edzie, 63, a Ghanian alien, on two counts of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota on Aug. 11, 2026, and falsely claimed U.S. citizenship to vote on Oct. 23, 2024, and Aug. 11, 2026."
+      },
+      {
+        "t": "li",
+        "x": "Alan Barbu Kargbo, 48, a Liberian alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Paul Kras, 78, a German alien, on one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Fadil Rasim Ozegovic, 58, a Bosnian alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Aparecido Donizetti Padovan, 62, a Brazilian alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Chis Adam Pettiquoi, 43, a Liberian alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Christian Liam Schenk, 47, a Canadian alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. He is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "li",
+        "x": "Hester Sophia Weihmann, 69, a South African alien, on one count of making a false claim of citizenship in order to vote and one count of voting by alien. She is alleged to have voted illegally as an alien in Minnesota and falsely claimed U.S. citizenship to vote on Nov. 5, 2024."
+      },
+      {
+        "t": "p",
+        "x": "The charge of false claim of citizenship in order to vote is a violation of federal law and carries a maximum term of imprisonment of five years, a maximum term of supervised release of three years, and a maximum fine of $250,000. Voting by aliens is a violation of federal law and is a class A misdemeanor and carries a maximum term of imprisonment of one year, a maximum term of supervised release of one year, and a maximum fine of $100,000."
+      },
+      {
+        "t": "p",
+        "x": "These cases were the result of an investigation by U.S. Immigration and Customs Enforcement Homeland Security Investigations, with assistance from USCIS."
+      },
+      {
+        "t": "p",
+        "x": "An indictment is merely an allegation, and all defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit USCIS.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "10/02/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:03Z",
+    "from": "page",
+    "chars": 4284
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 10월 2일",
+      "미니애폴리스, 연방 대배심은 9월 24일 선거 사기 혐의로 10명의 피고인을 각각 기소했습니다. 모든 피고인은 연방 법원에 최초 출석을 마쳤습니다. 미국 시민권 및 이민서비스국(USCIS)이 수사를 지원했습니다. 미네소타 연방 검찰청이 이를 발표했습니다.",
+      "국토안보부(DHS) 장관 마크웨인 멀린은 다음과 같이 말했습니다. \"미국 선거에서 투표하는 외국인들에게 우리의 메시지는 분명합니다. 우리는 여러분을 찾아내고, 체포할 것이며, 여러분은 형사 기소 및 추방을 포함한 그 결과에 직면하게 될 것입니다. 트럼프 대통령의 지도 아래, 이 행정부는 불법으로 선거에 투표하는 비시민권자들에 의해 미국 시민의 표가 무효화되는 것을 결코 용납하지 않을 것입니다. 오직 미국 시민만이 미국의 지도자를 선출해야 합니다.\"",
+      "피고인 및 혐의는 다음과 같습니다.",
+      "바토르 코나 브라이언트, 61세, 라이베리아 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건. 그녀는 2024년 10월 18일 유권자 등록 시 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "에드빌레 바이도토 에드먼즈, 59세, 리투아니아 국적 외국인, 외국인의 투표 혐의 1건. 그녀는 2022년 11월 8일 미네소타에서 외국인 신분으로 불법 투표한 것으로 기소되었습니다.",
+      "조슈아 프레더릭 코피 에지, 63세, 가나 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 2건 및 외국인의 투표 혐의 1건. 그는 2026년 8월 11일 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 10월 23일과 2026년 8월 11일에 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "앨런 바르부 카르그보, 48세, 라이베리아 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "폴 크라스, 78세, 독일 국적 외국인, 외국인의 투표 혐의 1건. 그는 2024년 11월 5일 미네소타에서 외국인 신분으로 불법 투표한 것으로 기소되었습니다.",
+      "파딜 라심 오제고비치, 58세, 보스니아 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "아파레시도 도니제티 파도반, 62세, 브라질 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "치스 애덤 페티쿼이, 43세, 라이베리아 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "크리스천 리암 솅크, 47세, 캐나다 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "헤스터 소피아 바이만, 69세, 남아프리카공화국 국적 외국인, 투표를 위해 허위로 시민권을 주장한 혐의 1건 및 외국인의 투표 혐의 1건. 그녀는 미네소타에서 외국인 신분으로 불법 투표했으며, 2024년 11월 5일 투표를 위해 미국 시민권을 허위로 주장한 것으로 기소되었습니다.",
+      "투표를 위해 허위로 시민권을 주장하는 혐의는 연방법 위반으로서 최대 5년의 징역형, 최대 3년의 보호관찰, 최대 25만 달러의 벌금에 처해질 수 있습니다. 외국인의 투표는 연방법 위반으로서 클래스 A 경범죄에 해당하며, 최대 1년의 징역형, 최대 1년의 보호관찰, 최대 10만 달러의 벌금에 처해질 수 있습니다.",
+      "이번 사건들은 미국 이민세관집행국(ICE) 국토안보수사국(HSI)의 수사 결과이며, USCIS가 이를 지원했습니다.",
+      "기소는 단지 혐의에 불과하며, 모든 피고인은 법원에서 합리적 의심의 여지가 없이 유죄가 입증될 때까지 무죄로 추정됩니다.",
+      "이민 혜택 사기 또는 남용이 의심되는 경우 USCIS에 신고하려면 USCIS 제보 양식(USCIS Tip Form)을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 대한 자세한 정보는 USCIS.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 10월 2일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "02/10/2026",
+      "MINNEAPOLIS ,  Diez acusados fueron imputados por separado el 24 de septiembre por un gran jurado federal por fraude electoral. Todos los acusados han realizado sus comparecencias iniciales ante el tribunal federal. Los Servicios de Ciudadanía e Inmigración de Estados Unidos (USCIS) colaboraron en las investigaciones. La Fiscalía Federal del Distrito de Minnesota realizó el anuncio.",
+      "“Nuestro mensaje a los extranjeros que votan en las elecciones estadounidenses es claro: los encontraremos, los arrestaremos, y enfrentarán las consecuencias, incluidos cargos penales y la deportación”, declaró el secretario del DHS, Markwayne Mullin. “Bajo el liderazgo del presidente Trump, esta administración nunca permitirá que los votos de los ciudadanos estadounidenses sean anulados por la votación ilegal de no ciudadanos en nuestras elecciones. Solo los ciudadanos estadounidenses deben elegir a los líderes estadounidenses”.",
+      "Los acusados y sus cargos incluyen:",
+      "Bhator Konah Bryant, de 61 años, extranjera de nacionalidad liberiana, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar. Se le acusa de haber reclamado falsamente la ciudadanía estadounidense al registrarse para votar el 18 de octubre de 2024.",
+      "Edvile Vaidoto Edmunds, de 59 años, extranjera de nacionalidad lituana, un cargo por votar siendo extranjera. Se le acusa de haber votado ilegalmente como extranjera en Minnesota el 8 de noviembre de 2022.",
+      "Joshua Frederick Kofi Edzie, de 63 años, extranjero de nacionalidad ghanesa, dos cargos por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota el 11 de agosto de 2026, y de haber reclamado falsamente la ciudadanía estadounidense para votar el 23 de octubre de 2024 y el 11 de agosto de 2026.",
+      "Alan Barbu Kargbo, de 48 años, extranjero de nacionalidad liberiana, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "Paul Kras, de 78 años, extranjero de nacionalidad alemana, un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota el 5 de noviembre de 2024.",
+      "Fadil Rasim Ozegovic, de 58 años, extranjero de nacionalidad bosnia, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "Aparecido Donizetti Padovan, de 62 años, extranjero de nacionalidad brasileña, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "Chis Adam Pettiquoi, de 43 años, extranjero de nacionalidad liberiana, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "Christian Liam Schenk, de 47 años, extranjero de nacionalidad canadiense, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjero. Se le acusa de haber votado ilegalmente como extranjero en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "Hester Sophia Weihmann, de 69 años, extranjera de nacionalidad sudafricana, un cargo por hacer una declaración falsa de ciudadanía con el fin de votar y un cargo por votar siendo extranjera. Se le acusa de haber votado ilegalmente como extranjera en Minnesota y de haber reclamado falsamente la ciudadanía estadounidense para votar el 5 de noviembre de 2024.",
+      "El cargo de declaración falsa de ciudadanía con el fin de votar constituye una violación de la ley federal y conlleva una pena máxima de cinco años de prisión, un período máximo de libertad supervisada de tres años y una multa máxima de $250,000. Votar siendo extranjero es una violación de la ley federal y constituye un delito menor de clase A que conlleva una pena máxima de un año de prisión, un período máximo de libertad supervisada de un año y una multa máxima de $100,000.",
+      "Estos casos fueron el resultado de una investigación realizada por la División de Investigaciones de Seguridad Nacional del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE), con la asistencia de USCIS.",
+      "Una acusación formal (indictment) es simplemente una alegación, y todos los acusados se presumen inocentes hasta que se demuestre su culpabilidad más allá de toda duda razonable ante un tribunal de justicia.",
+      "Para reportar sospechas de fraude o abuso de beneficios migratorios a USCIS, utilice por favor el Formulario de Denuncias de USCIS (USCIS Tip Form).",
+      "Para obtener más información sobre USCIS y sus programas, visite USCIS.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "02/10/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年10月2日",
+      "明尼阿波利斯, 9月24日,联邦大陪审团分别对十名被告以选举舞弊罪提起公诉。所有被告均已在联邦法院进行了初次出庭。美国公民及移民服务局(USCIS)协助了相关调查。美国明尼苏达地区检察官办公室宣布了这一消息。",
+      "“我们向在美国选举中投票的外国人传达的信息很明确:我们会找到你们,逮捕你们,你们将面临后果,包括刑事指控和驱逐出境,”国土安全部(DHS)部长马克韦恩·穆林(Markwayne Mullin)表示。“在特朗普总统的领导下,本届政府绝不会允许美国公民的选票被非公民的非法投票所抵消。只有美国公民才应选出美国的领导人。”",
+      "被告及其指控罪名包括:",
+      "巴托尔·科纳·布莱恩特(Bhator Konah Bryant),61岁,利比里亚籍外国人,被控一项为投票而虚假声称公民身份罪。据指控,她在2024年10月18日登记投票时虚假声称拥有美国公民身份。",
+      "埃德维尔·瓦伊多托·埃德蒙兹(Edvile Vaidoto Edmunds),59岁,立陶宛籍外国人,被控一项外国人投票罪。据指控,她于2022年11月8日在明尼苏达州以外国人身份非法投票。",
+      "约书亚·弗雷德里克·科菲·埃齐(Joshua Frederick Kofi Edzie),63岁,加纳籍外国人,被控两项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2026年8月11日在明尼苏达州以外国人身份非法投票,并于2024年10月23日和2026年8月11日为投票虚假声称拥有美国公民身份。",
+      "艾伦·巴布·卡尔博(Alan Barbu Kargbo),48岁,利比里亚籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "保罗·克拉斯(Paul Kras),78岁,德国籍外国人,被控一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票。",
+      "法迪尔·拉西姆·奥泽戈维奇(Fadil Rasim Ozegovic),58岁,波斯尼亚籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "阿帕雷西多·多尼泽蒂·帕多万(Aparecido Donizetti Padovan),62岁,巴西籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "克里斯·亚当·佩蒂夸伊(Chis Adam Pettiquoi),43岁,利比里亚籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "克里斯蒂安·利亚姆·申克(Christian Liam Schenk),47岁,加拿大籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,他于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "赫斯特·索菲亚·韦曼(Hester Sophia Weihmann),69岁,南非籍外国人,被控一项为投票而虚假声称公民身份罪和一项外国人投票罪。据指控,她于2024年11月5日在明尼苏达州以外国人身份非法投票,并虚假声称拥有美国公民身份。",
+      "为投票而虚假声称公民身份的指控违反了联邦法律,最高可判处五年监禁,最长三年的监督释放期,以及最高25万美元的罚款。外国人投票违反联邦法律,属于A类轻罪,最高可判处一年监禁,最长一年的监督释放期,以及最高10万美元的罚款。",
+      "这些案件系美国移民及海关执法局(ICE)国土安全调查局在美国公民及移民服务局(USCIS)协助下展开调查的结果。",
+      "起诉书仅为指控,所有被告在法院依法排除合理怀疑证明有罪之前均被推定为无罪。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为,请使用USCIS举报表。",
+      "欲了解有关USCIS及其项目的更多信息,请访问USCIS.gov,或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年10月2日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年10月2日",
+      "ミネアポリス:9月24日、連邦大陪審により10名の被告人が選挙不正の罪でそれぞれ起訴された。全被告人は連邦裁判所において初回出廷を済ませている。米国市民権・移民局(USCIS)が捜査に協力した。ミネソタ州連邦検事局がこの発表を行った。",
+      "DHS長官マークウェイン・マリンは次のように述べた。「米国の選挙で投票する外国人に対する我々のメッセージは明確である。我々は貴殿らを発見し、逮捕し、刑事訴追及び国外追放を含む結果に直面させる。」「トランプ大統領の指導の下、本政権は、米国市民の投票が、違法に選挙で投票する非市民によって無効化されることを決して許さない。米国の指導者を選出できるのは米国市民のみであるべきである。」",
+      "被告人とその容疑は以下のとおりである。",
+      "バトル・コナ・ブライアント、61歳、リベリア国籍の外国人。投票のために市民権について虚偽の申告をした罪1件。2024年10月18日の有権者登録の際、米国市民権を虚偽に申告したとされる。",
+      "エドヴィレ・ヴァイドト・エドムンズ、59歳、リトアニア国籍の外国人。外国人による投票の罪1件。2022年11月8日、ミネソタ州で外国人として違法に投票したとされる。",
+      "ジョシュア・フレデリック・コフィ・エジー、63歳、ガーナ国籍の外国人。投票のために市民権について虚偽の申告をした罪2件及び外国人による投票の罪1件。2026年8月11日、ミネソタ州で外国人として違法に投票したとされ、また2024年10月23日及び2026年8月11日に投票のため米国市民権を虚偽に申告したとされる。",
+      "アラン・バルブ・カルグボ、48歳、リベリア国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "ポール・クラス、78歳、ドイツ国籍の外国人。外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票したとされる。",
+      "ファディル・ラシム・オゼゴビッチ、58歳、ボスニア国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "アパレシード・ドニゼッティ・パドヴァン、62歳、ブラジル国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "クリス・アダム・ペティクォイ、43歳、リベリア国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "クリスチャン・リアム・シェンク、47歳、カナダ国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "ヘスター・ソフィア・ヴァイマン、69歳、南アフリカ国籍の外国人。投票のために市民権について虚偽の申告をした罪1件及び外国人による投票の罪1件。2024年11月5日、ミネソタ州で外国人として違法に投票し、また投票のため米国市民権を虚偽に申告したとされる。",
+      "投票のために市民権について虚偽の申告をした罪は連邦法違反であり、最高禁錮5年、最高保護観察期間3年、最高罰金25万ドルが科される。外国人による投票は連邦法違反であり、クラスAの軽犯罪であり、最高禁錮1年、最高保護観察期間1年、最高罰金10万ドルが科される。",
+      "これらの事件は、USCISの協力を得て、米国移民・関税執行局国土安全保障捜査部(ICE HSI)による捜査の結果である。",
+      "起訴は単なる申立てに過ぎず、全ての被告人は、合理的な疑いを超えて法廷で有罪が証明されるまでは無罪と推定される。",
+      "移民給付の不正又は濫用の疑いをUSCISに報告するには、USCIS通報フォームをご利用ください。",
+      "USCIS及びそのプログラムに関する詳細情報については、USCIS.govをご覧いただくか、X、Instagram、YouTube、Facebook及びLinkedInにて当局をフォローしてください。",
+      "2026年10月2日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
