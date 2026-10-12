@@ -92,5 +92,95 @@
     "enforcement",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "10/07/2026"
+      },
+      {
+        "t": "p",
+        "x": "TAMPA, Fla. —U.S. Citizenship and Immigration Services provided critical assistance in the investigation that led to a federal indictment charging Andrea Catanese, 60, an Italian national, with voting by an alien, attempting to unlawfully procure naturalization, and making a false statement in connection with naturalization. If convicted on all counts, Catanese faces a maximum penalty of 10 years in federal prison. U. S. Attorney Gregory W. Kehoe made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "According to the indictment, Catanese voted in the 2024 general election despite not being a U.S. citizen. The indictment further alleges that Catanese later falsely stated on a Form N-400, Application for Naturalization, that he had never voted in a federal election and repeated that false statement to a USCIS official reviewing the application."
+      },
+      {
+        "t": "p",
+        "x": "An indictment is merely a formal charge that a defendant has committed one or more violations of federal criminal law, and every defendant is presumed innocent unless, and until, proven guilty."
+      },
+      {
+        "t": "p",
+        "x": "This case was investigated by U.S. Immigration and Custom Enforcement’s Homeland Security Investigations with assistance from USCIS and the Pasco County Supervisor of Elections. It will be prosecuted by Assistant U.S. Attorney Mark E. Andreu."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "10/07/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:14Z",
+    "from": "page",
+    "chars": 1515
+  },
+  "full": {
+    "ko": [
+      "공개 날짜",
+      "2026년 10월 7일",
+      "플로리다주 탬파, 미국 시민권 및 이민서비스국(USCIS)은 이탈리아 국적의 안드레아 카타네세(60세)가 외국인 신분으로 투표한 혐의, 귀화를 불법적으로 취득하려 한 혐의, 그리고 귀화와 관련하여 허위 진술을 한 혐의로 연방 기소되는 데 핵심적인 지원을 제공한 수사에 참여했습니다. 모든 혐의에 대해 유죄 판결을 받을 경우, 카타네세는 최대 10년의 연방 징역형에 처해질 수 있습니다. 그레고리 W. 키호 연방검사가 이를 발표했습니다.",
+      "기소장에 따르면, 카타네세는 미국 시민이 아님에도 불구하고 2024년 총선거에서 투표했습니다. 기소장은 또한 카타네세가 이후 귀화 신청서인 N-400 양식에 연방 선거에서 투표한 적이 없다고 허위로 기재했으며, 신청서를 검토하는 USCIS 담당자에게도 동일한 허위 진술을 반복했다고 주장하고 있습니다.",
+      "기소장은 피고인이 하나 이상의 연방 형법 위반을 저질렀다는 공식적인 혐의 제기에 불과하며, 모든 피고인은 유죄가 입증되기 전까지는 무죄로 추정됩니다.",
+      "이 사건은 미국 이민세관집행국(ICE) 산하 국토안보수사국(Homeland Security Investigations)이 USCIS와 파스코 카운티 선거관리관의 지원을 받아 수사했습니다. 이 사건은 마크 E. 안드레우 연방검사보가 기소를 담당할 예정입니다.",
+      "USCIS에 이민 혜택 관련 사기나 남용이 의심되는 사례를 신고하시려면 USCIS 제보 양식(USCIS Tip Form)을 이용해 주시기 바랍니다.",
+      "USCIS와 그 프로그램에 대한 더 자세한 정보를 원하시면 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우해 주시기 바랍니다.",
+      "2026년 10월 7일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "07/10/2026",
+      "TAMPA, Florida. El Servicio de Ciudadanía e Inmigración de Estados Unidos (USCIS) brindó asistencia fundamental en la investigación que condujo a una acusación formal federal en contra de Andrea Catanese, de 60 años, ciudadano italiano, por votar siendo extranjero, intentar obtener la naturalización de manera ilegal y hacer una declaración falsa en relación con la naturalización. Si es declarado culpable de todos los cargos, Catanese enfrenta una pena máxima de 10 años de prisión federal. El fiscal federal Gregory W. Kehoe hizo el anuncio.",
+      "Según la acusación formal, Catanese votó en las elecciones generales de 2024 a pesar de no ser ciudadano estadounidense. La acusación formal alega además que Catanese posteriormente declaró falsamente en el Formulario N-400, Solicitud de Naturalización, que nunca había votado en una elección federal, y repitió esa declaración falsa ante un funcionario de USCIS que revisaba la solicitud.",
+      "Una acusación formal es simplemente un cargo formal de que un acusado ha cometido una o más infracciones de la ley penal federal, y se presume que todo acusado es inocente a menos que, y hasta que, se demuestre su culpabilidad.",
+      "Este caso fue investigado por la División de Investigaciones de Seguridad Nacional del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE), con la asistencia de USCIS y la Oficina del Supervisor de Elecciones del Condado de Pasco. Será procesado por el fiscal federal auxiliar Mark E. Andreu.",
+      "Para reportar sospechas de fraude o abuso de beneficios migratorios a USCIS, por favor utilice el Formulario de Denuncias de USCIS.",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "07/10/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年10月7日",
+      "佛罗里达州坦帕市, , 美国公民及移民服务局（USCIS）在一项调查中提供了关键协助，该调查导致联邦大陪审团对60岁的意大利公民安德里亚·卡坦尼塞（Andrea Catanese）提出起诉，指控其作为外国人进行投票、企图非法获取归化入籍以及在归化入籍事宜中作出虚假陈述。若所有罪名均被判有罪，卡坦尼塞将面临最高10年的联邦监禁。美国联邦检察官格雷戈里·W·基霍（Gregory W. Kehoe）宣布了这一消息。",
+      "根据起诉书，卡坦尼塞在并非美国公民的情况下参加了2024年大选投票。起诉书还指称，卡坦尼塞随后在I-400表格《入籍申请书》（Form N-400, Application for Naturalization）中虚假陈述称其从未在联邦选举中投过票，并在审核该申请的USCIS官员面前重复了这一虚假陈述。",
+      "起诉书仅是对被告人涉嫌违反一项或多项联邦刑事法律的正式指控，在被证明有罪之前，每位被告均被推定为无罪。",
+      "本案由美国移民及海关执法局（ICE）国土安全调查处负责调查，USCIS和帕斯科县选举监督办公室协助办理。本案将由助理联邦检察官马克·E·安德鲁（Mark E. Andreu）负责起诉。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为，请使用USCIS举报表格（USCIS Tip Form）。",
+      "欲了解有关USCIS及其项目的更多信息，请访问uscis.gov，或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年10月7日"
+    ],
+    "ja": [
+      "公開日",
+      "2026年10月7日",
+      "フロリダ州タンパ、米国市民権・移民局(USCIS)は、イタリア国籍のアンドレア・カタネーゼ被告(60歳)を外国人による投票、違法な帰化取得の企て、及び帰化に関連する虚偽申告の容疑で起訴した連邦大陪審起訴において重要な捜査協力を行った。全ての容疑について有罪判決を受けた場合、カタネーゼ被告は連邦刑務所における最長10年の刑に処せられる可能性がある。グレゴリー・W・ケホー連邦検事がこの発表を行った。",
+      "起訴状によれば、カタネーゼ被告は米国市民でないにもかかわらず、2024年の総選挙において投票したとされている。起訴状はさらに、カタネーゼ被告がその後、帰化申請書(フォームN-400)において、連邦選挙で投票したことは一度もないと虚偽の申告を行い、申請書を審査するUSCIS職員に対しても同様の虚偽の陳述を繰り返したと主張している。",
+      "起訴とは、被告人が一つ又は複数の連邦刑事法違反を犯したとする正式な容疑に過ぎず、全ての被告人は有罪が証明されるまでは無罪と推定される。",
+      "本件は、米国移民税関捜査局(ICE)の国土安全保障捜査部がUSCIS及びパスコ郡選挙管理人事務所の協力を得て捜査したものである。起訴は、マーク・E・アンドレウ連邦検事補が担当する。",
+      "USCISに対し、移民給付に関する不正行為や濫用が疑われる事案を報告するには、USCIS通報フォームをご利用ください。",
+      "USCIS及びその各種プログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook及びLinkedInにて当局をフォローしてください。",
+      "2026年10月7日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
