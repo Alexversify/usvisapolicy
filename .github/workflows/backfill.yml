@@ -1,0 +1,79 @@
+name: backfill
+
+# 2026-01-01 이후 과거 글을 채우고, 기존 기사의 원문 전문 보관과 전문 번역을 채웁니다.
+# 매시간 조금씩 진행하고, 더 할 일이 없으면 금방 끝납니다. news 와 같은 그룹이라 동시에 돌지 않습니다.
+
+on:
+  schedule:
+    - cron: "52 * * * *"
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: "이번 실행에서 새로 번역할 과거 글 수"
+        default: "25"
+      fulltext:
+        description: "이번 실행에서 전문을 채울 기존 기사 수"
+        default: "40"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-write
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: 코드 연결 (이미 됐으면 그대로)
+        run: |
+          python scripts/migrate_fulltext.py
+          python -m py_compile src/*.py
+
+      - name: 과거 글 수집, 번역, 전문 보관
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          HEADFUL: "1"
+          BACKFILL: "1"
+          MAX_NEW: ${{ github.event.inputs.max_new || '25' }}
+          FULLTEXT_BACKFILL: ${{ github.event.inputs.fulltext || '40' }}
+          FULLTEXT_BUDGET_MIN: "40"
+        run: xvfb-run -a python -m src.main
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "usvisapolicy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          python scripts/keep_articles.py HEAD
+          python -m src.main --render-only
+          git add data docs src config CLAUDE.md
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -m "backfill: 과거 글·전문 $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git fetch -q origin main
+            git merge -q --no-edit -X ours origin/main || { git merge --abort; exit 1; }
+            python scripts/keep_articles.py origin/main
+            python -m src.main --render-only
+            git add data docs
+            git diff --staged --quiet || git commit -q -m "backfill: 사이트 재생성"
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 15))
+          done
+          exit 1
