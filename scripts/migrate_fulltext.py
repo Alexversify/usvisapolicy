@@ -58,7 +58,7 @@ MAIN = [
         "        for it in queue[:cap]:\n",
         '        new_started = __import__("time").time()\n'
         "        for it in queue[:cap]:\n"
-        '            if os.environ.get("NEW_BUDGET_MIN") and __import__("time").time() - new_started > float(os.environ["NEW_BUDGET_MIN"]) * 60:\n'
+        '            if fulltext.past_deadline(cfg) or (os.environ.get("NEW_BUDGET_MIN") and __import__("time").time() - new_started > float(os.environ["NEW_BUDGET_MIN"]) * 60):\n'
         '                print("  - 시간 한도에 닿아 나머지 새 글은 다음 실행에서 처리")\n'
         "                break\n",
     ),
@@ -88,7 +88,7 @@ backfill:
   since: 2026-01-01
   # 목록을 몇 페이지까지 볼지. 0이면 과거 글을 채우지 않습니다.
   pages:
-    uscis_news: 40
+    uscis_news: 30
     state_press: 20
     dhs_news: 0
   page_fmt:
@@ -102,10 +102,12 @@ fulltext:
   # 이보다 긴 문서는 앞부분만 번역하고 나머지는 원문으로 보여줍니다. 원문 보관은 전체.
   max_chars: 300000
   chunk_chars: 4500
-  workers: 6
+  workers: 8
   # 정기 실행에서 기존 기사를 몇 건까지, 몇 분까지 채울지
   backfill_per_run: 6
   budget_min: 8
+  # 한 실행의 전체 시간 한도(분). 넘으면 하던 것까지 저장하고 다음 실행에 넘깁니다. backfill 워크플로는 RUN_DEADLINE_MIN 으로 따로 정합니다.
+  deadline_min: 18
 """
 
 CLAUDE_BLOCK = """
