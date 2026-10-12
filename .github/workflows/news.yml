@@ -1,23 +1,37 @@
 name: news
 
+# GitHub 예약 실행(cron)은 몇 시간씩 밀리는 일이 잦아, 실행이 끝날 때 다음 실행을 직접 예약합니다.
+# 다음 실행은 20분 쉬었다가 수집합니다. cron 은 이어달리기가 끊겼을 때 다시 살리는 예비용입니다.
+
 on:
   schedule:
-    # 30분마다. 새 글만 번역하므로 실행이 잦아도 API 비용은 늘지 않습니다 (공개 저장소라 Actions 시간도 무료).
-    # 정각·30분을 피해 GitHub 예약 실행 지연을 줄입니다.
     - cron: "7,37 * * * *"
   workflow_dispatch:
+    inputs:
+      chained:
+        description: "이전 실행이 예약한 실행 (20분 쉬었다 시작)"
+        default: "false"
 
 permissions:
   contents: write
-
-concurrency:
-  group: site-write
-  cancel-in-progress: false
+  actions: write
 
 jobs:
-  collect:
+  pause:
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.chained == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    steps:
+      - run: sleep 1200
+
+  collect:
+    needs: pause
+    if: always() && needs.pause.result != 'failure' && needs.pause.result != 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    concurrency:
+      group: news
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v5
 
@@ -35,6 +49,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           HEADFUL: "1"
+          PYTHONUNBUFFERED: "1"
         run: xvfb-run -a python -m src.main
 
       - name: 결과 커밋
@@ -50,7 +65,7 @@ jobs:
             exit 0
           fi
           git commit -m "news: 업데이트 $(date -u +%Y-%m-%dT%H:%MZ)"
-          # 피드백 반영 PR 등과 docs/ 가 겹쳐도 멈추지 않게 최신 main 을 합치고 다시 생성합니다.
+          # 피드백 반영 PR, backfill 등과 겹쳐도 멈추지 않게 최신 main 을 합치고 다시 생성합니다.
           for i in 1 2 3; do
             git fetch -q origin main
             # 겹치는 파일은 이번 수집 결과를 우선하고, 다른 변경은 그대로 둡니다. docs/ 는 아래에서 다시 생성합니다.
@@ -63,6 +78,21 @@ jobs:
             sleep $((i * 15))
           done
           exit 1
+
+      - name: 다음 실행 예약
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 이미 대기 중이거나 도는 다른 news 실행이 있으면 예약하지 않습니다 (이어달리기가 겹치지 않게).
+          n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow news.yml --limit 20 --json databaseId,status \
+            -q "[.[] | select(.databaseId != ${GITHUB_RUN_ID} and (.status == \"queued\" or .status == \"in_progress\" or .status == \"waiting\" or .status == \"pending\" or .status == \"requested\"))] | length")
+          if [ "$n" = "0" ]; then
+            gh workflow run news.yml -R "$GITHUB_REPOSITORY" --ref main -f chained=true
+            echo "다음 실행 예약됨"
+          else
+            echo "다른 실행 $n건 대기 중, 예약 생략"
+          fi
 
       # 소스가 계속 실패하거나 번역이 멈추면 실행을 실패로 표시합니다. GitHub이 저장소 소유자에게 메일을 보냅니다.
       - name: 상태 점검

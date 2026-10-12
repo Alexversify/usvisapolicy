@@ -1,7 +1,8 @@
 name: backfill
 
 # 2026-01-01 이후 과거 글을 채우고, 기존 기사의 원문 전문 보관과 전문 번역을 채웁니다.
-# 매시간 조금씩 진행하고, 더 할 일이 없으면 금방 끝납니다. news 와 같은 그룹이라 동시에 돌지 않습니다.
+# 할 일이 남아 있으면 끝날 때 다음 실행을 바로 예약해 이어서 진행합니다. 다 채우면 멈춥니다.
+# GitHub 예약 실행은 몇 시간씩 밀리므로 cron 은 이어달리기가 끊겼을 때 다시 살리는 예비용입니다.
 
 on:
   schedule:
@@ -17,9 +18,10 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
-  group: site-write
+  group: backfill
   cancel-in-progress: false
 
 jobs:
@@ -45,6 +47,8 @@ jobs:
           python -m py_compile src/*.py
 
       - name: 과거 글 수집, 번역, 전문 보관
+        timeout-minutes: 80
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           HEADFUL: "1"
@@ -54,9 +58,13 @@ jobs:
           NEW_BUDGET_MIN: "30"
           FULLTEXT_BACKFILL: ${{ github.event.inputs.fulltext || '30' }}
           FULLTEXT_BUDGET_MIN: "25"
-        run: xvfb-run -a python -m src.main
+          RUN_DEADLINE_MIN: "65"
+        run: |
+          set -o pipefail
+          xvfb-run -a python -m src.main 2>&1 | tee /tmp/run.log
 
       - name: 결과 커밋
+        if: always()
         run: |
           git config user.name "usvisapolicy-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -79,3 +87,23 @@ jobs:
             sleep $((i * 15))
           done
           exit 1
+
+      - name: 남은 일이 있으면 다음 실행 예약
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! grep -q "사이트 생성" /tmp/run.log 2>/dev/null; then
+            echo "실행이 끝까지 가지 못했습니다. 반복 실패를 막기 위해 예약하지 않습니다 (cron 이 다시 시도)."
+            exit 0
+          fi
+          if grep -q "새 글 0건" /tmp/run.log && grep -q "남은 기사 0건" /tmp/run.log; then
+            echo "과거 글과 전문을 모두 채웠습니다. 이어달리기를 멈춥니다."
+            exit 0
+          fi
+          n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow backfill.yml --limit 20 --json databaseId,status \
+            -q "[.[] | select(.databaseId != ${GITHUB_RUN_ID} and (.status == \"queued\" or .status == \"in_progress\" or .status == \"waiting\" or .status == \"pending\" or .status == \"requested\"))] | length")
+          if [ "$n" = "0" ]; then
+            gh workflow run backfill.yml -R "$GITHUB_REPOSITORY" --ref main
+            echo "다음 실행 예약됨"
+          fi
