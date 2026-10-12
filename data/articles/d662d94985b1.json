@@ -81,5 +81,167 @@
   "topics": [
     "citizenship",
     "enforcement"
-  ]
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "U.S. Department of Homeland Security U.S. Citizenship and Immigration Services www.uscis.gov U.S. Citizenship and Immigration Services Office of the Director Camp Springs, MD 20588-0009 September 14, 2026 PA-2026-13 Policy Alert SUBJECT: Revocation of Naturalization Referrals Purpose U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual on referring cases for revocation of naturalization (commonly referred to as “denaturalization”) under section 340 of the Immigration and Nationality Act (INA). Background United States citizenship confers rights, privileges, and responsibilities that are vital to the security and safety of the United States. While the vast majority of individuals who naturalize do so lawfully and are attached to the principles of the Constitution, there are some who obtain citizenship illegally or fraudulently. Actions to revoke naturalization unlawfully obtained or obtained by fraud are an integral part of the government’s means to enforce the immigration laws, deter immigration fraud, and protect the national security and public safety of the United States."
+      },
+      {
+        "t": "p",
+        "x": "A naturalized U.S. citizen is subject to revocation of naturalization if naturalization was procured illegally or procured by willful misrepresentation or concealment of a material fact.1 There are two ways in which a person’s naturalization can be revoked: through civil revocation under INA 340 or criminal revocation under 18 U.S.C. 1425.2 As a matter of policy, DHS may prioritize certain cases. USCIS is issuing this guidance consistent with Executive Order 14148, Initial Recissions of Harmful Executive Orders and Actions, executed on January 20, 2025 (which revoked EO 14012)3 and subsequent Executive Order 14161, Protecting the United States From Foreign Terrorist and Other National Security and Public Safety Threats. With this update, USCIS is reorganizing existing guidance at Volume 12, Part L to provide clearer guidance on the prioritization of cases for review of revocation. The updated guidance does not otherwise change the existing guidance describing the circumstances under which a naturalized citizen is subject to revocation."
+      },
+      {
+        "t": "p",
+        "x": "This guidance, contained in Volume 12 of the Policy Manual, is effective immediately. The guidance contained in the Policy Manual is controlling and supersedes any related prior guidance. 1 See INA 340(a)."
+      },
+      {
+        "t": "p",
+        "x": "2 See INA 340(a) and INA 340(e)."
+      },
+      {
+        "t": "p",
+        "x": "3 See 86 FR 8277 (Feb. 2, 2021)."
+      },
+      {
+        "t": "p",
+        "x": "PA-2026-13: Revocation of Naturalization Referrals Page: 2 Policy Highlights"
+      },
+      {
+        "t": "li",
+        "x": "Affirms that for any pending or future filed petition or application associated with a U.S. citizen, USCIS determines whether the petitioner lawfully obtained citizenship."
+      },
+      {
+        "t": "li",
+        "x": "Provides an overview of the burden of proof required for revocation of naturalization and a list of example decisions and grounds for referral."
+      },
+      {
+        "t": "li",
+        "x": "Provides the circumstances for which USCIS refers cases for revocation of naturalization."
+      },
+      {
+        "t": "li",
+        "x": "Provides when USCIS cases are prioritized for referral of revocation of naturalization."
+      },
+      {
+        "t": "li",
+        "x": "Affirms that after a person is denaturalized, USCIS may review any pending or previously approved forms filed on behalf of any alien beneficiary by the denaturalized person to assess whether the alien beneficiary is eligible or was eligible for the benefit."
+      },
+      {
+        "t": "p",
+        "x": "Summary of Changes Affected Section: Volume 12 > Part L, Loss of U.S. Nationality and Revocation of Naturalization"
+      },
+      {
+        "t": "li",
+        "x": "Renames Part L from “Revocation of Naturalization” to “Loss of U.S. Nationality and Revocation of Naturalization.”"
+      },
+      {
+        "t": "li",
+        "x": "Revises Chapter 1 (Purpose and Background) in its entirety."
+      },
+      {
+        "t": "li",
+        "x": "Changes title of Chapter 2 from “Grounds for Revocation of Naturalization” to “Revocation of Naturalization” and revises Chapter 2 in its entirety."
+      },
+      {
+        "t": "li",
+        "x": "Moves content from Chapter 3 (Effects of Revocation of Naturalization) into Chapter 2, and reserves Chapter 3."
+      },
+      {
+        "t": "p",
+        "x": "USCIS may also make other minor technical, stylistic, and conforming changes consistent with this update."
+      },
+      {
+        "t": "p",
+        "x": "Citation Volume 12: Citizenship and Naturalization, Part L, Loss of U.S. Nationality and Revocation of Naturalization [12 USCIS-PM L]."
+      }
+    ],
+    "fetched": "2026-10-12T18:14Z",
+    "from": "pdf",
+    "chars": 4068
+  },
+  "full": {
+    "ko": [
+      "미국 국토안보부 미국 시민권 및 이민국 www.uscis.gov 미국 시민권 및 이민국 청장실 캠프 스프링스, 메릴랜드주 20588-0009 2026년 9월 14일 PA-2026-13 정책 공지 제목: 귀화 취소 회부 목적 미국 시민권 및 이민국(USCIS, 이하 \"이민국\")은 이민 및 국적법(INA) 제340조에 따른 귀화 취소(일반적으로 \"탈귀화\"라고도 함) 사건 회부에 관하여 USCIS 정책 매뉴얼에 정책 지침을 발행합니다. 배경 미국 시민권은 미국의 안보와 안전에 필수적인 권리, 특권 및 책임을 부여합니다. 귀화하는 대다수의 사람들은 합법적으로 귀화하며 헌법의 원칙에 충실하지만, 일부는 불법적으로 또는 사기적으로 시민권을 취득합니다. 불법적으로 또는 사기로 취득한 귀화를 취소하는 조치는 이민법을 집행하고, 이민 사기를 억제하며, 미국의 국가안보와 공공안전을 보호하기 위한 정부 수단의 필수적인 부분입니다.",
+      "귀화한 미국 시민은 귀화가 불법적으로 취득되었거나 중요한 사실의 고의적 허위진술 또는 은폐에 의하여 취득된 경우 귀화 취소의 대상이 됩니다.1 사람의 귀화를 취소하는 방법에는 두 가지가 있습니다. 즉 이민 및 국적법(INA) 제340조에 따른 민사 취소와 18 U.S.C. 1425에 따른 형사 취소입니다.2 정책 사항으로서 국토안보부(DHS)는 특정 사건에 우선순위를 둘 수 있습니다. 이민국은 2025년 1월 20일에 시행된 행정명령 14148호, 「유해한 행정명령 및 조치의 최초 철회」(이는 행정명령 14012호를 철회함)3 및 그 후속 행정명령 14161호, 「외국 테러리스트 및 기타 국가안보와 공공안전 위협으로부터 미국을 보호하는 조치」와 일치하도록 본 지침을 발행합니다. 이번 개정을 통해 이민국은 제12권 제L부에 있는 기존 지침을 재구성하여 취소 심사 사건의 우선순위 지정에 관한 보다 명확한 지침을 제공합니다. 개정된 지침은 귀화한 시민이 취소 대상이 되는 상황을 설명하는 기존 지침을 그 외에는 변경하지 않습니다.",
+      "정책 매뉴얼 제12권에 수록된 본 지침은 즉시 효력을 발생합니다. 정책 매뉴얼에 수록된 지침은 구속력을 가지며 관련된 이전의 모든 지침에 우선합니다. 1 이민 및 국적법(INA) 제340조(a)항 참조.",
+      "2 이민 및 국적법(INA) 제340조(a)항 및 제340조(e)항 참조.",
+      "3 86 연방관보(FR) 8277면(2021년 2월 2일) 참조.",
+      "PA-2026-13: 귀화 취소 회부 페이지: 2 정책 요약",
+      "미국 시민과 관련된 계류 중이거나 향후 접수되는 모든 청원서 또는 신청서에 대하여, 이민국이 청원인이 합법적으로 시민권을 취득하였는지 여부를 판단한다는 점을 확인합니다.",
+      "귀화 취소에 요구되는 입증책임에 대한 개관과 결정 사례 및 회부 사유의 목록을 제공합니다.",
+      "이민국이 귀화 취소를 위하여 사건을 회부하는 상황을 제시합니다.",
+      "귀화 취소 회부를 위하여 이민국 사건에 우선순위가 부여되는 시기를 제시합니다.",
+      "사람이 탈귀화된 후, 이민국은 탈귀화된 사람이 외국인 수익자를 위하여 제출한 계류 중이거나 이전에 승인된 모든 양식을 검토하여 해당 외국인 수익자가 그 혜택에 대한 자격이 있는지 또는 있었는지를 평가할 수 있다는 점을 확인합니다.",
+      "변경 사항 요약 해당 부분: 제12권 > 제L부, 미국 국적 상실 및 귀화 취소",
+      "제L부의 명칭을 \"귀화 취소\"에서 \"미국 국적 상실 및 귀화 취소\"로 변경합니다.",
+      "제1장(목적 및 배경)을 전면 개정합니다.",
+      "제2장의 제목을 \"귀화 취소 사유\"에서 \"귀화 취소\"로 변경하고 제2장을 전면 개정합니다.",
+      "제3장(귀화 취소의 효과)의 내용을 제2장으로 이동하고, 제3장은 유보합니다.",
+      "이민국은 본 개정과 일치하는 그 밖의 사소한 기술적, 문체적 및 정합을 위한 변경을 할 수도 있습니다.",
+      "인용 제12권: 시민권 및 귀화, 제L부, 미국 국적 상실 및 귀화 취소 [12 USCIS-PM L]."
+    ],
+    "es": [
+      "Departamento de Seguridad Nacional de los Estados Unidos (U.S. Department of Homeland Security) Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) www.uscis.gov Servicio de Ciudadanía e Inmigración de los Estados Unidos Oficina del Director Camp Springs, MD 20588-0009 14 de septiembre de 2026 PA-2026-13 Alerta de Política ASUNTO: Referencias de Revocación de Naturalización Propósito El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está emitiendo orientación de política en el Manual de Políticas de USCIS sobre la remisión de casos para la revocación de naturalización (comúnmente denominada “desnaturalización”) conforme a la sección 340 de la Ley de Inmigración y Nacionalidad (INA, por sus siglas en inglés). Antecedentes La ciudadanía estadounidense confiere derechos, privilegios y responsabilidades que son vitales para la seguridad y protección de los Estados Unidos. Si bien la gran mayoría de las personas que se naturalizan lo hacen de manera lícita y están comprometidas con los principios de la Constitución, existen algunas que obtienen la ciudadanía de manera ilegal o fraudulenta. Las acciones para revocar la naturalización obtenida ilegalmente o mediante fraude son una parte integral de los medios del gobierno para hacer cumplir las leyes de inmigración, disuadir el fraude migratorio y proteger la seguridad nacional y la seguridad pública de los Estados Unidos.",
+      "Un ciudadano estadounidense naturalizado está sujeto a la revocación de la naturalización si esta fue obtenida ilegalmente o mediante una declaración falsa intencional u ocultación de un hecho material.1 Existen dos formas en las que la naturalización de una persona puede ser revocada: mediante revocación civil conforme al INA 340 o revocación penal conforme al 18 U.S.C. 1425.2 Como cuestión de política, el DHS puede priorizar ciertos casos. USCIS está emitiendo esta orientación de conformidad con la Orden Ejecutiva 14148, Rescisiones Iniciales de Órdenes y Acciones Ejecutivas Perjudiciales, ejecutada el 20 de enero de 2025 (la cual revocó la EO 14012)3 y la posterior Orden Ejecutiva 14161, Protección de los Estados Unidos contra el Terrorismo Extranjero y Otras Amenazas a la Seguridad Nacional y la Seguridad Pública. Con esta actualización, USCIS está reorganizando la orientación existente en el Volumen 12, Parte L, para proporcionar una orientación más clara sobre la priorización de casos para la revisión de revocación. La orientación actualizada no modifica de otra manera la orientación existente que describe las circunstancias bajo las cuales un ciudadano naturalizado está sujeto a revocación.",
+      "Esta orientación, contenida en el Volumen 12 del Manual de Políticas, entra en vigor de manera inmediata. La orientación contenida en el Manual de Políticas es vinculante y reemplaza cualquier orientación previa relacionada. 1 Véase INA 340(a).",
+      "2 Véase INA 340(a) y INA 340(e).",
+      "3 Véase 86 FR 8277 (2 de febrero de 2021).",
+      "PA-2026-13: Referencias de Revocación de Naturalización Página: 2 Aspectos Destacados de la Política",
+      "Afirma que para cualquier petición o solicitud pendiente o presentada en el futuro asociada con un ciudadano estadounidense, USCIS determina si el peticionario obtuvo la ciudadanía de manera lícita.",
+      "Proporciona un resumen de la carga de la prueba requerida para la revocación de naturalización y una lista de decisiones de ejemplo y fundamentos para la remisión.",
+      "Proporciona las circunstancias en las que USCIS remite casos para la revocación de naturalización.",
+      "Proporciona cuándo los casos de USCIS son priorizados para la remisión de revocación de naturalización.",
+      "Afirma que después de que una persona es desnaturalizada, USCIS puede revisar cualquier formulario pendiente o previamente aprobado presentado en nombre de cualquier beneficiario extranjero por la persona desnaturalizada, con el fin de evaluar si el beneficiario extranjero es elegible o fue elegible para el beneficio.",
+      "Resumen de Cambios Sección Afectada: Volumen 12 > Parte L, Pérdida de la Nacionalidad Estadounidense y Revocación de Naturalización",
+      "Cambia el nombre de la Parte L de “Revocación de Naturalización” a “Pérdida de la Nacionalidad Estadounidense y Revocación de Naturalización.”",
+      "Revisa el Capítulo 1 (Propósito y Antecedentes) en su totalidad.",
+      "Cambia el título del Capítulo 2 de “Fundamentos para la Revocación de Naturalización” a “Revocación de Naturalización” y revisa el Capítulo 2 en su totalidad.",
+      "Traslada el contenido del Capítulo 3 (Efectos de la Revocación de Naturalización) al Capítulo 2, y reserva el Capítulo 3.",
+      "USCIS también puede realizar otros cambios técnicos, de estilo y de conformidad menores en consonancia con esta actualización.",
+      "Cita Volumen 12: Ciudadanía y Naturalización, Parte L, Pérdida de la Nacionalidad Estadounidense y Revocación de Naturalización [12 USCIS-PM L]."
+    ],
+    "zh": [
+      "美国国土安全部 美国公民及移民服务局 www.uscis.gov 美国公民及移民服务局 局长办公室 马里兰州坎普斯普林斯 20588-0009 2026年9月14日 PA-2026-13 政策预警 主题：归化撤销移交 目的 美国公民及移民服务局（USCIS）正在《USCIS政策手册》中发布关于依据《移民与国籍法》（INA）第340条移交归化撤销案件（通常称为“剥夺国籍”）的政策指南。 背景 美国国籍赋予了对美国的安全与保障至关重要的权利、特权和责任。虽然绝大多数入籍者都是依法入籍，并忠于宪法原则，但也有一些人是通过非法或欺诈手段获得公民身份的。为撤销非法取得或通过欺诈取得的归化身份而采取的行动，是政府执行移民法、威慑移民欺诈、保护美国国家安全与公共安全手段中不可或缺的一部分。",
+      "如果归化是通过非法手段取得的，或是通过故意虚假陈述或隐瞒重大事实取得的，归化美国公民将面临归化撤销。1 一个人的归化身份可以通过两种方式被撤销：依据INA第340条的民事撤销，或依据18 U.S.C. 1425的刑事撤销。2 作为一项政策，国土安全部（DHS）可以对某些案件设定优先次序。USCIS发布本指南，符合2025年1月20日签署的第14148号行政命令《初步撤销有害行政命令和行动》（该命令撤销了第14012号行政命令）3以及随后的第14161号行政命令《保护美国免受外国恐怖主义及其他国家安全和公共安全威胁》。通过此次更新，USCIS对第12卷第L部分的现行指南进行了重新编排，以便就撤销审查案件的优先排序提供更清晰的指导。此次更新的指南在其他方面并未改变关于归化公民在何种情况下将面临撤销的现行指南。",
+      "本指南载于《政策手册》第12卷，自即日起生效。《政策手册》中所载指南具有约束力，并取代任何相关的先前指南。1 见INA第340(a)条。",
+      "2 见INA第340(a)条和第340(e)条。",
+      "3 见联邦公报86 FR 8277（2021年2月2日）。",
+      "PA-2026-13：归化撤销移交 第2页 政策要点",
+      "确认对于与美国公民相关的任何待决或未来提交的申请书或申请表，USCIS将确定申请人是否依法取得公民身份。",
+      "概述撤销归化所需的举证责任，并列出移交的示例决定和理由。",
+      "规定USCIS移交归化撤销案件的情形。",
+      "规定USCIS案件何时被优先移交以进行归化撤销。",
+      "确认在一人被剥夺国籍后，USCIS可审查该被剥夺国籍者代表任何外国受益人提交的任何待决或先前已批准的表格，以评估该外国受益人是否有资格或曾经有资格获得该项福利。",
+      "变更摘要 受影响章节：第12卷 > 第L部分，丧失美国国籍与归化撤销",
+      "将第L部分名称由“归化撤销”更改为“丧失美国国籍与归化撤销”。",
+      "全面修订第1章（目的与背景）。",
+      "将第2章标题由“归化撤销理由”更改为“归化撤销”，并全面修订第2章。",
+      "将第3章（归化撤销的影响）中的内容移至第2章，并保留第3章为预留章节。",
+      "USCIS还可能根据此次更新做出其他细微的技术性、文体性和一致性修改。",
+      "引用 第12卷：公民身份与归化，第L部分，丧失美国国籍与归化撤销 [12 USCIS-PM L]。"
+    ],
+    "ja": [
+      "米国国土安全保障省 米国市民権・移民サービス局 www.uscis.gov 米国市民権・移民サービス局(USCIS) 局長室 Camp Springs, MD 20588-0009 2026年9月14日 PA-2026-13 政策通達 件名:帰化取消照会について 目的 米国市民権・移民サービス局(USCIS)は、移民国籍法(INA)第340条に基づく帰化取消(一般に「denaturalization」と呼ばれる)のための事案照会に関する政策指針を、USCIS政策マニュアルにおいて発出するものである。 背景 米国市民権は、米国の安全及び安全保障にとって極めて重要な権利、特権及び責任を付与するものである。帰化する個人の大多数は適法に帰化し、憲法の諸原則に忠実であるが、中には違法に又は不正に市民権を取得する者も存在する。違法に又は不正に取得された帰化を取り消す措置は、移民法を執行し、移民不正を抑止し、米国の国家安全保障及び公共の安全を保護するための政府の手段の不可欠な一部である。",
+      "帰化した米国市民は、帰化が違法に取得された場合、又は故意の虚偽表示若しくは重要な事実の隠蔽によって取得された場合には、帰化取消の対象となる。1 ある者の帰化が取り消される方法には二通りある。すなわち、INA第340条に基づく民事上の取消と、合衆国法典第18編第1425条に基づく刑事上の取消である。2 政策上の問題として、国土安全保障省(DHS)は特定の事案を優先的に扱うことができる。USCISは、2025年1月20日に執行された大統領令14148号「有害な大統領令及び措置の当初の撤回」(これにより大統領令14012号が撤回された)3及びその後の大統領令14161号「外国テロリスト及びその他の国家安全保障及び公共の安全に対する脅威から米国を保護すること」に整合する形で、本指針を発出するものである。本更新により、USCISは第12巻第L部の既存の指針を再編成し、取消審査のための事案の優先順位付けについてより明確な指針を提供する。更新された指針は、帰化した市民が取消の対象となる状況を定める既存の指針をその他の点で変更するものではない。",
+      "本指針は、政策マニュアル第12巻に収録されており、直ちに発効する。政策マニュアルに収録された指針は、これを規律するものであり、関連する従前の指針に優先する。1 INA第340条(a)を参照。",
+      "2 INA第340条(a)及びINA第340条(e)を参照。",
+      "3 連邦官報86 FR 8277(2021年2月2日)を参照。",
+      "PA-2026-13:帰化取消照会について 2ページ 政策の要点",
+      "米国市民に関連して現在係属中又は将来提出される請願若しくは申請のいずれについても、USCISは請願者が適法に市民権を取得したか否かを判断することを確認する。",
+      "帰化取消に必要な立証責任の概要並びに決定の例及び照会の根拠の一覧を提供する。",
+      "USCISが帰化取消のために事案を照会する状況を提供する。",
+      "USCISの事案が帰化取消の照会のために優先される場合を提供する。",
+      "ある者が帰化を取り消された後、USCISは、帰化を取り消された当該人物によって外国人受益者のために提出された係属中又は過去に承認された様式を審査し、当該外国人受益者が当該利益を受ける資格を有するか又は有していたかを評価することができることを確認する。",
+      "変更の概要 対象箇所:第12巻 > 第L部、米国国籍の喪失及び帰化取消",
+      "第L部の名称を「帰化取消」から「米国国籍の喪失及び帰化取消」に変更する。",
+      "第1章(目的及び背景)を全面的に改訂する。",
+      "第2章の表題を「帰化取消の根拠」から「帰化取消」に変更し、第2章を全面的に改訂する。",
+      "第3章(帰化取消の効果)の内容を第2章に移動し、第3章を留保とする。",
+      "USCISはまた、本更新に合致するその他の軽微な技術的、文体的及び整合のための変更を行うことがある。",
+      "引用 第12巻:市民権及び帰化、第L部、米国国籍の喪失及び帰化取消 [12 USCIS-PM L]。"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

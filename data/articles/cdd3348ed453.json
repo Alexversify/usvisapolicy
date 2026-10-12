@@ -93,5 +93,215 @@
     "enforcement",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/29/2026"
+      },
+      {
+        "t": "p",
+        "x": "TALLAHASSEE, Fla. — U.S. Citizenship and Immigration Services provided critical assistance to investigations that resulted in charges against 16 aliens accused of unlawfully voting in Florida elections. The Florida Office of the Attorney General made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "“U.S. Citizenship and Immigration Services is leveraging its expertise to aid local investigations of aliens residing in the United States,” said USCIS Spokesman Zach Kahler. “Every day, the dedicated men and women of USCIS are working to root out immigration fraud wherever it occurs, hold bad actors accountable, and help protect the rights of American citizens.”"
+      },
+      {
+        "t": "p",
+        "x": "The investigations began with referrals from the Florida Department of State Office of Election Crimes and county Supervisors of Elections after immigration status reviews, including checks of federal databases, flagged registered voters who were not U.S. citizens. Florida Department of Law Enforcement investigators obtained voter registration applications, poll book signatures or vote-by-mail certificates, and post-election ineligibility notices to verify the crime had been committed. USCIS was instrumental in confirming individuals’ alien status."
+      },
+      {
+        "t": "p",
+        "x": "The Office of Statewide Prosecution, working with the Florida Department of Law Enforcement, the Florida Department of State Office of Election Crimes, and USCIS has charged 16 aliens with registering to vote by falsely claiming U.S. citizenship and then voting. The office also charged four individuals with felony convictions who allegedly registered and voted while they remained on probation."
+      },
+      {
+        "t": "p",
+        "x": "At the time of the announcement, Florida law enforcement had arrested multiple defendants, including:"
+      },
+      {
+        "t": "li",
+        "x": "Astrid Shamatu Navarrete Quintana, 24, of Fort Myers, a Mexican alien and lawful permanent resident since March 31, 2023. She registered on Aug. 19, 2024, falsely affirming she was a U.S. citizen, and voted in person on Nov. 5, 2024. She later signed a Citizenship Acknowledgement Form admitting she is not a U.S. citizen. She is charged with Unqualified Noncitizen Electors Willfully Voting and False Swearing."
+      },
+      {
+        "t": "li",
+        "x": "Selvin Uton Whilby, 74, of Tampa, a Jamaican alien and lawful permanent resident since March 1, 1989. He registered in 2008, falsely affirming citizenship, and voted by mail in the 2024 primary and 2024 general elections as part of a vote-by-mail history dating to 2008. He later signed a form agreeing he is not a U.S. citizen. He is charged with two counts of Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Cyntia Vanessa Canales, 62, of Ocala, a Chilean alien and lawful permanent resident. She registered in Marion County in 2012 and again in 2022, each time falsely affirming she was a U.S. citizen and listing her place of birth as Florida. She voted early in person on Oct. 27, 2024. She is charged with Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Craig William Smith, 69, of Ocala, a Bahamian alien and lawful permanent resident since March 5, 1978. He registered on March 21, 2002, falsely affirming he was a U.S. citizen, and voted in the 2024 primary and 2024 general elections as part of a voting history dating to 2006. He later signed a Citizenship Acknowledgement Form admitting he is not a U.S. citizen. He is charged with two counts of Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Tracey Sabrina Jones, 49, of Lakeland, a United Kingdom alien and lawful permanent resident since April 25, 1984. She registered in 1995, falsely affirming citizenship, and voted early in person on Oct. 26, 2024. She later signed a form admitting she is ineligible to register to vote. She is charged with Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Kadian Gabrielle Amai Johnson, 29, of Lehigh Acres, a Jamaican national and lawful permanent resident since April 22, 2018. She registered on Sept. 30, 2024, falsely affirming citizenship, and voted in person on Nov. 5, 2024. She later signed a Citizenship Acknowledgement Form admitting she is not a U.S. citizen. She is charged with Unqualified Noncitizen Electors Willfully Voting and False Swearing."
+      },
+      {
+        "t": "li",
+        "x": "Mei-Lin Johnston, 57, of Okeechobee, an Indonesian alien and lawful permanent resident since May 10, 2022. She registered on Nov. 8, 2022, falsely affirming she was a U.S. citizen, and voted in person on Oct. 24, 2024. She later signed a form admitting she is not a U.S. citizen. She is charged with Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Alejandro Garcia Villegas, 65, of Lake City, a Mexican alien and lawful permanent resident since March 16, 2021. He registered on Sept. 20, 2022, falsely affirming he was a U.S. citizen and voted early in person on Oct. 30, 2024. He later agreed in writing that he is not a U.S. citizen. He is charged with Unqualified Noncitizen Electors Willfully Voting."
+      },
+      {
+        "t": "li",
+        "x": "Manon M. Raux, 62, of Naples, a Canadian alien and lawful permanent resident since Aug. 16, 1991. She registered on Sept. 18, 2024, falsely affirming citizenship, and voted early in person on Oct. 29, 2024. She later signed a form admitting she is ineligible to register to vote. She is charged with Unqualified Noncitizen Electors Willfully Voting and False Swearing."
+      },
+      {
+        "t": "li",
+        "x": "James Mark Hollingsworth, 62, of Lake Suzy, a Canadian alien and lawful permanent resident since Oct. 29, 1967. He registered through the Florida Department of Highway Safety and Motor Vehicles in 2021 and voted by mail in both the 2024 primary and 2024 general elections. After receiving a non-citizen notice, he emailed the supervisor of elections acknowledging he is a permanent resident and stating he had been voting in Florida. He is charged with two counts of Unqualified Noncitizen Electors Willfully Voting and two counts of False Swearing."
+      },
+      {
+        "t": "li",
+        "x": "Giorgio Dominique Mucelli, 66, of Melbourne, a Canadian alien and lawful permanent resident who is charged with Voting by a Non-Citizen Elector and False Affirmation after voting in seven general elections from 2004 through 2024, including the 2024 general election."
+      },
+      {
+        "t": "p",
+        "x": "Each charged offense is a third-degree felony. If convicted, most of the defendants face up to 10 years in the Florida Department of Corrections. Hollingsworth faces up to 20 years."
+      },
+      {
+        "t": "p",
+        "x": "The cases will be prosecuted by the Office of Statewide Prosecution, with cases spanning across Brevard, Collier, Columbia, DeSoto, Hillsborough, Lee, Marion, Okeechobee, and Polk Counties."
+      },
+      {
+        "t": "p",
+        "x": "The investigation remains active and ongoing. Additional charges and arrests are expected."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "09/29/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:01Z",
+    "from": "page",
+    "chars": 6669
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 9월 29일",
+      "플로리다주 탤러해시, 미국 시민권이민서비스국(USCIS)은 플로리다주 선거에서 불법적으로 투표한 혐의로 외국인 16명에 대한 기소로 이어진 수사에 중요한 지원을 제공했습니다. 플로리다주 법무장관실이 이를 발표했습니다.",
+      "USCIS 대변인 재크 카흘러는 \"미국 시민권이민서비스국은 미국 내 거주 외국인에 대한 지역 수사를 지원하기 위해 자체 전문성을 활용하고 있습니다\"라고 말했습니다. \"USCIS의 헌신적인 직원들은 매일 이민 사기가 발생하는 모든 곳에서 이를 근절하고, 악의적인 행위자들에게 책임을 묻고, 미국 시민의 권리를 보호하는 데 도움을 주기 위해 노력하고 있습니다.\"",
+      "이번 수사는 연방 데이터베이스 확인을 포함한 이민 신분 검토 결과 등록 유권자 중 미국 시민이 아닌 자가 적발된 후, 플로리다주 국무부 선거범죄국과 각 카운티 선거관리국이 사건을 회부하면서 시작되었습니다. 플로리다주 법집행국 수사관들은 유권자 등록 신청서, 투표소 명부 서명 또는 우편투표 증명서, 그리고 선거 후 자격 상실 통지서를 확보하여 범죄가 발생했음을 확인했습니다. USCIS는 개인의 외국인 신분을 확인하는 데 중요한 역할을 했습니다.",
+      "주 전역 기소국은 플로리다주 법집행국, 플로리다주 국무부 선거범죄국 및 USCIS와 협력하여, 미국 시민권을 허위로 주장하여 유권자로 등록한 후 투표한 혐의로 외국인 16명을 기소했습니다. 또한 동 기관은 보호관찰 중임에도 불구하고 등록 및 투표한 것으로 알려진 중범죄 전과자 4명을 기소했습니다.",
+      "발표 당시, 플로리다주 법집행 당국은 다음을 포함한 다수의 피고인을 체포했습니다.",
+      "애스트리드 샤마투 나바레테 퀸타나(24세, 포트마이어스 거주)는 멕시코 국적 외국인으로, 2023년 3월 31일부터 합법적 영주권자였습니다. 그녀는 2024년 8월 19일 자신이 미국 시민이라고 허위로 진술하며 등록하였고, 2024년 11월 5일 직접 투표했습니다. 이후 그녀는 자신이 미국 시민이 아님을 인정하는 시민권 확인서(Citizenship Acknowledgement Form)에 서명했습니다. 그녀는 자격 없는 외국인 선거인의 고의적 투표 및 허위 선서 혐의로 기소되었습니다.",
+      "셀빈 유턴 윌비(74세, 탬파 거주)는 자메이카 국적 외국인으로, 1989년 3월 1일부터 합법적 영주권자였습니다. 그는 2008년 시민권을 허위로 주장하며 등록하였고, 2008년부터 이어진 우편투표 이력의 일환으로 2024년 예비선거 및 2024년 본선거에서 우편으로 투표했습니다. 이후 그는 자신이 미국 시민이 아님에 동의하는 서류에 서명했습니다. 그는 자격 없는 외국인 선거인의 고의적 투표 혐의 2건으로 기소되었습니다.",
+      "신티아 바네사 카날레스(62세, 오칼라 거주)는 칠레 국적 외국인으로 합법적 영주권자입니다. 그녀는 2012년과 2022년 두 차례에 걸쳐 매리언 카운티에서 등록하였으며, 매번 자신이 미국 시민이라고 허위로 진술하고 출생지를 플로리다로 기재했습니다. 그녀는 2024년 10월 27일 사전투표로 직접 투표했습니다. 그녀는 자격 없는 외국인 선거인의 고의적 투표 혐의로 기소되었습니다.",
+      "크레이그 윌리엄 스미스(69세, 오칼라 거주)는 바하마 국적 외국인으로, 1978년 3월 5일부터 합법적 영주권자였습니다. 그는 2002년 3월 21일 자신이 미국 시민이라고 허위로 진술하며 등록하였고, 2006년부터 이어진 투표 이력의 일환으로 2024년 예비선거 및 2024년 본선거에서 투표했습니다. 이후 그는 자신이 미국 시민이 아님을 인정하는 시민권 확인서에 서명했습니다. 그는 자격 없는 외국인 선거인의 고의적 투표 혐의 2건으로 기소되었습니다.",
+      "트레이시 사브리나 존스(49세, 레이클랜드 거주)는 영국 국적 외국인으로, 1984년 4월 25일부터 합법적 영주권자였습니다. 그녀는 1995년 시민권을 허위로 주장하며 등록하였고, 2024년 10월 26일 사전투표로 직접 투표했습니다. 이후 그녀는 자신이 유권자 등록 자격이 없음을 인정하는 서류에 서명했습니다. 그녀는 자격 없는 외국인 선거인의 고의적 투표 혐의로 기소되었습니다.",
+      "케이디언 가브리엘 아마이 존슨(29세, 리하이 에이커스 거주)은 자메이카 국적자로, 2018년 4월 22일부터 합법적 영주권자였습니다. 그녀는 2024년 9월 30일 시민권을 허위로 주장하며 등록하였고, 2024년 11월 5일 직접 투표했습니다. 이후 그녀는 자신이 미국 시민이 아님을 인정하는 시민권 확인서에 서명했습니다. 그녀는 자격 없는 외국인 선거인의 고의적 투표 및 허위 선서 혐의로 기소되었습니다.",
+      "메이린 존스턴(57세, 오키초비 거주)은 인도네시아 국적 외국인으로, 2022년 5월 10일부터 합법적 영주권자였습니다. 그녀는 2022년 11월 8일 자신이 미국 시민이라고 허위로 진술하며 등록하였고, 2024년 10월 24일 직접 투표했습니다. 이후 그녀는 자신이 미국 시민이 아님을 인정하는 서류에 서명했습니다. 그녀는 자격 없는 외국인 선거인의 고의적 투표 혐의로 기소되었습니다.",
+      "레이크시티 출신의 65세 멕시코 국적 외국인이자 2021년 3월 16일부터 합법적 영주권자인 알레한드로 가르시아 비예가스는 2022년 9월 20일 자신이 미국 시민이라고 허위로 확인하며 유권자 등록을 하였고, 2024년 10월 30일 사전투표소에서 직접 투표하였습니다. 그는 이후 자신이 미국 시민이 아니라는 사실을 서면으로 인정하였습니다. 그는 자격 없는 비시민권자 선거인의 고의적 투표 혐의로 기소되었습니다.",
+      "네이플스 출신의 62세 캐나다 국적 외국인이자 1991년 8월 16일부터 합법적 영주권자인 마농 엠. 로는 2024년 9월 18일 시민권을 허위로 확인하며 유권자 등록을 하였고, 2024년 10월 29일 사전투표소에서 직접 투표하였습니다. 그녀는 이후 자신이 유권자 등록 자격이 없다는 사실을 인정하는 양식에 서명하였습니다. 그녀는 자격 없는 비시민권자 선거인의 고의적 투표 및 허위 선서 혐의로 기소되었습니다.",
+      "레이크 수지 출신의 62세 캐나다 국적 외국인이자 1967년 10월 29일부터 합법적 영주권자인 제임스 마크 홀링스워스는 2021년 플로리다주 도로안전차량국(Florida Department of Highway Safety and Motor Vehicles)을 통해 등록하였고, 2024년 예비선거와 2024년 본선거 모두 우편으로 투표하였습니다. 비시민권자 통지를 받은 후, 그는 선거관리관에게 자신이 영주권자이며 플로리다주에서 계속 투표해 왔다고 인정하는 이메일을 보냈습니다. 그는 자격 없는 비시민권자 선거인의 고의적 투표 혐의 2건과 허위 선서 혐의 2건으로 기소되었습니다.",
+      "멜버른 출신의 66세 캐나다 국적 외국인이자 합법적 영주권자인 지오르지오 도미니크 무첼리는 2004년부터 2024년까지 2024년 본선거를 포함한 일곱 차례의 본선거에서 투표한 혐의로 비시민권자 선거인의 투표 및 허위 확인 혐의로 기소되었습니다.",
+      "기소된 각 범죄는 3급 중범죄에 해당합니다. 유죄 판결을 받을 경우, 대부분의 피고인은 플로리다주 교정국에서 최대 10년의 징역형에 처해질 수 있습니다. 홀링스워스는 최대 20년의 징역형에 처해질 수 있습니다.",
+      "해당 사건들은 주정부 검찰청(Office of Statewide Prosecution)에 의해 기소될 예정이며, 사건들은 브레바드, 콜리어, 콜럼비아, 디소토, 힐즈버러, 리, 마리온, 오키초비, 폴크 카운티에 걸쳐 있습니다.",
+      "수사는 현재도 진행 중이며 계속되고 있습니다. 추가 기소와 체포가 예상됩니다.",
+      "USCIS에 이민 혜택 사기 또는 남용이 의심되는 사례를 신고하려면 USCIS 제보 양식(USCIS Tip Form)을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 9월 29일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "29/09/2026",
+      "TALLAHASSEE, Florida. El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) proporcionó asistencia fundamental a las investigaciones que dieron lugar a cargos contra 16 extranjeros acusados de votar ilegalmente en elecciones de Florida. La Oficina del Procurador General de Florida hizo el anuncio.",
+      "\"El Servicio de Ciudadanía e Inmigración de los Estados Unidos está aprovechando su experiencia para ayudar a las investigaciones locales de extranjeros que residen en los Estados Unidos\", dijo el vocero de USCIS, Zach Kahler. \"Todos los días, los hombres y mujeres dedicados de USCIS trabajan para erradicar el fraude migratorio dondequiera que ocurra, hacer responsables a los malos actores y ayudar a proteger los derechos de los ciudadanos estadounidenses\".",
+      "Las investigaciones comenzaron con remisiones de la Oficina de Delitos Electorales del Departamento de Estado de Florida y de los Supervisores de Elecciones de los condados, luego de que las revisiones del estatus migratorio, incluidas verificaciones de bases de datos federales, identificaran a votantes registrados que no eran ciudadanos estadounidenses. Los investigadores del Departamento de Cumplimiento de la Ley de Florida obtuvieron solicitudes de registro de votantes, firmas del libro de registro de votación o certificados de voto por correo, así como notificaciones de inelegibilidad posteriores a las elecciones, para verificar que se había cometido el delito. USCIS fue fundamental para confirmar el estatus migratorio de las personas.",
+      "La Oficina de Enjuiciamiento Estatal, en colaboración con el Departamento de Cumplimiento de la Ley de Florida, la Oficina de Delitos Electorales del Departamento de Estado de Florida y USCIS, ha presentado cargos contra 16 extranjeros por registrarse para votar alegando falsamente ser ciudadanos estadounidenses y luego votar. La oficina también presentó cargos contra cuatro personas con condenas por delitos graves que presuntamente se registraron y votaron mientras permanecían en libertad condicional.",
+      "Al momento del anuncio, las autoridades policiales de Florida habían arrestado a varios acusados, entre ellos:",
+      "Astrid Shamatu Navarrete Quintana, de 24 años, de Fort Myers, extranjera mexicana y residente permanente legal desde el 31 de marzo de 2023. Se registró el 19 de agosto de 2024, afirmando falsamente que era ciudadana estadounidense, y votó en persona el 5 de noviembre de 2024. Posteriormente firmó un Formulario de Reconocimiento de Ciudadanía en el que admitió que no es ciudadana estadounidense. Está acusada de Votación Deliberada por Electores Extranjeros No Calificados y Declaración Falsa Bajo Juramento.",
+      "Selvin Uton Whilby, de 74 años, de Tampa, extranjero jamaiquino y residente permanente legal desde el 1 de marzo de 1989. Se registró en 2008, afirmando falsamente su ciudadanía, y votó por correo en las elecciones primarias de 2024 y en las elecciones generales de 2024, como parte de un historial de votación por correo que data de 2008. Posteriormente firmó un formulario en el que reconoció que no es ciudadano estadounidense. Está acusado de dos cargos de Votación Deliberada por Electores Extranjeros No Calificados.",
+      "Cyntia Vanessa Canales, de 62 años, de Ocala, extranjera chilena y residente permanente legal. Se registró en el condado de Marion en 2012 y nuevamente en 2022, afirmando falsamente en cada ocasión que era ciudadana estadounidense y declarando que su lugar de nacimiento era Florida. Votó de manera anticipada en persona el 27 de octubre de 2024. Está acusada de Votación Deliberada por Electores Extranjeros No Calificados.",
+      "Craig William Smith, de 69 años, de Ocala, extranjero bahameño y residente permanente legal desde el 5 de marzo de 1978. Se registró el 21 de marzo de 2002, afirmando falsamente que era ciudadano estadounidense, y votó en las elecciones primarias de 2024 y en las elecciones generales de 2024, como parte de un historial de votación que data de 2006. Posteriormente firmó un Formulario de Reconocimiento de Ciudadanía en el que admitió que no es ciudadano estadounidense. Está acusado de dos cargos de Votación Deliberada por Electores Extranjeros No Calificados.",
+      "Tracey Sabrina Jones, de 49 años, de Lakeland, extranjera del Reino Unido y residente permanente legal desde el 25 de abril de 1984. Se registró en 1995, afirmando falsamente su ciudadanía, y votó de manera anticipada en persona el 26 de octubre de 2024. Posteriormente firmó un formulario en el que admitió que no es elegible para registrarse para votar. Está acusada de Votación Deliberada por Electores Extranjeros No Calificados.",
+      "Kadian Gabrielle Amai Johnson, de 29 años, de Lehigh Acres, ciudadana jamaiquina y residente permanente legal desde el 22 de abril de 2018. Se registró el 30 de septiembre de 2024, afirmando falsamente su ciudadanía, y votó en persona el 5 de noviembre de 2024. Posteriormente firmó un Formulario de Reconocimiento de Ciudadanía en el que admitió que no es ciudadana estadounidense. Está acusada de Votación Deliberada por Electores Extranjeros No Calificados y Declaración Falsa Bajo Juramento.",
+      "Mei-Lin Johnston, de 57 años, de Okeechobee, extranjera indonesia y residente permanente legal desde el 10 de mayo de 2022. Se registró el 8 de noviembre de 2022, afirmando falsamente que era ciudadana estadounidense, y votó en persona el 24 de octubre de 2024. Posteriormente firmó un formulario en el que admitió que no es ciudadana estadounidense. Está acusada de Votación Deliberada por Electores Extranjeros No Calificados.",
+      "Alejandro García Villegas, de 65 años, de Lake City, un extranjero mexicano y residente permanente legal desde el 16 de marzo de 2021. Se registró el 20 de septiembre de 2022, afirmando falsamente que era ciudadano estadounidense, y votó anticipadamente en persona el 30 de octubre de 2024. Posteriormente reconoció por escrito que no es ciudadano estadounidense. Está acusado de Votación Intencional por Electores No Calificados No Ciudadanos.",
+      "Manon M. Raux, de 62 años, de Naples, una extranjera canadiense y residente permanente legal desde el 16 de agosto de 1991. Se registró el 18 de septiembre de 2024, afirmando falsamente su ciudadanía, y votó anticipadamente en persona el 29 de octubre de 2024. Posteriormente firmó un formulario en el que admitía que no es elegible para registrarse para votar. Está acusada de Votación Intencional por Electores No Calificados No Ciudadanos y Falso Juramento.",
+      "James Mark Hollingsworth, de 62 años, de Lake Suzy, un extranjero canadiense y residente permanente legal desde el 29 de octubre de 1967. Se registró a través del Departamento de Seguridad Vial y Vehículos Motorizados de la Florida (Florida Department of Highway Safety and Motor Vehicles) en 2021 y votó por correo tanto en las elecciones primarias de 2024 como en las elecciones generales de 2024. Después de recibir un aviso de no ciudadano, envió un correo electrónico al supervisor de elecciones reconociendo que es residente permanente y manifestando que había estado votando en Florida. Está acusado de dos cargos de Votación Intencional por Electores No Calificados No Ciudadanos y dos cargos de Falso Juramento.",
+      "Giorgio Dominique Mucelli, de 66 años, de Melbourne, un extranjero canadiense y residente permanente legal, quien está acusado de Votación por un Elector No Ciudadano y Falsa Afirmación después de votar en siete elecciones generales desde 2004 hasta 2024, incluida la elección general de 2024.",
+      "Cada delito imputado es un delito grave de tercer grado. Si son condenados, la mayoría de los acusados enfrentan hasta 10 años en el Departamento de Correcciones de la Florida. Hollingsworth enfrenta hasta 20 años.",
+      "Los casos serán procesados por la Oficina de Fiscalía Estatal (Office of Statewide Prosecution), con casos que abarcan los condados de Brevard, Collier, Columbia, DeSoto, Hillsborough, Lee, Marion, Okeechobee y Polk.",
+      "La investigación permanece activa y en curso. Se esperan cargos y arrestos adicionales.",
+      "Para denunciar ante el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) una presunta fraude o abuso de beneficios migratorios, utilice el Formulario de Denuncias de USCIS (USCIS Tip Form).",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "29/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年09月29日",
+      "佛罗里达州塔拉哈西市, , 美国公民及移民服务局(USCIS)为相关调查提供了关键协助,该调查导致16名被控在佛罗里达州选举中非法投票的外国人遭到指控。佛罗里达州总检察长办公室发布了此项公告。",
+      "美国公民及移民服务局发言人扎克·卡勒(Zach Kahler)表示:“美国公民及移民服务局正在运用其专业知识,协助对居住在美国境内的外国人开展的地方调查。每一天,美国公民及移民服务局敬业的工作人员都在努力铲除无论发生在何处的移民欺诈行为,追究不法行为人的责任,并协助保护美国公民的权利。”",
+      "此次调查源于佛罗里达州国务院选举犯罪办公室和各县选举监督官在进行移民身份审查(包括核查联邦数据库)后发出的转介,这些审查发现部分已登记选民并非美国公民。佛罗里达州执法部调查人员获取了选民登记申请表、投票站签名簿或邮寄选票证明以及选后不合格通知,以核实犯罪行为确已发生。美国公民及移民服务局在确认相关人员的外国人身份方面发挥了关键作用。",
+      "佛罗里达州州级公诉办公室与佛罗里达州执法部、佛罗里达州国务院选举犯罪办公室及美国公民及移民服务局合作,已对16名外国人提出指控,指控其通过谎称自己是美国公民进行选民登记并随后投票。该办公室还对4名曾被重罪定罪、涉嫌在缓刑期间登记并投票的人员提出指控。",
+      "截至公告发布时,佛罗里达州执法部门已逮捕多名被告,包括:",
+      "阿斯特丽德·沙马图·纳瓦雷特·金塔纳(Astrid Shamatu Navarrete Quintana),24岁,居住在迈尔斯堡,墨西哥籍外国人,自2023年3月31日起为合法永久居民。她于2024年8月19日登记选民,谎称自己是美国公民,并于2024年11月5日亲自投票。她后来签署了一份《公民身份确认表》,承认自己并非美国公民。她被指控犯有不合格非公民选民故意投票罪和虚假宣誓罪。",
+      "塞尔文·尤顿·惠尔比(Selvin Uton Whilby),74岁,居住在坦帕,牙买加籍外国人,自1989年3月1日起为合法永久居民。他于2008年登记选民,谎称自己拥有公民身份,并在2024年初选和2024年大选中以邮寄方式投票,其邮寄投票记录可追溯至2008年。他后来签署了一份表格,承认自己并非美国公民。他被指控犯有两项不合格非公民选民故意投票罪。",
+      "辛西娅·瓦妮莎·卡纳莱斯(Cyntia Vanessa Canales),62岁,居住在奥卡拉,智利籍外国人,合法永久居民。她于2012年在马里昂县登记选民,2022年再次登记,每次均谎称自己是美国公民,并将出生地填写为佛罗里达州。她于2024年10月27日提前亲自投票。她被指控犯有不合格非公民选民故意投票罪。",
+      "克雷格·威廉·史密斯(Craig William Smith),69岁,居住在奥卡拉,巴哈马籍外国人,自1978年3月5日起为合法永久居民。他于2002年3月21日登记选民,谎称自己是美国公民,并在2024年初选和2024年大选中投票,其投票记录可追溯至2006年。他后来签署了一份《公民身份确认表》,承认自己并非美国公民。他被指控犯有两项不合格非公民选民故意投票罪。",
+      "特蕾西·萨布丽娜·琼斯(Tracey Sabrina Jones),49岁,居住在莱克兰,英国籍外国人,自1984年4月25日起为合法永久居民。她于1995年登记选民,谎称拥有公民身份,并于2024年10月26日提前亲自投票。她后来签署了一份表格,承认自己不具备选民登记资格。她被指控犯有不合格非公民选民故意投票罪。",
+      "卡迪安·加布里埃尔·阿迈·约翰逊(Kadian Gabrielle Amai Johnson),29岁,居住在利哈伊埃克斯,牙买加国民,自2018年4月22日起为合法永久居民。她于2024年9月30日登记选民,谎称拥有公民身份,并于2024年11月5日亲自投票。她后来签署了一份《公民身份确认表》,承认自己并非美国公民。她被指控犯有不合格非公民选民故意投票罪和虚假宣誓罪。",
+      "梅琳·约翰斯顿(Mei-Lin Johnston),57岁,居住在奥基乔比,印度尼西亚籍外国人,自2022年5月10日起为合法永久居民。她于2022年11月8日登记选民,谎称自己是美国公民,并于2024年10月24日亲自投票。她后来签署了一份表格,承认自己并非美国公民。她被指控犯有不合格非公民选民故意投票罪。",
+      "亚历杭德罗·加西亚·比列加斯(Alejandro Garcia Villegas),65岁,居住在湖市(Lake City),为墨西哥籍外国人,自2021年3月16日起为合法永久居民。他于2022年9月20日登记选民,虚假声明自己是美国公民,并于2024年10月30日亲自提前投票。他后来以书面形式承认自己不是美国公民。他被控犯有不合格非公民选民故意投票罪。",
+      "玛侬·M·罗(Manon M. Raux),62岁,居住在那不勒斯(Naples),为加拿大籍外国人,自1991年8月16日起为合法永久居民。她于2024年9月18日登记选民,虚假声明具有公民身份,并于2024年10月29日亲自提前投票。她后来签署了一份表格,承认自己没有资格登记投票。她被控犯有不合格非公民选民故意投票罪和虚假宣誓罪。",
+      "詹姆斯·马克·霍林斯沃思(James Mark Hollingsworth),62岁,居住在苏珊湖市(Lake Suzy),为加拿大籍外国人,自1967年10月29日起为合法永久居民。他于2021年通过佛罗里达州公路安全与机动车管理厅(Florida Department of Highway Safety and Motor Vehicles)登记选民,并在2024年初选和2024年大选中均通过邮寄方式投票。在收到非公民通知后,他给选举事务监督官发送电子邮件,承认自己是永久居民,并表示他一直在佛罗里达州投票。他被控犯有两项不合格非公民选民故意投票罪和两项虚假宣誓罪。",
+      "乔治奥·多米尼克·穆切利(Giorgio Dominique Mucelli),66岁,居住在墨尔本(Melbourne),为加拿大籍外国人,属合法永久居民,被控犯有非公民选民投票罪和虚假宣誓罪,原因是他在2004年至2024年间的七次大选中投票,其中包括2024年大选。",
+      "每项被指控的罪行均为三级重罪。若罪名成立,大多数被告将面临在佛罗里达州惩教厅(Florida Department of Corrections)服刑最高10年的处罚。霍林斯沃思则面临最高20年的刑期。",
+      "此类案件将由州检察官办公室(Office of Statewide Prosecution)负责起诉,案件分布于布里瓦德(Brevard)、科利尔(Collier)、哥伦比亚(Columbia)、迪索托(DeSoto)、希尔斯伯勒(Hillsborough)、李(Lee)、马里恩(Marion)、奥基乔比(Okeechobee)和波尔克(Polk)等县。",
+      "调查工作仍在积极进行中。预计还将有更多指控和逮捕行动。",
+      "如需向美国公民及移民服务局(USCIS)举报涉嫌的移民福利欺诈或滥用行为,请使用USCIS举报表。",
+      "欲了解有关USCIS及其项目的更多信息,请访问uscis.gov,或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年09月29日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年09月29日",
+      "フロリダ州タラハシー 米国市民権・移民局(USCIS)は、フロリダ州の選挙において不法に投票したとして告発された16人の外国人に関する捜査に対し、重要な支援を提供した。この発表はフロリダ州司法長官室により行われた。",
+      "「米国市民権・移民局は、その専門知識を活用し、米国内に居住する外国人に関する地元当局の捜査を支援しています」とUSCIS報道官ザック・カーラー氏は述べた。「USCISの献身的な職員たちは日々、移民詐欺がどこで発生しても根絶し、悪質な行為者に責任を負わせ、米国市民の権利を守るために尽力しています。」",
+      "本捜査は、フロリダ州務長官室選挙犯罪局および郡選挙管理官による移民資格審査(連邦データベースの照会を含む)の結果、米国市民でない者が有権者登録をしていることが判明したことを受けた通報から開始された。フロリダ州法執行局の捜査官は、有権者登録申請書、投票所名簿の署名または郵便投票証明書、および選挙後の資格喪失通知を入手し、犯罪が行われたことを確認した。USCISは、対象者の外国人としての身分を確認する上で重要な役割を果たした。",
+      "州全域訴追局は、フロリダ州法執行局、フロリダ州務長官室選挙犯罪局及びUSCISと連携し、米国市民であると虚偽の申告をして有権者登録を行い、投票した16人の外国人を告発した。同局はまた、保護観察中にもかかわらず有権者登録及び投票を行ったとされる重罪前科を有する4人についても告発した。",
+      "発表時点で、フロリダ州法執行当局は複数の被告人を逮捕しており、その内訳は以下の通りである。",
+      "アストリッド・シャマトゥ・ナバレッテ・キンタナ(24歳、フォートマイヤーズ在住)は、メキシコ国籍の外国人であり、2023年3月31日より合法永住者である。同人は2024年8月19日に有権者登録を行った際、自らが米国市民であると虚偽の申告を行い、2024年11月5日に本人投票を行った。その後、自らが米国市民でないことを認める市民権確認書に署名した。同人は、資格のない非市民有権者による故意の投票及び虚偽宣誓の罪で告発されている。",
+      "セルヴィン・ウトン・ウィルビー(74歳、タンパ在住)は、ジャマイカ国籍の外国人であり、1989年3月1日より合法永住者である。同人は2008年に有権者登録を行った際、市民権について虚偽の申告を行い、2008年から続く郵便投票の履歴の一環として、2024年の予備選挙及び本選挙において郵便投票を行った。その後、自らが米国市民でないことを認める書面に署名した。同人は、資格のない非市民有権者による故意の投票の罪で2件告発されている。",
+      "シンシア・ヴァネッサ・カナレス(62歳、オカラ在住)は、チリ国籍の外国人であり、合法永住者である。同人はマリオン郡において2012年及び2022年に有権者登録を行い、いずれの際にも自らが米国市民であると虚偽の申告を行い、出生地をフロリダ州と記載した。同人は2024年10月27日に期日前投票を本人投票で行った。同人は、資格のない非市民有権者による故意の投票の罪で告発されている。",
+      "クレイグ・ウィリアム・スミス(69歳、オカラ在住)は、バハマ国籍の外国人であり、1978年3月5日より合法永住者である。同人は2002年3月21日に有権者登録を行った際、自らが米国市民であると虚偽の申告を行い、2006年から続く投票履歴の一環として、2024年の予備選挙及び本選挙において投票を行った。その後、自らが米国市民でないことを認める市民権確認書に署名した。同人は、資格のない非市民有権者による故意の投票の罪で2件告発されている。",
+      "トレイシー・サブリナ・ジョーンズ(49歳、レイクランド在住)は、英国国籍の外国人であり、1984年4月25日より合法永住者である。同人は1995年に有権者登録を行った際、市民権について虚偽の申告を行い、2024年10月26日に期日前投票を本人投票で行った。その後、自らが有権者登録の資格を有しないことを認める書面に署名した。同人は、資格のない非市民有権者による故意の投票の罪で告発されている。",
+      "カディアン・ガブリエル・アマイ・ジョンソン(29歳、リーハイ・エイカーズ在住)は、ジャマイカ国籍を有し、2018年4月22日より合法永住者である。同人は2024年9月30日に有権者登録を行った際、市民権について虚偽の申告を行い、2024年11月5日に本人投票を行った。その後、自らが米国市民でないことを認める市民権確認書に署名した。同人は、資格のない非市民有権者による故意の投票及び虚偽宣誓の罪で告発されている。",
+      "メイ・リン・ジョンストン(57歳、オキーチョビー在住)は、インドネシア国籍の外国人であり、2022年5月10日より合法永住者である。同人は2022年11月8日に有権者登録を行った際、自らが米国市民であると虚偽の申告を行い、2024年10月24日に本人投票を行った。その後、自らが米国市民でないことを認める書面に署名した。同人は、資格のない非市民有権者による故意の投票の罪で告発されている。",
+      "レイクシティ在住のアレハンドロ・ガルシア・ビジェガス(65歳)は、メキシコ国籍の外国人であり、2021年3月16日以降、合法永住者である。同人は2022年9月20日に登録し、自らが米国市民であると虚偽の申告を行い、2024年10月30日に期日前投票を対面で行った。同人は後に、自らが米国市民でないことを書面で認めた。同人は「資格のない非市民有権者による故意の投票」の罪で起訴されている。",
+      "ネープルズ在住のマノン・M・ロー(62歳)は、カナダ国籍の外国人であり、1991年8月16日以降、合法永住者である。同人は2024年9月18日に登録し、市民権について虚偽の申告を行い、2024年10月29日に期日前投票を対面で行った。同人は後に、自らが投票登録の資格がないことを認める書面に署名した。同人は「資格のない非市民有権者による故意の投票」及び「虚偽宣誓」の罪で起訴されている。",
+      "レイクスージー在住のジェームズ・マーク・ホリングスワース(62歳)は、カナダ国籍の外国人であり、1967年10月29日以降、合法永住者である。同人は2021年にフロリダ州道路安全・自動車局を通じて登録し、2024年の予備選挙及び2024年の本選挙の両方において郵便投票を行った。非市民である旨の通知を受けた後、同人は選挙管理官に電子メールを送り、自らが永住者であること、及びフロリダ州において投票を続けてきたことを認めた。同人は「資格のない非市民有権者による故意の投票」2件及び「虚偽宣誓」2件の罪で起訴されている。",
+      "メルボルン在住のジョルジオ・ドミニク・ムチェリ(66歳)は、カナダ国籍の外国人であり合法永住者であるが、2004年から2024年までの間、2024年の本選挙を含む7回の本選挙において投票を行った後、「非市民有権者による投票」及び「虚偽の申告」の罪で起訴されている。",
+      "起訴された各犯罪は第3級重罪である。有罪判決を受けた場合、被告人の大半はフロリダ州矯正局において最長10年の刑に処される可能性がある。ホリングスワースは最長20年の刑に処される可能性がある。",
+      "これらの事件は州全域検察局(Office of Statewide Prosecution)により起訴され、事件はブレバード郡、コリアー郡、コロンビア郡、デソト郡、ヒルズボロー郡、リー郡、マリオン郡、オキーチョビー郡、及びポーク郡にわたっている。",
+      "本件の捜査は現在も継続して行われている。追加の起訴及び逮捕が見込まれる。",
+      "移民局(USCIS)に対して移民給付に関する不正行為又は濫用の疑いを報告するには、USCIS通報フォーム(USCIS Tip Form)をご利用ください。",
+      "USCIS及びそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook、及びLinkedInにて当局をフォローしてください。",
+      "2026年9月29日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

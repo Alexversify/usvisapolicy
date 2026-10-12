@@ -87,5 +87,87 @@
     "eb5",
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/29/2026"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services (USCIS) is updating fees for the EB-5 Immigrant Investor Program to ensure EB-5 fees fully recover the cost of operating the program, meet statutory processing time goals, and support integrity measures such as audits and site visits."
+      },
+      {
+        "t": "p",
+        "x": "Congress created the EB-5 program in 1990 to promote U.S. economic growth through job creation and capital investment by immigrant investors. By investing in the U.S. and creating American jobs, aliens can become eligible for lawful permanent residence (also known as a Green Card)."
+      },
+      {
+        "t": "p",
+        "x": "The EB-5 Reform and Integrity Act of 2022 directed USCIS to conduct a program-specific fee study and set EB-5 fees at a level that recovers the full cost of administering the program. The law also established processing time goals and strengthened program integrity requirements, including compliance reviews, audits, site visits, and measures to help prevent fraud and abuse."
+      },
+      {
+        "t": "p",
+        "x": "USCIS is largely funded by filing fees, not taxpayer dollars. This means the cost of reviewing applications, conducting background checks, verifying eligibility, detecting fraud, and maintaining program operations must be paid by those who use the immigration system."
+      },
+      {
+        "t": "p",
+        "x": "The new fees are designed to go into effect on Nov. 30, 2026. This rule finalizes the notice of proposed rulemaking that the Department of Homeland Security published in October 2025."
+      },
+      {
+        "t": "p",
+        "x": "09/29/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:02Z",
+    "from": "page",
+    "chars": 1416
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 9월 29일",
+      "미국 시민권 및 이민 서비스국(USCIS)은 EB-5 투자이민 프로그램의 수수료를 개정하여 EB-5 수수료가 프로그램 운영 비용을 완전히 충당하고, 법정 처리 기간 목표를 충족하며, 감사 및 현장 방문과 같은 무결성 조치를 지원하도록 할 예정입니다.",
+      "의회는 이민자 투자자의 자본 투자와 일자리 창출을 통해 미국의 경제 성장을 촉진하기 위하여 1990년에 EB-5 프로그램을 신설하였습니다. 미국에 투자하고 미국 내 일자리를 창출함으로써 외국인은 영주권(그린카드라고도 함)을 취득할 자격을 얻을 수 있습니다.",
+      "2022년 EB-5 개혁 및 무결성법(EB-5 Reform and Integrity Act of 2022)은 USCIS로 하여금 프로그램별 수수료 연구를 실시하고, 프로그램 운영에 소요되는 전체 비용을 충당할 수 있는 수준으로 EB-5 수수료를 책정하도록 지시하였습니다. 또한 동 법률은 처리 기간 목표를 설정하고, 준수 여부 검토, 감사, 현장 방문 및 사기와 남용을 방지하기 위한 조치를 포함한 프로그램 무결성 요건을 강화하였습니다.",
+      "USCIS는 대부분 납세자의 세금이 아니라 신청 수수료로 운영됩니다. 이는 신청서 심사, 신원 조회 실시, 자격 요건 확인, 사기 적발 및 프로그램 운영 유지에 소요되는 비용을 이민 제도를 이용하는 자들이 부담해야 한다는 것을 의미합니다.",
+      "새로운 수수료는 2026년 11월 30일에 발효될 예정입니다. 이 규칙은 국토안보부(DHS)가 2025년 10월에 발표한 규칙제정안 고시를 확정하는 것입니다.",
+      "2026년 9월 29일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "29/09/2026",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés) está actualizando las tarifas del Programa de Inversionistas Inmigrantes EB-5 para garantizar que las tarifas de EB-5 recuperen en su totalidad el costo de operar el programa, cumplan con las metas estatutarias de tiempo de procesamiento y respalden las medidas de integridad, tales como auditorías y visitas de verificación.",
+      "El Congreso creó el programa EB-5 en 1990 para promover el crecimiento económico de los Estados Unidos mediante la creación de empleo y la inversión de capital por parte de inversionistas inmigrantes. Al invertir en los Estados Unidos y crear empleos estadounidenses, los extranjeros pueden volverse elegibles para la residencia permanente legal (también conocida como Tarjeta Verde o Green Card).",
+      "La Ley de Reforma e Integridad de EB-5 de 2022 ordenó al USCIS realizar un estudio de tarifas específico para el programa y establecer las tarifas de EB-5 en un nivel que recupere el costo total de administrar el programa. La ley también estableció metas de tiempo de procesamiento y fortaleció los requisitos de integridad del programa, incluyendo revisiones de cumplimiento, auditorías, visitas de verificación y medidas para ayudar a prevenir el fraude y el abuso.",
+      "El USCIS se financia en gran parte mediante tarifas de presentación, no con fondos de los contribuyentes. Esto significa que el costo de revisar las solicitudes, realizar verificaciones de antecedentes, verificar la elegibilidad, detectar fraude y mantener las operaciones del programa debe ser cubierto por quienes utilizan el sistema de inmigración.",
+      "Las nuevas tarifas están diseñadas para entrar en vigor el 30 de noviembre de 2026. Esta norma finaliza el aviso de reglamentación propuesta que el Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) publicó en octubre de 2025.",
+      "29/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年9月29日",
+      "美国公民及移民服务局(USCIS)正在更新EB-5移民投资者项目的费用,以确保EB-5费用能够全额收回该项目的运营成本,满足法定处理时限目标,并支持审计和实地考察等诚信保障措施。",
+      "国会于1990年创设EB-5项目,旨在通过移民投资者创造就业和资本投资促进美国经济增长。外国人通过在美国进行投资并创造美国就业机会,可具备获得合法永久居民身份(即绿卡)的资格。",
+      "《2022年EB-5改革与诚信法案》指示美国公民及移民服务局开展针对该项目的专项收费研究,并将EB-5费用设定在能够全额收回该项目行政管理成本的水平。该法律还确立了处理时限目标,并加强了项目诚信要求,包括合规审查、审计、实地考察以及有助于防止欺诈和滥用的各项措施。",
+      "美国公民及移民服务局的资金主要来源于申请费用,而非纳税人资金。这意味着审查申请、进行背景调查、核实资格、侦测欺诈以及维持项目运作所产生的成本,必须由使用移民系统的人员承担。",
+      "新费用计划于2026年11月30日生效。本规则最终确定了美国国土安全部于2025年10月发布的拟议规则制定通知。",
+      "2026年9月29日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年9月29日",
+      "米国市民権移民局(USCIS)は、EB-5手数料がプログラム運営費用を完全に回収し、法定処理期間目標を達成し、監査及び現地訪問等の整合性維持措置を支援することを確実にするため、EB-5移民投資家プログラムの手数料を更新する。",
+      "連邦議会は、移民投資家による雇用創出及び資本投資を通じて米国の経済成長を促進するため、1990年にEB-5プログラムを創設した。外国人は、米国内に投資を行い米国内の雇用を創出することにより、適法永住資格(グリーンカードとも呼ばれる)を取得する資格を得ることができる。",
+      "2022年EB-5改革及び整合性法は、USCISに対し、プログラム固有の手数料調査を実施し、プログラム運営の全費用を回収する水準にEB-5手数料を設定するよう指示した。同法はまた、処理期間の目標を定め、コンプライアンス審査、監査、現地訪問、並びに不正及び濫用を防止するための措置を含むプログラムの整合性要件を強化した。",
+      "USCISは、その大部分を納税者の資金ではなく申請手数料によって賄われている。これは、申請審査、身元調査の実施、資格の確認、不正の検知、及びプログラム運営の維持にかかる費用を、移民制度を利用する者が負担しなければならないことを意味する。",
+      "新たな手数料は、2026年11月30日に発効する予定である。本規則は、国土安全保障省が2025年10月に公表した規則制定案告示を最終化するものである。",
+      "2026年9月29日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

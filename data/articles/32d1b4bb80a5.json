@@ -94,5 +94,327 @@
     "enforcement",
     "humanitarian"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "p",
+        "x": "On January 23, 2025, the Acting Secretary of Homeland Security issued a Finding of Mass Influx of Aliens. This finding went into effect immediately (on January 23, 2025) and remained in effect for 60 days (until March 23, 2025). See90 FR 8399 (Jan 29, 2025). On March 21, 2025, Secretary Noem extended the January 2025 Finding of Mass Influx for 180 days (until September 17, 2025). See90 FR 13,622 (Mar 25, 2025). On September 17, 2025, Secretary Noem extended the March 2025 Finding of Mass Influx for 180 days (until March 21, 2026). See90 FR 45,396 (Sep 22, 2025). On March 21, 2026, Secretary Noem extended the September 2025 Finding of Mass Influx for 180 days (until September 17, 2026). See91 FR 14703. Upon review of the current situation at the border, I am extending that finding for 180 days."
+      },
+      {
+        "t": "p",
+        "x": "The Immigration and Nationality Act (INA), at 8 U.S.C. 1103(a), provides an expansive grant of authority, stating that in the event of a mass influx of aliens off the coast of the United States or a land border, the Secretary may authorize a State or local law enforcement officer, with the consent of the officer's superiors, to perform duties of immigration officers under the INA. In turn, section 65.83 of Title 28 of the Code of Federal Regulations allows the Secretary [1] to “request assistance from a State or local government in the administration of the immigration laws of the United States” under certain specified circumstances. Among those circumstances are when “[t]he [Secretary] determines that there exist circumstances involving the administration of the immigration laws of the United States that endanger the lives, property, safety, or welfare of the residents of a State or locality.” 28 CFR 65.83(b)."
+      },
+      {
+        "t": "p",
+        "x": "In making such a determination, the Secretary may also determine that there is an “immigration emergency.” The regulations define an immigration emergency as “an actual or imminent mass influx of aliens which either is of such magnitude or exhibits such other characteristics that effective administration of the immigration laws of the United States is beyond the existing capabilities of [the Department of Homeland Security (DHS)] in the affected area or areas.” 28 CFR 65.83(d)(1) (using identical language as 8 U.S.C. 1103(a)(10))."
+      },
+      {
+        "t": "p",
+        "x": "Such a determination is based on “the factors set forth in the definitions contained in” 28 CFR 65.81. Characteristics of an influx of aliens, other than magnitude, which may be considered in determining whether an immigration emergency exists include: the likelihood of continued growth in the magnitude of the influx; an apparent connection between the influx and increases in criminal activity; the actual or imminent imposition of unusual and overwhelming demands on law enforcement agencies; and other similar characteristics."
+      },
+      {
+        "t": "p",
+        "x": "Upon review of the current data, I have determined that there continues to exist circumstances involving the administration of the immigration laws of the United States that endanger the lives, property, safety, or welfare of the residents of all 50 States and that an actual or imminent mass influx of aliens is arriving at the southern border of the United States and presents urgent circumstances requiring a continued federal response. I make this finding for the reasons discussed below."
+      },
+      {
+        "t": "p",
+        "x": "First, as discussed in prior notices, for years, our southern border has been overrun. As noted in Proclamation 10888, Guaranteeing the States Protection Against Invasion, from 2020 to 2024, “at least 8 million illegal aliens were encountered along the southern border of the United States, and countless millions more evaded detection and illegally entered the United States.” DHS continues to encounter thousands of aliens on a weekly basis attempting to enter the United States illegally via the Southwest border.[2]"
+      },
+      {
+        "t": "p",
+        "x": "Second, the ability of DHS to control an influx of aliens at the border ( printed page 59796) continues to be hampered due to a federal court decision. On August 1, 2025, the U.S. Court of Appeals for the District of Columbia Circuit issued a decision partially staying an order from the U.S. District Court for the District of Columbia enjoining the implementation of Proclamation 10888, Guaranteeing the States Protection Against Invasion,90 FR 8333 (Jan. 20, 2025) (Invasion Proclamation). See Refugee and Immigrant Center for Education and Legal Services (RAICES) v. Noem, No. 25-5243 (D.C. Cir. Aug. 1, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "However, the district court's holding that DHS can no longer directly repatriate apprehended aliens under INA 212(f) but rather must process aliens for expedited removal pursuant to 8 U.S.C. 1225(b)(1), remains in effect.[3] Therefore, because of this decision, DHS's implementation of the Invasion Proclamation is still limited. Prior to the court's decision, the Invasion Proclamation disincentivized illegal immigration and contributed to low border encounters throughout much of 2025. As the court's decision is still effective, the concern remains regarding agency resources available to address a mass influx, thereby warranting continued need for a finding of mass influx."
+      },
+      {
+        "t": "p",
+        "x": "Third, as stated in the previous notices, when border crossing numbers are high, much detention capacity is required of U.S. Immigration and Customs Enforcement (ICE). Mandatory detention of aliens apprehended at the border serves important public safety and national security purposes. Specifically, mandatory detention allows the government to effectively vet aliens for criminality or national security threats and ensure that such aliens are not released into the community. Current databases still do not allow for comprehensive and rapid searching for foreign convictions or other public safety and national security risks of recent arrivals. As a result, when numbers at the border are such that DHS is effectively forced to engage in catch-and-release practices which thwart appropriate vetting, there is a threat to public safety and national security. This does not account for so-called gotaways, of which there have been millions over the last several years, who are not screened in any manner."
+      },
+      {
+        "t": "p",
+        "x": "In addition, increased enforcement efforts in the interior have resulted in large numbers of aliens in custody. Many of these aliens are applicants for admission who are subject to mandatory detention pending removal proceedings under the INA. 8 U.S.C. 1225(b)(2)(A); see Matter of Yajure Hurtado, 29 I&N Dec. 216 (BIA 2025) (holding that immigration judges lack authority to hear bond requests or grant bond to aliens present in the United States without admission and in removal proceedings, based on the plain language of 8 U.S.C. 1225(b)(2)(A))."
+      },
+      {
+        "t": "p",
+        "x": "As mentioned in the prior findings of mass influx, without controls in place at the border to stem the influx, DHS loses its capacity to detain all applicants for admission as required by the INA. See, e.g.,8 U.S.C. 1225(b). As of August 12, 2026, ICE has a detention population of 67,022 with a maximum capacity of 80,700. ICE's facilities are currently at 83% occupancy. Similar to the explanation provided in the March and September 2025 Notices and the March 2026 notice, should this finding not be extended, ICE would face operational constraints and be unable to detain a large number of aliens at the Southwest border despite these aliens being subject to mandatory detention. Additionally, should this finding not be extended, ICE would be required to use bed space to detain some aliens apprehended at the Southwest border at the expense of its interior enforcement priorities, which are designed to enhance and promote public safety."
+      },
+      {
+        "t": "p",
+        "x": "Fourth, an influx of aliens presents significant concerns with respect to increased criminal activity. Between FY 2017 and 2019, ICE removed 485,930 aliens with criminal convictions or pending criminal charges. Between FY 2021 and FY 2023, ICE removed 158,931 aliens with criminal convictions or pending criminal charges. In FY 2025, from October 1, 2024, to September 30, 2025, ICE removed 166,319 aliens with criminal convictions or pending criminal charges. Between October 1, 2025, and August 11, 2026, with 51 days remaining in FY 2026, ICE removed 215,447 aliens with criminal convictions or pending criminal charges. Assuming the crime rate among aliens has remained unchanged over the year, this 67% decrease (in removals) between FY 2019 and 2021 and FY 2021 and 2023 suggests that tens of thousands of criminal aliens remain in the United States. However, even if ICE were to continue to remove aliens at the same levels through the rest of this fiscal year, it would still fall short of the total number of aliens removed with criminal convictions or pending criminal charges between FY 2017 and FY 2019, indicating the large, continued presence of criminal aliens in the United States. Where there is an increase in criminal aliens, there is likely to be an increase in criminal activity. This once again shows that ICE must continue to prioritize the removal of criminal aliens rather than divert resources to detain aliens recently apprehended at the Southwest border."
+      },
+      {
+        "t": "p",
+        "x": "Furthermore, there continues to be significant criminality present at the Southwest border. In July 2026, U.S. Customs and Border Protection's (CBP's) Office of Field Operations (OFO) and U.S. Border Patrol (USBP) encountered 353 criminal aliens. OFO made 750 criminal arrests, and USBP had 33 gang apprehensions. USBP referred 344 smuggling events for prosecution, and OFO referred 347 events for criminal prosecution. Officers and agents seized 24,996.19 pounds of illicit narcotics, including 969.57 pounds of deadly fentanyl. Officers and agents also seized 77 firearms and 11,652 rounds of ammunition, as well as $859,890.84 in currency. If such significant criminality has been observed even when illegal border crossings are low, these numbers are only likely to increase if border crossings increase and CBP's resources are further stretched."
+      },
+      {
+        "t": "p",
+        "x": "Fifth, there have been high, unusual, and overwhelming demands on law enforcement officers and agents, which continue to present significant danger to those personnel. For example, in July 2026, CBP records indicate that 22 CBP officers/agents were assaulted. Even while encounter numbers in July 2026 were significantly lower than monthly encounter numbers in previous years, officers and agents at the border still have consistent threats against them, and there are still too many assaults and use of force incidents on officers and agents. ICE records indicate that aliens assaulted or used force against 231 ICE Enforcement and Removal Operations (ERO) officers from February 2026 to the end of July 2026, representing an average of 38.5 per month. In February 2025, ICE records indicated that aliens assaulted or used force against 10 ICE ERO officers. This 385% increase from February 2025 as well as a continued upward trend indicates the increasing risk that ICE ERO officers face as they seek to arrest and detain aliens that entered during periods of loose border restrictions."
+      },
+      {
+        "t": "p",
+        "x": "Additionally, there remains a strain on ICE resources, which takes ICE away from its mission to preserve national security and public safety. ICE has many aliens pending removal that entered during prior influxes at the Southwest border. Managing those removals requires a significant expenditure of ICE resources. As of August 11, 2026, there are 2,120,058 aliens on the ICE non-detained docket with final orders of ( printed page 59797) removal. Should the finding not be extended, and more aliens placed on the non-detained docket, this number would only continue to increase."
+      },
+      {
+        "t": "p",
+        "x": "Between March 1, 2026, and August 11, 2026, ICE arrested 214,992 aliens. Of those, 121,055 aliens had criminal convictions or pending criminal charges, 452 were known or suspected terrorists, and 2,700 were suspected gang members. Failure to extend this finding will impede the ability of ICE to properly enforce immigration laws and focus on public safety risks."
+      },
+      {
+        "t": "p",
+        "x": "On the basis of the above facts, I find that these circumstances continue to endanger the lives, property, safety, and welfare of the residents of every State in the Union. The only way to effectively prevent this danger to the States is to maintain operational control of the border, which Congress defined to mean “the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.” Secure Fence Act of 2006, Public Law 109-367, 2, 120 Stat. 2638 (2006); 8 U.S.C. 1701 note (stating that the Secretary of DHS “shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States”). Given that Congress directed DHS to prevent all unlawful entries, the thousands of aliens that DHS continues to encounter on a weekly basis attempting to enter the United States illegally via the Southwest border is an influx. Therefore, I find that there is currently an influx of aliens arriving across our entire southern border, which requires a federal response."
+      },
+      {
+        "t": "p",
+        "x": "Accordingly, pursuant to the authorities under the INA, 8 U.S.C. 1101, et seq., including the implementing regulations identified above, I find “that there exist circumstances involving the administration of the immigration laws of the United States that endanger the lives, property, safety, or welfare of the residents” of all 50 States. I further find that an actual or imminent mass influx of aliens is arriving at the southern border of the United States and presents urgent circumstances requiring an immediate federal response. I therefore request the assistance of State and local governments in all 50 States."
+      },
+      {
+        "t": "p",
+        "x": "The finding is effective immediately and expires in 180 days. This finding may expire sooner in the event I find that circumstances have changed. Such a finding would be published in the Federal Register ."
+      },
+      {
+        "t": "p",
+        "x": "Markwayne Mullin,"
+      },
+      {
+        "t": "p",
+        "x": "Secretary of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. Although the regulations reference the “Attorney General,” Congress has, since the publication of these regulations, transferred the authority and responsibility for administering and enforcing the immigration laws to the Secretary of Homeland Security. See Homeland Security Act of 2002 471, 6 U.S.C. 291 (abolishing the former Immigration and Naturalization Service); id. S 441, 6 U.S.C. 251 (transferring immigration enforcement functions from the Department of Justice to the Department of Homeland Security); Immigration and Nationality Act 103(a)(1), 8 U.S.C. 1103(a)(1) (“the Secretary of Homeland Security shall be charged with the administration and enforcement of this chapter and all other laws relating to the immigration and naturalization of aliens.”)"
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2. Nationwide Encounters, U.S. Customs and Border Protection (last modified Aug 14, 2026), available at https://www.cbp.gov/​newsroom/​stats/​nationwide-encounters."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3. In April 2026, a merits panel of the D.C. Circuit upheld the district court's decision. RAICES v. Mullin, 174 F.4th 81 (D.C. Cir. 2026)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-19253 Filed 9-18-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9112-FP-P"
+      }
+    ],
+    "fetched": "2026-10-12T18:06Z",
+    "from": "federalregister.gov",
+    "chars": 15735
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 종류에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발급하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접 관련되는 CFR 편의 번호 및 각 부의 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국토안보부(Department of Homeland Security)",
+      "2025년 1월 23일, 국토안보부 장관대행은 외국인 대량 유입 결정(Finding of Mass Influx of Aliens)을 발표하였습니다. 이 결정은 즉시 발효되어(2025년 1월 23일) 60일간(2025년 3월 23일까지) 효력을 유지하였습니다. 90 FR 8399(2025년 1월 29일) 참조. 2025년 3월 21일, 놈(Noem) 장관은 2025년 1월 대량 유입 결정을 180일간(2025년 9월 17일까지) 연장하였습니다. 90 FR 13,622(2025년 3월 25일) 참조. 2025년 9월 17일, 놈 장관은 2025년 3월 대량 유입 결정을 180일간(2026년 3월 21일까지) 연장하였습니다. 90 FR 45,396(2025년 9월 22일) 참조. 2026년 3월 21일, 놈 장관은 2025년 9월 대량 유입 결정을 180일간(2026년 9월 17일까지) 연장하였습니다. 91 FR 14703 참조. 국경의 현재 상황을 검토한 결과, 본인은 해당 결정을 180일간 연장합니다.",
+      "이민 및 국적법(Immigration and Nationality Act, INA) 8 U.S.C. 1103(a)는 광범위한 권한을 부여하고 있으며, 미국 해안 또는 육상 국경에서 외국인의 대량 유입이 발생하는 경우, 장관은 주 또는 지방 법집행관의 상급자의 동의를 얻어 해당 법집행관이 INA에 따른 이민관의 직무를 수행하도록 승인할 수 있다고 규정하고 있습니다. 이에 따라 연방규정집(Code of Federal Regulations) 제28편 제65.83조는 특정 상황하에서 장관이 [1] “미국 이민법의 집행에 있어 주 또는 지방 정부에 지원을 요청”할 수 있도록 허용하고 있습니다. 그러한 상황 중에는 “[장관]이 주 또는 지방의 주민의 생명, 재산, 안전 또는 복지를 위태롭게 하는 미국 이민법 집행과 관련된 상황이 존재한다고 판단하는 경우”가 포함됩니다. 28 CFR 65.83(b).",
+      "이러한 판단을 내림에 있어 장관은 또한 “이민 비상사태(immigration emergency)”가 존재한다고 판단할 수 있습니다. 해당 규정은 이민 비상사태를 “그 규모가 크거나 기타 특성으로 인하여 해당 지역에서 미국 이민법의 효과적인 집행이 [국토안보부(DHS)]의 기존 역량을 초과하는 실제적이거나 임박한 외국인의 대량 유입”으로 정의하고 있습니다. 28 CFR 65.83(d)(1)(8 U.S.C. 1103(a)(10)과 동일한 문언 사용).",
+      "그러한 판단은 28 CFR 65.81에 규정된 정의에 포함된 요소를 기초로 합니다. 규모 외에 이민 비상사태의 존재 여부를 판단할 때 고려할 수 있는 외국인 유입의 특성에는 유입 규모의 지속적인 증가 가능성, 유입과 범죄 활동 증가 사이의 명백한 연관성, 법집행기관에 대한 이례적이고 압도적인 요구의 실제적이거나 임박한 부과, 그리고 기타 유사한 특성이 포함됩니다.",
+      "현재의 데이터를 검토한 결과, 본인은 미국 이민법의 집행과 관련하여 50개 주 전체 주민의 생명, 재산, 안전 또는 복지를 위태롭게 하는 상황이 계속 존재하며, 미국 남부 국경에 실제적이거나 임박한 외국인의 대량 유입이 발생하고 있고, 이는 지속적인 연방 차원의 대응을 필요로 하는 긴급한 상황을 야기하고 있다고 판단합니다. 본인은 아래에서 논의하는 이유로 이러한 결정을 내립니다.",
+      "첫째, 이전의 통지에서 논의한 바와 같이, 수년간 우리의 남부 국경은 압도당해 왔습니다. 침입으로부터 주를 보호 보장(Guaranteeing the States Protection Against Invasion)에 관한 포고령 10888호에 명시된 바와 같이, 2020년부터 2024년까지 “최소 800만 명의 불법 외국인이 미국 남부 국경을 따라 발견되었으며, 셀 수 없이 많은 수가 적발을 피해 불법적으로 미국에 입국하였습니다.” 국토안보부는 남서부 국경을 통해 불법적으로 미국에 입국하려는 수천 명의 외국인을 매주 계속 발견하고 있습니다.[2]",
+      "둘째, 연방법원의 판결로 인해 국경에서 외국인의 유입을 통제하는 국토안보부(DHS)의 능력이 계속해서 제약을 받고 있습니다(출력된 페이지 59796). 2025년 8월 1일, 컬럼비아 특별구 연방 항소법원은 포고문 제10888호, 「침략으로부터 각 주를 보호함을 보장함(Guaranteeing the States Protection Against Invasion)」, 90 FR 8333 (2025년 1월 20일) (이하 \"침략 포고문\")의 시행을 금지하는 컬럼비아 특별구 연방지방법원의 명령을 부분적으로 정지하는 결정을 내렸습니다. Refugee and Immigrant Center for Education and Legal Services (RAICES) v. Noem, No. 25-5243 (D.C. Cir. Aug. 1, 2025) 참조.",
+      "그러나 DHS가 더 이상 INA 212(f)에 따라 체포된 외국인을 직접 본국으로 송환할 수 없으며 8 U.S.C. 1225(b)(1)에 따라 신속추방 절차를 거쳐야 한다는 연방지방법원의 판결은 여전히 유효합니다.[3] 따라서 이 판결로 인해 DHS의 침략 포고문 시행은 여전히 제한적입니다. 법원의 결정 이전에는 침략 포고문이 불법 이민을 억제하여 2025년 대부분의 기간 동안 국경에서의 접촉 건수가 낮은 수준을 유지하는 데 기여했습니다. 법원의 결정이 여전히 유효한 상태이므로, 대규모 유입에 대응할 수 있는 기관의 가용 자원에 관한 우려가 계속 남아 있으며, 이에 따라 대규모 유입 판정의 지속적인 필요성이 정당화됩니다.",
+      "셋째, 이전 공고들에서 명시된 바와 같이, 국경 통과 건수가 많을 때에는 미국 이민세관집행국(ICE)에 많은 구금 수용 능력이 요구됩니다. 국경에서 체포된 외국인에 대한 의무적 구금은 공공 안전과 국가 안보라는 중요한 목적에 기여합니다. 구체적으로, 의무적 구금은 정부가 외국인의 범죄 경력이나 국가 안보 위협 여부를 효과적으로 심사하고, 그러한 외국인이 지역사회로 석방되지 않도록 보장할 수 있게 합니다. 현재의 데이터베이스는 여전히 최근 입국자의 외국 전과 또는 기타 공공 안전 및 국가 안보 위험에 대한 포괄적이고 신속한 검색을 허용하지 않습니다. 그 결과, 국경에서의 유입 규모가 국토안보부(DHS)로 하여금 적절한 심사를 저해하는 이른바 체포 후 석방 관행에 사실상 내몰리게 할 정도일 때에는, 공공 안전과 국가 안보에 위협이 발생합니다. 이는 지난 수년간 수백만 명에 달하는, 어떠한 방식으로도 심사되지 않은 이른바 미검거 입국자(gotaways)는 포함하지 않은 것입니다.",
+      "또한 내륙 지역에서의 단속 강화 노력으로 인해 구금된 외국인의 수가 크게 증가하였습니다. 이러한 외국인들 중 다수는 이민국적법(INA)에 따라 추방 절차가 진행되는 동안 의무적 구금 대상이 되는 입국 신청자들입니다. 8 U.S.C. 1225(b)(2)(A); Matter of Yajure Hurtado, 29 I&N Dec. 216 (BIA 2025) 참조 (8 U.S.C. 1225(b)(2)(A)의 명백한 문언에 근거하여, 입국 허가 없이 미국에 체류하며 추방 절차 중에 있는 외국인에 대하여 이민판사가 보석 신청을 심리하거나 보석을 허가할 권한이 없다고 판시함).",
+      "이전의 대량 유입 판정에서 언급된 바와 같이, 국경에서 유입을 억제하는 통제 조치가 없을 경우, 국토안보부(DHS)는 이민국적법(INA)에서 요구하는 대로 모든 입국 신청자를 구금할 수 있는 능력을 상실하게 됩니다. 예를 들어, 8 U.S.C. 1225(b) 참조. 2026년 8월 12일 기준으로, ICE의 구금 인원은 67,022명이며 최대 수용 능력은 80,700명입니다. ICE 시설은 현재 83%의 수용률을 보이고 있습니다. 2025년 3월 및 9월 공고와 2026년 3월 공고에서 제공된 설명과 마찬가지로, 이 판정이 연장되지 않을 경우 ICE는 운영상의 제약에 직면하게 되며, 남서부 국경에서 체포된 다수의 외국인이 의무적 구금 대상임에도 불구하고 이들을 구금할 수 없게 될 것입니다. 또한, 이 판정이 연장되지 않을 경우 ICE는 공공 안전을 증진하고 촉진하기 위해 설계된 내륙 단속 우선순위를 희생하면서까지 남서부 국경에서 체포된 일부 외국인을 구금하기 위해 수용 공간을 사용해야 할 것입니다.",
+      "넷째, 외국인 유입은 범죄 활동 증가와 관련하여 중대한 우려를 제기합니다. 2017회계연도부터 2019회계연도까지 미국 이민세관단속국(ICE)은 범죄 유죄판결이 있거나 형사 기소가 계류 중인 외국인 485,930명을 추방하였습니다. 2021회계연도부터 2023회계연도까지 ICE는 범죄 유죄판결이 있거나 형사 기소가 계류 중인 외국인 158,931명을 추방하였습니다. 2025회계연도, 즉 2024년 10월 1일부터 2025년 9월 30일까지 ICE는 범죄 유죄판결이 있거나 형사 기소가 계류 중인 외국인 166,319명을 추방하였습니다. 2025년 10월 1일부터 2026년 8월 11일까지, 2026회계연도 종료까지 51일이 남은 시점에서 ICE는 범죄 유죄판결이 있거나 형사 기소가 계류 중인 외국인 215,447명을 추방하였습니다. 외국인 범죄율이 연중 변동이 없었다고 가정할 경우, 2019회계연도와 2021회계연도 사이 그리고 2021회계연도와 2023회계연도 사이의 이러한 67퍼센트의 (추방) 감소는 수만 명의 범죄 외국인이 미국 내에 남아 있음을 시사합니다. 그러나 ICE가 이번 회계연도 나머지 기간 동안 동일한 수준으로 추방을 계속하더라도, 2017회계연도부터 2019회계연도까지 범죄 유죄판결이 있거나 형사 기소가 계류 중인 외국인의 총 추방 인원에는 여전히 미치지 못할 것이며, 이는 미국 내 범죄 외국인의 지속적이고 대규모의 존재를 나타냅니다. 범죄 외국인의 증가가 있는 곳에서는 범죄 활동의 증가가 발생할 가능성이 높습니다. 이는 ICE가 최근 남서부 국경에서 체포된 외국인을 구금하는 데 자원을 전용하기보다는 범죄 외국인의 추방을 계속 우선시해야 함을 다시 한번 보여줍니다.",
+      "더욱이 남서부 국경에는 여전히 상당한 범죄성이 존재하고 있습니다. 2026년 7월 미국 관세국경보호청(CBP)의 현장운영국(OFO)과 미국 국경순찰대(USBP)는 범죄 외국인 353명과 조우하였습니다. OFO는 750건의 범죄 체포를 실시하였고, USBP는 33건의 갱단 관련 체포를 실시하였습니다. USBP는 344건의 밀입국 알선 사건을 기소 의뢰하였고, OFO는 347건을 형사 기소 의뢰하였습니다. 관계 공무원들은 치명적인 펜타닐 969.57파운드를 포함하여 불법 마약류 24,996.19파운드를 압수하였습니다. 관계 공무원들은 또한 총기 77정과 실탄 11,652발, 그리고 현금 859,890.84달러를 압수하였습니다. 불법 국경 통과가 적은 시기에도 이러한 상당한 범죄성이 관찰되었다면, 국경 통과가 증가하고 CBP의 자원이 더욱 고갈될 경우 이러한 수치는 더욱 증가할 가능성이 높습니다.",
+      "다섯째, 법 집행 공무원 및 요원들에게 높고 비정상적이며 감당하기 어려운 수요가 지속되고 있으며, 이는 해당 인력에게 중대한 위험을 계속 초래하고 있습니다. 예를 들어, 2026년 7월 CBP 기록에 따르면 CBP 공무원/요원 22명이 폭행을 당하였습니다. 2026년 7월의 조우 건수가 이전 연도의 월별 조우 건수보다 현저히 낮았음에도 불구하고, 국경의 공무원 및 요원들은 여전히 지속적인 위협에 직면해 있으며, 공무원 및 요원에 대한 폭행 및 물리력 사용 사건이 여전히 지나치게 많습니다. ICE 기록에 따르면 2026년 2월부터 2026년 7월 말까지 외국인이 ICE 단속추방국(ERO) 요원 231명을 폭행하거나 이들에게 물리력을 행사하였으며, 이는 월평균 38.5명에 해당합니다. 2025년 2월 ICE 기록에 따르면 외국인이 ICE ERO 요원 10명을 폭행하거나 물리력을 행사하였습니다. 2025년 2월 대비 이러한 385퍼센트의 증가 및 지속적인 상승 추세는 국경 통제가 느슨하였던 시기에 입국한 외국인을 체포하고 구금하고자 하는 ICE ERO 요원들이 직면하는 위험이 증가하고 있음을 나타냅니다.",
+      "이에 더하여, ICE의 자원에 대한 압박이 계속되고 있으며, 이는 국가 안보와 공공 안전을 수호한다는 ICE의 임무로부터 ICE를 멀어지게 하고 있습니다. ICE는 과거 남서부 국경에서의 유입 시기에 입국한 다수의 추방 계류 중인 외국인을 보유하고 있습니다. 이러한 추방 사건을 관리하기 위해서는 상당한 ICE 자원의 지출이 요구됩니다. 2026년 8월 11일 현재, 최종 추방명령이 내려진 상태로 ICE의 비구금 문서상에 등재된 외국인은 (원문 59797쪽 인쇄) 2,120,058명입니다. 이 판정이 연장되지 아니하여 더 많은 외국인이 비구금 문서에 등재될 경우, 이 수치는 계속하여 증가할 것입니다.",
+      "2026년 3월 1일부터 2026년 8월 11일까지 ICE는 외국인 214,992명을 체포하였습니다. 이 중 121,055명은 범죄 유죄판결이 있거나 형사 기소가 계류 중이었고, 452명은 테러리스트로 알려지거나 의심되는 자였으며, 2,700명은 갱단 조직원으로 의심되는 자였습니다. 이 판정을 연장하지 아니할 경우, ICE가 이민법을 적절히 집행하고 공공 안전 위험에 집중할 수 있는 능력이 저해될 것입니다.",
+      "위의 사실에 근거하여, 본인은 이러한 상황이 연방 전체 각 주 거주자의 생명, 재산, 안전 및 복지를 계속해서 위협하고 있다고 판단합니다. 각 주에 대한 이러한 위험을 효과적으로 방지할 수 있는 유일한 방법은 국경에 대한 작전 통제를 유지하는 것이며, 이는 의회가 “테러리스트, 기타 불법 외국인, 테러 수단, 마약류 및 기타 밀수품에 의한 입국을 포함하여 미국으로의 모든 불법 입국을 방지하는 것”을 의미한다고 정의한 바 있습니다. 2006년 국경보안울타리법(Secure Fence Act of 2006), 공법 109-367, 제2조, 120 Stat. 2638(2006); 8 U.S.C. 1701 note(국토안보부 장관이 “미국의 전체 국제 육상 및 해상 국경에 대한 작전 통제를 달성하고 유지하기 위해 필요하고 적절하다고 판단하는 모든 조치를 취하여야 한다”고 명시). 의회가 국토안보부(DHS)에 모든 불법 입국을 방지하도록 지시하였다는 점을 고려할 때, 국토안보부가 남서부 국경을 통해 미국에 불법적으로 입국을 시도하는 것으로 매주 계속해서 조우하는 수천 명의 외국인은 유입에 해당합니다. 따라서 본인은 현재 우리나라 전체 남쪽 국경을 가로질러 도착하는 외국인의 유입이 존재하며, 이는 연방 차원의 대응을 필요로 한다고 판단합니다.",
+      "따라서, 이민국적법(INA), 8 U.S.C. 1101 이하 및 위에서 명시한 시행 규정을 포함한 권한에 따라, 본인은 50개 모든 주의 “거주자의 생명, 재산, 안전 또는 복지를 위협하는 미국 이민법 행정과 관련된 상황이 존재한다”고 판단합니다. 본인은 나아가 실질적이거나 임박한 대규모 외국인 유입이 미국 남쪽 국경에 도착하고 있으며, 이는 즉각적인 연방 차원의 대응을 요하는 긴급한 상황을 야기하고 있다고 판단합니다. 이에 본인은 50개 모든 주의 주 정부 및 지방 정부의 지원을 요청합니다.",
+      "이 판단은 즉시 발효되며 180일 후에 만료됩니다. 본인이 상황이 변경되었다고 판단하는 경우 이 판단은 더 일찍 만료될 수 있습니다. 그러한 판단은 연방관보(Federal Register)에 게재될 것입니다.",
+      "마크웨인 멀린(Markwayne Mullin),",
+      "국토안보부 장관.",
+      "각주",
+      "1. 해당 규정은 “법무부 장관”을 언급하고 있으나, 의회는 이 규정이 공표된 이후 이민법의 행정 및 집행에 관한 권한과 책임을 국토안보부 장관에게 이전하였습니다. 2002년 국토안보법(Homeland Security Act of 2002) 제471조, 6 U.S.C. 291(구 이민귀화국 폐지) 참조; 동법 제441조, 6 U.S.C. 251(이민 집행 기능을 법무부에서 국토안보부로 이전) 참조; 이민국적법(Immigration and Nationality Act) 제103조(a)(1), 8 U.S.C. 1103(a)(1)(“국토안보부 장관은 본 장 및 외국인의 이민과 귀화에 관한 기타 모든 법률의 행정 및 집행을 담당한다”) 참조.",
+      "인용으로 돌아가기",
+      "2. 전국 조우 현황(Nationwide Encounters), 미국 관세국경보호청(U.S. Customs and Border Protection), (2026년 8월 14일 최종 수정), 다음에서 열람 가능: https://www.cbp.gov/​newsroom/​stats/​nationwide-encounters.",
+      "인용으로 돌아가기",
+      "3. 2026년 4월, 컬럼비아 특별구 연방항소법원(D.C. Circuit)의 본안 심리 재판부는 지방법원의 결정을 인용하였습니다. RAICES v. Mullin, 174 F.4th 81 (D.C. Cir. 2026).",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-19253 Filed 9-18-26; 8:45 am]",
+      "BILLING CODE 9112-FP-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar, o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Seguridad Nacional (DHS)",
+      "El 23 de enero de 2025, la Secretaria interina de Seguridad Nacional emitió una Determinación de Afluencia Masiva de Extranjeros. Esta determinación entró en vigor de inmediato (el 23 de enero de 2025) y permaneció vigente durante 60 días (hasta el 23 de marzo de 2025). Véase 90 FR 8399 (29 de enero de 2025). El 21 de marzo de 2025, la Secretaria Noem extendió la Determinación de Afluencia Masiva de enero de 2025 por 180 días (hasta el 17 de septiembre de 2025). Véase 90 FR 13,622 (25 de marzo de 2025). El 17 de septiembre de 2025, la Secretaria Noem extendió la Determinación de Afluencia Masiva de marzo de 2025 por 180 días (hasta el 21 de marzo de 2026). Véase 90 FR 45,396 (22 de septiembre de 2025). El 21 de marzo de 2026, la Secretaria Noem extendió la Determinación de Afluencia Masiva de septiembre de 2025 por 180 días (hasta el 17 de septiembre de 2026). Véase 91 FR 14703. Tras revisar la situación actual en la frontera, estoy extendiendo esa determinación por 180 días.",
+      "La Ley de Inmigración y Nacionalidad (INA), en 8 U.S.C. 1103(a), otorga una amplia concesión de autoridad, al establecer que en caso de una afluencia masiva de extranjeros frente a la costa de los Estados Unidos o en una frontera terrestre, el Secretario puede autorizar a un oficial de las fuerzas del orden estatal o local, con el consentimiento de los superiores de dicho oficial, a desempeñar las funciones de oficiales de inmigración conforme a la INA. A su vez, la sección 65.83 del Título 28 del Código de Reglamentos Federales permite al Secretario [1] “solicitar asistencia de un gobierno estatal o local en la administración de las leyes de inmigración de los Estados Unidos” bajo ciertas circunstancias específicas. Entre dichas circunstancias se encuentra cuando “[e]l [Secretario] determina que existen circunstancias relacionadas con la administración de las leyes de inmigración de los Estados Unidos que ponen en peligro la vida, la propiedad, la seguridad o el bienestar de los residentes de un estado o localidad”. 28 CFR 65.83(b).",
+      "Al realizar dicha determinación, el Secretario también puede determinar que existe una “emergencia migratoria”. Los reglamentos definen una emergencia migratoria como “una afluencia masiva real o inminente de extranjeros que, ya sea por su magnitud o por exhibir otras características, hace que la administración eficaz de las leyes de inmigración de los Estados Unidos exceda las capacidades existentes del [Departamento de Seguridad Nacional (DHS)] en la zona o zonas afectadas”. 28 CFR 65.83(d)(1) (utilizando un lenguaje idéntico al de 8 U.S.C. 1103(a)(10)).",
+      "Dicha determinación se basa en “los factores establecidos en las definiciones contenidas en” 28 CFR 65.81. Entre las características de una afluencia de extranjeros, aparte de la magnitud, que pueden considerarse para determinar si existe una emergencia migratoria se incluyen: la probabilidad de que continúe el crecimiento de la magnitud de la afluencia; una conexión aparente entre la afluencia y los aumentos en la actividad delictiva; la imposición real o inminente de exigencias inusuales y abrumadoras sobre las agencias del orden público; y otras características similares.",
+      "Tras revisar los datos actuales, he determinado que continúan existiendo circunstancias relacionadas con la administración de las leyes de inmigración de los Estados Unidos que ponen en peligro la vida, la propiedad, la seguridad o el bienestar de los residentes de los 50 estados, y que una afluencia masiva real o inminente de extranjeros está llegando a la frontera sur de los Estados Unidos y presenta circunstancias urgentes que requieren una respuesta federal continua. Formulo esta determinación por las razones que se exponen a continuación.",
+      "Primero, como se señaló en avisos anteriores, durante años, nuestra frontera sur ha sido desbordada. Como se indicó en la Proclamación 10888, Garantizar a los Estados la Protección Contra la Invasión, de 2020 a 2024, “al menos 8 millones de extranjeros ilegales fueron detenidos a lo largo de la frontera sur de los Estados Unidos, y muchos millones más evadieron la detección e ingresaron ilegalmente a los Estados Unidos”. El DHS continúa encontrando a miles de extranjeros semanalmente que intentan ingresar ilegalmente a los Estados Unidos a través de la frontera suroeste.[2]",
+      "Segundo, la capacidad del Departamento de Seguridad Nacional (DHS) para controlar una afluencia de extranjeros en la frontera (página impresa 59796) continúa viéndose obstaculizada debido a una decisión de un tribunal federal. El 1 de agosto de 2025, la Corte de Apelaciones de los Estados Unidos para el Circuito del Distrito de Columbia emitió una decisión que suspendió parcialmente una orden del Tribunal de Distrito de los Estados Unidos para el Distrito de Columbia que prohibía la implementación de la Proclamación 10888, Garantizar a los Estados Protección Contra la Invasión, 90 FR 8333 (20 de enero de 2025) (Proclamación de Invasión). Véase Refugee and Immigrant Center for Education and Legal Services (RAICES) v. Noem, No. 25-5243 (D.C. Cir. 1 de agosto de 2025).",
+      "Sin embargo, la decisión del tribunal de distrito según la cual el DHS ya no puede repatriar directamente a los extranjeros aprehendidos conforme al INA 212(f), sino que debe procesarlos para la remoción expedita conforme al 8 U.S.C. 1225(b)(1), permanece vigente.[3] Por lo tanto, debido a esta decisión, la implementación de la Proclamación de Invasión por parte del DHS sigue siendo limitada. Antes de la decisión del tribunal, la Proclamación de Invasión desincentivaba la inmigración ilegal y contribuyó a los bajos encuentros fronterizos durante gran parte de 2025. Dado que la decisión del tribunal sigue vigente, persiste la preocupación sobre los recursos disponibles de la agencia para hacer frente a una afluencia masiva, lo que justifica la necesidad continua de una determinación de afluencia masiva.",
+      "Tercero, como se señaló en los avisos anteriores, cuando las cifras de cruces fronterizos son altas, se requiere una gran capacidad de detención por parte del Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE). La detención obligatoria de extranjeros aprehendidos en la frontera cumple importantes propósitos de seguridad pública y seguridad nacional. Específicamente, la detención obligatoria permite al gobierno verificar eficazmente a los extranjeros en busca de antecedentes delictivos o amenazas a la seguridad nacional, y garantizar que dichos extranjeros no sean liberados en la comunidad. Las bases de datos actuales todavía no permiten realizar búsquedas integrales y rápidas de condenas extranjeras u otros riesgos de seguridad pública y seguridad nacional de los recién llegados. Como resultado, cuando las cifras en la frontera son tales que el DHS se ve efectivamente obligado a recurrir a prácticas de captura y liberación que frustran la verificación adecuada, existe una amenaza a la seguridad pública y la seguridad nacional. Esto no toma en cuenta a los llamados 'gotaways' (evasores), de los cuales ha habido millones en los últimos años, quienes no son examinados de ninguna manera.",
+      "Además, el aumento de los esfuerzos de aplicación de la ley en el interior ha resultado en un gran número de extranjeros bajo custodia. Muchos de estos extranjeros son solicitantes de admisión sujetos a detención obligatoria mientras se encuentran pendientes de procedimientos de remoción conforme al INA. 8 U.S.C. 1225(b)(2)(A); véase Matter of Yajure Hurtado, 29 I&N Dec. 216 (BIA 2025) (que sostiene que los jueces de inmigración carecen de autoridad para escuchar solicitudes de fianza u otorgar fianza a extranjeros presentes en los Estados Unidos sin admisión y en procedimientos de remoción, con base en el lenguaje claro del 8 U.S.C. 1225(b)(2)(A)).",
+      "Como se mencionó en las determinaciones anteriores de afluencia masiva, sin controles establecidos en la frontera para contener la afluencia, el DHS pierde su capacidad de detener a todos los solicitantes de admisión según lo exige el INA. Véase, por ejemplo, 8 U.S.C. 1225(b). Al 12 de agosto de 2026, el ICE tiene una población detenida de 67,022 personas con una capacidad máxima de 80,700. Las instalaciones del ICE actualmente operan al 83% de ocupación. De manera similar a la explicación proporcionada en los Avisos de marzo y septiembre de 2025 y el aviso de marzo de 2026, si esta determinación no se prorroga, el ICE enfrentaría limitaciones operativas y sería incapaz de detener a un gran número de extranjeros en la frontera suroeste a pesar de que dichos extranjeros están sujetos a detención obligatoria. Adicionalmente, si esta determinación no se prorroga, el ICE se vería obligado a utilizar espacio de camas para detener a algunos extranjeros aprehendidos en la frontera suroeste, en detrimento de sus prioridades de aplicación de la ley en el interior, las cuales están diseñadas para mejorar y promover la seguridad pública.",
+      "En cuarto lugar, una afluencia de extranjeros presenta preocupaciones significativas con respecto al aumento de la actividad delictiva. Entre los años fiscales 2017 y 2019, el Servicio de Control de Inmigración y Aduanas (ICE) expulsó a 485,930 extranjeros con condenas penales o cargos penales pendientes. Entre el año fiscal 2021 y el año fiscal 2023, ICE expulsó a 158,931 extranjeros con condenas penales o cargos penales pendientes. En el año fiscal 2025, del 1 de octubre de 2024 al 30 de septiembre de 2025, ICE expulsó a 166,319 extranjeros con condenas penales o cargos penales pendientes. Entre el 1 de octubre de 2025 y el 11 de agosto de 2026, con 51 días restantes en el año fiscal 2026, ICE expulsó a 215,447 extranjeros con condenas penales o cargos penales pendientes. Suponiendo que la tasa de criminalidad entre los extranjeros se haya mantenido sin cambios durante el año, esta disminución del 67 % (en expulsiones) entre los años fiscales 2019 y 2021 y los años fiscales 2021 y 2023 sugiere que decenas de miles de extranjeros delincuentes permanecen en los Estados Unidos. Sin embargo, incluso si ICE continuara expulsando extranjeros al mismo ritmo durante el resto de este año fiscal, aún quedaría por debajo del número total de extranjeros expulsados con condenas penales o cargos penales pendientes entre los años fiscales 2017 y 2019, lo que indica la gran y continua presencia de extranjeros delincuentes en los Estados Unidos. Cuando hay un aumento de extranjeros delincuentes, es probable que haya un aumento de la actividad delictiva. Esto demuestra una vez más que ICE debe continuar priorizando la expulsión de extranjeros delincuentes en lugar de desviar recursos para detener a extranjeros recientemente aprehendidos en la frontera suroeste.",
+      "Además, continúa habiendo una criminalidad significativa presente en la frontera suroeste. En julio de 2026, la Oficina de Operaciones de Campo (OFO) y la Patrulla Fronteriza de los Estados Unidos (USBP) de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) encontraron a 353 extranjeros delincuentes. OFO realizó 750 arrestos penales, y USBP tuvo 33 aprehensiones de pandilleros. USBP remitió 344 eventos de contrabando para su enjuiciamiento, y OFO remitió 347 eventos para enjuiciamiento penal. Los oficiales y agentes incautaron 24,996.19 libras de narcóticos ilícitos, incluidas 969.57 libras de fentanilo mortal. Los oficiales y agentes también incautaron 77 armas de fuego y 11,652 cartuchos de municiones, así como $859,890.84 en efectivo. Si se ha observado una criminalidad tan significativa incluso cuando los cruces fronterizos ilegales son bajos, es probable que estas cifras aumenten si los cruces fronterizos incrementan y los recursos de CBP se ven aún más limitados.",
+      "En quinto lugar, ha habido demandas altas, inusuales y abrumadoras sobre los oficiales y agentes del orden público, lo cual continúa presentando un peligro significativo para dicho personal. Por ejemplo, en julio de 2026, los registros de CBP indican que 22 oficiales/agentes de CBP fueron agredidos. Aun cuando las cifras de encuentros en julio de 2026 fueron significativamente más bajas que las cifras de encuentros mensuales en años anteriores, los oficiales y agentes en la frontera todavía enfrentan amenazas constantes, y todavía hay demasiados casos de agresiones y uso de la fuerza contra oficiales y agentes. Los registros de ICE indican que los extranjeros agredieron o usaron la fuerza contra 231 oficiales de Operaciones de Control y Deportación (ERO) de ICE desde febrero de 2026 hasta finales de julio de 2026, lo que representa un promedio de 38.5 por mes. En febrero de 2025, los registros de ICE indicaron que los extranjeros agredieron o usaron la fuerza contra 10 oficiales de ERO de ICE. Este aumento del 385 % con respecto a febrero de 2025, así como una tendencia continua al alza, indica el creciente riesgo que enfrentan los oficiales de ERO de ICE al buscar arrestar y detener a extranjeros que ingresaron durante períodos de restricciones fronterizas laxas.",
+      "Adicionalmente, persiste una tensión sobre los recursos de ICE, lo cual aleja a ICE de su misión de preservar la seguridad nacional y la seguridad pública. ICE tiene muchos extranjeros pendientes de expulsión que ingresaron durante afluencias anteriores en la frontera suroeste. Gestionar esas expulsiones requiere un gasto significativo de los recursos de ICE. Al 11 de agosto de 2026, hay 2,120,058 extranjeros en el expediente de no detenidos de ICE con órdenes finales de (página impresa 59797) expulsión. Si no se prorroga esta determinación, y se coloca a más extranjeros en el expediente de no detenidos, esta cifra solo continuaría aumentando.",
+      "Entre el 1 de marzo de 2026 y el 11 de agosto de 2026, ICE arrestó a 214,992 extranjeros. De ellos, 121,055 extranjeros tenían condenas penales o cargos penales pendientes, 452 eran terroristas conocidos o sospechosos, y 2,700 eran presuntos pandilleros. La falta de prórroga de esta determinación obstaculizará la capacidad de ICE para hacer cumplir adecuadamente las leyes de inmigración y enfocarse en los riesgos para la seguridad pública.",
+      "Sobre la base de los hechos anteriores, determino que estas circunstancias continúan poniendo en peligro las vidas, la propiedad, la seguridad y el bienestar de los residentes de todos los Estados de la Unión. La única manera de prevenir eficazmente este peligro para los Estados es mantener el control operativo de la frontera, que el Congreso definió como “la prevención de todas las entradas ilegales a los Estados Unidos, incluidas las entradas de terroristas, otros extranjeros ilegales, instrumentos de terrorismo, narcóticos y otro contrabando”. Secure Fence Act of 2006 (Ley de la Cerca Segura de 2006), Public Law 109-367, 2, 120 Stat. 2638 (2006); 8 U.S.C. 1701 nota (que establece que el Secretario del DHS “tomará todas las acciones que el Secretario determine necesarias y apropiadas para lograr y mantener el control operativo sobre la totalidad de las fronteras terrestres y marítimas internacionales de los Estados Unidos”). Dado que el Congreso ordenó al DHS prevenir todas las entradas ilegales, los miles de extranjeros que el DHS continúa encontrando semanalmente intentando ingresar ilegalmente a los Estados Unidos a través de la frontera suroeste constituyen una afluencia. Por lo tanto, determino que actualmente existe una afluencia de extranjeros que llegan a través de toda nuestra frontera sur, lo cual requiere una respuesta federal.",
+      "En consecuencia, conforme a las facultades previstas en la INA (Ley de Inmigración y Nacionalidad), 8 U.S.C. 1101, y siguientes, incluidas las regulaciones de implementación identificadas anteriormente, determino “que existen circunstancias relacionadas con la administración de las leyes de inmigración de los Estados Unidos que ponen en peligro las vidas, la propiedad, la seguridad o el bienestar” de los residentes de los 50 Estados. Determino además que una afluencia masiva real o inminente de extranjeros está llegando a la frontera sur de los Estados Unidos y presenta circunstancias urgentes que requieren una respuesta federal inmediata. Por lo tanto, solicito la asistencia de los gobiernos estatales y locales en los 50 Estados.",
+      "La presente determinación entra en vigor de inmediato y vence en 180 días. Esta determinación podría vencer antes en caso de que yo determine que las circunstancias han cambiado. Dicha determinación se publicaría en el Registro Federal.",
+      "Markwayne Mullin,",
+      "Secretario de Seguridad Nacional.",
+      "Notas al pie",
+      "1. Aunque las regulaciones hacen referencia al “Procurador General”, el Congreso ha transferido, desde la publicación de estas regulaciones, la autoridad y la responsabilidad de administrar y hacer cumplir las leyes de inmigración al Secretario de Seguridad Nacional. Véase Homeland Security Act of 2002 (Ley de Seguridad Nacional de 2002) 471, 6 U.S.C. 291 (que abole el antiguo Servicio de Inmigración y Naturalización); id. S 441, 6 U.S.C. 251 (que transfiere las funciones de aplicación de las leyes de inmigración del Departamento de Justicia al Departamento de Seguridad Nacional); Immigration and Nationality Act (Ley de Inmigración y Nacionalidad) 103(a)(1), 8 U.S.C. 1103(a)(1) (“el Secretario de Seguridad Nacional estará a cargo de la administración y aplicación de este capítulo y de todas las demás leyes relacionadas con la inmigración y naturalización de los extranjeros.”)",
+      "Volver a la cita",
+      "2. Nationwide Encounters (Encuentros a Nivel Nacional), Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) (modificado por última vez el 14 de agosto de 2026), disponible en https://www.cbp.gov/​newsroom/​stats/​nationwide-encounters.",
+      "Volver a la cita",
+      "3. En abril de 2026, un panel de méritos del Tribunal de Apelaciones del Circuito de D.C. confirmó la decisión del tribunal de distrito. RAICES v. Mullin, 174 F.4th 81 (D.C. Cir. 2026).",
+      "Volver a la cita",
+      "[FR Doc. 2026-19253 Presentado el 9-18-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 9112-FP-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "发布并签署该文件的机构或多个机构",
+      "文件所修订、拟议修订或与之直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "用于识别《联邦监管与放松监管行动统一议程》中所列每项监管行动的监管信息编号(RIN)",
+      "详情请参阅《文件起草手册》。",
+      "美国国土安全部",
+      "2025年1月23日,国土安全部代理部长发布了《外国人大量涌入认定》。该认定自发布之日起(即2025年1月23日)立即生效,并持续生效60天(至2025年3月23日止)。参见《联邦公报》第90卷第8399页(2025年1月29日)。2025年3月21日,诺姆部长将2025年1月的《大量涌入认定》延长180天(至2025年9月17日止)。参见《联邦公报》第90卷第13622页(2025年3月25日)。2025年9月17日,诺姆部长将2025年3月的《大量涌入认定》延长180天(至2026年3月21日止)。参见《联邦公报》第90卷第45396页(2025年9月22日)。2026年3月21日,诺姆部长将2025年9月的《大量涌入认定》延长180天(至2026年9月17日止)。参见《联邦公报》第91卷第14703页。经对当前边境形势进行审查后,本人决定将该认定再延长180天。",
+      "《移民与国籍法》(INA)第8 U.S.C. 1103(a)条赋予了广泛的授权,规定如遇外国人在美国沿海或陆地边境大量涌入的情形,部长可授权州或地方执法人员在其上级同意的情况下,履行INA项下移民官员的职责。相应地,《联邦法规汇编》第28编第65.83条允许部长[1]在特定情形下“请求州或地方政府协助执行美国移民法律”。此类情形包括当“[部长]认定存在涉及美国移民法律执行的情况,且该情况危及某州或某地居民的生命、财产、安全或福祉”。参见28 CFR 65.83(b)。",
+      "在作出此类认定时,部长亦可认定存在“移民紧急状态”。相关法规将移民紧急状态定义为“外国人实际或即将发生的大量涌入,其规模之大或具有其他特征,致使美国移民法律在受影响地区的有效执行超出[国土安全部(DHS)]现有能力范围”。参见28 CFR 65.83(d)(1)(其措辞与8 U.S.C. 1103(a)(10)相同)。",
+      "此类认定须基于28 CFR 65.81所载定义中规定的各项因素。在判定是否存在移民紧急状态时,除规模外可予考虑的外国人涌入特征包括:涌入规模持续扩大的可能性;涌入与犯罪活动增加之间的明显关联;对执法机构实际或即将施加的异常且难以承受的需求;以及其他类似特征。",
+      "经审查当前数据,本人认定,目前仍然存在涉及美国移民法律执行的情况,且该情况危及全部50个州居民的生命、财产、安全或福祉,并认定外国人实际或即将发生的大量涌入正抵达美国南部边境,且该情形构成紧急状况,需要联邦政府持续作出应对。本人基于以下所述理由作出此项认定。",
+      "首先,如此前各项通知中所述,多年来我国南部边境一直处于被突破的状态。正如第10888号公告《保证各州获得抵御入侵的保护》中所指出的,从2020年至2024年,“至少有800万名非法外国人在美国南部边境被拦截遇到,此外还有数不胜数的其他人躲避侦查非法进入美国”。国土安全部持续每周在西南边境遇到成千上万试图非法进入美国的外国人。[2]",
+      "第二,由于一项联邦法院裁决,国土安全部(DHS)在边境控制外国人大量涌入的能力(印刷页59796)继续受到阻碍。2025年8月1日,美国哥伦比亚特区巡回上诉法院作出裁决,部分中止了美国哥伦比亚特区地区法院发布的禁令,该禁令禁止实施第10888号公告《保证各州免受入侵保护》,90 FR 8333(2025年1月20日)(入侵公告)。参见Refugee and Immigrant Center for Education and Legal Services (RAICES) v. Noem案,第25-5243号(哥伦比亚特区巡回上诉法院,2025年8月1日)。",
+      "然而,地区法院关于国土安全部不得再根据《移民与国籍法》(INA)第212(f)条直接遣返被拘留外国人,而必须依照8 U.S.C. 1225(b)(1)条对外国人进行快速驱逐处理的裁决,仍然有效。[3]因此,由于该裁决,国土安全部对入侵公告的实施仍然受到限制。在法院作出裁决之前,入侵公告遏制了非法移民,并促成了2025年大部分时间内边境遇见人数的低位。由于该法院裁决仍然有效,关于机构是否具备足够资源应对大量涌入的担忧依然存在,因此有必要继续作出大量涌入的认定。",
+      "第三,如此前通知中所述,当边境越境人数较多时,美国移民及海关执法局(ICE)需要大量拘留能力。对在边境被拘留的外国人实施强制拘留,具有重要的公共安全和国家安全目的。具体而言,强制拘留使政府能够有效审查外国人是否存在犯罪记录或国家安全威胁,并确保此类外国人不会被释放进入社区。目前的数据库仍无法对新到外国人的境外定罪记录或其他公共安全及国家安全风险进行全面、快速的检索。因此,当边境人数达到使国土安全部实际上被迫采取抓捕后释放(catch-and-release)做法,从而妨碍适当审查时,公共安全和国家安全便面临威胁。这还不包括所谓的“逃逸者”(gotaways),过去几年中此类人数多达数百万,且未经过任何形式的审查。",
+      "此外,内陆执法力度的加强导致大量外国人被羁押。这些外国人中许多是申请入境者,根据《移民与国籍法》,在驱逐程序待决期间须予强制拘留。8 U.S.C. 1225(b)(2)(A);参见Matter of Yajure Hurtado案,29 I&N Dec. 216(移民上诉委员会,2025年)(裁定移民法官根据8 U.S.C. 1225(b)(2)(A)的明文规定,无权审理未经许可入境且处于驱逐程序中的外国人的保释申请或准予保释)。",
+      "如前几次大量涌入认定中所述,若边境缺乏遏制涌入的管控措施,国土安全部将丧失按照《移民与国籍法》要求拘留所有申请入境者的能力。参见,例如,8 U.S.C. 1225(b)。截至2026年8月12日,ICE的被拘留人数为67,022人,最大容量为80,700人。ICE设施目前的占用率为83%。与2025年3月和9月通知以及2026年3月通知中提供的解释类似,若本认定不予延长,ICE将面临运营限制,尽管这些在西南边境被拘留的大量外国人须接受强制拘留,ICE仍将无法予以拘留。此外,若本认定不予延长,ICE将不得不动用床位空间拘留部分在西南边境被拘留的外国人,从而牺牲其旨在加强和促进公共安全的内陆执法重点工作。",
+      "第四,外国人涌入对日益增加的犯罪活动带来重大关切。在2017财年至2019财年期间,美国移民及海关执法局(ICE)驱逐了485,930名有刑事定罪或待决刑事指控的外国人。在2021财年至2023财年期间,ICE驱逐了158,931名有刑事定罪或待决刑事指控的外国人。在2025财年,即2024年10月1日至2025年9月30日期间,ICE驱逐了166,319名有刑事定罪或待决刑事指控的外国人。在2025年10月1日至2026年8月11日期间,2026财年尚余51天,ICE驱逐了215,447名有刑事定罪或待决刑事指控的外国人。假设外国人犯罪率在这一年中保持不变,2019财年与2021财年、2021财年与2023财年之间驱逐人数下降67%,这表明仍有数万名犯罪外国人留在美国境内。然而,即使ICE在本财年剩余时间内继续以相同水平驱逐外国人,其驱逐的有刑事定罪或待决刑事指控的外国人总数仍将低于2017财年至2019财年期间驱逐的外国人总数,这表明美国境内仍存在大量犯罪外国人。犯罪外国人数量增加之处,犯罪活动很可能随之增加。这再次表明,ICE必须继续优先驱逐犯罪外国人,而不是将资源转移用于拘留近期在西南边境被捕的外国人。",
+      "此外,西南边境地区仍存在严重的犯罪活动。2026年7月,美国海关与边境保护局(CBP)下属的实地行动办公室(OFO)和美国边境巡逻队(USBP)共查获353名犯罪外国人。OFO实施750次刑事逮捕,USBP进行了33次涉帮派人员抓捕。USBP就344起走私事件移交起诉,OFO就347起事件移交刑事起诉。执法人员和特工共查获24,996.19磅非法毒品,其中包括969.57磅致命的芬太尼。执法人员和特工还查获77支枪支、11,652发弹药,以及859,890.84美元现金。如果在非法越境人数较低的情况下仍观察到如此严重的犯罪活动,那么一旦越境人数增加、CBP资源进一步吃紧,这些数字很可能进一步上升。",
+      "第五,执法人员和特工面临着高度、异常且不堪重负的执法需求,这持续对相关人员构成重大危险。例如,根据CBP记录,2026年7月有22名CBP官员/特工遭到袭击。即便2026年7月的遇阻人数明显低于往年同月数字,边境执法人员和特工仍持续面临威胁,针对执法人员和特工的袭击及使用武力事件仍然过多。ICE记录显示,从2026年2月至2026年7月底,外国人对231名ICE执法与遣返行动局(ERO)官员实施袭击或使用武力,月均达38.5起。2025年2月,ICE记录显示外国人对10名ICE ERO官员实施袭击或使用武力。与2025年2月相比增加385%,且持续呈上升趋势,这表明ICE ERO官员在寻求逮捕和拘留在边境管控松懈期间入境的外国人时,所面临的风险日益增加。",
+      "此外,ICE资源仍然紧张,这使ICE无法专注于维护国家安全和公共安全的使命。ICE有许多在此前西南边境涌入期间入境、等待被驱逐的外国人。处理这些驱逐事务需要ICE投入大量资源。截至2026年8月11日,在ICE非拘留案卷中,有2,120,058名外国人已被下达最终驱逐令(印刷页第59797页)。如果该认定不予延长,并有更多外国人被列入非拘留案卷,这一数字只会继续增加。",
+      "在2026年3月1日至2026年8月11日期间,ICE逮捕了214,992名外国人。其中,121,055名外国人有刑事定罪或待决刑事指控,452名为已知或疑似恐怖分子,2,700名为疑似帮派成员。未能延长此项认定将妨碍ICE妥善执行移民法律并专注于公共安全风险的能力。",
+      "基于上述事实,本人认定,上述情况持续危及联邦所有州居民的生命、财产、安全与福祉。有效防止该危险波及各州的唯一方法,是维持对边境的有效管控,国会将其定义为“防止一切非法进入美国的行为,包括恐怖分子、其他非法外国人、恐怖主义工具、麻醉品及其他违禁品的进入”。2006年《安全围栏法》(Secure Fence Act of 2006),公法第109-367号,第2条,120 Stat. 2638(2006年);8 U.S.C. 1701note(规定国土安全部部长“应采取其认为必要和适当的一切行动,以实现并维持对美国全境陆地及海上边界的有效管控”)。鉴于国会指示国土安全部(DHS)防止一切非法入境行为,DHS每周持续在西南边境遇到的试图非法进入美国的数千名外国人,构成了一种涌入现象。因此,本人认定,目前在我国整个南部边境存在外国人涌入的情况,这需要联邦作出应对。",
+      "据此,依据《移民与国籍法》(INA)及8 U.S.C. 1101及其后续条款,包括上文所述的实施性法规所赋予的权力,本人认定“存在涉及美国移民法执行的情形,危及”全部50个州居民的“生命、财产、安全或福祉”。本人进一步认定,实际或迫近的外国人大规模涌入正发生在美国南部边境,并呈现出需要联邦立即作出应对的紧急情况。因此,本人请求全部50个州的州政府及地方政府提供协助。",
+      "本认定自即日起生效,有效期为180天。若本人认定情况已发生变化,本认定可能提前失效。此类认定将在《联邦公报》上公布。",
+      "马克韦恩·穆林(Markwayne Mullin),",
+      "国土安全部部长。",
+      "脚注",
+      "1. 尽管相关法规提及“司法部长”,但自该等法规公布以来,国会已将移民法的管理与执行权力和职责转移至国土安全部部长。参见2002年《国土安全法》第471条,6 U.S.C. 291(废除原移民归化局);同上,第441条,6 U.S.C. 251(将移民执法职能从司法部转移至国土安全部);《移民与国籍法》第103(a)(1)条,8 U.S.C. 1103(a)(1)(“国土安全部部长应负责本章及一切其他与外国人移民和归化相关法律的管理与执行。”)",
+      "返回引文处",
+      "2. 《全国遇见人数统计》,美国海关与边境保护局(U.S. Customs and Border Protection)(最后更新于2026年8月14日),可查阅网址:https://www.cbp.gov/​newsroom/​stats/​nationwide-encounters。",
+      "返回引文处",
+      "3. 2026年4月,哥伦比亚特区巡回上诉法院一实体审理合议庭维持了地区法院的裁决。RAICES诉Mullin案,174 F.4th 81(D.C. Cir. 2026)。",
+      "返回引文处",
+      "[联邦公报文件编号2026-19253,存档于9-18-26;上午8:45]",
+      "账单代码9112-FP-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含む場合がある。",
+      "文書を発出し署名した一又は複数の機関",
+      "当該文書が改正する、改正を提案する、又は直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の整理番号及び機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN",
+      "詳細については文書起草ハンドブックを参照のこと。",
+      "国土安全保障省",
+      "2025年1月23日、国土安全保障省長官代行は外国人の大量流入に関する認定を発出した。この認定は直ちに(2025年1月23日に)発効し、60日間(2025年3月23日まで)効力を有した。90 FR 8399(2025年1月29日)を参照のこと。2025年3月21日、ノーム長官は2025年1月の大量流入認定を180日間(2025年9月17日まで)延長した。90 FR 13,622(2025年3月25日)を参照のこと。2025年9月17日、ノーム長官は2025年3月の大量流入認定を180日間(2026年3月21日まで)延長した。90 FR 45,396(2025年9月22日)を参照のこと。2026年3月21日、ノーム長官は2025年9月の大量流入認定を180日間(2026年9月17日まで)延長した。91 FR 14703を参照のこと。国境における現状の検討の結果、私は当該認定をさらに180日間延長する。",
+      "移民国籍法(INA)第1103条(a)項(8 U.S.C. 1103(a))は広範な権限の付与を定めており、米国沿岸又は陸上国境において外国人の大量流入が発生した場合、長官は州又は地方の法執行機関職員に対し、その上官の同意を得て、INAに基づく移民局職員の職務を遂行する権限を付与することができると規定している。これを受けて、連邦規則集第28編第65.83条は、特定の状況下において長官[1]が「米国の移民法の運用に関して州又は地方政府の支援を要請する」ことを認めている。当該状況には、「[長官]が、州又は地方の住民の生命、財産、安全、又は福祉を危険にさらす米国移民法の運用に関する状況が存在すると判断する」場合が含まれる。28 CFR 65.83(b)。",
+      "このような判断を行うに当たり、長官は併せて「移民緊急事態」が存在すると判断することができる。規則は移民緊急事態を、「その規模が著しいか、又はその他の特性を呈しており、その結果、影響を受ける地域における米国移民法の効果的な運用が[国土安全保障省(DHS)]の既存の能力を超えている、現実の又は差し迫った外国人の大量流入」と定義している。28 CFR 65.83(d)(1)(8 U.S.C. 1103(a)(10)と同一の文言を使用)。",
+      "このような判断は「28 CFR 65.81に含まれる定義に定める要素」に基づいて行われる。移民緊急事態が存在するか否かを判断する際に考慮され得る、規模以外の外国人流入の特性には、流入の規模が継続的に拡大する可能性、流入と犯罪活動の増加との明らかな関連性、法執行機関に対する異例かつ圧倒的な需要の現実の又は差し迫った発生、その他これらに類する特性が含まれる。",
+      "現在のデータの検討の結果、私は、全50州の住民の生命、財産、安全、又は福祉を危険にさらす米国移民法の運用に関する状況が引き続き存在すること、及び現実の又は差し迫った外国人の大量流入が米国南部国境に到達しており、継続的な連邦の対応を必要とする緊急事態を呈していることを認定した。以下に述べる理由により、私はこの認定を行うものである。",
+      "第一に、従前の通知で述べたとおり、長年にわたり、我が国の南部国境は制御不能な状態に陥ってきた。布告10888号「州に対する侵略からの保護の保証」において指摘されているとおり、2020年から2024年までの間に、「米国南部国境沿いで少なくとも800万人の不法外国人が摘発され、さらに数え切れないほど多くの者が摘発を逃れて米国に不法入国した」。DHSは依然として、南西部国境経由で米国への不法入国を試みる数千人の外国人を毎週摘発し続けている。[2]",
+      "第二に、国土安全保障省(DHS)が国境における外国人の流入を抑制する能力は、連邦裁判所の判断により引き続き妨げられている(印刷ページ 59796)。2025年8月1日、コロンビア特別区巡回区控訴裁判所は、布告10888号「国家の侵略からの保護を保証する」(Guaranteeing the States Protection Against Invasion、90 FR 8333、2025年1月20日)(以下「侵略布告」という。)の実施を差し止めるコロンビア特別区連邦地方裁判所の命令を一部において停止する決定を下した。Refugee and Immigrant Center for Education and Legal Services (RAICES) v. Noem, No. 25-5243 (D.C. Cir. Aug. 1, 2025)参照。",
+      "しかしながら、DHSが移民国籍法(INA)第212条(f)に基づき拘束した外国人を直接送還することはもはやできず、8 U.S.C. 1225(b)(1)に従って迅速退去手続のために処理しなければならないとする連邦地方裁判所の判断は、依然として効力を有している。[3] したがって、この判断により、DHSによる侵略布告の実施は依然として制限されている。当該裁判所の決定が下される以前、侵略布告は不法入国を抑止し、2025年の大部分において国境での遭遇件数が低水準にとどまる一因となっていた。当該裁判所の決定が依然として有効であることから、大規模な流入に対処するための機関の利用可能な資源に関する懸念は引き続き存在しており、これにより大規模流入の認定を継続する必要性が引き続き正当化される。",
+      "第三に、これまでの通知で述べたとおり、国境越えの件数が多い場合、米国移民関税執行局(ICE)には多大な収容能力が求められる。国境で拘束された外国人の義務的収容は、重要な公共の安全及び国家安全保障上の目的に資するものである。具体的には、義務的収容により、政府は外国人の犯罪歴又は国家安全保障上の脅威について効果的な審査を行うことができ、かつ、そのような外国人が地域社会に放たれないことを確保することができる。現在のデータベースは、最近入国した者について、外国における有罪判決その他の公共の安全及び国家安全保障上のリスクを包括的かつ迅速に検索することを依然として可能にしていない。その結果、国境における件数がDHSを事実上キャッチ・アンド・リリースの慣行に追い込むような水準に達した場合、適切な審査が妨げられ、公共の安全及び国家安全保障に対する脅威が生じる。これには、いわゆる「ゴットアウェイ」、すなわち過去数年間で数百万人に上るとされる、いかなる方法によっても審査を受けていない者は含まれていない。",
+      "さらに、内陸部における取締りの強化により、収容される外国人の数が多数に上っている。これらの外国人の多くは、移民国籍法に基づき退去強制手続係属中の義務的収容の対象となる入国申請者である。8 U.S.C. 1225(b)(2)(A)、Matter of Yajure Hurtado, 29 I&N Dec. 216 (BIA 2025)(8 U.S.C. 1225(b)(2)(A)の文言上、入国許可を受けずに米国内に所在し、かつ退去強制手続中の外国人について、移民判事には保釈請求を審理し又は保釈を認める権限がないと判示したもの)参照。",
+      "これまでの大規模流入の認定において言及されたとおり、流入を食い止めるための国境における統制がなければ、DHSは移民国籍法が要求するとおりに全ての入国申請者を収容する能力を失うこととなる。例えば8 U.S.C. 1225(b)参照。2026年8月12日現在、ICEの収容人数は67,022人であり、最大収容能力は80,700人である。ICEの施設は現在、収容率83%で運用されている。2025年3月及び9月の各通知並びに2026年3月の通知において示された説明と同様に、本認定が延長されない場合、ICEは運用上の制約に直面し、義務的収容の対象であるにもかかわらず、南西国境で拘束された多数の外国人を収容することができなくなる。さらに、本認定が延長されない場合、ICEは南西国境で拘束された一部の外国人を収容するために収容スペースを使用せざるを得なくなり、その結果、公共の安全の向上及び促進を目的とする内陸部における取締りの優先事項が犠牲となる。",
+      "第四に、外国人の流入は、犯罪活動の増加に関して重大な懸念をもたらす。2017会計年度から2019会計年度の間に、移民・関税執行局(ICE)は、有罪判決を受けた、又は刑事訴追が係属中の外国人485,930人を退去させた。2021会計年度から2023会計年度の間に、ICEは、有罪判決を受けた、又は刑事訴追が係属中の外国人158,931人を退去させた。2025会計年度、すなわち2024年10月1日から2025年9月30日までの間に、ICEは、有罪判決を受けた、又は刑事訴追が係属中の外国人166,319人を退去させた。2025年10月1日から2026年8月11日までの間、すなわち2026会計年度の残り51日の時点で、ICEは、有罪判決を受けた、又は刑事訴追が係属中の外国人215,447人を退去させた。外国人の間の犯罪率がこの一年間変化していないと仮定すると、2019会計年度と2021会計年度、及び2021会計年度と2023会計年度の間における退去件数のこの67%の減少は、数万人の犯罪外国人が米国内に残存していることを示唆している。しかしながら、ICEが本会計年度の残りの期間を通じて同水準の退去を継続したとしても、2017会計年度から2019会計年度の間に退去させられた、有罪判決を受けた、又は刑事訴追が係属中の外国人の総数には及ばず、米国内に多数の犯罪外国人が引き続き存在していることを示している。犯罪外国人が増加するところでは、犯罪活動も増加する可能性が高い。このことは、ICEが、南西国境で最近拘束された外国人を収容するために資源を転用するのではなく、犯罪外国人の退去を引き続き優先しなければならないことを改めて示している。",
+      "さらに、南西国境では引き続き重大な犯罪性が存在している。2026年7月、米国税関・国境警備局(CBP)の現場業務局(OFO)及び米国国境警備隊(USBP)は、犯罪外国人353人を摘発した。OFOは750件の刑事逮捕を行い、USBPは33件のギャング関連拘束を行った。USBPは344件の密輸事案を訴追のために照会し、OFOは347件の事案を刑事訴追のために照会した。職員及び捜査官は、致死性の高いフェンタニル969.57ポンドを含む、違法薬物24,996.19ポンドを押収した。職員及び捜査官はまた、銃器77丁及び弾薬11,652発、並びに現金859,890.84ドルを押収した。不法越境が少ない時期においてさえこれほど重大な犯罪性が観察されているとすれば、越境が増加し、CBPの資源がさらに逼迫すれば、これらの数値はさらに増加する可能性が高い。",
+      "第五に、法執行官及び捜査官に対する高度で異常かつ圧倒的な需要が存在しており、これは当該要員に対して引き続き重大な危険をもたらしている。例えば、2026年7月、CBPの記録によれば、CBP職員・捜査官22人が襲撃を受けた。2026年7月の摘発件数が過去数年の月間摘発件数よりも著しく低かったにもかかわらず、国境における職員及び捜査官は依然として一貫した脅威にさらされており、職員及び捜査官に対する襲撃及び実力行使の事案は依然として過剰に発生している。ICEの記録によれば、2026年2月から2026年7月末までの間に、外国人によりICE執行・送還業務局(ERO)の職員231人が襲撃又は実力行使の対象となり、これは月平均38.5人に相当する。2025年2月には、ICEの記録によれば、外国人によりICE ERO職員10人が襲撃又は実力行使の対象となった。2025年2月からのこの385%の増加、及び継続する上昇傾向は、国境管理が緩んでいた時期に入国した外国人の逮捕及び収容を行おうとするICE ERO職員が直面するリスクの増大を示している。",
+      "さらに、ICEの資源には引き続き負担がかかっており、これによりICEは国家安全保障及び公共の安全を維持するという任務から逸れることとなっている。ICEには、南西国境における過去の流入期間中に入国し、退去処分が係属中の外国人が多数存在する。これらの退去を管理するには、ICEの資源の大幅な支出が必要となる。2026年8月11日現在、退去命令が確定した状態でICEの非収容名簿に登録されている外国人は2,120,058人である。(印刷ページ59797)本認定が延長されず、さらに多くの外国人が非収容名簿に登録されることになれば、この数はさらに増加するに過ぎないであろう。",
+      "2026年3月1日から2026年8月11日までの間に、ICEは外国人214,992人を逮捕した。そのうち、121,055人は有罪判決を受けた、又は刑事訴追が係属中であり、452人は既知の、又は疑いのあるテロリストであり、2,700人は疑いのあるギャング構成員であった。本認定の延長に失敗すれば、ICEが移民法を適切に執行し、公共の安全に対するリスクに焦点を当てる能力が妨げられることとなる。",
+      "以上の事実に基づき、本長官は、これらの状況が合衆国を構成する全ての州の住民の生命、財産、安全及び福祉に対する危険を引き続き及ぼしているものと認定する。州に対するこの危険を効果的に防止する唯一の方法は、国境の実効的管理を維持することであり、連邦議会はこれを「テロリスト、その他の不法外国人、テロの手段、麻薬その他の禁制品の入国を含む、合衆国への全ての不法入国の防止」を意味するものと定義している。2006年国境フェンス法(Secure Fence Act of 2006)、公法第109-367号、第2条、120 Stat. 2638(2006年)、8 U.S.C. 1701 note(国土安全保障省(DHS)長官は「合衆国の国際陸上及び海上国境全体にわたる実効的管理を達成し維持するために必要かつ適切と判断する全ての措置を講じるものとする」と規定している)。連邦議会がDHSに対し全ての不法入国を防止するよう指示していることに鑑みれば、DHSが南西部国境を通じて合衆国に不法に入国しようとする数千人の外国人と毎週遭遇し続けていることは、流入に該当する。したがって、本長官は、現在、我が国の南部国境全体において外国人の流入が生じており、これには連邦政府の対応が必要であると認定する。",
+      "したがって、移民国籍法(INA)、8 U.S.C. 1101以下、及び上記で特定した施行規則を含むこれに基づく権限により、本長官は、全50州の「住民の生命、財産、安全又は福祉を危険にさらす、合衆国の移民法の運用に関わる状況が存在する」ことを認定する。本長官はさらに、現実の又は差し迫った外国人の大量流入が合衆国南部国境において生じており、即時の連邦対応を必要とする緊急の状況を呈していると認定する。よって、本長官は全50州の州政府及び地方政府に対し支援を要請する。",
+      "本認定は直ちに発効し、180日で失効する。本認定は、状況が変化したと本長官が認定した場合には、より早く失効することがある。その場合の認定は、官報(Federal Register)に公示される。",
+      "マークウェイン・マリン",
+      "国土安全保障長官",
+      "脚注",
+      "1. 規則には「司法長官」と記載されているが、連邦議会はこれらの規則の公布後、移民法の運用及び執行に関する権限及び責任を国土安全保障長官に移管した。2002年国土安全保障法(Homeland Security Act of 2002)第471条、6 U.S.C. 291(旧移民帰化局を廃止)、同法第441条、6 U.S.C. 251(移民執行機能を司法省から国土安全保障省に移管)、移民国籍法第103条(a)(1)、8 U.S.C. 1103条(a)(1)(「国土安全保障長官は、本章及び外国人の移民及び帰化に関するその他全ての法律の運用及び執行を担当するものとする。」)を参照。",
+      "引用元に戻る",
+      "2. 「全国遭遇件数(Nationwide Encounters)」、合衆国税関国境警備局(U.S. Customs and Border Protection)(2026年8月14日最終更新)、https://www.cbp.gov/​newsroom/​stats/​nationwide-encounters​ にて入手可能。",
+      "引用元に戻る",
+      "3. 2026年4月、コロンビア特別区巡回区控訴裁判所の実体審理パネルは、地方裁判所の判断を支持した。RAICES対マリン事件、174 F.4th 81(D.C. Cir. 2026年)。",
+      "引用元に戻る",
+      "[FRドキュメント番号 2026-19253、2026年9月18日午前8時45分提出]",
+      "請求コード 9112-FP-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

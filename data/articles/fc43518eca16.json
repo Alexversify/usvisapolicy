@@ -92,5 +92,2375 @@
   "topics": [
     "other"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of State"
+      },
+      {
+        "t": "li",
+        "x": "22 CFR Part 171"
+      },
+      {
+        "t": "li",
+        "x": "[Public Notice: 13124]"
+      },
+      {
+        "t": "li",
+        "x": "RIN 1400-AG32"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Department of State."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Final rule."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State revises its regulations governing the availability to the public of information that is under the control of the ( printed page 59699) Department. This rule reflects changes in the Department's organization and procedures since the last revision of the Department's regulations on public access to information, including relating to the use of email to submit requests for information under this part."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The rule is in effect on October 21, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Susan Weetman, FOIA Public Liaison, Information Access Programs Directorate, U.S. Department of State, FOIAStatus@state.gov, 202-261-8484."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "p",
+        "x": "This final rule implements the Freedom of Information Act (FOIA) Improvement Act of 2016, Public Law 114-185, and updates the Department's FOIA regulations at 22 CFR part 171. The following is a summary of the substantive changes."
+      },
+      {
+        "t": "p",
+        "x": "The final rule, in § 171.4(a)(1), encourages the public to search the agency's FOIA Library to determine whether the records they seek are already publicly available prior to submitting a request. Due to the Department's release-to-one, release-to-all policy, in many cases this provision would enable the public to locate records immediately and without the need to file a FOIA request."
+      },
+      {
+        "t": "p",
+        "x": "The final rule, in § 171.4(a)(2) and § 171.15(a)(2) and (3), directs the public to the agency's FOIA web page for the list of components accepting FOIA requests, administrative appeals, and the corresponding contact information. This will enable the Department to more easily keep component contact information up to date."
+      },
+      {
+        "t": "p",
+        "x": "The final rule, in § 171.4(a)(2), provides updated procedures for submitting FOIA requests to the Department. Specifically, the Department will only accept electronic FOIA and Privacy Act request submissions for the Information Access Programs Directorate and the Directorate for Passport Services via FOIA.gov or the Department's FOIA website."
+      },
+      {
+        "t": "p",
+        "x": "The final rule, in § 171.4(b), simplifies and consolidates the procedures for reasonably describing records sought; for example, what information should be provided when requesting visa records. This update aims to increase efficiency in processing requests by reducing the need to manually enter data into the Department's case management system and reduce the need to request information that is often missing from submissions."
+      },
+      {
+        "t": "p",
+        "x": "The final rule, in § 171.11(a), removes redundant information regarding IAP's role in making initial determinations."
+      },
+      {
+        "t": "p",
+        "x": "Subpart C contains the rule's Privacy Act provisions. The final rule, in § 171.22(c) and (e), clarifies the methods used to verify identity for first-party information or a third party's information requests. The rule consolidates these requirements in this section that were previously repeated or spread across several subsections. The final change aims to make it easier for requesters to understand what information is required to verify their identity and how this information can be submitted. This update will minimize the number of requests that do not include proper verification of identity and increase the number of properly verified first and third-party requests the Department receives and reduce the administrative burden on the agency of following up with requesters that have not properly verified their identity."
+      },
+      {
+        "t": "p",
+        "x": "In § 171.26(a), the final rule updates the list of SORNS and exemptions."
+      },
+      {
+        "t": "p",
+        "x": "Finally, the final rule makes numerous minor changes throughout, to update references to the Office of Information Programs and Services to Information Access Programs Directorate."
+      },
+      {
+        "t": "h",
+        "x": "Regulatory Findings"
+      },
+      {
+        "t": "h",
+        "x": "Administrative Procedure Act"
+      },
+      {
+        "t": "p",
+        "x": "This rulemaking is exempt from notice and comment procedures under the provisions of 5 U.S.C. 553(b), since it is related to Department organization, procedure, and practice."
+      },
+      {
+        "t": "h",
+        "x": "Regulatory Flexibility Act"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State, in accordance with the Regulatory Flexibility Act, 5 U.S.C. 605(b), has reviewed this regulation and, by approving it, certifies that this rule will not have a significant economic impact on a substantial number of small entities."
+      },
+      {
+        "t": "h",
+        "x": "Unfunded Mandates Act of 1995"
+      },
+      {
+        "t": "p",
+        "x": "This rule will not result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100 million or more in any year, and it will not significantly or uniquely affect small governments. Therefore, no actions were deemed necessary under the provisions of the Unfunded Mandates Reform Act of 1995."
+      },
+      {
+        "t": "h",
+        "x": "Executive Order 12988—Civil Justice Reform"
+      },
+      {
+        "t": "p",
+        "x": "The Department has reviewed this regulation in light of Executive Order 12988 to eliminate ambiguity, minimize litigation, establish clear legal standards, and reduce burden."
+      },
+      {
+        "t": "h",
+        "x": "Executive Orders 12372 and 13132—Federalism"
+      },
+      {
+        "t": "p",
+        "x": "This regulation will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 13132, it is determined that this rule does not have sufficient federalism implications to require consultations or warrant the preparation of a federalism summary impact statement. The regulations implementing Executive Order 12372 regarding intergovernmental consultation on Federal programs and activities do not apply to this regulation."
+      },
+      {
+        "t": "h",
+        "x": "Executive Order 13175—Consultation and Coordination With Indian Tribal Governments"
+      },
+      {
+        "t": "p",
+        "x": "The Department has determined that this rulemaking will not have tribal implications, will not impose substantial direct compliance costs on Indian tribal governments, and will not pre-empt tribal law. Accordingly, the requirements of Executive Order 13175 do not apply to this rulemaking."
+      },
+      {
+        "t": "h",
+        "x": "Executive Orders 12866 and 13563—Improving Regulation and Regulatory Review"
+      },
+      {
+        "t": "p",
+        "x": "The Department has considered this rule in light of these Executive Orders and affirms that this regulation is consistent with the guidance therein. The benefits of this rulemaking for the public include, but are not limited to, providing an up-to-date procedure for requesting information from the Department that is consistent with the FOIA Improvement Act of 2016. The Department is aware of no more than a minimal cost to the public from this rulemaking. The Office of Information and Regulatory Affairs has not designated this rule as “significant” within the meaning of E.O. 12866."
+      },
+      {
+        "t": "h",
+        "x": "Executive Order 14192—Unleashing Prosperity Through Deregulation"
+      },
+      {
+        "t": "p",
+        "x": "Since this rule was not deemed “significant” under Executive Order 12866, it is not subject to the provisions of Executive Order 14192."
+      },
+      {
+        "t": "h",
+        "x": "Paperwork Reduction Act"
+      },
+      {
+        "t": "p",
+        "x": "This rule does not impose or revise any reporting or recordkeeping requirements subject to the Paperwork Reduction Act, 44 U.S.C. Chapter 35."
+      },
+      {
+        "t": "h",
+        "x": "List of Subjects in 22 CFR Part 171"
+      },
+      {
+        "t": "li",
+        "x": "Administrative practice and procedure"
+      },
+      {
+        "t": "li",
+        "x": "Freedom of information"
+      },
+      {
+        "t": "li",
+        "x": "Privacy"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 59700)"
+      },
+      {
+        "t": "p",
+        "x": "Accordingly, for the reasons set forth in the preamble, the State Department amends 22 CFR part 171 as follows:"
+      },
+      {
+        "t": "h",
+        "x": "PART 171—PUBLIC ACCESS TO INFORMATION"
+      },
+      {
+        "t": "p",
+        "x": "1. The authority citation for part 171 continues to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "Authority: 22 U.S.C. 2651a; 5 U.S.C. 552, 552a; E.O. 12600 (52 FR 23781); Pub. L. 114-185; Pub. L. 95-521, 92 Stat. 1824 (codified as amended at 5 U.S.C. Ch. 131); 5 CFR part 2634."
+      },
+      {
+        "t": "p",
+        "x": "2. In § 171.1 amend paragraph (b) by revising the definition of “Component” to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.1"
+      },
+      {
+        "t": "p",
+        "x": "General provisions."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(b) * * *"
+      },
+      {
+        "t": "p",
+        "x": "Component means each separate bureau, office, division, commission, service, center, or administration within an agency that is responsible for processing FOIA or PA requests concerning records under their jurisdiction. The rules described in this regulation that apply to agencies also apply to components."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "3. Revise § 171.2 to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.2"
+      },
+      {
+        "t": "p",
+        "x": "Types of records maintained."
+      },
+      {
+        "t": "p",
+        "x": "Most of the records maintained by the Department pertain to the formulation and execution of U.S. foreign policy. The Department also maintains certain records that pertain to individuals, such as applications for U.S. passports issued from March 1925 to present, applications for U.S. visas, records on consular assistance given abroad by U.S. Foreign Service posts to U.S. citizens and lawful permanent residents, and records on Department employees. Further information on the types of records maintained by the Department may be obtained by reviewing the Department's records disposition schedules, which are available on the Department's FOIA website at https://foia.state.gov/​."
+      },
+      {
+        "t": "p",
+        "x": "§ 171.3"
+      },
+      {
+        "t": "p",
+        "x": "[Amended]"
+      },
+      {
+        "t": "p",
+        "x": "4. Amend § 171.3(a) by removing the words “ www.state.gov/​privacy” and adding in their place “ www.state.gov/​system-of-records-notices-privacy-office”."
+      },
+      {
+        "t": "p",
+        "x": "5. Revise § 171.4 to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.4"
+      },
+      {
+        "t": "p",
+        "x": "Requests for information—types and how made."
+      },
+      {
+        "t": "p",
+        "x": "(a) General information. (1) Prior to filing a request for records, please determine if the information you are seeking is already available on the Department's website ( www.state.gov) or the FOIA Library ( https://foia.state.gov/​FOIALIBRARY/​FOIALIB2.aspx)."
+      },
+      {
+        "t": "p",
+        "x": "(2) Requests for records made in accordance with this part must be made in writing via the Department's FOIA website ( https://foia.state.gov/​), the National FOIA Portal ( www.foia.gov), or by mail to the component address as listed on the Department's FOIA website. A request will receive the quickest possible response if it is addressed to the FOIA office of the component that maintains the records sought. A list of the Department's components that accept FOIA requests, including descriptions of the types of records maintained, as well as FOIA contact information can be found at https://foia.state.gov/​."
+      },
+      {
+        "t": "p",
+        "x": "(3) Requesters must provide contact information, such as their phone number, email address, and/or mailing address, to assist the Department in communicating with them and providing released records."
+      },
+      {
+        "t": "p",
+        "x": "(4) Requests for records of the OIG must be made in writing via the National FOIA Portal ( www.foia.gov), email, or mail. Guidance and contact information are available on the OIG's website at www.stateoig.gov/​foiarequest."
+      },
+      {
+        "t": "p",
+        "x": "(5) The requester should provide the specific citation to the authority under which he or she is requesting information ( e.g., the FOIA, the PA, or Mandatory Declassification Review (MDR) under the current Executive Order on classification). This will facilitate the processing of the request."
+      },
+      {
+        "t": "p",
+        "x": "(b) Description of records sought. Although no particular format is required, a request must reasonably describe the Department record(s) that the requester seeks. Requesters must describe the records sought in sufficient detail to enable agency personnel to locate them with a reasonable amount of effort. To the extent possible, requesters should include specific information that may assist the Department in identifying the requested record(s), such as the bureau or office; date or timeframe; title or name of the custodian, author, or recipient; subject matter; case number; or file designation reference number. Requests for visa records should include the following information for the applicant and, if applicable, the petitioner: full name, as well as any aliases used; current address; email; and date and place of birth (including city, state, and country). Additional information describing the records sought will assist the Department in properly identifying the responsive records and in processing the request. If after receiving a request the Department determines that the request does not reasonably describe the records sought, the Department will inform the requester that the request is insufficient and shall inform the requester what additional information is needed or why the request is otherwise insufficient. If a request does not reasonably describe the records sought, the agency's response to the request may be delayed. Any records provided in response to a request will be provided in the form or format requested if a releasable form of the records is readily reproducible in that form or format. Before submitting their requests, requesters are encouraged to contact the component's FOIA contact or FOIA Public Liaison to discuss the records they seek and to receive assistance in describing the records or narrowing the scope of their request."
+      },
+      {
+        "t": "p",
+        "x": "(c) Privacy Act versus FOIA. While the Department makes every effort to provide the greatest possible access to all requested records regardless of the statute(s) under which the information is requested, the following guidance is provided for the benefit of requesters:"
+      },
+      {
+        "t": "p",
+        "x": "(1) The Freedom of Information Act applies to requests for records concerning the general activities of government and of the Department in particular (see subpart B of this part)."
+      },
+      {
+        "t": "p",
+        "x": "(2) The Privacy Act applies to requests from U.S. citizens or lawful permanent residents for records about them that are maintained by the Department in a system of records retrievable by the individual's name or personal identifier (see subpart C of this part)."
+      },
+      {
+        "t": "p",
+        "x": "(3) Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with the Department's Privacy Act regulations in subpart C, as well as under this subpart. Information in such records will be withheld only if it is exempt from access under both laws; if the information is exempt under only one of the laws, it will be released. Responsive records that are not maintained in a Privacy Act system of records are processed only under the FOIA."
+      },
+      {
+        "t": "p",
+        "x": "(4) A requester who requests records about himself or herself must comply with the verification of identity requirements as set forth in § 171.22 of Subpart C (the Privacy Act Provisions) of this part in order for the request to be processed."
+      },
+      {
+        "t": "p",
+        "x": "6. Revise § 171.5 to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.5"
+      },
+      {
+        "t": "p",
+        "x": "Archival records."
+      },
+      {
+        "t": "p",
+        "x": "The Department ordinarily transfers records designated as historically significant to the National Archives when they are 25 years old. Accordingly, requests for some ( printed page 59701) Department records 25 years old or older should be submitted to the National Archives. More information about requesting such records can be found in NARA's FOIA Reference Guide ( https://www.archives.gov/​foia/​foia-guide#toc-iii-how-to-make-a-foia-request). The Department's website, https://foia.state.gov/​, has additional information regarding archival records."
+      },
+      {
+        "t": "p",
+        "x": "7. Amend § 171.11 by:"
+      },
+      {
+        "t": "p",
+        "x": "a. In paragraph (a)(1) removing the words “Office of Information Programs and Services (A/GIS/IPS)” and adding in their place “Information Access Programs Directorate (A/SKS/IAP)”;"
+      },
+      {
+        "t": "p",
+        "x": "b. Removing and reserving paragraphs (a)(2) and (3);"
+      },
+      {
+        "t": "p",
+        "x": "c. Revising paragraph (b); and"
+      },
+      {
+        "t": "p",
+        "x": "d. Revising last sentence of paragraph (d)(3)."
+      },
+      {
+        "t": "p",
+        "x": "The revisions read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.11"
+      },
+      {
+        "t": "p",
+        "x": "Processing requests."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(b) Receipt of request. The Department is in receipt of a request when the request is received by a component designated to receive FOIA requests (see § 171.4(a)(2)). At that time, the Department must send an acknowledgment letter to the requester that identifies the date of receipt of the request in the proper component, and the case tracking number. When one of these components determines that a request was misdirected within the Department, that office must promptly route the request to the proper component(s) within the Department."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(d) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(3) * * * The release determination for the record that is the subject of such coordination will be conveyed to the requester by the component that originally received the request."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "8. Amend § 171.12 by:"
+      },
+      {
+        "t": "p",
+        "x": "a. In paragraph (a):"
+      },
+      {
+        "t": "p",
+        "x": "i. Removing the first instance of the word “office” and adding in its place “component”;"
+      },
+      {
+        "t": "p",
+        "x": "ii. Removing the words “(A/GIS/IPS, OIG, or PPT)”;"
+      },
+      {
+        "t": "p",
+        "x": "iii. Removing the words “any of these three offices” and adding in their place “any component”."
+      },
+      {
+        "t": "p",
+        "x": "b. In paragraph (b) removing the words “An intake office (A/GIS/IPS, OIG, or PPT)” in the second sentence and adding in their place “The component”;"
+      },
+      {
+        "t": "p",
+        "x": "c. Revising paragraph (d)(2);"
+      },
+      {
+        "t": "p",
+        "x": "d. In paragraph (d)(4) removing the words “office (whether A/GIS/IPS, OIG, or PPT)” and adding in their place the word “component”."
+      },
+      {
+        "t": "p",
+        "x": "The revision reads as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.12"
+      },
+      {
+        "t": "p",
+        "x": "Timing of responses to requests."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(d) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(2) A request for expedited processing may be made at the time of the initial request for records or at any later time. When making a request for expedited processing of an administrative appeal, the request must be submitted to A/SKS/IAP, or OIG in the case of appeals of OIG decisions (see § 171.15). A Department component that receives a misdirected request for expedited processing must forward it promptly to the correct component responsible for receiving requests for its determination."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "9. Amend § 171.13"
+      },
+      {
+        "t": "p",
+        "x": "a. In paragraph (e) by revising the second sentence;"
+      },
+      {
+        "t": "p",
+        "x": "b. In paragraph (g):"
+      },
+      {
+        "t": "p",
+        "x": "i. Removing the word “deleted” and adding in its place the word “withheld”;"
+      },
+      {
+        "t": "p",
+        "x": "ii. Removing the word “deletion” and adding in its place the word “withholding”; and"
+      },
+      {
+        "t": "p",
+        "x": "c. In paragraph (h)(1) by removing the words “A/GIS/IPS or OIG” and adding in their place “The component”."
+      },
+      {
+        "t": "p",
+        "x": "The revision reads as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.13"
+      },
+      {
+        "t": "p",
+        "x": "Responses to requests."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(e) * * * Adverse determinations, or denials of requests, include but are not limited to decisions that: the requested record is exempt from disclosure, in whole or in part; the request does not reasonably describe the records sought; the information requested is not a record subject to the FOIA; the requested record does not exist, cannot be located, or has been destroyed; or the requested record is not readily reproducible in the form or format sought by the requester. * * *"
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "10. Amend § 171.15 by revising paragraphs (a)(2), (3), (4), and (b)(1) it to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.15"
+      },
+      {
+        "t": "p",
+        "x": "Administrative appeals."
+      },
+      {
+        "t": "p",
+        "x": "(a) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(2) To appeal any adverse determinations made by a component other than OIG, requesters must submit an administrative appeal to the A/SKS/IAP FOIA Appeals Office by email to FOIAAppeals@state.gov or by mail to the address listed on the Department's FOIA website."
+      },
+      {
+        "t": "p",
+        "x": "(3) To appeal any adverse determinations made by OIG, requesters must submit an administrative appeal to OIG via email to foiaappeals@stateoig.gov or by mail to the address on OIG's FOIA website at www.stateoig.gov/​foiaappeals. For those cases in which OIG and another component provided written denials to the requester, the requester may administratively appeal to both A/SKS/IAP and OIG, and each office will handle its respective portion of the appeal."
+      },
+      {
+        "t": "p",
+        "x": "(4) To appeal any adverse determinations made by the FSGB, requesters must submit an administrative appeal to A/SKS/IAP using the methods listed above in paragraph (2). A/SKS/IAP will assign a tracking number to the appeal and forward it to the FSGB, which is an independent body, for adjudication."
+      },
+      {
+        "t": "p",
+        "x": "(b) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(1) The A/SKS/IAP/LA Director or designee will act on behalf of the Assistant Secretary for Administration on all appeals of A/SKS/IAP FOIA determinations under this section. Likewise, the General Counsel of OIG or his/her designee will act on behalf of the Inspector General on all appeals of OIG FOIA determinations under this section."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "11. Revise and republish § 171.22 to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.22"
+      },
+      {
+        "t": "p",
+        "x": "Request for access to records."
+      },
+      {
+        "t": "p",
+        "x": "(a) In general. Requests for access to records under the PA must be made in writing to the FOIA component listed in § 171.4(a)(2). A request will receive the quickest possible response if it is addressed to the component that maintains the records sought. A list of the Department's components that accept PA requests, as well as contact information, can be found at https://foia.state.gov/​. Each component is responsible for acting on all PA requests for Department records as described in § 171.1(b)."
+      },
+      {
+        "t": "p",
+        "x": "(b) Description of records sought. Requests for access should describe the requested record(s) in sufficient detail to permit identification of the record(s). At a minimum, requests should include the individual's full name (including maiden name, if appropriate) and any other names used, current complete mailing address, and date and place of birth (city, state, and country). Helpful information includes the approximate time period of the record and the circumstances that give the individual reason to believe that the Department maintains a record under the individual's name or personal identifier, and, if known, the system of records in which the record is maintained. In certain instances, it may be necessary ( printed page 59702) for the Department to request additional information from the requester, either to ensure a full search, or to ensure that a record retrieved does in fact pertain to the individual."
+      },
+      {
+        "t": "p",
+        "x": "(c) Verification of personal identity. The Department will require reasonable identification of individuals requesting records about themselves under the PA's access provisions to ensure that records are only accessed by the proper persons. Requesters must state their full name, current address, citizenship or lawful permanent resident alien status, and date and place of birth (city, state, and country). The requester must include a statement verifying that he/she is the person requesting the records. The statement must be signed and dated within 6 months of the date of the request and be made under penalty of perjury pursuant to 28 U.S.C. 1746. The preferred methods for verification of identity are to certify under penalty of perjury in the request form on the Department's FOIA website (https://foia.state.gov/​), the National FOIA Portal ( www.foia.gov), or to submit a completed DS-4240-R, Request for Individual Access to Records Protected Under the Privacy Act ( https://foia.state.gov/​Request/​forms/​DS-4240-R.pdf). Forms created by other Federal agencies will not be accepted. If the requester seeks records under another name the requester has used, a statement, under penalty of perjury, that the requester has also used the other name must be included. In addition to the requirements in this paragraph (c) and paragraph (e) of this section, requesters seeking access to copies of the Passport Services' passport records must meet the requirements in paragraph (d) of this section. As an exercise of administrative discretion, the component can require a requester to supply additional information if necessary in order to verify that a particular individual has consented to disclosure."
+      },
+      {
+        "t": "p",
+        "x": "(d) Special requirements for passport records. Given the sensitive nature of passport records and their use, requests seeking access to copies of passport records from Passport Services under the PA must include the full name at birth and any subsequent name changes of the individual whose records are being requested (if submitting the request on behalf of a minor, provide the representative's full name as well); the date and place of birth of the individual whose records are being requested; the requester's current mailing address; and, if available, daytime telephone number and email address; the date or estimated date the passport(s) was issued; the passport number of the person whose records are being sought, if known; and any other information that will help to locate the records. The requester must also include a clear copy of both sides of the requester's valid government-issued photo identification, e.g., a driver's license."
+      },
+      {
+        "t": "p",
+        "x": "(e) Authorized third party access. The Department shall process all properly authorized third party requests, as described in this section, under the PA. In the absence of proper authorization from the individual to whom the records pertain, the Department will process third party requests under the FOIA. The preferred method for verification of identity is for the subject of the records being requested to certify under penalty of perjury in the request form on the Department's FOIA website ( https://foia.state.gov/​), the National FOIA Portal ( www.foia.gov), or to submit a completed DS-4240-C, Consent for Disclosure of Records Protected Under the Privacy Act ( https://foia.state.gov/​Request/​forms/​DS-4240-C.pdf), authorizing release of the requested information to another person or entity. Forms created by other Federal agencies will not be accepted. Attorneys or other legal representatives requesting visa information on behalf of a visa applicant should submit a statement with the request made under penalty of perjury pursuant to 28 U.S.C. 1746 by the applicant (and the petitioner if the records sought pertain to a petition) authorizing release of the requested visa information to the representative. Third party requesters seeking access to copies of the Passport Office's records must submit a clear copy of both sides of a valid government-issued photo identification ( e.g., a driver's license) in addition to the other information described above. As an exercise of administrative discretion, the component can require a requester to supply additional information, if necessary, in order to verify that a particular individual has consented to disclosure."
+      },
+      {
+        "t": "p",
+        "x": "(1) Parents and guardians of minor children. Upon presentation of acceptable documentation of the parental or guardian relationship, a parent or guardian of a U.S. citizen or LPR minor (an unmarried person under the age of 18) may, on behalf of the minor, request records under the PA pertaining to the minor. In any case, U.S. citizen or LPR minors may request such records on their own behalf. When making a request as the parent or guardian of a minor child, for access to records about that individual, a requester must establish:"
+      },
+      {
+        "t": "p",
+        "x": "(i) The identity of the individual who is the subject of the records, by stating the name, current address, date and place of birth;"
+      },
+      {
+        "t": "p",
+        "x": "(ii) The requester's own identity, as required in paragraph (c) of this section;"
+      },
+      {
+        "t": "p",
+        "x": "(iii) That the requester is the parent of that individual, which the requester may prove by providing a copy of the individual's birth certificate showing parentage, or by providing a court order establishing guardianship; and"
+      },
+      {
+        "t": "p",
+        "x": "(iv) That the requester is acting on behalf of that individual in making the request. A parent's right to access their minor child's record is not absolute."
+      },
+      {
+        "t": "p",
+        "x": "(2) Guardians of incompetent adults. A guardian of an individual who has been declared by a court to be incompetent may act for and on behalf of the incompetent individual upon presentation of appropriate documentation of the guardian relationship. When making a request as the guardian of someone determined by a court to be incompetent, for access to records about that individual, a requester must establish:"
+      },
+      {
+        "t": "p",
+        "x": "(i) The identity of the individual who is the subject of the records, by stating the name, current address, date and place of birth;"
+      },
+      {
+        "t": "p",
+        "x": "(ii) The requester's own identity, as required in paragraph (c) of this section;"
+      },
+      {
+        "t": "p",
+        "x": "(iii) That the requester is the guardian of that individual, which the requester may prove by providing a copy of a court order establishing guardianship; and"
+      },
+      {
+        "t": "p",
+        "x": "(iv) That the requester is acting on behalf of that individual in making the request."
+      },
+      {
+        "t": "p",
+        "x": "(f) Referrals and consultations. If the Department determines that records retrieved as responsive to the request were created by another agency, it ordinarily will refer the records to the originating agency for direct response to the requester. If the Department determines that Department records retrieved as responsive to the request are of interest to another agency, it may consult with the other agency before responding to the request. The Department may make agreements with other agencies to eliminate the need for consultations or referrals for particular types of records."
+      },
+      {
+        "t": "p",
+        "x": "(g) Records relating to civil actions. Nothing in this subpart entitles an individual to access any information compiled in reasonable anticipation of a civil action or proceeding."
+      },
+      {
+        "t": "p",
+        "x": "(h) Time limits. The Department will acknowledge the request promptly and furnish the requested information as soon as possible thereafter."
+      },
+      {
+        "t": "p",
+        "x": "12. Revise § 171.23(b) to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 59703)"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.23"
+      },
+      {
+        "t": "p",
+        "x": "Request to amend or correct records."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(b) Requests to amend records must be in writing and submitted to A/SKS/IAP by email to FOIAAppeals@state.gov or by mail to the address listed on the Department's FOIA website. Requests to amend OIG records must be made in writing and submitted to OIG by email or mail to the address provided on OIG's website ( https://www.stateoig.gov/​freedom-information-act-foia-0). To facilitate handling, the requester should mark both the letter and envelope, or subject line of the electronic transmission, “Privacy Act Amendment Request.” A/SKS/IAP or OIG will coordinate the review of the request with the appropriate offices under its purview. The Department will require verification of personal identity as provided in § 171.22(c) before it will initiate action to amend a record. Amendment requests should contain, at a minimum, identifying information needed to locate the record in question, a description of the specific correction requested, and an explanation of why the existing record is not accurate, relevant, timely, or complete. The requester should submit as much pertinent documentation, other information, and explanation as possible to support the request for amendment."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.24"
+      },
+      {
+        "t": "p",
+        "x": "[Amended]"
+      },
+      {
+        "t": "p",
+        "x": "13. Amend § 171.24(a) by removing the words “A/GIS/IPS” in the last sentence and adding in their place “A/SKS/IAP”."
+      },
+      {
+        "t": "p",
+        "x": "14. Amend § 171.25 by revising paragraphs (b), (c), (d), (e), (g), and (h) introductory text to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.25"
+      },
+      {
+        "t": "p",
+        "x": "Appeals from denials of PA amendment requests."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(b) To appeal any decisions made by a component other than OIG, requesters must submit an administrative appeal to the A/SKS/IAP FOIA Appeals Office by email to FOIAAppeals@state.gov or by mail to the address as listed on the Department's FOIA website. To facilitate handling, the requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Privacy Act Appeal.”"
+      },
+      {
+        "t": "p",
+        "x": "(c) For decisions made by OIG, requesters should submit their appeal to the OIG. The contact information for OIG is available at https://www.stateoig.gov/​foia-appeals. To facilitate handling, the requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Privacy Act Appeal.”"
+      },
+      {
+        "t": "p",
+        "x": "(d) Appellants should submit an administrative appeal of any denial, in whole or in part, of a request for access to FSGB records under the PA to the A/SKS/IAP Appeals Office by email to FOIAAppeals@state.gov or by mail to address as listed on the Department's FOIA website. A/SKS/IAP will assign a tracking number to the appeal and forward it to the FSGB, which is an independent body, for adjudication."
+      },
+      {
+        "t": "p",
+        "x": "(e) A/SKS/IAP, OIG, or FSGB will decide appeals from denials of PA amendment requests within 30 working days from the date when the appeal is received, unless an extension of that period for good cause shown is needed."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(g) If the decision is that a record shall be amended in accordance with the appellant's request, A/SKS/IAP, OIG, or FSGB shall direct the office under its purview that is responsible for the record to amend the record, advise all previous recipients of the record of the amendment and its substance (if an accounting of previous disclosures has been made), and so advise the individual in writing."
+      },
+      {
+        "t": "p",
+        "x": "(h) If the decision is that the amendment request is denied, in addition to the notification required by paragraph (f) of this section, A/SKS/IAP, OIG, or FSGB shall advise the appellant:"
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "15. Amend § 171.26 by revising table 1 to paragraph (a)(2)(iii) and paragraph (b) to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 171.26"
+      },
+      {
+        "t": "p",
+        "x": "Exemptions."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "(a) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(2) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(iii) * * *"
+      },
+      {
+        "t": "p",
+        "x": "Table 1 to Paragraph (a)(2)(iii)"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Office of Inspector General Investigation Management System | STATE-53."
+      },
+      {
+        "t": "tr",
+        "x": "Risk Analysis and Management | STATE-78."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "p",
+        "x": "(b) Specific exemptions. Portions of the following systems of records are exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), and (4), (G), (H), and (I), and (f). The names of the systems correspond to those published in the Federal Register by the Department."
+      },
+      {
+        "t": "p",
+        "x": "(1) Exempt under 5 U.S.C. 552a(k)(1). Records contained within the following systems of records are exempt under this section to the extent that they are subject to the provisions of 5 U.S.C. 552(b)(1)."
+      },
+      {
+        "t": "p",
+        "x": "Table 2 to Paragraph (b)(1)"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Congressional Correspondence | STATE-43."
+      },
+      {
+        "t": "tr",
+        "x": "Congressional Travel Records | STATE-44."
+      },
+      {
+        "t": "tr",
+        "x": "Coordinator for the Combating of Terrorism Records | STATE-06."
+      },
+      {
+        "t": "tr",
+        "x": "Extradition Records | STATE-11."
+      },
+      {
+        "t": "tr",
+        "x": "Family Advocacy Case Records | STATE-75."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Assistance Inspection Records | STATE-48."
+      },
+      {
+        "t": "tr",
+        "x": "Human Resources Records | STATE-31."
+      },
+      {
+        "t": "tr",
+        "x": "Intelligence and Research Records | STATE-15."
+      },
+      {
+        "t": "tr",
+        "x": "International Organizations Records | STATE-17."
+      },
+      {
+        "t": "tr",
+        "x": "Legal Case Management Records | STATE-21."
+      },
+      {
+        "t": "tr",
+        "x": "Munitions Control Records | STATE-42."
+      },
+      {
+        "t": "tr",
+        "x": "( printed page 59704)"
+      },
+      {
+        "t": "tr",
+        "x": "Office of Inspector General Investigation Management System | STATE-53."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Passport Records | STATE-26."
+      },
+      {
+        "t": "tr",
+        "x": "Personnel Payroll Records | STATE-30."
+      },
+      {
+        "t": "tr",
+        "x": "Records of Domestic Accounts Receivable | STATE-23."
+      },
+      {
+        "t": "tr",
+        "x": "Records of the Office of the Assistant Legal Adviser for International Claims and Investment Disputes | STATE-54."
+      },
+      {
+        "t": "tr",
+        "x": "Records of the Office of White House Liaison | STATE-34."
+      },
+      {
+        "t": "tr",
+        "x": "Refugee Records | STATE-59."
+      },
+      {
+        "t": "tr",
+        "x": "Risk Analysis and Management Records | STATE-78."
+      },
+      {
+        "t": "tr",
+        "x": "Rover Records | STATE-41."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "tr",
+        "x": "Visa Records | STATE-39."
+      },
+      {
+        "t": "p",
+        "x": "(2) Exempt under 5 U.S.C. 552a(k)(2). Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled for law enforcement purposes, subject to the limitations set forth in 5 U.S.C. 552a(k)(2)."
+      },
+      {
+        "t": "p",
+        "x": "Table 3 to Paragraph ( b )( 2 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Coordinator for the Combating of Terrorism Records | STATE-06."
+      },
+      {
+        "t": "tr",
+        "x": "Extradition Records | STATE-11."
+      },
+      {
+        "t": "tr",
+        "x": "Family Advocacy Case Records | STATE-75."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Assistance Inspection Records | STATE-48."
+      },
+      {
+        "t": "tr",
+        "x": "Garnishment of Wages Records | STATE-61."
+      },
+      {
+        "t": "tr",
+        "x": "Intelligence and Research Records | STATE-15."
+      },
+      {
+        "t": "tr",
+        "x": "Munitions Control Records | STATE-42."
+      },
+      {
+        "t": "tr",
+        "x": "Office of Foreign Missions Records | STATE-81."
+      },
+      {
+        "t": "tr",
+        "x": "Office of Inspector General Investigation Management System | STATE-53."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Passport Records | STATE-26."
+      },
+      {
+        "t": "tr",
+        "x": "Risk Analysis and Management Records | STATE-78."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "tr",
+        "x": "Visa Records | STATE-39."
+      },
+      {
+        "t": "p",
+        "x": "(3) Exempt under 5 U.S.C. 552a(k)(3). Records contained within the following systems of records are exempt under this section to the extent that they are maintained in connection with providing protective services pursuant to 18 U.S.C. 3056."
+      },
+      {
+        "t": "p",
+        "x": "Table 4 to Paragraph ( b )( 3 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Extradition Records | STATE-11."
+      },
+      {
+        "t": "tr",
+        "x": "Intelligence and Research Records | STATE-15."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Passport Records | STATE-26."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "tr",
+        "x": "Visa Records | STATE-39."
+      },
+      {
+        "t": "p",
+        "x": "(4) Exempt under 5 U.S.C. 552a(k)(4). Records contained within the following systems of records are exempt under this section to the extent that they are required by statute to be maintained and are used solely as statistical records."
+      },
+      {
+        "t": "p",
+        "x": "Table 5 to Paragraph ( b )( 4 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Service Institute Records | STATE-14."
+      },
+      {
+        "t": "tr",
+        "x": "Human Resources Records | STATE-31."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Personnel Payroll Records | STATE-30."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 59705)"
+      },
+      {
+        "t": "p",
+        "x": "(5) Exempt under 5 U.S.C. 552a(k)(5). Records contained within the following systems of records are exempt under this section to the extent that they consist of investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of a confidential informant."
+      },
+      {
+        "t": "p",
+        "x": "Table 6 to Paragraph ( b )( 5 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Assistance Inspection Records | STATE-48."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Service Grievance Board Records | STATE-13."
+      },
+      {
+        "t": "tr",
+        "x": "Human Resources Records | STATE-31."
+      },
+      {
+        "t": "tr",
+        "x": "Legal Adviser Attorney Employment Application Records | STATE-20."
+      },
+      {
+        "t": "tr",
+        "x": "Office of Inspector General Investigation Management System | STATE-53."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Records Maintained by the Office of Civil Rights | STATE-09."
+      },
+      {
+        "t": "tr",
+        "x": "Records of the Office of White House Liaison | STATE-34."
+      },
+      {
+        "t": "tr",
+        "x": "Risk Analysis and Management Records | STATE-78."
+      },
+      {
+        "t": "tr",
+        "x": "Rover Records | STATE-41."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "tr",
+        "x": "Senior Personnel Appointments Records | STATE-47."
+      },
+      {
+        "t": "p",
+        "x": "(6) Exempt under 5 U.S.C. 552a(k)(6). Records contained within the following systems of records are exempt under this section to the extent that they consist of testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process."
+      },
+      {
+        "t": "p",
+        "x": "Table 7 to Paragraph ( b )( 6 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Foreign Service Institute Records | STATE-14."
+      },
+      {
+        "t": "tr",
+        "x": "Human Resources Records | STATE-31."
+      },
+      {
+        "t": "tr",
+        "x": "Records Maintained by the Office of Civil Rights | STATE-09."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "p",
+        "x": "(7) Exempt under 5 U.S.C. 552a(k)(7). Records contained within the following systems of records are exempt under this section to the extent that they consist of evaluation material used to determine potential for promotion in the armed services, but only to the extent that such disclosure would reveal the identity of a confidential informant."
+      },
+      {
+        "t": "p",
+        "x": "Table 8 to Paragraph ( b )( 7 )"
+      },
+      {
+        "t": "tr",
+        "x": "Title | No."
+      },
+      {
+        "t": "tr",
+        "x": "Human Resources Records | STATE-31."
+      },
+      {
+        "t": "tr",
+        "x": "Overseas Citizens Services Records and Other Overseas Records | STATE-05."
+      },
+      {
+        "t": "tr",
+        "x": "Security Records | STATE-36."
+      },
+      {
+        "t": "h",
+        "x": "Signing Authority"
+      },
+      {
+        "t": "p",
+        "x": "The Assistant Secretary for Administration, Jose Cunningham, reviewed and approved this document and has authorized the undersigned to electronically sign and submit this document to the Office of the Federal Register for publication."
+      },
+      {
+        "t": "p",
+        "x": "Alice M. Kottmyer,"
+      },
+      {
+        "t": "p",
+        "x": "Attorney-Adviser, Office of the Legal Adviser, U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-19223 Filed 9-18-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4710-024-P"
+      }
+    ],
+    "fetched": "2026-10-12T18:07Z",
+    "from": "federalregister.gov",
+    "chars": 38510
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 편의 번호 및 각 부의 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제 완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 핸드북(Document Drafting Handbook)을 참조하십시오.",
+      "국무부",
+      "22 CFR Part 171",
+      "[공지 번호: 13124]",
+      "RIN 1400-AG32",
+      "기관:",
+      "국무부.",
+      "조치:",
+      "최종 규칙.",
+      "요약:",
+      "국무부는 국무부의 관리 하에 있는 정보에 대한 공공 접근성을 규율하는 규정을 개정합니다(인쇄본 59699쪽). 이 규칙은 공공 정보 접근에 관한 국무부 규정의 마지막 개정 이후 국무부의 조직 및 절차에 있었던 변경 사항을 반영하며, 이 부에 따른 정보 요청 제출 시 이메일 사용에 관한 사항을 포함합니다.",
+      "시행일:",
+      "본 규칙은 2026년 10월 21일부로 시행됩니다.",
+      "추가 정보 문의처:",
+      "Susan Weetman, FOIA 공공 연락관, 정보접근프로그램국(Information Access Programs Directorate), 미국 국무부, FOIAStatus@state.gov, 202-261-8484.",
+      "보충 정보:",
+      "본 최종 규칙은 2016년 정보자유법 개선법(Freedom of Information Act (FOIA) Improvement Act of 2016, 공법 제114-185호)을 시행하며, 22 CFR Part 171에 규정된 국무부의 FOIA 규정을 갱신합니다. 다음은 실질적 변경 사항의 요약입니다.",
+      "본 최종 규칙은 제171.4조(a)(1)에서, 요청자가 FOIA 요청을 제출하기 전에 자신이 찾고자 하는 기록이 이미 공개되어 있는지 여부를 확인하기 위해 기관의 FOIA 자료실(FOIA Library)을 검색할 것을 권장합니다. 국무부의 일원공개, 전원공개(release-to-one, release-to-all) 정책으로 인해, 많은 경우 이 조항은 공공이 FOIA 요청을 제출할 필요 없이 즉시 기록을 찾을 수 있도록 할 것입니다.",
+      "본 최종 규칙은 제171.4조(a)(2) 및 제171.15조(a)(2) 및 (3)에서, FOIA 요청, 행정 이의신청 및 해당 연락처 정보를 접수하는 부서 목록에 대해 공공이 기관의 FOIA 웹페이지를 참조하도록 안내합니다. 이를 통해 국무부는 부서별 연락처 정보를 보다 쉽게 최신 상태로 유지할 수 있습니다.",
+      "본 최종 규칙은 제171.4조(a)(2)에서, 국무부에 FOIA 요청을 제출하는 절차를 갱신하여 제공합니다. 구체적으로, 국무부는 정보접근프로그램국(Information Access Programs Directorate) 및 여권국(Directorate for Passport Services)에 대해서는 FOIA.gov 또는 국무부 FOIA 웹사이트를 통한 전자 FOIA 및 개인정보보호법 요청 제출만을 수리합니다.",
+      "본 최종 규칙은 제171.4조(b)에서, 요청하는 기록을 합리적으로 특정하는 절차를 간소화하고 통합합니다. 예를 들어, 사증 기록을 요청할 때 제공해야 하는 정보에 관한 사항입니다. 이러한 갱신은 국무부의 사건관리 시스템에 수작업으로 데이터를 입력할 필요성을 줄이고, 제출물에 흔히 누락되는 정보를 요청해야 할 필요성을 줄임으로써 요청 처리의 효율성을 높이는 것을 목적으로 합니다.",
+      "본 최종 규칙은 제171.11조(a)에서, 초기 결정을 내리는 정보접근프로그램국(IAP)의 역할에 관한 중복 정보를 삭제합니다.",
+      "소부 C는 본 규칙의 개인정보보호법(Privacy Act) 관련 조항을 포함합니다. 본 최종 규칙은 제171.22조(c) 및 (e)에서, 본인 정보 또는 제3자 정보 요청에 대한 신원 확인 방법을 명확히 합니다. 본 규칙은 이전에 여러 소항목에 걸쳐 반복되거나 분산되어 있던 이러한 요건을 본 조에 통합합니다. 이 최종 변경은 요청자가 신원 확인에 필요한 정보와 이를 제출하는 방법을 더 쉽게 이해할 수 있도록 하는 것을 목적으로 합니다. 이러한 갱신은 적절한 신원 확인이 포함되지 않은 요청의 수를 최소화하고, 국무부가 접수하는 적절히 확인된 본인 및 제3자 요청의 수를 늘리며, 신원을 적절히 확인하지 않은 요청자에 대한 후속 조치로 인한 기관의 행정적 부담을 줄일 것입니다.",
+      "제171.26조(a)에서, 본 최종 규칙은 SORNS 및 적용 제외 목록을 갱신합니다.",
+      "마지막으로, 본 최종 규칙은 정보프로그램서비스국(Office of Information Programs and Services)에 대한 언급을 정보접근프로그램국(Information Access Programs Directorate)으로 갱신하기 위해 전반에 걸쳐 수많은 경미한 변경을 가합니다.",
+      "규제 관련 사항",
+      "행정절차법",
+      "본 규칙 제정은 국무부의 조직, 절차 및 관행에 관련된 것이므로 5 U.S.C. 553(b)의 규정에 따라 통지 및 의견수렴 절차가 면제됩니다.",
+      "규제유연화법",
+      "국무부는 행정절차 간소화법(Regulatory Flexibility Act), 5 U.S.C. 605(b)에 따라 본 규정을 검토하였으며, 이를 승인함으로써 본 규칙이 상당수의 소규모 사업체에 중대한 경제적 영향을 미치지 않을 것임을 인증합니다.",
+      "1995년 무자금지원 의무법(Unfunded Mandates Act of 1995)",
+      "본 규칙은 주, 지방 및 부족 정부가 합산하여 또는 민간 부문이 연간 1억 달러 이상을 지출하게 하는 결과를 초래하지 않으며, 소규모 정부에 중대하거나 특별한 영향을 미치지 않습니다. 따라서 1995년 무자금지원 의무 개혁법(Unfunded Mandates Reform Act of 1995)의 규정에 따른 조치는 필요하지 않다고 판단되었습니다.",
+      "행정명령 12988호, 민사 사법 개혁",
+      "국무부는 모호성을 제거하고, 소송을 최소화하며, 명확한 법적 기준을 수립하고, 부담을 줄이기 위하여 행정명령 12988호에 비추어 본 규정을 검토하였습니다.",
+      "행정명령 12372호 및 13132호, 연방주의",
+      "본 규정은 각 주에 대하여, 연방 정부와 각 주 간의 관계에 대하여, 또는 여러 단계의 정부 간 권한 및 책임의 배분에 대하여 실질적인 직접적 영향을 미치지 아니합니다. 따라서 행정명령 13132호에 따라, 본 규칙은 협의를 요하거나 연방주의 영향 요약서의 작성을 요할 만큼 충분한 연방주의적 함의를 가지지 아니하는 것으로 결정됩니다. 연방 프로그램 및 활동에 관한 정부 간 협의에 관한 행정명령 12372호를 시행하는 규정은 본 규정에 적용되지 아니합니다.",
+      "행정명령 13175호, 인디언 부족 정부와의 협의 및 조정",
+      "해당 부서는 이번 규칙 제정이 부족(tribal) 문제에 영향을 미치지 않으며, 인디언 부족 정부에 실질적인 직접 준수 비용을 부과하지 않고, 부족법을 선점하지 않는다고 판단하였습니다. 따라서 행정명령 13175호의 요건은 이번 규칙 제정에 적용되지 않습니다.",
+      "행정명령 12866호 및 13563호, 규제 개선 및 규제 검토",
+      "해당 부서는 이러한 행정명령에 비추어 본 규칙을 검토하였으며, 본 규정이 해당 지침과 부합함을 확인합니다. 이번 규칙 제정이 대중에게 제공하는 혜택에는, 2016년 정보자유법 개선법(FOIA Improvement Act of 2016)과 부합하는, 해당 부서에 정보를 요청하기 위한 최신 절차를 제공하는 것이 포함되나 이에 국한되지 않습니다. 해당 부서는 이번 규칙 제정으로 인해 대중에게 최소한의 비용만이 발생할 것으로 인지하고 있습니다. 정보규제국(Office of Information and Regulatory Affairs)은 행정명령 12866호의 의미 내에서 본 규칙을 “중대한(significant)” 규칙으로 지정하지 않았습니다.",
+      "행정명령 14192호, 규제 완화를 통한 번영 촉진",
+      "본 규칙은 행정명령 12866호에 따라 “중대한” 규칙으로 간주되지 않았으므로, 행정명령 14192호의 규정이 적용되지 않습니다.",
+      "문서작업감축법(Paperwork Reduction Act)",
+      "본 규칙은 문서작업감축법, 44 U.S.C. Chapter 35에 따른 보고 또는 기록 보관 요건을 부과하거나 개정하지 않습니다.",
+      "22 CFR Part 171의 주제 목록",
+      "행정 관행 및 절차",
+      "정보공개",
+      "프라이버시",
+      "(인쇄본 페이지 59700)",
+      "이에 따라 전문에 명시된 이유로, 국무부는 22 CFR part 171을 다음과 같이 개정합니다.",
+      "제171부, 정보에 대한 공공 접근",
+      "1. 제171부의 권한 인용은 계속하여 다음과 같이 규정됩니다.",
+      "권한: 22 U.S.C. 2651a, 5 U.S.C. 552, 552a, 행정명령 12600 (52 FR 23781), 공법 114-185, 공법 95-521, 92 Stat. 1824 (개정되어 5 U.S.C. 제131장에 편입), 5 CFR part 2634.",
+      "2. 제171.1조를 개정하여 (b)항의 “구성단위(Component)”의 정의를 다음과 같이 개정합니다.",
+      "제171.1조",
+      "일반 규정.",
+      "* * * * *",
+      "(b) * * *",
+      "구성단위(Component)란 기관 내에서 자신의 관할에 속하는 기록에 관한 정보공개법(FOIA) 또는 프라이버시법(PA) 요청을 처리할 책임이 있는 각각의 독립된 국, 사무소, 과, 위원회, 서비스, 센터 또는 관리국을 의미합니다. 본 규정에서 기관에 적용되는 것으로 기술된 규칙은 구성단위에도 동일하게 적용됩니다.",
+      "* * * * *",
+      "3. 제171.2조를 다음과 같이 개정합니다.",
+      "제171.2조",
+      "유지되는 기록의 유형.",
+      "국무부가 보유하고 있는 기록의 대부분은 미국 외교정책의 수립 및 집행에 관한 것입니다. 국무부는 또한 1925년 3월부터 현재까지 발급된 미국 여권 신청서, 미국 비자 신청서, 미국 재외공관이 해외에서 미국 시민 및 합법적 영주권자에게 제공한 영사 지원에 관한 기록, 그리고 국무부 직원에 관한 기록과 같이 개인에 관한 특정 기록도 보유하고 있습니다. 국무부가 보유하는 기록의 종류에 관한 추가 정보는 국무부의 기록 처분 일정표(records disposition schedules)를 검토함으로써 얻을 수 있으며, 이는 국무부의 정보공개법(FOIA) 웹사이트 https://foia.state.gov/​ 에서 확인할 수 있습니다.",
+      "제171.3조",
+      "[개정]",
+      "4. 제171.3조(a)항을 개정하여 “www.state.gov/privacy”라는 문구를 삭제하고 그 자리에 “www.state.gov/system-of-records-notices-privacy-office”를 추가한다.",
+      "5. 제171.4조를 다음과 같이 개정한다.",
+      "제171.4조",
+      "정보 요청, 그 종류 및 방법.",
+      "(a) 일반 정보. (1) 기록 요청서를 제출하기 전에, 요청하고자 하는 정보가 이미 국무부 웹사이트(www.state.gov) 또는 정보공개법 자료실(FOIA Library, https://foia.state.gov/​FOIALIBRARY/​FOIALIB2.aspx)에서 이용 가능한지 확인하시기 바랍니다.",
+      "(2) 본 부에 따라 제출되는 기록 요청서는 국무부의 정보공개법(FOIA) 웹사이트(https://foia.state.gov/​), 국가 정보공개 포털(National FOIA Portal, www.foia.gov), 또는 국무부의 FOIA 웹사이트에 기재된 해당 부서 주소로 우편을 통해 서면으로 제출하여야 합니다. 요청서는 요청하는 기록을 보유하고 있는 부서의 정보공개법 담당 부서로 발송할 경우 가장 신속한 답변을 받을 수 있습니다. 정보공개법 요청을 접수하는 국무부 부서의 목록(보유하고 있는 기록의 종류에 대한 설명 및 정보공개법 담당 연락처 정보 포함)은 https://foia.state.gov/​ 에서 확인할 수 있습니다.",
+      "(3) 요청인은 국무부가 요청인과 원활히 연락하고 공개된 기록을 제공할 수 있도록 전화번호, 이메일 주소 및/또는 우편 주소 등 연락처 정보를 제공하여야 합니다.",
+      "(4) 감찰관실(OIG)의 기록에 대한 요청은 국가 정보공개 포털(National FOIA Portal, www.foia.gov), 이메일, 또는 우편을 통해 서면으로 제출하여야 합니다. 안내사항 및 연락처 정보는 감찰관실(OIG) 웹사이트 www.stateoig.gov/​foiarequest 에서 확인할 수 있습니다.",
+      "(5) 요청인은 자신이 정보를 요청하는 근거가 되는 권한의 구체적인 인용(예를 들어 정보공개법(FOIA), 프라이버시법(PA), 또는 현행 비밀분류에 관한 행정명령에 따른 의무적 비밀해제 검토(Mandatory Declassification Review, MDR))을 명시하여야 합니다. 이는 요청의 처리를 용이하게 할 것입니다.",
+      "(b) 요청 대상 기록의 설명. 특정한 형식이 요구되지는 않으나, 요청서는 요청인이 구하고자 하는 국무부의 기록을 합리적으로 특정하여 기술하여야 합니다. 요청인은 담당 직원이 합리적인 노력으로 해당 기록을 찾아낼 수 있도록 충분히 상세하게 요청 대상 기록을 설명하여야 합니다. 가능한 한, 요청인은 해당 국, 날짜 또는 기간, 보관자, 작성자 또는 수신자의 직함이나 성명, 주제, 사건 번호, 또는 파일 지정 참조번호 등 국무부가 요청된 기록을 식별하는 데 도움이 될 수 있는 구체적인 정보를 포함하여야 합니다. 비자 기록에 대한 요청에는 신청인 및 해당되는 경우 청원인에 대하여 다음의 정보, 즉 사용된 가명을 포함한 성명 전체, 현재 주소, 이메일, 그리고 출생일 및 출생지(도시, 주, 국가 포함)를 포함하여야 합니다. 요청 대상 기록에 대한 추가적인 설명은 국무부가 해당 기록을 정확히 식별하고 요청을 처리하는 데 도움이 될 것입니다. 요청을 접수한 후 국무부가 해당 요청이 요청 대상 기록을 합리적으로 특정하지 못하였다고 판단하는 경우, 국무부는 요청인에게 해당 요청이 불충분함을 통지하고 추가로 필요한 정보 또는 해당 요청이 불충분한 이유를 안내하여야 합니다. 요청이 요청 대상 기록을 합리적으로 특정하지 못하는 경우, 해당 요청에 대한 국무부의 답변이 지연될 수 있습니다. 요청에 대한 응답으로 제공되는 모든 기록은, 공개 가능한 형태의 기록을 해당 형식으로 용이하게 복제할 수 있는 경우, 요청된 형식이나 형태로 제공됩니다. 요청인은 요청서를 제출하기 전에, 구하고자 하는 기록에 관하여 논의하고 기록의 설명이나 요청 범위의 축소에 관한 도움을 받기 위하여 해당 부서의 정보공개법 담당자 또는 정보공개법 민원 조정관(FOIA Public Liaison)에게 연락할 것을 권장받습니다.",
+      "(c) 프라이버시법과 정보자유법의 관계. 국무부는 정보가 요청된 근거 법령이 무엇이든 관계없이 요청된 모든 기록에 대하여 가능한 한 최대한의 접근을 제공하기 위하여 모든 노력을 기울이고 있으나, 요청인의 편의를 위하여 다음과 같은 지침을 제공합니다.",
+      "(1) 정보자유법(Freedom of Information Act)은 정부 일반의 활동 및 특히 국무부의 활동에 관한 기록 요청에 적용됩니다(이 부(Part)의 하위부 B 참조).",
+      "(2) 프라이버시법(Privacy Act)은 미국 시민 또는 합법적 영주권자가 자신에 관한 기록으로서 개인의 성명 또는 개인 식별자로 검색 가능한 기록 체계에 국무부가 보관하고 있는 기록을 요청하는 경우에 적용됩니다(이 부의 하위부 C 참조).",
+      "(3) 1974년 프라이버시법, 5 U.S.C. 552a에 따라 개인이 자신에 관한 기록을 요청하는 경우, 이러한 요청은 이 하위부뿐만 아니라 하위부 C에 규정된 국무부의 프라이버시법 규정에 따라 처리됩니다. 그러한 기록상의 정보는 두 법률 모두에 따라 접근이 면제되는 경우에만 비공개됩니다. 정보가 두 법률 중 어느 하나에 따라서만 면제되는 경우에는 공개됩니다. 프라이버시법상의 기록 체계에 보관되어 있지 않은 응답 대상 기록은 정보자유법(FOIA)에 따라서만 처리됩니다.",
+      "(4) 자신에 관한 기록을 요청하는 요청인은 그 요청이 처리되기 위하여 이 부의 하위부 C(프라이버시법 규정)의 제171.22조에 규정된 신원 확인 요건을 준수하여야 합니다.",
+      "6. 제171.5조를 다음과 같이 개정한다.",
+      "제171.5조",
+      "기록보존소 기록.",
+      "국무부는 통상적으로 역사적으로 중요한 것으로 지정된 기록을 그 기록이 작성된 지 25년이 되는 때에 국가기록원(National Archives)으로 이관합니다. 따라서 작성된 지 25년 이상 된 일부 국무부 기록에 대한 요청은(인쇄된 페이지 59701) 국가기록원에 제출하여야 합니다. 그러한 기록의 요청에 관한 추가 정보는 미국 국가기록관리청(National Archives and Records Administration, NARA)의 정보자유법 참고 안내서( https://www.archives.gov/​foia/​foia-guide#toc-iii-how-to-make-a-foia-request)에서 확인할 수 있습니다. 국무부 웹사이트 https://foia.state.gov/​ 에는 기록보존소 기록에 관한 추가 정보가 게재되어 있습니다.",
+      "7. 제171.11조를 다음과 같이 개정한다.",
+      "가. (a)(1)항에서 “정보프로그램서비스국(Office of Information Programs and Services, A/GIS/IPS)”이라는 문구를 삭제하고 그 자리에 “정보접근프로그램국(Information Access Programs Directorate, A/SKS/IAP)”을 추가한다.",
+      "나. (a)(2)항 및 (3)항을 삭제하고 유보(reserved)로 둔다.",
+      "다. (b)항을 개정한다.",
+      "라. (d)(3)항의 마지막 문장을 개정한다.",
+      "개정 내용은 다음과 같다.",
+      "제171.11조",
+      "요청의 처리.",
+      "* * * * *",
+      "(b) 요청의 접수. 국무부는 정보자유법 요청을 접수하도록 지정된 구성부서(component)가 요청을 접수한 때에 그 요청을 접수한 것으로 봅니다(제171.4조(a)(2) 참조). 그때, 국무부는 요청인에게 해당 요청이 적절한 구성부서에 접수된 날짜와 사건 추적 번호를 명시한 접수확인서를 발송하여야 합니다. 이들 구성부서 중 하나가 요청이 국무부 내에서 잘못 전달되었다고 판단하는 경우, 해당 부서는 신속히 그 요청을 국무부 내의 적절한 구성부서(들)로 이송하여야 합니다.",
+      "* * * * *",
+      "(d) * * *",
+      "(3) * * * 그러한 조정의 대상이 되는 기록에 대한 공개 여부 결정은 원래 요청을 접수한 구성부서가 요청인에게 통지합니다.",
+      "* * * * *",
+      "8. 제171.12조를 다음과 같이 개정한다.",
+      "가. (a)항에서:",
+      "i. 첫 번째로 나오는 “office”라는 단어를 삭제하고 그 자리에 “component”를 추가한다.",
+      "ii. “(A/GIS/IPS, OIG, 또는 PPT)”라는 문구를 삭제한다.",
+      "iii. “이들 세 개 부서(any of these three offices)”라는 문구를 삭제하고 그 자리에 “모든 구성부서(any component)”를 추가한다.",
+      "나. (b)항 두 번째 문장에서 “접수부서(An intake office, A/GIS/IPS, OIG, 또는 PPT)”라는 문구를 삭제하고 그 자리에 “해당 구성부서(The component)”를 추가한다.",
+      "다. (d)(2)항을 개정한다.",
+      "라. (d)(4)항에서 “부서(office, A/GIS/IPS, OIG, 또는 PPT를 불문함)”라는 문구를 삭제하고 그 자리에 “구성부서(component)”라는 단어를 추가한다.",
+      "개정 내용은 다음과 같다.",
+      "제171.12조",
+      "요청에 대한 응답 시기.",
+      "* * * * *",
+      "(d) * * *",
+      "(2) 신속처리 요청은 최초 기록 요청 시 또는 그 이후 언제든지 할 수 있습니다. 행정심판(administrative appeal)에 대한 신속처리를 요청하는 경우, 그 요청은 A/SKS/IAP에 제출하여야 하며, 감찰관실(OIG)의 결정에 대한 심판인 경우에는 OIG에 제출하여야 합니다(제171.15조 참조). 잘못 전달된 신속처리 요청을 접수한 국무부 구성부서는 신속히 그 요청에 대한 결정을 담당하는 올바른 접수 구성부서로 이를 전달하여야 합니다.",
+      "* * * * *",
+      "9. 제171.13조를 개정한다.",
+      "가. (e)항에서 두 번째 문장을 개정한다.",
+      "나. (g)항에서:",
+      "i. “deleted”라는 단어를 삭제하고 그 자리에 “withheld”라는 단어를 추가함.",
+      "ii. “deletion”이라는 단어를 삭제하고 그 자리에 “withholding”이라는 단어를 추가함. 그리고",
+      "c. 제(h)(1)항에서 “A/GIS/IPS 또는 OIG”라는 문구를 삭제하고 그 자리에 “해당 구성단위(The component)”를 추가함.",
+      "개정 내용은 다음과 같습니다.",
+      "§ 171.13",
+      "요청에 대한 응답.",
+      "* * * * *",
+      "(e) * * * 불리한 결정 또는 요청의 거부에는 다음을 포함하나 이에 국한되지 아니합니다. 요청된 기록의 전부 또는 일부가 공개 대상에서 제외되는 경우, 요청이 구하는 기록을 합리적으로 특정하지 못하는 경우, 요청된 정보가 정보자유법(FOIA)의 적용을 받는 기록이 아닌 경우, 요청된 기록이 존재하지 아니하거나, 소재를 확인할 수 없거나, 폐기된 경우, 또는 요청된 기록을 요청인이 구하는 형식이나 포맷으로 쉽게 제공할 수 없는 경우. * * *",
+      "* * * * *",
+      "10. § 171.15를 개정하여 제(a)(2), (3), (4)항 및 제(b)(1)항을 다음과 같이 개정합니다.",
+      "§ 171.15",
+      "행정 이의신청.",
+      "(a) * * *",
+      "(2) OIG 이외의 구성단위가 내린 불리한 결정에 대해 이의를 제기하려는 요청인은 A/SKS/IAP FOIA 이의신청 사무소에 이메일 FOIAAppeals@state.gov로 또는 국무부 FOIA 웹사이트에 기재된 주소로 우편으로 행정 이의신청서를 제출하여야 합니다.",
+      "(3) OIG가 내린 불리한 결정에 대해 이의를 제기하려는 요청인은 OIG에 이메일 foiaappeals@stateoig.gov로 또는 OIG의 FOIA 웹사이트(www.stateoig.gov/foiaappeals)에 기재된 주소로 우편을 통해 행정 이의신청서를 제출하여야 합니다. OIG와 다른 구성단위가 모두 요청인에게 서면 거부 통지를 제공한 경우, 요청인은 A/SKS/IAP와 OIG 양측 모두에 행정 이의신청을 제기할 수 있으며, 각 사무소는 각자에 해당하는 이의신청 부분을 처리합니다.",
+      "(4) 해외근무위원회(FSGB)가 내린 불리한 결정에 대해 이의를 제기하려는 요청인은 위 제(2)항에 기재된 방법을 사용하여 A/SKS/IAP에 행정 이의신청서를 제출하여야 합니다. A/SKS/IAP는 해당 이의신청에 추적번호를 부여하고, 독립기구인 FSGB에 심리를 위해 이를 송부합니다.",
+      "(b) * * *",
+      "(1) A/SKS/IAP/LA 국장 또는 지정자는 본 조에 따른 A/SKS/IAP의 FOIA 결정에 관한 모든 이의신청에 대하여 행정담당 차관보를 대리하여 조치를 취합니다. 마찬가지로, OIG의 법률고문 또는 그 지정자는 본 조에 따른 OIG의 FOIA 결정에 관한 모든 이의신청에 대하여 감찰관을 대리하여 조치를 취합니다.",
+      "* * * * *",
+      "11. § 171.22를 개정하여 다시 공포하며 그 내용은 다음과 같습니다.",
+      "§ 171.22",
+      "기록 열람 요청.",
+      "(a) 총칙. 프라이버시법(PA)에 따른 기록 열람 요청은 제171.4조(a)(2)항에 열거된 FOIA 구성단위에 서면으로 제출하여야 합니다. 요청은 구하는 기록을 보유하고 있는 구성단위에 제출할 경우 가장 신속한 응답을 받을 수 있습니다. 프라이버시법 요청을 접수하는 국무부 구성단위의 목록과 연락처 정보는 https://foia.state.gov/에서 확인할 수 있습니다. 각 구성단위는 제171.1조(b)항에 기술된 바와 같이 국무부 기록에 관한 모든 프라이버시법 요청의 처리를 담당합니다.",
+      "(b) 요청 대상 기록의 기재. 열람 요청서에는 요청하는 기록을 특정할 수 있도록 충분히 상세하게 기록을 기술하여야 합니다. 최소한, 요청서에는 개인의 성명 전체(해당되는 경우 혼인 전 성을 포함), 사용한 다른 이름, 현재의 전체 우편주소, 그리고 출생 연월일 및 출생지(도시, 주 및 국가)를 포함하여야 합니다. 기록의 대략적인 시기 및 국무부가 해당 개인의 이름 또는 개인식별자로 기록을 보유하고 있다고 믿을 만한 이유가 되는 정황, 그리고 알고 있는 경우 해당 기록이 보관되어 있는 기록체계에 관한 정보가 있으면 도움이 됩니다. 일부 경우에는 (출력 페이지 59702) 국무부가 완전한 검색을 보장하거나 검색된 기록이 실제로 해당 개인에 관한 것임을 확인하기 위하여 요청인에게 추가 정보를 요청하는 것이 필요할 수 있습니다.",
+      "(c) 신원 확인. 국무부는 개인정보보호법(Privacy Act, PA)의 열람 조항에 따라 자신에 관한 기록을 요청하는 개인에게 합리적인 신원 확인을 요구하여 적절한 사람만이 기록에 접근할 수 있도록 합니다. 요청자는 성명 전체, 현재 주소, 시민권 또는 합법적 영주권자 신분, 그리고 출생 연월일 및 출생지(시, 주, 국가)를 명시해야 합니다. 요청자는 본인이 해당 기록을 요청하는 당사자임을 확인하는 진술서를 포함해야 합니다. 이 진술서는 요청일로부터 6개월 이내에 서명 및 날짜가 기재되어야 하며, 28 U.S.C. 1746에 따라 위증의 벌을 받는다는 조건하에 작성되어야 합니다. 신원 확인을 위해 선호되는 방법은 국무부 정보공개법(FOIA) 웹사이트(https://foia.state.gov/​) 또는 연방 FOIA 포털(www.foia.gov)의 요청서 양식에서 위증의 벌을 받는다는 조건하에 인증하거나, 개인정보보호법에 따라 보호되는 기록에 대한 개인 열람 요청서인 DS-4240-R 양식(https://foia.state.gov/​Request/​forms/​DS-4240-R.pdf)을 작성하여 제출하는 것입니다. 다른 연방기관에서 작성된 양식은 접수되지 않습니다. 요청자가 본인이 사용한 다른 이름으로 기록을 요청하는 경우, 해당 다른 이름을 사용한 사실을 위증의 벌을 받는다는 조건하에 진술한 내용을 포함해야 합니다. 본 (c)항 및 본 조 (e)항의 요건 외에도, 여권과(Passport Services)의 여권 기록 사본 열람을 요청하는 요청자는 본 조 (d)항의 요건을 충족해야 합니다. 행정적 재량권의 행사로서, 해당 부서는 특정 개인이 공개에 동의하였음을 확인하기 위하여 필요한 경우 요청자에게 추가 정보 제공을 요구할 수 있습니다.",
+      "(d) 여권 기록에 관한 특별 요건. 여권 기록의 민감한 성격과 그 용도를 고려하여, 개인정보보호법에 따라 여권과(Passport Services)에 여권 기록 사본의 열람을 요청하는 경우, 기록을 요청받는 개인의 출생 시 성명 전체 및 그 이후의 모든 개명 사항(미성년자를 대신하여 요청서를 제출하는 경우에는 대리인의 성명 전체도 함께 제공), 기록을 요청받는 개인의 출생 연월일 및 출생지, 요청자의 현재 우편 주소 및 가능한 경우 주간 연락 가능한 전화번호와 이메일 주소, 여권이 발급된 날짜 또는 추정 발급일, 알고 있는 경우 기록을 요청하는 대상자의 여권번호, 그리고 기록을 찾는 데 도움이 될 수 있는 기타 모든 정보를 포함해야 합니다. 요청자는 또한 운전면허증 등 유효한 정부 발급 사진이 부착된 신분증 양면의 선명한 사본을 포함해야 합니다.",
+      "(e) 승인된 제3자 접근. 국무부는 본 조에서 설명하는 바와 같이 적절히 승인된 모든 제3자 요청을 개인정보보호법에 따라 처리합니다. 기록이 관련된 개인으로부터 적절한 승인을 받지 못한 경우, 국무부는 제3자 요청을 정보공개법(FOIA)에 따라 처리합니다. 신원 확인을 위해 선호되는 방법은, 요청된 기록의 당사자가 국무부 정보공개법(FOIA) 웹사이트(https://foia.state.gov/​) 또는 연방 FOIA 포털(www.foia.gov)의 요청서 양식에서 위증의 벌을 받는다는 조건하에 인증하거나, 개인정보보호법에 따라 보호되는 기록의 공개에 대한 동의서인 DS-4240-C 양식(https://foia.state.gov/​Request/​forms/​DS-4240-C.pdf)을 작성하여 요청된 정보를 다른 사람 또는 기관에 공개하는 것을 승인하는 것입니다. 다른 연방기관에서 작성된 양식은 접수되지 않습니다. 비자 신청자를 대신하여 비자 정보를 요청하는 변호사 또는 기타 법률 대리인은 신청자(기록이 청원과 관련된 경우에는 청원자도 포함)가 28 U.S.C. 1746에 따라 위증의 벌을 받는다는 조건하에 작성한, 요청된 비자 정보를 대리인에게 공개하는 것을 승인하는 진술서를 요청서와 함께 제출해야 합니다. 여권과(Passport Office)의 기록 사본 열람을 요청하는 제3자 요청자는 위에서 설명한 기타 정보 외에도 운전면허증 등 유효한 정부 발급 사진이 부착된 신분증 양면의 선명한 사본을 제출해야 합니다. 행정적 재량권의 행사로서, 해당 부서는 특정 개인이 공개에 동의하였음을 확인하기 위하여 필요한 경우 요청자에게 추가 정보 제공을 요구할 수 있습니다.",
+      "(1) 미성년 자녀의 부모 및 후견인. 부모 또는 후견인 관계에 대한 수용 가능한 증빙서류를 제출하는 경우, 미국 시민권자 또는 영주권자(LPR) 미성년자(18세 미만의 미혼자)의 부모 또는 후견인은 해당 미성년자를 대신하여 개인정보보호법(PA)에 따른 해당 미성년자 관련 기록을 요청할 수 있습니다. 어떠한 경우에도 미국 시민권자 또는 영주권자 미성년자는 본인을 대신하여 직접 그러한 기록을 요청할 수 있습니다. 미성년 자녀의 부모 또는 후견인으로서 해당 개인에 관한 기록에 대한 열람을 요청하는 경우, 요청자는 다음 사항을 입증하여야 합니다.",
+      "(i) 성명, 현재 주소, 출생 일자 및 출생지를 명시하여 해당 기록의 대상이 되는 개인의 신원.",
+      "(ii) 본 조 (c)항에서 요구하는 바에 따른 요청자 본인의 신원.",
+      "(iii) 요청자가 해당 개인의 부모임을 입증하는 것으로, 요청자는 친자관계를 나타내는 해당 개인의 출생증명서 사본을 제출하거나 후견관계를 설정하는 법원 명령을 제출함으로써 이를 증명할 수 있습니다. 그리고",
+      "(iv) 요청자가 해당 개인을 대신하여 요청을 하고 있다는 사실. 부모가 미성년 자녀의 기록에 접근할 권리는 절대적인 것이 아닙니다.",
+      "(2) 무능력 성인의 후견인. 법원에 의해 무능력자로 선고된 개인의 후견인은 후견 관계에 대한 적절한 증빙서류를 제출하는 경우, 해당 무능력자를 대신하여 행위할 수 있습니다. 법원에 의해 무능력자로 판정된 자의 후견인으로서 해당 개인에 관한 기록에 대한 열람을 요청하는 경우, 요청자는 다음 사항을 입증하여야 합니다.",
+      "(i) 성명, 현재 주소, 출생 일자 및 출생지를 명시하여 해당 기록의 대상이 되는 개인의 신원.",
+      "(ii) 본 조 (c)항에서 요구하는 바에 따른 요청자 본인의 신원.",
+      "(iii) 요청자가 해당 개인의 후견인임을 입증하는 것으로, 요청자는 후견관계를 설정하는 법원 명령의 사본을 제출함으로써 이를 증명할 수 있습니다. 그리고",
+      "(iv) 요청자가 해당 개인을 대신하여 요청을 하고 있다는 사실.",
+      "(f) 이송 및 협의. 국무부가 요청에 대한 응답으로 검색된 기록이 다른 기관에 의해 작성되었다고 판단하는 경우, 국무부는 통상적으로 요청자에게 직접 응답하도록 해당 기록을 작성 기관에 이송합니다. 국무부가 요청에 대한 응답으로 검색된 국무부 기록이 다른 기관의 관심 대상이라고 판단하는 경우, 국무부는 요청에 응답하기 전에 해당 기관과 협의할 수 있습니다. 국무부는 특정 유형의 기록에 대한 협의 또는 이송의 필요성을 제거하기 위하여 다른 기관과 협정을 체결할 수 있습니다.",
+      "(g) 민사소송 관련 기록. 본 하위편의 어떠한 규정도 민사소송 또는 절차를 합리적으로 예상하여 수집된 정보에 대한 개인의 열람권을 부여하지 아니합니다.",
+      "(h) 시한. 국무부는 요청을 신속히 접수 확인하고 가능한 한 그 후 신속히 요청된 정보를 제공합니다.",
+      "12. 제171.23조 (b)항을 다음과 같이 개정합니다.",
+      "(인쇄본 59703페이지)",
+      "제171.23조",
+      "기록의 수정 또는 정정 요청.",
+      "* * * * *",
+      "(b) 기록 수정 요청은 서면으로 작성되어 FOIAAppeals@state.gov로 이메일을 통해 또는 국무부 FOIA 웹사이트에 기재된 주소로 우편을 통해 A/SKS/IAP에 제출되어야 합니다. 감찰관실(OIG) 기록의 수정 요청은 서면으로 작성되어 OIG 웹사이트( https://www.stateoig.gov/​freedom-information-act-foia-0)에 제공된 이메일 주소 또는 우편 주소로 OIG에 제출되어야 합니다. 처리의 편의를 위하여, 요청자는 서신과 봉투, 또는 전자 전송의 제목란에 \"개인정보보호법 수정 요청(Privacy Act Amendment Request)\"이라고 표기하여야 합니다. A/SKS/IAP 또는 OIG는 자신의 관할 하에 있는 적절한 부서와 요청에 대한 검토를 조율합니다. 국무부는 기록 수정 조치를 개시하기 전에 제171.22조 (c)항에 규정된 바에 따른 본인 확인을 요구합니다. 수정 요청에는 최소한 해당 기록을 찾는 데 필요한 식별 정보, 요청하는 구체적인 수정 사항에 대한 설명, 그리고 기존 기록이 정확하지 않거나, 관련성이 없거나, 시의적절하지 않거나, 완전하지 않은 이유에 대한 설명이 포함되어야 합니다. 요청자는 수정 요청을 뒷받침하기 위하여 가능한 한 많은 관련 증빙서류, 기타 정보 및 설명을 제출하여야 합니다.",
+      "* * * * *",
+      "제171.24조",
+      "[개정됨]",
+      "13. 제171.24조 (a)항의 마지막 문장에서 \"A/GIS/IPS\"라는 단어를 삭제하고 그 자리에 \"A/SKS/IAP\"를 추가하여 개정합니다.",
+      "14. 제171.25조 (b), (c), (d), (e), (g)항 및 (h)항 도입 문구를 다음과 같이 개정합니다.",
+      "제171.25조",
+      "PA 수정 요청 거부에 대한 이의신청.",
+      "* * * * *",
+      "(b) OIG가 아닌 구성 기관이 내린 결정에 대해 이의를 제기하려면, 요청자는 FOIAAppeals@state.gov로 이메일을 보내거나 국무부의 FOIA 웹사이트에 기재된 주소로 우편을 보내는 방법으로 A/SKS/IAP FOIA 이의신청 사무소에 행정 이의신청서를 제출해야 합니다. 처리를 원활히 하기 위해, 요청자는 이의신청서 및 봉투 또는 전자 전송의 제목란에 \"프라이버시법 이의신청\"이라고 표시해야 합니다.",
+      "(c) OIG가 내린 결정에 대해서는, 요청자는 OIG에 이의신청을 제출해야 합니다. OIG의 연락처 정보는 https://www.stateoig.gov/​foia-appeals에서 확인할 수 있습니다. 처리를 원활히 하기 위해, 요청자는 이의신청서 및 봉투 또는 전자 전송의 제목란에 \"프라이버시법 이의신청\"이라고 표시해야 합니다.",
+      "(d) 이의신청인은 PA에 따른 FSGB 기록에 대한 접근 요청의 전부 또는 일부를 거부한 결정에 대해, FOIAAppeals@state.gov로 이메일을 보내거나 국무부의 FOIA 웹사이트에 기재된 주소로 우편을 보내는 방법으로 A/SKS/IAP 이의신청 사무소에 행정 이의신청서를 제출해야 합니다. A/SKS/IAP는 이의신청에 추적 번호를 부여하고, 이를 독립 기구인 FSGB로 송부하여 재결하도록 합니다.",
+      "(e) A/SKS/IAP, OIG 또는 FSGB는 정당한 사유가 소명되어 기간 연장이 필요한 경우를 제외하고는, 이의신청이 접수된 날로부터 30 근무일 이내에 PA 수정 요청 거부에 대한 이의신청을 결정합니다.",
+      "* * * * *",
+      "(g) 결정이 이의신청인의 요청에 따라 기록을 수정하는 것인 경우, A/SKS/IAP, OIG 또는 FSGB는 해당 기록을 관할하는 사무소에 기록을 수정하도록 지시하고, 이전 공개 내역이 작성된 경우 해당 기록의 모든 이전 수령자에게 수정 사실 및 그 내용을 통지하며, 이를 해당 개인에게 서면으로 통지해야 합니다.",
+      "(h) 결정이 수정 요청을 거부하는 것인 경우, A/SKS/IAP, OIG 또는 FSGB는 본 조 (f)항에서 요구하는 통지 외에, 이의신청인에게 다음 사항을 안내해야 합니다.",
+      "* * * * *",
+      "15. 제171.26조를 개정하여 (a)(2)(iii)항의 표 1과 (b)항을 다음과 같이 개정한다.",
+      "제171.26조",
+      "면제.",
+      "* * * * *",
+      "(a) * * *",
+      "(2) * * *",
+      "(iii) * * *",
+      "(a)(2)(iii)항에 대한 표 1",
+      "제목 | 번호",
+      "감찰관실 조사 관리 시스템 | STATE-53.",
+      "위험 분석 및 관리 | STATE-78.",
+      "보안 기록 | STATE-36.",
+      "(b) 특정 면제. 다음 기록 시스템의 일부는 5 U.S.C. 552a(c)(3), (d), (e)(1) 및 (4), (G), (H) 및 (I), 그리고 (f)의 적용에서 면제됩니다. 시스템의 명칭은 국무부가 연방관보(Federal Register)에 게재한 명칭과 일치합니다.",
+      "(1) 5 U.S.C. 552a(k)(1)에 따른 면제. 다음 기록 시스템에 포함된 기록은 5 U.S.C. 552(b)(1)의 규정이 적용되는 범위 내에서 본 조에 따라 면제됩니다.",
+      "(b)(1)항에 대한 표 2",
+      "제목 | 번호",
+      "의회 서신 | STATE-43.",
+      "의회 출장 기록 | STATE-44.",
+      "테러 대응 조정관 기록 | STATE-06.",
+      "범죄인 인도 기록 | STATE-11.",
+      "가족 옹호 사건 기록 | STATE-75.",
+      "해외 원조 감사 기록 | STATE-48.",
+      "인사 기록 | STATE-31.",
+      "정보조사국 기록 | STATE-15.",
+      "국제기구 기록 | STATE-17.",
+      "법률 사건 관리 기록 | STATE-21.",
+      "군수품 통제 기록 | STATE-42.",
+      "(인쇄 페이지 59704)",
+      "감찰관실 조사 관리 시스템 | STATE-53.",
+      "해외 시민 서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "여권 기록 | STATE-26.",
+      "인사 급여 기록 | STATE-30.",
+      "국내 미수금 계정 기록 | STATE-23.",
+      "국제 청구 및 투자 분쟁 담당 법무차관보실 기록 | STATE-54.",
+      "백악관 연락 사무소 기록 | STATE-34.",
+      "난민 기록 | STATE-59.",
+      "위험 분석 및 관리 기록 | STATE-78.",
+      "로버 기록 | STATE-41.",
+      "보안 기록 | STATE-36.",
+      "비자 기록 | STATE-39.",
+      "(2) 5 U.S.C. 552a(k)(2)에 따른 면제. 다음 기록 시스템에 포함된 기록은, 5 U.S.C. 552a(k)(2)에 규정된 제한에 따라, 법집행 목적으로 수집된 수사 자료로 구성되는 범위 내에서 본 조에 따라 면제됩니다.",
+      "(b)(2)항에 대한 표 3",
+      "제목 | 번호",
+      "테러 대응 조정관 기록 | STATE-06.",
+      "범죄인 인도 기록 | STATE-11.",
+      "가족 옹호 사건 기록 | STATE-75.",
+      "해외 원조 감사 기록 | STATE-48.",
+      "임금 압류 기록 | STATE-61.",
+      "정보조사국 기록 | STATE-15.",
+      "군수품 통제 기록 | STATE-42.",
+      "외국공관실 기록 | STATE-81.",
+      "감찰관실 조사관리시스템 기록 | STATE-53.",
+      "해외시민서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "여권 기록 | STATE-26.",
+      "위험분석 및 관리 기록 | STATE-78.",
+      "보안 기록 | STATE-36.",
+      "비자 기록 | STATE-39.",
+      "(3) 5 U.S.C. 552a(k)(3)에 따라 면제됨. 다음 기록체계에 포함된 기록은 18 U.S.C. 3056에 따른 경호 업무 제공과 관련하여 유지되는 범위 내에서 본 조항에 따라 면제됩니다.",
+      "표 4, 제(b)(3)항 관련",
+      "제목 | 번호.",
+      "범죄인 인도 기록 | STATE-11.",
+      "정보조사국 기록 | STATE-15.",
+      "해외시민서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "여권 기록 | STATE-26.",
+      "보안 기록 | STATE-36.",
+      "비자 기록 | STATE-39.",
+      "(4) 5 U.S.C. 552a(k)(4)에 따라 면제됨. 다음 기록체계에 포함된 기록은 법률에 의해 유지가 요구되고 오로지 통계 기록으로만 사용되는 범위 내에서 본 조항에 따라 면제됩니다.",
+      "표 5, 제(b)(4)항 관련",
+      "제목 | 번호.",
+      "외교연구원 기록 | STATE-14.",
+      "인사 기록 | STATE-31.",
+      "해외시민서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "인사 급여 기록 | STATE-30.",
+      "보안 기록 | STATE-36.",
+      "(인쇄본 59705페이지)",
+      "(5) 5 U.S.C. 552a(k)(5)에 따라 면제됨. 다음 기록체계에 포함된 기록은 연방 민간 고용, 군복무, 연방 계약 또는 비밀 정보 접근에 대한 적합성, 자격 또는 요건을 결정할 목적으로만 수집된 조사 자료로 구성되는 범위 내에서 본 조항에 따라 면제되며, 다만 해당 자료의 공개가 비밀 정보제공자의 신원을 드러내는 경우에 한합니다.",
+      "표 6, 제(b)(5)항 관련",
+      "제목 | 번호.",
+      "대외원조 감사 기록 | STATE-48.",
+      "해외근무 고충처리위원회 기록 | STATE-13.",
+      "인사 기록 | STATE-31.",
+      "법률고문 변호사 채용지원 기록 | STATE-20.",
+      "감찰관실 조사관리시스템 기록 | STATE-53.",
+      "해외시민서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "시민권국이 유지하는 기록 | STATE-09.",
+      "백악관 연락관실 기록 | STATE-34.",
+      "위험분석 및 관리 기록 | STATE-78.",
+      "로버 기록 | STATE-41.",
+      "보안 기록 | STATE-36.",
+      "고위직 임명 기록 | STATE-47.",
+      "(6) 5 U.S.C. 552a(k)(6)에 따라 면제됨. 다음 기록체계에 포함된 기록은 연방 공무원 임용 또는 승진을 위한 개인 자격을 결정하는 데에만 사용되는 시험 또는 평가 자료로 구성되고, 그 공개가 시험 또는 평가 절차의 객관성 또는 공정성을 훼손하게 되는 범위 내에서 본 조항에 따라 면제됩니다.",
+      "표 7, 제(b)(6)항 관련",
+      "제목 | 번호.",
+      "외교연구원 기록 | STATE-14.",
+      "인사 기록 | STATE-31.",
+      "시민권국이 유지하는 기록 | STATE-09.",
+      "보안 기록 | STATE-36.",
+      "(7) 5 U.S.C. 552a(k)(7)에 따라 면제됨. 다음 기록체계에 포함된 기록은 군에서의 승진 잠재력을 결정하는 데 사용되는 평가 자료로 구성되는 범위 내에서 본 조항에 따라 면제되며, 다만 해당 공개가 비밀 정보제공자의 신원을 드러내는 경우에 한합니다.",
+      "표 8, 제(b)(7)항 관련",
+      "제목 | 번호.",
+      "인사 기록 | STATE-31.",
+      "해외시민서비스 기록 및 기타 해외 기록 | STATE-05.",
+      "보안 기록 | STATE-36.",
+      "서명 권한",
+      "행정담당 차관보 호세 커닝엄은 본 문서를 검토 및 승인하였으며, 아래 서명자에게 본 문서를 전자적으로 서명하여 연방관보실에 제출할 권한을 부여하였습니다.",
+      "앨리스 엠. 코트마이어,",
+      "법률고문실 변호사 보좌관, 미국 국무부.",
+      "[FR Doc. 2026-19223 Filed 9-18-26; 8:45 am]",
+      "빌링 코드 4710-024-P"
+    ],
+    "es": [
+      "Encabezados de documentos",
+      "Los encabezados de documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y suscribieron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Estado",
+      "22 CFR Parte 171",
+      "[Aviso Público: 13124]",
+      "RIN 1400-AG32",
+      "AGENCIA:",
+      "Departamento de Estado.",
+      "ACCIÓN:",
+      "Regla final.",
+      "RESUMEN:",
+      "El Departamento de Estado revisa sus regulaciones que rigen la disponibilidad al público de información que está bajo el control del ( página impresa 59699) Departamento. Esta regla refleja cambios en la organización y los procedimientos del Departamento desde la última revisión de las regulaciones del Departamento sobre el acceso público a la información, incluido lo relacionado con el uso del correo electrónico para presentar solicitudes de información bajo esta parte.",
+      "FECHAS:",
+      "La regla entra en vigor el 21 de octubre de 2026.",
+      "PARA MÁS INFORMACIÓN, CONTACTAR A:",
+      "Susan Weetman, Enlace Público de FOIA, Directorado de Programas de Acceso a la Información, Departamento de Estado de los Estados Unidos, FOIAStatus@state.gov, 202-261-8484.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "Esta regla final implementa la Ley de Mejoras a la Ley de Libertad de Información (FOIA) de 2016, Ley Pública 114-185, y actualiza las regulaciones del Departamento sobre la FOIA en el 22 CFR parte 171. A continuación se presenta un resumen de los cambios sustantivos.",
+      "La regla final, en el § 171.4(a)(1), alienta al público a buscar en la Biblioteca FOIA de la agencia para determinar si los registros que busca ya están disponibles públicamente antes de presentar una solicitud. Debido a la política del Departamento de divulgación a uno, divulgación a todos, en muchos casos esta disposición permitiría al público localizar registros de inmediato y sin necesidad de presentar una solicitud FOIA.",
+      "La regla final, en el § 171.4(a)(2) y el § 171.15(a)(2) y (3), dirige al público a la página web de FOIA de la agencia para obtener la lista de los componentes que aceptan solicitudes FOIA, apelaciones administrativas, y la información de contacto correspondiente. Esto permitirá al Departamento mantener más fácilmente actualizada la información de contacto de los componentes.",
+      "La regla final, en el § 171.4(a)(2), proporciona procedimientos actualizados para presentar solicitudes FOIA al Departamento. Específicamente, el Departamento solo aceptará presentaciones electrónicas de solicitudes conforme a la FOIA y a la Ley de Privacidad para el Directorado de Programas de Acceso a la Información y el Directorado de Servicios de Pasaportes a través de FOIA.gov o del sitio web de FOIA del Departamento.",
+      "La regla final, en el § 171.4(b), simplifica y consolida los procedimientos para describir razonablemente los registros solicitados; por ejemplo, qué información debe proporcionarse al solicitar registros de visas. Esta actualización busca aumentar la eficiencia en el procesamiento de solicitudes al reducir la necesidad de ingresar datos manualmente en el sistema de gestión de casos del Departamento y reducir la necesidad de solicitar información que a menudo falta en las presentaciones.",
+      "La regla final, en el § 171.11(a), elimina información redundante respecto al papel del IAP en la realización de determinaciones iniciales.",
+      "La Subparte C contiene las disposiciones de la Ley de Privacidad de la regla. La regla final, en el § 171.22(c) y (e), aclara los métodos utilizados para verificar la identidad en solicitudes de información de parte directa o de información de un tercero. La regla consolida en esta sección estos requisitos que anteriormente se repetían o se encontraban dispersos en varias subsecciones. El cambio final busca facilitar que los solicitantes comprendan qué información se requiere para verificar su identidad y cómo puede presentarse esta información. Esta actualización minimizará el número de solicitudes que no incluyen la debida verificación de identidad y aumentará el número de solicitudes de parte directa y de terceros debidamente verificadas que recibe el Departamento, además de reducir la carga administrativa que implica para la agencia dar seguimiento a los solicitantes que no han verificado correctamente su identidad.",
+      "En el § 171.26(a), la regla final actualiza la lista de SORN y exenciones.",
+      "Finalmente, la regla final realiza numerosos cambios menores a lo largo del texto, para actualizar las referencias a la Oficina de Programas y Servicios de Información (Office of Information Programs and Services) por Directorado de Programas de Acceso a la Información.",
+      "Determinaciones Regulatorias",
+      "Ley de Procedimiento Administrativo",
+      "Esta reglamentación está exenta de los procedimientos de aviso y comentario conforme a las disposiciones del 5 U.S.C. 553(b), ya que está relacionada con la organización, el procedimiento y la práctica del Departamento.",
+      "Ley de Flexibilidad Regulatoria",
+      "El Departamento de Estado, de conformidad con la Ley de Flexibilidad Regulatoria, 5 U.S.C. 605(b), ha revisado este reglamento y, al aprobarlo, certifica que esta norma no tendrá un impacto económico significativo en un número sustancial de entidades pequeñas.",
+      "Ley de Mandatos No Financiados de 1995",
+      "Esta norma no resultará en el gasto por parte de los gobiernos estatales, locales y tribales, en conjunto, o por el sector privado, de 100 millones de dólares o más en ningún año, y no afectará de manera significativa o exclusiva a los gobiernos pequeños. Por lo tanto, no se consideraron necesarias acciones en virtud de las disposiciones de la Ley de Reforma de Mandatos No Financiados de 1995.",
+      "Orden Ejecutiva 12988, Reforma de la Justicia Civil",
+      "El Departamento ha revisado este reglamento a la luz de la Orden Ejecutiva 12988 con el fin de eliminar la ambigüedad, minimizar los litigios, establecer normas legales claras y reducir las cargas.",
+      "Órdenes Ejecutivas 12372 y 13132, Federalismo",
+      "Este reglamento no tendrá efectos directos sustanciales sobre los estados, sobre la relación entre el gobierno nacional y los estados, ni sobre la distribución de facultades y responsabilidades entre los diversos niveles de gobierno. Por lo tanto, de conformidad con la Orden Ejecutiva 13132, se determina que esta norma no tiene implicaciones de federalismo suficientes para requerir consultas ni justificar la preparación de una declaración resumida de impacto de federalismo. Los reglamentos que implementan la Orden Ejecutiva 12372 relativos a la consulta intergubernamental sobre programas y actividades federales no se aplican a este reglamento.",
+      "Orden Ejecutiva 13175, Consulta y Coordinación con los Gobiernos Tribales Indígenas",
+      "El Departamento ha determinado que esta reglamentación no tendrá implicaciones tribales, no impondrá costos de cumplimiento directos sustanciales a los gobiernos tribales indígenas y no tendrá efecto de prelación sobre el derecho tribal. En consecuencia, los requisitos de la Orden Ejecutiva 13175 no se aplican a esta reglamentación.",
+      "Órdenes Ejecutivas 12866 y 13563, Mejora de la Regulación y Revisión Regulatoria",
+      "El Departamento ha considerado esta norma a la luz de estas Órdenes Ejecutivas y afirma que este reglamento es coherente con las directrices allí establecidas. Los beneficios de esta reglamentación para el público incluyen, entre otros, proporcionar un procedimiento actualizado para solicitar información al Departamento que sea coherente con la Ley de Mejora de la FOIA de 2016. El Departamento no tiene conocimiento de que esta reglamentación genere más que un costo mínimo para el público. La Oficina de Información y Asuntos Regulatorios no ha designado esta norma como “significativa” en el sentido de la Orden Ejecutiva 12866.",
+      "Orden Ejecutiva 14192, Liberar la Prosperidad Mediante la Desregulación",
+      "Dado que esta norma no fue considerada “significativa” conforme a la Orden Ejecutiva 12866, no está sujeta a las disposiciones de la Orden Ejecutiva 14192.",
+      "Ley de Reducción de Trámites",
+      "Esta norma no impone ni modifica ningún requisito de presentación de informes o de mantenimiento de registros sujeto a la Ley de Reducción de Trámites, 44 U.S.C. Capítulo 35.",
+      "Lista de Materias en el Título 22 del CFR, Parte 171",
+      "Práctica y procedimiento administrativo",
+      "Libertad de información",
+      "Privacidad",
+      "(página impresa 59700)",
+      "En consecuencia, por las razones expuestas en el preámbulo, el Departamento de Estado modifica el título 22 del CFR, parte 171, de la siguiente manera:",
+      "PARTE 171, ACCESO PÚBLICO A LA INFORMACIÓN",
+      "1. La cita de autoridad para la parte 171 continúa redactándose de la siguiente manera:",
+      "Autoridad: 22 U.S.C. 2651a; 5 U.S.C. 552, 552a; Orden Ejecutiva 12600 (52 FR 23781); Ley Pública 114-185; Ley Pública 95-521, 92 Stat. 1824 (codificada en su forma modificada en 5 U.S.C. Cap. 131); 5 CFR parte 2634.",
+      "2. En el § 171.1, se modifica el párrafo (b) revisando la definición de “Componente” para que diga lo siguiente:",
+      "§ 171.1",
+      "Disposiciones generales.",
+      "* * * * *",
+      "(b) * * *",
+      "Componente significa cada oficina, división, comisión, servicio, centro o administración independiente dentro de una agencia que sea responsable de tramitar las solicitudes de la FOIA o de la Ley de Privacidad relativas a los registros bajo su jurisdicción. Las normas descritas en este reglamento que se aplican a las agencias también se aplican a los componentes.",
+      "* * * * *",
+      "3. Se revisa el § 171.2 para que diga lo siguiente:",
+      "§ 171.2",
+      "Tipos de registros mantenidos.",
+      "La mayoría de los registros que mantiene el Departamento corresponden a la formulación y ejecución de la política exterior de los Estados Unidos. El Departamento también mantiene ciertos registros relativos a personas, tales como solicitudes de pasaporte estadounidense emitidas desde marzo de 1925 hasta la fecha, solicitudes de visa estadounidense, registros de asistencia consular brindada en el extranjero por las oficinas del Servicio Exterior de los Estados Unidos a ciudadanos estadounidenses y residentes permanentes legales, y registros de los empleados del Departamento. Se puede obtener información adicional sobre los tipos de registros que mantiene el Departamento revisando los calendarios de disposición de registros del Departamento, los cuales están disponibles en el sitio web de la Ley de Libertad de Información (FOIA) del Departamento en https://foia.state.gov/​.",
+      "§ 171.3",
+      "[Enmendado]",
+      "4. Enmiéndese el § 171.3(a) eliminando las palabras “www.state.gov/privacy” y agregando en su lugar “www.state.gov/system-of-records-notices-privacy-office”.",
+      "5. Revísese el § 171.4 para que se lea como sigue:",
+      "§ 171.4",
+      "Solicitudes de información, tipos y forma de presentarlas.",
+      "(a) Información general. (1) Antes de presentar una solicitud de registros, determine si la información que busca ya está disponible en el sitio web del Departamento (www.state.gov) o en la Biblioteca FOIA (https://foia.state.gov/​FOIALIBRARY/​FOIALIB2.aspx).",
+      "(2) Las solicitudes de registros realizadas conforme a esta parte deben presentarse por escrito a través del sitio web de la FOIA del Departamento (https://foia.state.gov/​), el Portal Nacional de la FOIA (www.foia.gov), o por correo postal a la dirección del componente correspondiente según se indica en el sitio web de la FOIA del Departamento. Una solicitud recibirá la respuesta más rápida posible si se dirige a la oficina de la FOIA del componente que mantiene los registros buscados. Puede encontrarse una lista de los componentes del Departamento que aceptan solicitudes bajo la FOIA, incluidas descripciones de los tipos de registros que mantienen, así como la información de contacto de la FOIA, en https://foia.state.gov/​.",
+      "(3) Los solicitantes deben proporcionar información de contacto, tal como su número de teléfono, dirección de correo electrónico y/o dirección postal, para ayudar al Departamento a comunicarse con ellos y a proporcionarles los registros divulgados.",
+      "(4) Las solicitudes de registros de la Oficina del Inspector General (OIG) deben presentarse por escrito a través del Portal Nacional de la FOIA (www.foia.gov), correo electrónico, o correo postal. La orientación e información de contacto están disponibles en el sitio web de la OIG en www.stateoig.gov/foiarequest.",
+      "(5) El solicitante debe proporcionar la cita específica a la autoridad conforme a la cual está solicitando la información (por ejemplo, la FOIA, la Ley de Privacidad (PA), o la Revisión Obligatoria de Desclasificación (MDR, por sus siglas en inglés) conforme a la Orden Ejecutiva vigente sobre clasificación). Esto facilitará el trámite de la solicitud.",
+      "(b) Descripción de los registros solicitados. Aunque no se requiere un formato particular, la solicitud debe describir razonablemente el registro o los registros del Departamento que el solicitante busca. Los solicitantes deben describir los registros buscados con suficiente detalle para permitir que el personal de la agencia los localice con un esfuerzo razonable. En la medida de lo posible, los solicitantes deben incluir información específica que pueda ayudar al Departamento a identificar el registro o los registros solicitados, tal como la oficina o dirección; la fecha o el período de tiempo; el título o nombre del custodio, autor o destinatario; el tema; el número de caso; o el número de referencia de designación del expediente. Las solicitudes de registros de visa deben incluir la siguiente información del solicitante y, de ser aplicable, del peticionario: nombre completo, así como cualquier alias utilizado; dirección actual; correo electrónico; y fecha y lugar de nacimiento (incluyendo ciudad, estado y país). La información adicional que describa los registros buscados ayudará al Departamento a identificar correctamente los registros pertinentes y a tramitar la solicitud. Si después de recibir una solicitud el Departamento determina que la solicitud no describe razonablemente los registros buscados, el Departamento informará al solicitante que la solicitud es insuficiente e indicará al solicitante qué información adicional se necesita o por qué la solicitud es insuficiente de otro modo. Si una solicitud no describe razonablemente los registros buscados, la respuesta de la agencia a la solicitud podría retrasarse. Todo registro proporcionado en respuesta a una solicitud se proporcionará en la forma o formato solicitado si una versión divulgable de los registros es fácilmente reproducible en esa forma o formato. Antes de presentar sus solicitudes, se recomienda a los solicitantes que se comuniquen con el contacto de la FOIA del componente o con el Enlace Público de la FOIA para analizar los registros que buscan y recibir asistencia para describir los registros o reducir el alcance de su solicitud.",
+      "(c) Ley de Privacidad frente a la FOIA. Si bien el Departamento hace todo lo posible por proporcionar el mayor acceso posible a todos los registros solicitados, independientemente de la(s) ley(es) en virtud de la(s) cual(es) se solicita la información, se ofrece la siguiente orientación en beneficio de los solicitantes:",
+      "(1) La Ley de Libertad de Información se aplica a las solicitudes de registros relacionados con las actividades generales del gobierno y del Departamento en particular (véase la subparte B de esta parte).",
+      "(2) La Ley de Privacidad se aplica a las solicitudes de ciudadanos estadounidenses o residentes permanentes legales de registros sobre ellos mismos que sean mantenidos por el Departamento en un sistema de registros recuperable por el nombre de la persona o por un identificador personal (véase la subparte C de esta parte).",
+      "(3) Las solicitudes realizadas por personas respecto de registros sobre sí mismas en virtud de la Ley de Privacidad de 1974, 5 U.S.C. 552a, se procesan de conformidad con las regulaciones de la Ley de Privacidad del Departamento contenidas en la subparte C, así como en virtud de esta subparte. La información contenida en dichos registros solo se retendrá si está exenta de divulgación en virtud de ambas leyes; si la información está exenta en virtud de solo una de las leyes, se divulgará. Los registros responsivos que no se mantengan en un sistema de registros de la Ley de Privacidad se procesan únicamente en virtud de la FOIA.",
+      "(4) Un solicitante que solicite registros sobre sí mismo debe cumplir con los requisitos de verificación de identidad establecidos en el § 171.22 de la Subparte C (Disposiciones de la Ley de Privacidad) de esta parte para que la solicitud sea procesada.",
+      "6. Se revisa el § 171.5 para que diga lo siguiente:",
+      "§ 171.5",
+      "Registros archivísticos.",
+      "El Departamento generalmente transfiere a los Archivos Nacionales los registros designados como de importancia histórica cuando cumplen 25 años. En consecuencia, las solicitudes de algunos ( página impresa 59701) registros del Departamento de 25 años o más de antigüedad deben presentarse ante los Archivos Nacionales. Puede encontrarse más información sobre cómo solicitar dichos registros en la Guía de Referencia de la FOIA de NARA ( https://www.archives.gov/​foia/​foia-guide#toc-iii-how-to-make-a-foia-request). El sitio web del Departamento, https://foia.state.gov/​, contiene información adicional sobre los registros archivísticos.",
+      "7. Se modifica el § 171.11 de la siguiente manera:",
+      "a. En el párrafo (a)(1), eliminando las palabras “Oficina de Programas e Información de Servicios (A/GIS/IPS)” y sustituyéndolas por “Dirección de Programas de Acceso a la Información (A/SKS/IAP)”;",
+      "b. Eliminando y reservando los párrafos (a)(2) y (3);",
+      "c. Revisando el párrafo (b); y",
+      "d. Revisando la última oración del párrafo (d)(3).",
+      "Las revisiones dicen lo siguiente:",
+      "§ 171.11",
+      "Procesamiento de solicitudes.",
+      "* * * * *",
+      "(b) Recepción de la solicitud. El Departamento ha recibido una solicitud cuando esta es recibida por un componente designado para recibir solicitudes de la FOIA (véase el § 171.4(a)(2)). En ese momento, el Departamento debe enviar una carta de acuse de recibo al solicitante en la que se identifique la fecha de recepción de la solicitud en el componente correspondiente, así como el número de seguimiento del caso. Cuando uno de estos componentes determine que una solicitud fue dirigida incorrectamente dentro del Departamento, esa oficina debe remitir con prontitud la solicitud al componente o componentes correspondientes dentro del Departamento.",
+      "* * * * *",
+      "(d) * * *",
+      "(3) * * * La determinación de divulgación del registro objeto de dicha coordinación será comunicada al solicitante por el componente que originalmente recibió la solicitud.",
+      "* * * * *",
+      "8. Se modifica el § 171.12 de la siguiente manera:",
+      "a. En el párrafo (a):",
+      "i. Eliminando la primera instancia de la palabra “oficina” y sustituyéndola por “componente”;",
+      "ii. Eliminando las palabras “(A/GIS/IPS, OIG, o PPT)”;",
+      "iii. Eliminando las palabras “cualquiera de estas tres oficinas” y sustituyéndolas por “cualquier componente”.",
+      "b. En el párrafo (b), eliminando las palabras “Una oficina de recepción (A/GIS/IPS, OIG, o PPT)” en la segunda oración y sustituyéndolas por “El componente”;",
+      "c. Revisando el párrafo (d)(2);",
+      "d. En el párrafo (d)(4), eliminando las palabras “oficina (ya sea A/GIS/IPS, OIG, o PPT)” y sustituyéndolas por la palabra “componente”.",
+      "La revisión dice lo siguiente:",
+      "§ 171.12",
+      "Plazos de las respuestas a las solicitudes.",
+      "* * * * *",
+      "(d) * * *",
+      "(2) Una solicitud de procesamiento acelerado puede presentarse en el momento de la solicitud inicial de registros o en cualquier momento posterior. Al presentar una solicitud de procesamiento acelerado de una apelación administrativa, la solicitud debe presentarse ante A/SKS/IAP, o ante la OIG en el caso de apelaciones de decisiones de la OIG (véase el § 171.15). Un componente del Departamento que reciba una solicitud de procesamiento acelerado dirigida incorrectamente debe remitirla con prontitud al componente correcto responsable de recibir solicitudes para su determinación.",
+      "* * * * *",
+      "9. Se modifica el § 171.13",
+      "a. En el párrafo (e), revisando la segunda oración;",
+      "b. En el párrafo (g):",
+      "i. Eliminando la palabra “deleted” (eliminado) y agregando en su lugar la palabra “withheld” (retenido);",
+      "ii. Eliminando la palabra “deletion” (eliminación) y agregando en su lugar la palabra “withholding” (retención); y",
+      "c. En el párrafo (h)(1), eliminando las palabras “A/GIS/IPS o OIG” y agregando en su lugar “El componente”.",
+      "La revisión se lee de la siguiente manera:",
+      "§ 171.13",
+      "Respuestas a las solicitudes.",
+      "* * * * *",
+      "(e) * * * Las determinaciones adversas, o denegaciones de solicitudes, incluyen, entre otras, decisiones que indiquen que: el registro solicitado está exento de divulgación, en su totalidad o en parte; la solicitud no describe razonablemente los registros buscados; la información solicitada no es un registro sujeto a la FOIA; el registro solicitado no existe, no puede ser localizado, o ha sido destruido; o el registro solicitado no es fácilmente reproducible en la forma o formato solicitado por el solicitante. * * *",
+      "* * * * *",
+      "10. Modificar el § 171.15 revisando los párrafos (a)(2), (3), (4), y (b)(1) para que se lean de la siguiente manera:",
+      "§ 171.15",
+      "Apelaciones administrativas.",
+      "(a) * * *",
+      "(2) Para apelar cualquier determinación adversa realizada por un componente que no sea la OIG, los solicitantes deben presentar una apelación administrativa a la Oficina de Apelaciones FOIA de A/SKS/IAP por correo electrónico a FOIAAppeals@state.gov o por correo postal a la dirección indicada en el sitio web de FOIA del Departamento.",
+      "(3) Para apelar cualquier determinación adversa realizada por la OIG, los solicitantes deben presentar una apelación administrativa a la OIG por correo electrónico a foiaappeals@stateoig.gov o por correo postal a la dirección indicada en el sitio web de FOIA de la OIG en www.stateoig.gov/​foiaappeals. Para los casos en los que la OIG y otro componente proporcionaron denegaciones por escrito al solicitante, el solicitante puede apelar administrativamente tanto a A/SKS/IAP como a la OIG, y cada oficina manejará su respectiva parte de la apelación.",
+      "(4) Para apelar cualquier determinación adversa realizada por el FSGB (Junta de Apelaciones del Servicio Exterior), los solicitantes deben presentar una apelación administrativa a A/SKS/IAP utilizando los métodos indicados anteriormente en el párrafo (2). A/SKS/IAP asignará un número de seguimiento a la apelación y la remitirá al FSGB, que es un organismo independiente, para su adjudicación.",
+      "(b) * * *",
+      "(1) El Director de A/SKS/IAP/LA o la persona designada actuará en representación del Secretario Adjunto de Administración en todas las apelaciones de determinaciones FOIA de A/SKS/IAP conforme a esta sección. Asimismo, el Asesor Jurídico General de la OIG o la persona designada actuará en representación del Inspector General en todas las apelaciones de determinaciones FOIA de la OIG conforme a esta sección.",
+      "* * * * *",
+      "11. Revisar y volver a publicar el § 171.22 para que se lea de la siguiente manera:",
+      "§ 171.22",
+      "Solicitud de acceso a registros.",
+      "(a) En general. Las solicitudes de acceso a registros conforme a la PA (Ley de Privacidad) deben realizarse por escrito al componente FOIA indicado en el § 171.4(a)(2). Una solicitud recibirá la respuesta más rápida posible si se dirige al componente que mantiene los registros buscados. Una lista de los componentes del Departamento que aceptan solicitudes bajo la PA, así como la información de contacto, puede encontrarse en https://foia.state.gov/​. Cada componente es responsable de actuar sobre todas las solicitudes de la PA relacionadas con los registros del Departamento, según se describe en el § 171.1(b).",
+      "(b) Descripción de los registros solicitados. Las solicitudes de acceso deben describir el registro o los registros solicitados con suficiente detalle para permitir su identificación. Como mínimo, las solicitudes deben incluir el nombre completo de la persona (incluido el apellido de soltera, si corresponde) y cualquier otro nombre utilizado, la dirección postal completa actual, y la fecha y lugar de nacimiento (ciudad, estado y país). Es útil incluir el período de tiempo aproximado del registro y las circunstancias que llevan a la persona a creer que el Departamento mantiene un registro bajo su nombre o identificador personal, y, si se conoce, el sistema de registros en el que se mantiene el registro. En ciertos casos, puede ser necesario ( printed page 59702) que el Departamento solicite información adicional al solicitante, ya sea para garantizar una búsqueda completa, o para asegurar que el registro recuperado efectivamente corresponda a la persona.",
+      "(c) Verificación de identidad personal. El Departamento exigirá una identificación razonable de las personas que soliciten registros sobre sí mismas conforme a las disposiciones de acceso de la PA (Ley de Privacidad) para garantizar que los registros sean accedidos únicamente por las personas correctas. Los solicitantes deben indicar su nombre completo, dirección actual, ciudadanía o condición de residente permanente legal, y fecha y lugar de nacimiento (ciudad, estado y país). El solicitante debe incluir una declaración que verifique que es la persona que solicita los registros. La declaración debe estar firmada y fechada dentro de los 6 meses posteriores a la fecha de la solicitud y debe realizarse bajo pena de perjurio conforme a 28 U.S.C. 1746. Los métodos preferidos para la verificación de identidad son certificar bajo pena de perjurio en el formulario de solicitud del sitio web de FOIA (Ley de Libertad de Información) del Departamento (https://foia.state.gov/​), en el Portal Nacional de FOIA (www.foia.gov), o presentar el formulario DS-4240-R completo, Solicitud de Acceso Individual a Registros Protegidos Bajo la Ley de Privacidad (https://foia.state.gov/​Request/​forms/​DS-4240-R.pdf). No se aceptarán formularios creados por otras agencias federales. Si el solicitante busca registros bajo otro nombre que haya utilizado, se debe incluir una declaración, bajo pena de perjurio, de que el solicitante también ha utilizado ese otro nombre. Además de los requisitos de este párrafo (c) y del párrafo (e) de esta sección, los solicitantes que busquen acceso a copias de los registros de pasaportes de Servicios de Pasaportes deben cumplir con los requisitos del párrafo (d) de esta sección. Como ejercicio de discreción administrativa, el componente puede exigir que un solicitante proporcione información adicional si es necesario para verificar que una persona en particular ha consentido la divulgación.",
+      "(d) Requisitos especiales para los registros de pasaportes. Dada la naturaleza sensible de los registros de pasaportes y su uso, las solicitudes que buscan acceso a copias de registros de pasaportes de Servicios de Pasaportes conforme a la PA deben incluir el nombre completo de nacimiento y cualquier cambio de nombre posterior de la persona cuyos registros se solicitan (si se presenta la solicitud en nombre de un menor, proporcionar también el nombre completo del representante); la fecha y el lugar de nacimiento de la persona cuyos registros se solicitan; la dirección postal actual del solicitante; y, si está disponible, el número de teléfono durante el día y la dirección de correo electrónico; la fecha o fecha estimada en que se emitió el pasaporte o pasaportes; el número de pasaporte de la persona cuyos registros se buscan, si se conoce; y cualquier otra información que ayude a localizar los registros. El solicitante también debe incluir una copia clara de ambos lados de la identificación con fotografía válida emitida por el gobierno del solicitante, por ejemplo, una licencia de conducir.",
+      "(e) Acceso autorizado de terceros. El Departamento procesará todas las solicitudes de terceros debidamente autorizadas, según se describe en esta sección, conforme a la PA. En ausencia de la autorización adecuada de la persona a la que pertenecen los registros, el Departamento procesará las solicitudes de terceros conforme a la FOIA. El método preferido para la verificación de identidad es que el sujeto de los registros solicitados certifique bajo pena de perjurio en el formulario de solicitud del sitio web de FOIA del Departamento (https://foia.state.gov/​), en el Portal Nacional de FOIA (www.foia.gov), o presente el formulario DS-4240-C completo, Consentimiento para la Divulgación de Registros Protegidos Bajo la Ley de Privacidad (https://foia.state.gov/​Request/​forms/​DS-4240-C.pdf), autorizando la divulgación de la información solicitada a otra persona o entidad. No se aceptarán formularios creados por otras agencias federales. Los abogados u otros representantes legales que soliciten información sobre visas en nombre de un solicitante de visa deben presentar una declaración junto con la solicitud, realizada bajo pena de perjurio conforme a 28 U.S.C. 1746 por el solicitante (y el peticionario si los registros solicitados corresponden a una petición) que autorice la divulgación de la información de visa solicitada al representante. Los solicitantes terceros que busquen acceso a copias de los registros de la Oficina de Pasaportes deben presentar una copia clara de ambos lados de una identificación con fotografía válida emitida por el gobierno (por ejemplo, una licencia de conducir) además de la otra información descrita anteriormente. Como ejercicio de discreción administrativa, el componente puede exigir que un solicitante proporcione información adicional, si es necesario, para verificar que una persona en particular ha consentido la divulgación.",
+      "(1) Padres y tutores de menores. Al presentar la documentación aceptable de la relación paternal o de tutela, un padre o tutor de un menor ciudadano estadounidense o residente permanente legal (LPR) (una persona soltera menor de 18 años) puede, en nombre del menor, solicitar registros bajo la Ley de Privacidad (PA) relacionados con el menor. En cualquier caso, los menores ciudadanos estadounidenses o LPR pueden solicitar dichos registros en su propio nombre. Al hacer una solicitud como padre o tutor de un menor, para acceder a los registros sobre esa persona, el solicitante debe establecer:",
+      "(i) La identidad de la persona que es objeto de los registros, indicando el nombre, la dirección actual, y la fecha y el lugar de nacimiento;",
+      "(ii) La identidad del propio solicitante, según lo requerido en el párrafo (c) de esta sección;",
+      "(iii) Que el solicitante es el padre de dicha persona, lo cual el solicitante puede demostrar proporcionando una copia del certificado de nacimiento de la persona donde conste la filiación, o proporcionando una orden judicial que establezca la tutela; y",
+      "(iv) Que el solicitante está actuando en nombre de esa persona al hacer la solicitud. El derecho de un padre a acceder al registro de su hijo menor no es absoluto.",
+      "(2) Tutores de adultos incapacitados. Un tutor de una persona que ha sido declarada incompetente por un tribunal puede actuar en representación de dicha persona incompetente, previa presentación de la documentación apropiada de la relación de tutela. Al hacer una solicitud como tutor de alguien declarado incompetente por un tribunal, para acceder a los registros sobre esa persona, el solicitante debe establecer:",
+      "(i) La identidad de la persona que es objeto de los registros, indicando el nombre, la dirección actual, y la fecha y el lugar de nacimiento;",
+      "(ii) La identidad del propio solicitante, según lo requerido en el párrafo (c) de esta sección;",
+      "(iii) Que el solicitante es el tutor de dicha persona, lo cual el solicitante puede demostrar proporcionando una copia de una orden judicial que establezca la tutela; y",
+      "(iv) Que el solicitante está actuando en nombre de esa persona al hacer la solicitud.",
+      "(f) Remisiones y consultas. Si el Departamento determina que los registros recuperados como respuesta a la solicitud fueron creados por otra agencia, por lo general remitirá los registros a la agencia de origen para que responda directamente al solicitante. Si el Departamento determina que los registros del Departamento recuperados como respuesta a la solicitud son de interés para otra agencia, puede consultar con la otra agencia antes de responder a la solicitud. El Departamento puede celebrar acuerdos con otras agencias para eliminar la necesidad de consultas o remisiones para tipos particulares de registros.",
+      "(g) Registros relacionados con acciones civiles. Nada en esta subparte otorga a una persona el derecho de acceder a información recopilada en previsión razonable de una acción o procedimiento civil.",
+      "(h) Plazos. El Departamento acusará recibo de la solicitud con prontitud y proporcionará la información solicitada tan pronto como sea posible después de ello.",
+      "12. Se revisa el § 171.23(b) para que diga lo siguiente:",
+      "(página impresa 59703)",
+      "§ 171.23",
+      "Solicitud para enmendar o corregir registros.",
+      "* * * * *",
+      "(b) Las solicitudes para enmendar registros deben presentarse por escrito y enviarse a A/SKS/IAP por correo electrónico a FOIAAppeals@state.gov o por correo postal a la dirección indicada en el sitio web de la Ley de Libertad de Información (FOIA) del Departamento. Las solicitudes para enmendar registros de la Oficina del Inspector General (OIG) deben hacerse por escrito y enviarse a la OIG por correo electrónico o correo postal a la dirección proporcionada en el sitio web de la OIG (https://www.stateoig.gov/freedom-information-act-foia-0). Para facilitar el trámite, el solicitante debe marcar tanto la carta como el sobre, o la línea de asunto de la transmisión electrónica, con la frase “Privacy Act Amendment Request” (Solicitud de Enmienda bajo la Ley de Privacidad). A/SKS/IAP u OIG coordinará la revisión de la solicitud con las oficinas apropiadas bajo su jurisdicción. El Departamento requerirá la verificación de la identidad personal según lo dispuesto en el § 171.22(c) antes de iniciar cualquier acción para enmendar un registro. Las solicitudes de enmienda deben contener, como mínimo, la información identificativa necesaria para localizar el registro en cuestión, una descripción de la corrección específica solicitada, y una explicación de por qué el registro existente no es preciso, pertinente, oportuno o completo. El solicitante debe presentar toda la documentación pertinente, información adicional y explicación posible para respaldar la solicitud de enmienda.",
+      "* * * * *",
+      "§ 171.24",
+      "[Modificado]",
+      "13. Se modifica el § 171.24(a) eliminando las palabras “A/GIS/IPS” en la última oración y sustituyéndolas por “A/SKS/IAP”.",
+      "14. Se modifica el § 171.25 revisando los párrafos (b), (c), (d), (e), (g), y el texto introductorio del (h) para que digan lo siguiente:",
+      "§ 171.25",
+      "Apelaciones de denegaciones de solicitudes de enmienda de la Ley de Privacidad (PA).",
+      "* * * * *",
+      "(b) Para apelar cualquier decisión tomada por un componente que no sea la OIG, los solicitantes deben presentar una apelación administrativa a la Oficina de Apelaciones de FOIA de A/SKS/IAP por correo electrónico a FOIAAppeals@state.gov o por correo postal a la dirección indicada en el sitio web de FOIA del Departamento. Para facilitar su tramitación, el solicitante debe marcar tanto la carta de apelación como el sobre, o la línea de asunto de la transmisión electrónica, con la leyenda \"Privacy Act Appeal\".",
+      "(c) Para las decisiones tomadas por la OIG, los solicitantes deben presentar su apelación a la OIG. La información de contacto de la OIG está disponible en https://www.stateoig.gov/​foia-appeals. Para facilitar su tramitación, el solicitante debe marcar tanto la carta de apelación como el sobre, o la línea de asunto de la transmisión electrónica, con la leyenda \"Privacy Act Appeal\".",
+      "(d) Los apelantes deben presentar una apelación administrativa de cualquier denegación, total o parcial, de una solicitud de acceso a los registros de la FSGB conforme a la PA, a la Oficina de Apelaciones de A/SKS/IAP por correo electrónico a FOIAAppeals@state.gov o por correo postal a la dirección indicada en el sitio web de FOIA del Departamento. A/SKS/IAP asignará un número de seguimiento a la apelación y la remitirá a la FSGB, que es un organismo independiente, para su adjudicación.",
+      "(e) A/SKS/IAP, la OIG, o la FSGB decidirán las apelaciones de denegaciones de solicitudes de enmienda de la PA dentro de los 30 días hábiles contados a partir de la fecha en que se reciba la apelación, a menos que se necesite una prórroga de ese período por causa justificada.",
+      "* * * * *",
+      "(g) Si la decisión es que un registro debe enmendarse de conformidad con la solicitud del apelante, A/SKS/IAP, la OIG, o la FSGB ordenarán a la oficina bajo su jurisdicción que sea responsable del registro que lo enmiende, notificarán a todos los destinatarios anteriores del registro sobre la enmienda y su contenido (si se ha realizado una contabilización de divulgaciones anteriores), y así lo notificarán por escrito a la persona.",
+      "(h) Si la decisión es que se deniega la solicitud de enmienda, además de la notificación requerida por el párrafo (f) de esta sección, A/SKS/IAP, la OIG, o la FSGB deberán informar al apelante:",
+      "* * * * *",
+      "15. Se enmienda el § 171.26 revisando la tabla 1 del párrafo (a)(2)(iii) y el párrafo (b) para que digan lo siguiente:",
+      "§ 171.26",
+      "Exenciones.",
+      "* * * * *",
+      "(a) * * *",
+      "(2) * * *",
+      "(iii) * * *",
+      "Tabla 1 del Párrafo (a)(2)(iii)",
+      "Título | Núm.",
+      "Sistema de Gestión de Investigaciones de la Oficina del Inspector General | STATE-53.",
+      "Análisis y Gestión de Riesgos | STATE-78.",
+      "Registros de Seguridad | STATE-36.",
+      "(b) Exenciones específicas. Partes de los siguientes sistemas de registros están exentas de lo dispuesto en 5 U.S.C. 552a(c)(3), (d), (e)(1), y (4), (G), (H), e (I), y (f). Los nombres de los sistemas corresponden a los publicados en el Registro Federal por el Departamento.",
+      "(1) Exento bajo 5 U.S.C. 552a(k)(1). Los registros contenidos en los siguientes sistemas de registros están exentos bajo esta sección en la medida en que estén sujetos a las disposiciones de 5 U.S.C. 552(b)(1).",
+      "Tabla 2 del Párrafo (b)(1)",
+      "Título | Núm.",
+      "Correspondencia del Congreso | STATE-43.",
+      "Registros de Viajes del Congreso | STATE-44.",
+      "Registros del Coordinador para la Lucha contra el Terrorismo | STATE-06.",
+      "Registros de Extradición | STATE-11.",
+      "Registros de Casos de Defensa de la Familia | STATE-75.",
+      "Registros de Inspección de Asistencia Extranjera | STATE-48.",
+      "Registros de Recursos Humanos | STATE-31.",
+      "Registros de Inteligencia e Investigación | STATE-15.",
+      "Registros de Organizaciones Internacionales | STATE-17.",
+      "Registros de Gestión de Casos Legales | STATE-21.",
+      "Registros de Control de Municiones | STATE-42.",
+      "( página impresa 59704)",
+      "Sistema de Gestión de Investigaciones de la Oficina del Inspector General | STATE-53.",
+      "Registros de Servicios a Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros de Pasaportes | STATE-26.",
+      "Registros de Nómina de Personal | STATE-30.",
+      "Registros de Cuentas por Cobrar Nacionales | STATE-23.",
+      "Registros de la Oficina del Asesor Jurídico Adjunto para Reclamaciones Internacionales y Disputas de Inversión | STATE-54.",
+      "Registros de la Oficina de Enlace de la Casa Blanca | STATE-34.",
+      "Registros de Refugiados | STATE-59.",
+      "Registros de Análisis y Gestión de Riesgos | STATE-78.",
+      "Registros de Rover | STATE-41.",
+      "Registros de Seguridad | STATE-36.",
+      "Registros de Visas | STATE-39.",
+      "(2) Exento bajo 5 U.S.C. 552a(k)(2). Los registros contenidos en los siguientes sistemas de registros están exentos bajo esta sección en la medida en que consistan en material de investigación recopilado con fines de cumplimiento de la ley, sujeto a las limitaciones establecidas en 5 U.S.C. 552a(k)(2).",
+      "Tabla 3 del Párrafo ( b )( 2 )",
+      "Título | Núm.",
+      "Registros del Coordinador para la Lucha contra el Terrorismo | STATE-06.",
+      "Registros de Extradición | STATE-11.",
+      "Registros de Casos de Defensa de la Familia | STATE-75.",
+      "Registros de Inspección de Asistencia Extranjera | STATE-48.",
+      "Registros de Embargo de Salarios | STATE-61.",
+      "Registros de Inteligencia e Investigación | STATE-15.",
+      "Registros de Control de Municiones | STATE-42.",
+      "Registros de la Oficina de Misiones Extranjeras | STATE-81.",
+      "Sistema de Gestión de Investigaciones de la Oficina del Inspector General | STATE-53.",
+      "Registros de Servicios para Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros de Pasaportes | STATE-26.",
+      "Registros de Análisis y Gestión de Riesgos | STATE-78.",
+      "Registros de Seguridad | STATE-36.",
+      "Registros de Visas | STATE-39.",
+      "(3) Exento conforme a 5 U.S.C. 552a(k)(3). Los registros contenidos en los siguientes sistemas de registros están exentos en virtud de esta sección en la medida en que se mantengan en relación con la prestación de servicios de protección conforme a 18 U.S.C. 3056.",
+      "Tabla 4 del Párrafo (b)(3)",
+      "Título | Núm.",
+      "Registros de Extradición | STATE-11.",
+      "Registros de Inteligencia e Investigación | STATE-15.",
+      "Registros de Servicios para Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros de Pasaportes | STATE-26.",
+      "Registros de Seguridad | STATE-36.",
+      "Registros de Visas | STATE-39.",
+      "(4) Exento conforme a 5 U.S.C. 552a(k)(4). Los registros contenidos en los siguientes sistemas de registros están exentos en virtud de esta sección en la medida en que su mantenimiento sea requerido por ley y se utilicen únicamente como registros estadísticos.",
+      "Tabla 5 del Párrafo (b)(4)",
+      "Título | Núm.",
+      "Registros del Instituto del Servicio Exterior | STATE-14.",
+      "Registros de Recursos Humanos | STATE-31.",
+      "Registros de Servicios para Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros de Nómina de Personal | STATE-30.",
+      "Registros de Seguridad | STATE-36.",
+      "(página impresa 59705)",
+      "(5) Exento conforme a 5 U.S.C. 552a(k)(5). Los registros contenidos en los siguientes sistemas de registros están exentos en virtud de esta sección en la medida en que consistan en material de investigación recopilado únicamente con el fin de determinar la idoneidad, elegibilidad o calificaciones para el empleo civil federal, el servicio militar, los contratos federales o el acceso a información clasificada, pero solo en la medida en que la divulgación de dicho material revele la identidad de un informante confidencial.",
+      "Tabla 6 del Párrafo (b)(5)",
+      "Título | Núm.",
+      "Registros de Inspección de Asistencia Exterior | STATE-48.",
+      "Registros de la Junta de Quejas del Servicio Exterior | STATE-13.",
+      "Registros de Recursos Humanos | STATE-31.",
+      "Registros de Solicitudes de Empleo de Abogados del Asesor Jurídico | STATE-20.",
+      "Sistema de Gestión de Investigaciones de la Oficina del Inspector General | STATE-53.",
+      "Registros de Servicios para Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros Mantenidos por la Oficina de Derechos Civiles | STATE-09.",
+      "Registros de la Oficina de Enlace de la Casa Blanca | STATE-34.",
+      "Registros de Análisis y Gestión de Riesgos | STATE-78.",
+      "Registros de Rover | STATE-41.",
+      "Registros de Seguridad | STATE-36.",
+      "Registros de Nombramientos de Personal Superior | STATE-47.",
+      "(6) Exento conforme a 5 U.S.C. 552a(k)(6). Los registros contenidos en los siguientes sistemas de registros están exentos en virtud de esta sección en la medida en que consistan en material de pruebas o exámenes utilizado únicamente para determinar las calificaciones individuales para el nombramiento o ascenso en el servicio federal, cuya divulgación comprometería la objetividad o imparcialidad del proceso de prueba o examen.",
+      "Tabla 7 del Párrafo (b)(6)",
+      "Título | Núm.",
+      "Registros del Instituto del Servicio Exterior | STATE-14.",
+      "Registros de Recursos Humanos | STATE-31.",
+      "Registros Mantenidos por la Oficina de Derechos Civiles | STATE-09.",
+      "Registros de Seguridad | STATE-36.",
+      "(7) Exento conforme a 5 U.S.C. 552a(k)(7). Los registros contenidos en los siguientes sistemas de registros están exentos en virtud de esta sección en la medida en que consistan en material de evaluación utilizado para determinar el potencial de ascenso en las fuerzas armadas, pero solo en la medida en que dicha divulgación revele la identidad de un informante confidencial.",
+      "Tabla 8 del Párrafo (b)(7)",
+      "Título | Núm.",
+      "Registros de Recursos Humanos | STATE-31.",
+      "Registros de Servicios para Ciudadanos en el Extranjero y Otros Registros en el Extranjero | STATE-05.",
+      "Registros de Seguridad | STATE-36.",
+      "Autoridad de Firma",
+      "El Secretario Adjunto de Administración, Jose Cunningham, revisó y aprobó este documento y ha autorizado al suscrito a firmar electrónicamente y presentar este documento a la Oficina del Registro Federal para su publicación.",
+      "Alice M. Kottmyer,",
+      "Abogada Asesora, Oficina del Asesor Jurídico, Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026-19223 Presentado el 9-18-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 4710-024-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署文件的机构或多个机构",
+      "文件修订、拟议修订或直接相关的《联邦法规汇编》(CFR)章节编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "用于识别《联邦监管与放松监管行动统一议程》中所列各项监管行动的RIN编号",
+      "详情请参阅《文件起草手册》。",
+      "美国国务院",
+      "22 CFR Part 171",
+      "[公告编号:13124]",
+      "RIN 1400-AG32",
+      "机构:",
+      "美国国务院。",
+      "行动:",
+      "最终规则。",
+      "摘要:",
+      "美国国务院对其关于向公众提供由本部门(printed page 59699)掌控信息的可获取性规定进行修订。本规则反映了自本部门上次修订有关公众获取信息的规定以来,本部门在组织结构和程序方面所发生的变化,包括涉及使用电子邮件提交本部分下信息请求的相关内容。",
+      "日期:",
+      "本规则自2026年10月21日起生效。",
+      "欲知详情,请联系:",
+      "Susan Weetman,信息公开联络官,信息获取项目司,美国国务院,电子邮箱:FOIAStatus@state.gov,电话:202-261-8484。",
+      "补充信息:",
+      "本最终规则实施《2016年信息自由法改进法》(Public Law 114-185),并更新本部门《信息自由法》(FOIA)相关规定,即22 CFR第171部分。以下为实质性变更的摘要。",
+      "最终规则在第171.4(a)(1)条中,鼓励公众在提交请求前先查阅本机构的FOIA资料库,以确定其所寻求的记录是否已公开可得。由于本部门实行“向一人公开即向所有人公开”的政策,在许多情况下,该规定将使公众能够立即查找到相关记录,而无需提交FOIA请求。",
+      "最终规则在第171.4(a)(2)条及第171.15(a)(2)和(3)条中,指引公众前往本机构的FOIA网页,查阅接受FOIA请求及行政上诉的各部门名单及相应联系信息。这将使本部门能够更便捷地保持各部门联系信息的更新。",
+      "最终规则在第171.4(a)(2)条中,规定了向本部门提交FOIA请求的更新程序。具体而言,本部门仅接受通过FOIA.gov或本部门的FOIA网站以电子方式提交的、提交给信息获取项目司和护照服务司的FOIA及隐私法请求。",
+      "最终规则在第171.4(b)条中,简化并整合了关于合理描述所寻求记录的程序。例如,申请签证记录时应提供哪些信息。此项更新旨在通过减少向本部门案件管理系统手动录入数据的需要,并减少因申请材料中常缺失信息而需另行索要信息的情况,从而提高请求处理效率。",
+      "最终规则在第171.11(a)条中,删除了有关信息获取项目司(IAP)在作出初步决定中所起作用的重复性信息。",
+      "C分部包含本规则中关于《隐私法》的规定。最终规则在第171.22(c)和(e)条中,明确了用于核实本人信息请求或第三方信息请求身份的方法。本规则将此前分散或重复于若干小节中的相关要求整合于本条之中。此项变更旨在使请求人更容易理解核实身份所需提供的信息,以及如何提交该信息。此项更新将减少未附带适当身份验证的请求数量,增加本部门收到的经妥善验证身份的本人及第三方请求数量,并减轻本机构就未妥善验证身份的请求人进行后续跟进的行政负担。",
+      "在第171.26(a)条中,最终规则更新了《系统记录通知》(SORNS)及豁免事项清单。",
+      "最后,最终规则在全文中作出诸多细微修改,将“信息项目与服务办公室”的相关引用更新为“信息获取项目司”。",
+      "监管认定",
+      "《行政程序法》",
+      "根据《美国法典》第5编第553(b)条的规定,本规则制定因与本部门的组织结构、程序及工作惯例相关,故免除通知与评议程序的适用。",
+      "《监管灵活性法》",
+      "国务院根据《监管灵活性法案》(Regulatory Flexibility Act),5 U.S.C. 605(b)条款,已对本法规进行审查,并通过批准本法规,证明本规则不会对大量小型实体产生重大经济影响。",
+      "1995年《无资金授权法案》",
+      "本规则不会导致州、地方及部落政府整体上,或私营部门在任何一年内支出1亿美元或以上,也不会对小型政府产生重大或独特的影响。因此,根据1995年《无资金授权改革法案》的规定,不需要采取任何行动。",
+      "第12988号行政命令, , 民事司法改革",
+      "国务院已根据第12988号行政命令对本法规进行审查,以消除歧义、减少诉讼、建立明确的法律标准并减轻负担。",
+      "第12372号和第13132号行政命令, , 联邦制",
+      "本法规不会对各州、国家政府与各州之间的关系,或各级政府之间权力与责任的分配产生实质性的直接影响。因此,根据第13132号行政命令,现确定本规则在联邦制方面的影响不足以要求进行磋商或编写联邦制影响总结声明。实施第12372号行政命令中有关联邦项目和活动政府间磋商的规定不适用于本法规。",
+      "第13175号行政命令, , 与印第安部落政府的磋商与协调",
+      "国务院已确定本次制定规则不会对部落产生影响,不会对印第安部落政府施加实质性的直接合规成本,也不会优先于部落法律。因此,第13175号行政命令的要求不适用于本次制定规则。",
+      "第12866号和第13563号行政命令, , 改进监管与监管审查",
+      "国务院已根据这些行政命令对本规则进行审议,并确认本法规符合其中的指导原则。本次制定规则为公众带来的益处包括但不限于,提供一套与2016年《FOIA改进法案》相符的、用于向国务院申请信息的最新程序。国务院认为本次制定规则给公众带来的成本不超过最低限度。信息与监管事务办公室尚未在第12866号行政命令所指的意义上将本规则认定为“重大”规则。",
+      "第14192号行政命令, , 通过放松管制释放繁荣",
+      "由于本规则未被认定为第12866号行政命令所指的“重大”规则,因此不适用第14192号行政命令的规定。",
+      "《文书削减法案》",
+      "本规则未施加或修订任何受《文书削减法案》,44 U.S.C. 第35章管辖的报告或记录保存要求。",
+      "22 CFR第171部分主题目录",
+      "行政惯例与程序",
+      "信息自由",
+      "隐私",
+      "(印刷页第59700页)",
+      "因此,基于前言中所述理由,国务院对22 CFR第171部分作出如下修订:",
+      "第171部分, , 公众获取信息",
+      "1. 第171部分的授权引用继续规定如下:",
+      "授权依据:22 U.S.C. 2651a;5 U.S.C. 552、552a;第12600号行政命令(52 FR 23781);公法114-185号;公法95-521号,92 Stat. 1824(经修订后编纂于5 U.S.C. 第131章);5 CFR第2634部分。",
+      "2. 在第171.1条中,修订第(b)款,将“组成单位”的定义修订如下:",
+      "第171.1条",
+      "一般规定。",
+      "* * * * *",
+      "(b) * * *",
+      "组成单位是指某一机构内负责处理其管辖范围内记录相关的FOIA或PA请求的各个独立局、办公室、司、委员会、处、中心或管理机构。本法规中适用于机构的规则也适用于组成单位。",
+      "* * * * *",
+      "3. 修订第171.2条,内容如下:",
+      "第171.2条",
+      "保存的记录类型。",
+      "国务院保存的大部分记录涉及美国外交政策的制定和执行。国务院还保存某些与个人有关的记录,例如自1925年3月至今签发的美国护照申请、美国签证申请、美国驻外外交机构向美国公民和合法永久居民提供领事协助的记录,以及国务院雇员的记录。有关国务院所保存记录类型的进一步信息,可通过查阅国务院的记录处置时间表获得,该时间表可在国务院的信息自由法(FOIA)网站https://foia.state.gov/​上查阅。",
+      "第171.3条",
+      "[修订]",
+      "4. 修订第171.3(a)条,删除“www.state.gov/​privacy”字样,代之以“www.state.gov/​system-of-records-notices-privacy-office”。",
+      "5. 将第171.4条修订如下:",
+      "第171.4条",
+      "信息请求,类型及提出方式。",
+      "(a) 一般信息。(1) 在提交记录请求之前,请先确定您所寻求的信息是否已在国务院网站(www.state.gov)或信息自由法资料库(https://foia.state.gov/​FOIALIBRARY/​FOIALIB2.aspx)上公开提供。",
+      "(2) 依照本部分提出的记录请求,必须通过国务院的信息自由法网站(https://foia.state.gov/​)、国家信息自由法门户网站(www.foia.gov),或邮寄至国务院信息自由法网站所列的相关部门地址,以书面形式提出。如请求地址为保存所寻求记录的部门的信息自由法办公室,将获得最快速的答复。国务院接受信息自由法请求的各部门清单,包括其所保存记录类型的说明以及信息自由法联系信息,均可在https://foia.state.gov/​查阅。",
+      "(3) 请求人必须提供联系信息,例如电话号码、电子邮件地址和/或邮寄地址,以协助国务院与其沟通并提供所披露的记录。",
+      "(4) 对监察长办公室(OIG)记录的请求,必须通过国家信息自由法门户网站(www.foia.gov)、电子邮件或邮寄方式以书面形式提出。相关指南和联系信息可在监察长办公室网站www.stateoig.gov/​foiarequest查阅。",
+      "(5) 请求人应提供其据以请求信息的具体法律依据的引用,例如《信息自由法》、《隐私法》,或根据现行保密行政命令进行的强制解密审查(MDR)。这将有助于加快请求的处理。",
+      "(b) 所寻求记录的描述。尽管不要求特定格式,但请求必须合理描述请求人所寻求的国务院记录。请求人必须以足够详细的方式描述所寻求的记录,以使机构工作人员能够以合理的努力找到这些记录。在可能的范围内,请求人应提供可协助国务院识别所请求记录的具体信息,例如局或办公室名称、日期或时间范围、保管人、作者或接收人的职称或姓名、主题事项、案件编号,或文件编号参考号。有关签证记录的请求,应包括申请人以及(如适用)申请担保人的以下信息:全名及曾使用的任何别名、现居地址、电子邮件地址,以及出生日期和出生地(包括城市、州/省和国家)。描述所寻求记录的额外信息将有助于国务院正确识别相关记录并处理请求。如果国务院在收到请求后确定该请求未能合理描述所寻求的记录,国务院将告知请求人该请求不充分,并说明需要补充哪些信息,或该请求为何在其他方面不充分。如果请求未能合理描述所寻求的记录,机构对该请求的答复可能会延迟。根据请求提供的任何记录,如果其可公开形式易于以请求的形式或格式复制,则将以请求人所要求的形式或格式提供。建议请求人在提交请求之前,先联系相关部门的信息自由法联系人或信息自由法公众联络员,讨论其所寻求的记录,以获得协助描述记录或缩小请求范围的帮助。",
+      "(c) 《隐私法》与《信息自由法》的比较。虽然国务院努力就所请求的信息,无论是根据何种法规提出请求,均提供最大可能的查阅权限,但为请求人的利益,现提供以下指南:",
+      "(1) 《信息自由法》适用于有关政府总体活动以及国务院具体活动的记录请求(见本部分B分部)。",
+      "(2) 《隐私法》适用于美国公民或合法永久居民就国务院以个人姓名或个人标识符可检索的记录系统中保存的有关其本人的记录提出的请求(见本部分C分部)。",
+      "(3) 个人根据1974年《隐私法》(5 U.S.C. 552a)就其本人的记录提出的请求,依照本分部以及C分部中国务院的《隐私法》法规进行处理。此类记录中的信息,仅在依两部法律均可免予公开的情况下方可不予公开;若该信息仅依其中一部法律可免予公开,则应予以公开。未保存在《隐私法》记录系统中的回应性记录,仅依据《信息自由法》进行处理。",
+      "(4) 请求人就本人记录提出请求的,必须遵守本部分C分部(《隐私法》条款)第171.22条规定的身份核实要求,方可对该请求予以处理。",
+      "6. 将第171.5条修订如下:",
+      "第171.5条",
+      "档案记录。",
+      "国务院通常在被指定为具有历史意义的记录满25年时,将其移交国家档案馆。因此,对于一些已满25年或超过25年的(印刷页第59701页)国务院记录的请求,应提交至国家档案馆。有关请求此类记录的更多信息,可查阅美国国家档案与记录管理局(NARA)的《信息自由法参考指南》(https://www.archives.gov/foia/foia-guide#toc-iii-how-to-make-a-foia-request)。国务院网站 https://foia.state.gov/ 载有有关档案记录的更多信息。",
+      "7. 对第171.11条作如下修订:",
+      "a. 在第(a)(1)段中删除“信息项目与服务办公室(A/GIS/IPS)”字样,代之以“信息访问项目局(A/SKS/IAP)”;",
+      "b. 删除第(a)(2)段和第(3)段并予以保留;",
+      "c. 修订第(b)段;以及",
+      "d. 修订第(d)(3)段最后一句。",
+      "修订内容如下:",
+      "第171.11条",
+      "请求的处理。",
+      "* * * * *",
+      "(b) 请求的接收。当请求被指定接收《信息自由法》请求的组成机构收到时,即视为国务院已收到该请求(见第171.4(a)(2)条)。此时,国务院必须向请求人发送确认函,注明该请求在相应组成机构的收到日期以及案件追踪编号。当上述某一组成机构确定某请求在国务院内部被错误投递时,该机构必须立即将该请求转交至国务院内相应的组成机构。",
+      "* * * * *",
+      "(d) * * *",
+      "(3) * * * 作为此类协调对象的记录的公开决定,将由最初收到该请求的组成机构传达给请求人。",
+      "* * * * *",
+      "8. 对第171.12条作如下修订:",
+      "a. 在第(a)段中:",
+      "i. 删除第一次出现的“办公室”一词,代之以“组成机构”;",
+      "ii. 删除“(A/GIS/IPS、OIG或PPT)”字样;",
+      "iii. 删除“这三个办公室中的任何一个”字样,代之以“任何组成机构”。",
+      "b. 在第(b)段第二句中删除“一个受理办公室(A/GIS/IPS、OIG或PPT)”字样,代之以“该组成机构”;",
+      "c. 修订第(d)(2)段;",
+      "d. 在第(d)(4)段中删除“办公室(无论是A/GIS/IPS、OIG还是PPT)”字样,代之以“组成机构”一词。",
+      "修订内容如下:",
+      "第171.12条",
+      "答复请求的时限。",
+      "* * * * *",
+      "(d) * * *",
+      "(2) 加急处理请求可在最初提出记录请求时提出,也可在其后任何时间提出。就行政上诉提出加急处理请求时,该请求必须提交至A/SKS/IAP,如为对OIG决定提出上诉,则提交至OIG(见第171.15条)。国务院某组成机构收到被错误投递的加急处理请求的,必须立即将其转交至负责受理该请求的正确组成机构,以便作出决定。",
+      "* * * * *",
+      "9. 对第171.13条作如下修订",
+      "a. 修订第(e)段第二句;",
+      "b. 在第(g)段中:",
+      "i. 删去“deleted”一词,代之以“withheld”一词;",
+      "ii. 删去“deletion”一词,代之以“withholding”一词;并且",
+      "c. 在第(h)(1)段中删去“A/GIS/IPS or OIG”字样,代之以“The component”字样。",
+      "修订内容如下:",
+      "第171.13条",
+      "对请求的答复。",
+      "* * * * *",
+      "(e) * * * 不利决定或驳回请求的情形包括但不限于以下决定:所请求的记录全部或部分不属于公开范围;请求未能合理描述所寻求的记录;所请求的信息不属于《信息自由法》(FOIA)所规定的记录;所请求的记录不存在、无法查找或已被销毁;或所请求的记录无法以请求人要求的形式或格式便捷地复制提供。* * *",
+      "* * * * *",
+      "10. 修订第171.15条,将第(a)(2)、(3)、(4)段和第(b)(1)段修订如下:",
+      "第171.15条",
+      "行政申诉。",
+      "(a) * * *",
+      "(2) 如需对OIG(监察长办公室)以外的部门作出的任何不利决定提出申诉,请求人必须通过电子邮件FOIAAppeals@state.gov或邮寄至国务院《信息自由法》网站上列明的地址,向A/SKS/IAP《信息自由法》申诉办公室提交行政申诉。",
+      "(3) 如需对OIG作出的任何不利决定提出申诉,请求人必须通过电子邮件foiaappeals@stateoig.gov,或邮寄至OIG《信息自由法》网站www.stateoig.gov/​foiaappeals上列明的地址,向OIG提交行政申诉。对于OIG和其他部门均向请求人出具书面驳回决定的情形,请求人可同时向A/SKS/IAP和OIG提出行政申诉,各办公室将分别处理各自部分的申诉。",
+      "(4) 如需对外事服务委员会(FSGB)作出的任何不利决定提出申诉,请求人必须按照上文第(2)段所列方法向A/SKS/IAP提交行政申诉。A/SKS/IAP将为该申诉分配跟踪编号,并将其转交给作为独立机构的FSGB进行裁决。",
+      "(b) * * *",
+      "(1) A/SKS/IAP/LA主任或其指定人员将代表行政助理国务卿处理本条项下对A/SKS/IAP《信息自由法》决定提出的所有申诉。同样,OIG总法律顾问或其指定人员将代表监察长处理本条项下对OIG《信息自由法》决定提出的所有申诉。",
+      "* * * * *",
+      "11. 修订并重新公布第171.22条,内容如下:",
+      "第171.22条",
+      "记录查阅请求。",
+      "(a) 概述。根据《隐私法》(PA)提出的记录查阅请求必须以书面形式提交给第171.4(a)(2)条所列的《信息自由法》部门。如请求直接寄送给保存所寻求记录的部门,将获得最快速度的答复。国务院接受《隐私法》请求的各部门名单及联系方式可在https://foia.state.gov/​查阅。各部门均负责按照第171.1(b)条所述处理针对国务院记录的所有《隐私法》请求。",
+      "(b) 所寻求记录的描述。查阅请求应以足够详细的方式描述所请求的记录,以便能够识别该记录。请求至少应包括个人的全名(如适用,包括婚前姓氏)及使用过的其他姓名、当前完整邮寄地址,以及出生日期和出生地点(城市、州和国家)。有助于处理请求的信息包括该记录的大致时间段,以及促使该个人有理由相信国务院以其姓名或个人身份标识保存有相关记录的情况,如已知,还包括保存该记录的记录系统。在某些情况下,国务院可能有必要（打印页59702）向请求人索取补充信息,以确保全面检索,或确保所检索到的记录确实与该个人相关。",
+      "(c) 个人身份的核实。国务院将要求依据《隐私法》(PA)查阅条款要求查阅本人记录的个人提供合理的身份证明，以确保只有合适的本人才能查阅记录。申请人必须说明其全名、现居地址、公民身份或合法永久居民身份，以及出生日期和出生地点（城市、州和国家）。申请人必须附上一份声明，核实其本人即为提出该记录请求的人。该声明必须签署日期为请求之日起6个月以内，并依据《美国法典》第28编第1746条以伪证罪责形式作出。核实身份的首选方法是在国务院FOIA网站（https://foia.state.gov/）或国家FOIA门户网站（www.foia.gov）的请求表格中以伪证罪责形式进行认证，或提交填妥的DS-4240-R表，《请求个人查阅受〈隐私法〉保护记录》表（https://foia.state.gov/Request/forms/DS-4240-R.pdf）。不接受由其他联邦机构制作的表格。如果申请人以其曾使用过的其他姓名查询记录，则必须附上一份以伪证罪责形式作出的声明，说明申请人也曾使用该其他姓名。除本款(c)及本条(e)款的要求外，寻求查阅领事事务局护照记录副本的申请人还必须符合本条(d)款的要求。作为行政裁量权的行使，相关部门可在必要时要求申请人提供额外信息，以核实特定个人是否已同意披露。",
+      "(d) 护照记录的特别要求。鉴于护照记录及其用途的敏感性质，依据《隐私法》向领事事务局寻求查阅护照记录副本的请求必须包括：被请求记录所涉个人出生时的全名及其后任何姓名变更情况（如代表未成年人提交请求，还须提供代理人的全名）；被请求记录所涉个人的出生日期和出生地点；申请人的现用通讯地址；如有，白天联系电话号码和电子邮件地址；护照签发日期或估计日期；被请求记录所涉人员的护照号码（如已知）；以及任何有助于查找记录的其他信息。申请人还必须附上一份清晰的、申请人本人有效的政府签发的带照片身份证件（例如驾驶执照）正反两面复印件。",
+      "(e) 经授权的第三方查阅。国务院将依据《隐私法》处理本条所述的所有经适当授权的第三方请求。如果没有获得记录所涉个人的适当授权，国务院将依据《信息自由法》处理第三方请求。核实身份的首选方法是由被请求记录所涉本人在国务院FOIA网站（https://foia.state.gov/）或国家FOIA门户网站（www.foia.gov）的请求表格中以伪证罪责形式进行认证，或提交填妥的DS-4240-C表，《同意披露受〈隐私法〉保护记录》表（https://foia.state.gov/Request/forms/DS-4240-C.pdf），授权将所请求的信息发布给另一人或实体。不接受由其他联邦机构制作的表格。代表签证申请人请求签证信息的律师或其他法定代理人，应随请求提交一份由申请人（如所请求的记录涉及申请，则还须由申请方）依据《美国法典》第28编第1746条以伪证罪责形式作出的声明，授权将所请求的签证信息披露给该代理人。寻求查阅护照局记录副本的第三方申请人除须提交上述其他信息外，还必须提交一份清晰的有效政府签发的带照片身份证件（例如驾驶执照）正反两面复印件。作为行政裁量权的行使，相关部门可在必要时要求申请人提供额外信息，以核实特定个人是否已同意披露。",
+      "(1) 未成年子女的父母和监护人。在出示关于父母或监护人关系的可接受文件后,美国公民或合法永久居民(LPR)未成年人(未满18岁的未婚人士)的父母或监护人可以代表该未成年人,根据《隐私法》(PA)请求与该未成年人有关的记录。在任何情况下,美国公民或合法永久居民未成年人均可自行请求此类记录。当以未成年子女的父母或监护人身份提出请求,要求查阅有关该未成年人的记录时,请求人必须证明:",
+      "(i) 记录所涉个人的身份,方式为说明其姓名、现住址、出生日期和出生地点;",
+      "(ii) 请求人自身的身份,须符合本条第(c)款的规定;",
+      "(iii) 请求人是该个人的父母,请求人可通过提供载明亲子关系的该个人出生证明副本,或提供确立监护关系的法院命令来证明;以及",
+      "(iv) 请求人提出请求时是代表该个人行事。父母获取其未成年子女记录的权利并非绝对。",
+      "(2) 无行为能力成年人的监护人。经法院宣告为无行为能力人的个人的监护人,在出示有关监护关系的适当文件后,可代表该无行为能力人行事。当以经法院裁定为无行为能力人的监护人身份提出请求,要求查阅有关该个人的记录时,请求人必须证明:",
+      "(i) 记录所涉个人的身份,方式为说明其姓名、现住址、出生日期和出生地点;",
+      "(ii) 请求人自身的身份,须符合本条第(c)款的规定;",
+      "(iii) 请求人是该个人的监护人,请求人可通过提供确立监护关系的法院命令副本来证明;以及",
+      "(iv) 请求人提出请求时是代表该个人行事。",
+      "(f) 转交与协商。如果国务院(the Department)确定作为对请求的响应而检索到的记录是由另一机构制作的,通常会将这些记录转交至原始机构,由其直接向请求人作出答复。如果国务院确定作为对请求的响应而检索到的国务院记录为另一机构所关注,国务院可在答复请求之前与该机构进行协商。国务院可与其他机构达成协议,以消除对特定类型记录进行协商或转交的必要。",
+      "(g) 与民事诉讼有关的记录。本小节中的任何内容均不赋予个人查阅为合理预期的民事诉讼或程序而汇编的任何信息的权利。",
+      "(h) 时限。国务院将及时确认收到请求,并在其后尽快提供所请求的信息。",
+      "12. 将第171.23(b)条修订如下:",
+      "(印刷页第59703页)",
+      "第171.23条",
+      "修改或更正记录的请求。",
+      "* * * * *",
+      "(b) 修改记录的请求必须以书面形式提出,并提交至A/SKS/IAP,方式为发送电子邮件至FOIAAppeals@state.gov,或邮寄至国务院信息自由法(FOIA)网站上列出的地址。修改监察长办公室(OIG)记录的请求必须以书面形式提出,并通过电子邮件或邮寄方式提交至OIG网站(https://www.stateoig.gov/​freedom-information-act-foia-0)上提供的地址。为便于处理,请求人应在信件和信封上,或在电子传送的主题行中注明“隐私法修改请求”字样。A/SKS/IAP或OIG将与其管辖范围内的相关办公室协调审查该请求。在国务院启动修改记录的行动之前,须按照第171.22(c)条的规定对个人身份进行核实。修改请求至少应包含用于查找相关记录所需的识别信息、对所请求具体更正内容的说明,以及说明现有记录为何不准确、不相关、不及时或不完整的理由。请求人应尽可能提交相关文件、其他信息和说明,以支持其修改请求。",
+      "* * * * *",
+      "第171.24条",
+      "[已修改]",
+      "13. 修改第171.24(a)条,删除最后一句中的“A/GIS/IPS”字样,代之以“A/SKS/IAP”。",
+      "14. 修改第171.25条,将第(b)、(c)、(d)、(e)、(g)款及第(h)款引导语修订如下:",
+      "第171.25条",
+      "对隐私法修改请求被拒绝的上诉。",
+      "* * * * *",
+      "(b) 对于由监察长办公室（OIG）以外的部门作出的任何决定提出上诉，请求人必须通过电子邮件FOIAAppeals@state.gov或邮寄至国务院FOIA网站上列明的地址，向A/SKS/IAP信息自由法（FOIA）上诉办公室提交行政上诉。为便于处理，请求人应在上诉信函和信封上，或电子传输的主题行中注明“隐私法上诉”。",
+      "(c) 对于由OIG作出的决定，请求人应将上诉提交给OIG。OIG的联系信息可在https://www.stateoig.gov/​foia-appeals获取。为便于处理，请求人应在上诉信函和信封上，或电子传输的主题行中注明“隐私法上诉”。",
+      "(d) 上诉人应就依据隐私法（PA）提出的获取外事服务申诉委员会（FSGB）记录请求被全部或部分拒绝的决定，通过电子邮件FOIAAppeals@state.gov或邮寄至国务院FOIA网站上列明的地址，向A/SKS/IAP上诉办公室提交行政上诉。A/SKS/IAP将为该上诉分配跟踪编号，并将其转交给作为独立机构的FSGB进行裁决。",
+      "(e) A/SKS/IAP、OIG或FSGB应在收到上诉之日起30个工作日内，就隐私法修改请求被拒绝的上诉作出决定，除非经证明有正当理由需要延长该期限。",
+      "* * * * *",
+      "(g) 如决定为应按照上诉人的请求修改记录，A/SKS/IAP、OIG或FSGB应指示其管辖范围内负责该记录的办公室对记录进行修改，并将修改情况及其内容通知该记录以前的所有接收方（如已作出以往披露的记录），并以书面形式告知本人。",
+      "(h) 如决定为拒绝修改请求，除本节第(f)段所要求的通知外，A/SKS/IAP、OIG或FSGB还应告知上诉人：",
+      "* * * * *",
+      "15. 修订第171.26条，修订第(a)(2)(iii)段的表1和第(b)段，内容如下：",
+      "第171.26条",
+      "豁免。",
+      "* * * * *",
+      "(a) * * *",
+      "(2) * * *",
+      "(iii) * * *",
+      "第(a)(2)(iii)段表1",
+      "名称 | 编号",
+      "监察长办公室调查管理系统 | STATE-53。",
+      "风险分析与管理 | STATE-78。",
+      "安全记录 | STATE-36。",
+      "(b) 具体豁免。以下记录系统的部分内容免于适用《美国法典》第5编第552a条(c)(3)、(d)、(e)(1)和(4)、(G)、(H)和(I)以及(f)款的规定。系统名称与国务院在《联邦公报》上公布的名称一致。",
+      "(1) 根据《美国法典》第5编第552a条(k)(1)款豁免。以下记录系统中所含的记录，在其受《美国法典》第5编第552条(b)(1)款规定约束的范围内，依本条款予以豁免。",
+      "第(b)(1)段表2",
+      "名称 | 编号",
+      "国会通信记录 | STATE-43。",
+      "国会出访记录 | STATE-44。",
+      "反恐协调员记录 | STATE-06。",
+      "引渡记录 | STATE-11。",
+      "家庭权益维护案件记录 | STATE-75。",
+      "对外援助检查记录 | STATE-48。",
+      "人力资源记录 | STATE-31。",
+      "情报与研究记录 | STATE-15。",
+      "国际组织记录 | STATE-17。",
+      "法律案件管理记录 | STATE-21。",
+      "军火管制记录 | STATE-42。",
+      "（印刷页第59704页）",
+      "监察长办公室调查管理系统 | STATE-53。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "护照记录 | STATE-26。",
+      "人事薪资记录 | STATE-30。",
+      "国内应收账款记录 | STATE-23。",
+      "国际索赔与投资争端助理法律顾问办公室记录 | STATE-54。",
+      "白宫联络办公室记录 | STATE-34。",
+      "难民记录 | STATE-59。",
+      "风险分析与管理记录 | STATE-78。",
+      "流动人员记录 | STATE-41。",
+      "安全记录 | STATE-36。",
+      "签证记录 | STATE-39。",
+      "(2) 根据《美国法典》第5编第552a条(k)(2)款豁免。以下记录系统中所含的记录，在其属于为执法目的而编制的调查材料的范围内，依本条款予以豁免，但须受《美国法典》第5编第552a条(k)(2)款所规定限制的约束。",
+      "第(b)(2)段表3",
+      "名称 | 编号",
+      "反恐协调员记录 | STATE-06。",
+      "引渡记录 | STATE-11。",
+      "家庭权益维护案件记录 | STATE-75。",
+      "对外援助检查记录 | STATE-48。",
+      "工资扣押记录 | STATE-61。",
+      "情报与研究记录 | STATE-15。",
+      "军品管制记录 | STATE-42。",
+      "外国使团办公室记录 | STATE-81。",
+      "监察长办公室调查管理系统 | STATE-53。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "护照记录 | STATE-26。",
+      "风险分析与管理记录 | STATE-78。",
+      "安全记录 | STATE-36。",
+      "签证记录 | STATE-39。",
+      "(3) 根据《美国法典》第5编第552a条(k)(3)款豁免。下列记录系统中所包含的记录,在根据《美国法典》第18编第3056条为提供保护性服务而保存的范围内,根据本款予以豁免。",
+      "表4 至 (b)(3)段",
+      "名称 | 编号",
+      "引渡记录 | STATE-11。",
+      "情报与研究记录 | STATE-15。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "护照记录 | STATE-26。",
+      "安全记录 | STATE-36。",
+      "签证记录 | STATE-39。",
+      "(4) 根据《美国法典》第5编第552a条(k)(4)款豁免。下列记录系统中所包含的记录,在依法律要求保存且仅用作统计记录的范围内,根据本款予以豁免。",
+      "表5 至 (b)(4)段",
+      "名称 | 编号",
+      "外交事务学院记录 | STATE-14。",
+      "人力资源记录 | STATE-31。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "人事薪资记录 | STATE-30。",
+      "安全记录 | STATE-36。",
+      "(印刷页第59705页)",
+      "(5) 根据《美国法典》第5编第552a条(k)(5)款豁免。下列记录系统中所包含的记录,在其属于仅为确定联邦文职雇佣、军事服务、联邦合同或接触密级信息的适宜性、资格或条件而编制的调查材料,且仅限于披露该等材料将暴露秘密线人身份的范围内,根据本款予以豁免。",
+      "表6 至 (b)(5)段",
+      "名称 | 编号",
+      "外国援助视察记录 | STATE-48。",
+      "外交事务申诉委员会记录 | STATE-13。",
+      "人力资源记录 | STATE-31。",
+      "法律顾问律师聘用申请记录 | STATE-20。",
+      "监察长办公室调查管理系统 | STATE-53。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "民权办公室保存的记录 | STATE-09。",
+      "白宫联络办公室记录 | STATE-34。",
+      "风险分析与管理记录 | STATE-78。",
+      "流动人员记录 | STATE-41。",
+      "安全记录 | STATE-36。",
+      "高级人事任命记录 | STATE-47。",
+      "(6) 根据《美国法典》第5编第552a条(k)(6)款豁免。下列记录系统中所包含的记录,在其属于仅用于确定联邦职位任命或晋升个人资格,且披露将损害测验或考试过程的客观性或公正性的测验或考试材料的范围内,根据本款予以豁免。",
+      "表7 至 (b)(6)段",
+      "名称 | 编号",
+      "外交事务学院记录 | STATE-14。",
+      "人力资源记录 | STATE-31。",
+      "民权办公室保存的记录 | STATE-09。",
+      "安全记录 | STATE-36。",
+      "(7) 根据《美国法典》第5编第552a条(k)(7)款豁免。下列记录系统中所包含的记录,在其属于用于确定军队中晋升潜力的评估材料,且仅限于披露该等材料将暴露秘密线人身份的范围内,根据本款予以豁免。",
+      "表8 至 (b)(7)段",
+      "名称 | 编号",
+      "人力资源记录 | STATE-31。",
+      "海外公民服务记录及其他海外记录 | STATE-05。",
+      "安全记录 | STATE-36。",
+      "签署权限",
+      "行政助理国务卿何塞·坎宁安(Jose Cunningham)已审阅并批准本文件,并已授权下述签署人以电子方式签署本文件并提交联邦公报办公室予以公布。",
+      "爱丽丝·M·科特迈耶(Alice M. Kottmyer),",
+      "美国国务院法律顾问办公室律师顾问。",
+      "[联邦公报文件编号 2026-19223,申报日期:2026年9月18日;申报时间:上午8:45]",
+      "计费代码 4710-024-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含む場合がある。",
+      "文書を発行し署名した機関又は複数の機関",
+      "文書が改正し、改正を提案し、又は直接関連する連邦規則集(CFR)タイトルの番号及び各部の番号",
+      "機関の案件番号/機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN",
+      "詳細については文書起草ハンドブックを参照のこと。",
+      "国務省",
+      "22 CFR Part 171",
+      "[公告番号:13124]",
+      "RIN 1400-AG32",
+      "機関:",
+      "国務省。",
+      "措置:",
+      "最終規則。",
+      "概要:",
+      "国務省は、同省が管理する情報の公衆への提供に関する規則を改正する。(印刷ページ 59699) 本規則は、同省の情報公開に関する規則の前回改正以降の省の組織及び手続の変更を反映するものであり、本部に基づく情報提供依頼を電子メールで提出することに関連する事項を含む。",
+      "日付:",
+      "本規則は2026年10月21日に発効する。",
+      "問い合わせ先:",
+      "スーザン・ウィートマン(Susan Weetman)、FOIA広報連絡担当官、情報アクセスプログラム局、米国国務省、FOIAStatus@state.gov、202-261-8484。",
+      "補足情報:",
+      "本最終規則は、2016年情報自由法改善法(Freedom of Information Act Improvement Act of 2016、Public Law 114-185)を実施するものであり、22 CFR Part 171に規定される同省の情報自由法(FOIA)関連規則を更新するものである。以下は実質的な変更点の概要である。",
+      "本最終規則は、第171.4条(a)(1)において、公衆に対し、情報公開請求を行う前に、求める記録が既に公開されているか否かを確認するため、機関のFOIAライブラリを検索することを推奨している。同省の「一人への開示は全員への開示」という方針により、多くの場合、本規定により公衆はFOIA請求を行うことなく直ちに記録を見つけることが可能となる。",
+      "本最終規則は、第171.4条(a)(2)及び第171.15条(a)(2)及び(3)において、FOIA請求、行政不服申立て及び対応する連絡先情報を受け付ける部局の一覧について、機関のFOIAウェブページを参照するよう公衆に案内している。これにより、同省は各部局の連絡先情報をより容易に最新の状態に保つことが可能となる。",
+      "本最終規則は、第171.4条(a)(2)において、同省へのFOIA請求の提出に関する更新された手続を規定している。具体的には、同省は、情報アクセスプログラム局及び旅券業務局については、FOIA.gov又は同省のFOIAウェブサイトを通じた電子的なFOIA及びプライバシー法に基づく請求の提出のみを受け付けることとする。",
+      "本最終規則は、第171.4条(b)において、求める記録を合理的に特定するための手続を簡素化し統合している。例えば、査証に関する記録を請求する際にどのような情報を提供すべきかについて規定する。本更新は、同省の事案管理システムへの手動でのデータ入力の必要性を減らし、提出書類にしばしば欠落している情報を求める必要性を減らすことにより、請求処理の効率を高めることを目的とするものである。",
+      "本最終規則は、第171.11条(a)において、初期決定を行う際の情報アクセスプログラム局(IAP)の役割に関する重複した情報を削除する。",
+      "サブパートCには本規則のプライバシー法に関する規定が含まれる。本最終規則は、第171.22条(c)及び(e)において、第一当事者情報又は第三者情報の請求における本人確認の方法を明確化する。本規則は、従来複数の小節にわたって重複し又は分散していたこれらの要件を本条に統合する。この変更は、請求者が本人確認に必要な情報及びその提出方法をより容易に理解できるようにすることを目的とする。本更新により、適切な本人確認を伴わない請求の件数が最小限に抑えられ、同省が受理する適切に確認された第一当事者及び第三者による請求の件数が増加し、本人確認が適切に行われていない請求者へのフォローアップに伴う機関の事務負担が軽減される。",
+      "第171.26条(a)において、本最終規則は、記録システム通知(SORNS)及び適用除外の一覧を更新する。",
+      "最後に、本最終規則は、情報プログラム・サービス局への言及を情報アクセスプログラム局への言及に更新するため、全体にわたり多数の軽微な変更を行う。",
+      "規制上の認定事項",
+      "行政手続法",
+      "本規則制定は、同省の組織、手続及び実務に関連するものであるため、5 U.S.C. 553(b)の規定に基づき、告知及び意見公募手続の適用を除外される。",
+      "規制柔軟化法",
+      "国務省は、行政手続簡素化法(Regulatory Flexibility Act)、合衆国法典第5編第605条(b)に従い、本規則を審査し、これを承認することにより、本規則が相当数の小規模事業体に重大な経済的影響を及ぼさないことを証明する。",
+      "1995年未資金拠出義務法",
+      "本規則は、州、地方及び部族政府が合計で、又は民間部門が、いずれの年においても1億ドル以上を支出する結果をもたらすものではなく、小規模政府に対して著しく又は独自に影響を及ぼすものでもない。したがって、1995年未資金拠出義務改革法の規定に基づく措置は必要でないと判断された。",
+      "大統領令12988号 民事司法改革",
+      "国務省は、曖昧さを排除し、訴訟を最小限に抑え、明確な法的基準を確立し、負担を軽減するため、大統領令12988号に照らして本規則を審査した。",
+      "大統領令12372号及び13132号 連邦制",
+      "本規則は、各州に対し、国家政府と各州との関係、又は各レベルの政府間における権限及び責任の配分に対し、実質的な直接的影響を及ぼすものではない。したがって、大統領令13132号に従い、本規則は連邦制に関する協議を必要とし、又は連邦制に関する概要影響声明の作成を必要とするに足る連邦制上の影響を有しないと判断される。連邦プログラム及び活動に関する政府間協議について定める大統領令12372号を実施する規則は、本規則には適用されない。",
+      "大統領令13175号 インディアン部族政府との協議及び調整",
+      "国務省は、本規則制定が部族に関する影響を及ぼさず、インディアン部族政府に実質的な直接的遵守費用を課すものではなく、部族法を先占するものでもないと判断した。したがって、大統領令13175号の要件は、本規則制定には適用されない。",
+      "大統領令12866号及び13563号 規制の改善及び規制審査",
+      "国務省は、これらの大統領令に照らして本規則を検討し、本規則がそれらの指針と整合することを確認する。本規則制定が公衆にもたらす便益には、2016年情報自由法改善法(FOIA Improvement Act of 2016)と整合する、国務省への情報開示請求に関する最新の手続を提供することが含まれるが、これに限られない。国務省は、本規則制定による公衆への費用は最小限を超えないものと認識している。情報及び規制問題局(Office of Information and Regulatory Affairs)は、本規則を大統領令12866号の意味における「重要」なものとは指定していない。",
+      "大統領令14192号 規制緩和による繁栄の解放",
+      "本規則は大統領令12866号の下で「重要」なものとは判断されなかったため、大統領令14192号の規定の対象とはならない。",
+      "文書削減法",
+      "本規則は、文書削減法、合衆国法典第44編第35章に基づく報告又は記録保持の要件を課し、又は改訂するものではない。",
+      "22 CFR 第171部における対象事項一覧",
+      "行政実務及び手続",
+      "情報公開",
+      "プライバシー",
+      "(印刷ページ 59700)",
+      "したがって、前文に記載された理由により、国務省は22 CFR第171部を次のとおり改正する。",
+      "第171部 情報に対する公衆のアクセス",
+      "1. 第171部の権限根拠は、引き続き次のとおりとする。",
+      "権限根拠:合衆国法典第22編第2651a条、合衆国法典第5編第552条、第552a条、大統領令12600号(連邦官報52 FR 23781)、公法第114-185号、公法第95-521号、92 Stat. 1824(合衆国法典第5編第131章として改正の上成文化)、連邦規則集第5編第2634部。",
+      "2. 第171.1条を改正し、(b)項中の「構成部局」の定義を次のとおり改める。",
+      "第171.1条",
+      "総則規定。",
+      "＊ ＊ ＊ ＊ ＊",
+      "(b) ＊ ＊ ＊",
+      "構成部局とは、その管轄下にある記録に関するFOIA又はPA請求の処理を担当する、各省庁内の独立した局、事務所、部、委員会、サービス機関、センター又は管理部門をいう。本規則に定める、各省庁に適用される規則は、構成部局にも適用される。",
+      "＊ ＊ ＊ ＊ ＊",
+      "3. 第171.2条を次のとおり改正する。",
+      "第171.2条",
+      "保管される記録の種類。",
+      "国務省が保有する記録の大部分は、米国の外交政策の立案及び実施に関するものである。国務省はまた、1925年3月から現在までに発給された米国旅券の申請書、米国査証の申請書、米国在外公館が在外の米国市民及び適法永住者に対して行った領事援助に関する記録、並びに国務省職員に関する記録など、個人に関する一定の記録も保有している。国務省が保有する記録の種類に関する更なる情報は、国務省のFOIAウェブサイトhttps://foia.state.gov/​において閲覧可能な国務省の記録廃棄スケジュールを確認することで得ることができる。",
+      "第171.3条",
+      "[改正]",
+      "4. 第171.3条(a)を改正し、「www.state.gov/​privacy」という文言を削除し、これに代えて「www.state.gov/​system-of-records-notices-privacy-office」を加える。",
+      "5. 第171.4条を以下のとおり改正する。",
+      "第171.4条",
+      "情報の請求、その種類及び請求方法。",
+      "(a) 一般的情報。(1) 記録の請求を提出する前に、求めている情報が既に国務省のウェブサイト(www.state.gov)又はFOIAライブラリー(https://foia.state.gov/​FOIALIBRARY/​FOIALIB2.aspx)において入手可能であるかどうかを確認されたい。",
+      "(2) 本編に従って行われる記録の請求は、国務省のFOIAウェブサイト(https://foia.state.gov/​)、国家FOIAポータル(www.foia.gov)を通じて、又は国務省のFOIAウェブサイトに記載されている担当部局の住所宛ての郵送により、書面で行わなければならない。請求は、求める記録を保有する担当部局のFOIA事務所宛てに提出された場合に、最も迅速な回答を得られる。FOIA請求を受け付ける国務省の担当部局の一覧(保有する記録の種類の説明及びFOIAの連絡先情報を含む)は、https://foia.state.gov/​において確認することができる。",
+      "(3) 請求者は、国務省が請求者と連絡を取り、開示された記録を提供する際の助けとなるよう、電話番号、電子メールアドレス及び/又は郵送先住所などの連絡先情報を提供しなければならない。",
+      "(4) 監察官室(OIG)の記録の請求は、国家FOIAポータル(www.foia.gov)、電子メール又は郵送により、書面で行わなければならない。手引及び連絡先情報は、OIGのウェブサイトwww.stateoig.gov/​foiarequestにおいて入手可能である。",
+      "(5) 請求者は、情報を請求する根拠となる権限(例えば、FOIA、プライバシー法(PA)、又は分類に関する現行の大統領令に基づく強制機密解除審査(MDR))について、具体的な引用を提供するべきである。これにより、請求の処理が円滑になる。",
+      "(b) 求める記録の説明。特定の様式は求められないが、請求は、請求者が求める国務省の記録を合理的に特定できるものでなければならない。請求者は、国務省の職員が合理的な労力で記録を特定できるよう、十分な詳細さをもって求める記録を記述しなければならない。可能な限り、請求者は、国務省が請求された記録を特定する際に役立つ具体的な情報、例えば、局若しくは事務所、日付若しくは期間、保管者、作成者若しくは受領者の肩書若しくは氏名、主題事項、事件番号、又はファイル指定参照番号などを含めるべきである。査証記録の請求には、申請者について、及び該当する場合には申請人について、使用された別名を含む氏名、現住所、電子メールアドレス、並びに生年月日及び出生地(市、州及び国を含む)の情報を含めるべきである。求める記録に関する追加情報は、国務省が該当する記録を適切に特定し、請求を処理する上で助けとなる。請求を受領した後、国務省が当該請求は求める記録を合理的に特定していないと判断した場合、国務省は、請求者に対して当該請求が不十分である旨を通知し、どのような追加情報が必要か、又はなぜ当該請求がその他の点で不十分であるかを請求者に通知するものとする。請求が求める記録を合理的に特定していない場合、当該請求に対する国務省の回答が遅延することがある。請求に応じて提供される記録は、開示可能な形式の記録が当該形式で容易に複製可能である場合、請求された形式又は様式で提供される。請求者は、請求を提出する前に、求める記録について協議し、記録の記述又は請求の範囲の絞り込みに関する支援を受けるため、担当部局のFOIA連絡先又はFOIA公共連絡担当者に連絡することが推奨される。",
+      "(c) プライバシー法と情報自由法の関係。国務省は、情報が要求される根拠となる法律の如何にかかわらず、要求された記録について可能な限り最大限のアクセスを提供するよう努めているが、以下は請求者の便宜のために提供される指針である。",
+      "(1) 情報自由法は、政府全般の活動及び特に国務省の活動に関する記録の請求に適用される(本編の小編Bを参照)。",
+      "(2) プライバシー法は、米国市民又は適法永住者が、個人の氏名又は個人識別子により検索可能な記録システムにおいて国務省が保有する自己に関する記録を請求する場合に適用される(本編の小編Cを参照)。",
+      "(3) 1974年プライバシー法(合衆国法典第5編第552a条)に基づき個人が自己に関する記録について行う請求は、本小編に基づくほか、小編Cにある国務省のプライバシー法規則に従って処理される。当該記録中の情報は、両方の法律の下でアクセスから除外される場合に限り非開示とされる。いずれか一方の法律の下でのみ除外される情報については、開示されるものとする。プライバシー法上の記録システムにおいて保管されていない該当記録は、情報自由法のみに基づいて処理される。",
+      "(4) 自己に関する記録を請求する請求者は、請求が処理されるためには、本編の小編C(プライバシー法規定)の第171.22条に定める本人確認要件を満たさなければならない。",
+      "6. 第171.5条を以下のとおり改正する。",
+      "第171.5条",
+      "公文書館記録。",
+      "国務省は通常、歴史的に重要であると指定された記録を、それが作成後25年を経過した時点で国立公文書記録管理局(NARA)に移管する。したがって、作成後25年以上を経過した一部の国務省記録(印刷版59701ページ)については、国立公文書記録管理局に対して請求すべきである。そのような記録の請求に関する詳細情報は、NARAの情報自由法参考ガイド(https://www.archives.gov/foia/foia-guide#toc-iii-how-to-make-a-foia-request)に掲載されている。国務省のウェブサイト(https://foia.state.gov/)には、公文書館記録に関する追加情報が掲載されている。",
+      "7. 第171.11条を以下のとおり改正する。",
+      "a. 第(a)(1)項において、「情報プログラム・サービス局(A/GIS/IPS)」という文言を削除し、これを「情報アクセスプログラム局(A/SKS/IAP)」に置き換える。",
+      "b. 第(a)(2)項及び第(3)項を削除し、留保とする。",
+      "c. 第(b)項を改正する。",
+      "d. 第(d)(3)項の最後の文を改正する。",
+      "改正内容は以下のとおりである。",
+      "第171.11条",
+      "請求の処理。",
+      "* * * * *",
+      "(b) 請求の受領。国務省は、情報自由法請求を受領するよう指定された構成部局が請求を受領した時点で、請求を受領したものとする(第171.4条(a)(2)参照)。その時点で、国務省は、適正な構成部局における請求の受領日及び案件追跡番号を記載した受領通知書を請求者に送付しなければならない。これらの構成部局のいずれかが、請求が国務省内で誤って送付されたと判断した場合、当該部局は速やかにその請求を国務省内の適正な構成部局に回付しなければならない。",
+      "* * * * *",
+      "(d) * * *",
+      "(3) * * * かかる調整の対象となる記録に関する開示決定は、当該請求を最初に受領した構成部局が請求者に伝達するものとする。",
+      "* * * * *",
+      "8. 第171.12条を以下のとおり改正する。",
+      "a. 第(a)項において、",
+      "i. 最初に出てくる「office」という語を削除し、これを「component」に置き換える。",
+      "ii. 「(A/GIS/IPS、OIG、又はPPT)」という文言を削除する。",
+      "iii. 「これら3つの部局のいずれか」という文言を削除し、これを「いずれかの構成部局」に置き換える。",
+      "b. 第(b)項の2番目の文中の「受付部局(A/GIS/IPS、OIG、又はPPT)」という文言を削除し、これを「当該構成部局」に置き換える。",
+      "c. 第(d)(2)項を改正する。",
+      "d. 第(d)(4)項において、「部局(A/GIS/IPS、OIG、又はPPTのいずれであっても)」という文言を削除し、これを「構成部局」という語に置き換える。",
+      "改正内容は以下のとおりである。",
+      "第171.12条",
+      "請求に対する応答の時期。",
+      "* * * * *",
+      "(d) * * *",
+      "(2) 迅速処理の請求は、記録の最初の請求時又はその後のいかなる時点においても行うことができる。行政不服申立ての迅速処理を請求する場合、当該請求はA/SKS/IAPに、また監察官室(OIG)の決定に対する不服申立ての場合はOIGに提出しなければならない(第171.15条参照)。誤って送付された迅速処理請求を受領した国務省の構成部局は、その決定のため、請求を受理する責任を負う正しい構成部局に速やかに転送しなければならない。",
+      "* * * * *",
+      "9. 第171.13条を改正する。",
+      "a. 第(e)項において、第2文を改正する。",
+      "b. 第(g)項において、",
+      "「deleted」という語を削除し、その代わりに「withheld」という語を追加する。",
+      "「deletion」という語を削除し、その代わりに「withholding」という語を追加する。",
+      "c. 段落(h)(1)において、「A/GIS/IPS又はOIG」という語句を削除し、その代わりに「当該コンポーネント」を追加する。",
+      "改正内容は以下のとおりとする。",
+      "第171.13条",
+      "要求に対する応答。",
+      "* * * * *",
+      "(e) * * * 不利な決定又は要求の拒否には、以下を含むがこれらに限定されない決定が含まれる。すなわち、要求された記録の全部又は一部が開示を免除されるとの決定、要求が求める記録を合理的に特定していないとの決定、要求された情報が情報自由法(FOIA)の対象となる記録ではないとの決定、要求された記録が存在しない、所在が特定できない、又は廃棄されているとの決定、あるいは、要求された記録が要求者の求める形式又は様式で容易に複製できないとの決定である。* * *",
+      "* * * * *",
+      "10. 第171.15条を改正し、段落(a)(2)、(3)、(4)及び(b)(1)を次のように改正する。",
+      "第171.15条",
+      "行政不服申立て。",
+      "(a) * * *",
+      "(2) OIG以外のコンポーネントが行った不利な決定について不服を申し立てる場合、要求者は、A/SKS/IAP FOIA不服申立事務所に対し、電子メール(FOIAAppeals@state.govへ)又は郵送(国務省のFOIAウェブサイトに掲載された住所宛て)により、行政不服申立てを提出しなければならない。",
+      "(3) OIGが行った不利な決定について不服を申し立てる場合、要求者は、OIGに対し、電子メール(foiaappeals@stateoig.govへ)又は郵送(OIGのFOIAウェブサイトwww.stateoig.gov/foiaappealsに掲載された住所宛て)により、行政不服申立てを提出しなければならない。OIG及び他のコンポーネントの両方が要求者に対して書面による拒否を行った場合、要求者はA/SKS/IAP及びOIGの双方に対して行政不服を申し立てることができ、各事務所はそれぞれが担当する部分について不服申立てを処理するものとする。",
+      "(4) 外務職員制度審査委員会(FSGB)が行った不利な決定について不服を申し立てる場合、要求者は、上記段落(2)に記載された方法を用いて、A/SKS/IAPに対し行政不服申立てを提出しなければならない。A/SKS/IAPは、当該不服申立てに追跡番号を付与し、独立機関であるFSGBに裁定のため転送するものとする。",
+      "(b) * * *",
+      "(1) A/SKS/IAP/LA局長又はその指名する者は、本条に基づくA/SKS/IAPのFOIA決定に対するすべての不服申立てについて、行政担当次官補に代わって行動する。同様に、OIGの法務顧問又はその指名する者は、本条に基づくOIGのFOIA決定に対するすべての不服申立てについて、監察総監に代わって行動する。",
+      "* * * * *",
+      "11. 第171.22条を改正し、次のように改めて公布する。",
+      "第171.22条",
+      "記録へのアクセス要求。",
+      "(a) 総則。プライバシー法(PA)に基づく記録へのアクセス要求は、第171.4条(a)(2)に列挙されたFOIAコンポーネントに対し、書面により行わなければならない。要求は、求める記録を保有するコンポーネント宛てに提出した場合、最も迅速な応答が得られる。PA要求を受け付ける国務省の各コンポーネントの一覧及び連絡先情報は、https://foia.state.gov/​ に掲載されている。各コンポーネントは、第171.1条(b)に記載されるとおり、国務省の記録に関するすべてのPA要求に対応する責任を負う。",
+      "(b) 求める記録の記述。アクセス要求には、要求する記録を特定できる程度に十分詳細な記述を含めなければならない。少なくとも、要求には、個人の氏名(該当する場合は旧姓を含む)及び使用された他の氏名、現在の完全な郵送先住所、並びに生年月日及び出生地(市区町村、州及び国)を含めなければならない。有用な情報としては、記録のおおよその時期、及び国務省が当該個人の氏名又は個人識別子の下で記録を保有していると信じるに足る理由となる事情、並びに、判明している場合には、記録が保管されている記録システムが挙げられる。一定の場合には、国務省が、完全な検索を確実にするため、又は検索された記録が実際に当該個人に関するものであることを確実にするために、要求者に対して追加情報を要求する必要が生じることがある。(印刷ページ 59702)",
+      "(c) 本人確認。国務省は、個人情報保護法(PA)のアクセス規定に基づき自己に関する記録を請求する個人について、適正な者のみが当該記録にアクセスできるようにするため、合理的な本人確認を要求する。請求者は、氏名(フルネーム)、現住所、市民権若しくは適法永住者資格、及び生年月日並びに出生地(市、州及び国)を記載しなければならない。請求者は、自らが当該記録を請求している本人であることを証明する陳述書を含めなければならない。当該陳述書は、請求日から6か月以内に署名及び日付が記入され、合衆国法典第28編第1746条(28 U.S.C. 1746)に基づき偽証罪の制裁の下に作成されなければならない。本人確認の望ましい方法は、国務省の情報公開法(FOIA)ウェブサイト(https://foia.state.gov/​)若しくは全国FOIAポータル(www.foia.gov)上の請求フォームにおいて偽証罪の制裁の下に証明すること、又は記入済みのDS-4240-R様式「個人情報保護法により保護された記録に対する個人アクセス請求書」(https://foia.state.gov/​Request/​forms/​DS-4240-R.pdf)を提出することである。他の連邦機関が作成した様式は受理されない。請求者が使用した別名義の下で記録を請求する場合は、請求者が当該別名義も使用していた旨を偽証罪の制裁の下に陳述する文書を含めなければならない。本項(c)及び本条(e)項の要件に加え、旅券業務部(Passport Services)の旅券記録の写しへのアクセスを求める請求者は、本条(d)項の要件を満たさなければならない。行政裁量の行使として、担当部局は、特定の個人が開示に同意したことを確認するために必要な場合、請求者に追加情報の提出を求めることができる。",
+      "(d) 旅券記録に関する特別要件。旅券記録及びその利用の機微な性質に鑑み、個人情報保護法(PA)に基づき旅券業務部(Passport Services)の旅券記録の写しへのアクセスを求める請求には、記録を請求されている個人の出生時の氏名(フルネーム)及びその後の氏名変更(未成年者に代わって請求を提出する場合は、代理人の氏名(フルネーム)も提供すること)、記録を請求されている個人の生年月日及び出生地、請求者の現在の郵送先住所、並びに、可能であれば、日中連絡可能な電話番号及び電子メールアドレス、旅券が発給された日付又はその推定日、記録を請求されている者の旅券番号(判明している場合)、並びに記録の所在特定に資するその他の情報を含めなければならない。請求者は、さらに、請求者の有効な政府発行の写真付き身分証明書(例えば運転免許証)の両面の鮮明な写しを含めなければならない。",
+      "(e) 権限を付与された第三者によるアクセス。国務省は、本項に記載するとおり、適正に権限を付与された第三者による請求をすべて個人情報保護法(PA)に基づき処理する。記録に係る本人からの適正な権限付与がない場合、国務省は第三者による請求を情報公開法(FOIA)に基づき処理する。本人確認の望ましい方法は、請求されている記録の対象者が、国務省のFOIAウェブサイト(https://foia.state.gov/​)若しくは全国FOIAポータル(www.foia.gov)上の請求フォームにおいて偽証罪の制裁の下に証明すること、又は記入済みのDS-4240-C様式「個人情報保護法により保護された記録の開示に関する同意書」(https://foia.state.gov/​Request/​forms/​DS-4240-C.pdf)を提出し、請求された情報を他の者又は団体へ開示することを承認することである。他の連邦機関が作成した様式は受理されない。査証申請者に代わって査証情報を請求する弁護士その他の法定代理人は、申請者(請求される記録が申請書に関するものである場合は申請人も含む)が合衆国法典第28編第1746条(28 U.S.C. 1746)に基づき偽証罪の制裁の下に作成した、請求された査証情報を当該代理人に開示することを承認する旨の陳述書を請求とともに提出しなければならない。旅券局(Passport Office)の記録の写しへのアクセスを求める第三者請求者は、上記のその他の情報に加え、有効な政府発行の写真付き身分証明書(例えば運転免許証)の両面の鮮明な写しを提出しなければならない。行政裁量の行使として、担当部局は、特定の個人が開示に同意したことを確認するために必要な場合、請求者に追加情報の提出を求めることができる。",
+      "(1) 未成年の子の親及び後見人。親子関係又は後見関係に関する適切な証明書類の提示があった場合、米国市民又は合法永住者(LPR)である未成年者(18歳未満の未婚者)の親又は後見人は、当該未成年者に代わって、プライバシー法(PA)に基づき当該未成年者に関する記録を請求することができる。いかなる場合においても、米国市民又はLPRである未成年者は自ら当該記録を請求することができる。未成年の子の親又は後見人として、当該個人に関する記録への開示を請求する場合、請求者は次の事項を証明しなければならない。",
+      "(i) 記録の対象である個人の身元について、氏名、現住所、生年月日及び出生地を記載すること。",
+      "(ii) 本条(c)項に定めるところにより、請求者自身の身元を証明すること。",
+      "(iii) 請求者が当該個人の親であることを証明すること。これは、親子関係を示す当該個人の出生証明書の写し、又は後見関係を確立する裁判所命令を提出することにより証明できる。",
+      "(iv) 請求者が当該請求において当該個人を代理していることを証明すること。親が未成年の子の記録にアクセスする権利は絶対的なものではない。",
+      "(2) 禁治産者の後見人。裁判所により禁治産者と宣告された個人の後見人は、後見関係に関する適切な証明書類の提示があった場合、当該禁治産者に代わって、また当該禁治産者のために行動することができる。裁判所により禁治産者と判断された者の後見人として、当該個人に関する記録への開示を請求する場合、請求者は次の事項を証明しなければならない。",
+      "(i) 記録の対象である個人の身元について、氏名、現住所、生年月日及び出生地を記載すること。",
+      "(ii) 本条(c)項に定めるところにより、請求者自身の身元を証明すること。",
+      "(iii) 請求者が当該個人の後見人であることを証明すること。これは、後見関係を確立する裁判所命令の写しを提出することにより証明できる。",
+      "(iv) 請求者が当該請求において当該個人を代理していることを証明すること。",
+      "(f) 他機関への移送及び協議。国務省が、請求に応じて検索された記録が他の機関によって作成されたものであると判断した場合、通常、当該記録を作成元の機関に移送し、請求者への直接の回答を求める。国務省が、請求に応じて検索された国務省の記録が他の機関にとって関心のあるものであると判断した場合、国務省は請求に回答する前に当該他機関と協議することができる。国務省は、特定の種類の記録について協議又は移送の必要性を排除するため、他の機関との間で取決めを行うことができる。",
+      "(g) 民事訴訟に関連する記録。本小部の規定は、民事訴訟又は手続を合理的に予期して編纂された情報への個人のアクセス権を何ら付与するものではない。",
+      "(h) 期限。国務省は、請求を速やかに受理したことを通知し、その後できる限り速やかに請求された情報を提供する。",
+      "12. 第171.23条(b)を次のとおり改正する。",
+      "(印刷版59703ページ)",
+      "第171.23条",
+      "記録の修正又は訂正の請求。",
+      "* * * * *",
+      "(b) 記録の修正請求は書面により行い、A/SKS/IAPに対して電子メールFOIAAppeals@state.govにより、又は国務省のFOIAウェブサイトに記載されている住所宛ての郵送により提出しなければならない。OIG(監察総監室)の記録の修正請求は、書面によりOIGに対して、電子メール又はOIGのウェブサイト(https://www.stateoig.gov/freedom-information-act-foia-0)に記載されている住所宛ての郵送により提出しなければならない。処理を円滑にするため、請求者は書簡及び封筒、又は電子送信の件名に「プライバシー法修正請求(Privacy Act Amendment Request)」と記載することが望ましい。A/SKS/IAP又はOIGは、その所管下にある適切な部署と協力して請求の審査を調整する。国務省は、記録の修正措置を開始する前に、第171.22条(c)項に定める本人確認の証明を求める。修正請求には、少なくとも、該当する記録を特定するために必要な識別情報、請求する具体的な訂正内容の説明、及び既存の記録が正確でない、関連性がない、適時でない、又は不完全である理由の説明を含めなければならない。請求者は、修正請求を裏付けるため、できる限り多くの関連書類、その他の情報及び説明を提出することが望ましい。",
+      "* * * * *",
+      "第171.24条",
+      "[改正]",
+      "13. 第171.24条(a)を改正し、最終文中の「A/GIS/IPS」という文言を削除し、これに代えて「A/SKS/IAP」を加える。",
+      "14. 第171.25条を改正し、(b)、(c)、(d)、(e)、(g)項及び(h)項冒頭文を次のとおり改める。",
+      "第171.25条",
+      "PA（プライバシー法）改正請求の拒否に対する不服申立て。",
+      "* * * * *",
+      "(b) OIG（監察総監室）以外の部局が行った決定に対して不服申立てを行うには、申立人はA/SKS/IAP FOIA不服申立事務局に対し、電子メールFOIAAppeals@state.govにより、又は国務省のFOIAウェブサイトに記載された住所宛ての郵送により、行政不服申立てを提出しなければならない。処理を円滑にするため、申立人は不服申立書及び封筒、又は電子送信の件名欄に「プライバシー法不服申立て（Privacy Act Appeal）」と明記すべきである。",
+      "(c) OIG（監察総監室）が行った決定については、申立人はOIGに対して不服申立てを提出すべきである。OIGの連絡先情報はhttps://www.stateoig.gov/foia-appealsで入手可能である。処理を円滑にするため、申立人は不服申立書及び封筒、又は電子送信の件名欄に「プライバシー法不服申立て（Privacy Act Appeal）」と明記すべきである。",
+      "(d) 不服申立人は、PAに基づくFSGB（対外関係業務理事会）記録への開示請求の全部又は一部の拒否に対する行政不服申立てを、A/SKS/IAP不服申立事務局に対し、電子メールFOIAAppeals@state.govにより、又は国務省のFOIAウェブサイトに記載された住所宛ての郵送により提出すべきである。A/SKS/IAPは当該不服申立てに追跡番号を割り当て、独立機関であるFSGBに裁定のため転送する。",
+      "(e) A/SKS/IAP、OIG又はFSGBは、正当な理由が示された場合に当該期間の延長が必要とされない限り、不服申立てを受領した日から30就業日以内に、PA改正請求の拒否に対する不服申立てについて決定を行う。",
+      "* * * * *",
+      "(g) 記録が申立人の請求に従って改正されるべきであるとの決定がなされた場合、A/SKS/IAP、OIG又はFSGBは、その管轄下にある当該記録を所管する部局に対し記録の改正を指示し、（開示の履歴記録が作成されている場合には）当該記録の以前の受領者全員に改正及びその内容を通知するよう指示し、かつ当該個人に対して書面でその旨を通知するものとする。",
+      "(h) 改正請求を拒否する旨の決定がなされた場合、本条(f)項が求める通知に加えて、A/SKS/IAP、OIG又はFSGBは不服申立人に対し、次の事項を通知するものとする。",
+      "* * * * *",
+      "15. 第171.26条を改正し、(a)(2)(iii)項の表1及び(b)項を次のとおり改める。",
+      "第171.26条",
+      "適用除外。",
+      "* * * * *",
+      "(a) * * *",
+      "(2) * * *",
+      "(iii) * * *",
+      "(a)(2)(iii)項の表1",
+      "名称 ｜ 番号",
+      "監察総監室捜査管理システム ｜ STATE-53。",
+      "リスク分析及び管理 ｜ STATE-78。",
+      "保安記録 ｜ STATE-36。",
+      "(b) 個別の適用除外。以下の記録システムの一部は、5 U.S.C. 552a(c)(3)項、(d)項、(e)(1)項及び(4)項、(G)項、(H)項並びに(I)項、並びに(f)項の適用を除外される。システムの名称は、国務省が連邦官報に公示したものと一致する。",
+      "(1) 5 U.S.C. 552a(k)(1)に基づく適用除外。以下の記録システムに含まれる記録は、5 U.S.C. 552(b)(1)の規定の対象となる範囲において、本項に基づき適用除外とされる。",
+      "(b)(1)項の表2",
+      "名称 ｜ 番号",
+      "議会通信記録 ｜ STATE-43。",
+      "議会出張記録 ｜ STATE-44。",
+      "テロ対策調整官記録 ｜ STATE-06。",
+      "犯罪人引渡記録 ｜ STATE-11。",
+      "家族支援事案記録 ｜ STATE-75。",
+      "対外援助検査記録 ｜ STATE-48。",
+      "人事記録 ｜ STATE-31。",
+      "情報調査局記録 ｜ STATE-15。",
+      "国際機関記録 ｜ STATE-17。",
+      "法務案件管理記録 ｜ STATE-21。",
+      "軍需品管理記録 ｜ STATE-42。",
+      "（印刷ページ59704）",
+      "監察総監室捜査管理システム ｜ STATE-53。",
+      "在外国民サービス記録及びその他の在外記録 ｜ STATE-05。",
+      "旅券記録 ｜ STATE-26。",
+      "人事給与記録 ｜ STATE-30。",
+      "国内未収金記録 ｜ STATE-23。",
+      "国際請求及び投資紛争担当法律顧問補佐官室記録 ｜ STATE-54。",
+      "ホワイトハウス連絡室記録 ｜ STATE-34。",
+      "難民記録 ｜ STATE-59。",
+      "リスク分析及び管理記録 ｜ STATE-78。",
+      "ローバー記録 ｜ STATE-41。",
+      "保安記録 ｜ STATE-36。",
+      "査証記録 ｜ STATE-39。",
+      "(2) 5 U.S.C. 552a(k)(2)に基づく適用除外。以下の記録システムに含まれる記録は、5 U.S.C. 552a(k)(2)に定める制限に従い、法執行目的のために収集された捜査資料から成る範囲において、本項に基づき適用除外とされる。",
+      "(b)(2)項の表3",
+      "名称 ｜ 番号",
+      "テロ対策調整官記録 ｜ STATE-06。",
+      "犯罪人引渡記録 ｜ STATE-11。",
+      "家族支援事案記録 ｜ STATE-75。",
+      "対外援助検査記録 ｜ STATE-48。",
+      "賃金差押記録 ｜ STATE-61。",
+      "情報調査局記録 | STATE-15。",
+      "軍需品管理記録 | STATE-42。",
+      "外国使節団局記録 | STATE-81。",
+      "監察官室調査管理システム | STATE-53。",
+      "海外在留邦人サービス記録及びその他の海外記録 | STATE-05。",
+      "旅券記録 | STATE-26。",
+      "リスク分析及び管理記録 | STATE-78。",
+      "保安記録 | STATE-36。",
+      "査証記録 | STATE-39。",
+      "(3) 合衆国法典第5編第552a条(k)(3)に基づく適用除外。次の記録システムに含まれる記録は、合衆国法典第18編第3056条に従って保護業務を提供することに関連して保持される限りにおいて、本項に基づき適用除外とする。",
+      "表4(第(b)(3)項関連)",
+      "表題 | 番号",
+      "犯罪人引渡記録 | STATE-11。",
+      "情報調査局記録 | STATE-15。",
+      "海外在留邦人サービス記録及びその他の海外記録 | STATE-05。",
+      "旅券記録 | STATE-26。",
+      "保安記録 | STATE-36。",
+      "査証記録 | STATE-39。",
+      "(4) 合衆国法典第5編第552a条(k)(4)に基づく適用除外。次の記録システムに含まれる記録は、法律により保持することが義務付けられ、かつもっぱら統計記録として使用される限りにおいて、本項に基づき適用除外とする。",
+      "表5(第(b)(4)項関連)",
+      "表題 | 番号",
+      "フォーリン・サービス・インスティテュート記録 | STATE-14。",
+      "人事記録 | STATE-31。",
+      "海外在留邦人サービス記録及びその他の海外記録 | STATE-05。",
+      "職員給与記録 | STATE-30。",
+      "保安記録 | STATE-36。",
+      "(印刷ページ59705)",
+      "(5) 合衆国法典第5編第552a条(k)(5)に基づく適用除外。次の記録システムに含まれる記録は、連邦文民職員の雇用、軍務、連邦契約又は機密情報へのアクセスに関する適性、資格要件又は能力を判定するためにもっぱら作成された調査資料から成る限りにおいて、ただしかかる資料の開示が秘密の情報提供者の身元を明らかにすることとなる場合に限り、本項に基づき適用除外とする。",
+      "表6(第(b)(5)項関連)",
+      "表題 | 番号",
+      "対外援助監査記録 | STATE-48。",
+      "外務職員苦情処理委員会記録 | STATE-13。",
+      "人事記録 | STATE-31。",
+      "法律顧問室弁護士雇用申請記録 | STATE-20。",
+      "監察官室調査管理システム | STATE-53。",
+      "海外在留邦人サービス記録及びその他の海外記録 | STATE-05。",
+      "公民権局保持記録 | STATE-09。",
+      "ホワイトハウス連絡室記録 | STATE-34。",
+      "リスク分析及び管理記録 | STATE-78。",
+      "ローバー記録 | STATE-41。",
+      "保安記録 | STATE-36。",
+      "上級職員任命記録 | STATE-47。",
+      "(6) 合衆国法典第5編第552a条(k)(6)に基づく適用除外。次の記録システムに含まれる記録は、連邦職員への任命又は昇進のための個人の資格をもっぱら判定するために使用される試験又は検査資料から成り、その開示が試験又は検査過程の客観性若しくは公正性を損なうこととなる限りにおいて、本項に基づき適用除外とする。",
+      "表7(第(b)(6)項関連)",
+      "表題 | 番号",
+      "フォーリン・サービス・インスティテュート記録 | STATE-14。",
+      "人事記録 | STATE-31。",
+      "公民権局保持記録 | STATE-09。",
+      "保安記録 | STATE-36。",
+      "(7) 合衆国法典第5編第552a条(k)(7)に基づく適用除外。次の記録システムに含まれる記録は、軍務における昇進の可能性を判定するために使用される評価資料から成る限りにおいて、ただしかかる開示が秘密の情報提供者の身元を明らかにすることとなる場合に限り、本項に基づき適用除外とする。",
+      "表8(第(b)(7)項関連)",
+      "表題 | 番号",
+      "人事記録 | STATE-31。",
+      "海外在留邦人サービス記録及びその他の海外記録 | STATE-05。",
+      "保安記録 | STATE-36。",
+      "署名権限",
+      "管理担当次官補のホセ・カニンガムは本文書を審査及び承認し、下記署名者が本文書を電子的に署名の上、連邦官報局に提出することを許可した。",
+      "アリス・M・コットマイヤー",
+      "法律顧問室弁護士顧問、米国国務省",
+      "[FR Doc. 2026-19223 掲載、2026年9月18日;午前8時45分]",
+      "BILLING CODE 4710-024-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

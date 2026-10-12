@@ -96,5 +96,383 @@
     "fees",
     "humanitarian"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Justice"
+      },
+      {
+        "t": "h",
+        "x": "Executive Office for Immigration Review"
+      },
+      {
+        "t": "li",
+        "x": "[Dir. Order No. 10-2026]"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Executive Office for Immigration Review, Department of Justice."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice of inflationary fee adjustment."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Justice (“Department”) is providing notice of statutorily required inflation adjustments to immigration-related fees for certain Department of Homeland Security (“DHS”) forms filed with the Executive Office for Immigration Review (“EOIR”) under the One Big Beautiful Bill Act for Fiscal Year (“FY”) 2027."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The fees announced in this notice are effective October 1, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Jamee E. Comans, Assistant Director, Office of Policy, Executive Office for Immigration Review, 5107 Leesburg Pike, Suite 2500, Falls Church, VA 22041, telephone (703) 305-0289 (not a toll-free call)."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Background"
+      },
+      {
+        "t": "p",
+        "x": "On July 4, 2025, a Congressional budget reconciliation bill (H.R. 1), commonly referred to as the One Big Beautiful Bill Act (“OBBBA”), became law. Public Law 119-21, 139 Stat. 72. As relevant here, OBBBA introduced new required immigration-related fees for EOIR applications, motions, and appeals beginning in FY 2025 (“OBBBA fees”) and mandated that the Attorney General annually update these OBBBA fees for inflation. See8 U.S.C. 1802, 1808, 1812."
+      },
+      {
+        "t": "p",
+        "x": "Therefore, on August 21, 2026, the Department issued a final rule updating its regulations to make the required FY 2027 OBBBA inflation adjustments for the relevant EOIR forms and motions. See Inflation Adjustment for EOIR ( printed page 61448) OBBBA Fees; Fiscal Year 2027, 91 FR 54211 (Aug. 21, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "In order to provide further clarity, this notice details the FY 2027 OBBBA inflation adjustments for the following DHS forms when filed with EOIR: Form I-485, Application to Register Permanent Residence or Adjust Status; Form I-589, Application for Asylum and for Withholding of Removal; Form I-601, Application for Waiver of Grounds of Inadmissibility; and Form I-821, Application for Temporary Protected Status."
+      },
+      {
+        "t": "p",
+        "x": "Importantly, this notice does not change any fees for these DHS forms collected pursuant to section 286(m) of the Immigration and Nationality Act. See8 U.S.C. 1356(m). The 286(m) fee amounts for these forms are detailed in DHS's fee schedule, and EOIR's regulations continue to direct readers to DHS's fee schedule for such fee amounts. See8 CFR 1103.7(b)(4)(ii) (“The fees for applications published by the Department of Homeland Security and used in immigration proceedings are governed by 8 CFR 103.7 and 8 CFR part 106.”); see also USCIS, Fee Schedule (Sept. 9, 2026), https://www.uscis.gov/​sites/​default/​files/​document/​forms/​g-1055.pdf [ https://perma.cc/​H87F-FPU8]. The amounts displayed on EOIR's Payment Portal and website are the combined total of the section 286(m) and OBBBA fees."
+      },
+      {
+        "t": "h",
+        "x": "II. Basis for Adjustment"
+      },
+      {
+        "t": "p",
+        "x": "OBBBA requires that all EOIR-collected OBBBA fees be adjusted annually for inflation and directs that a specific adjustment formula be applied to each fee. See8 U.S.C. 1802, 1808, 1812. For all OBBBA fees, the inflation-adjusted amount is calculated by adding: (1) the amount of the OBBBA fee required for the most recently concluded fiscal year to (2) the product of the OBBBA fee required for the most recently concluded fiscal year multiplied by the percentage (if any) by which the Consumer Price Index for All Urban Consumers (“CPI-U”) for the July preceding the date on which such adjustment takes effect (here, July 2026) exceeds the CPI-U for the same month of the preceding calendar year (here, July 2025), either rounded down to the nearest multiple of $10, see8 U.S.C. 1802(c), 1812(a)(2)(B), or, for the Annual Asylum Fee (“AAF”), rounded down to the nearest dollar. See8 U.S.C. 1808(b)(2). The CPI-U percent change for calculating FY 2027 OBBBA fees is 3.4 percent.[1]"
+      },
+      {
+        "t": "p",
+        "x": "The table below shows the FY 2027 OBBBA fee amounts as adjusted for inflation."
+      },
+      {
+        "t": "tr",
+        "x": "Immigration fee type | FY 2026 OBBBA fee | Inflation adjustment (rounded) | FY 2027 OBBBA fee"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-485, Application to Register Permanent Residence or Adjust Status | $1,540 | $50 | $1,590"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-589, Application for Asylum and for Withholding of Removal—Initial Application | 100 | 0 | 100"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-589, Application for Asylum and for Withholding of Removal—Annual Asylum Fee | 102 | 3 | 105"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-601, Application for Waiver of Grounds of Inadmissibility | 1,070 | 30 | 1,100"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-821, Application for Temporary Protected Status | 510 | 10 | 520"
+      },
+      {
+        "t": "h",
+        "x": "III. Effective Date and Implementation"
+      },
+      {
+        "t": "p",
+        "x": "The FY 2027 filing fee amounts will be required for any relevant filings with the Immigration Courts or the Board of Immigration Appeals filed on or after October 1, 2026 (the first day of FY 2027). EOIR will continue to reject any filings that are not accompanied by a proper filing fee or request for an applicable fee waiver."
+      },
+      {
+        "t": "p",
+        "x": "EOIR will update its website and electronic payment portal with the filing fee amounts established in this notice and any future inflationary adjustments. See, e.g., EOIR, Types of Appeals, Motions, and Required Fees (Feb. 18, 2026), https://www.justice.gov/​eoir/​types-appeals-motions-and-required-fees [ https://perma.cc/​Q6CM-HKWN]; EOIR, Forms & Fees (July 29, 2026), https://www.justice.gov/​eoir/​eoir-forms [ https://perma.cc/​BE8R-SPK2]; EOIR, EOIR Payment Portal (Aug. 27, 2026), https://epay.eoir.justice.gov/​index [ https://perma.cc/​LF3L-VACV]."
+      },
+      {
+        "t": "p",
+        "x": "Sirce E. Owen,"
+      },
+      {
+        "t": "p",
+        "x": "Acting Director, Executive Office for Immigration Review, Department of Justice."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. See U.S. Bureau of Labor Statistics, Economic News Release, Consumer Price Index—July 2026 (Aug. 12, 2026), https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm [ https://perma.cc/​RC5W-VWF3]."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-19841 Filed 9-28-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4410-30-P"
+      }
+    ],
+    "fetched": "2026-10-12T18:01Z",
+    "from": "federalregister.gov",
+    "chars": 6268
+  },
+  "full": {
+    "ko": [
+      "문서 제목",
+      "문서 제목은 문서 유형에 따라 다르며 다음을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접 관련되는 연방규정집(CFR) 편 번호 및 각 부(part) 번호",
+      "기관 접수번호 / 기관 내부 파일 번호",
+      "연방규제 및 규제완화 조치 통합의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 지침서(Document Drafting Handbook)를 참조하시기 바랍니다.",
+      "법무부",
+      "이민항소심사국",
+      "[Dir. Order No. 10-2026]",
+      "기관:",
+      "법무부 이민항소심사국(Executive Office for Immigration Review).",
+      "조치:",
+      "물가연동 수수료 조정 고시.",
+      "요약:",
+      "법무부(이하 “본부”)는 One Big Beautiful Bill Act에 따라 회계연도(이하 “FY”) 2027을 위하여 이민항소심사국(이하 “EOIR”)에 제출되는 특정 국토안보부(이하 “DHS”) 양식과 관련된 이민 관련 수수료에 대한 법정 물가연동 조정 사항을 이에 고시합니다.",
+      "시행일:",
+      "본 고시에서 발표된 수수료는 2026년 10월 1일부로 시행됩니다.",
+      "추가 정보 문의처:",
+      "Jamee E. Comans, 정책실 부국장, 이민항소심사국, 5107 Leesburg Pike, Suite 2500, Falls Church, VA 22041, 전화 (703) 305-0289 (수신자 부담 전화 아님).",
+      "보충 정보:",
+      "I. 배경",
+      "2025년 7월 4일, 통상 One Big Beautiful Bill Act(이하 “OBBBA”)로 불리는 의회 예산조정법안(H.R. 1)이 법률로 제정되었습니다. Public Law 119-21, 139 Stat. 72. 본 고시와 관련하여, OBBBA는 2025 회계연도부터 EOIR에 제출되는 신청, 신청서, 동의안 및 항소에 대한 새로운 필수 이민 관련 수수료(이하 “OBBBA 수수료”)를 도입하였으며, 법무부 장관으로 하여금 매년 물가 상승률에 따라 이러한 OBBBA 수수료를 갱신하도록 의무화하였습니다. 8 U.S.C. 1802, 1808, 1812 참조.",
+      "이에 따라 2026년 8월 21일, 본부는 관련 EOIR 양식 및 신청서에 대한 2027 회계연도 OBBBA 물가연동 조정을 반영하기 위하여 규정을 갱신하는 최종규칙을 발표하였습니다. Inflation Adjustment for EOIR( 인쇄본 페이지 61448) OBBBA Fees; Fiscal Year 2027, 91 FR 54211 (2026. 8. 21.) 참조.",
+      "보다 명확한 이해를 돕기 위하여, 본 고시는 EOIR에 제출되는 다음 DHS 양식에 대한 2027 회계연도 OBBBA 물가연동 조정 사항을 상세히 설명합니다. 양식 I-485, 영주권 등록 신청 또는 신분 조정 신청서; 양식 I-589, 망명 신청 및 추방 보류 신청서; 양식 I-601, 입국 거부 사유 면제 신청서; 및 양식 I-821, 임시보호신분 신청서.",
+      "중요한 점은, 본 고시가 이민 및 국적법 제286(m)조에 따라 징수되는 이들 DHS 양식에 대한 수수료를 변경하지 않는다는 것입니다. 8 U.S.C. 1356(m) 참조. 이들 양식에 대한 286(m)조 수수료 금액은 DHS의 수수료표에 상세히 기재되어 있으며, EOIR의 규정은 계속하여 해당 수수료 금액에 대하여 DHS의 수수료표를 참조하도록 안내하고 있습니다. 8 CFR 1103.7(b)(4)(ii) 참조(“국토안보부가 발행하고 이민 절차에서 사용되는 신청서에 대한 수수료는 8 CFR 103.7 및 8 CFR part 106에 따릅니다.”); 또한 USCIS, Fee Schedule (2026. 9. 9.), https://www.uscis.gov/​sites/​default/​files/​document/​forms/​g-1055.pdf [https://perma.cc/​H87F-FPU8] 참조. EOIR의 납부 포털 및 웹사이트에 표시되는 금액은 제286(m)조 수수료와 OBBBA 수수료를 합산한 총액입니다.",
+      "II. 조정 근거",
+      "OBBBA는 EOIR이 징수하는 모든 OBBBA 수수료가 매년 물가 상승률에 따라 조정되어야 한다고 규정하며, 각 수수료에 특정 조정 공식을 적용하도록 지시하고 있습니다. 8 U.S.C. 1802, 1808, 1812 참조. 모든 OBBBA 수수료에 대하여, 물가연동 조정 금액은 다음을 합산하여 산출됩니다. (1) 직전 완료된 회계연도에 요구된 OBBBA 수수료 금액에, (2) 직전 완료된 회계연도에 요구된 OBBBA 수수료에, 해당 조정이 시행되는 날짜 직전 7월(여기서는 2026년 7월)의 모든 도시 소비자를 위한 소비자물가지수(이하 “CPI-U”)가 직전 역년의 동일한 달(여기서는 2025년 7월)의 CPI-U를 초과하는 비율(있는 경우)을 곱한 금액을 더한 값이며, 이를 가장 가까운 10달러 단위로 내림하거나(8 U.S.C. 1802(c), 1812(a)(2)(B) 참조), 연간 망명 수수료(이하 “AAF”)의 경우에는 가장 가까운 1달러 단위로 내림합니다. 8 U.S.C. 1808(b)(2) 참조. 2027 회계연도 OBBBA 수수료 산정에 적용되는 CPI-U 변동률은 3.4퍼센트입니다.[1]",
+      "아래 표는 물가연동 조정이 반영된 2027 회계연도 OBBBA 수수료 금액을 나타냅니다.",
+      "이민 수수료 종류 | 2026 회계연도 OBBBA 수수료 | 물가상승률 조정액(반올림) | 2027 회계연도 OBBBA 수수료",
+      "양식 I-485, 영주권 등록 신청 또는 신분 조정 신청서 | 1,540달러 | 50달러 | 1,590달러",
+      "양식 I-589, 망명 신청 및 추방 유예 신청서, 최초 신청 | 100달러 | 0달러 | 100달러",
+      "양식 I-589, 망명 신청 및 추방 유예 신청서, 연간 망명 수수료 | 102달러 | 3달러 | 105달러",
+      "양식 I-601, 입국 거부 사유 면제 신청서 | 1,070달러 | 30달러 | 1,100달러",
+      "양식 I-821, 임시보호신분(TPS) 신청서 | 510달러 | 10달러 | 520달러",
+      "III. 발효일 및 시행",
+      "2027 회계연도 신청 수수료 금액은 2026년 10월 1일(2027 회계연도 첫째 날) 이후에 이민법원 또는 이민항소위원회(Board of Immigration Appeals)에 제출되는 모든 관련 신청에 대하여 적용됩니다. 이민심사행정청(Executive Office for Immigration Review, EOIR)은 적절한 신청 수수료 또는 해당 수수료 면제 신청서가 첨부되지 않은 모든 신청서를 계속하여 반려할 것입니다.",
+      "EOIR는 본 고시에서 정한 신청 수수료 금액 및 향후 물가상승률 조정 사항을 반영하여 웹사이트와 전자결제 포털을 갱신할 것입니다. 예를 들어 다음을 참조하십시오. EOIR, Types of Appeals, Motions, and Required Fees (2026년 2월 18일), https://www.justice.gov/​eoir/​types-appeals-motions-and-required-fees [ https://perma.cc/​Q6CM-HKWN]; EOIR, Forms & Fees (2026년 7월 29일), https://www.justice.gov/​eoir/​eoir-forms [ https://perma.cc/​BE8R-SPK2]; EOIR, EOIR Payment Portal (2026년 8월 27일), https://epay.eoir.justice.gov/​index [ https://perma.cc/​LF3L-VACV].",
+      "서어스 E. 오언(Sirce E. Owen),",
+      "법무부 이민심사행정청(Executive Office for Immigration Review) 청장 대행.",
+      "각주",
+      "1. 미국 노동통계국(U.S. Bureau of Labor Statistics), 경제 뉴스 발표, 소비자물가지수, 2026년 7월(2026년 8월 12일), https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm [ https://perma.cc/​RC5W-VWF3] 참조.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-19841 Filed 9-28-26; 8:45 am]",
+      "BILLING CODE 4410-30-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Justicia",
+      "Oficina Ejecutiva de Revisión de Inmigración",
+      "[Orden del Director N.º 10-2026]",
+      "AGENCIA:",
+      "Oficina Ejecutiva de Revisión de Inmigración, Departamento de Justicia.",
+      "ACCIÓN:",
+      "Aviso de ajuste inflacionario de tarifas.",
+      "RESUMEN:",
+      "El Departamento de Justicia (“Departamento”) está proporcionando notificación de los ajustes por inflación requeridos por ley a las tarifas relacionadas con inmigración para ciertos formularios del Departamento de Seguridad Nacional (“DHS”, por sus siglas en inglés) presentados ante la Oficina Ejecutiva de Revisión de Inmigración (“EOIR”, por sus siglas en inglés) conforme a la Ley One Big Beautiful Bill Act para el Año Fiscal (“FY”) 2027.",
+      "FECHAS:",
+      "Las tarifas anunciadas en este aviso entran en vigor el 1 de octubre de 2026.",
+      "PARA MAYOR INFORMACIÓN, COMUNICARSE CON:",
+      "Jamee E. Comans, Directora Asistente, Oficina de Políticas, Oficina Ejecutiva de Revisión de Inmigración, 5107 Leesburg Pike, Suite 2500, Falls Church, VA 22041, teléfono (703) 305-0289 (no es una llamada gratuita).",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Antecedentes",
+      "El 4 de julio de 2025, un proyecto de ley de reconciliación presupuestaria del Congreso (H.R. 1), comúnmente conocido como la Ley One Big Beautiful Bill Act (“OBBBA”), se convirtió en ley. Ley Pública 119-21, 139 Stat. 72. En lo pertinente, la OBBBA introdujo nuevas tarifas obligatorias relacionadas con inmigración para solicitudes, mociones y apelaciones ante la EOIR a partir del FY 2025 (“tarifas de la OBBBA”) y ordenó que el Fiscal General actualizara anualmente dichas tarifas de la OBBBA por inflación. Véase 8 U.S.C. 1802, 1808, 1812.",
+      "Por lo tanto, el 21 de agosto de 2026, el Departamento emitió una regla final que actualiza sus reglamentos para realizar los ajustes por inflación requeridos para el FY 2027 conforme a la OBBBA, respecto de los formularios y mociones pertinentes de la EOIR. Véase Inflation Adjustment for EOIR (página impresa 61448) OBBBA Fees; Fiscal Year 2027, 91 FR 54211 (21 de agosto de 2026).",
+      "Con el fin de proporcionar mayor claridad, este aviso detalla los ajustes por inflación del FY 2027 conforme a la OBBBA para los siguientes formularios del DHS cuando se presentan ante la EOIR: Formulario I-485, Solicitud para Registrar Residencia Permanente o Ajustar Estatus; Formulario I-589, Solicitud de Asilo y Retención de la Expulsión; Formulario I-601, Solicitud de Exención de Motivos de Inadmisibilidad; y Formulario I-821, Solicitud de Estatus de Protección Temporal.",
+      "Es importante señalar que este aviso no modifica ninguna de las tarifas de estos formularios del DHS cobradas conforme a la sección 286(m) de la Ley de Inmigración y Nacionalidad. Véase 8 U.S.C. 1356(m). Los montos de la tarifa 286(m) para estos formularios se detallan en el cronograma de tarifas del DHS, y los reglamentos de la EOIR continúan remitiendo a los lectores al cronograma de tarifas del DHS para dichos montos. Véase 8 CFR 1103.7(b)(4)(ii) (“Las tarifas de las solicitudes publicadas por el Departamento de Seguridad Nacional y utilizadas en los procedimientos de inmigración se rigen por 8 CFR 103.7 y 8 CFR parte 106.”); véase también USCIS, Cronograma de Tarifas (9 de septiembre de 2026), https://www.uscis.gov/​sites/​default/​files/​document/​forms/​g-1055.pdf [ https://perma.cc/​H87F-FPU8]. Los montos que se muestran en el Portal de Pagos y el sitio web de la EOIR son el total combinado de las tarifas de la sección 286(m) y las de la OBBBA.",
+      "II. Fundamento del ajuste",
+      "La OBBBA exige que todas las tarifas de la OBBBA recaudadas por la EOIR se ajusten anualmente por inflación y ordena que se aplique una fórmula de ajuste específica a cada tarifa. Véase 8 U.S.C. 1802, 1808, 1812. Para todas las tarifas de la OBBBA, el monto ajustado por inflación se calcula sumando: (1) el monto de la tarifa de la OBBBA requerido para el año fiscal más recientemente concluido, más (2) el producto de la tarifa de la OBBBA requerida para el año fiscal más recientemente concluido multiplicada por el porcentaje (si lo hubiera) en que el Índice de Precios al Consumidor para Todos los Consumidores Urbanos (“CPI-U”, por sus siglas en inglés) correspondiente al mes de julio anterior a la fecha en que dicho ajuste entra en vigor (en este caso, julio de 2026) supere al CPI-U del mismo mes del año calendario anterior (en este caso, julio de 2025), redondeado hacia abajo al múltiplo de $10 más cercano, véase 8 U.S.C. 1802(c), 1812(a)(2)(B), o, para la Tarifa Anual de Asilo (“AAF”, por sus siglas en inglés), redondeado hacia abajo al dólar más cercano. Véase 8 U.S.C. 1808(b)(2). El cambio porcentual del CPI-U para calcular las tarifas de la OBBBA del FY 2027 es del 3.4 por ciento.[1]",
+      "La tabla a continuación muestra los montos de las tarifas de la OBBBA para el FY 2027 ajustados por inflación.",
+      "Tipo de tarifa de inmigración | Tarifa OBBBA del año fiscal 2026 | Ajuste por inflación (redondeado) | Tarifa OBBBA del año fiscal 2027",
+      "Formulario I-485, Solicitud de Registro de Residencia Permanente o Ajuste de Estatus | $1,540 | $50 | $1,590",
+      "Formulario I-589, Solicitud de Asilo y de Retención de la Expulsión, Solicitud Inicial | 100 | 0 | 100",
+      "Formulario I-589, Solicitud de Asilo y de Retención de la Expulsión, Tarifa Anual de Asilo | 102 | 3 | 105",
+      "Formulario I-601, Solicitud de Exención de los Motivos de Inadmisibilidad | 1,070 | 30 | 1,100",
+      "Formulario I-821, Solicitud de Estatus de Protección Temporal | 510 | 10 | 520",
+      "III. Fecha de Vigencia e Implementación",
+      "Los montos de las tarifas de presentación del año fiscal 2027 serán exigibles para cualquier presentación pertinente ante los Tribunales de Inmigración o la Junta de Apelaciones de Inmigración que se presente a partir del 1 de octubre de 2026 (el primer día del año fiscal 2027), inclusive. La Oficina Ejecutiva de Revisión de Inmigración (EOIR) continuará rechazando cualquier presentación que no vaya acompañada de la tarifa de presentación correspondiente o de una solicitud de exención de tarifa aplicable.",
+      "La EOIR actualizará su sitio web y su portal electrónico de pagos con los montos de las tarifas de presentación establecidos en este aviso y con cualquier futuro ajuste por inflación. Véase, por ejemplo, EOIR, Types of Appeals, Motions, and Required Fees (18 de febrero de 2026), https://www.justice.gov/​eoir/​types-appeals-motions-and-required-fees [ https://perma.cc/​Q6CM-HKWN]; EOIR, Forms & Fees (29 de julio de 2026), https://www.justice.gov/​eoir/​eoir-forms [ https://perma.cc/​BE8R-SPK2]; EOIR, EOIR Payment Portal (27 de agosto de 2026), https://epay.eoir.justice.gov/​index [ https://perma.cc/​LF3L-VACV].",
+      "Sirce E. Owen,",
+      "Directora Interina, Oficina Ejecutiva de Revisión de Inmigración, Departamento de Justicia.",
+      "Notas al pie",
+      "1. Véase la Oficina de Estadísticas Laborales de los Estados Unidos, Comunicado de Prensa Económico, Índice de Precios al Consumidor, julio de 2026 (12 de agosto de 2026), https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm [ https://perma.cc/​RC5W-VWF3].",
+      "Volver a la cita",
+      "[Documento del Registro Federal 2026-19841, presentado el 9-28-26; 8:45 a. m.]",
+      "CÓDIGO DE FACTURACIÓN 4410-30-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容",
+      "签发并签署文件的机构或多个机构",
+      "文件所修订、拟修订或直接相关的联邦法规汇编(CFR)标题编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "监管信息号(RIN),用于识别《联邦监管与放松监管行动统一议程》中列出的每项监管行动",
+      "详情请参阅《文件起草手册》。",
+      "美国司法部",
+      "行政上诉复核办公室",
+      "[主任令第10-2026号]",
+      "机构:",
+      "美国司法部行政上诉复核办公室。",
+      "行动:",
+      "通胀费用调整通知。",
+      "摘要:",
+      "美国司法部(“本部”)特此发布通知,根据《一项宏大美好法案》,就向行政上诉复核办公室(“EOIR”)提交的某些美国国土安全部(“DHS”)表格的移民相关费用,依法进行2027财政年度(“FY”)的通胀调整。",
+      "日期:",
+      "本通知所公布的费用自2026年10月1日起生效。",
+      "进一步信息联系人:",
+      "Jamee E. Comans,政策办公室助理主任,行政上诉复核办公室,地址:5107 Leesburg Pike, Suite 2500, Falls Church, VA 22041,电话(703) 305-0289(非免费电话)。",
+      "补充信息:",
+      "一、背景",
+      "2025年7月4日,国会预算协调法案(H.R. 1),通常称为《一项宏大美好法案》(“OBBBA”),正式成为法律。公法第119-21号,139 Stat. 72。就本通知相关内容而言,OBBBA自2025财政年度起为EOIR的申请、动议和上诉引入了新的强制性移民相关费用(“OBBBA费用”),并要求司法部长每年对这些OBBBA费用进行通胀调整。参见8 U.S.C. 1802、1808、1812。",
+      "因此,本部于2026年8月21日发布最终规则,更新相关法规,对相关EOIR表格和动议进行2027财政年度OBBBA通胀调整所需的更新。参见《EOIR通胀调整(printed page 61448)OBBBA费用;2027财政年度》,91 FR 54211(2026年8月21日)。",
+      "为进一步明确,本通知详细说明了以下向EOIR提交的DHS表格的2027财政年度OBBBA通胀调整:I-485表格,登记永久居留权或调整身份申请书;I-589表格,庇护申请及暂缓递解令申请书;I-601表格,不可入境理由豁免申请书;以及I-821表格,临时保护身份申请书。",
+      "需要指出的是,本通知不改变根据《移民与国籍法》第286(m)条就这些DHS表格所征收的任何费用。参见8 U.S.C. 1356(m)。这些表格的286(m)费用金额详见DHS的收费表,EOIR的法规继续指示读者查阅DHS的收费表以获取此类费用金额。参见8 CFR 1103.7(b)(4)(ii)(“美国国土安全部发布并用于移民诉讼程序的申请表费用,受8 CFR 103.7及8 CFR第106部分管辖。”);另见美国公民及移民服务局(USCIS),收费表(2026年9月9日),https://www.uscis.gov/​sites/​default/​files/​document/​forms/​g-1055.pdf [https://perma.cc/​H87F-FPU8]。EOIR支付门户及网站上显示的金额为第286(m)条费用与OBBBA费用的合计总额。",
+      "二、调整依据",
+      "OBBBA要求对所有由EOIR征收的OBBBA费用每年进行通胀调整,并规定对每项费用应适用特定的调整公式。参见8 U.S.C. 1802、1808、1812。对于所有OBBBA费用,通胀调整后的金额计算方法为将以下两项相加:(1)最近一个已结束财政年度所要求的OBBBA费用金额,与(2)该最近一个已结束财政年度所要求的OBBBA费用金额乘以消费者价格指数(城市消费者,“CPI-U”)在该调整生效日期之前的7月(此处为2026年7月)相较于上一个日历年同月(此处为2025年7月)超出的百分比(如有)所得的乘积,所得结果向下舍入至最接近的10美元的整数倍,参见8 U.S.C. 1802(c)、1812(a)(2)(B),或者,对于年度庇护费(“AAF”),向下舍入至最接近的整数美元。参见8 U.S.C. 1808(b)(2)。用于计算2027财政年度OBBBA费用的CPI-U百分比变化为3.4%。[1]",
+      "下表显示经通胀调整后的2027财政年度OBBBA费用金额。",
+      "移民费用类型 | 2026财年《大而美法案》(OBBBA)费用 | 通胀调整(四舍五入) | 2027财年OBBBA费用",
+      "I-485表,登记永久居留或调整身份申请 | 1,540美元 | 50美元 | 1,590美元",
+      "I-589表,庇护及暂缓遣返申请,初次申请 | 100美元 | 0美元 | 100美元",
+      "I-589表,庇护及暂缓遣返申请,年度庇护费 | 102美元 | 3美元 | 105美元",
+      "I-601表,不可入境事由豁免申请 | 1,070美元 | 30美元 | 1,100美元",
+      "I-821表,临时保护身份申请 | 510美元 | 10美元 | 520美元",
+      "三、生效日期与实施",
+      "凡于2026年10月1日(2027财年第一天)或之后向移民法院或移民上诉委员会提交的任何相关申请文件,均须按照2027财年规定的申请费金额缴纳。行政审查执行办公室(EOIR)将继续拒绝未附带适当申请费或适用费用豁免申请的任何申请文件。",
+      "行政审查执行办公室将在其网站及电子支付门户网站上更新本通知所确定的申请费金额以及今后的任何通胀调整。例如,参见行政审查执行办公室(EOIR),《上诉、动议类型及所需费用》(2026年2月18日),https://www.justice.gov/​eoir/​types-appeals-motions-and-required-fees [ https://perma.cc/​Q6CM-HKWN];行政审查执行办公室(EOIR),《表格与费用》(2026年7月29日),https://www.justice.gov/​eoir/​eoir-forms [ https://perma.cc/​BE8R-SPK2];行政审查执行办公室(EOIR),《EOIR支付门户网站》(2026年8月27日),https://epay.eoir.justice.gov/​index [ https://perma.cc/​LF3L-VACV]。",
+      "Sirce E. Owen,",
+      "代理主任,行政审查执行办公室,美国司法部。",
+      "脚注",
+      "1. 参见美国劳工统计局,经济新闻稿,《消费者价格指数,2026年7月》(2026年8月12日),https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm [ https://perma.cc/​RC5W-VWF3]。",
+      "返回引文",
+      "[联邦公报文件2026-19841号,存档时间为2026年9月28日下午8:45]",
+      "出版代码4410-30-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発行し署名した機関又は機関群",
+      "文書が改正する、改正を提案する、又は直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の係属案件番号/機関内部ファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに記載された各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブックを参照のこと。",
+      "司法省",
+      "移民審査執行局",
+      "[局長命令第10-2026号]",
+      "機関:",
+      "司法省移民審査執行局(EOIR)。",
+      "措置:",
+      "インフレ調整による手数料改定の告知。",
+      "概要:",
+      "司法省(以下「省」という。)は、2027会計年度(以下「FY」という。)について、One Big Beautiful Bill Actに基づき移民審査執行局(以下「EOIR」という。)に提出される特定の国土安全保障省(以下「DHS」という。)様式に係る移民関連手数料について、法定のインフレ調整が行われることを告知する。",
+      "日付:",
+      "本告知において発表される手数料は、2026年10月1日より発効する。",
+      "問い合わせ先:",
+      "Jamee E. Comans、政策局次長、移民審査執行局、5107 Leesburg Pike, Suite 2500, Falls Church, VA 22041、電話番号(703) 305-0289(通話料無料ではない)。",
+      "補足情報:",
+      "I. 背景",
+      "2025年7月4日、連邦議会の予算調整法案(H.R. 1)、通称One Big Beautiful Bill Act(以下「OBBBA」という。)が成立した。Public Law 119-21、139 Stat. 72。本件に関連する点として、OBBBAは2025会計年度以降、EOIRの申請、動議及び上訴に係る新たな必須の移民関連手数料(以下「OBBBA手数料」という。)を導入し、司法長官に対し、これらのOBBBA手数料について毎年インフレ調整を行うことを義務付けた。8 U.S.C. 1802、1808、1812を参照。",
+      "したがって、2026年8月21日、省は関連するEOIR様式及び動議について2027会計年度の必要なOBBBAインフレ調整を行うため、規則を更新する最終規則を発出した。Inflation Adjustment for EOIR(印刷版61448ページ)OBBBA Fees; Fiscal Year 2027, 91 FR 54211(2026年8月21日)を参照。",
+      "さらなる明確化のため、本告知は、EOIRに提出される以下のDHS様式について、2027会計年度のOBBBAインフレ調整を詳述する。すなわち、Form I-485(永住権登録申請書又は身分調整申請書)、Form I-589(庇護申請及び退去強制の一時停止申請書)、Form I-601(入国不許可事由の免除申請書)、及びForm I-821(一時的保護措置申請書)である。",
+      "重要な点として、本告知は、移民及び国籍法第286条(m)に基づき徴収されるこれらのDHS様式に係るいかなる手数料も変更するものではない。8 U.S.C. 1356(m)を参照。これらの様式に係る第286条(m)の手数料額はDHSの手数料表に詳述されており、EOIRの規則は引き続き読者に対し当該手数料額についてはDHSの手数料表を参照するよう指示している。8 CFR 1103.7(b)(4)(ii)(「国土安全保障省が公表し、移民手続において使用される申請書の手数料は、8 CFR 103.7及び8 CFR part 106によって規律される。」)を参照。また、USCIS, Fee Schedule(2026年9月9日)、https://www.uscis.gov/​sites/​default/​files/​document/​forms/​g-1055.pdf [https://perma.cc/​H87F-FPU8]も参照のこと。EOIRの支払いポータル及びウェブサイトに表示される金額は、第286条(m)の手数料とOBBBA手数料を合算した合計額である。",
+      "II. 調整の根拠",
+      "OBBBAは、EOIRが徴収するすべてのOBBBA手数料について毎年インフレ調整を行うことを義務付けており、各手数料に特定の調整計算式を適用するよう指示している。8 U.S.C. 1802、1808、1812を参照。すべてのOBBBA手数料について、インフレ調整後の金額は、(1)直近に終了した会計年度において必要とされたOBBBA手数料の額に、(2)直近に終了した会計年度において必要とされたOBBBA手数料の額に、当該調整が発効する日の前の7月(本件では2026年7月)の全都市消費者向け消費者物価指数(以下「CPI-U」という。)が、前暦年の同月(本件では2025年7月)のCPI-Uを上回る割合(もしあれば)を乗じた積を加算することにより算出され、その合計額は、10ドルの最も近い倍数に切り下げられるか(8 U.S.C. 1802(c)、1812(a)(2)(B)を参照)、又は年次庇護手数料(以下「AAF」という。)については、最も近い1ドル単位に切り下げられる。8 U.S.C. 1808(b)(2)を参照。2027会計年度のOBBBA手数料算出に用いられるCPI-Uの変動率は3.4パーセントである。[1]",
+      "下表は、インフレ調整後の2027会計年度OBBBA手数料額を示す。",
+      "移民手数料種別 | 2026会計年度OBBBA手数料 | インフレ調整額(四捨五入) | 2027会計年度OBBBA手数料",
+      "様式I-485、永住者登録申請又は身分調整申請 | 1,540ドル | 50ドル | 1,590ドル",
+      "様式I-589、亡命申請及び退去強制の一時停止申請、初回申請 | 100ドル | 0ドル | 100ドル",
+      "様式I-589、亡命申請及び退去強制の一時停止申請、年次亡命手数料 | 102ドル | 3ドル | 105ドル",
+      "様式I-601、入国不許可事由の免除申請 | 1,070ドル | 30ドル | 1,100ドル",
+      "様式I-821、一時的保護身分申請 | 510ドル | 10ドル | 520ドル",
+      "III. 発効日及び実施",
+      "2027会計年度の申請手数料額は、2026年10月1日(2027会計年度の初日)以降に移民裁判所又は移民不服審査委員会(Board of Immigration Appeals)に提出される関連する申請に適用されるものとする。移民不服審査行政局(EOIR)は、適切な申請手数料又は該当する手数料免除の申請が添付されていない申請については、引き続き却下するものとする。",
+      "EOIRは、本通知で定められた申請手数料額及び今後のインフレ調整額をもって、そのウェブサイト及び電子決済ポータルを更新するものとする。例えば、EOIR、不服申立て、動議及び必要手数料の種類(Types of Appeals, Motions, and Required Fees)(2026年2月18日)、https://www.justice.gov/​eoir/​types-appeals-motions-and-required-fees [ https://perma.cc/​Q6CM-HKWN]、EOIR、様式及び手数料(Forms & Fees)(2026年7月29日)、https://www.justice.gov/​eoir/​eoir-forms [ https://perma.cc/​BE8R-SPK2]、EOIR、EOIR決済ポータル(EOIR Payment Portal)(2026年8月27日)、https://epay.eoir.justice.gov/​index [ https://perma.cc/​LF3L-VACV]を参照のこと。",
+      "サース・E・オーウェン",
+      "移民不服審査行政局(Executive Office for Immigration Review)代理局長、米国司法省(Department of Justice)",
+      "脚注",
+      "1. 米国労働統計局(U.S. Bureau of Labor Statistics)、経済ニュースリリース、消費者物価指数、2026年7月分(2026年8月12日)、https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm [ https://perma.cc/​RC5W-VWF3]を参照のこと。",
+      "引用元に戻る",
+      "[FR Doc. 2026-19841 Filed 9-28-26; 8:45 am]",
+      "請求コード 4410-30-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

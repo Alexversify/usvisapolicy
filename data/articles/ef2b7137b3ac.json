@@ -92,5 +92,127 @@
     "enforcement",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      },
+      {
+        "t": "p",
+        "x": "NEWARK, N.J. — An Essex County man and a Middlesex County woman, both aliens, were charged with illegally voting in a federal election and making false statements while applying for U.S. citizenship. U.S. Citizenship and Immigration Services assisted the investigation. The U.S. Attorney’s Office for the District of New Jersey made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "Patrick Terrance Reid, 61, a Jamaican alien of Orange, N.J., and Danubis Bernat, 49, a Venezuelan alien of South Amboy, N.J., were each charged by separate complaints with voting by an alien in a federal election and making false statements while applying for U.S. citizenship."
+      },
+      {
+        "t": "p",
+        "x": "A person must be a U.S. citizen to register and vote in federal elections. According to documents filed in this case and statements made in court, Reid and Bernat were not citizens when they registered to vote. They each falsely certified and attested in their voter registration forms that they were U.S. citizens."
+      },
+      {
+        "t": "p",
+        "x": "Each defendant cast a ballot in at least one federal election. At the time they cast their ballots, Reid, who entered the U.S. from Jamaica on an SA1 immigrant visa, and Bernat, who entered the U.S. from Venezuela on a B-2 tourist visa, were not U.S. citizens and so were not authorized to vote in federal elections. Reid voted in person in the presidential elections held in November 2012 and November 2016 and via mail-in ballot in the presidential elections in November 2020 and November 2024. Bernat voted in person in the 2024 general election. Each of those elections included candidates who were vying for election to federal offices."
+      },
+      {
+        "t": "p",
+        "x": "After illegally voting, each of the defendants applied to become a U.S. citizen by submitting Form N-400, Application for Naturalization. This form requires the applicant to swear under penalty of perjury that the information provided is complete, true, and correct. In their respective applications for naturalization, both Reid and Bernat falsely claimed that they had never registered to vote or voted in any federal elections."
+      },
+      {
+        "t": "p",
+        "x": "The counts of voting by an alien carry a maximum sentence of 1 year’s imprisonment and a fine of up to $100,000. The counts of making false statements while applying for U.S. citizenship carry a maximum sentence of 10 years’ imprisonment and a fine of up to $250,000."
+      },
+      {
+        "t": "p",
+        "x": "U.S. Attorney for the District of New Jersey Robert Frazer credited special agents of the FBI, U.S Immigration and Customs Enforcement’s Homeland Security Investigations, and USCIS with the investigations."
+      },
+      {
+        "t": "p",
+        "x": "The cases were brought under the U.S. Attorney’s Office’s Election Integrity Task Force, a coalition of federal law enforcement partners focused on preserving and protecting the integrity of elections conducted in the District of New Jersey. The charges and allegations contained in the complaints are merely accusations, and the defendants are presumed innocent unless and until proven guilty."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit USCIS.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:02Z",
+    "from": "page",
+    "chars": 3138
+  },
+  "full": {
+    "ko": [
+      "보도 발표일",
+      "2026년 9월 25일",
+      "뉴저지주 뉴어크, 에섹스 카운티의 한 남성과 미들섹스 카운티의 한 여성이 각각 외국인 신분으로, 연방 선거에서 불법 투표를 하고 미국 시민권 신청 과정에서 허위 진술을 한 혐의로 기소되었습니다. 미국 시민권 및 이민 서비스국(USCIS)이 수사를 지원하였습니다. 뉴저지주 연방검찰청이 이를 발표하였습니다.",
+      "뉴저지주 오렌지 거주, 자메이카 국적의 61세 외국인 패트릭 테런스 리드(Patrick Terrance Reid)와 뉴저지주 사우스 앰보이 거주, 베네수엘라 국적의 49세 외국인 다누비스 베르나트(Danubis Bernat)는 각각 별도의 고소장을 통해 외국인의 연방 선거 투표 및 미국 시민권 신청 과정에서의 허위 진술 혐의로 기소되었습니다.",
+      "연방 선거에 등록하고 투표하기 위해서는 미국 시민이어야 합니다. 본 사건과 관련하여 제출된 문서와 법정에서 진술된 내용에 따르면, 리드와 베르나트는 투표 등록 당시 시민이 아니었습니다. 이들은 각각 유권자 등록 서류에서 자신이 미국 시민이라고 허위로 확인하고 서약하였습니다.",
+      "각 피고인은 적어도 한 차례 이상의 연방 선거에서 투표를 하였습니다. 자메이카에서 SA1 이민 비자로 미국에 입국한 리드와 베네수엘라에서 B-2 관광 비자로 미국에 입국한 베르나트는 투표 당시 미국 시민이 아니었으므로 연방 선거에서 투표할 권한이 없었습니다. 리드는 2012년 11월과 2016년 11월에 실시된 대통령 선거에서 직접 투표하였으며, 2020년 11월과 2024년 11월에 실시된 대통령 선거에서는 우편 투표를 통해 투표하였습니다. 베르나트는 2024년 총선거에서 직접 투표하였습니다. 이들 선거에는 모두 연방 공직 선거에 출마한 후보자들이 포함되어 있었습니다.",
+      "불법 투표 이후, 각 피고인은 귀화 신청서(Form N-400, Application for Naturalization)를 제출하여 미국 시민권을 신청하였습니다. 이 신청서는 신청인이 제공하는 정보가 완전하고 진실하며 정확하다는 것을 위증죄의 처벌을 전제로 서약하도록 요구합니다. 리드와 베르나트는 각자의 귀화 신청서에서 자신이 연방 선거에서 투표 등록을 하거나 투표한 적이 없다고 허위로 주장하였습니다.",
+      "외국인의 투표 혐의는 최고 1년의 징역형과 최대 10만 달러의 벌금형에 처해질 수 있습니다. 미국 시민권 신청 과정에서의 허위 진술 혐의는 최고 10년의 징역형과 최대 25만 달러의 벌금형에 처해질 수 있습니다.",
+      "뉴저지주 연방검사 로버트 프레이저(Robert Frazer)는 연방수사국(FBI), 미국 이민세관단속국(ICE) 국토안보수사국(Homeland Security Investigations) 및 USCIS 특별수사관들의 수사 공로를 치하하였습니다.",
+      "본 사건들은 뉴저지주 연방검찰청의 선거 청렴성 전담반(Election Integrity Task Force)을 통해 제기되었으며, 이는 뉴저지주 관할 구역 내에서 실시되는 선거의 청렴성을 보존하고 보호하는 데 중점을 둔 연방 법 집행 기관들의 연합체입니다. 고소장에 포함된 혐의 및 주장은 단순한 기소 내용에 불과하며, 피고인은 유죄가 입증될 때까지 무죄로 추정됩니다.",
+      "USCIS에 이민 혜택 관련 사기 또는 남용이 의심되는 사례를 신고하려면 USCIS 제보 양식(USCIS Tip Form)을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 대한 자세한 정보는 USCIS.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 9월 25일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "25/09/2026",
+      "NEWARK, N.J. ,  Un hombre del condado de Essex y una mujer del condado de Middlesex, ambos extranjeros, fueron acusados de votar ilegalmente en una elección federal y de hacer declaraciones falsas al solicitar la ciudadanía estadounidense. Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) brindaron asistencia en la investigación. La Oficina del Fiscal Federal para el Distrito de Nueva Jersey hizo el anuncio.",
+      "Patrick Terrance Reid, de 61 años, un extranjero jamaiquino de Orange, N.J., y Danubis Bernat, de 49 años, una extranjera venezolana de South Amboy, N.J., fueron acusados cada uno mediante denuncias separadas de votar siendo extranjero en una elección federal y de hacer declaraciones falsas al solicitar la ciudadanía estadounidense.",
+      "Una persona debe ser ciudadana estadounidense para registrarse y votar en elecciones federales. Según los documentos presentados en este caso y las declaraciones hechas en el tribunal, Reid y Bernat no eran ciudadanos cuando se registraron para votar. Cada uno certificó y declaró falsamente en sus formularios de registro de votantes que eran ciudadanos estadounidenses.",
+      "Cada acusado emitió un voto en al menos una elección federal. Al momento de emitir sus votos, Reid, quien ingresó a los Estados Unidos desde Jamaica con una visa de inmigrante SA1, y Bernat, quien ingresó a los Estados Unidos desde Venezuela con una visa de turista B-2, no eran ciudadanos estadounidenses y, por lo tanto, no estaban autorizados para votar en elecciones federales. Reid votó en persona en las elecciones presidenciales celebradas en noviembre de 2012 y noviembre de 2016, y mediante voto por correo en las elecciones presidenciales de noviembre de 2020 y noviembre de 2024. Bernat votó en persona en las elecciones generales de 2024. Cada una de esas elecciones incluyó candidatos que competían por cargos federales.",
+      "Después de votar ilegalmente, cada uno de los acusados solicitó convertirse en ciudadano estadounidense mediante la presentación del Formulario N-400, Solicitud de Naturalización. Este formulario exige que el solicitante jure, bajo pena de perjurio, que la información proporcionada es completa, verdadera y correcta. En sus respectivas solicitudes de naturalización, tanto Reid como Bernat declararon falsamente que nunca se habían registrado para votar ni habían votado en ninguna elección federal.",
+      "Los cargos por votar siendo extranjero conllevan una pena máxima de 1 año de prisión y una multa de hasta $100,000. Los cargos por hacer declaraciones falsas al solicitar la ciudadanía estadounidense conllevan una pena máxima de 10 años de prisión y una multa de hasta $250,000.",
+      "El Fiscal Federal para el Distrito de Nueva Jersey, Robert Frazer, reconoció el trabajo de los agentes especiales del FBI, de la División de Investigaciones de Seguridad Nacional de Inmigración y Control de Aduanas de los Estados Unidos (ICE) y de USCIS en las investigaciones.",
+      "Los casos se presentaron bajo el Grupo de Trabajo sobre Integridad Electoral de la Oficina del Fiscal Federal, una coalición de socios federales de aplicación de la ley enfocada en preservar y proteger la integridad de las elecciones realizadas en el Distrito de Nueva Jersey. Los cargos y alegaciones contenidos en las denuncias son meras acusaciones, y se presume que los acusados son inocentes a menos que y hasta que se demuestre su culpabilidad.",
+      "Para reportar sospechas de fraude o abuso de beneficios de inmigración a USCIS, por favor utilice el Formulario de Denuncias de USCIS.",
+      "Para obtener más información sobre USCIS y sus programas, visite USCIS.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "25/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年9月25日",
+      "新泽西州纽瓦克讯，一名埃塞克斯县男子和一名米德尔塞克斯县女子，二人均为外国人，被指控在联邦选举中非法投票并在申请美国公民身份时作出虚假陈述。美国公民及移民服务局(USCIS)协助了此案调查。新泽西州联邦检察官办公室发布了此项通报。",
+      "现年61岁、居住在新泽西州奥兰治市的牙买加籍外国人帕特里克·特伦斯·里德(Patrick Terrance Reid)和现年49岁、居住在新泽西州南安博伊市的委内瑞拉籍外国人达努比斯·贝尔纳(Danubis Bernat)分别被以两份独立的刑事诉状指控外国人在联邦选举中投票以及在申请美国公民身份时作出虚假陈述。",
+      "只有美国公民才能在联邦选举中登记并投票。根据本案所提交的文件以及在法庭上所作的陈述，里德和贝尔纳在登记投票时并非美国公民。他们二人均在各自的选民登记表中虚假声明并证实自己是美国公民。",
+      "每名被告均至少在一次联邦选举中投过票。在投票之时，经牙买加以SA1移民签证入境美国的里德和经委内瑞拉以B-2旅游签证入境美国的贝尔纳均非美国公民，因此均无权参加联邦选举投票。里德曾于2012年11月和2016年11月的总统选举中亲自投票，并于2020年11月和2024年11月的总统选举中通过邮寄选票方式投票。贝尔纳曾于2024年大选中亲自投票。上述每次选举均涉及角逐联邦职位的候选人。",
+      "在非法投票之后，两名被告均通过提交I-400表格（归化申请表）申请成为美国公民。该表格要求申请人在伪证罪的处罚下宣誓所提供信息是完整、真实和正确的。在各自的归化申请中，里德和贝尔纳均虚假声称他们从未在任何联邦选举中登记投票或投过票。",
+      "外国人投票罪名最高可判处1年监禁，并处最高10万美元罚款。在申请美国公民身份时作出虚假陈述罪名最高可判处10年监禁，并处最高25万美元罚款。",
+      "新泽西州联邦检察官罗伯特·弗雷泽(Robert Frazer)对联邦调查局（FBI）特工、美国移民及海关执法局（ICE）国土安全调查部门以及USCIS在本案调查中所作的贡献表示赞赏。",
+      "本案是在联邦检察官办公室选举诚信工作组的框架下提起的，该工作组是由联邦执法合作伙伴组成的联盟，致力于维护和保护新泽西州所进行选举的诚信。诉状中所载的指控和主张仅为指控，在依法证明有罪之前，被告均被推定无罪。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为，请使用USCIS举报表格。",
+      "欲了解有关USCIS及其项目的更多信息，请访问USCIS.gov，或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年9月25日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年9月25日",
+      "ニュージャージー州ニューアーク発。エセックス郡在住の男性とミドルセックス郡在住の女性、いずれも外国人であるが、連邦選挙において違法に投票し、米国市民権の申請中に虚偽の供述を行った容疑で起訴された。米国市民権・移民局(USCIS)が捜査に協力した。ニュージャージー州連邦検事局が発表した。",
+      "ニュージャージー州オレンジ在住のジャマイカ人外国人、パトリック・テランス・リード(61歳)と、ニュージャージー州サウスアンボイ在住のベネズエラ人外国人、ダヌビス・ベルナト(49歳)は、それぞれ別個の起訴状により、外国人による連邦選挙での投票および米国市民権申請中の虚偽供述の容疑で起訴された。",
+      "連邦選挙に登録し投票するためには、米国市民でなければならない。本件において提出された文書および法廷での供述によれば、リードとベルナトは有権者登録を行った当時、市民ではなかった。両名はそれぞれの有権者登録用紙において、自分が米国市民であると虚偽の証明および宣誓を行った。",
+      "両被告は少なくとも1回の連邦選挙で投票を行った。投票を行った当時、ジャマイカからSA1移民ビザで米国に入国したリードと、ベネズエラからB-2観光ビザで米国に入国したベルナトは、いずれも米国市民ではなく、連邦選挙における投票権を有していなかった。リードは2012年11月および2016年11月の大統領選挙において対面で投票し、2020年11月および2024年11月の大統領選挙において郵便投票を行った。ベルナトは2024年の総選挙において対面で投票した。これらの選挙にはいずれも連邦公職への立候補者が含まれていた。",
+      "違法に投票を行った後、両被告はそれぞれフォームN-400「帰化申請書」を提出し、米国市民となることを申請した。この様式は、申請者に対し、提供する情報が完全かつ真実であり正確であることを偽証罪に問われる条件のもとで宣誓することを求めている。それぞれの帰化申請において、リードとベルナトはいずれも、連邦選挙において投票登録または投票を行ったことは一度もないと虚偽の申告を行った。",
+      "外国人による投票の罪状については、最高で禁錮1年および罰金10万ドルの刑が科される。米国市民権申請中の虚偽供述の罪状については、最高で禁錮10年および罰金25万ドルの刑が科される。",
+      "ニュージャージー州連邦検事ロバート・フレイザーは、連邦捜査局(FBI)、米国移民・関税執行局(ICE)国土安全保障調査部、およびUSCISの特別捜査官らによる捜査に謝意を表した。",
+      "本件は、ニュージャージー州地区で実施される選挙の健全性の維持および保護に重点を置く連邦法執行機関の連合体である、連邦検事局選挙健全性タスクフォースの下で起訴された。起訴状に含まれる容疑および主張は単なる告発にすぎず、被告人は有罪が立証されない限り無罪と推定される。",
+      "USCISに対し、移民給付に関する不正または濫用の疑いを報告するには、USCISチップフォーム(USCIS Tip Form)をご利用ください。",
+      "USCISおよびそのプログラムに関する詳細情報については、USCIS.govをご覧いただくか、X、Instagram、YouTube、Facebook、LinkedInの各公式アカウントをフォローしてください。",
+      "2026年9月25日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

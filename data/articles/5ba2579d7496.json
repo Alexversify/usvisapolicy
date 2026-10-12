@@ -92,5 +92,95 @@
     "enforcement",
     "family"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      },
+      {
+        "t": "p",
+        "x": "CAMDEN, N.J. — A Romanian alien admitted to conspiring with an American citizen to enter into a sham marriage so that she could obtain U.S. citizenship. U.S. Citizenship and Immigration Services assisted the investigation. The U.S. Attorney’s Office for the District of New Jersey made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "Antonia-Beatrice Mircea, 33, of Atlantic City, pleaded guilty to conspiracy to commit marriage fraud in federal court. According to statements made in court and documents filed in the case, Mircea is a citizen of Romania and entered into a sham marriage with U.S. citizen Victor Purilla to obtain lawful permanent residence in the United States. Mircea lied on forms submitted to USCIS stating that she lived with Purilla in Atlantic City when, in fact, Purilla never lived with Mircea and he maintained his own residence in Absecon."
+      },
+      {
+        "t": "p",
+        "x": "The charge of conspiracy to commit marriage fraud has a maximum penalty of five years’ imprisonment, a $250,000 fine, and three years of supervised release. Sentencing is scheduled for Jan. 25, 2027."
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security’s Homeland Security Investigations and the FBI’s Newark Field Office investigated the case. USCIS aided the investigation."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:02Z",
+    "from": "page",
+    "chars": 1452
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 9월 25일",
+      "뉴저지주 캠든, 루마니아 출신 외국인이 미국 시민권을 취득하기 위해 미국 시민과 위장 결혼을 하기로 공모한 사실을 인정했습니다. 미국 시민권이민국(USCIS)이 수사를 지원했습니다. 뉴저지주 연방검찰청이 이를 발표했습니다.",
+      "애틀랜틱시티 출신 안토니아 베아트리체 미르체아(33세)는 연방법원에서 결혼 사기 공모 혐의에 대해 유죄를 인정했습니다. 법정 진술 및 사건 관련 제출 서류에 따르면, 미르체아는 루마니아 국적자로서 미국 영주권을 취득하기 위해 미국 시민 빅터 푸릴라와 위장 결혼을 했습니다. 미르체아는 USCIS에 제출한 서류에 자신이 애틀랜틱시티에서 푸릴라와 함께 거주하고 있다고 허위로 기재했으나, 실제로 푸릴라는 미르체아와 함께 거주한 적이 없으며 앱세콘에 별도의 거주지를 유지하고 있었습니다.",
+      "결혼 사기 공모 혐의의 최고 형량은 징역 5년, 벌금 25만 달러, 보호관찰 3년입니다. 선고 공판은 2027년 1월 25일로 예정되어 있습니다.",
+      "국토안보부(DHS) 산하 국토안보수사국(Homeland Security Investigations)과 연방수사국(FBI) 뉴어크 지부가 이 사건을 수사했습니다. USCIS가 수사를 지원했습니다.",
+      "USCIS에 이민 혜택 관련 사기 또는 남용이 의심되는 사례를 신고하시려면 USCIS 제보 양식을 이용하시기 바랍니다.",
+      "USCIS 및 관련 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook 및 LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 9월 25일"
+    ],
+    "es": [
+      "Fecha de Publicación",
+      "25/09/2026",
+      "CAMDEN, N.J., una ciudadana extranjera rumana admitió haber conspirado con un ciudadano estadounidense para contraer un matrimonio fraudulento a fin de poder obtener la ciudadanía estadounidense. Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) brindaron asistencia a la investigación. La Oficina del Fiscal Federal para el Distrito de Nueva Jersey hizo el anuncio.",
+      "Antonia-Beatrice Mircea, de 33 años, de Atlantic City, se declaró culpable de conspiración para cometer fraude matrimonial en un tribunal federal. Según las declaraciones hechas en el tribunal y los documentos presentados en el caso, Mircea es ciudadana de Rumania y contrajo un matrimonio fraudulento con el ciudadano estadounidense Victor Purilla para obtener la residencia permanente legal en los Estados Unidos. Mircea mintió en los formularios presentados ante USCIS, declarando que vivía con Purilla en Atlantic City cuando, en realidad, Purilla nunca vivió con Mircea y mantuvo su propia residencia en Absecon.",
+      "El cargo de conspiración para cometer fraude matrimonial tiene una pena máxima de cinco años de prisión, una multa de $250,000 y tres años de libertad supervisada. La sentencia está programada para el 25 de enero de 2027.",
+      "La División de Investigaciones de Seguridad Nacional del Departamento de Seguridad Nacional (DHS) y la Oficina de Campo de Newark del FBI investigaron el caso. USCIS colaboró con la investigación.",
+      "Para reportar sospechas de fraude o abuso de beneficios de inmigración a USCIS, por favor utilice el Formulario de Denuncias de USCIS (USCIS Tip Form).",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "25/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年9月25日",
+      "新泽西州卡姆登市：一名罗马尼亚籍外国人承认与一名美国公民共谋缔结虚假婚姻,以便获得美国公民身份。美国公民及移民服务局(USCIS)协助了此次调查。美国新泽西地区检察官办公室宣布了此消息。",
+      "现年33岁、居住在大西洋城的安东尼娅-贝娅特丽丝·米尔恰(Antonia-Beatrice Mircea)在联邦法院对共谋实施婚姻欺诈罪名表示认罪。根据在法庭上所作的陈述以及本案所提交的文件,米尔恰系罗马尼亚公民,她与美国公民维克多·普里拉(Victor Purilla)缔结了一桩虚假婚姻,以此获得在美国的合法永久居留权。米尔恰在提交给美国公民及移民服务局(USCIS)的表格中谎称她与普里拉同住在大西洋城,而事实上,普里拉从未与米尔恰同住,他本人一直在阿布西肯保有自己的住所。",
+      "共谋实施婚姻欺诈罪的最高刑罚为五年监禁、25万美元罚款及三年监督释放。量刑听证定于2027年1月25日举行。",
+      "美国国土安全部(DHS)下属国土安全调查局以及联邦调查局(FBI)纽瓦克外勤办事处对本案进行了调查。USCIS协助了此次调查工作。",
+      "如需向USCIS举报涉嫌的移民福利欺诈或滥用行为,请使用USCIS举报表格(USCIS Tip Form)。",
+      "如需了解有关USCIS及其项目的更多信息,请访问uscis.gov,或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年9月25日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年09月25日",
+      "ニュージャージー州カムデン, ルーマニア人の外国人が, 米国市民権を取得するために米国市民と偽装結婚を結ぶ共謀を行ったことを認めた。米国市民権・移民局(USCIS)が捜査に協力した。ニュージャージー州地区連邦検事局が発表した。",
+      "アトランティックシティ在住のアントニア・ベアトリス・ミルチャ(33歳)は, 連邦裁判所において結婚詐欺共謀罪について有罪を認めた。法廷での供述および事件に関して提出された書類によると, ミルチャはルーマニア国籍であり, 米国における適法永住権を取得するために, 米国市民のビクター・プリラと偽装結婚を結んだ。ミルチャはUSCISに提出した書類において, アトランティックシティでプリラと同居していると虚偽の記載をしたが, 実際にはプリラはミルチャと同居したことはなく, 彼はアブセコンに自身の住居を維持していた。",
+      "結婚詐欺共謀罪の最高刑は, 禁錮5年, 罰金25万ドル, および保護観察3年である。量刑言い渡しは2027年1月25日に予定されている。",
+      "国土安全保障省(DHS)国土安全保障捜査局およびFBIニューアーク支局が本件を捜査した。USCISが捜査に協力した。",
+      "移民給付詐欺または不正利用が疑われる場合は, USCISにご報告ください。その際はUSCIS通報フォームをご利用ください。",
+      "USCISおよびそのプログラムに関する詳細情報については, uscis.govをご覧いただくか, X, Instagram, YouTube, Facebook, LinkedInにて弊局をフォローしてください。",
+      "2026年09月25日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

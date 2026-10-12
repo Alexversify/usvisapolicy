@@ -1,0 +1,184 @@
+{
+  "id": "8ad2429de06d",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-require-electronic-filing-of-forms-strengthening-national-security",
+  "original_title": "USCIS To Require Electronic Filing of Forms: Strengthening National Security",
+  "published": "2026-08-10",
+  "effective_date": "2026-08-11",
+  "importance": "high",
+  "category": "processing",
+  "tags": [
+    "E-Filing",
+    "USCIS",
+    "Interim Final Rule"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "DHS, USCIS 양식 전자 제출 의무화하는 잠정 최종규칙 시행",
+      "summary": "국토안보부(DHS)는 USCIS가 특정 이민 양식에 대해 전자 제출(e-filing)을 의무화할 수 있도록 하는 잠정 최종규칙(IFR)을 발표했습니다. 이 규칙은 2026년 8월 11일부터 시행되며, 2026년 10월 13일까지 공중 의견을 접수합니다.",
+      "points": [
+        "USCIS는 180일 이상 전자 제출이 가능했던 이민 양식에 대해 향후 온라인 제출을 의무화할 수 있습니다.",
+        "USCIS는 특정 양식의 전자 제출을 의무화하기 최소 60일 전에 홈페이지를 통해 공지합니다.",
+        "신청인은 온라인 계정을 통해 양식을 직접 작성하거나, 작성된 PDF 양식과 증빙자료를 업로드하는 방식으로 제출해야 합니다.",
+        "이번 조치로 재무부의 물리적 락박스(lockbox) 서비스 의존이 사라지고 전자 수수료 납부로의 전환이 가속화됩니다.",
+        "전자 제출이 불가능한 신청인은 면제를 신청할 수 있으며, 승인 여부는 USCIS 재량에 따라 중대한 어려움(undue hardship)이 인정되는 경우에만 허용됩니다.",
+        "이 규칙은 2026년 8월 11일부터 이미 시행 중이며, 잠정 최종규칙이므로 2026년 10월 13일까지 제출된 공중 의견을 DHS가 검토할 예정입니다."
+      ],
+      "who": "USCIS에 이민 양식을 제출하는 모든 신청인, 후원자, 고용주 및 그 대리인에게 영향을 미칩니다.",
+      "action": "자신이 제출하는 양식이 전자 제출 의무 대상이 되는지 USCIS 웹사이트 공지를 주기적으로 확인하고, 필요한 경우 온라인 계정을 미리 준비해야 합니다."
+    },
+    "en": {
+      "title": "DHS Issues Interim Final Rule Allowing USCIS to Mandate E-Filing of Forms",
+      "summary": "The Department of Homeland Security has issued an interim final rule letting USCIS require electronic filing for certain immigration forms that have been available for e-filing for at least 180 days. The rule took effect August 11, 2026, and DHS is accepting public comments through October 13, 2026.",
+      "points": [
+        "USCIS may require online submission of any form that has already been e-fileable for at least 180 days.",
+        "USCIS will give at least 60 days' public notice before mandating e-filing of a specific form.",
+        "Filers must use an online account, either completing the form online or uploading a PDF with evidence.",
+        "The change ends reliance on Treasury's physical lockbox service and speeds up electronic fee payments.",
+        "Filers unable to e-file may request a waiver, granted at USCIS's discretion for undue hardship.",
+        "The rule is already in effect as an interim final rule, though it is not yet final and DHS is reviewing comments submitted by October 13, 2026."
+      ],
+      "who": "Anyone who files or plans to file immigration forms with USCIS, including applicants, petitioners, sponsors and employers.",
+      "action": "Watch for USCIS website notices identifying which forms will require e-filing and set up an online USCIS account in advance."
+    },
+    "es": {
+      "title": "DHS emite regla final provisional que permite a USCIS exigir la presentación electrónica",
+      "summary": "El Departamento de Seguridad Nacional (DHS) publicó una regla final provisional que permite a USCIS exigir la presentación electrónica de ciertos formularios migratorios que ya han estado disponibles para e-filing durante al menos 180 días. La regla entró en vigor el 11 de agosto de 2026 y DHS recibirá comentarios públicos hasta el 13 de octubre de 2026.",
+      "points": [
+        "USCIS podrá exigir la presentación en línea de cualquier formulario que haya estado disponible para e-filing durante al menos 180 días.",
+        "USCIS avisará al público con al menos 60 días de anticipación antes de exigir la presentación electrónica de un formulario específico.",
+        "Los solicitantes deberán usar una cuenta en línea, ya sea completando el formulario en línea o subiendo un PDF con la evidencia correspondiente.",
+        "El cambio elimina la dependencia del servicio físico de lockbox del Departamento del Tesoro y acelera el pago electrónico de tarifas.",
+        "Quienes no puedan presentar electrónicamente pueden solicitar una exención, que USCIS otorga a su discreción en casos de dificultad excesiva.",
+        "La regla ya está en vigor como regla final provisional, aunque no es definitiva, y DHS revisará los comentarios enviados antes del 13 de octubre de 2026."
+      ],
+      "who": "Afecta a todas las personas que presenten o planeen presentar formularios migratorios ante USCIS, incluidos solicitantes, peticionarios, patrocinadores y empleadores.",
+      "action": "Revisar periódicamente los avisos del sitio web de USCIS sobre qué formularios requerirán presentación electrónica y crear una cuenta en línea con anticipación."
+    },
+    "zh": {
+      "title": "美国国土安全部发布临时最终规则,允许USCIS强制要求表格电子提交",
+      "summary": "美国国土安全部(DHS)发布了一项临时最终规则(IFR),允许USCIS对已提供电子申请(e-filing)至少180天的移民表格强制要求在线提交。该规则已于2026年8月11日生效,DHS将接受截至2026年10月13日的公众意见。",
+      "points": [
+        "对于已提供电子申请功能至少180天的表格,USCIS可要求今后必须在线提交。",
+        "USCIS将在强制要求某一表格电子提交前至少60天在其网站上发布公告。",
+        "申请人须使用在线账户提交表格,可在线填写表格,或上传已填写表格的PDF及相关证明材料。",
+        "此举将取消对美国财政部实体锁箱(lockbox)服务的依赖,并加快电子费用支付的转型。",
+        "无法电子提交的申请人可申请豁免,是否批准由USCIS自行裁量,仅限存在重大困难的情况。",
+        "该规则作为临时最终规则已生效,但尚非最终定论,DHS将审议截至2026年10月13日提交的公众意见。"
+      ],
+      "who": "影响所有向USCIS提交或计划提交移民表格的人员,包括申请人、呈请人、担保人和雇主。",
+      "action": "请留意USCIS网站上关于哪些表格将强制要求电子提交的公告,并提前注册在线账户。"
+    },
+    "ja": {
+      "title": "DHS、USCISに書式の電子申請義務化を認める暫定最終規則を発表",
+      "summary": "米国国土安全保障省(DHS)は、少なくとも180日間電子申請が可能であった特定の移民関連書式について、USCISが電子提出を義務付けられるようにする暫定最終規則(IFR)を発表しました。この規則は2026年8月11日に発効しており、DHSは2026年10月13日まで一般からの意見を受け付けます。",
+      "points": [
+        "USCISは、少なくとも180日間電子申請が可能であった書式について、今後オンライン提出を義務付けることができます。",
+        "USCISは特定の書式の電子提出を義務化する少なくとも60日前にウェブサイトで公告します。",
+        "申請者はオンラインアカウントを使用し、書式をオンラインで直接入力するか、記入済み書式のPDFと証拠書類をアップロードする必要があります。",
+        "この措置により、米国財務省の物理的なロックボックスサービスへの依存がなくなり、電子手数料支払いへの移行が加速します。",
+        "電子提出ができない申請者は免除を申請でき、USCISの裁量により著しい困難が認められる場合にのみ承認されます。",
+        "この規則は暫定最終規則としてすでに発効していますが、最終決定ではなく、DHSは2026年10月13日までに提出された意見を審査します。"
+      ],
+      "who": "USCISに移民関連書式を提出する、またはその予定があるすべての申請者、申請人、スポンサー、雇用主に影響します。",
+      "action": "どの書式が電子提出必須となるかについてのUSCISウェブサイトの公告を定期的に確認し、事前にオンラインアカウントを準備することが推奨されます。"
+    }
+  },
+  "added": "2026-10-12T17:47Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "08/10/2026"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security (DHS) is introducing an interim final rule (IFR) that allows U.S. Citizenship and Immigration Services (USCIS) to mandate electronic filing, or e-filing, for certain immigration forms."
+      },
+      {
+        "t": "p",
+        "x": "Under this IFR, USCIS may require future filings of any immigration form that has been available for e-filing for at least 180 days to be submitted online. USCIS will notify the public on its website at least 60 days before requiring e-filing of a form. Filers must use an online account to submit an immigration form to USCIS, either by completing the form online or by uploading a PDF of the completed form and related evidence."
+      },
+      {
+        "t": "p",
+        "x": "This initiative will eliminate reliance on the U.S. Department of the Treasury’s physical lockbox services and accelerate the shift to electronic fee payments. The transition should deliver substantial cost savings and greater efficiency for the federal government."
+      },
+      {
+        "t": "p",
+        "x": "By making data easier to receive, store, and access than with paper forms, e-filing enhances fraud detection, streamlines identity management, and improves national security screening through faster data access and expanded analytical capabilities. E-filing also reduces errors, incomplete submissions, and application decision times. The adjudication process becomes more secure, more transparent, and more efficient."
+      },
+      {
+        "t": "p",
+        "x": "Electronic filing is already common for many USCIS forms. This is not a new process for aliens to file electronic benefit requests. Requestors who cannot file electronically may request a waiver. Waivers are granted at USCIS’ discretion for undue hardship."
+      },
+      {
+        "t": "p",
+        "x": "This Interim Final Rule is effective on Aug. 11, 2026, and DHS will consider public comments submitted on or before Oct. 13, 2026. For more information, see the interim final rule."
+      },
+      {
+        "t": "p",
+        "x": "08/10/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:47Z",
+    "from": "page",
+    "chars": 1801
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 8월 10일",
+      "국토안보부(DHS)는 미국 시민권이민국(USCIS)이 특정 이민 서류에 대해 전자 제출, 즉 전자 신청을 의무화할 수 있도록 하는 잠정 최종규칙(IFR)을 시행합니다.",
+      "이 잠정 최종규칙에 따라, USCIS는 최소 180일 동안 전자 신청이 가능했던 모든 이민 서류에 대해 향후 제출 시 온라인으로 제출하도록 요구할 수 있습니다. USCIS는 어떤 서류에 대해 전자 신청을 요구하기 최소 60일 전에 자체 웹사이트를 통해 이를 공중에 공지합니다. 신청인은 온라인 계정을 이용하여 USCIS에 이민 서류를 제출해야 하며, 이는 서류를 온라인으로 직접 작성하거나, 작성이 완료된 서류와 관련 증빙자료를 PDF 파일로 업로드하는 방식으로 이루어집니다.",
+      "이번 조치는 미국 재무부의 물리적 락박스 서비스에 대한 의존을 없애고 전자 수수료 납부로의 전환을 가속화할 것입니다. 이러한 전환은 연방정부에 상당한 비용 절감과 효율성 증대를 가져올 것으로 예상됩니다.",
+      "전자 신청은 종이 서류에 비해 자료의 수신, 저장 및 접근을 용이하게 함으로써 사기 적발을 강화하고, 신원 관리를 간소화하며, 더 신속한 자료 접근과 확대된 분석 역량을 통해 국가안보 심사를 향상시킵니다. 전자 신청은 또한 오류와 불완전한 제출을 줄이고 신청 심사 시간을 단축합니다. 이로써 심사 절차는 더욱 안전하고, 투명하며, 효율적으로 이루어지게 됩니다.",
+      "전자 신청은 이미 많은 USCIS 서류에서 일반적으로 사용되고 있습니다. 이는 외국인이 전자적으로 혜택 신청을 제출하는 것과 관련하여 새로운 절차가 아닙니다. 전자적으로 신청할 수 없는 신청인은 면제를 요청할 수 있습니다. 면제는 과도한 어려움이 있는 경우 USCIS의 재량에 따라 승인됩니다.",
+      "이 잠정 최종규칙은 2026년 8월 11일부터 시행되며, DHS는 2026년 10월 13일 또는 그 이전에 제출된 공중 의견을 검토할 것입니다. 자세한 내용은 잠정 최종규칙을 참조하시기 바랍니다.",
+      "2026년 8월 10일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "10/08/2026",
+      "El Departamento de Seguridad Nacional (DHS) está presentando una regla final provisional (IFR, por sus siglas en inglés) que permite que los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) exijan la presentación electrónica, o e-filing, de ciertos formularios de inmigración.",
+      "Conforme a esta IFR, USCIS podrá exigir que las futuras presentaciones de cualquier formulario de inmigración que haya estado disponible para presentación electrónica durante al menos 180 días se presenten en línea. USCIS notificará al público en su sitio web con al menos 60 días de anticipación antes de exigir la presentación electrónica de un formulario. Los solicitantes deberán usar una cuenta en línea para presentar un formulario de inmigración ante USCIS, ya sea completando el formulario en línea o cargando un PDF del formulario completado junto con la evidencia relacionada.",
+      "Esta iniciativa eliminará la dependencia de los servicios físicos de lockbox del Departamento del Tesoro de los Estados Unidos y acelerará la transición hacia los pagos electrónicos de tarifas. Se espera que la transición genere ahorros sustanciales en costos y una mayor eficiencia para el gobierno federal.",
+      "Al facilitar la recepción, el almacenamiento y el acceso a los datos en comparación con los formularios en papel, la presentación electrónica mejora la detección de fraude, agiliza la gestión de identidad y mejora la verificación de seguridad nacional mediante un acceso más rápido a los datos y mayores capacidades analíticas. La presentación electrónica también reduce los errores, las presentaciones incompletas y los tiempos de decisión de las solicitudes. El proceso de adjudicación se vuelve más seguro, más transparente y más eficiente.",
+      "La presentación electrónica ya es común para muchos formularios de USCIS. Este no es un proceso nuevo para que los extranjeros presenten solicitudes electrónicas de beneficios. Los solicitantes que no puedan presentar electrónicamente podrán solicitar una exención. Las exenciones se otorgan a discreción de USCIS por motivos de dificultad excesiva.",
+      "Esta Regla Final Provisional entra en vigor el 11 de agosto de 2026, y el DHS considerará los comentarios públicos enviados a más tardar el 13 de octubre de 2026. Para obtener más información, consulte la regla final provisional.",
+      "10/08/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年8月10日",
+      "美国国土安全部(DHS)正在发布一项临时最终规则(IFR),允许美国公民及移民服务局(USCIS)要求某些移民表格采用电子方式提交,即电子备案。",
+      "根据本临时最终规则,USCIS可要求今后提交任何已开通电子备案至少180天的移民表格时,须通过在线方式提交。USCIS将在其网站上提前至少60天通知公众某一表格将被要求电子备案。申请人必须使用在线账户向USCIS提交移民表格,可以选择在线填写表格,或上传已填写完成的表格及相关证据材料的PDF文件。",
+      "本举措将取消对美国财政部实体信箱服务的依赖,并加快向电子费用支付方式转变的进程。这一转变预计将为联邦政府带来可观的成本节约和更高的效率。",
+      "与纸质表格相比,电子备案使数据的接收、存储和获取更为便捷,从而增强欺诈侦测能力,简化身份管理流程,并通过更快速的数据获取和更强的分析能力改善国家安全审查工作。电子备案还可减少错误和不完整申请的发生,并缩短申请审理时间。整个裁决流程将变得更加安全、透明和高效。",
+      "电子备案目前已广泛适用于USCIS的多种表格。对外国人而言,以电子方式提交福利申请并非新的流程。无法以电子方式提交申请的申请人可申请豁免。豁免是否批准由USCIS自行裁量,适用于存在过度困难的情形。",
+      "本临时最终规则自2026年8月11日起生效,美国国土安全部将接受公众在2026年10月13日或之前提交的意见。欲了解更多信息,请参阅该临时最终规则全文。",
+      "2026年8月10日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年8月10日",
+      "国土安全保障省(DHS)は、米国市民権・移民局(USCIS)が特定の移民関連書式について電子申請、すなわちEファイリングを義務付けることを可能にする暫定最終規則(IFR)を導入する。",
+      "この暫定最終規則の下で、USCISは、少なくとも180日間にわたり電子申請が可能であった移民関連書式について、今後の申請をオンラインで提出することを義務付けることができる。USCISは、ある書式について電子申請を義務付ける少なくとも60日前に、そのウェブサイト上で公衆に通知する。申請者は、オンラインアカウントを使用して、移民関連書式をオンラインで記入するか、または記入済みの書式及び関連証拠のPDFをアップロードすることにより、USCISに提出しなければならない。",
+      "この取組みにより、米国財務省の物理的なロックボックスサービスへの依存が解消され、電子手数料支払いへの移行が加速される。この移行は、連邦政府に対して大幅な費用削減及び効率性の向上をもたらすはずである。",
+      "紙の書式に比べ、データの受領、保管及びアクセスを容易にすることにより、電子申請は不正検出を強化し、身元管理を効率化し、より迅速なデータアクセス及び拡大された分析能力を通じて国家安全保障審査を向上させる。電子申請はまた、誤り、不完全な提出及び申請の決定時間を削減する。審査手続は、より安全で、より透明性が高く、より効率的なものとなる。",
+      "電子申請は、既に多くのUSCIS書式において一般的である。これは、外国人が電子的に利益請求を申請するための新たな手続ではない。電子申請ができない申請者は、免除を申請することができる。免除は、著しい困難がある場合に、USCISの裁量により認められる。",
+      "この暫定最終規則は2026年8月11日に発効し、DHSは2026年10月13日以前に提出された公衆からの意見を検討する。詳細については、当該暫定最終規則を参照されたい。",
+      "2026年8月10日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

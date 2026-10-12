@@ -86,5 +86,151 @@
   "topics": [
     "travel"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of State"
+      },
+      {
+        "t": "li",
+        "x": "[Delegation of Authority No. DA630]"
+      },
+      {
+        "t": "p",
+        "x": "By virtue of the authority vested in the Assistant Secretary for Consular Affairs by the laws of the United States, under the Visa Bond Program, in 22 CFR 41.11(c)(3), I hereby delegate to the Principal Deputy Assistant Secretary for Consular Affairs and the Deputy Assistant Secretary for Visa Services, to the extent authorized by law, the authority to waive the visa bond requirement for an alien, country, or category of aliens, by determining that such a waiver is not contrary to the national interest of the United States. This delegation of authority is intended to be implemented to the extent authorized by law, including that the authority must be exercised by an Officer of the United States."
+      },
+      {
+        "t": "p",
+        "x": "The Assistant Secretary for Consular Affairs may exercise any function or authority delegated by this delegation."
+      },
+      {
+        "t": "p",
+        "x": "This Delegation of Authority will be published in the Federal Register ."
+      },
+      {
+        "t": "p",
+        "x": "Morvared Namdarkhan,"
+      },
+      {
+        "t": "p",
+        "x": "Assistant Secretary, Bureau of Consular Affairs, U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-18958 Filed 9-15-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE P"
+      }
+    ],
+    "fetched": "2026-10-12T18:14Z",
+    "from": "federalregister.gov",
+    "chars": 1587
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발급하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 제목 번호 및 각 부(Part)의 번호",
+      "기관 문서번호(docket number) 또는 기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국무부(Department of State)",
+      "[권한위임 번호 DA630]",
+      "미합중국 법률에 의하여 영사업무 담당 차관보(Assistant Secretary for Consular Affairs)에게 부여된 권한에 따라, 22 CFR 41.11(c)(3)에 규정된 비자보증금 프로그램(Visa Bond Program)에 의거하여, 본인은 법률이 허용하는 범위 내에서 영사업무 담당 수석부차관보(Principal Deputy Assistant Secretary for Consular Affairs) 및 비자업무 담당 부차관보(Deputy Assistant Secretary for Visa Services)에게, 그러한 면제가 미합중국의 국가이익에 반하지 아니한다고 판단함으로써 외국인, 국가 또는 외국인의 범주에 대하여 비자보증금 요건을 면제할 수 있는 권한을 위임합니다. 이 권한위임은 그 권한을 미합중국의 공무원(Officer of the United States)이 행사하여야 한다는 요건을 포함하여, 법률이 허용하는 범위 내에서 시행되는 것을 목적으로 합니다.",
+      "영사업무 담당 차관보는 본 권한위임에 의하여 위임된 모든 기능 또는 권한을 행사할 수 있습니다.",
+      "본 권한위임은 연방관보(Federal Register)에 게재될 예정입니다.",
+      "모르바레드 남다르칸(Morvared Namdarkhan),",
+      "영사업무국(Bureau of Consular Affairs) 차관보, 미합중국 국무부.",
+      "[FR Doc. 2026-18958 Filed 9-15-26; 8:45 am]",
+      "BILLING CODE P"
+    ],
+    "es": [
+      "Encabezados del Documento",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "el organismo o los organismos que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente del organismo / número de archivo interno del organismo",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Estado",
+      "[Delegación de Autoridad No. DA630]",
+      "En virtud de la autoridad conferida al Secretario Adjunto de Asuntos Consulares por las leyes de los Estados Unidos, conforme al Programa de Fianza de Visa, en 22 CFR 41.11(c)(3), por la presente delego en el Secretario Adjunto Principal de Asuntos Consulares y en el Subsecretario Adjunto de Servicios de Visas, en la medida en que lo autorice la ley, la autoridad para exonerar el requisito de fianza de visa para un extranjero, país o categoría de extranjeros, al determinar que dicha exoneración no es contraria al interés nacional de los Estados Unidos. Se pretende que esta delegación de autoridad se implemente en la medida en que lo autorice la ley, incluyendo que la autoridad debe ser ejercida por un Funcionario de los Estados Unidos.",
+      "El Secretario Adjunto de Asuntos Consulares podrá ejercer cualquier función o autoridad delegada mediante esta delegación.",
+      "Esta Delegación de Autoridad se publicará en el Registro Federal (Federal Register).",
+      "Morvared Namdarkhan,",
+      "Secretaria Adjunta, Oficina de Asuntos Consulares, Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026-18958 Presentado el 9-15-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署该文件的一个或多个机构",
+      "该文件所修订、拟议修订或与之直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "用于识别《联邦监管与放松监管行动统一议程》中所列每项监管行动的RIN编号",
+      "详情请参阅《文件起草手册》。",
+      "美国国务院",
+      "[第DA630号授权令]",
+      "根据美国法律赋予领事事务助理国务卿的权力,依据22 CFR 41.11(c)(3)项下的签证保证金计划,本人特此将在法律授权范围内,通过认定对某一外国人、国家或某类外国人豁免签证保证金要求不违背美国国家利益,从而豁免该要求的权力,授权给领事事务首席副助理国务卿和签证事务副助理国务卿。本授权令旨在依法律授权范围内实施,包括该权力必须由美利坚合众国官员行使。",
+      "领事事务助理国务卿可行使本授权令所授予的任何职能或权力。",
+      "本授权令将在《联邦公报》上公布。",
+      "莫尔瓦雷德·纳姆达尔汗,",
+      "美国国务院领事事务局助理国务卿。",
+      "[联邦公报文件编号2026-18958,存档日期:2026年9月15日上午8:45]",
+      "账单代码 P"
+    ],
+    "ja": [
+      "文書見出し",
+      "文書見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発行し署名した当局又は当局群",
+      "文書が改正し、改正を提案し、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "当局の案件番号又は当局内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに記載された各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブック(Document Drafting Handbook)を参照のこと。",
+      "国務省",
+      "[権限委任第DA630号]",
+      "22 CFR 41.11(c)(3)に基づくビザ保証金プログラムの下で、米国の法律により領事局担当国務次官補に付与された権限により、私はここに、法律により許可される範囲において、外国人、国又は外国人の区分についてビザ保証金要件を免除することが米国の国益に反しないと判断することにより当該要件を免除する権限を、領事局担当主席国務次官補代理及び領事業務担当国務次官補代理に委任する。この権限委任は、権限が合衆国の官吏によって行使されなければならないことを含め、法律により認められる範囲において実施されることを意図するものである。",
+      "領事局担当国務次官補は、この権限委任により委任された機能又は権限を行使することができる。",
+      "この権限委任は連邦官報(Federal Register)に掲載される。",
+      "モーヴァレッド・ナムダルカーン",
+      "領事局担当国務次官補、米国国務省",
+      "[FR Doc. 2026-18958 Filed 9-15-26; 8:45 am]",
+      "BILLING CODE P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
