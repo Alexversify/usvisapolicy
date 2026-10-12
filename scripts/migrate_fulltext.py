@@ -55,6 +55,14 @@ MAIN = [
         '                res["error"] = "; ".join(p for p in res["error"].split("; ") if "page=" not in p and "/page/" not in p) or None\n',
     ),
     (
+        "        for it in queue[:cap]:\n",
+        '        new_started = __import__("time").time()\n'
+        "        for it in queue[:cap]:\n"
+        '            if os.environ.get("NEW_BUDGET_MIN") and __import__("time").time() - new_started > float(os.environ["NEW_BUDGET_MIN"]) * 60:\n'
+        '                print("  - 시간 한도에 닿아 나머지 새 글은 다음 실행에서 처리")\n'
+        "                break\n",
+    ),
+    (
         '            store.save_article(it["id"], article)\n            sources.archive_save',
         "            # 공식 원문 전문을 보관하고 4개 언어로 전문 번역합니다.\n"
         '            fulltext.ensure(article, browser, cfg, item=it)\n'
