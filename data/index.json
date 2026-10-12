@@ -1015,7 +1015,7 @@
     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/launch-of-online-visa-fraud-tip-portal/",
     "published": "2026-09-23",
     "effective_date": null,
-    "importance": "medium",
+    "importance": "low",
     "category": "enforcement",
     "agency": "state",
     "topics": [
@@ -1025,9 +1025,9 @@
     "tags": [
       "Visa Fraud",
       "Consular Affairs",
-      "Reporting Portal"
+      "Enforcement"
     ],
-    "added": "2026-10-12T21:35Z"
+    "added": "2026-10-12T22:21Z"
   },
   {
     "id": "ca9ec3434946",
@@ -3053,7 +3053,7 @@
     "effective_date": null,
     "importance": "low",
     "category": "enforcement",
-    "agency": "doj",
+    "agency": "uscis",
     "topics": [
       "enforcement",
       "family"
@@ -3062,9 +3062,10 @@
       "Marriage Fraud",
       "Visa Fraud",
       "Green Card",
-      "I-130"
+      "I-130",
+      "I-751"
     ],
-    "added": "2026-10-12T21:37Z"
+    "added": "2026-10-12T22:23Z"
   },
   {
     "id": "f7336d3ce29d",
@@ -3184,6 +3185,28 @@
     "added": "2026-10-12T21:20Z"
   },
   {
+    "id": "0f8176ffb8a9",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration",
+    "published": "2026-06-29",
+    "effective_date": "2026-06-29",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "other",
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Alien Registration",
+      "DHS",
+      "Form I-94",
+      "8 CFR 264.1"
+    ],
+    "added": "2026-10-12T22:25Z"
+  },
+  {
     "id": "689a2b59594c",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/man-sentenced-to-one-year-home-detention-for-visa-fraud",
@@ -3215,14 +3238,14 @@
     "agency": "uscis",
     "topics": [
       "employment",
-      "other"
+      "travel"
     ],
     "tags": [
       "R-1",
       "Religious Workers",
       "Policy Manual"
     ],
-    "added": "2026-10-12T21:41Z"
+    "added": "2026-10-12T22:39Z"
   },
   {
     "id": "214901200c3b",
@@ -3234,18 +3257,16 @@
     "category": "notice",
     "agency": "uscis",
     "topics": [
-      "other",
+      "enforcement",
       "family",
-      "humanitarian"
+      "other"
     ],
     "tags": [
       "Attorney Discipline",
-      "Address Change",
-      "VAWA",
-      "U Visa",
-      "T Visa"
+      "USCIS Notice",
+      "Change of Address"
     ],
-    "added": "2026-10-12T21:40Z"
+    "added": "2026-10-12T22:38Z"
   },
   {
     "id": "ba05052b09f5",
@@ -3261,9 +3282,9 @@
     ],
     "tags": [
       "Delegation of Authority",
-      "Counterterrorism"
+      "Terrorist Designation"
     ],
-    "added": "2026-10-12T21:42Z"
+    "added": "2026-10-12T22:40Z"
   },
   {
     "id": "83150c1eb0a6",
@@ -3281,11 +3302,11 @@
     "tags": [
       "N-400",
       "N-336",
-      "Fees",
       "Naturalization",
+      "Fees",
       "Fee Waiver"
     ],
-    "added": "2026-10-12T21:43Z"
+    "added": "2026-10-12T22:40Z"
   },
   {
     "id": "83cf844dce70",
@@ -3294,7 +3315,7 @@
     "published": "2026-06-22",
     "effective_date": "2026-06-22",
     "importance": "low",
-    "category": "notice",
+    "category": "policy",
     "agency": "dhs",
     "topics": [
       "other"
@@ -3302,9 +3323,9 @@
     "tags": [
       "Title VI",
       "Civil Rights",
-      "DHS"
+      "DHS Regulations"
     ],
-    "added": "2026-10-12T21:52Z"
+    "added": "2026-10-12T22:50Z"
   },
   {
     "id": "f79647f398d8",
