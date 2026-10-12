@@ -3326,5 +3326,128 @@
       "DHS Regulations"
     ],
     "added": "2026-10-12T22:50Z"
+  },
+  {
+    "id": "f79647f398d8",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/06/18/2026-12435/national-homeownership-month-2026",
+    "published": "2026-06-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Proclamation",
+      "Homeownership"
+    ],
+    "added": "2026-10-12T21:56Z"
+  },
+  {
+    "id": "2b0c32f48c1a",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/06/18/2026-12436/flag-day-and-national-flag-week-2026",
+    "published": "2026-06-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Flag Day",
+      "Proclamation"
+    ],
+    "added": "2026-10-12T21:55Z"
+  },
+  {
+    "id": "a7877cde210c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/court-order-on-hold-policies",
+    "published": "2026-06-12",
+    "effective_date": "2026-06-11",
+    "importance": "high",
+    "category": "policy",
+    "agency": "courts",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Court Order",
+      "Travel Ban",
+      "Policy Memoranda",
+      "Rhode Island"
+    ],
+    "added": "2026-10-12T22:00Z"
+  },
+  {
+    "id": "39429657dd16",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-us-citizenship-from-17-naturalized-sex-offenders-fraudsters-drug",
+    "published": "2026-06-12",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement",
+      "h1b"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Citizenship",
+      "Enforcement",
+      "Naturalization Fraud"
+    ],
+    "added": "2026-10-12T21:58Z"
+  },
+  {
+    "id": "eb669ef9341f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11692/eoir-fees",
+    "published": "2026-06-11",
+    "effective_date": "2026-06-11",
+    "importance": "high",
+    "category": "fees",
+    "agency": "doj",
+    "topics": [
+      "fees",
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "EOIR",
+      "Fees",
+      "Immigration Court",
+      "OBBBA",
+      "BIA Appeals"
+    ],
+    "added": "2026-10-12T22:01Z"
+  },
+  {
+    "id": "41cb54508d08",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
+    "published": "2026-06-09",
+    "effective_date": "2026-07-01",
+    "importance": "medium",
+    "category": "fees",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "fees"
+    ],
+    "tags": [
+      "B1/B2",
+      "Visa Fees",
+      "Expedited Appointment",
+      "Department of State"
+    ],
+    "added": "2026-10-12T22:04Z"
   }
 ]
