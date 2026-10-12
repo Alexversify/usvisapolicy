@@ -36,6 +36,17 @@ LANG_NAMES = {
     "ja": "Japanese",
 }
 
+# ---------------------------------------------------------------- 실행 시간 한도
+# 한 실행이 워크플로 제한 시간을 넘겨 통째로 취소되지 않도록, 한도가 지나면 새 번역 요청을 멈추고
+# 그때까지 한 것만 저장합니다. 남은 문단은 다음 실행이 이어서 합니다.
+_START = time.time()
+
+
+def past_deadline(cfg: dict[str, Any] | None = None) -> bool:
+    m = os.environ.get("RUN_DEADLINE_MIN") or ((cfg or {}).get("fulltext") or {}).get("deadline_min") or 18
+    return time.time() - _START > float(m) * 60
+
+
 # ---------------------------------------------------------------- 원문을 문단으로
 
 SKIP_TAGS = {"script", "style", "noscript", "nav", "header", "footer", "aside", "form", "button", "svg", "select", "iframe", "template"}
@@ -378,7 +389,7 @@ def _chunks(texts: list[str], size: int) -> list[tuple[int, int]]:
     return spans
 
 
-def translate_full(a: dict[str, Any], langs: list[str], model: str, fcfg: dict[str, Any]) -> bool:
+def translate_full(a: dict[str, Any], langs: list[str], model: str, fcfg: dict[str, Any], cfg: dict[str, Any] | None = None) -> bool:
     blocks = (a.get("original") or {}).get("blocks") or []
     if not blocks:
         return False
@@ -401,6 +412,8 @@ def translate_full(a: dict[str, Any], langs: list[str], model: str, fcfg: dict[s
 
     def run(job: tuple[str, int, int]) -> tuple[str, int, list[str | None]]:
         lang, s, e = job
+        if past_deadline(cfg):
+            return lang, s, [None] * (e - s)
         return lang, s, _translate(texts[s:e], lang, model)
 
     with ThreadPoolExecutor(max_workers=int(fcfg.get("workers", 6))) as ex:
@@ -460,7 +473,7 @@ def ensure(a: dict[str, Any], browser: Any, cfg: dict[str, Any], item: dict[str,
             changed = True
         if translate.enabled() and (a.get("original") or {}).get("blocks"):
             langs = [l for l in cfg["languages"] if l in LANG_NAMES]
-            if translate_full(a, langs, cfg["model"], fcfg):
+            if not past_deadline(cfg) and translate_full(a, langs, cfg["model"], fcfg, cfg):
                 stat = []
                 for l in langs:
                     arr = a["full"].get(l, [])
@@ -483,7 +496,7 @@ def backfill(index: list[dict[str, Any]], browser: Any, cfg: dict[str, Any]) -> 
     langs = cfg["languages"]
     done = 0
     for row in sorted(index, key=lambda r: r.get("published") or "", reverse=True):
-        if done >= limit or time.time() - start > budget:
+        if done >= limit or time.time() - start > budget or past_deadline(cfg):
             break
         a = store.load_article(row["id"])
         if not a or not needs_work(a, langs, fcfg):
@@ -492,7 +505,11 @@ def backfill(index: list[dict[str, Any]], browser: Any, cfg: dict[str, Any]) -> 
         if ensure(a, browser, cfg):
             store.save_article(a["id"], a)
         done += 1
-    left = sum(1 for r in index if (lambda x: x and needs_work(x, langs, fcfg))(store.load_article(r["id"])))
+    left = 0
+    for r in index:
+        x = store.load_article(r["id"])
+        if x and needs_work(x, langs, fcfg):
+            left += 1
     print(f"  - 전문 처리 {done}건, 남은 기사 {left}건")
 
 
