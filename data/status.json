@@ -1,9 +1,9 @@
 {
-  "checked": "2026-10-12T21:44Z",
+  "checked": "2026-10-12T22:52Z",
   "sources": {
     "uscis_news": {
       "ok": true,
-      "items": 17,
+      "items": 320,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -19,14 +19,14 @@
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 38,
+      "fail_streak": 39,
       "alert": false
     },
     "visa_bulletin": {
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 38,
+      "fail_streak": 39,
       "alert": false
     },
     "uscis_vb_chart": {
@@ -37,15 +37,15 @@
       "alert": true
     },
     "state_press": {
-      "ok": false,
-      "items": 0,
-      "error": "https://www.state.gov/press-releases/: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.state.gov/press-releases/\", waiting until \"domcontentloaded\"\n",
-      "fail_streak": 1,
+      "ok": true,
+      "items": 7,
+      "error": null,
+      "fail_streak": 0,
       "alert": true
     },
     "federal_register": {
       "ok": true,
-      "items": 20,
+      "items": 101,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -66,21 +66,19 @@
     },
     "presidential": {
       "ok": true,
-      "items": 5,
+      "items": 22,
       "error": null,
       "fail_streak": 0,
       "alert": true
     }
   },
   "translate": {
-    "done": 14,
-    "failed": 1,
+    "done": 8,
+    "failed": 0,
     "key": true,
     "fail_streak": 0
   },
   "retries": {
-    "68dbb2e68b49": 2,
-    "9855dd559209": 1,
-    "eb928b20229f": 1
+    "9855dd559209": 2
   }
 }

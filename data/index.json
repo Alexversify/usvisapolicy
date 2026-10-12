@@ -1010,6 +1010,26 @@
     ]
   },
   {
+    "id": "68dbb2e68b49",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/launch-of-online-visa-fraud-tip-portal/",
+    "published": "2026-09-23",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Visa Fraud",
+      "Consular Affairs",
+      "Enforcement"
+    ],
+    "added": "2026-10-12T22:21Z"
+  },
+  {
     "id": "ca9ec3434946",
     "source": "uscis_policy_manual",
     "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260923-CriminalInadmissibility.pdf",
@@ -3005,6 +3025,28 @@
     "added": "2026-10-12T21:00Z"
   },
   {
+    "id": "eb928b20229f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/defendants-sentenced-in-visa-fraud-and-conspiracy-case",
+    "published": "2026-07-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Visa Fraud",
+      "Green Card",
+      "I-130",
+      "I-751"
+    ],
+    "added": "2026-10-12T22:23Z"
+  },
+  {
     "id": "f7336d3ce29d",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13349/foreign-terrorist-organization-designation-of-chone-killers",
@@ -3122,6 +3164,28 @@
     "added": "2026-10-12T21:20Z"
   },
   {
+    "id": "0f8176ffb8a9",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13057/alien-registration-form-and-evidence-of-registration",
+    "published": "2026-06-29",
+    "effective_date": "2026-06-29",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "other",
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Alien Registration",
+      "DHS",
+      "Form I-94",
+      "8 CFR 264.1"
+    ],
+    "added": "2026-10-12T22:25Z"
+  },
+  {
     "id": "689a2b59594c",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/man-sentenced-to-one-year-home-detention-for-visa-fraud",
@@ -3141,5 +3205,105 @@
       "CNMI"
     ],
     "added": "2026-10-12T21:23Z"
+  },
+  {
+    "id": "5bed811cbb2f",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260626-ReligiousWorkersPeriodOfStay.pdf",
+    "published": "2026-06-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "travel"
+    ],
+    "tags": [
+      "R-1",
+      "Religious Workers",
+      "Policy Manual"
+    ],
+    "added": "2026-10-12T22:39Z"
+  },
+  {
+    "id": "214901200c3b",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano",
+    "published": "2026-06-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family",
+      "other"
+    ],
+    "tags": [
+      "Attorney Discipline",
+      "USCIS Notice",
+      "Change of Address"
+    ],
+    "added": "2026-10-12T22:38Z"
+  },
+  {
+    "id": "ba05052b09f5",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12756/delegation-of-authority-to-the-coordinator-for-counterterrorism-to-review-and-deny-petitions-for",
+    "published": "2026-06-25",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Delegation of Authority",
+      "Terrorist Designation"
+    ],
+    "added": "2026-10-12T22:40Z"
+  },
+  {
+    "id": "83150c1eb0a6",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments",
+    "published": "2026-06-23",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "citizenship",
+      "fees"
+    ],
+    "tags": [
+      "N-400",
+      "N-336",
+      "Naturalization",
+      "Fees",
+      "Fee Waiver"
+    ],
+    "added": "2026-10-12T22:40Z"
+  },
+  {
+    "id": "83cf844dce70",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12399/rescinding-portions-of-dhs-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and",
+    "published": "2026-06-22",
+    "effective_date": "2026-06-22",
+    "importance": "low",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Title VI",
+      "Civil Rights",
+      "DHS Regulations"
+    ],
+    "added": "2026-10-12T22:50Z"
   }
 ]
