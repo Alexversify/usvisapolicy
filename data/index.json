@@ -2062,6 +2062,29 @@
     ]
   },
   {
+    "id": "7cc2aa296f66",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16605/unified-agenda-of-federal-regulatory-and-deregulatory-actions",
+    "published": "2026-08-14",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "h1b",
+      "eb5",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "EB-5",
+      "Unified Agenda",
+      "Entry-Exit Fee",
+      "L-1"
+    ],
+    "added": "2026-10-12T17:30Z"
+  },
+  {
     "id": "79e012cd0954",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16432/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal",
@@ -2142,6 +2165,72 @@
     "added": "2026-10-12T16:38Z"
   },
   {
+    "id": "dbfa66711b54",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16404/ending-birth-tourism",
+    "published": "2026-08-11",
+    "effective_date": "2026-08-06",
+    "importance": "high",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "travel",
+      "citizenship",
+      "family"
+    ],
+    "tags": [
+      "Birth Tourism",
+      "Executive Order",
+      "Visa",
+      "Travel Ban",
+      "Citizenship"
+    ],
+    "added": "2026-10-12T17:45Z"
+  },
+  {
+    "id": "ed8e2abd4c88",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+    "published": "2026-08-11",
+    "effective_date": "2026-08-11",
+    "importance": "high",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "fees",
+      "other"
+    ],
+    "tags": [
+      "e-Filing",
+      "USCIS",
+      "Interim Final Rule",
+      "Fees"
+    ],
+    "added": "2026-10-12T17:35Z"
+  },
+  {
+    "id": "fda7262ba988",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16319/regulatory-changes-required-by-the-energy-security-and-lightering-independence-act-of-2022",
+    "published": "2026-08-11",
+    "effective_date": "2026-08-11",
+    "importance": "low",
+    "category": "policy",
+    "agency": "cbp",
+    "topics": [
+      "employment",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Crewman Visa",
+      "Lightering",
+      "C-1 Visa",
+      "D Visa"
+    ],
+    "added": "2026-10-12T17:32Z"
+  },
+  {
     "id": "5c7e27ecb2e2",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-files-record-25-denaturalization-cases-against-naturalized-criminals-including",
@@ -2183,5 +2272,107 @@
       "USCIS"
     ],
     "added": "2026-10-12T16:44Z"
+  },
+  {
+    "id": "692ad17e1a4d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
+    "published": "2026-08-10",
+    "effective_date": "2026-09-09",
+    "importance": "high",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "h1b",
+      "employment",
+      "fees"
+    ],
+    "tags": [
+      "H-1B",
+      "L-1",
+      "Fees",
+      "9-11 Biometric Fee"
+    ],
+    "added": "2026-10-12T17:50Z"
+  },
+  {
+    "id": "0e7da1548f26",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
+    "published": "2026-08-10",
+    "effective_date": "2026-08-06",
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Immigration Bonds",
+      "Technical Amendment",
+      "8 CFR 103"
+    ],
+    "added": "2026-10-12T17:48Z"
+  },
+  {
+    "id": "8ad2429de06d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-require-electronic-filing-of-forms-strengthening-national-security",
+    "published": "2026-08-10",
+    "effective_date": "2026-08-11",
+    "importance": "high",
+    "category": "processing",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "E-Filing",
+      "USCIS",
+      "Interim Final Rule"
+    ],
+    "added": "2026-10-12T17:47Z"
+  },
+  {
+    "id": "2f4ae285a1b9",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260806-ChildrenBornToForeignDiplomaticOfficer.pdf",
+    "published": "2026-08-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "family"
+    ],
+    "tags": [
+      "Policy Manual",
+      "Diplomatic Officers",
+      "Citizenship at Birth"
+    ],
+    "added": "2026-10-12T17:57Z"
+  },
+  {
+    "id": "ed7b545c626e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-reduce-frivolous-immigration-benefits-requests-by-reinforcing-evidence-standards",
+    "published": "2026-08-05",
+    "effective_date": "2026-08-05",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other",
+      "employment"
+    ],
+    "tags": [
+      "RFE",
+      "NOID",
+      "Evidence Standards",
+      "Policy Manual",
+      "Placeholder Filings"
+    ],
+    "added": "2026-10-12T17:58Z"
   }
 ]

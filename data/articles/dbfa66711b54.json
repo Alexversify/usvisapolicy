@@ -1,0 +1,356 @@
+{
+  "id": "dbfa66711b54",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16404/ending-birth-tourism",
+  "original_title": "Ending Birth Tourism",
+  "published": "2026-08-11",
+  "effective_date": "2026-08-06",
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Birth Tourism",
+    "Executive Order",
+    "Visa",
+    "Travel Ban",
+    "Citizenship"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "트럼프 대통령, '출산 관광 근절' 행정명령 서명.. 국무부·국토안보부에 비자 제한 권한 위임",
+      "summary": "2026년 8월 6일 서명되고 8월 11일 연방관보에 게재된 행정명령 14419호는 미국에서 출산할 목적으로 비이민 비자를 이용해 입국하거나 이를 알선하는 행위를 '출산 관광'으로 규정하고, 국무부 장관과 국토안보부 장관에게 이를 저지할 권한을 위임합니다. 해당 행정명령에 따라 비자 발급 거부, 비자 취소 및 영구 입국 금지, 입국 거부 또는 추방 등의 조치가 가능해집니다.",
+      "points": [
+        "행정명령 14419호는 이민법(INA) 215(a)조에 따른 대통령 권한을 국무부 장관과 국토안보부 장관에게 위임합니다.",
+        "'출산 관광'은 미국에서 출산할 목적으로 비이민 비자를 이용해 입국하거나, 타인의 그러한 입국을 알선하는 행위로 정의됩니다.",
+        "국무부와 국토안보부는 출산 관광 목적의 비자 발급을 거부하거나, 이미 발급된 비자를 취소하고 영구 입국 금지 조치를 취할 수 있습니다.",
+        "출산 관광을 알선, 조력한 개인이나 단체에 대해서도 별도 조치가 가능합니다.",
+        "인도적 사유나 국익상 필요하다고 판단되는 경우 국무부 장관 또는 국토안보부 장관이 예외를 인정할 수 있습니다.",
+        "구체적인 시행 규칙과 운영 지침은 아직 국무부와 국토안보부가 마련해야 하는 단계로, 세부 적용 기준은 명시되어 있지 않습니다."
+      ],
+      "who": "미국에서 출산할 목적으로 비이민 비자(관광, 학생, 교류방문 등)를 이용해 입국하려는 외국인과 이를 알선하는 개인·업체가 영향을 받습니다.",
+      "action": "임신 중 미국 방문을 계획 중이거나 관련 비자를 신청할 예정인 경우, 입국 목적을 정확히 소명할 수 있어야 하며 향후 발표될 국무부와 국토안보부의 세부 지침을 확인해야 합니다."
+    },
+    "en": {
+      "title": "Executive Order Targets 'Birth Tourism,' Delegates Visa Restriction Power to State and DHS",
+      "summary": "Executive Order 14419, signed on August 6, 2026 and published in the Federal Register on August 11, 2026, defines 'birth tourism' as entering the United States on a nonimmigrant visa for the purpose of giving birth, or facilitating such entry. The order delegates authority under INA section 215(a) to the Secretaries of State and Homeland Security to deny visas, revoke and permanently bar entry, or remove individuals found to have engaged in this conduct.",
+      "points": [
+        "The order delegates presidential authority under INA section 215(a), 8 U.S.C. 1185(a), to the Secretary of State and the Secretary of Homeland Security.",
+        "'Birth tourism' is defined as entering the US on a nonimmigrant visa to give birth, or helping another foreign national do so.",
+        "Permitted actions include denying visas or entry, revoking visas and permanently barring entry, and removal of those who engaged or plan to engage in birth tourism.",
+        "Action may also be taken against entities or individuals who facilitate birth tourism, inside or outside the US.",
+        "The Secretary of State or DHS Secretary may grant exemptions on humanitarian grounds or when entry is determined to be in the national interest.",
+        "The order directs State and DHS to issue further rules, policies, or operational guidance to implement it; specific procedures are not yet specified."
+      ],
+      "who": "Foreign nationals seeking to enter the US on nonimmigrant visas (such as tourist, student, or exchange visas) for the purpose of giving birth, and individuals or businesses facilitating such travel.",
+      "action": "Those planning travel to the US while pregnant, or applying for related visas, should be prepared to clearly state their travel purpose and should monitor forthcoming guidance from the Department of State and DHS."
+    },
+    "es": {
+      "title": "Orden ejecutiva busca poner fin al 'turismo de nacimiento' y delega poder a Estado y DHS para restringir visas",
+      "summary": "La Orden Ejecutiva 14419, firmada el 6 de agosto de 2026 y publicada en el Federal Register el 11 de agosto de 2026, define el 'turismo de nacimiento' como ingresar a Estados Unidos con una visa de no inmigrante con el propósito de dar a luz, o facilitar dicho ingreso. La orden delega en los Secretarios de Estado y de Seguridad Nacional la autoridad para negar visas, revocarlas con prohibición permanente de ingreso, o expulsar a quienes hayan participado en esta práctica.",
+      "points": [
+        "La orden delega la autoridad presidencial bajo la sección 215(a) de la INA (8 U.S.C. 1185(a)) a los Secretarios de Estado y de Seguridad Nacional (DHS).",
+        "El 'turismo de nacimiento' se define como ingresar a EE.UU. con visa de no inmigrante para dar a luz, o ayudar a otra persona extranjera a hacerlo.",
+        "Las acciones permitidas incluyen negar visas o el ingreso, revocar visas con prohibición permanente de entrada, y la expulsión de quienes hayan participado o planeen participar.",
+        "También se pueden tomar medidas contra entidades o personas que faciliten el turismo de nacimiento, dentro o fuera de Estados Unidos.",
+        "El Secretario de Estado o el Secretario de DHS pueden otorgar excepciones por motivos humanitarios o cuando el ingreso se considere de interés nacional.",
+        "La orden instruye a los departamentos de Estado y DHS a emitir normas y guías operativas adicionales para implementarla; los procedimientos específicos aún no están detallados."
+      ],
+      "who": "Extranjeros que buscan ingresar a Estados Unidos con visas de no inmigrante (turista, estudiante, intercambio, entre otras) con el propósito de dar a luz, así como personas o empresas que faciliten dichos viajes.",
+      "action": "Quienes planeen viajar a Estados Unidos estando embarazadas, o que vayan a solicitar visas relacionadas, deben estar preparados para explicar claramente el propósito de su viaje y revisar las guías que publiquen próximamente el Departamento de Estado y el DHS."
+    },
+    "zh": {
+      "title": "白宫签署行政命令打击'生育旅游' 授权国务院与国土安全部限制签证",
+      "summary": "第14419号行政命令于2026年8月6日签署,8月11日刊登于联邦公报。该命令将'生育旅游'定义为以分娩为目的持非移民签证入境美国,或协助他人如此入境的行为,并授权国务卿与国土安全部部长据此拒发或撤销签证、永久禁止入境,或驱逐涉事者。",
+      "points": [
+        "该命令依据移民与国籍法(INA)第215(a)条,将总统权力授予国务卿与国土安全部部长。",
+        "'生育旅游'被定义为持非移民签证为分娩目的入境美国,或协助他人为此目的入境。",
+        "可采取的措施包括拒绝签发签证或拒绝入境、撤销签证并永久禁止入境,以及驱逐已经或计划从事生育旅游者。",
+        "对在美国境内外协助或促成生育旅游的个人或机构也可采取相应行动。",
+        "国务卿或国土安全部部长可基于人道主义理由或认定符合国家利益的情况给予豁免。",
+        "该命令要求国务院与国土安全部进一步制定具体规则、政策或操作指南以落实执行,具体操作细则目前尚未明确。"
+      ],
+      "who": "计划以非移民签证(如旅游、学生、交流签证等)入境美国分娩的外国公民,以及协助安排此类旅行的个人或机构均受影响。",
+      "action": "计划在怀孕期间赴美旅行或申请相关签证者,应准备清楚说明入境目的,并关注国务院与国土安全部后续发布的具体指南。"
+    },
+    "ja": {
+      "title": "トランプ大統領、「出産目的の渡米阻止」大統領令に署名 国務省と国土安全保障省にビザ制限権限を委任",
+      "summary": "2026年8月6日に署名され8月11日付の連邦官報に掲載された大統領令14419号は、出産を目的として非移民ビザで米国に入国すること、またはその入国を手助けすることを「バーストツーリズム」と定義しました。国務長官と国土安全保障長官には、ビザの発給拒否、取消しおよび永久入国禁止、国外退去などの措置を取る権限が委任されています。",
+      "points": [
+        "本大統領令は移民国籍法(INA)第215(a)条に基づく大統領権限を国務長官と国土安全保障長官に委任しています。",
+        "「バーストツーリズム」は、出産を目的として非移民ビザで入国すること、または他者のそのような入国を手助けすることと定義されています。",
+        "措置にはビザ発給や入国の拒否、ビザの取消しと永久入国禁止、該当者の国外退去などが含まれます。",
+        "米国内外で出産目的の渡米を手助け・支援する個人や団体に対しても措置が取られる可能性があります。",
+        "人道上の理由や国益にかなうと判断される場合、国務長官または国土安全保障長官が例外を認めることができます。",
+        "具体的な実施規則や運用指針は今後、国務省と国土安全保障省が策定することとされており、詳細な運用基準は現時点では示されていません。"
+      ],
+      "who": "出産を目的として非移民ビザ(観光、留学、交流訪問ビザなど)で米国への入国を計画している外国人、およびそのような渡航を手助けする個人や事業者が対象となります。",
+      "action": "妊娠中に米国への渡航を計画している方やビザ申請を予定している方は、渡航目的を明確に説明できるよう準備するとともに、今後発表される国務省および国土安全保障省の具体的な指針を確認する必要があります。"
+    }
+  },
+  "added": "2026-10-12T17:45Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "travel",
+    "citizenship",
+    "family"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "( printed page 51993)"
+      },
+      {
+        "t": "p",
+        "x": "Executive Order 14419 of August 6, 2026"
+      },
+      {
+        "t": "h",
+        "x": "Ending Birth Tourism"
+      },
+      {
+        "t": "p",
+        "x": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:"
+      },
+      {
+        "t": "p",
+        "x": "Section 1 . Purpose. United States citizenship is among the greatest inheritances the Nation can bestow. It embodies a sacred bond between the American people and the Nation in which they live, and carries profound rights, privileges, and responsibilities reflective of the enduring allegiance of citizens to the United States and our Constitution. Citizenship is not a commodity to be acquired through calculated exploitation and evasion of the immigration laws, such as by entering the United States on a nonimmigrant visa for the purpose of giving birth within the Nation's borders."
+      },
+      {
+        "t": "p",
+        "x": "Birth tourism operators use deceptive advertisements and inducements to entice foreign nationals to travel to the United States for the purpose of giving birth on American soil. They promise citizenship; access to public benefits; and short-term stays in specialized facilities, hotels, or rentals, but often fail to deliver on these promises. These operators coach their clients to misrepresent the purpose and duration of their travel to consular and border officials to obtain visas authorizing entry into the United States. Failure to appropriately combat these schemes has resulted in thriving industries around the world that profit by enabling the evasion of American immigration laws to obtain citizenship and other immigration benefits for foreign visitors, and the exploitation of the women who travel here for purposes of giving birth."
+      },
+      {
+        "t": "p",
+        "x": "The immigration laws of the United States establish discrete categories of temporary nonimmigrant visas to allow foreign visitors into the United States for study, exchange, temporary employment, tourism, and other transitory activities that are now exploited by birth tourism operators. Participants in birth tourism schemes abuse these categories to establish a permanent foothold in the United States by securing the advantage of citizenship for their children and then potentially for themselves."
+      },
+      {
+        "t": "p",
+        "x": "Birth tourism, defined in section 3 of this order, undermines the integrity of the Nation's immigration system by enabling foreign nationals to exploit their temporary admission to obtain permanent immigration-related benefits. Birth tourism also diverts limited consular inspection and enforcement resources away from legitimate visa applicants, erodes public confidence in the faithful enforcement of the immigration laws, and impairs the executive branch's ability to protect the national security."
+      },
+      {
+        "t": "p",
+        "x": "The United States has a compelling interest in ensuring that each visa category is used only for the purpose for which it was established. Foreign nationals seeking temporary admission into the United States must adhere to the purposes for which the Congress has authorized their temporary admission, and cannot be permitted to circumvent the immigration laws in an attempt to vest themselves and their children with lasting benefits that are irreconcilable with their nonimmigrant status."
+      },
+      {
+        "t": "p",
+        "x": "It is therefore the policy of the United States to promote the integrity of its immigration system, to ensure that nonimmigrant visa classifications are used only for their lawful and intended purposes, and to prevent the exploitation of those classifications by persons engaging in birth tourism. ( printed page 51994)"
+      },
+      {
+        "t": "p",
+        "x": "Sec. 2 . Authorities. Pursuant to section 301 of title 3, United States Code, the authority granted to the President under section 215(a) of the Immigration and Nationality Act, 8 U.S.C. 1185(a), is hereby delegated to the Secretary of State and the Secretary of Homeland Security to the extent necessary to implement this order, including the authority to issue or adopt rules, policies, operational guidance, or other guidance to carry out this order."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 3 . Definition. For purposes of this order, “birth tourism” is defined as:"
+      },
+      {
+        "t": "p",
+        "x": "(a) the entry of any foreign national into the United States via a nonimmigrant visa for the purpose of giving birth on American soil; or"
+      },
+      {
+        "t": "p",
+        "x": "(b) any effort by any foreign national to facilitate the entry of any foreign national into the United States via a nonimmigrant visa for the purpose of giving birth on American soil."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 4 . Scope and Implementation. (a) The Secretary of State and the Secretary of Homeland Security shall take such actions and update any rules, policies, operational guidance, or other guidance as necessary to effectuate the policy set forth in this order. Such actions may include, within the Secretaries' respective discretion and authority, appropriate action to prevent the entry into the United States of, or the granting of any visa or other travel authorization to, any alien entering or attempting to enter the United States for the purpose of engaging in birth tourism; revoking the visa or travel authorization and permanently barring entry of any alien who enters or attempts to enter the United States for the purpose of engaging in birth tourism; denial of entry to, or removal of, any alien who previously engaged or plans to engage in birth tourism; or other appropriate action against entities, organizations, or individuals, within or outside of the United States, responsible for facilitating or enabling birth tourism in any manner."
+      },
+      {
+        "t": "p",
+        "x": "(b) All other relevant executive departments and agencies shall provide such records and information as are necessary for the Secretary of State and the Secretary of Homeland Security to implement the terms of this order and the rules, policies, operational guidance, or other guidance issued pursuant to it, subject to applicable law."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 5 . Exemptions. Notwithstanding the restrictions imposed by this order, the Secretary of State or the Secretary of Homeland Security may exempt a foreign national from actions taken pursuant to this order on humanitarian grounds or when the foreign national's entry is in the national interest, as determined by the Secretary of State or the Secretary of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 6 . General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:"
+      },
+      {
+        "t": "p",
+        "x": "(i) the authority granted by law to an executive department or agency, or the head thereof; or"
+      },
+      {
+        "t": "p",
+        "x": "(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals."
+      },
+      {
+        "t": "p",
+        "x": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+      },
+      {
+        "t": "p",
+        "x": "(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
+      },
+      {
+        "t": "p",
+        "x": "(d) If any provision of this order, or the application of any provision to any person or circumstances, is held to be invalid, the remainder of this order and the application of any of its other provisions to any other persons or circumstances shall not be affected thereby."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 51995)"
+      },
+      {
+        "t": "p",
+        "x": "(e) The costs for publication of this order shall be borne by the Department of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "THE WHITE HOUSE,"
+      },
+      {
+        "t": "p",
+        "x": "August 6, 2026."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-16404"
+      },
+      {
+        "t": "p",
+        "x": "Filed 8-10-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 9110-9M-P"
+      }
+    ],
+    "fetched": "2026-10-12T17:45Z",
+    "from": "federalregister.gov",
+    "chars": 7284
+  },
+  "full": {
+    "ko": [
+      "(인쇄 페이지 51993)",
+      "2026년 8월 6일 행정명령 14419호",
+      "출산 관광 근절에 관한 행정명령",
+      "미합중국 헌법 및 법률에 의하여 본인에게 부여된 권한에 따라, 이에 다음과 같이 명령한다.",
+      "제1절. 목적. 미국 시민권은 국가가 부여할 수 있는 가장 위대한 유산 중 하나입니다. 이는 미국 국민과 그들이 살아가는 국가 사이의 신성한 유대를 구현하며, 시민의 미합중국과 우리 헌법에 대한 지속적인 충성을 반영하는 심대한 권리, 특권 및 책임을 수반합니다. 시민권은 비이민 비자로 미합중국에 입국하여 국경 내에서 출산하는 것과 같이 이민법을 계산적으로 악용하고 회피함으로써 취득할 수 있는 상품이 아닙니다.",
+      "출산 관광 사업자들은 기만적인 광고와 유인책을 사용하여 외국인들로 하여금 미국 영토에서 출산할 목적으로 미국을 여행하도록 유인합니다. 이들은 시민권, 공공 혜택에 대한 접근, 전문 시설, 호텔 또는 임대 숙소에서의 단기 체류를 약속하지만 흔히 이러한 약속을 이행하지 못합니다. 이러한 사업자들은 자신의 고객들이 미합중국 입국을 허가하는 비자를 취득하기 위하여 영사 및 국경 관리에게 여행의 목적과 기간을 허위로 진술하도록 지도합니다. 이러한 수법에 적절히 대응하지 못한 결과, 미국 이민법의 회피를 조장함으로써 외국인 방문객에게 시민권 및 기타 이민 혜택을 취득하게 하고, 출산을 위하여 이곳으로 여행하는 여성들을 착취함으로써 이익을 얻는 산업이 전 세계적으로 번창하게 되었습니다.",
+      "미합중국의 이민법은 현재 출산 관광 사업자들에 의하여 악용되고 있는 유학, 교류, 임시 고용, 관광 및 기타 일시적 활동을 위하여 외국인 방문객을 미합중국에 입국시키기 위한 별개의 비이민 비자 범주를 규정하고 있습니다. 출산 관광 계획의 참여자들은 자신의 자녀, 그리고 그 후 잠재적으로 자신들을 위하여 시민권의 이점을 확보함으로써 미합중국 내에 영구적인 거점을 마련하기 위하여 이러한 범주를 악용합니다.",
+      "본 명령 제3절에서 정의된 출산 관광은 외국인들이 일시적 입국을 악용하여 영구적인 이민 관련 혜택을 취득할 수 있게 함으로써 국가 이민 제도의 완전성을 훼손합니다. 출산 관광은 또한 한정된 영사 심사 및 집행 자원을 정당한 비자 신청자로부터 전용시키고, 이민법의 충실한 집행에 대한 공공의 신뢰를 저해하며, 행정부의 국가 안보 보호 능력을 손상시킵니다.",
+      "미합중국은 각 비자 범주가 그것이 설정된 목적으로만 사용되도록 보장하는 데 강력한 이해관계를 가지고 있습니다. 미합중국에 일시적 입국을 구하는 외국인은 의회가 그들의 일시적 입국을 허가한 목적을 준수하여야 하며, 자신의 비이민 신분과 양립할 수 없는 지속적인 혜택을 자신과 그 자녀에게 부여하려는 시도로써 이민법을 회피하는 것이 허용되어서는 안 됩니다.",
+      "따라서 미합중국의 정책은 미합중국 이민 제도의 완전성을 증진하고, 비이민 비자 분류가 그 합법적이고 의도된 목적으로만 사용되도록 보장하며, 출산 관광에 종사하는 자들에 의한 그러한 분류의 악용을 방지하는 것입니다. (인쇄 페이지 51994)",
+      "제2절. 권한. 미합중국 법전 제3편 제301조에 따라, 이민 및 국적법 제215조(a), 미합중국 법전 제8편 제1185조(a)에 따라 대통령에게 부여된 권한은 본 명령을 이행하는 데 필요한 범위 내에서, 본 명령을 수행하기 위한 규칙, 정책, 운영 지침 또는 기타 지침을 발행하거나 채택할 권한을 포함하여, 국무장관 및 국토안보부 장관에게 이에 위임됩니다.",
+      "제3절. 정의. 본 명령의 목적상, “출산 관광”은 다음과 같이 정의됩니다.",
+      "(a) 미국 영토에서 출산할 목적으로 비이민 비자를 통하여 외국인이 미합중국에 입국하는 것, 또는",
+      "(b) 미국 영토에서 출산할 목적으로 비이민 비자를 통하여 외국인이 미합중국에 입국하는 것을 용이하게 하려는 외국인의 모든 시도.",
+      "제4조. 범위 및 시행. (a) 국무장관과 국토안보부(DHS) 장관은 본 행정명령에 규정된 정책을 시행하기 위하여 필요한 조치를 취하고 모든 규칙, 정책, 운영지침 또는 기타 지침을 갱신하여야 합니다. 그러한 조치에는 각 장관의 재량과 권한의 범위 내에서, 출산관광을 목적으로 미국에 입국하거나 입국을 시도하는 외국인에 대하여 미국 입국을 방지하거나 비자 또는 기타 여행허가 발급을 거부하는 적절한 조치, 출산관광을 목적으로 미국에 입국하거나 입국을 시도하는 외국인의 비자 또는 여행허가를 취소하고 영구적으로 입국을 금지하는 조치, 과거 출산관광에 관여하였거나 이를 계획하는 외국인에 대한 입국 거부 또는 추방, 미국 내외에서 출산관광을 어떠한 방식으로든 조장하거나 가능하게 하는 데 책임이 있는 단체, 조직 또는 개인에 대한 기타 적절한 조치가 포함될 수 있습니다.",
+      "(b) 그 밖의 모든 관계 행정부처 및 기관은 적용 가능한 법률에 따라, 국무장관과 국토안보부 장관이 본 행정명령 및 이에 따라 발령된 규칙, 정책, 운영지침 또는 기타 지침의 조건을 시행하는 데 필요한 기록과 정보를 제공하여야 합니다.",
+      "제5조. 면제. 본 행정명령에 의하여 부과된 제한에도 불구하고, 국무장관 또는 국토안보부 장관은 인도적 사유가 있거나 국무장관 또는 국토안보부 장관이 판단하기에 외국인의 입국이 국가이익에 부합하는 경우, 본 행정명령에 따라 취해지는 조치로부터 해당 외국인을 면제할 수 있습니다.",
+      "제6조. 일반 조항. (a) 본 행정명령의 어떠한 내용도 다음 각 호를 저해하거나 기타 영향을 미치는 것으로 해석되어서는 아니 됩니다.",
+      "(i) 행정부처 또는 기관, 또는 그 장에게 법률로 부여된 권한, 또는",
+      "(ii) 예산, 행정 또는 입법 제안과 관련된 관리예산실장의 기능.",
+      "(b) 본 행정명령은 적용 가능한 법률에 부합하는 범위 내에서, 그리고 세출예산의 가용성을 조건으로 시행되어야 합니다.",
+      "(c) 본 행정명령은 미국, 그 부처, 기관 또는 단체, 그 공무원, 직원 또는 대리인, 또는 그 밖의 어떠한 자를 상대로 법률상 또는 형평법상 집행 가능한 실체적 또는 절차적 권리나 이익을 어떠한 당사자에게도 창설하려는 의도가 없으며, 실제로 창설하지도 아니합니다.",
+      "(d) 본 행정명령의 어떠한 조항, 또는 특정인이나 상황에 대한 그 조항의 적용이 무효로 판단되는 경우에도, 본 행정명령의 나머지 부분 및 그 밖의 다른 조항을 다른 사람이나 상황에 적용하는 것은 이로 인하여 영향을 받지 아니합니다.",
+      "(인쇄 페이지 51995)",
+      "(e) 본 행정명령의 공고에 소요되는 비용은 국토안보부가 부담합니다.",
+      "백악관,",
+      "2026년 8월 6일.",
+      "[FR Doc. 2026-16404",
+      "접수 8-10-26; 오전 11:15]",
+      "청구기호 9110-9M-P"
+    ],
+    "es": [
+      "( página impresa 51993)",
+      "Orden Ejecutiva 14419 del 6 de agosto de 2026",
+      "Poner fin al turismo de nacimiento",
+      "En virtud de la autoridad que me confieren la Constitución y las leyes de los Estados Unidos de América, por la presente se ordena:",
+      "Sección 1 . Propósito. La ciudadanía de los Estados Unidos se encuentra entre las mayores herencias que la Nación puede otorgar. Encarna un vínculo sagrado entre el pueblo estadounidense y la Nación en la que vive, y conlleva profundos derechos, privilegios y responsabilidades que reflejan la lealtad perdurable de los ciudadanos hacia los Estados Unidos y nuestra Constitución. La ciudadanía no es una mercancía que pueda adquirirse mediante la explotación calculada y la evasión de las leyes de inmigración, como al ingresar a los Estados Unidos con una visa de no inmigrante con el propósito de dar a luz dentro de las fronteras de la Nación.",
+      "Los operadores de turismo de nacimiento utilizan anuncios engañosos e incentivos para atraer a ciudadanos extranjeros a viajar a los Estados Unidos con el propósito de dar a luz en suelo estadounidense. Prometen ciudadanía, acceso a beneficios públicos y estadías de corto plazo en instalaciones especializadas, hoteles o alquileres, pero con frecuencia no cumplen estas promesas. Estos operadores instruyen a sus clientes para que tergiversen el propósito y la duración de su viaje ante funcionarios consulares y fronterizos con el fin de obtener visas que autoricen su ingreso a los Estados Unidos. La falta de un combate adecuado contra estos esquemas ha dado lugar a industrias prósperas en todo el mundo que se lucran al facilitar la evasión de las leyes de inmigración estadounidenses para obtener la ciudadanía y otros beneficios migratorios para visitantes extranjeros, así como la explotación de las mujeres que viajan hasta aquí con el propósito de dar a luz.",
+      "Las leyes de inmigración de los Estados Unidos establecen categorías específicas de visas temporales de no inmigrante para permitir el ingreso de visitantes extranjeros a los Estados Unidos con fines de estudio, intercambio, empleo temporal, turismo y otras actividades transitorias que actualmente son explotadas por los operadores de turismo de nacimiento. Los participantes en los esquemas de turismo de nacimiento abusan de estas categorías para establecer un punto de apoyo permanente en los Estados Unidos, asegurando la ventaja de la ciudadanía para sus hijos y, potencialmente, para sí mismos con posterioridad.",
+      "El turismo de nacimiento, definido en la sección 3 de esta orden, socava la integridad del sistema de inmigración de la Nación al permitir que ciudadanos extranjeros exploten su admisión temporal para obtener beneficios migratorios de carácter permanente. El turismo de nacimiento también desvía los limitados recursos de inspección y aplicación consular destinados a solicitantes de visa legítimos, erosiona la confianza pública en la aplicación fiel de las leyes de inmigración y menoscaba la capacidad del poder ejecutivo para proteger la seguridad nacional.",
+      "Los Estados Unidos tienen un interés imperioso en garantizar que cada categoría de visa se utilice únicamente para el propósito para el cual fue establecida. Los ciudadanos extranjeros que buscan la admisión temporal a los Estados Unidos deben ajustarse a los propósitos para los cuales el Congreso ha autorizado su admisión temporal, y no se les puede permitir eludir las leyes de inmigración en un intento de otorgarse a sí mismos y a sus hijos beneficios duraderos que resultan incompatibles con su condición de no inmigrantes.",
+      "Por lo tanto, es política de los Estados Unidos promover la integridad de su sistema de inmigración, garantizar que las clasificaciones de visas de no inmigrante se utilicen únicamente para sus fines lícitos y previstos, y prevenir la explotación de dichas clasificaciones por parte de personas que participan en el turismo de nacimiento. ( página impresa 51994)",
+      "Sec. 2 . Autoridades. De conformidad con la sección 301 del título 3 del Código de los Estados Unidos, la autoridad conferida al Presidente en virtud de la sección 215(a) de la Ley de Inmigración y Nacionalidad, 8 U.S.C. 1185(a), se delega por la presente al Secretario de Estado y al Secretario de Seguridad Nacional en la medida necesaria para implementar esta orden, incluida la autoridad para emitir o adoptar reglas, políticas, orientación operativa u otras directrices para llevar a cabo esta orden.",
+      "Sec. 3 . Definición. Para efectos de esta orden, el “turismo de nacimiento” se define como:",
+      "(a) el ingreso de cualquier ciudadano extranjero a los Estados Unidos mediante una visa de no inmigrante con el propósito de dar a luz en suelo estadounidense; o",
+      "(b) cualquier esfuerzo por parte de un ciudadano extranjero para facilitar el ingreso de otro ciudadano extranjero a los Estados Unidos mediante una visa de no inmigrante con el propósito de dar a luz en suelo estadounidense.",
+      "Sec. 4 . Alcance e Implementación. (a) El Secretario de Estado y el Secretario de Seguridad Nacional deberán tomar las medidas y actualizar las normas, políticas, orientación operativa u otra orientación que sean necesarias para hacer efectiva la política establecida en esta orden. Dichas medidas podrán incluir, dentro de la discreción y autoridad respectivas de los Secretarios, la acción apropiada para impedir la entrada a los Estados Unidos, o el otorgamiento de cualquier visa u otra autorización de viaje, a cualquier extranjero que ingrese o intente ingresar a los Estados Unidos con el propósito de participar en turismo de parto; la revocación de la visa o autorización de viaje y la prohibición permanente de entrada de cualquier extranjero que ingrese o intente ingresar a los Estados Unidos con el propósito de participar en turismo de parto; la denegación de entrada, o la remoción, de cualquier extranjero que previamente haya participado o planee participar en turismo de parto; u otra acción apropiada contra entidades, organizaciones o personas, dentro o fuera de los Estados Unidos, responsables de facilitar o permitir el turismo de parto de cualquier manera.",
+      "(b) Todos los demás departamentos y agencias ejecutivos pertinentes deberán proporcionar los registros e información que sean necesarios para que el Secretario de Estado y el Secretario de Seguridad Nacional implementen los términos de esta orden y las normas, políticas, orientación operativa u otra orientación emitida conforme a ella, sujeto a la ley aplicable.",
+      "Sec. 5 . Exenciones. No obstante las restricciones impuestas por esta orden, el Secretario de Estado o el Secretario de Seguridad Nacional podrán eximir a un ciudadano extranjero de las medidas tomadas conforme a esta orden por motivos humanitarios o cuando la entrada del ciudadano extranjero sea de interés nacional, según lo determine el Secretario de Estado o el Secretario de Seguridad Nacional.",
+      "Sec. 6 . Disposiciones Generales. (a) Nada en esta orden deberá interpretarse para menoscabar o afectar de otro modo:",
+      "(i) la autoridad otorgada por ley a un departamento o agencia ejecutivo, o a su titular; o",
+      "(ii) las funciones del Director de la Oficina de Administración y Presupuesto relacionadas con propuestas presupuestarias, administrativas o legislativas.",
+      "(b) Esta orden deberá implementarse de manera congruente con la ley aplicable y sujeta a la disponibilidad de asignaciones presupuestarias.",
+      "(c) Esta orden no pretende crear, ni crea, ningún derecho o beneficio, sustantivo o procesal, exigible por ley o en equidad por cualquier parte en contra de los Estados Unidos, sus departamentos, agencias o entidades, sus funcionarios, empleados o agentes, o cualquier otra persona.",
+      "(d) Si alguna disposición de esta orden, o la aplicación de alguna disposición a cualquier persona o circunstancia, se considera inválida, el resto de esta orden y la aplicación de cualquiera de sus otras disposiciones a cualesquiera otras personas o circunstancias no se verán afectados por ello.",
+      "(página impresa 51995)",
+      "(e) Los costos de publicación de esta orden correrán a cargo del Departamento de Seguridad Nacional.",
+      "LA CASA BLANCA,",
+      "6 de agosto de 2026.",
+      "[Documento del FR 2026-16404",
+      "Presentado el 8-10-26; 11:15 am]",
+      "Código de facturación 9110-9M-P"
+    ],
+    "zh": [
+      "(印刷页第51993页)",
+      "2026年8月6日第14419号行政命令",
+      "终止生育旅游",
+      "依据宪法及美利坚合众国法律赋予本人作为总统的职权,现命令如下：",
+      "第一节。目的。美国公民身份是国家所能赋予的最伟大的遗产之一。它体现了美国人民与其所生活的国家之间的神圣纽带,并承载着深刻的权利、特权和责任,反映出公民对美国及我们宪法的持久效忠。公民身份不是一种可以通过精心策划规避移民法律而获取的商品,例如通过持非移民签证入境美国以达到在国境内分娩的目的。",
+      "生育旅游运营者利用欺骗性广告和诱导手段,吸引外国公民前往美国以在美国领土上分娩为目的。他们承诺公民身份、获得公共福利的途径,以及在专门设施、酒店或出租房屋中的短期居留,但往往未能兑现这些承诺。这些运营者指导其客户向领事官员和边境官员虚报其出行目的和期限,以获取授权入境美国的签证。由于未能有效打击此类计划,导致全球范围内出现了蓬勃发展的产业,这些产业通过协助外国访客规避美国移民法律以获取公民身份及其他移民利益而牟利,并剥削那些为分娩目的而前来美国的妇女。",
+      "美国移民法律设立了若干独立的临时非移民签证类别,允许外国访客以学习、交流、临时就业、旅游及其他短暂活动为目的入境美国,而这些类别如今正被生育旅游运营者所利用。参与生育旅游计划者滥用这些类别,通过为其子女随后可能为其自身获取公民身份的优势,在美国建立永久立足点。",
+      "生育旅游,其定义见本命令第三节,通过使外国公民利用其临时入境身份获取永久性移民相关利益,从而破坏了国家移民制度的完整性。生育旅游还分散了有限的领事审查和执法资源,使其偏离合法签证申请人,侵蚀公众对忠实执行移民法律的信心,并损害行政部门保护国家安全的能力。",
+      "美国在确保每一签证类别仅用于其设立目的方面具有令人信服的利益。寻求临时入境美国的外国公民必须遵守国会授权其临时入境的目的,不得被允许规避移民法律,企图使其自身及其子女获得与其非移民身份不相容的持久性利益。",
+      "因此,美国的政策是促进其移民制度的完整性,确保非移民签证类别仅用于其合法和既定目的,并防止从事生育旅游活动者滥用这些类别。(印刷页第51994页)",
+      "第二节。授权。依据《美国法典》第3编第301节,总统根据《移民与国籍法》第215(a)节(载于《美国法典》第8编第1185(a)节)所获授予的权力,现授权予国务卿和国土安全部部长,在执行本命令所必需的范围内行使,包括发布或采纳规则、政策、操作指南或其他指导意见以执行本命令的权力。",
+      "第三节。定义。就本命令而言,“生育旅游”定义为：",
+      "(a) 任何外国公民通过非移民签证入境美国,以在美国领土上分娩为目的;或",
+      "(b) 任何外国公民为协助任何外国公民通过非移民签证入境美国,以在美国领土上分娩为目的而采取的任何努力。",
+      "第四条。范围与实施。(a) 国务卿和国土安全部(DHS)部长应采取必要行动,更新任何规则、政策、操作指南或其他指南,以落实本令所规定的政策。此类行动可在两位部长各自的裁量权和职权范围内,包括但不限于:采取适当行动,阻止为从事生育旅游目的而进入或试图进入美国的外国人入境,或阻止向其发放任何签证或其他旅行授权;对为从事生育旅游目的而进入或试图进入美国的外国人,撤销其签证或旅行授权并永久禁止其入境;拒绝曾经从事或计划从事生育旅游活动的外国人入境,或将其驱逐出境;或对以任何方式在美国境内或境外协助或促成生育旅游活动的实体、组织或个人采取其他适当行动。",
+      "(b) 所有其他相关行政部门和机构应在适用法律允许的范围内,提供国务卿和国土安全部部长实施本令条款以及据此发布的规则、政策、操作指南或其他指南所必需的记录和信息。",
+      "第五条。豁免。尽管本令规定了上述限制,国务卿或国土安全部部长可基于人道主义理由,或在国务卿或国土安全部部长认定外国公民入境符合国家利益的情况下,豁免该外国公民不适用根据本令采取的行动。",
+      "第六条。一般规定。(a) 本令中的任何内容均不得被解释为损害或以其他方式影响:",
+      "(i) 法律赋予某行政部门或机构,或其负责人的职权;或",
+      "(ii) 行政管理和预算局局长在预算、行政或立法提案方面的职能。",
+      "(b) 本令的实施应符合适用法律,并以拨款的可用性为前提。",
+      "(c) 本令无意且不旨在为任何一方创设可由其针对美国、其各部门、机构或实体,及其官员、雇员或代理人,或任何其他人,在法律上或衡平法上予以执行的任何实体性或程序性权利或利益。",
+      "(d) 如本令任何条款,或该条款对任何人员或情形的适用被认定为无效,本令其余部分以及其其他条款对其他人员或情形的适用不应因此受到影响。",
+      "(印刷页第51995页)",
+      "(e) 本令的刊印费用应由国土安全部承担。",
+      "白宫,",
+      "2026年8月6日。",
+      "[联邦公报文件编号 2026-16404",
+      "存档于2026年8月10日上午11:15]",
+      "账单代码 9110-9M-P"
+    ],
+    "ja": [
+      "(印刷ページ51993)",
+      "2026年8月6日付大統領令第14419号",
+      "出産目的渡航の終結について",
+      "合衆国憲法及び合衆国法律により大統領としてわたしに与えられた権限に基づき、ここに次のとおり命令する。",
+      "第1条。目的。合衆国市民権は、国家が付与し得る最も偉大な継承物の一つである。それはアメリカ国民とその居住する国家との間の神聖な絆を体現するものであり、合衆国及びわれわれの憲法に対する市民の永続的な忠誠を反映した、深遠な権利、特権及び責任を伴うものである。市民権は、合衆国の国境内で出産する目的で非移民ビザにより合衆国に入国するなど、移民法の計算された悪用及び回避を通じて取得されるべき商品ではない。",
+      "出産目的渡航の斡旋業者は、欺瞞的な広告及び誘因を用いて、外国人がアメリカの土地で出産する目的で合衆国に渡航するよう勧誘している。彼らは市民権、公的給付へのアクセス、並びに専門施設、ホテル又は賃貸住宅における短期滞在を約束するが、多くの場合これらの約束を履行しない。これらの業者は、合衆国への入国を許可するビザを取得するため、顧客に対し、渡航の目的及び期間について領事官及び国境当局に虚偽の説明をするよう指導している。これらの策略に適切に対処してこなかった結果、外国人訪問者のために市民権その他の移民上の利益を取得する目的でアメリカの移民法の回避を可能にすることにより利益を得る産業、及び出産目的でこの地に渡航する女性たちを搾取する産業が、世界中で繁盛する事態を招いている。",
+      "合衆国の移民法は、留学、交流、一時的就労、観光その他の一時的な活動のために外国人訪問者が合衆国に入国することを認めるため、個別の種類の一時的非移民ビザを設けているが、これらは現在、出産目的渡航の斡旋業者によって悪用されている。出産目的渡航の仕組みの参加者は、これらの分類を悪用して、その子どものために、そして潜在的には自分自身のために、市民権という利益を確保することにより、合衆国内に恒久的な足場を築いている。",
+      "本命令第3条に定義される出産目的渡航は、外国人がその一時的な入国を悪用して永続的な移民関連の利益を取得することを可能にすることにより、国家の移民制度の健全性を損なうものである。出産目的渡航はまた、限られた領事審査及び執行の資源を正当なビザ申請者から逸らし、移民法の誠実な執行に対する国民の信頼を損ない、国家の安全保障を保護する行政府の能力を損なうものである。",
+      "合衆国は、各ビザの分類がそれが設けられた目的のためにのみ使用されることを確保することについて、やむにやまれぬ利益を有する。合衆国への一時的入国を求める外国人は、連邦議会がその一時的入国を認めた目的に従わなければならず、自己及びその子どもに対し、非移民身分とは相容れない永続的な利益を付与しようとして移民法を回避することを許されてはならない。",
+      "したがって、合衆国の移民制度の健全性を促進すること、非移民ビザの分類がその適法かつ意図された目的のためにのみ使用されることを確保すること、及び出産目的渡航に従事する者によるこれらの分類の悪用を防止することが、合衆国の政策である。(印刷ページ51994)",
+      "第2条。権限。合衆国法律集第3編第301条に基づき、移民及び国籍法第215条(a)項、合衆国法律集第8編第1185条(a)項により大統領に付与された権限は、本命令を実施するために必要な範囲において、国務長官及び国土安全保障長官に委任される。これには、本命令を実施するための規則、政策、運用指針その他の指針を発出し、又は採用する権限を含む。",
+      "第3条。定義。本命令の目的上、「出産目的渡航」とは次のものと定義される。",
+      "(a) アメリカの土地で出産する目的で、非移民ビザにより外国人が合衆国に入国すること。又は",
+      "(b) アメリカの土地で出産する目的で、非移民ビザにより外国人が合衆国に入国することを容易にしようとする、いかなる外国人によるいかなる努力も含む。",
+      "第4条。適用範囲及び実施。(a) 国務長官及び国土安全保障長官は、本命令に定める政策を実施するために必要な措置を講じ、規則、政策、運用指針又はその他の指針を更新するものとする。かかる措置には、各長官のそれぞれの裁量及び権限の範囲内において、出産目的渡航(バーストツーリズム)に従事する目的で合衆国に入国し若しくは入国を試みる外国人の合衆国への入国を阻止し、又はこれに対する査証その他の渡航許可の付与を阻止するための適切な措置、出産目的渡航に従事する目的で合衆国に入国し若しくは入国を試みる外国人の査証若しくは渡航許可を取り消し、永久に入国を禁止すること、以前に出産目的渡航に従事した又は従事する計画を有する外国人の入国を拒否し、若しくはこれを退去させること、又は合衆国内若しくは合衆国外において何らかの方法で出産目的渡航を助長若しくは可能にする責任を有する団体、組織若しくは個人に対するその他の適切な措置が含まれ得る。",
+      "(b) その他の関係する行政各省庁は、国務長官及び国土安全保障長官が本命令並びにこれに基づき発出される規則、政策、運用指針又はその他の指針の規定を実施するために必要な記録及び情報を、適用法令に従うことを条件として提供するものとする。",
+      "第5条。適用除外。本命令により課される制限にかかわらず、国務長官又は国土安全保障長官は、人道上の理由により、又は国務長官若しくは国土安全保障長官が国益に資すると判断した場合には、外国人を本命令に基づき講じられる措置から除外することができる。",
+      "第6条。一般規定。(a) 本命令のいかなる規定も、次のものを損ない又はその他の影響を及ぼすものと解釈してはならない。",
+      "(i) 法律により行政各省庁又はその長に付与された権限、又は",
+      "(ii) 予算、行政若しくは立法提案に関する行政管理予算局長の職務。",
+      "(b) 本命令は、適用法令に合致し、かつ予算の充当可能性を条件として実施されるものとする。",
+      "(c) 本命令は、合衆国、その省庁若しくは機関、その職員、従業員若しくは代理人、又はその他のいかなる者に対しても、いかなる者によっても法律上又は衡平法上執行可能な実体的又は手続的権利又は利益を創設することを意図するものではなく、また創設するものでもない。",
+      "(d) 本命令のいずれかの規定、又はいずれかの者若しくは状況への当該規定の適用が無効とされた場合であっても、本命令の残りの規定及びその他の規定の他の者若しくは状況への適用には影響を及ぼさないものとする。",
+      "(印刷ページ51995)",
+      "(e) 本命令の公布に係る費用は、国土安全保障省が負担するものとする。",
+      "ホワイトハウスにて,",
+      "2026年8月6日。",
+      "[連邦官報文書番号 2026-16404",
+      "2026年8月10日午前11時15分提出]",
+      "請求コード 9110-9M-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
