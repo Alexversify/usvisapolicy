@@ -10,10 +10,10 @@ on:
     inputs:
       max_new:
         description: "이번 실행에서 새로 번역할 과거 글 수"
-        default: "25"
+        default: "15"
       fulltext:
         description: "이번 실행에서 전문을 채울 기존 기사 수"
-        default: "40"
+        default: "30"
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ concurrency:
 jobs:
   backfill:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 100
     steps:
       - uses: actions/checkout@v5
 
@@ -48,10 +48,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           HEADFUL: "1"
+          PYTHONUNBUFFERED: "1"
           BACKFILL: "1"
-          MAX_NEW: ${{ github.event.inputs.max_new || '25' }}
-          FULLTEXT_BACKFILL: ${{ github.event.inputs.fulltext || '40' }}
-          FULLTEXT_BUDGET_MIN: "40"
+          MAX_NEW: ${{ github.event.inputs.max_new || '15' }}
+          NEW_BUDGET_MIN: "30"
+          FULLTEXT_BACKFILL: ${{ github.event.inputs.fulltext || '30' }}
+          FULLTEXT_BUDGET_MIN: "25"
         run: xvfb-run -a python -m src.main
 
       - name: 결과 커밋
