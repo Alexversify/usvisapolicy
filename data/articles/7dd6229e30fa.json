@@ -86,5 +86,6 @@
     "h1b",
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original_fail": 1
 }

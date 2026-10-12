@@ -86,5 +86,159 @@
   "topics": [
     "travel"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of State"
+      },
+      {
+        "t": "li",
+        "x": "[Public Notice: 13117]"
+      },
+      {
+        "t": "p",
+        "x": "Based upon a review of the Administrative Record assembled in this matter, and in consultation with the Attorney General and the Secretary of the Treasury, I have concluded that there is a sufficient factual basis to find that the relevant circumstances described in section 219 of the Immigration and Nationality Act, as amended (hereinafter “INA”) (8 U.S.C. 1189), exist with respect to: Los Tiguerones (also known as Los Fenix and Los Igualitos)."
+      },
+      {
+        "t": "p",
+        "x": "Therefore, I hereby designate the aforementioned organization and its respective aliases as a Foreign Terrorist Organization pursuant to section 219 of the INA."
+      },
+      {
+        "t": "p",
+        "x": "This determination shall be published in the Federal Register . The designation goes into effect upon publication."
+      },
+      {
+        "t": "p",
+        "x": "Dated: August 3, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Marco Rubio,"
+      },
+      {
+        "t": "p",
+        "x": "Secretary of State, U.S. Department of Sate."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-18442 Filed 9-9-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4710-AD-P"
+      }
+    ],
+    "fetched": "2026-10-12T19:08Z",
+    "from": "federalregister.gov",
+    "chars": 1399
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나 개정을 제안하거나 직접적으로 관련된 연방규정집(CFR) 편의 번호 및 각 부의 번호",
+      "기관 문서번호 또는 기관 내부 파일 번호",
+      "연방 규제 및 규제 완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 규제확인번호(RIN)",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국무부(Department of State)",
+      "[공고 번호: 13117]",
+      "본건과 관련하여 작성된 행정 기록의 검토를 토대로, 법무장관 및 재무장관과 협의하여, 본인은 개정된 이민 및 국적법(이하 “INA”) 제219조(8 U.S.C. 1189)에 규정된 관련 상황이 다음 단체에 대하여 존재한다고 판단할 충분한 사실적 근거가 있다는 결론에 이르렀습니다. 로스 티게로네스(Los Tiguerones, 일명 로스 페닉스(Los Fenix) 및 로스 이구알리토스(Los Igualitos)).",
+      "따라서 본인은 INA 제219조에 따라 전술한 단체 및 그 각각의 별칭을 외국 테러 조직(Foreign Terrorist Organization)으로 지정합니다.",
+      "본 결정은 연방관보(Federal Register)에 게재됩니다. 해당 지정은 게재 즉시 발효됩니다.",
+      "날짜: 2026년 8월 3일.",
+      "마르코 루비오(Marco Rubio),",
+      "국무장관, 미합중국 국무부.",
+      "[FR Doc. 2026-18442 Filed 9-9-26; 8:45 am]",
+      "BILLING CODE 4710-AD-P"
+    ],
+    "es": [
+      "Encabezados del documento",
+      "Los encabezados del documento varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Estado",
+      "[Aviso Público: 13117]",
+      "Con base en una revisión del Expediente Administrativo reunido en este asunto, y en consulta con el Procurador General y el Secretario del Tesoro, he concluido que existe una base fáctica suficiente para determinar que las circunstancias pertinentes descritas en la sección 219 de la Ley de Inmigración y Nacionalidad, enmendada (en adelante, la “INA”) (8 U.S.C. 1189), existen con respecto a: Los Tiguerones (también conocidos como Los Fenix y Los Igualitos).",
+      "Por lo tanto, por la presente designo a la organización antes mencionada y a sus respectivos alias como Organización Terrorista Extranjera conforme a la sección 219 de la INA.",
+      "Esta determinación se publicará en el Federal Register. La designación entra en vigor a partir de su publicación.",
+      "Fechado: 3 de agosto de 2026.",
+      "Marco Rubio,",
+      "Secretario de Estado, Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026-18442 Presentado el 9-9-26; 8:45 a.m.]",
+      "CÓDIGO DE FACTURACIÓN 4710-AD-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署文件的一个或多个机构",
+      "文件所修订、拟议修订或直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "用于标识《联邦监管与放松监管行动统一议程》中所列各项监管行动的监管信息编号(RIN)",
+      "详情请参阅《文件起草手册》。",
+      "美国国务院",
+      "[公告编号:13117]",
+      "基于对本案所汇编的行政记录的审查,并与司法部长及财政部长协商后,本人已得出结论,认为经修订的《移民与国籍法》(以下简称“INA”)(美国法典第8编第1189条)第219条所述相关情形,存在足够的事实依据,认定该情形适用于:Los Tiguerones(又名Los Fenix及Los Igualitos)。",
+      "因此,本人特此根据《移民与国籍法》第219条,将上述组织及其各自别名指定为外国恐怖组织。",
+      "本项认定将在《联邦公报》上公布。该指定自公布之日起生效。",
+      "日期:2026年8月3日。",
+      "马尔科·鲁比奥,",
+      "美国国务院国务卿。",
+      "[联邦公报文件编号 2026-18442,存档于2026年9月9日上午8:45]",
+      "账单代码 4710-AD-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含む場合がある。",
+      "文書を発行し署名した一又は複数の機関",
+      "本文書が改正する、改正を提案する、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関のドケット番号/機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダ(Unified Agenda of Federal Regulatory and Deregulatory Actions)に掲載される各規制措置を識別するRIN",
+      "詳細については文書起草ハンドブック(Document Drafting Handbook)を参照のこと。",
+      "国務省",
+      "[公示:13117]",
+      "本件について作成された行政記録の検討に基づき、また司法長官及び財務長官と協議の上、私は、移民及び国籍法(以下「INA」という。)第219条(合衆国法典第8編第1189条)に定める関連事情が、ロス・ティグエロネス(別名ロス・フェニックス及びロス・イグアリトス)に関して存在すると認めるに足る十分な事実上の根拠があると結論するに至った。",
+      "したがって、私は、INA第219条に基づき、前記組織及びそのそれぞれの別名を外国テロ組織として指定する。",
+      "この決定は連邦官報に公示されるものとする。この指定は公示をもって効力を生じる。",
+      "日付:2026年8月3日",
+      "マルコ・ルビオ",
+      "国務長官、アメリカ合衆国国務省",
+      "[連邦官報文書番号 2026-18442、2026年9月9日午前8時45分提出]",
+      "請求コード 4710-AD-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
