@@ -120,7 +120,8 @@ class _Blocks(HTMLParser):
 
     def handle_data(self, data: str) -> None:
         if not self.skip:
-            self.buf.append(data)
+            # 원본 HTML의 줄바꿈은 의미가 없습니다. 줄바꿈은 <br> 에서만 만듭니다.
+            self.buf.append(re.sub(r"\s+", " ", data))
 
 
 def html_to_blocks(page: str, title: str = "") -> list[dict[str, str]]:
@@ -558,7 +559,7 @@ CSS = """
 .ft-bar button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .ft-note{font-size:12.5px;color:var(--faint);margin:0 0 16px}
 .ft-row{margin:0 0 13px;line-height:1.8}
-.ft-row>div{white-space:pre-line}
+.ft-row>div{white-space:normal}
 .ft-h{font-weight:700;font-size:16.5px;margin-top:22px}
 .ft-li{position:relative;padding-left:18px}
 .ft-li>div::before{content:"\\2022";position:absolute;left:4px}
