@@ -95,5 +95,119 @@
     "employment",
     "humanitarian"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "08/28/2026"
+      },
+      {
+        "t": "p",
+        "x": "On Aug. 24, 2026, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C., et al., v. Joseph B. Edlow, 26-cv-04850-CRB (NDCA), enjoining PM 602-0192, and PM 602-0194. USCIS is ordered to adjudicate applications in the normal course of USCIS’ process."
+      },
+      {
+        "t": "p",
+        "x": "Further, the Court granted plaintiff’s motion for class certification. The Court certified the class below in this action of individuals who:"
+      },
+      {
+        "t": "p",
+        "x": "(1) Are citizens or natives of one or more of the 39 countries listed in Presidential Proclamations 10949 or 10998, or the Palestinian Authority; and"
+      },
+      {
+        "t": "p",
+        "x": "(2) Who are seeking asylum with an I-589 application pending; or"
+      },
+      {
+        "t": "p",
+        "x": "(3) Otherwise have a benefit application pending with U.S. Citizenship and Immigration Services;"
+      },
+      {
+        "t": "p",
+        "x": "(4) That is subject to the adjudication hold imposed by USCIS Policy Memorandum PM-602-0192 (Dec. 2, 2025) or PM-602-0194 (Jan. 1, 2026) that has not received final adjudication as of the date of class certification."
+      },
+      {
+        "t": "p",
+        "x": "USCIS strongly disagrees with the Court’s order but will follow its terms pending possible further judicial review."
+      },
+      {
+        "t": "p",
+        "x": "The Policy Memoranda were issued based on Presidential Proclamation 10949, Restricting the Entry of Foreign Nationals To Protect the United States From Foreign Terrorists and Other National Security and Public Safety Threats, June 4, 2025, and Presidential Proclamation 10998, Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States, Dec. 16, 2025, and to enhance the screening and vetting process, as well as address threats to national security and public safety."
+      },
+      {
+        "t": "p",
+        "x": "USCIS will issue updated instructions pending further litigation developments."
+      },
+      {
+        "t": "p",
+        "x": "08/28/2026"
+      }
+    ],
+    "fetched": "2026-10-12T20:00Z",
+    "from": "page",
+    "chars": 1698
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 8월 28일",
+      "2026년 8월 24일, 캘리포니아 북부지방법원(U.S. District Court for the Northern District of California)은 Red Eagle Law, L.C. 외 대 Joseph B. Edlow, 사건번호 26-cv-04850-CRB(NDCA) 소송에서 PM 602-0192 및 PM 602-0194의 시행을 금지하는 명령을 내렸습니다. 미국 시민권이민서비스국(USCIS)은 통상적인 USCIS의 절차에 따라 신청서를 심사하도록 명령받았습니다.",
+      "또한, 법원은 원고의 집단소송 인증 신청을 인용하였습니다. 법원은 다음과 같은 개인들로 구성된 집단을 이 소송에서 인증하였습니다.",
+      "(1) 대통령 포고문 10949호 또는 10998호에 열거된 39개국 중 하나 이상의 국가의 국민 또는 출신자이거나 팔레스타인 자치정부 소속인 자, 그리고",
+      "(2) I-589 신청서가 계류 중인 상태로 망명을 신청하고 있는 자, 또는",
+      "(3) 그 밖에 미국 시민권이민서비스국에 계류 중인 혜택 신청서가 있는 자로서,",
+      "(4) USCIS 정책 메모랜덤 PM-602-0192(2025년 12월 2일자) 또는 PM-602-0194(2026년 1월 1일자)에 의해 부과된 심사 보류 조치의 적용을 받으며, 집단 인증일 현재 최종 심사 결정을 받지 못한 자.",
+      "USCIS는 법원의 명령에 강력히 반대하나, 추가적인 사법 심리가 진행되는 동안 그 명령의 내용을 준수할 것입니다.",
+      "해당 정책 메모랜덤들은 2025년 6월 4일자 대통령 포고문 10949호, 외국인 테러리스트 및 기타 국가안보와 공공안전 위협으로부터 미국을 보호하기 위한 외국인의 입국 제한에 관한 포고문, 그리고 2025년 12월 16일자 대통령 포고문 10998호, 미국의 안보를 보호하기 위한 외국인의 입국 제한 및 규제에 관한 포고문에 근거하여 발행되었으며, 심사 및 검증 절차를 강화하고 국가안보 및 공공안전에 대한 위협에 대응하기 위한 것입니다.",
+      "USCIS는 추가적인 소송 진행 상황에 따라 갱신된 지침을 발표할 예정입니다.",
+      "2026년 8월 28일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "28/08/2026",
+      "El 24 de agosto de 2026, el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California (U.S. District Court for the Northern District of California) emitió una orden en el caso Red Eagle Law, L.C., et al., v. Joseph B. Edlow, 26-cv-04850-CRB (NDCA), que prohíbe la aplicación del Memorando de Política PM 602-0192 y del PM 602-0194. Se ordena a USCIS que adjudique las solicitudes conforme al curso normal del proceso de USCIS.",
+      "Además, el Tribunal otorgó la moción de la parte demandante para la certificación de clase. El Tribunal certificó la clase a continuación en esta acción, compuesta por personas que:",
+      "(1) Son ciudadanos o nativos de uno o más de los 39 países enumerados en las Proclamaciones Presidenciales 10949 o 10998, o de la Autoridad Palestina; y",
+      "(2) Que están solicitando asilo con una solicitud I-589 pendiente; o",
+      "(3) Que de otro modo tienen una solicitud de beneficio pendiente ante el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS);",
+      "(4) Que está sujeta a la suspensión de adjudicación impuesta por el Memorando de Política PM-602-0192 de USCIS (2 de diciembre de 2025) o el PM-602-0194 (1 de enero de 2026), que no haya recibido adjudicación final a la fecha de la certificación de clase.",
+      "USCIS está en fuerte desacuerdo con la orden del Tribunal, pero cumplirá con sus términos en espera de una posible revisión judicial adicional.",
+      "Los Memorandos de Política se emitieron con base en la Proclamación Presidencial 10949, Restricción de la Entrada de Ciudadanos Extranjeros para Proteger a los Estados Unidos de Terroristas Extranjeros y Otras Amenazas a la Seguridad Nacional y la Seguridad Pública, del 4 de junio de 2025, y la Proclamación Presidencial 10998, Restricción y Limitación de la Entrada de Ciudadanos Extranjeros para Proteger la Seguridad de los Estados Unidos, del 16 de diciembre de 2025, y para mejorar el proceso de evaluación y verificación, así como para abordar las amenazas a la seguridad nacional y la seguridad pública.",
+      "USCIS emitirá instrucciones actualizadas en espera de futuros acontecimientos en el litigio.",
+      "28/08/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年8月28日",
+      "2026年8月24日，美国加利福尼亚北区联邦地区法院在Red Eagle Law, L.C.等诉Joseph B. Edlow案（案号26-cv-04850-CRB，加利福尼亚北区）中发布命令，禁止执行PM 602-0192号和PM 602-0194号政策备忘录。法院命令美国公民及移民服务局（USCIS）按照其正常程序裁决申请。",
+      "此外，法院批准了原告提出的集体诉讼认证动议。法院在本案中认证的集体范围为以下人员：",
+      "（1）系总统公告10949号或10998号所列39个国家之一的公民或本国国民，或为巴勒斯坦权力机构的公民或本国国民；并且",
+      "（2）正在寻求庇护，且已提交尚未审结的I-589表格申请；或",
+      "（3）在美国公民及移民服务局有其他尚未审结的福利申请；",
+      "（4）该申请属于美国公民及移民服务局政策备忘录PM-602-0192号（2025年12月2日）或PM-602-0194号（2026年1月1日）所规定的裁决暂停范围，且截至集体认证之日尚未获得最终裁决。",
+      "美国公民及移民服务局强烈不同意法院的命令，但在可能的进一步司法审查结果出来之前，将遵守该命令的各项条款。",
+      "上述政策备忘录系根据2025年6月4日第10949号总统公告《限制外国国民入境以保护美国免受外国恐怖分子及其他国家安全和公共安全威胁》，以及2025年12月16日第10998号总统公告《限制和限定外国国民入境以保护美国安全》而发布，旨在加强筛查和审查程序，并应对国家安全和公共安全方面的威胁。",
+      "美国公民及移民服务局将根据诉讼的后续进展发布更新指示。",
+      "2026年8月28日"
+    ],
+    "ja": [
+      "公開日",
+      "2026年8月28日",
+      "2026年8月24日、米国カリフォルニア州北部地区連邦地方裁判所は、Red Eagle Law, L.C., et al., v. Joseph B. Edlow事件、26-cv-04850-CRB(北部カリフォルニア地区)において命令を発し、PM 602-0192及びPM 602-0194の実施を差し止めた。米国市民権移民局(USCIS)は、USCISの通常の手続きの過程において申請を審査するよう命じられている。",
+      "さらに、裁判所は原告のクラス認証の申立てを認めた。裁判所は、本訴訟において以下に該当する個人のクラスを認証した。",
+      "(1)大統領布告10949号もしくは10998号に列挙された39か国のうちいずれか一つ、またはパレスチナ自治政府の市民もしくは出身者であること、かつ",
+      "(2)I-589申請が係属中であり、庇護を求めていること、または",
+      "(3)その他、米国市民権移民局に対する利益申請が係属中であること。",
+      "(4)当該申請が、USCIS政策覚書PM-602-0192(2025年12月2日付)またはPM-602-0194(2026年1月1日付)によって課された審査保留の対象であり、クラス認証の日の時点で最終的な審査決定を受けていないこと。",
+      "USCISは裁判所の命令に強く異議を唱えるものであるが、今後の司法審査の可能性を踏まえつつ、その命令の内容に従うものとする。",
+      "これらの政策覚書は、2025年6月4日付の大統領布告10949号「外国テロリスト及びその他の国家安全保障及び公共安全上の脅威から米国を保護するための外国人の入国制限について」、及び2025年12月16日付の大統領布告10998号「米国の安全保障を保護するための外国人の入国の制限及び限定について」に基づき、審査及び審査手続を強化し、国家安全保障及び公共安全に対する脅威に対処するために発出されたものである。",
+      "USCISは、訴訟の今後の進展を踏まえ、更新された指示を発出する予定である。",
+      "2026年8月28日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
