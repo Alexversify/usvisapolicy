@@ -21,6 +21,26 @@
     "added": "2026-10-10T13:02Z"
   },
   {
+    "id": "0636e9837095",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york",
+    "published": "2026-10-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "Sanctuary City",
+      "ICE",
+      "DHS Statement"
+    ],
+    "added": "2026-10-12T15:04Z"
+  },
+  {
     "id": "8d26f82a3075",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
