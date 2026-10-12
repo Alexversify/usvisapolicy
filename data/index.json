@@ -2859,5 +2859,287 @@
       "FY2027"
     ],
     "added": "2026-10-12T20:09Z"
+  },
+  {
+    "id": "2aea5f9dd01d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14259/foreign-terrorist-organization-designation-of-juarez-cartel-and-los-viagras",
+    "published": "2026-07-16",
+    "effective_date": "2026-07-16",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "FTO Designation",
+      "Juarez Cartel",
+      "Los Viagras",
+      "Inadmissibility"
+    ],
+    "added": "2026-10-12T20:54Z"
+  },
+  {
+    "id": "c7ff0f7497e3",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-rescinds-2022-public-charge-regulation",
+    "published": "2026-07-16",
+    "effective_date": "2026-09-18",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "family",
+      "travel"
+    ],
+    "tags": [
+      "Public Charge",
+      "Form I-485",
+      "Adjustment of Status",
+      "DHS Final Rule"
+    ],
+    "added": "2026-10-12T20:53Z"
+  },
+  {
+    "id": "436f90cf6c9a",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260713-AttorneysAndRepresentatives.pdf",
+    "published": "2026-07-13",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Attorneys and Representatives",
+      "Policy Manual",
+      "USCIS"
+    ],
+    "added": "2026-10-12T20:55Z"
+  },
+  {
+    "id": "b6586bc5ccb2",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260710-SignatureRequirements.pdf",
+    "published": "2026-07-10",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Policy Manual",
+      "Signatures",
+      "Filing Instructions"
+    ],
+    "added": "2026-10-12T20:58Z"
+  },
+  {
+    "id": "080fde4afa7f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-plays-critical-role-in-illegal-aliens-sentencing-for-sex-trafficking-child-orphan",
+    "published": "2026-07-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "Sex Trafficking",
+      "Enforcement",
+      "Sentencing",
+      "ICE",
+      "USCIS"
+    ],
+    "added": "2026-10-12T20:56Z"
+  },
+  {
+    "id": "71a76a663d76",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/08/C1-2026-12542/naturalization-application-fee-adjustments",
+    "published": "2026-07-08",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "fees"
+    ],
+    "tags": [
+      "Naturalization",
+      "Fees",
+      "N-400",
+      "I-912",
+      "Correction"
+    ],
+    "added": "2026-10-12T20:59Z"
+  },
+  {
+    "id": "5162538bed4c",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13574/modification-and-clarification-of-the-national-customs-automation-program-test-regarding",
+    "published": "2026-07-06",
+    "effective_date": "2026-08-05",
+    "importance": "low",
+    "category": "notice",
+    "agency": "cbp",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Customs",
+      "Trade",
+      "CBP"
+    ],
+    "added": "2026-10-12T21:00Z"
+  },
+  {
+    "id": "f7336d3ce29d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13349/foreign-terrorist-organization-designation-of-chone-killers",
+    "published": "2026-07-02",
+    "effective_date": "2026-07-02",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "FTO",
+      "Terrorism Designation",
+      "INA 219"
+    ],
+    "added": "2026-10-12T21:18Z"
+  },
+  {
+    "id": "48435106b376",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13392/eb-5-reform-and-integrity-act-of-2022-ensuring-the-integrity-of-the-eb-5-program-automatic",
+    "published": "2026-07-02",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "eb5"
+    ],
+    "tags": [
+      "EB-5",
+      "Regional Center",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-12T21:06Z"
+  },
+  {
+    "id": "704be5b68ccd",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13419/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-07-02",
+    "effective_date": "2026-07-02",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Border Security",
+      "Texas"
+    ],
+    "added": "2026-10-12T21:04Z"
+  },
+  {
+    "id": "183b0b4e2fd0",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-atlanta",
+    "published": "2026-07-01",
+    "effective_date": "2026-07-08",
+    "importance": "medium",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "Asylum",
+      "Atlanta",
+      "Interview Scheduling"
+    ],
+    "added": "2026-10-12T21:19Z"
+  },
+  {
+    "id": "1403aa57999a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13098/crewmember-access-point",
+    "published": "2026-06-30",
+    "effective_date": "2027-01-01",
+    "importance": "low",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "TSA",
+      "Airport Security",
+      "Fees"
+    ],
+    "added": "2026-10-12T21:21Z"
+  },
+  {
+    "id": "2b028d80234d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/30/C1-2026-09289/signatures-on-immigration-benefit-requests",
+    "published": "2026-06-30",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Correction",
+      "Federal Register",
+      "Signatures"
+    ],
+    "added": "2026-10-12T21:20Z"
+  },
+  {
+    "id": "689a2b59594c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/man-sentenced-to-one-year-home-detention-for-visa-fraud",
+    "published": "2026-06-29",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "Visa Fraud",
+      "CW-1",
+      "Forced Labor",
+      "CNMI"
+    ],
+    "added": "2026-10-12T21:23Z"
   }
 ]

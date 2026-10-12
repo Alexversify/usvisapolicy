@@ -1,0 +1,274 @@
+{
+  "id": "b6586bc5ccb2",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260710-SignatureRequirements.pdf",
+  "original_title": "Read More",
+  "published": "2026-07-10",
+  "effective_date": null,
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "Policy Manual",
+    "Signatures",
+    "Filing Instructions"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, 이민 혜택 신청서 서명 요건 관련 정책 지침 발표",
+      "summary": "USCIS는 2026년 7월 10일 정책 매뉴얼을 통해 이민 혜택 신청서 제출 시 적용되는 서명 요건을 명확히 하는 지침을 발표했습니다. 이번 업데이트는 서명 관련 챕터와 제출 지침 챕터에 반영됩니다.",
+      "points": [
+        "USCIS는 정책 매뉴얼에서 서명 요건을 명확히 하는 지침을 발표했습니다.",
+        "이번 업데이트는 1 USCIS-PM B.2 제2장(서명)과 7 USCIS-PM A.3 제3장(제출 지침)에 반영됩니다.",
+        "구체적인 서명 요건의 세부 내용은 출처에 명시되어 있지 않습니다.",
+        "시행일은 출처에 명시되어 있지 않습니다."
+      ],
+      "who": "이민 혜택 신청서를 제출하는 모든 신청자와 대리인에게 영향을 줄 수 있습니다.",
+      "action": "신청서 제출 전 USCIS 정책 매뉴얼의 해당 챕터를 직접 확인하는 것이 권장됩니다."
+    },
+    "en": {
+      "title": "USCIS Clarifies Signature Requirements for Benefit Request Submissions",
+      "summary": "On July 10, 2026, USCIS issued policy guidance clarifying signature requirements that apply when submitting immigration benefit requests. The update affects the Policy Manual chapters on signatures and filing instructions.",
+      "points": [
+        "USCIS issued a policy alert clarifying signature requirements for benefit requests.",
+        "The guidance affects 1 USCIS-PM B.2, Chapter 2 on Signatures.",
+        "It also affects 7 USCIS-PM A.3, Chapter 3 on Filing Instructions.",
+        "The specific content of the new signature requirements is not detailed in the source.",
+        "No effective date is stated in the source."
+      ],
+      "who": "Anyone filing immigration benefit requests with USCIS, including applicants, petitioners and their representatives.",
+      "action": "Review the updated Policy Manual chapters directly before submitting benefit requests."
+    },
+    "es": {
+      "title": "USCIS aclara los requisitos de firma para presentar solicitudes de beneficios",
+      "summary": "El 10 de julio de 2026, USCIS emitió una guía de política que aclara los requisitos de firma aplicables al presentar solicitudes de beneficios migratorios. La actualización afecta los capítulos del Manual de Políticas sobre firmas e instrucciones de presentación.",
+      "points": [
+        "USCIS publicó una alerta de política sobre los requisitos de firma para solicitudes de beneficios.",
+        "La actualización afecta el Capítulo 2 sobre Firmas, 1 USCIS-PM B.2.",
+        "También afecta el Capítulo 3 sobre Instrucciones de Presentación, 7 USCIS-PM A.3.",
+        "El contenido específico de los nuevos requisitos de firma no se detalla en la fuente.",
+        "La fuente no indica una fecha de entrada en vigor."
+      ],
+      "who": "Afecta a solicitantes, peticionarios y representantes que presenten solicitudes de beneficios migratorios ante USCIS.",
+      "action": "Se recomienda revisar directamente los capítulos actualizados del Manual de Políticas antes de presentar una solicitud."
+    },
+    "zh": {
+      "title": "USCIS发布政策指南,明确福利申请的签名要求",
+      "summary": "2026年7月10日,USCIS在政策手册中发布指南,明确了提交移民福利申请时适用的签名要求。此次更新涉及政策手册中关于签名和提交说明的章节。",
+      "points": [
+        "USCIS发布政策提示,明确福利申请的签名要求。",
+        "更新内容涉及1 USCIS-PM B.2第2章,签名相关规定。",
+        "更新内容还涉及7 USCIS-PM A.3第3章,提交说明相关规定。",
+        "新签名要求的具体内容在来源中未详细说明。",
+        "来源未说明生效日期。"
+      ],
+      "who": "影响向USCIS提交移民福利申请的申请人、请愿人及其代理人。",
+      "action": "建议在提交申请前直接查阅政策手册中更新的相关章节。"
+    },
+    "ja": {
+      "title": "USCIS、利益申請における署名要件を明確化するポリシーガイダンスを発表",
+      "summary": "2026年7月10日、USCISは移民利益申請の提出時に適用される署名要件を明確にするポリシーガイダンスをポリシーマニュアルに発表しました。この更新は署名および提出手続きに関する章に反映されます。",
+      "points": [
+        "USCISは利益申請における署名要件を明確化するポリシーアラートを発表しました。",
+        "更新は1 USCIS-PM B.2 第2章(署名)に反映されます。",
+        "更新は7 USCIS-PM A.3 第3章(提出手続き)にも反映されます。",
+        "新しい署名要件の具体的な内容は出典に記載されていません。",
+        "施行日は出典に記載されていません。"
+      ],
+      "who": "USCISに移民利益申請を提出する申請者、請願者およびその代理人に影響します。",
+      "action": "申請を提出する前に、更新されたポリシーマニュアルの該当章を直接確認することが推奨されます。"
+    }
+  },
+  "added": "2026-10-12T20:58Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "U.S. Department of Homeland Security U.S. Citizenship and Immigration Services www.uscis.gov U.S. Citizenship and Immigration Services Office of the Director Camp Springs, MD 20588-0009 July 10, 2026 PA-2026-03 Policy Alert SUBJECT: Signature Requirements for the Submission of Benefit Requests Purpose U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to clarify the signature requirements that apply when submitting immigration benefit requests."
+      },
+      {
+        "t": "p",
+        "x": "Background USCIS requires a valid signature on benefit requests and certain other documents filed with USCIS. Except as otherwise specifically authorized, a benefit requestor must personally sign the request before filing it with USCIS. The lack of a valid signature on benefit requests and documents causes inefficient processing and strains resources. Providing clear guidance on signature requirements is necessary to prevent fraud and maintain USCIS’ commitment to benefit integrity. This guidance, contained in Volume 1 of the Policy Manual, is effective immediately and applies prospectively to requests filed on or after the publication date. The guidance contained in the Policy Manual is controlling and supersedes any related prior guidance."
+      },
+      {
+        "t": "p",
+        "x": "Policy Highlights"
+      },
+      {
+        "t": "li",
+        "x": "Clarifies what USCIS considers acceptable and unacceptable signatures for purposes of properly filing an immigration benefit request."
+      },
+      {
+        "t": "li",
+        "x": "Provides that, if USCIS accepts a benefit request for adjudication and determines later that it was not submitted with a valid signature, USCIS may reject or deny the request.1 1 See 8 CFR 103.2(a)(7)(ii)(A)(2). DHS published an interim final rule on May 11, 2026, to clarify USCIS procedures relating to the rejection or denial of benefit requests that do not meet regulatory requirements to ensure better enforcement of signature requirements. See 91 FR 25479 (May 11, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "PA-2026-03: Signature Requirements for the Submission of Benefit Requests Page: 2"
+      },
+      {
+        "t": "li",
+        "x": "Clarifies that USCIS only accepts signatures captured electronically where such signatures are provided through a USCIS online account when prompted during online filing, as permitted by regulations or form instructions.2"
+      },
+      {
+        "t": "li",
+        "x": "Explains that valid signatures include original signatures on requests that are photocopied, scanned, faxed, or similarly reproduced."
+      },
+      {
+        "t": "li",
+        "x": "Explains that an image of a handwritten signature that is subsequently and separately affixed to the benefit request by either physical or electronic methods is not a valid signature."
+      },
+      {
+        "t": "li",
+        "x": "Reiterates that, where a reproduction of an original signature is submitted, USCIS may request documents containing the original signature at any time.3"
+      },
+      {
+        "t": "li",
+        "x": "Clarifies that signature requirements for purposes of affidavits and other supporting documents are addressed in the respective benefit request regulations or form instructions. S ummary of Changes Affected Section: Volume 1 > Part B > Chapter 2, Signatures"
+      },
+      {
+        "t": "li",
+        "x": "Revises Section A (Signature Requirement) throughout."
+      },
+      {
+        "t": "li",
+        "x": "Revises the second paragraph and table in Section B (Valid Signature)."
+      },
+      {
+        "t": "li",
+        "x": "Adds new footnote in Section C (Who May Sign) and other technical edits throughout. Affected Section: Volume 7 > Part A > Chapter 3, Filing Instructions"
+      },
+      {
+        "t": "li",
+        "x": "Revises first paragraph and bulleted list in Section B (Definition of Properly Filed)."
+      },
+      {
+        "t": "li",
+        "x": "Deletes table entitled, “Acceptable and Unacceptable Signatures” in Section B, Subsection 2 (Signature Requirements)."
+      },
+      {
+        "t": "li",
+        "x": "Adds two footnotes to the first paragraph of Section C (Concurrent Filings). USCIS may also make other minor technical, stylistic, and conforming changes consistent with this update."
+      },
+      {
+        "t": "p",
+        "x": "Citation Volume 1: General Policies and Procedures, Part B, Submission of Benefit Requests, Chapter 2, Signatures [1 USCIS-PM B.2]."
+      },
+      {
+        "t": "p",
+        "x": "2 Alternative signature methods using electronic means may be acceptable when the document is signed in the presence of a government official. For example, USCIS permits Form I-590 to be signed with an electronic signature at an interview."
+      },
+      {
+        "t": "p",
+        "x": "3 See 8 CFR 103.2(b)(5)."
+      },
+      {
+        "t": "p",
+        "x": "PA-2026-03: Signature Requirements for the Submission of Benefit Requests Page: 3 Volume 7: Adjustment of Status, Part A, Adjustment of Status Policies and Procedures, Chapter 3, Filing Instructions [7 USCIS-PM A.3]."
+      }
+    ],
+    "fetched": "2026-10-12T20:58Z",
+    "from": "pdf",
+    "chars": 4176
+  },
+  "full": {
+    "ko": [
+      "미국 국토안보부 미국 시민권이민서비스국 www.uscis.gov 미국 시민권이민서비스국 국장실 캠프 스프링스, MD 20588-0009 2026년 7월 10일 PA-2026-03 정책 알림 제목: 혜택 신청서 제출 시 서명 요건 목적 미국 시민권이민서비스국(USCIS)은 이민 혜택 신청서 제출 시 적용되는 서명 요건을 명확히 하기 위하여 USCIS 정책 매뉴얼에 정책 지침을 발표합니다.",
+      "배경 USCIS는 USCIS에 제출되는 혜택 신청서 및 특정 기타 문서에 유효한 서명을 요구합니다. 별도로 구체적으로 허용되지 않는 한, 혜택 신청인은 USCIS에 신청서를 제출하기 전에 직접 서명하여야 합니다. 혜택 신청서 및 문서에 유효한 서명이 없는 경우 처리의 비효율성을 초래하고 자원에 부담을 줍니다. 서명 요건에 관한 명확한 지침을 제공하는 것은 사기를 방지하고 혜택의 진정성에 대한 USCIS의 약속을 유지하기 위하여 필요합니다. 정책 매뉴얼 제1권에 수록된 본 지침은 즉시 발효되며, 공표일 이후 제출되는 신청서에 장래적으로 적용됩니다. 정책 매뉴얼에 수록된 지침이 우선하며, 이와 관련된 이전의 모든 지침을 대체합니다.",
+      "정책 주요 사항",
+      "이민 혜택 신청서를 적절히 제출하기 위한 목적에서 USCIS가 인정 가능한 서명 및 인정 불가능한 서명으로 간주하는 사항을 명확히 합니다.",
+      "USCIS가 심사를 위하여 혜택 신청서를 접수한 후 유효한 서명 없이 제출되었음을 추후 확인한 경우, USCIS는 해당 신청서를 거부하거나 거절할 수 있다는 점을 규정합니다.1 1 8 CFR 103.2(a)(7)(ii)(A)(2) 참조. 국토안보부(DHS)는 서명 요건에 대한 더 나은 집행을 보장하기 위하여 규정 요건을 충족하지 못하는 혜택 신청서의 거부 또는 거절과 관련된 USCIS 절차를 명확히 하기 위하여 2026년 5월 11일자로 잠정 최종 규칙을 공표하였습니다. 91 FR 25479 (2026년 5월 11일) 참조.",
+      "PA-2026-03: 혜택 신청서 제출 시 서명 요건 페이지: 2",
+      "USCIS는 온라인 제출 중 안내에 따라 USCIS 온라인 계정을 통해 제공되는 서명으로서, 규정 또는 양식 안내서에 의하여 허용되는 경우에만 전자적으로 수집된 서명을 인정한다는 점을 명확히 합니다.2",
+      "유효한 서명에는 복사, 스캔, 팩스 또는 이와 유사한 방식으로 복제된 신청서상의 원본 서명이 포함됨을 설명합니다.",
+      "물리적 또는 전자적 방법으로 추후에 별도로 혜택 신청서에 부착된 수기 서명의 이미지는 유효한 서명이 아님을 설명합니다.",
+      "원본 서명의 복제본이 제출되는 경우, USCIS는 언제든지 원본 서명이 포함된 문서를 요청할 수 있음을 재확인합니다.3",
+      "진술서 및 기타 지원 문서의 목적을 위한 서명 요건은 각 혜택 신청서 관련 규정 또는 양식 안내서에서 다루어짐을 명확히 합니다. 변경 사항 요약 영향을 받는 항목: 제1권 > 파트 B > 제2장, 서명",
+      "섹션 A(서명 요건) 전반을 개정합니다.",
+      "섹션 B(유효한 서명)의 두 번째 단락 및 표를 개정합니다.",
+      "섹션 C(서명 권한자)에 새로운 각주를 추가하고, 전반에 걸쳐 기타 기술적 수정을 가합니다. 영향을 받는 항목: 제7권 > 파트 A > 제3장, 제출 지침",
+      "섹션 B(적절한 제출의 정의)의 첫 번째 단락 및 항목별 목록을 개정합니다.",
+      "섹션 B, 하위섹션 2(서명 요건)의 “인정 가능한 서명 및 인정 불가능한 서명”이라는 제목의 표를 삭제합니다.",
+      "섹션 C(동시 제출)의 첫 번째 단락에 각주 두 개를 추가합니다. USCIS는 본 업데이트와 일치하는 기타 사소한 기술적, 문체적, 정합성 변경을 가할 수도 있습니다.",
+      "인용 제1권: 일반 정책 및 절차, 파트 B, 혜택 신청서 제출, 제2장, 서명 [1 USCIS-PM B.2].",
+      "2 정부 공무원 입회 하에 문서에 서명하는 경우, 전자적 수단을 사용하는 대체 서명 방법이 인정될 수 있습니다. 예를 들어, USCIS는 면접 시 Form I-590에 전자 서명으로 서명하는 것을 허용합니다.",
+      "3 8 CFR 103.2(b)(5) 참조.",
+      "PA-2026-03: 혜택 신청서 제출 시 서명 요건 페이지: 3 제7권: 신분 조정, 파트 A, 신분 조정 정책 및 절차, 제3장, 제출 지침 [7 USCIS-PM A.3]."
+    ],
+    "es": [
+      "Departamento de Seguridad Nacional de los Estados Unidos Servicio de Ciudadanía e Inmigración de los Estados Unidos www.uscis.gov Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) Oficina del Director Camp Springs, MD 20588-0009 10 de julio de 2026 PA-2026-03 Alerta de Política ASUNTO: Requisitos de Firma para la Presentación de Solicitudes de Beneficios Propósito El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está emitiendo lineamientos de política en el Manual de Políticas de USCIS para aclarar los requisitos de firma que se aplican al presentar solicitudes de beneficios de inmigración.",
+      "Antecedentes USCIS requiere una firma válida en las solicitudes de beneficios y en ciertos otros documentos presentados ante USCIS. Salvo que se autorice específicamente lo contrario, el solicitante de un beneficio debe firmar personalmente la solicitud antes de presentarla ante USCIS. La falta de una firma válida en las solicitudes de beneficios y documentos causa un procesamiento ineficiente y ejerce presión sobre los recursos. Proporcionar lineamientos claros sobre los requisitos de firma es necesario para prevenir el fraude y mantener el compromiso de USCIS con la integridad de los beneficios. Este lineamiento, contenido en el Volumen 1 del Manual de Políticas, entra en vigor de inmediato y se aplica de manera prospectiva a las solicitudes presentadas en o después de la fecha de publicación. El lineamiento contenido en el Manual de Políticas es vinculante y reemplaza cualquier lineamiento previo relacionado.",
+      "Aspectos Destacados de la Política",
+      "Aclara lo que USCIS considera firmas aceptables e inaceptables para efectos de la presentación adecuada de una solicitud de beneficio de inmigración.",
+      "Establece que, si USCIS acepta una solicitud de beneficio para su adjudicación y posteriormente determina que no se presentó con una firma válida, USCIS puede rechazar o denegar la solicitud.1 1 Véase 8 CFR 103.2(a)(7)(ii)(A)(2). El DHS publicó una regla final provisional el 11 de mayo de 2026, para aclarar los procedimientos de USCIS relacionados con el rechazo o la denegación de solicitudes de beneficios que no cumplen con los requisitos reglamentarios, a fin de garantizar un mejor cumplimiento de los requisitos de firma. Véase 91 FR 25479 (11 de mayo de 2026).",
+      "PA-2026-03: Requisitos de Firma para la Presentación de Solicitudes de Beneficios Página: 2",
+      "Aclara que USCIS solo acepta firmas capturadas electrónicamente cuando dichas firmas se proporcionan a través de una cuenta en línea de USCIS cuando se solicita durante la presentación en línea, según lo permitan los reglamentos o las instrucciones del formulario.2",
+      "Explica que las firmas válidas incluyen firmas originales en solicitudes que son fotocopiadas, escaneadas, enviadas por fax o reproducidas de manera similar.",
+      "Explica que una imagen de una firma manuscrita que posteriormente y de manera separada se adjunta a la solicitud de beneficio mediante métodos físicos o electrónicos no constituye una firma válida.",
+      "Reitera que, cuando se presenta una reproducción de una firma original, USCIS puede solicitar en cualquier momento los documentos que contengan la firma original.3",
+      "Aclara que los requisitos de firma para efectos de declaraciones juradas y otros documentos de respaldo se abordan en los respectivos reglamentos de solicitud de beneficios o en las instrucciones del formulario. Resumen de Cambios Sección Afectada: Volumen 1 > Parte B > Capítulo 2, Firmas",
+      "Revisa la Sección A (Requisito de Firma) en su totalidad.",
+      "Revisa el segundo párrafo y la tabla en la Sección B (Firma Válida).",
+      "Agrega una nueva nota al pie en la Sección C (Quién Puede Firmar) y otras correcciones técnicas a lo largo del documento. Sección Afectada: Volumen 7 > Parte A > Capítulo 3, Instrucciones de Presentación",
+      "Revisa el primer párrafo y la lista con viñetas en la Sección B (Definición de Presentación Adecuada).",
+      "Elimina la tabla titulada, \"Firmas Aceptables e Inaceptables\" en la Sección B, Subsección 2 (Requisitos de Firma).",
+      "Agrega dos notas al pie al primer párrafo de la Sección C (Presentaciones Simultáneas). USCIS también puede realizar otros cambios menores de carácter técnico, estilístico y de conformidad, en consonancia con esta actualización.",
+      "Cita Volumen 1: Políticas y Procedimientos Generales, Parte B, Presentación de Solicitudes de Beneficios, Capítulo 2, Firmas [1 USCIS-PM B.2].",
+      "2 Los métodos alternativos de firma mediante medios electrónicos pueden ser aceptables cuando el documento se firma en presencia de un funcionario gubernamental. Por ejemplo, USCIS permite que el Formulario I-590 se firme con una firma electrónica durante una entrevista.",
+      "3 Véase 8 CFR 103.2(b)(5).",
+      "PA-2026-03: Requisitos de Firma para la Presentación de Solicitudes de Beneficios Página: 3 Volumen 7: Ajuste de Estatus, Parte A, Políticas y Procedimientos de Ajuste de Estatus, Capítulo 3, Instrucciones de Presentación [7 USCIS-PM A.3]."
+    ],
+    "zh": [
+      "美国国土安全部 美国公民及移民服务局 www.uscis.gov 美国公民及移民服务局局长办公室 马里兰州坎普斯普林斯 20588-0009 2026年7月10日 PA-2026-03 政策警示 主题：提交福利申请的签名要求 目的 美国公民及移民服务局（USCIS）正在《USCIS政策手册》中发布政策指南，以澄清在提交移民福利申请时适用的签名要求。",
+      "背景 USCIS要求在向USCIS提交的福利申请及某些其他文件上须有有效签名。除非另有特别授权，福利申请人必须在向USCIS提交申请前亲自签署该申请。福利申请和文件上缺乏有效签名会导致处理效率低下并对资源造成压力。就签名要求提供明确指南对于防止欺诈和维护USCIS对福利诚信的承诺是必要的。本指南载于《政策手册》第1卷，自即日起生效，适用于自发布之日起或之后提交的申请。《政策手册》中所载指南具有约束力，并取代任何相关的先前指南。",
+      "政策要点",
+      "澄清了USCIS认为可接受和不可接受的签名，以便正确提交移民福利申请。",
+      "规定如果USCIS接受某项福利申请进行裁决，但其后确定该申请未附有效签名，USCIS可拒收或拒绝该申请。1 1 参见8 CFR 103.2(a)(7)(ii)(A)(2)。美国国土安全部（DHS）于2026年5月11日发布了一项临时最终规则，以澄清USCIS有关拒收或拒绝不符合法规要求的福利申请的程序，从而确保更好地执行签名要求。参见91 FR 25479（2026年5月11日）。",
+      "PA-2026-03：提交福利申请的签名要求 第2页",
+      "澄清USCIS仅在通过USCIS在线账户在在线提交过程中按提示提供的情况下，才接受以电子方式采集的签名，且须符合法规或表格说明的规定。2",
+      "说明有效签名包括经影印、扫描、传真或以类似方式复制的申请上的原始签名。",
+      "说明手写签名的图像如随后以物理或电子方式单独附加于福利申请上，则不构成有效签名。",
+      "重申如果提交的是原始签名的复制件，USCIS可随时要求提供载有原始签名的文件。3",
+      "澄清出于宣誓书及其他辅助文件目的的签名要求，在各自福利申请的法规或表格说明中予以规定。 变更摘要 受影响章节：第1卷 > B部分 > 第2章，签名",
+      "全文修订A节（签名要求）。",
+      "修订B节（有效签名）第二段及表格。",
+      "在C节（谁可以签署）中新增脚注，并在全文中作出其他技术性修订。 受影响章节：第7卷 > A部分 > 第3章，提交说明",
+      "修订B节（正式提交的定义）第一段及项目符号列表。",
+      "删除B节第2小节（签名要求）中题为“可接受和不可接受的签名”的表格。",
+      "在C节（同时提交）第一段中新增两条脚注。USCIS还可能根据本次更新作出其他与之相符的细微技术性、文体性及一致性修改。",
+      "引用 第1卷：总体政策与程序，B部分，福利申请的提交，第2章，签名 [1 USCIS-PM B.2]。",
+      "2 当文件在政府官员在场的情况下签署时，使用电子方式的替代签名方法可能被接受。例如，USCIS允许在面谈时以电子签名签署I-590表。",
+      "3 参见8 CFR 103.2(b)(5)。",
+      "PA-2026-03：提交福利申请的签名要求 第3页 第7卷：身份调整，A部分，身份调整政策与程序，第3章，提交说明 [7 USCIS-PM A.3]。"
+    ],
+    "ja": [
+      "米国国土安全保障省（Department of Homeland Security）米国市民権・移民局（U.S. Citizenship and Immigration Services）www.uscis.gov 米国市民権・移民局 局長室 Camp Springs, MD 20588-0009 2026年7月10日 PA-2026-03 政策警告 件名：給付申請の提出における署名要件 目的 米国市民権・移民局（USCIS）は、移民給付申請を提出する際に適用される署名要件を明確化するため、USCIS政策マニュアルにおいて政策指針を発行する。",
+      "背景 USCISは、給付申請及びUSCISに提出される特定のその他の書類について有効な署名を要求する。特に別段の許可がある場合を除き、給付申請者は、USCISに申請書を提出する前に自ら署名しなければならない。給付申請及び書類に有効な署名が欠けていることは、非効率な処理を招き、資源を圧迫する。署名要件に関する明確な指針を提供することは、不正行為を防止し、給付の完全性に対するUSCISの責務を維持するために必要である。政策マニュアル第1巻に含まれるこの指針は、直ちに発効し、公表日以降に提出される申請に将来にわたって適用される。政策マニュアルに含まれる指針が優先し、これに関連する従前の指針に優先する。",
+      "政策の要点",
+      "移民給付申請を適正に提出する目的上、USCISが許容可能及び許容不可能とみなす署名を明確化する。",
+      "USCISが給付申請を審査のために受理した後、有効な署名が付されずに提出されたものであると判明した場合、USCISは当該申請を却下又は拒否することができる旨を規定する。1 1 8 CFR 103.2(a)(7)(ii)(A)(2)を参照。国土安全保障省（DHS）は、規制上の要件を満たさない給付申請の却下又は拒否に関するUSCISの手続を明確化し、署名要件のより良い執行を確保するため、2026年5月11日に暫定最終規則を公表した。91 FR 25479（2026年5月11日）参照。",
+      "PA-2026-03：給付申請の提出における署名要件 2ページ",
+      "規則又は様式の説明書により許可されている場合であって、オンライン申請の際にUSCISオンラインアカウントを通じて求められたときに提供される署名に限り、USCISが電子的に取得された署名を受け入れる旨を明確化する。2",
+      "有効な署名には、複写、スキャン、ファックス送信又は類似の方法で複製された申請書上の原本署名が含まれる旨を説明する。",
+      "手書き署名の画像が、その後別途、物理的又は電子的手段により給付申請書に付加された場合、これは有効な署名ではない旨を説明する。",
+      "原本署名の複製が提出された場合、USCISはいつでも原本署名を含む書類を要求することができる旨を再確認する。3",
+      "宣誓供述書及びその他の裏付け書類の目的上の署名要件については、それぞれの給付申請に関する規則又は様式の説明書において規定されている旨を明確化する。変更の概要 対象セクション：第1巻 ＞ パートB ＞ 第2章、署名",
+      "セクションA（署名要件）全体を改訂する。",
+      "セクションB（有効な署名）の第2段落及び表を改訂する。",
+      "セクションC（署名することができる者）に新たな脚注を追加し、全体にわたってその他の技術的編集を行う。 対象セクション：第7巻 ＞ パートA ＞ 第3章、提出手続",
+      "セクションB（適正に提出されたことの定義）の第1段落及び箇条書きを改訂する。",
+      "セクションB、小項目2（署名要件）の「許容可能及び許容不可能な署名」と題する表を削除する。",
+      "セクションC（同時提出）の第1段落に脚注を2つ追加する。 USCISは、本更新と整合する、その他の軽微な技術的、文体的及び整合性のための変更を行うこともある。",
+      "引用 第1巻：総則及び手続、パートB、給付申請の提出、第2章、署名 [1 USCIS-PM B.2]。",
+      "2 電子的手段を用いた代替の署名方法は、当該書類が政府職員の面前で署名される場合には許容され得る。例えば、USCISは、面接においてフォームI-590に電子署名で署名することを許可している。",
+      "3 8 CFR 103.2(b)(5)を参照。",
+      "PA-2026-03：給付申請の提出における署名要件 3ページ 第7巻：在留資格調整、パートA、在留資格調整の政策及び手続、第3章、提出手続 [7 USCIS-PM A.3]。"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
