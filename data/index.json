@@ -3430,6 +3430,25 @@
     "added": "2026-10-12T22:01Z"
   },
   {
+    "id": "aa9131b19f83",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11473/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-06-09",
+    "effective_date": "2026-06-09",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Texas"
+    ],
+    "added": "2026-10-12T23:07Z"
+  },
+  {
     "id": "41cb54508d08",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
@@ -3449,5 +3468,131 @@
       "Department of State"
     ],
     "added": "2026-10-12T22:04Z"
+  },
+  {
+    "id": "270417b0b9d3",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11285/clarification-of-discretionary-employment-authorization-for-certain-aliens",
+    "published": "2026-06-05",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "employment",
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "EAD",
+      "Employment Authorization",
+      "Parole",
+      "Deferred Action",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-12T23:12Z"
+  },
+  {
+    "id": "379666b5f576",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11323/foreign-terrorist-organization-designation-of-primeiro-comando-da-capital-and-comando-vermelho",
+    "published": "2026-06-05",
+    "effective_date": "2026-06-05",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "Foreign Terrorist Organization",
+      "Brazil",
+      "Inadmissibility",
+      "INA 219"
+    ],
+    "added": "2026-10-12T23:11Z"
+  },
+  {
+    "id": "772d42ab51fc",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-asylum-office-in-san-antonio",
+    "published": "2026-06-05",
+    "effective_date": "2026-05-28",
+    "importance": "low",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "Asylum",
+      "USCIS",
+      "San Antonio"
+    ],
+    "added": "2026-10-12T23:10Z"
+  },
+  {
+    "id": "6bd7e09dddcc",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11135/departure-notification-record",
+    "published": "2026-06-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "ICE",
+      "PRA",
+      "Voluntary Departure",
+      "CBP Home",
+      "Information Collection"
+    ],
+    "added": "2026-10-12T23:25Z"
+  },
+  {
+    "id": "40482bf7402c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-screening-and-vetting-efforts-lead-to-18-month-sentencing-of-illegal-alien-in-fraud-case",
+    "published": "2026-06-01",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "Fraud",
+      "Work Permit",
+      "CNMI",
+      "Registry Provision"
+    ],
+    "added": "2026-10-12T23:26Z"
+  },
+  {
+    "id": "380778ffe156",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance",
+    "published": "2026-05-29",
+    "effective_date": null,
+    "importance": "low",
+    "category": "policy",
+    "agency": "other",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Federal Grants",
+      "OMB",
+      "Federal Financial Assistance"
+    ],
+    "added": "2026-10-12T23:27Z"
   }
 ]
