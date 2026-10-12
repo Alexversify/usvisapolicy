@@ -86,5 +86,71 @@
   "topics": [
     "employment"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/11/2026"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services received enough petitions to meet the congressionally established H-2B cap for the first half of fiscal year (FY) 2027. Sept. 4, 2026 was the final receipt date for new cap-subject H-2B worker petitions requesting an employment start date before April 1, 2027. We will reject new cap-subject H-2B petitions received after Sept. 4, 2026, that request an employment start date before April 1, 2027."
+      },
+      {
+        "t": "p",
+        "x": "Anyone, including U.S. workers and H-2B workers, can send us tips, alleged violations, and other relevant information about potential fraud or abuse using our online tip form."
+      },
+      {
+        "t": "p",
+        "x": "For more information, visit the Cap Count for H-2B Nonimmigrants page."
+      },
+      {
+        "t": "p",
+        "x": "09/11/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:59Z",
+    "from": "page",
+    "chars": 715
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 9월 11일",
+      "미국 시민권 및 이민 서비스국(USCIS)은 2027회계연도 상반기에 대해 의회가 설정한 H-2B 쿼터를 충족하기에 충분한 청원서를 접수하였습니다. 2026년 9월 4일은 2027년 4월 1일 이전 고용 시작일을 요청하는 신규 쿼터 적용 대상 H-2B 근로자 청원서의 최종 접수일이었습니다. 당국은 2026년 9월 4일 이후에 접수되고 2027년 4월 1일 이전 고용 시작일을 요청하는 신규 쿼터 적용 대상 H-2B 청원서를 반려할 것입니다.",
+      "미국인 근로자와 H-2B 근로자를 포함한 모든 사람은 당국의 온라인 제보 양식을 통해 잠재적인 사기 또는 남용에 관한 제보, 위반 혐의, 기타 관련 정보를 제출할 수 있습니다.",
+      "자세한 내용은 H-2B 비이민자 쿼터 집계(Cap Count for H-2B Nonimmigrants) 페이지를 방문하시기 바랍니다.",
+      "2026년 9월 11일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "11/09/2026",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) recibió suficientes peticiones para cubrir el límite anual establecido por el Congreso para la visa H-2B correspondiente a la primera mitad del año fiscal (FY) 2027. El 4 de septiembre de 2026 fue la fecha límite de recepción para las nuevas peticiones de trabajadores H-2B sujetas al límite anual que solicitaban una fecha de inicio de empleo anterior al 1 de abril de 2027. Rechazaremos las nuevas peticiones H-2B sujetas al límite anual recibidas después del 4 de septiembre de 2026 que soliciten una fecha de inicio de empleo anterior al 1 de abril de 2027.",
+      "Cualquier persona, incluidos los trabajadores estadounidenses y los trabajadores H-2B, puede enviarnos información, presuntas infracciones y otra información pertinente sobre posibles fraudes o abusos mediante nuestro formulario de denuncias en línea.",
+      "Para obtener más información, visite la página Conteo del Límite para No Inmigrantes H-2B.",
+      "11/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "09/11/2026",
+      "美国公民及移民服务局(USCIS)已收到足够数量的申请,达到国会设定的2027财年上半年H-2B名额上限。2026年9月4日是请求用工开始日期在2027年4月1日之前的新受名额限制H-2B工人申请的最后接收日期。我们将拒收在2026年9月4日之后收到的、请求用工开始日期在2027年4月1日之前的新受名额限制H-2B申请。",
+      "任何人,包括美国工人和H-2B工人,均可使用我们的在线举报表格,向我们提供有关潜在欺诈或滥用行为的举报信息、涉嫌违规行为及其他相关信息。",
+      "欲了解更多信息,请访问H-2B非移民名额统计页面。",
+      "09/11/2026"
+    ],
+    "ja": [
+      "公開日",
+      "2026年9月11日",
+      "米国市民権移民局(USCIS)は、2027会計年度(FY)前半分について、議会が定めたH-2Bビザの上限数に達するのに十分な数の申請を受領しました。2026年9月4日は、2027年4月1日より前の就労開始日を希望する、新規の上限対象H-2B労働者申請の最終受理日でした。当局は、2026年9月4日以降に受領された、2027年4月1日より前の就労開始日を希望する新規の上限対象H-2B申請を却下します。",
+      "米国人労働者及びH-2B労働者を含むすべての方は、当局のオンライン通報フォームを使用して、潜在的な不正又は濫用に関する通報、申立てられた違反行為、及びその他の関連情報を当局に送付することができます。",
+      "詳細については、H-2B非移民の上限数カウントのページをご覧ください。",
+      "2026年9月11日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
