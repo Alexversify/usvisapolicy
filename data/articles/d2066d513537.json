@@ -1,0 +1,885 @@
+{
+  "id": "d2066d513537",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14584/safety-zones-delaware-river-dredging-marcus-hook-pa",
+  "original_title": "Safety Zones; Delaware River Dredging, Marcus Hook, PA",
+  "published": "2026-07-20",
+  "effective_date": "2026-07-20",
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Coast Guard",
+    "Safety Zone",
+    "Delaware River"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "델라웨어강 마커스 훅 준설 작업 관련 안전구역 설정, 이민 정책과 무관",
+      "summary": "미국 해안경비대가 델라웨어강 마커스 훅 인근에서 준설 작업을 위해 임시 안전구역 세 곳을 설정했습니다. 이는 선박 통항과 관련된 규정으로 비자나 이민 정책과는 관련이 없습니다.",
+      "points": [
+        "이 규정은 해안경비대가 준설 작업 중 인명과 선박을 보호하기 위해 발표한 것입니다.",
+        "비자, 영주권, 시민권 등 이민 절차와는 관련이 없습니다.",
+        "공중보건국, 세관, 이민당국의 검사가 필요한 선박에 대한 언급이 있지만 이는 입항 절차상의 참고 사항일 뿐입니다."
+      ],
+      "who": "델라웨어강 마커스 훅 인근을 항해하는 선박 운항자에게 해당되며, 이민 신청자나 비자 소지자와는 관련이 없습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "Coast Guard Sets Safety Zones for Delaware River Dredging, Not an Immigration Matter",
+      "summary": "The U.S. Coast Guard has established three temporary safety zones on the Delaware River near Marcus Hook, Pennsylvania, to protect vessels and personnel during maintenance dredging. This is a maritime navigation rule and has no bearing on visas or immigration policy.",
+      "points": [
+        "The rule restricts vessel traffic and anchoring in specific areas of the Delaware River through October 31, 2026.",
+        "It is issued under Coast Guard authority to ensure safety during dredging operations.",
+        "The document briefly mentions vessels needing inspection by Immigration authorities, but only in the context of port anchorage procedures.",
+        "This is not a visa, immigration, or citizenship related announcement."
+      ],
+      "who": "Vessel operators and mariners navigating the Delaware River near Marcus Hook, PA.",
+      "action": ""
+    },
+    "es": {
+      "title": "Guardia Costera establece zonas de seguridad por dragado en el río Delaware, sin relación migratoria",
+      "summary": "La Guardia Costera de Estados Unidos estableció tres zonas de seguridad temporales en el río Delaware, cerca de Marcus Hook, Pensilvania, para proteger a las embarcaciones durante trabajos de dragado. Esta norma no tiene relación con visas ni con políticas migratorias.",
+      "points": [
+        "La regla restringe el tránsito y anclaje de embarcaciones en ciertas áreas del río Delaware hasta el 31 de octubre de 2026.",
+        "Fue emitida por la Guardia Costera para proteger al personal y las embarcaciones durante las operaciones de dragado.",
+        "El documento menciona brevemente inspecciones de autoridades de Inmigración en el contexto de procedimientos de anclaje portuario, sin relación con trámites migratorios.",
+        "No afecta visas, residencia ni ciudadanía."
+      ],
+      "who": "Operadores de embarcaciones que navegan por el río Delaware cerca de Marcus Hook, PA.",
+      "action": ""
+    },
+    "zh": {
+      "title": "美国海岸警卫队为特拉华河疏浚工程设立安全区,与移民政策无关",
+      "summary": "美国海岸警卫队在宾夕法尼亚州马库斯胡克附近的特拉华河设立了三个临时安全区,以便在维护性疏浚作业期间保护人员和船只安全。该规定属于航运管理事项,与签证或移民政策无关。",
+      "points": [
+        "该规定限制船只在特拉华河特定区域的通行和锚泊,有效期至2026年10月31日。",
+        "该规定由海岸警卫队发布,旨在保障疏浚作业期间的安全。",
+        "文件中提到需接受移民当局检查的船只,但这仅涉及港口锚泊程序,与移民申请无关。",
+        "该通知不涉及签证、绿卡或入籍事务。"
+      ],
+      "who": "在宾夕法尼亚州马库斯胡克附近特拉华河航行的船只操作者。",
+      "action": ""
+    },
+    "ja": {
+      "title": "米沿岸警備隊、デラウェア川の浚渫工事で安全区域を設定、移民政策とは無関係",
+      "summary": "米沿岸警備隊は、ペンシルベニア州マーカスフック付近のデラウェア川に、維持浚渫作業中の安全確保を目的とした一時的な安全区域を3カ所設定しました。これは船舶航行に関する規則であり、ビザや移民政策とは関係ありません。",
+      "points": [
+        "この規則により、2026年10月31日までデラウェア川の特定区域での船舶の通航や錨泊が制限されます。",
+        "浚渫作業中の人員や船舶の安全を確保するため、沿岸警備隊の権限に基づき発令されました。",
+        "文書内には移民当局による検査が必要な船舶についての言及がありますが、これは港湾での錨泊手続きに関するものです。",
+        "ビザ、永住権、市民権に関する内容ではありません。"
+      ],
+      "who": "ペンシルベニア州マーカスフック付近のデラウェア川を航行する船舶運航者。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-12T19:53Z",
+  "model": "claude-sonnet-5",
+  "agency": "cbp",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "Coast Guard"
+      },
+      {
+        "t": "li",
+        "x": "33 CFR Part 165"
+      },
+      {
+        "t": "li",
+        "x": "[Docket Number USCG-2026-0831]"
+      },
+      {
+        "t": "li",
+        "x": "RIN 1625-AA00"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Coast Guard, Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Temporary interim rule and request for comments."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Coast Guard is establishing three temporary safety zones on the waters of the Delaware River, in portions of Marcus Hook Range, Anchorage 7, off Marcus Hook, PA, and Anchorage 9, near entrance to Mantua Creek. The safety zones temporarily restrict vessel traffic from transiting or anchoring in portions of the Delaware River while maintenance dredging is being conducted. The safety zones are needed to protect personnel, vessels, and the marine environment from hazards created by dredging operations. Entry of vessels or persons into these zones is prohibited unless specifically authorized by the COTP or his designated representatives."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "This rule is effective without actual notice from July 20, 2026, through October 31, 2026. For the purposes of enforcement, actual notice will be used from July 15, 2026, until July 20, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Comments due date: Comments and related material must be received by the Coast Guard on or before August 19, 2026."
+      },
+      {
+        "t": "h",
+        "x": "ADDRESSES:"
+      },
+      {
+        "t": "p",
+        "x": "You may submit comments, identified by docket number USCG-2026-0831, at https://www.regulations.gov. See the “Public Participation and Request for Comments” portion of the SUPPLEMENTARY INFORMATION section for further instructions on submitting comments. To view documents mentioned in this preamble as being available in the docket, go to https://www.regulations.gov, type USCG-2026-0831 in the search box and click “Search.” Next, in the Document Type column, select “Supporting & Related Material.”"
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "If you have questions about this rule, call or email Petty Officer Emmanuel E. Melendez, Waterways Management Branch, U.S. Coast Guard Sector Delaware Bay; telephone (206) 815-6688, option 3, email SecDelBayWWM@uscg.mil."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Table of Abbreviations"
+      },
+      {
+        "t": "p",
+        "x": "CFR Code of Federal Regulations"
+      },
+      {
+        "t": "p",
+        "x": "COTP Captain of the Port, Delaware Bay"
+      },
+      {
+        "t": "p",
+        "x": "DHS Department of Homeland Security"
+      },
+      {
+        "t": "p",
+        "x": "FR Federal Register"
+      },
+      {
+        "t": "p",
+        "x": "NPRM Notice of proposed rulemaking"
+      },
+      {
+        "t": "p",
+        "x": "§ Section"
+      },
+      {
+        "t": "p",
+        "x": "U.S.C. United States Code"
+      },
+      {
+        "t": "h",
+        "x": "II. Background and Authority"
+      },
+      {
+        "t": "p",
+        "x": "The Coast Guard is issuing this temporary rule under the authority in 5 U.S.C. 553(b)(B). This statutory provision authorizes an agency to issue a rule without prior notice and opportunity to comment when the agency for good cause finds that those procedures are “impracticable, unnecessary, or contrary to the public interest.” The Coast Guard finds that good cause exists for not publishing a notice of proposed rulemaking (NPRM) with respect to this rule because it is impracticable to do so given that there is insufficient time to allow for a reasonable comment period and publish a final rule prior to July 15, 2026, the start date for dredging operations."
+      },
+      {
+        "t": "p",
+        "x": "Also, under 5 U.S.C. 553(d)(3), the Coast Guard finds that good cause exists for making this rule effective less than 30 days after publication in the Federal Register for the same reason provided above."
+      },
+      {
+        "t": "h",
+        "x": "III. Legal Authority and Need for Rule"
+      },
+      {
+        "t": "p",
+        "x": "The Coast Guard is issuing this rule under authority in 46 U.S.C. 70034. The Captain of the Port, Delaware Bay (COTP) has determined that dredging operations present potential hazards, such as the presence of submerged and floating pipelines, booster pumps, head sections, and vessels with a restricted ability to maneuver. The purpose of this rulemaking is to ensure the safety of ( printed page 45205) personnel, vessels, and the marine environment within a 250-yard radius of dredging operations and all associated pipeline and equipment, and to ensure safe anchorage availability for larger vessels which are not able to anchor in areas being dredged."
+      },
+      {
+        "t": "h",
+        "x": "IV. Discussion of the Rule"
+      },
+      {
+        "t": "p",
+        "x": "This rule establishes three safety zones from July 15, 2026, through October 31, 2026. Two safety zones are being established to facilitate maintenance dredging of the Delaware River in the vicinity of Marcus Hook Range, and Anchorage 7, off Marcus Hook, as described in 33 CFR 110.157(a)(8). The third safety zone is being established in Anchorage 9, near entrance to Mantua Creek, as described in 33 CFR 110.157(a)(10), to ensure safe anchorage availability for larger vessels that cannot anchor in Anchorage 7 because of the dredging. Dredging will most likely be conducted with the dredge CHARLESTON, though other dredges may be used, along with associated dredge pipeline and boosters. The pipeline consists of a combination of floating hoses immediately behind the dredge and submerged pipeline leading to upland disposal areas. Due to the hazards related to dredging operations, the associated pipeline and the location of submerged pipeline, safety zones are being established in the following areas:"
+      },
+      {
+        "t": "p",
+        "x": "(1) Safety Zone One includes all navigable waters within 250 yards of the dredge, and all related dredge equipment when the dredge is operating in Marcus Hook Range, and Anchorage 7. The dredge will be displaying lights and shapes for vessels restricted in ability to maneuver, as described in our Inland Navigation Rules at 33 CFR 83.27. This safety zone is being established for the duration of the maintenance project. Vessels requesting to transit the safety zone must contact the dredge on VHF channel 13 or 16 at least 1 hour prior to arrival to arrange safe passage. At least one side of the main navigational channel will be kept clear for safe passage of vessels in the vicinity of the safety zone. At no time will the entire main navigational channel be closed to vessel traffic. Vessels should avoid meeting in these areas where one side of the main navigational channel is open and proceed per this rule and the Rules of the Road (33 CFR subchapter E)."
+      },
+      {
+        "t": "p",
+        "x": "(2) Safety Zone Two includes all the waters of Anchorage 7 off Marcus Hook Range, as described in 33 CFR 110.157(a)(8). Vessels wishing to anchor in Anchorage 7 off Marcus Hook Range while this rule is in effect must obtain permission from the COTP at least 24 hours in advance by calling (215) 271-4807. Vessels requesting permission to anchor within Anchorage 7 off Marcus Hook must be at least 650 feet in overall length. The COTP will permit, at maximum, two vessels to anchor at a time, on a “first-come, first-served” basis. Vessels will only be allowed to anchor for a 12-hour period. Vessels that require an examination by the Public Health Service, Customs, or Immigration authorities will be directed to an anchorage by the COTP for the required inspection. Vessels under 650 feet in overall length may request to anchor in Anchorage 7, off Marcus Hook Range by contacting the COTP via phone at (215) 271-4807 and may be approved on a case-by-case basis. Vessels are encouraged to use Anchorage 9 near the entrance to Mantua Creek, Anchorage 12 between Gloucester and Camden, Philadelphia, and Anchorage 6 off Deepwater Point Range as alternative anchorages."
+      },
+      {
+        "t": "p",
+        "x": "(3) Safety Zone Three includes all the waters of Anchorage 9, near entrance to Mantua Creek, as described in 33 CFR 110.157(a)(10). Vessels must be at least 500 feet in overall length to anchor in Anchorage 9, near entrance to Mantua Creek. Vessels under 500 feet in overall length may request to anchor in Anchorage 9, near entrance to Mantua Creek by contacting the COTP via phone at (215) 271-4807 and may be approved on a case-by-case basis."
+      },
+      {
+        "t": "p",
+        "x": "Vessels must be at least 650 feet in overall length to use Anchorage 7 and 500 feet in overall length to use Anchorage 9 while this rule is in effect. We are instituting this restriction because vessels of this size are limited in their ability to utilize other anchorages due to draft and Anchorage 9 needs to be utilized as overflow for vessels between 500 feet and 700 feet in overall length. Smaller vessels maintain a host of other options to include, but not limited to, Anchorage 6 and 12, as recommended above."
+      },
+      {
+        "t": "p",
+        "x": "Entry into, transiting, or anchoring within safety zone one is prohibited unless vessels obtain permission from the COTP or make satisfactory passing arrangements with the operating dredge per this rule and the Rules of the Road (33 CFR subchapter E). The COTP may issue updates regarding the vessel and equipment being utilized for these dredging operations via Marine Safety Information Bulletin, Broadcast Notice to Mariners and Local Notice to Mariners."
+      },
+      {
+        "t": "h",
+        "x": "V. Regulatory Analyses"
+      },
+      {
+        "t": "p",
+        "x": "We developed this rule after considering numerous statutes and Executive orders related to rulemaking. Below we summarize our analyses based on a number of these statutes and Executive orders."
+      },
+      {
+        "t": "h",
+        "x": "A. Impact on Small Entities"
+      },
+      {
+        "t": "p",
+        "x": "The regulatory flexibility analysis provisions of the Regulatory Flexibility Act of 1980, 5 U.S.C. 601-612, do not apply to rules that are not subject to notice and comment. Because the Coast Guard has, for good cause, waived the notice and comment requirement that would otherwise apply to this rulemaking, the Regulatory Flexibility Act's flexibility analysis provisions do not apply here."
+      },
+      {
+        "t": "p",
+        "x": "Under section 213(a) of the Small Business Regulatory Enforcement Fairness Act of 1996 (Pub. L. 104-121), if this rule will affect your small business, organization, or governmental jurisdiction and you have questions, contact the person listed in the FOR FURTHER INFORMATION CONTACT section."
+      },
+      {
+        "t": "p",
+        "x": "Small businesses may send comments to the Small Business and Agriculture Regulatory Enforcement Ombudsman and the Regional Small Business Regulatory Fairness Boards by calling 1-888-REG-FAIR (1-888-734-3247). The Coast Guard will not retaliate against small entities that question or complain about this rule or any policy or action of the Coast Guard."
+      },
+      {
+        "t": "h",
+        "x": "B. Collection of Information"
+      },
+      {
+        "t": "p",
+        "x": "This rule will not call for a new collection of information under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520)."
+      },
+      {
+        "t": "h",
+        "x": "C. Federalism and Indian Tribal Governments"
+      },
+      {
+        "t": "p",
+        "x": "We have analyzed this rule under Executive Order 13132, Federalism, and have determined that it is consistent with the fundamental federalism principles and preemption requirements described in that Order."
+      },
+      {
+        "t": "p",
+        "x": "Also, this rule does not have tribal implications under Executive Order 13175, Consultation and Coordination with Indian Tribal Governments, because it does not have a substantial direct effect on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes."
+      },
+      {
+        "t": "h",
+        "x": "D. Unfunded Mandates Reform Act"
+      },
+      {
+        "t": "p",
+        "x": "As required by The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531-1538), the Coast Guard certifies that this rule will not result in an annual expenditure of $100,000,000 or more (adjusted for inflation) by a State, ( printed page 45206) local, or tribal government, in the aggregate, or by the private sector."
+      },
+      {
+        "t": "h",
+        "x": "E. Environment"
+      },
+      {
+        "t": "p",
+        "x": "We have analyzed this rule under Department of Homeland Security Directive 023-01, Rev. 1, associated implementing instructions, and Environmental Planning COMDTINST 5090.1 (series), which guide the Coast Guard in complying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and have determined that this action is one of a category of actions that do not individually or cumulatively have a significant effect on the human environment."
+      },
+      {
+        "t": "p",
+        "x": "This rule involves three safety zones to protect waterway users that would prohibit entry within 250 yards of dredging operations and will close only one side of the main navigation channel. Vessels can request permission to pass through the channel. It is categorically excluded from further review under paragraph L60(a) of Appendix A, Table 1 of DHS Instruction Manual 023-01-001-01, Rev. 1. A Record of Environmental Consideration supporting this determination is available in the docket. For instructions on locating the docket, see the ADDRESSES section of this preamble."
+      },
+      {
+        "t": "h",
+        "x": "VI. Public Participation and Request for Comments"
+      },
+      {
+        "t": "p",
+        "x": "An interim rule may be issued when it is in the public interest to promulgate an effective rule while keeping the rulemaking open for further refinement. 33 CFR 1.05-45(a). Although this regulation is published as an interim rule without prior notice, public comment is nevertheless desirable following the effective date to ensure that the regulation is both workable and reasonable while the rule remains in effect. If the Coast Guard determines on the basis of comments submitted that changes to the temporary interim rule are necessary, we will publish a temporary final rule, or other document, as appropriate."
+      },
+      {
+        "t": "p",
+        "x": "Although we are promulgating this as a temporary interim rule for lack of time to take comments prior to issuing the rule, we view public participation as essential to effective rulemaking and will consider all comments and material received during the comment period. If you submit a comment, please include the docket number for this rulemaking, indicate the specific section of this document to which each comment applies, and provide a reason for each suggestion or recommendation."
+      },
+      {
+        "t": "p",
+        "x": "Submitting comments. We encourage you to submit comments at https://www.regulations.gov. To do so, go to https://www.regulations.gov, type USCG-2026-0831 in the search box and click “Search.” Next, look for this document in the Search Results column, and click on it. Then click on the Comment option. If you cannot submit your material by using https://www.regulations.gov, call or email the person in the FOR FURTHER INFORMATION CONTACT section of this rule for alternate instructions."
+      },
+      {
+        "t": "p",
+        "x": "Viewing material in docket. To view documents mentioned in this rule as being available in the docket, find the docket as described in the previous paragraph, and then select “Supporting & Related Material” in the “Document Type” column. Public comments will also be placed in our online docket and can be viewed by following instructions on the https://www.regulations.gov Frequently Asked Questions web page. Also, if you click on the Dockets tab and then the rule, you should see a “Subscribe” option for email alerts. The option will notify you when comments are posted, or a final rule is published."
+      },
+      {
+        "t": "p",
+        "x": "We review all comments received, but we will only post comments that address the topic of the rule. We may choose not to post off-topic, inappropriate, or duplicate comments that we receive."
+      },
+      {
+        "t": "p",
+        "x": "Personal information. We accept anonymous comments. Comments we post to https://www.regulations.gov will include any personal information you have provided, except that contact information (such as email or mailing address) will not be available for public viewing, unless the submitter includes that information in the body of the docket submission. For more about privacy and submissions to the docket in response to this document, see DHS's eRulemaking System of Records notice (85 FR 14226, March 11, 2020)."
+      },
+      {
+        "t": "h",
+        "x": "List of Subjects in 33 CFR Part 165"
+      },
+      {
+        "t": "li",
+        "x": "Harbors"
+      },
+      {
+        "t": "li",
+        "x": "Marine safety"
+      },
+      {
+        "t": "li",
+        "x": "Navigation (water)"
+      },
+      {
+        "t": "li",
+        "x": "Reporting and recordkeeping requirements"
+      },
+      {
+        "t": "li",
+        "x": "Security measures"
+      },
+      {
+        "t": "li",
+        "x": "Waterways"
+      },
+      {
+        "t": "p",
+        "x": "For the reasons discussed in the preamble, the Coast Guard amends 33 CFR part 165 as follows:"
+      },
+      {
+        "t": "h",
+        "x": "PART 165—REGULATED NAVIGATION AREAS AND LIMITED ACCESS AREAS"
+      },
+      {
+        "t": "p",
+        "x": "1. The authority citation for part 165 continues to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "Authority: 46 U.S.C. 70034, 70051, 70124; 33 CFR 1.05-1, 6.04-1, 6.04-6, and 160.5; DHS Delegation No. 00170.1, Revision No. 01.4."
+      },
+      {
+        "t": "p",
+        "x": "2. Add § 165.T05-0556 to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 165.T05-0556"
+      },
+      {
+        "t": "p",
+        "x": "Safety Zones, Delaware River Dredging; Marcus Hook, PA."
+      },
+      {
+        "t": "p",
+        "x": "(a) Location. The following areas are safety zones:"
+      },
+      {
+        "t": "p",
+        "x": "(1) Safety zone one includes all waters within 250 yards of the dredge displaying lights and shapes for vessels restricted in ability to maneuver as described in 33 CFR 83.27, as well as all related dredge equipment, while the dredge is operating in Marcus Hook Range. For enforcement purposes, Marcus Hook Range includes all navigable waters of the Delaware River, bound by a line drawn perpendicular to the center line of the channel at the farthest upriver point of the range to a line drawn perpendicular to the center line of the channel at the farthest downriver point of the range."
+      },
+      {
+        "t": "p",
+        "x": "(2) Safety zone two includes all the waters of Anchorage 7 off Marcus Hook Range, as described in 33 CFR 110.157(a)(8)."
+      },
+      {
+        "t": "p",
+        "x": "(3) Safety zone three includes all the waters of Anchorage 9, near entrance to Mantua Creek, as described in 33 CFR 110.157(a)(10)."
+      },
+      {
+        "t": "p",
+        "x": "(b) Definitions. As used in this section, designated representative means any Coast Guard commissioned, warrant, or petty officer who has been authorized by the Captain of the Port to assist with enforcement of the safety zones described in paragraph (a) of this section."
+      },
+      {
+        "t": "p",
+        "x": "(c) Regulations. (1) Entry into or transiting within safety zone one is prohibited unless vessels make satisfactory passing arrangements via VHF-FM radio channel 13 or 16 with the operating dredge per this section and the rules of the Road (33 CFR chapter I, subchapter E). Vessels requesting to transit shall contact the operating dredge via VHF-FM radio channel 13 or 16 at least 1 hour prior to arrival. Alternatively, vessels may obtain permission from the Captain of the Port, Sector Delaware Bay (COTP) via VHF-FM radio channel 16 or via phone at (833) 453-1007."
+      },
+      {
+        "t": "p",
+        "x": "(2) Vessels desiring to anchor in safety zone two, Anchorage 7 off Marcus Hook Range, must be at least 650 feet in overall length and must obtain permission from the COTP at least 24 hours in advance by calling (833) 453-1007. The COTP will permit, at maximum, two vessels at a time to anchor on a “first-come, first-served” basis. Vessels will only be allowed to anchor for a 12-hour period. Vessels under 650 feet in overall length may request to anchor in Anchorage 7, off Marcus Hook Range by contacting the COTP at the phone number detailed above and may be approved on a case-by-case basis. Vessels that require an ( printed page 45207) examination by the Public Health Service, Customs, or Immigration authorities will be directed to an anchorage for the required inspection by the COTP."
+      },
+      {
+        "t": "p",
+        "x": "(3) Vessels desiring to anchor in safety zone three, Anchorage 9, near entrance to Mantua Creek, must be at least 500 feet in overall length. Vessels under 500 feet in overall length may request to anchor in Anchorage 9, near entrance to Mantua Creek, and may be approved on a case-by-case basis."
+      },
+      {
+        "t": "p",
+        "x": "(4) This section applies to all vessels except those engaged in the following operations: enforcement of laws, service of aids to navigation, and emergency response."
+      },
+      {
+        "t": "p",
+        "x": "(d) Enforcement. The U.S. Coast Guard may be assisted by Federal, State, and local agencies in the patrol and enforcement of the zones."
+      },
+      {
+        "t": "p",
+        "x": "(e) Enforcement period. This section will be enforced from July 15, 2026, through October 31, 2026, unless cancelled earlier by the Captain of the Port, Sector Delaware Bay."
+      },
+      {
+        "t": "p",
+        "x": "Roberto Rivera,"
+      },
+      {
+        "t": "p",
+        "x": "Captain, U.S. Coast Guard, Acting Captain of the Port, Sector Delaware Bay."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-14584 Filed 7-17-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9110-04-P"
+      }
+    ],
+    "fetched": "2026-10-12T19:53Z",
+    "from": "federalregister.gov",
+    "chars": 19298
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접 관련된 연방규정집(CFR) 편의 번호 및 각 부의 번호",
+      "기관 접수번호 / 기관 내부 파일번호",
+      "연방 규제 및 규제완화 조치 통합의제에 수록된 각 규제조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람을 참조하십시오.",
+      "국토안보부",
+      "연안경비대",
+      "33 CFR Part 165",
+      "[접수번호 USCG-2026-0831]",
+      "RIN 1625-AA00",
+      "기관:",
+      "연안경비대, 국토안보부.",
+      "조치:",
+      "임시 잠정규칙 및 의견 요청.",
+      "요약:",
+      "연안경비대는 델라웨어강 수역 중 마커스 후크 구간(Marcus Hook Range), 펜실베이니아주 마커스 후크 인근 정박지 7(Anchorage 7), 그리고 맨투아 크릭(Mantua Creek) 입구 인근 정박지 9(Anchorage 9) 일부 구역에 세 개의 임시 안전구역을 설정합니다. 이 안전구역은 준설 유지작업이 진행되는 동안 델라웨어강 일부 구역에서 선박의 통항 또는 정박을 일시적으로 제한합니다. 이 안전구역은 준설 작업으로 인해 발생하는 위험으로부터 인원, 선박 및 해양환경을 보호하기 위해 필요합니다. 항만통제관(COTP) 또는 그 지정 대리인이 특별히 허가하지 않는 한 선박 또는 인원이 이 구역에 진입하는 것은 금지됩니다.",
+      "시행일:",
+      "이 규칙은 2026년 7월 20일부터 2026년 10월 31일까지 실제 통지 없이 효력을 발생합니다. 집행 목적상 2026년 7월 15일부터 2026년 7월 20일까지는 실제 통지가 사용됩니다.",
+      "의견 제출 기한: 의견 및 관련 자료는 2026년 8월 19일 이전까지 연안경비대에 접수되어야 합니다.",
+      "주소:",
+      "접수번호 USCG-2026-0831을 명시하여 https://www.regulations.gov 에서 의견을 제출할 수 있습니다. 의견 제출에 관한 추가 안내는 보충정보(SUPPLEMENTARY INFORMATION) 항목의 “공공 참여 및 의견 요청” 부분을 참조하십시오. 이 전문에서 언급된 문서가 접수철에 포함되어 있는지 확인하려면 https://www.regulations.gov 에 접속하여 검색창에 USCG-2026-0831을 입력하고 “Search”를 클릭하십시오. 다음으로 문서 유형(Document Type) 열에서 “Supporting & Related Material”을 선택하십시오.",
+      "문의처:",
+      "이 규칙에 관하여 문의사항이 있으시면 미국 연안경비대 델라웨어베이 관구(U.S. Coast Guard Sector Delaware Bay) 수로관리과의 에마누엘 E. 멜렌데즈(Emmanuel E. Melendez) 하사에게 전화 또는 이메일로 연락하십시오. 전화번호 (206) 815-6688, 내선 3, 이메일 SecDelBayWWM@uscg.mil.",
+      "보충정보:",
+      "I. 약어표",
+      "CFR 연방규정집",
+      "COTP 델라웨어베이 항만통제관",
+      "DHS 국토안보부",
+      "FR 연방관보",
+      "NPRM 규칙제정안 고시",
+      "§ 조",
+      "U.S.C. 미국법전",
+      "II. 배경 및 권한",
+      "연안경비대는 5 U.S.C. 553(b)(B)의 권한에 따라 이 임시규칙을 발령합니다. 이 법률 조항은 기관이 정당한 사유로 사전 고시 및 의견수렴 절차가 “실행 불가능하거나, 불필요하거나, 공익에 반한다”고 판단하는 경우 그러한 절차 없이 규칙을 발령할 수 있도록 권한을 부여합니다. 연안경비대는 준설 작업 개시일인 2026년 7월 15일 이전에 합리적인 의견수렴 기간을 허용하고 최종규칙을 공표할 충분한 시간이 없어 실행이 불가능하다는 점에서, 이 규칙에 관한 규칙제정안 고시(NPRM)를 공표하지 않는 것에 정당한 사유가 있다고 판단합니다.",
+      "또한 연안경비대는 위와 동일한 사유로 5 U.S.C. 553(d)(3)에 따라 이 규칙을 연방관보 공표 후 30일 이내에 효력을 발생시키는 것에 정당한 사유가 있다고 판단합니다.",
+      "III. 법적 권한 및 규칙의 필요성",
+      "연안경비대는 46 U.S.C. 70034의 권한에 따라 이 규칙을 발령합니다. 델라웨어베이 항만통제관(COTP)은 준설 작업이 수중 및 수면 위 파이프라인, 부스터 펌프, 헤드 섹션, 그리고 조종 능력이 제한된 선박의 존재와 같은 잠재적 위험을 초래한다고 판단하였습니다. 이 규칙제정의 목적은 ( printed page 45205) 준설 작업 및 관련된 모든 파이프라인과 장비로부터 반경 250야드 이내의 인원, 선박 및 해양환경의 안전을 확보하고, 준설 중인 구역에 정박할 수 없는 대형 선박을 위한 안전한 정박지를 확보하는 데 있습니다.",
+      "IV. 규칙에 관한 논의",
+      "본 규칙은 2026년 7월 15일부터 2026년 10월 31일까지 세 개의 안전구역을 설정합니다. 두 개의 안전구역은 33 CFR 110.157(a)(8)에 기술된 마커스 후크 레인지(Marcus Hook Range) 및 마커스 후크 앞바다의 정박지 7(Anchorage 7) 인근 델라웨어 강(Delaware River)의 유지 준설 작업을 용이하게 하기 위하여 설정됩니다. 세 번째 안전구역은 준설 작업으로 인해 정박지 7에 정박할 수 없는 대형 선박을 위한 안전한 정박 가능성을 확보하기 위하여, 33 CFR 110.157(a)(10)에 기술된 맨투아 크리크(Mantua Creek) 입구 인근의 정박지 9(Anchorage 9)에 설정됩니다. 준설 작업은 준설선 찰스턴(CHARLESTON)으로 수행될 가능성이 가장 높으나, 관련 준설 파이프라인 및 부스터와 함께 다른 준설선이 사용될 수도 있습니다. 파이프라인은 준설선 바로 뒤의 부유식 호스와 육상 처리 구역으로 이어지는 수중 파이프라인의 조합으로 구성됩니다. 준설 작업, 관련 파이프라인 및 수중 파이프라인의 위치와 관련된 위험성으로 인하여, 다음 구역에 안전구역이 설정됩니다.",
+      "(1) 안전구역 1은 준설선이 마커스 후크 레인지 및 정박지 7에서 작업 중일 때, 준설선으로부터 250야드 이내의 모든 항행 가능 수역과 관련된 모든 준설 장비를 포함합니다. 준설선은 33 CFR 83.27에 기술된 내수면 항행규칙(Inland Navigation Rules)에 따라 조종 능력이 제한된 선박을 위한 등화 및 형상물을 표시할 것입니다. 본 안전구역은 유지보수 프로젝트 기간 동안 설정됩니다. 안전구역을 통과하고자 하는 선박은 안전한 통항을 준비하기 위하여 도착 최소 1시간 전에 VHF 채널 13 또는 16을 통해 준설선에 연락하여야 합니다. 안전구역 인근에서 선박의 안전한 통항을 위하여 주 항행 수로의 적어도 한쪽은 항상 개방된 상태로 유지됩니다. 어떠한 경우에도 주 항행 수로 전체가 선박 통행에 폐쇄되지 않습니다. 선박들은 주 항행 수로의 한쪽이 개방된 이러한 구역에서 마주치는 것을 피하고, 본 규칙 및 항행규칙(Rules of the Road, 33 CFR 하위편 E)에 따라 항행하여야 합니다.",
+      "(2) 안전구역 2는 33 CFR 110.157(a)(8)에 기술된 마커스 후크 레인지 앞바다의 정박지 7의 모든 수역을 포함합니다. 본 규칙이 시행되는 동안 마커스 후크 레인지 앞바다의 정박지 7에 정박하고자 하는 선박은 최소 24시간 전에 (215) 271-4807로 전화하여 항만관리청장(COTP)의 허가를 받아야 합니다. 마커스 후크 앞바다의 정박지 7 내에 정박 허가를 신청하는 선박은 전장 650피트 이상이어야 합니다. 항만관리청장은 선착순 원칙에 따라 최대 2척의 선박만 동시에 정박하도록 허가합니다. 선박은 12시간 동안만 정박이 허용됩니다. 공중보건국(Public Health Service), 세관(Customs), 또는 이민당국(Immigration authorities)의 검사가 필요한 선박은 필요한 검사를 위하여 항만관리청장이 지정하는 정박지로 안내됩니다. 전장 650피트 미만의 선박은 전화 (215) 271-4807로 항만관리청장에게 연락하여 마커스 후크 레인지 앞바다의 정박지 7에 정박할 것을 요청할 수 있으며, 사안별로 승인될 수 있습니다. 선박들은 대체 정박지로서 맨투아 크리크 입구 인근의 정박지 9, 글로스터(Gloucester)와 캠던(Camden), 필라델피아(Philadelphia) 사이의 정박지 12, 그리고 딥워터 포인트 레인지(Deepwater Point Range) 앞바다의 정박지 6을 이용할 것을 권장받습니다.",
+      "(3) 안전구역 3은 33 CFR 110.157(a)(10)에 기술된 맨투아 크리크 입구 인근의 정박지 9의 모든 수역을 포함합니다. 맨투아 크리크 입구 인근의 정박지 9에 정박하기 위해서는 선박의 전장이 500피트 이상이어야 합니다. 전장 500피트 미만의 선박은 전화 (215) 271-4807로 항만관리청장에게 연락하여 맨투아 크리크 입구 인근의 정박지 9에 정박할 것을 요청할 수 있으며, 사안별로 승인될 수 있습니다.",
+      "본 규칙이 시행되는 동안 정박지 7을 이용하기 위해서는 선박의 전장이 650피트 이상이어야 하며, 정박지 9를 이용하기 위해서는 전장이 500피트 이상이어야 합니다. 이러한 제한을 시행하는 이유는 이러한 규모의 선박이 흘수로 인하여 다른 정박지를 이용할 수 있는 능력이 제한되어 있으며, 정박지 9는 전장 500피트에서 700피트 사이의 선박을 위한 초과 수용 공간으로 활용될 필요가 있기 때문입니다. 소형 선박은 위에서 권장한 바와 같이 정박지 6 및 12를 포함하되 이에 국한되지 않는 다수의 다른 선택지를 유지합니다.",
+      "안전구역 1 내로의 진입, 통과 또는 정박은 선박이 지역 항만감독관(COTP)으로부터 허가를 받거나 본 규칙 및 항행규칙(33 CFR 하위편 E)에 따라 작업 중인 준설선과 만족스러운 통과 협의를 하지 않는 한 금지됩니다. 지역 항만감독관은 이러한 준설 작업에 사용되는 선박 및 장비에 관한 최신 정보를 해양안전정보회보, 선박방송항행통보 및 지역항행통보를 통해 공지할 수 있습니다.",
+      "V. 규제 분석",
+      "본 규칙은 규칙 제정과 관련된 다수의 법률 및 행정명령을 검토한 후 작성되었습니다. 아래에서는 이러한 법률 및 행정명령에 근거한 분석을 요약합니다.",
+      "A. 소규모 사업체에 대한 영향",
+      "1980년 규제유연성법(5 U.S.C. 601-612)의 규제유연성 분석 규정은 사전공고 및 의견수렴 절차가 적용되지 않는 규칙에는 적용되지 않습니다. 연안경비대가 정당한 사유로 본 규칙 제정에 통상 적용되는 사전공고 및 의견수렴 요건을 면제하였으므로, 규제유연성법의 유연성 분석 규정은 본 규칙에 적용되지 않습니다.",
+      "1996년 소규모사업규제집행공정성법(공법 104-121) 제213조(a)에 따라, 본 규칙이 귀하의 소규모 사업체, 단체 또는 정부 관할구역에 영향을 미치며 문의사항이 있는 경우, 문의처(FOR FURTHER INFORMATION CONTACT) 항목에 기재된 담당자에게 연락하시기 바랍니다.",
+      "소규모 사업체는 1-888-REG-FAIR(1-888-734-3247)로 전화하여 소규모사업 및 농업규제집행옴부즈맨과 지역소규모사업규제공정성위원회에 의견을 제출할 수 있습니다. 연안경비대는 본 규칙 또는 연안경비대의 정책이나 조치에 대하여 이의를 제기하거나 불만을 제기하는 소규모 단체에 대하여 보복 조치를 취하지 않습니다.",
+      "B. 정보 수집",
+      "본 규칙은 1995년 문서업무감축법(44 U.S.C. 3501-3520)에 따른 새로운 정보 수집을 요구하지 않습니다.",
+      "C. 연방주의 및 인디언 부족 정부",
+      "본 연안경비대는 행정명령 13132호(연방주의)에 따라 본 규칙을 분석하였으며, 동 명령에서 규정한 기본적인 연방주의 원칙 및 선점 요건에 부합함을 확인하였습니다.",
+      "또한 본 규칙은 행정명령 13175호(인디언 부족 정부와의 협의 및 조정)에 따른 부족 관련 영향이 없습니다. 이는 본 규칙이 하나 이상의 인디언 부족, 연방정부와 인디언 부족 간의 관계, 또는 연방정부와 인디언 부족 간의 권한 및 책임 배분에 실질적이고 직접적인 영향을 미치지 않기 때문입니다.",
+      "D. 비재원조달의무개혁법",
+      "1995년 비재원조달의무개혁법(2 U.S.C. 1531-1538)의 요건에 따라, 연안경비대는 본 규칙이 주, (인쇄본 제45206면) 지방 또는 부족 정부에 합산하여 또는 민간 부문에 연간 1억 달러(물가상승률 반영) 이상의 지출을 초래하지 않음을 확인합니다.",
+      "E. 환경",
+      "본 연안경비대는 국토안보부 지침 023-01호 개정판 1, 관련 시행지침 및 환경계획 COMDTINST 5090.1호(시리즈)에 따라 본 규칙을 분석하였습니다. 이들 지침은 연안경비대가 1969년 국가환경정책법(42 U.S.C. 4321 이하)을 준수하도록 안내하며, 본 조치는 개별적으로 또는 누적적으로 인간 환경에 중대한 영향을 미치지 않는 일련의 조치 범주에 해당함을 확인하였습니다.",
+      "본 규칙은 수로 이용자를 보호하기 위한 세 개의 안전구역을 포함하며, 준설 작업으로부터 250야드 이내의 진입을 금지하고 주 항행수로의 한쪽 측면만을 폐쇄합니다. 선박은 해당 수로를 통과하기 위한 허가를 요청할 수 있습니다. 본 조치는 국토안보부 지침서 023-01-001-01호 개정판 1의 부록 A, 표 1, L60(a)항에 따라 추가 검토에서 범주적으로 제외됩니다. 이러한 결정을 뒷받침하는 환경고려기록은 관련 공식기록철(docket)에서 확인할 수 있습니다. 공식기록철의 위치 확인 방법에 관하여는 본 전문의 주소(ADDRESSES) 항목을 참조하시기 바랍니다.",
+      "VI. 공공 참여 및 의견 요청",
+      "공익을 위해 규칙 제정을 계속 개방하면서 효력 있는 규칙을 제정하는 것이 적절한 경우에는 잠정규칙을 발령할 수 있습니다. 33 CFR 1.05-45(a). 본 규정은 사전 통지 없이 잠정규칙으로 공표되나, 본 규칙이 시행되는 동안 규정이 실행 가능하고 합리적임을 보장하기 위하여 시행일 이후 공중의 의견 제출이 바람직합니다. 연안경비대(Coast Guard)가 제출된 의견을 근거로 임시 잠정규칙에 변경이 필요하다고 판단하는 경우, 연안경비대는 적절히 임시 최종규칙 또는 기타 문서를 공표할 것입니다.",
+      "본 규칙을 규칙 발령 전에 의견을 수렴할 시간적 여유가 없어 임시 잠정규칙으로 공표하고 있으나, 연안경비대는 공중의 참여가 효과적인 규칙 제정에 필수적이라고 보며, 의견 제출 기간 중 접수된 모든 의견 및 자료를 검토할 것입니다. 의견을 제출하는 경우, 본 규칙 제정의 도켓 번호를 포함하고, 각 의견이 적용되는 본 문서의 구체적인 항목을 명시하며, 각 제안 또는 권고에 대한 이유를 제시하여 주시기 바랍니다.",
+      "의견 제출. 연안경비대는 https://www.regulations.gov에서 의견을 제출하실 것을 권장합니다. 의견을 제출하려면 https://www.regulations.gov에 접속하여 검색창에 USCG-2026-0831을 입력하고 \"Search\"를 클릭하십시오. 다음으로 검색 결과란에서 본 문서를 찾아 클릭하십시오. 그런 다음 Comment 옵션을 클릭하십시오. https://www.regulations.gov를 통해 자료를 제출할 수 없는 경우, 본 규칙의 FOR FURTHER INFORMATION CONTACT 항목에 기재된 담당자에게 전화 또는 이메일로 연락하여 대체 제출 방법을 안내받으시기 바랍니다.",
+      "도켓 내 자료 열람. 본 규칙에서 도켓에 제공되어 있다고 언급된 문서를 열람하려면, 앞 단락에 기재된 방법으로 도켓을 찾은 후 \"Document Type\" 란에서 \"Supporting & Related Material\"을 선택하십시오. 공중의 의견 또한 연안경비대의 온라인 도켓에 게시되며, https://www.regulations.gov의 자주 묻는 질문(Frequently Asked Questions) 웹페이지의 안내에 따라 열람하실 수 있습니다. 또한 Dockets 탭을 클릭한 후 해당 규칙을 클릭하면 이메일 알림을 위한 \"Subscribe\" 옵션이 표시됩니다. 이 옵션을 이용하면 의견이 게시되거나 최종규칙이 공표될 때 알림을 받으실 수 있습니다.",
+      "연안경비대는 접수된 모든 의견을 검토하나, 본 규칙의 주제와 관련된 의견만을 게시할 것입니다. 연안경비대는 접수된 의견 중 주제와 무관하거나, 부적절하거나, 중복된 의견은 게시하지 않을 수 있습니다.",
+      "개인정보. 연안경비대는 익명 의견도 접수합니다. https://www.regulations.gov에 게시되는 의견에는 제출자가 제공한 개인정보가 포함되나, 제출자가 도켓 제출 본문에 연락처 정보(이메일 또는 우편 주소 등)를 포함하지 않는 한 해당 연락처 정보는 공개 열람이 되지 않습니다. 본 문서에 대한 응답으로 도켓에 제출하는 것과 관련한 개인정보 보호에 관한 추가 정보는 국토안보부(DHS)의 전자규칙제정시스템 기록체계 고지(eRulemaking System of Records notice, 85 FR 14226, 2020년 3월 11일)를 참조하시기 바랍니다.",
+      "33 CFR 제165부 대상 목록",
+      "항만",
+      "해상 안전",
+      "항행(수상)",
+      "보고 및 기록 보관 요건",
+      "보안 조치",
+      "수로",
+      "전문에서 논의된 이유로, 연안경비대는 33 CFR 제165부를 다음과 같이 개정합니다.",
+      "제165부, 통제항행구역 및 제한출입구역",
+      "1. 제165부의 권한 인용은 계속하여 다음과 같습니다.",
+      "권한: 46 U.S.C. 70034, 70051, 70124; 33 CFR 1.05-1, 6.04-1, 6.04-6 및 160.5; DHS 위임 번호 00170.1, 개정 번호 01.4.",
+      "2. 다음과 같이 § 165.T05-0556을 추가합니다.",
+      "§ 165.T05-0556",
+      "안전구역, 델라웨어강 준설, 펜실베이니아주 마커스 훅.",
+      "(a) 위치. 다음 구역은 안전구역입니다.",
+      "(1) 안전구역 1은 마커스 훅 수로(Marcus Hook Range)에서 준설선이 작업 중일 때, 33 CFR 83.27에 규정된 조종 능력이 제한된 선박을 나타내는 등화 및 형상물을 표시한 준설선으로부터 250야드 이내의 모든 수역과, 이와 관련된 모든 준설 장비를 포함합니다. 집행 목적상, 마커스 훅 수로는 해당 수로의 최상류 지점에서 수로 중심선에 수직으로 그은 선과 최하류 지점에서 수로 중심선에 수직으로 그은 선으로 경계가 정해지는 델라웨어강의 모든 항행 가능 수역을 포함합니다.",
+      "(2) 안전구역 2는 33 CFR 110.157(a)(8)에 규정된 마커스 훅 수로 앞 정박지 7(Anchorage 7)의 모든 수역을 포함합니다.",
+      "(3) 안전구역 3은 33 CFR 110.157(a)(10)에 규정된 맨투아 크릭(Mantua Creek) 입구 부근의 정박지 9(Anchorage 9)의 모든 수역을 포함합니다.",
+      "(b) 정의. 본 조에서 사용되는 지정대표자란 해당 구역의 지휘관(Captain of the Port)으로부터 본 조 (a)항에 기술된 안전구역의 단속을 지원하도록 승인받은 미국 연안경비대(Coast Guard)의 위임장교, 준사관 또는 부사관을 말합니다.",
+      "(c) 규정. (1) 제1안전구역으로의 진입 또는 그 안에서의 통항은 본 조 및 항행규칙(33 CFR 제1장 제E부속편)에 따라 운영 준설선과 VHF-FM 무선 13번 또는 16번 채널을 통해 만족스러운 통과 합의를 하지 않는 한 금지됩니다. 통항을 요청하는 선박은 도착 최소 1시간 전에 VHF-FM 무선 13번 또는 16번 채널을 통해 운영 준설선에 연락하여야 합니다. 그 대신, 선박은 VHF-FM 무선 16번 채널 또는 전화 (833) 453-1007을 통해 델라웨어만 관할구역 지휘관(Captain of the Port, Sector Delaware Bay, COTP)으로부터 허가를 받을 수 있습니다.",
+      "(2) 마커스 훅 레인지(Marcus Hook Range) 앞 정박지 7(제2안전구역)에 정박하려는 선박은 전장 650피트 이상이어야 하며, 전화 (833) 453-1007로 최소 24시간 전에 COTP의 허가를 받아야 합니다. COTP는 최대 2척의 선박에 한해 선착순으로 동시에 정박을 허용합니다. 선박은 12시간 동안만 정박이 허용됩니다. 전장 650피트 미만의 선박은 위에 명시된 전화번호로 COTP에 연락하여 마커스 훅 레인지 앞 정박지 7에 정박을 요청할 수 있으며, 사안별로 승인될 수 있습니다. 공중보건국(Public Health Service), 세관(Customs) 또는 이민당국(Immigration)의 검사가 필요한 선박은 COTP가 지정하는 정박지로 안내되어 필요한 검사를 받게 됩니다. (인쇄본 페이지 45207)",
+      "(3) 맨투아 크릭(Mantua Creek) 입구 부근 정박지 9(제3안전구역)에 정박하려는 선박은 전장 500피트 이상이어야 합니다. 전장 500피트 미만의 선박은 맨투아 크릭 입구 부근 정박지 9에 정박을 요청할 수 있으며, 사안별로 승인될 수 있습니다.",
+      "(4) 본 조는 법 집행, 항로표지 서비스, 비상대응 업무에 종사하는 선박을 제외한 모든 선박에 적용됩니다.",
+      "(d) 단속. 미국 연안경비대는 해당 구역의 순찰 및 단속에 있어 연방, 주 및 지방 기관의 지원을 받을 수 있습니다.",
+      "(e) 시행기간. 본 조는 델라웨어만 관할구역 지휘관이 그 이전에 취소하지 않는 한 2026년 7월 15일부터 2026년 10월 31일까지 시행됩니다.",
+      "로베르토 리베라(Roberto Rivera),",
+      "미국 연안경비대 대령, 델라웨어만 관할구역 지휘관 대리.",
+      "[FR Doc. 2026-14584, 2026년 7월 17일 오전 8시 45분 게재]",
+      "청구기호 9110-04-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar, o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Guardia Costera",
+      "33 CFR Parte 165",
+      "[Número de Expediente USCG-2026-0831]",
+      "RIN 1625-AA00",
+      "AGENCIA:",
+      "Guardia Costera, Departamento de Seguridad Nacional (DHS).",
+      "ACCIÓN:",
+      "Norma provisional temporal y solicitud de comentarios.",
+      "RESUMEN:",
+      "La Guardia Costera está estableciendo tres zonas de seguridad temporales en las aguas del río Delaware, en porciones de Marcus Hook Range, Anchorage 7, frente a Marcus Hook, PA, y Anchorage 9, cerca de la entrada de Mantua Creek. Las zonas de seguridad restringen temporalmente el tráfico de embarcaciones de transitar o anclar en porciones del río Delaware mientras se realizan trabajos de dragado de mantenimiento. Las zonas de seguridad son necesarias para proteger al personal, las embarcaciones y el medio marino de los peligros generados por las operaciones de dragado. Se prohíbe el ingreso de embarcaciones o personas a estas zonas, a menos que esté específicamente autorizado por el Capitán del Puerto (COTP) o sus representantes designados.",
+      "FECHAS:",
+      "Esta norma entra en vigor sin notificación real a partir del 20 de julio de 2026 y hasta el 31 de octubre de 2026. Para fines de aplicación, se utilizará la notificación real desde el 15 de julio de 2026 hasta el 20 de julio de 2026.",
+      "Fecha límite para comentarios: Los comentarios y el material relacionado deben ser recibidos por la Guardia Costera a más tardar el 19 de agosto de 2026.",
+      "DIRECCIONES:",
+      "Puede presentar comentarios, identificados con el número de expediente USCG-2026-0831, en https://www.regulations.gov. Consulte la sección “Participación Pública y Solicitud de Comentarios” dentro de la sección de INFORMACIÓN COMPLEMENTARIA para obtener instrucciones adicionales sobre cómo presentar comentarios. Para ver los documentos mencionados en este preámbulo como disponibles en el expediente, vaya a https://www.regulations.gov, escriba USCG-2026-0831 en el cuadro de búsqueda y haga clic en “Search” (Buscar). Luego, en la columna de Tipo de Documento, seleccione “Supporting & Related Material” (Material de Apoyo y Relacionado).",
+      "PARA MÁS INFORMACIÓN, CONTACTE A:",
+      "Si tiene preguntas sobre esta norma, llame o envíe un correo electrónico al Suboficial Emmanuel E. Melendez, Rama de Gestión de Vías Navegables, Sector Delaware Bay de la Guardia Costera de los EE. UU.; teléfono (206) 815-6688, opción 3, correo electrónico SecDelBayWWM@uscg.mil.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Tabla de Abreviaturas",
+      "CFR Código de Regulaciones Federales",
+      "COTP Capitán del Puerto, Delaware Bay",
+      "DHS Departamento de Seguridad Nacional",
+      "FR Registro Federal",
+      "NPRM Aviso de propuesta de reglamentación",
+      "§ Sección",
+      "U.S.C. Código de los Estados Unidos",
+      "II. Antecedentes y Autoridad",
+      "La Guardia Costera emite esta norma temporal bajo la autoridad conferida en 5 U.S.C. 553(b)(B). Esta disposición legal autoriza a una agencia a emitir una norma sin previo aviso ni oportunidad de comentario cuando la agencia determina, por causa justificada, que dichos procedimientos son “poco prácticos, innecesarios o contrarios al interés público”. La Guardia Costera determina que existe causa justificada para no publicar un aviso de propuesta de reglamentación (NPRM) respecto de esta norma, debido a que resulta poco práctico hacerlo, dado que no hay tiempo suficiente para permitir un período razonable de comentarios y publicar una norma final antes del 15 de julio de 2026, fecha de inicio de las operaciones de dragado.",
+      "Asimismo, conforme a 5 U.S.C. 553(d)(3), la Guardia Costera determina que existe causa justificada para que esta norma entre en vigor en un plazo menor a 30 días después de su publicación en el Registro Federal, por la misma razón expuesta anteriormente.",
+      "III. Autoridad Legal y Necesidad de la Norma",
+      "La Guardia Costera emite esta norma bajo la autoridad conferida en 46 U.S.C. 70034. El Capitán del Puerto, Delaware Bay (COTP) ha determinado que las operaciones de dragado presentan posibles peligros, tales como la presencia de tuberías sumergidas y flotantes, bombas elevadoras, secciones de cabezal, y embarcaciones con capacidad de maniobra restringida. El propósito de esta reglamentación es garantizar la seguridad ( página impresa 45205) del personal, las embarcaciones y el medio marino dentro de un radio de 250 yardas de las operaciones de dragado y de todas las tuberías y equipos asociados, y asegurar la disponibilidad de anclajes seguros para embarcaciones de mayor tamaño que no puedan anclar en las áreas que están siendo dragadas.",
+      "IV. Análisis de la Norma",
+      "Esta norma establece tres zonas de seguridad desde el 15 de julio de 2026 hasta el 31 de octubre de 2026. Se están estableciendo dos zonas de seguridad para facilitar el dragado de mantenimiento del río Delaware en las inmediaciones de Marcus Hook Range, y el Fondeadero 7, frente a Marcus Hook, según se describe en 33 CFR 110.157(a)(8). La tercera zona de seguridad se está estableciendo en el Fondeadero 9, cerca de la entrada de Mantua Creek, según se describe en 33 CFR 110.157(a)(10), para garantizar la disponibilidad de fondeo seguro para embarcaciones de mayor tamaño que no pueden fondear en el Fondeadero 7 debido al dragado. Es muy probable que el dragado se lleve a cabo con la draga CHARLESTON, aunque podrían utilizarse otras dragas, junto con la tubería de dragado y los equipos de refuerzo (boosters) asociados. La tubería consiste en una combinación de mangueras flotantes inmediatamente detrás de la draga y tubería sumergida que conduce a las áreas de disposición en tierra. Debido a los peligros relacionados con las operaciones de dragado, la tubería asociada y la ubicación de la tubería sumergida, se están estableciendo zonas de seguridad en las siguientes áreas:",
+      "(1) La Zona de Seguridad Uno incluye todas las aguas navegables dentro de 250 yardas de la draga, y todo el equipo de dragado relacionado cuando la draga esté operando en Marcus Hook Range y el Fondeadero 7. La draga exhibirá luces y marcas para embarcaciones con capacidad de maniobra restringida, según se describe en nuestras Reglas de Navegación Interior en 33 CFR 83.27. Esta zona de seguridad se establece por la duración del proyecto de mantenimiento. Las embarcaciones que soliciten transitar por la zona de seguridad deben contactar a la draga por el canal 13 o 16 de VHF al menos 1 hora antes de su llegada para coordinar un paso seguro. Se mantendrá despejado al menos un lado del canal de navegación principal para permitir el paso seguro de las embarcaciones en las inmediaciones de la zona de seguridad. En ningún momento se cerrará la totalidad del canal de navegación principal al tráfico de embarcaciones. Las embarcaciones deben evitar cruzarse en las áreas donde un lado del canal de navegación principal esté abierto y proceder conforme a esta norma y a las Reglas de Navegación (33 CFR subcapítulo E).",
+      "(2) La Zona de Seguridad Dos incluye todas las aguas del Fondeadero 7 frente a Marcus Hook Range, según se describe en 33 CFR 110.157(a)(8). Las embarcaciones que deseen fondear en el Fondeadero 7 frente a Marcus Hook Range mientras esta norma esté vigente deben obtener permiso del Capitán del Puerto (COTP) con al menos 24 horas de anticipación, llamando al (215) 271-4807. Las embarcaciones que soliciten permiso para fondear dentro del Fondeadero 7 frente a Marcus Hook deben tener una eslora total de al menos 650 pies. El COTP permitirá, como máximo, que dos embarcaciones fondeen a la vez, bajo el principio de “por orden de llegada”. Las embarcaciones solo podrán permanecer fondeadas durante un período de 12 horas. Las embarcaciones que requieran una inspección por parte del Servicio de Salud Pública, Aduanas o las autoridades de Inmigración serán dirigidas por el COTP a un fondeadero para realizar la inspección requerida. Las embarcaciones con una eslora total inferior a 650 pies podrán solicitar fondear en el Fondeadero 7, frente a Marcus Hook Range, comunicándose con el COTP por teléfono al (215) 271-4807, y podrán ser aprobadas caso por caso. Se recomienda a las embarcaciones utilizar como fondeaderos alternativos el Fondeadero 9, cerca de la entrada de Mantua Creek, el Fondeadero 12, entre Gloucester y Camden, Filadelfia, y el Fondeadero 6, frente a Deepwater Point Range.",
+      "(3) La Zona de Seguridad Tres incluye todas las aguas del Fondeadero 9, cerca de la entrada de Mantua Creek, según se describe en 33 CFR 110.157(a)(10). Las embarcaciones deben tener una eslora total de al menos 500 pies para fondear en el Fondeadero 9, cerca de la entrada de Mantua Creek. Las embarcaciones con una eslora total inferior a 500 pies podrán solicitar fondear en el Fondeadero 9, cerca de la entrada de Mantua Creek, comunicándose con el COTP por teléfono al (215) 271-4807, y podrán ser aprobadas caso por caso.",
+      "Las embarcaciones deben tener una eslora total de al menos 650 pies para utilizar el Fondeadero 7 y de al menos 500 pies para utilizar el Fondeadero 9 mientras esta norma esté vigente. Estamos instituyendo esta restricción debido a que las embarcaciones de este tamaño tienen una capacidad limitada para utilizar otros fondeaderos debido a su calado, y el Fondeadero 9 debe utilizarse como fondeadero de desborde para embarcaciones de entre 500 pies y 700 pies de eslora total. Las embarcaciones más pequeñas mantienen una variedad de otras opciones, que incluyen, entre otras, el Fondeadero 6 y el 12, como se recomendó anteriormente.",
+      "La entrada, el tránsito o el anclaje dentro de la zona de seguridad uno está prohibido a menos que las embarcaciones obtengan permiso del COTP o hagan arreglos satisfactorios de paso con la draga en operación conforme a esta norma y a las Reglas de Navegación (33 CFR subcapítulo E). El COTP podrá emitir actualizaciones respecto de la embarcación y el equipo que se esté utilizando para estas operaciones de dragado mediante un Boletín de Información de Seguridad Marítima, un Aviso de Difusión a los Navegantes y un Aviso Local a los Navegantes.",
+      "V. Análisis Regulatorios",
+      "Desarrollamos esta norma después de considerar numerosos estatutos y órdenes ejecutivas relacionados con la elaboración de normas. A continuación resumimos nuestros análisis basados en varios de estos estatutos y órdenes ejecutivas.",
+      "A. Impacto en Entidades Pequeñas",
+      "Las disposiciones de análisis de flexibilidad regulatoria de la Ley de Flexibilidad Regulatoria de 1980, 5 U.S.C. 601-612, no se aplican a normas que no están sujetas a aviso y comentario. Debido a que la Guardia Costera ha, por causa justificada, dispensado el requisito de aviso y comentario que de otro modo se aplicaría a esta elaboración de normas, las disposiciones de análisis de flexibilidad de la Ley de Flexibilidad Regulatoria no se aplican en este caso.",
+      "Conforme a la sección 213(a) de la Ley de Equidad en la Aplicación de Normas Regulatorias para la Pequeña Empresa de 1996 (Ley Pública 104-121), si esta norma afectará a su pequeña empresa, organización o jurisdicción gubernamental y usted tiene preguntas, comuníquese con la persona indicada en la sección PARA OBTENER MÁS INFORMACIÓN, COMUNÍQUESE CON.",
+      "Las pequeñas empresas pueden enviar comentarios al Defensor del Pueblo para la Aplicación de Normas Regulatorias para la Pequeña Empresa y la Agricultura y a las Juntas Regionales de Equidad en la Aplicación de Normas Regulatorias para la Pequeña Empresa llamando al 1-888-REG-FAIR (1-888-734-3247). La Guardia Costera no tomará represalias contra entidades pequeñas que cuestionen o presenten quejas sobre esta norma o cualquier política o acción de la Guardia Costera.",
+      "B. Recopilación de Información",
+      "Esta norma no requerirá una nueva recopilación de información conforme a la Ley de Reducción de Trámites de 1995 (44 U.S.C. 3501-3520).",
+      "C. Federalismo y Gobiernos Tribales Indígenas",
+      "Hemos analizado esta norma conforme a la Orden Ejecutiva 13132, Federalismo, y hemos determinado que es consistente con los principios fundamentales de federalismo y los requisitos de prelación descritos en dicha Orden.",
+      "Asimismo, esta norma no tiene implicaciones tribales conforme a la Orden Ejecutiva 13175, Consulta y Coordinación con los Gobiernos Tribales Indígenas, debido a que no tiene un efecto directo sustancial sobre una o más tribus indígenas, sobre la relación entre el Gobierno Federal y las tribus indígenas, o sobre la distribución de facultades y responsabilidades entre el Gobierno Federal y las tribus indígenas.",
+      "D. Ley de Reforma sobre Mandatos No Financiados",
+      "Conforme a lo requerido por la Ley de Reforma sobre Mandatos No Financiados de 1995 (2 U.S.C. 1531-1538), la Guardia Costera certifica que esta norma no resultará en un gasto anual de $100,000,000 o más (ajustado por inflación) por parte de un Estado, (página impresa 45206) gobierno local o tribal, en conjunto, o por parte del sector privado.",
+      "E. Medio Ambiente",
+      "Hemos analizado esta norma conforme a la Directiva 023-01, Rev. 1, del Departamento de Seguridad Nacional (DHS), las instrucciones de implementación asociadas, y la Instrucción de Planificación Ambiental COMDTINST 5090.1 (serie), que guían a la Guardia Costera en el cumplimiento de la Ley Nacional de Política Ambiental de 1969 (42 U.S.C. 4321 y siguientes), y hemos determinado que esta acción pertenece a una categoría de acciones que no tienen, individual o acumulativamente, un efecto significativo sobre el ambiente humano.",
+      "Esta norma involucra tres zonas de seguridad para proteger a los usuarios de las vías navegables, que prohibirían la entrada dentro de 250 yardas de las operaciones de dragado y cerrarían solamente un lado del canal de navegación principal. Las embarcaciones pueden solicitar permiso para pasar a través del canal. Está categóricamente excluida de un análisis adicional conforme al párrafo L60(a) del Apéndice A, Tabla 1, del Manual de Instrucciones 023-01-001-01 del DHS, Rev. 1. Un Registro de Consideración Ambiental que respalda esta determinación está disponible en el expediente. Para obtener instrucciones sobre cómo localizar el expediente, consulte la sección DIRECCIONES de este preámbulo.",
+      "VI. Participación Pública y Solicitud de Comentarios",
+      "Puede emitirse una regla provisional cuando sea de interés público promulgar una regla efectiva mientras se mantiene abierto el proceso de reglamentación para su posterior perfeccionamiento. 33 CFR 1.05-45(a). Aunque esta reglamentación se publica como regla provisional sin aviso previo, de todos modos es deseable recibir comentarios públicos después de la fecha de vigencia para garantizar que la reglamentación sea viable y razonable mientras la regla permanezca en vigor. Si el Servicio de Guardacostas determina, sobre la base de los comentarios presentados, que son necesarios cambios a la regla provisional temporal, publicaremos una regla final temporal, u otro documento, según corresponda.",
+      "Aunque estamos promulgando esta regla como provisional temporal por falta de tiempo para recibir comentarios antes de emitirla, consideramos que la participación pública es esencial para una reglamentación efectiva y tomaremos en cuenta todos los comentarios y materiales recibidos durante el período de comentarios. Si presenta un comentario, incluya el número de expediente de esta reglamentación, indique la sección específica de este documento a la que se refiere cada comentario y proporcione una razón para cada sugerencia o recomendación.",
+      "Presentación de comentarios. Lo alentamos a presentar comentarios en https://www.regulations.gov. Para hacerlo, vaya a https://www.regulations.gov, escriba USCG-2026-0831 en el cuadro de búsqueda y haga clic en “Search” (Buscar). A continuación, busque este documento en la columna de resultados de búsqueda y haga clic en él. Luego haga clic en la opción Comment (Comentario). Si no puede presentar su material utilizando https://www.regulations.gov, llame o envíe un correo electrónico a la persona que figura en la sección FOR FURTHER INFORMATION CONTACT (PARA MÁS INFORMACIÓN, COMUNÍQUESE CON) de esta regla para obtener instrucciones alternativas.",
+      "Consulta de material en el expediente. Para ver los documentos mencionados en esta regla como disponibles en el expediente, busque el expediente como se describe en el párrafo anterior y luego seleccione “Supporting & Related Material” (Material de apoyo y relacionado) en la columna “Document Type” (Tipo de documento). Los comentarios públicos también se colocarán en nuestro expediente en línea y pueden consultarse siguiendo las instrucciones de la página web de preguntas frecuentes de https://www.regulations.gov. Además, si hace clic en la pestaña Dockets (Expedientes) y luego en la regla, debería ver una opción de “Subscribe” (Suscribirse) para recibir alertas por correo electrónico. Esta opción le notificará cuando se publiquen comentarios o se publique una regla final.",
+      "Revisamos todos los comentarios recibidos, pero solo publicaremos aquellos que aborden el tema de la regla. Podemos optar por no publicar comentarios que estén fuera de tema, sean inapropiados o duplicados.",
+      "Información personal. Aceptamos comentarios anónimos. Los comentarios que publiquemos en https://www.regulations.gov incluirán cualquier información personal que usted haya proporcionado, salvo que la información de contacto (como el correo electrónico o la dirección postal) no estará disponible para consulta pública, a menos que quien presente el comentario incluya dicha información en el cuerpo de la presentación al expediente. Para obtener más información sobre la privacidad y las presentaciones al expediente en respuesta a este documento, consulte el aviso del Sistema de Registros del Sistema de Reglamentación Electrónica (eRulemaking) del DHS (85 FR 14226, 11 de marzo de 2020).",
+      "Lista de materias en 33 CFR Parte 165",
+      "Puertos",
+      "Seguridad marítima",
+      "Navegación (acuática)",
+      "Requisitos de notificación y mantenimiento de registros",
+      "Medidas de seguridad",
+      "Vías navegables",
+      "Por las razones expuestas en el preámbulo, el Servicio de Guardacostas enmienda la Parte 165 del 33 CFR de la siguiente manera:",
+      "PARTE 165, ÁREAS DE NAVEGACIÓN REGULADA Y ÁREAS DE ACCESO LIMITADO",
+      "1. La cita de autoridad para la parte 165 continúa redactándose de la siguiente manera:",
+      "Autoridad: 46 U.S.C. 70034, 70051, 70124; 33 CFR 1.05-1, 6.04-1, 6.04-6, y 160.5; Delegación del DHS No. 00170.1, Revisión No. 01.4.",
+      "2. Se añade el § 165.T05-0556 para que diga lo siguiente:",
+      "§ 165.T05-0556",
+      "Zonas de seguridad, dragado del río Delaware; Marcus Hook, PA.",
+      "(a) Ubicación. Las siguientes áreas son zonas de seguridad:",
+      "(1) La zona de seguridad uno incluye todas las aguas dentro de 250 yardas de la draga que exhibe luces y marcas para embarcaciones con capacidad de maniobra restringida, según se describe en 33 CFR 83.27, así como todo el equipo de dragado relacionado, mientras la draga esté operando en Marcus Hook Range. Para fines de aplicación, Marcus Hook Range incluye todas las aguas navegables del río Delaware, delimitadas por una línea trazada perpendicularmente a la línea central del canal en el punto más alejado río arriba del tramo hasta una línea trazada perpendicularmente a la línea central del canal en el punto más alejado río abajo del tramo.",
+      "(2) La zona de seguridad dos incluye todas las aguas del Fondeadero 7 frente a Marcus Hook Range, según se describe en 33 CFR 110.157(a)(8).",
+      "(3) La zona de seguridad tres incluye todas las aguas del Fondeadero 9, cerca de la entrada a Mantua Creek, según se describe en 33 CFR 110.157(a)(10).",
+      "(b) Definiciones. Para los fines de esta sección, representante designado significa cualquier oficial comisionado, oficial de guardiamarina (warrant officer) o suboficial (petty officer) de la Guardia Costera que haya sido autorizado por el Capitán del Puerto para ayudar en el cumplimiento de las zonas de seguridad descritas en el párrafo (a) de esta sección.",
+      "(c) Reglamentos. (1) Se prohíbe la entrada o el tránsito dentro de la zona de seguridad uno a menos que las embarcaciones realicen arreglos de paso satisfactorios a través del canal de radio VHF-FM 13 o 16 con la draga en operación, conforme a esta sección y a las Reglas de Navegación (Rules of the Road, 33 CFR capítulo I, subcapítulo E). Las embarcaciones que soliciten transitar deberán contactar a la draga en operación a través del canal de radio VHF-FM 13 o 16 al menos 1 hora antes de su llegada. Alternativamente, las embarcaciones pueden obtener permiso del Capitán del Puerto, Sector Delaware Bay (COTP, por sus siglas en inglés), a través del canal de radio VHF-FM 16 o por teléfono al (833) 453-1007.",
+      "(2) Las embarcaciones que deseen anclar en la zona de seguridad dos, Fondeadero 7 frente a Marcus Hook Range, deben tener una eslora total de al menos 650 pies y deben obtener permiso del COTP con al menos 24 horas de anticipación llamando al (833) 453-1007. El COTP permitirá, como máximo, que dos embarcaciones anclen a la vez, atendiendo por orden de llegada. Las embarcaciones solo podrán anclar durante un período de 12 horas. Las embarcaciones con una eslora total menor a 650 pies pueden solicitar anclar en el Fondeadero 7, frente a Marcus Hook Range, contactando al COTP en el número de teléfono indicado anteriormente, y podrán ser aprobadas caso por caso. Las embarcaciones que requieran una (página impresa 45207) inspección por parte del Servicio de Salud Pública, Aduanas o las autoridades de Inmigración serán dirigidas por el COTP a un fondeadero para la inspección requerida.",
+      "(3) Las embarcaciones que deseen anclar en la zona de seguridad tres, Fondeadero 9, cerca de la entrada de Mantua Creek, deben tener una eslora total de al menos 500 pies. Las embarcaciones con una eslora total menor a 500 pies pueden solicitar anclar en el Fondeadero 9, cerca de la entrada de Mantua Creek, y podrán ser aprobadas caso por caso.",
+      "(4) Esta sección se aplica a todas las embarcaciones, excepto aquellas que participen en las siguientes operaciones: cumplimiento de la ley, servicio de ayudas a la navegación y respuesta a emergencias.",
+      "(d) Cumplimiento. La Guardia Costera de los Estados Unidos puede recibir asistencia de agencias federales, estatales y locales en la patrulla y el cumplimiento de las zonas.",
+      "(e) Período de cumplimiento. Esta sección se hará cumplir desde el 15 de julio de 2026 hasta el 31 de octubre de 2026, a menos que sea cancelada antes por el Capitán del Puerto, Sector Delaware Bay.",
+      "Roberto Rivera,",
+      "Capitán, Guardia Costera de los Estados Unidos, Capitán interino del Puerto, Sector Delaware Bay.",
+      "[FR Doc. 2026-14584 Presentado 7-17-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 9110-04-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "发布并签署该文件的一个或多个机构",
+      "文件所修订、拟议修订或直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "用于标识《联邦监管与放松监管行动统一议程》中所列每项监管行动的RIN编号",
+      "详情请参阅《文件起草手册》。",
+      "美国国土安全部",
+      "海岸警卫队",
+      "《联邦法规汇编》第33编第165部分",
+      "[案卷编号USCG-2026-0831]",
+      "RIN 1625-AA00",
+      "机构:",
+      "美国国土安全部(DHS)海岸警卫队。",
+      "行动:",
+      "临时性临时规则及征求意见。",
+      "摘要:",
+      "海岸警卫队正在特拉华河水域设立三个临时安全区,分别位于马库斯胡克航道、第7号锚地(宾夕法尼亚州马库斯胡克附近)以及第9号锚地(靠近曼图亚溪入口)的部分区域。在进行维护性疏浚作业期间,这些安全区将临时限制船舶在特拉华河部分水域通行或抛锚。设立安全区旨在保护人员、船舶及海洋环境免受疏浚作业所造成的危害。除非经港口管制官(COTP)或其指定代表特别授权,否则禁止船舶或人员进入这些区域。",
+      "日期:",
+      "本规则自2026年7月20日起至2026年10月31日止生效,无需实际通知。为执行本规则,自2026年7月15日起至2026年7月20日止,将采用实际通知方式。",
+      "意见截止日期:海岸警卫队须于2026年8月19日或之前收到相关意见及材料。",
+      "地址:",
+      "您可通过https://www.regulations.gov提交意见,并标明案卷编号USCG-2026-0831。有关提交意见的进一步说明,请参阅“补充信息”部分中的“公众参与及征求意见”内容。如需查看本前言中提及的、可在案卷中查阅的文件,请访问https://www.regulations.gov,在搜索框中输入USCG-2026-0831,然后点击“搜索”。接着,在“文件类型”栏中选择“辅助及相关材料”。",
+      "如需更多信息请联系:",
+      "如对本规则有任何疑问,请致电或发送电子邮件联系美国海岸警卫队特拉华湾辖区航道管理科Emmanuel E. Melendez警官;电话(206) 815-6688,转3,电子邮件SecDelBayWWM@uscg.mil。",
+      "补充信息:",
+      "一、缩略语表",
+      "CFR 《联邦法规汇编》",
+      "COTP 特拉华湾港口管制官",
+      "DHS 美国国土安全部",
+      "FR 《联邦公报》",
+      "NPRM 拟议规则制定通知",
+      "§ 条",
+      "U.S.C. 《美国法典》",
+      "二、背景与授权依据",
+      "海岸警卫队依据《美国法典》第5编第553(b)(B)条所赋予的权力发布本临时规则。该法律条款授权机构在因正当理由认定按通常程序进行事先通知并征求意见“不可行、无必要或违反公共利益”时,可无需事先通知及征求意见程序而发布规则。海岸警卫队认定,就本规则而言存在不发布拟议规则制定通知(NPRM)的正当理由,因为鉴于疏浚作业将于2026年7月15日开始,时间不足以留出合理的意见征求期并在此之前发布最终规则,故此做法不可行。",
+      "此外,依据《美国法典》第5编第553(d)(3)条,基于上述同样原因,海岸警卫队认定存在正当理由使本规则在《联邦公报》刊登后不足30天即生效。",
+      "三、法律授权与规则制定的必要性",
+      "海岸警卫队依据《美国法典》第46编第70034条所赋予的权力发布本规则。特拉华湾港口管制官(COTP)已认定,疏浚作业存在潜在危险,例如存在水下及漂浮管道、增压泵、接头段以及操纵能力受限的船舶等。本规则制定的目的在于确保疏浚作业及所有相关管道和设备250码半径范围内(印刷页第45205页)人员、船舶及海洋环境的安全,并确保较大型船舶在无法于正在疏浚的区域抛锚时,仍有安全锚地可供使用。",
+      "四、规则讨论",
+      "本规则自2026年7月15日至2026年10月31日设立三个安全区。设立其中两个安全区是为了便利对特拉华河位于马库斯胡克航道（Marcus Hook Range）附近以及马库斯胡克外的第7号锚地（如33 CFR 110.157(a)(8)所述）进行维护性疏浚。第三个安全区设立于曼图亚溪（Mantua Creek）入口附近的第9号锚地（如33 CFR 110.157(a)(10)所述），以确保因疏浚作业而无法在第7号锚地锚泊的较大型船舶能够获得可供其使用的安全锚泊区域。疏浚作业最有可能使用“查尔斯顿”号（CHARLESTON）挖泥船进行，但也可能使用其他挖泥船，以及配套的疏浚管道和增压泵。该管道由紧随挖泥船之后的浮动软管与通往陆上处置区的潜没管道组合而成。鉴于疏浚作业、配套管道以及潜没管道所在位置所带来的危险，现在以下区域设立安全区：",
+      "（一）安全区一包括挖泥船在马库斯胡克航道和第7号锚地作业期间，挖泥船250码范围内的所有可通航水域，以及所有相关疏浚设备所在水域。挖泥船将按照我方《内河航行规则》（33 CFR 83.27所述）展示表示操纵能力受限船舶的灯光和号型。该安全区将在维护项目持续期间设立。请求通过该安全区的船舶必须至少提前1小时通过甚高频（VHF）13频道或16频道与挖泥船联系，以安排安全通行。在该安全区附近，主航道的至少一侧将保持畅通，以便船舶安全通行。任何时候都不会将整条主航道全部封闭，禁止船舶通行。在主航道一侧保持开放的区域，船舶应避免相遇会船，并应按照本规则及《航行规则》（33 CFR第E分章）行驶。",
+      "（二）安全区二包括马库斯胡克航道外第7号锚地（如33 CFR 110.157(a)(8)所述）的全部水域。本规则生效期间，拟在马库斯胡克航道外第7号锚地锚泊的船舶，须至少提前24小时拨打电话（215）271-4807征得港口安全主任（COTP）的许可。请求获准在马库斯胡克外第7号锚地锚泊的船舶，船舶总长须不小于650英尺。港口安全主任最多准许两艘船舶同时锚泊，按“先到先得”原则安排。船舶仅可锚泊12小时。需接受公共卫生署、海关或移民当局检查的船舶，将由港口安全主任指派至相应锚地接受所需检查。总长不足650英尺的船舶，如欲在马库斯胡克航道外第7号锚地锚泊,可致电（215）271-4807联系港口安全主任提出申请，并可能视具体情况获得批准。鼓励船舶改用以下替代锚地：曼图亚溪入口附近的第9号锚地、格洛斯特（Gloucester）与费城卡姆登（Camden）之间的第12号锚地，以及深水点航道（Deepwater Point Range）外的第6号锚地。",
+      "（三）安全区三包括曼图亚溪入口附近第9号锚地（如33 CFR 110.157(a)(10)所述）的全部水域。欲在曼图亚溪入口附近第9号锚地锚泊的船舶，总长须不小于500英尺。总长不足500英尺的船舶,如欲在曼图亚溪入口附近第9号锚地锚泊,可致电（215）271-4807联系港口安全主任提出申请，并可能视具体情况获得批准。",
+      "本规则生效期间，使用第7号锚地的船舶总长须不小于650英尺，使用第9号锚地的船舶总长须不小于500英尺。之所以实行此项限制，是因为此类尺寸的船舶因吃水限制，利用其他锚地的能力有限，且第9号锚地需用作总长在500英尺至700英尺之间船舶的溢流锚泊区。较小型船舶则仍可选用其他多种锚地，包括但不限于上文建议的第6号和第12号锚地。",
+      "进入、穿越或锚泊于安全区一律属禁止行为,除非船舶获得港口安全官(COTP)许可,或根据本规则及《航行规则》(33 CFR 第E分章)与作业挖泥船达成令人满意的通行安排。港口安全官可通过《海上安全信息公告》、《航行通告广播》及《地方航行通告》发布有关用于此类挖泥作业的船舶及设备的更新信息。",
+      "五、监管分析",
+      "本规则系在考虑了与规则制定相关的众多法规和行政命令后制定。下文我们根据其中若干法规和行政命令对分析情况作出概述。",
+      "甲、对小实体的影响",
+      "《1980年监管灵活性法案》(5 U.S.C. 601-612)有关监管灵活性分析的规定,不适用于无需经过通知和评议程序的规则。由于海岸警卫队已出于正当理由,豁免了本规则制定原本应适用的通知和评议要求,因此《监管灵活性法案》中有关灵活性分析的规定在此不适用。",
+      "根据《1996年小企业监管公平执行法案》(公法第104-121号)第213(a)条规定,若本规则将对您的小企业、组织或政府管辖机构产生影响,且您有相关疑问,请联系“联系方式”部分所列人员。",
+      "小企业可致电1-888-REG-FAIR(1-888-734-3247),向小企业与农业监管公平监察专员及地区小企业监管公平委员会提交意见。海岸警卫队不会因小实体对本规则或海岸警卫队的任何政策或行动提出质疑或投诉而对其进行报复。",
+      "乙、信息收集",
+      "根据《1995年文书削减法案》(44 U.S.C. 3501-3520),本规则不涉及新的信息收集要求。",
+      "丙、联邦制与印第安部落政府",
+      "我们已依据第13132号行政命令《联邦制》对本规则进行分析,并确定本规则符合该命令所述的联邦制基本原则及优先适用要求。",
+      "此外,根据第13175号行政命令《与印第安部落政府的协商与协调》,本规则不涉及部落影响问题,因为本规则不会对一个或多个印第安部落、联邦政府与印第安部落之间的关系,或联邦政府与印第安部落之间权力与责任的分配产生实质性直接影响。",
+      "丁、无资金拨款授权改革法案",
+      "根据《1995年无资金拨款授权改革法案》(2 U.S.C. 1531-1538)的要求,海岸警卫队证明,本规则不会导致州、(印刷页45206)地方或部落政府整体上,或私营部门每年支出1亿美元或以上(经通胀调整)的情形。",
+      "戊、环境",
+      "我们已依据《国土安全部第023-01号指令》(第1版修订版)及相关配套实施细则,以及《环境规划》(COMDTINST 5090.1系列,用于指导海岸警卫队遵守《1969年国家环境政策法》(42 U.S.C. 4321及其后各条)的规定),对本规则进行分析,并确定本行动属于一类单独或累积均不会对人类环境产生重大影响的行动。",
+      "本规则涉及三个安全区,旨在保护水道使用者,禁止船只进入挖泥作业周围250码范围内,且仅封闭主航道的一侧。船舶可请求许可通过该航道。根据《国土安全部第023-01-001-01号指令手册》(第1版修订版)附录A表1第L60(a)段的规定,本行动被归类为无需进一步审查的例外类别。支持该认定的《环境考量记录》可在案卷中查阅。有关查阅案卷的说明,请参见本序言“联系地址”部分。",
+      "六、公众参与及意见征询请求",
+      "根据《联邦法规汇编》第33编第1.05-45(a)条,当在保持规则制定程序公开以便进一步完善的同时发布一项有效规则符合公共利益时,可以发布临时规则。尽管本法规系作为临时规则发布,事先未经公告,但在生效日期之后征求公众意见仍属必要,以确保该法规在生效期间既可行又合理。如果美国海岸警卫队根据所提交的意见确定有必要对该临时规则进行修改,我们将酌情发布临时最终规则或其他适当文件。",
+      "尽管我们因在发布本规则前没有时间征求意见而将其作为临时规则发布,但我们认为公众参与对有效的规则制定至关重要,并将审议在评议期内收到的所有意见和材料。如果您提交意见,请注明本规则制定的案卷编号,说明每条意见所针对的本文件具体章节,并为每项建议或推荐意见说明理由。",
+      "提交意见。我们鼓励您通过 https://www.regulations.gov 提交意见。为此,请访问 https://www.regulations.gov,在搜索框中输入 USCG-2026-0831,然后点击“Search”(搜索)。接下来,在搜索结果栏中查找本文件并点击该文件。然后点击“Comment”(评论)选项。如果您无法通过 https://www.regulations.gov 提交材料,请致电或发送电子邮件给本规则“联系方式”部分所列人员,以获取替代提交方式的说明。",
+      "查看案卷中的材料。要查看本规则中提及的、可在案卷中查阅的文件,请按照前一段所述方式找到该案卷,然后在“Document Type”(文件类型)栏中选择“Supporting & Related Material”(支持性及相关材料)。公众意见也将被存入我们的在线案卷,可按照 https://www.regulations.gov 常见问题解答网页上的说明进行查看。此外,如果您点击“Dockets”(案卷)标签,然后点击该规则,您应能看到一个用于电子邮件提醒的“Subscribe”(订阅)选项。该选项会在有新意见发布或最终规则发布时通知您。",
+      "我们会审阅收到的所有意见,但只会公布与本规则主题相关的意见。对于收到的离题、不当或重复的意见,我们可能选择不予公布。",
+      "个人信息。我们接受匿名意见。我们发布到 https://www.regulations.gov 上的意见将包含您所提供的任何个人信息,但联系信息(如电子邮件地址或邮寄地址)除非提交人将其写入案卷提交内容正文中,否则不会公开显示供公众查看。有关隐私保护以及针对本文件向案卷提交材料的更多信息,请参见美国国土安全部(DHS)的电子规则制定系统记录通知(85 FR 14226,2020年3月11日)。",
+      "《联邦法规汇编》第33编第165部分主题目录",
+      "港口",
+      "海事安全",
+      "航行(水上)",
+      "报告与记录保存要求",
+      "安全措施",
+      "水道",
+      "基于前言中所述理由,美国海岸警卫队对《联邦法规汇编》第33编第165部分作如下修订:",
+      "第165部分,管制航行区和限制进入区",
+      "一、第165部分的授权引用继续规定如下:",
+      "授权依据:《美国法典》第46编第70034、70051、70124条;《联邦法规汇编》第33编第1.05-1、6.04-1、6.04-6及160.5条;美国国土安全部第00170.1号授权令,第01.4次修订版。",
+      "二、增订第165.T05-0556条,内容如下:",
+      "第165.T05-0556条",
+      "安全区,特拉华河疏浚工程;宾夕法尼亚州马库斯胡克。",
+      "(a) 地点。下列区域为安全区:",
+      "(1) 安全区一包括:在马库斯胡克航道(Marcus Hook Range)内作业期间,按照《联邦法规汇编》第33编第83.27条规定显示操纵能力受限船舶灯光和号型的疏浚船周围250码范围内的所有水域,以及所有相关疏浚设备所在的水域。就执法目的而言,马库斯胡克航道包括特拉华河的所有可航水域,其范围以在该航道最上游端垂直于航道中心线所画的一条直线,至在该航道最下游端垂直于航道中心线所画的一条直线为界。",
+      "(2) 安全区二包括马库斯胡克航道外第7号锚地的全部水域,该锚地按照《联邦法规汇编》第33编第110.157(a)(8)条所述。",
+      "(3) 安全区三包括曼图亚溪(Mantua Creek)入口附近第9号锚地的全部水域,该锚地按照《联邦法规汇编》第33编第110.157(a)(10)条所述。",
+      "(b) 定义。就本节而言,指定代表是指经辖区港口长授权协助执行本节第(a)段所述安全区域相关规定的任何海岸警卫队现役军官、准尉或士官。",
+      "(c) 规定。(1) 除非船舶依照本节规定及《道路规则》(33 CFR第一章E分章)通过甚高频调频(VHF-FM)无线电13频道或16频道与正在作业的挖泥船达成令人满意的通行安排,否则禁止进入或穿越第一安全区。要求通行的船舶应在抵达前至少1小时通过甚高频调频无线电13频道或16频道与正在作业的挖泥船联系。此外,船舶也可通过甚高频调频无线电16频道或拨打电话(833) 453-1007,征得特拉华湾辖区港口长(COTP)的许可。",
+      "(2) 欲在第二安全区,即马库斯胡克航道外的第7号锚地抛锚的船舶,船长必须不小于650英尺,并须至少提前24小时拨打电话(833) 453-1007征得港口长(COTP)许可。港口长将按“先到先得”的原则,最多同时允许两艘船舶抛锚。船舶抛锚时间仅限12小时。船长不足650英尺的船舶可通过上述电话号码联系港口长,申请在马库斯胡克航道外的第7号锚地抛锚,并将视具体情况逐案审批。需要接受公共卫生局、海关或移民当局检查的船舶,将由港口长指引至指定锚地接受所需检查。(印刷页45207)",
+      "(3) 欲在第三安全区,即曼图亚溪入口附近的第9号锚地抛锚的船舶,船长必须不小于500英尺。船长不足500英尺的船舶可申请在曼图亚溪入口附近的第9号锚地抛锚,并将视具体情况逐案审批。",
+      "(4) 本节适用于所有船舶,但从事下列作业的船舶除外:执法、助航设施维护服务以及应急响应。",
+      "(d) 执法。美国海岸警卫队在对相关区域进行巡逻和执法时,可获得联邦、州及地方机构的协助。",
+      "(e) 执行期限。本节自2026年7月15日起至2026年10月31日止施行,除非特拉华湾辖区港口长提前取消。",
+      "罗伯托·里维拉(Roberto Rivera),",
+      "美国海岸警卫队上尉,特拉华湾辖区代理港口长。",
+      "[联邦公报文件编号2026-14584,存档日期2026年7月17日上午8:45]",
+      "计费代码9110-04-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発出し署名した機関",
+      "文書が改正し、改正を提案し、または直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の案件番号/機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに記載された各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブックを参照のこと。",
+      "国土安全保障省(DHS)",
+      "沿岸警備隊",
+      "33 CFR Part 165",
+      "[Docket Number USCG-2026-0831]",
+      "RIN 1625-AA00",
+      "機関:",
+      "沿岸警備隊、国土安全保障省。",
+      "措置:",
+      "暫定的な臨時規則及び意見募集。",
+      "概要:",
+      "沿岸警備隊は、デラウェア川の水域、マーカスフック・レンジの一部、ペンシルベニア州マーカスフック沖の第7錨地、及びマントゥア・クリーク入口付近の第9錨地に、3つの臨時安全区域を設定する。これらの安全区域は、浚渫維持作業が実施されている間、デラウェア川の一部区間における船舶の通航又は錨泊を一時的に制限するものである。この安全区域は、浚渫作業により生じる危険から人員、船舶及び海洋環境を保護するために必要である。港長(COTP)又はその指定代理人により特別に許可されない限り、これらの区域への船舶又は人の立ち入りは禁止される。",
+      "日付:",
+      "本規則は、2026年7月20日から2026年10月31日まで、現実の通知なしに効力を有する。執行の目的上、2026年7月15日から2026年7月20日までの間は現実の通知が用いられる。",
+      "意見提出期限:意見書及び関連資料は、2026年8月19日までに沿岸警備隊に到達しなければならない。",
+      "宛先:",
+      "意見書は、案件番号USCG-2026-0831を明記の上、https://www.regulations.govにて提出することができる。意見提出に関する詳細な手順については、補足情報(SUPPLEMENTARY INFORMATION)の「公衆参加及び意見募集」の項を参照のこと。本文中に記載される案件記録(ドケット)内の文書を閲覧するには、https://www.regulations.govにアクセスし、検索ボックスにUSCG-2026-0831と入力して「Search」をクリックすること。次に、「Document Type」欄で「Supporting & Related Material」を選択すること。",
+      "問い合わせ先:",
+      "本規則について質問がある場合は、米国沿岸警備隊デラウェア湾管区、水路管理課のエマニュエル・E・メレンデス下士官まで、電話(206) 815-6688(内線3)又は電子メールSecDelBayWWM@uscg.milにて連絡されたい。",
+      "補足情報:",
+      "I. 略語表",
+      "CFR 連邦規則集",
+      "COTP 港長、デラウェア湾",
+      "DHS 国土安全保障省",
+      "FR 連邦官報",
+      "NPRM 規則制定案の告示",
+      "§ 条",
+      "U.S.C. 合衆国法典",
+      "II. 背景及び権限",
+      "沿岸警備隊は、5 U.S.C. 553(b)(B)に基づく権限により本暫定規則を発出する。この法律の規定は、機関が正当な理由により、事前の告示及び意見提出の機会の手続が「実行不可能であるか、不必要であるか、又は公共の利益に反する」と認める場合に、当該手続を経ることなく規則を発出することを認めるものである。沿岸警備隊は、2026年7月15日、すなわち浚渫作業の開始日までに、合理的な意見募集期間を設けた上で最終規則を公布するための十分な時間がないことから、本規則に関して規則制定案の告示(NPRM)を公布しないことについて実行不可能であるとの正当な理由が存在すると判断する。",
+      "また、5 U.S.C. 553(d)(3)に基づき、沿岸警備隊は、上記と同様の理由により、連邦官報への公布後30日未満で本規則を効力発生させることについて正当な理由が存在すると判断する。",
+      "III. 法的権限及び規則の必要性",
+      "沿岸警備隊は、46 U.S.C. 70034に基づく権限により本規則を発出する。デラウェア湾港長(COTP)は、浚渫作業が、水中及び水面に浮かぶパイプライン、ブースターポンプ、ヘッドセクション、並びに操縦性能が制限された船舶の存在など、潜在的な危険をもたらすと判断した。本規則制定の目的は、浚渫作業及びこれに関連する全てのパイプライン並びに機材の周囲250ヤードの範囲内における(印刷ページ45205)人員、船舶及び海洋環境の安全を確保すること、並びに浚渫作業が行われている区域に錨泊することができない大型船舶のために安全な錨泊地の確保を図ることである。",
+      "IV. 規則に関する検討",
+      "本規則は、2026年7月15日から2026年10月31日まで3つの安全水域を設定する。2つの安全水域は、33 CFR 110.157(a)(8)に規定されるマーカスフック・レンジ付近及びマーカスフック沖の第7錨地付近におけるデラウェア川の維持浚渫作業を円滑に行うために設定される。第3の安全水域は、浚渫作業のために第7錨地に投錨できない大型船舶のために安全な錨地を確保することを目的として、33 CFR 110.157(a)(10)に規定されるマンチュア・クリーク入口付近の第9錨地に設定される。浚渫は浚渫船CHARLESTONにより実施される可能性が最も高いが、他の浚渫船が使用される場合もあり、それに伴う浚渫用パイプライン及びブースターも使用される。パイプラインは、浚渫船のすぐ後方にあるフロート式ホースと、陸上処分場に通じる水中パイプラインとの組み合わせで構成される。浚渫作業、関連するパイプライン及び水中パイプラインの位置に関連する危険性のため、以下の区域に安全水域が設定される。",
+      "(1) 安全水域1には、浚渫船がマーカスフック・レンジ及び第7錨地で操業している間、浚渫船から250ヤード以内の全ての航行可能水域及び関連する全ての浚渫機材が含まれる。浚渫船は、33 CFR 83.27に規定される内水航行規則における操縦性能制限船舶としての灯火及び形象物を表示する。この安全水域は、維持浚渫事業の期間中設定される。安全水域を通航しようとする船舶は、安全な通航を手配するため、到着予定時刻の少なくとも1時間前にVHFチャンネル13又は16で浚渫船に連絡しなければならない。安全水域付近では、船舶の安全な通航のため、主要航路の少なくとも片側は常に開放されるものとする。主要航路全体が船舶交通に対して閉鎖されることは一切ない。船舶は、主要航路の片側のみが開放されているこれらの区域における行き会いを避け、本規則及び航法規則(33 CFR 第E分冊)に従って航行しなければならない。",
+      "(2) 安全水域2には、33 CFR 110.157(a)(8)に規定されるマーカスフック・レンジ沖の第7錨地の全水域が含まれる。本規則の有効期間中にマーカスフック・レンジ沖の第7錨地に投錨しようとする船舶は、電話番号(215) 271-4807に連絡し、少なくとも24時間前に港長(COTP)の許可を得なければならない。マーカスフック沖の第7錨地への投錨許可を求める船舶は、全長が少なくとも650フィートなければならない。港長は、「先着順」の原則に基づき、一度に最大2隻の船舶の投錨を許可する。船舶は12時間の期間に限り投錨を許可される。公衆衛生局、税関又は移民当局による検査を必要とする船舶は、所要の検査のため、港長により指定された錨地に誘導される。全長650フィート未満の船舶は、電話番号(215) 271-4807により港長に連絡することで、マーカスフック・レンジ沖の第7錨地への投錨を要請することができ、個別の事案ごとに承認される場合がある。船舶は、代替の錨地として、マンチュア・クリーク入口付近の第9錨地、グロスターとカムデン(フィラデルフィア)の間の第12錨地、及びディープウォーター・ポイント・レンジ沖の第6錨地の利用を推奨される。",
+      "(3) 安全水域3には、33 CFR 110.157(a)(10)に規定されるマンチュア・クリーク入口付近の第9錨地の全水域が含まれる。マンチュア・クリーク入口付近の第9錨地に投錨する船舶は、全長が少なくとも500フィートなければならない。全長500フィート未満の船舶は、電話番号(215) 271-4807により港長に連絡することで、マンチュア・クリーク入口付近の第9錨地への投錨を要請することができ、個別の事案ごとに承認される場合がある。",
+      "本規則の有効期間中、第7錨地を利用する船舶は全長が少なくとも650フィート、第9錨地を利用する船舶は全長が少なくとも500フィートなければならない。この制限を設ける理由は、この大きさの船舶は喫水の制約により他の錨地を利用する能力が限られていること、及び第9錨地が全長500フィートから700フィートまでの船舶のための予備の錨地として利用される必要があることによる。小型の船舶については、上記で推奨した第6錨地及び第12錨地を含むがこれらに限られない、他の多くの選択肢がある。",
+      "安全水域1への進入、通過、または錨泊は、船舶がCOTP(港長)の許可を得るか、本規則及び航行規則(33 CFR第E分編)に従って作業中の浚渫船との間で満足のいく通過の取り決めを行わない限り、禁止される。COTPは、これらの浚渫作業に使用される船舶及び機材に関する最新情報を、海上安全情報公報、船舶向け放送通知及び地方航行者向け通知を通じて発行することがある。",
+      "V. 規制分析",
+      "本規則は、規則制定に関連する多数の制定法及び大統領令を考慮した上で策定された。以下に、これらの制定法及び大統領令のいくつかに基づく分析を要約する。",
+      "A. 小規模事業体への影響",
+      "1980年規制柔軟化法(5 U.S.C. 601-612)の規制柔軟化分析に関する規定は、告知及び意見聴取の対象とならない規則には適用されない。沿岸警備隊は、正当な理由により、本規則制定に通常適用される告知及び意見聴取の要件を免除しているため、規制柔軟化法の柔軟化分析に関する規定は本件には適用されない。",
+      "1996年小規模事業規制執行公正化法(公法104-121)第213条(a)に基づき、本規則が貴殿の小規模事業、組織、又は行政管轄区域に影響を及ぼし、かつ質問がある場合には、「問い合わせ先」の項に記載されている担当者に連絡されたい。",
+      "小規模事業者は、1-888-REG-FAIR(1-888-734-3247)に電話することにより、小規模事業及び農業規制執行監察官並びに地域小規模事業規制公正化委員会に意見を送付することができる。沿岸警備隊は、本規則又は沿岸警備隊の方針若しくは措置について疑問を呈し、又は苦情を申し立てる小規模事業体に対して報復措置を取ることはない。",
+      "B. 情報収集",
+      "本規則は、1995年ペーパーワーク削減法(44 U.S.C. 3501-3520)に基づく新たな情報収集を求めるものではない。",
+      "C. 連邦主義及びインディアン部族政府",
+      "我々は、連邦主義に関する大統領令13132に基づき本規則を分析し、同命令に記載されている連邦主義の基本原則及び専占要件と整合していると判断した。",
+      "また、本規則は、インディアン部族政府との協議及び調整に関する大統領令13175に基づく部族への影響を有しない。なぜなら、本規則は、一又は複数のインディアン部族、連邦政府とインディアン部族との関係、又は連邦政府とインディアン部族との間の権限及び責任の配分に対して、実質的な直接的影響を及ぼさないからである。",
+      "D. 未財源義務改革法",
+      "1995年未財源義務改革法(2 U.S.C. 1531-1538)の要求に従い、沿岸警備隊は、本規則が、州、(印刷ページ45206)地方、若しくは部族政府、又は民間部門に対して、合計で年間1億ドル以上(インフレ調整後)の支出を生じさせないことを証明する。",
+      "E. 環境",
+      "我々は、国土安全保障省指令023-01改訂1版、関連する実施指示書、及び環境計画COMDTINST 5090.1(シリーズ)に基づき本規則を分析した。これらは、沿岸警備隊が1969年国家環境政策法(42 U.S.C. 4321以下)を遵守するための指針となるものであり、本措置は、個別的にも累積的にも人間環境に重大な影響を及ぼさない行為の種類の一つに該当すると判断した。",
+      "本規則は、水路利用者を保護するための3つの安全水域を伴うものであり、浚渫作業から250ヤード以内への進入を禁止し、主航行水路の片側のみを閉鎖するものである。船舶は、水路の通過許可を申請することができる。本措置は、DHS指示マニュアル023-01-001-01改訂1版の付録A表1の段落L60(a)に基づき、更なる審査から類型的に除外される。この判断を裏付ける環境配慮記録は、ドケットにおいて閲覧可能である。ドケットの所在地に関する案内については、本前文の「問い合わせ先」の項を参照されたい。",
+      "VI. 公衆参加及び意見募集",
+      "暫定規則は、規則制定手続きを更なる改善のために継続しつつ、有効な規則を公布することが公共の利益に資する場合に発出されることができる。33 CFR 1.05-45(a)。本規則は事前の告知なしに暫定規則として公布されるものであるが、本規則が効力を有する間、実行可能かつ合理的な規則であることを確保するため、発効日以降にパブリックコメントを受け付けることが望ましい。沿岸警備隊(コーストガード)が提出されたコメントに基づき本暫定規則に変更が必要であると判断した場合には、当局は暫定最終規則その他適切な文書を公布する。",
+      "本規則を規則発出前にコメントを受け付ける時間的余裕がなかったために暫定規則として公布するものであるが、当局は公衆の参加が効果的な規則制定にとって不可欠であると考えており、コメント期間中に提出されたすべてのコメント及び資料を検討する。コメントを提出する場合には、本規則制定手続きの docket 番号を記載し、各コメントが本文書のどの条項に関するものであるかを示し、各提案又は勧告の理由を明記されたい。",
+      "コメントの提出方法。当局は https://www.regulations.gov を通じたコメントの提出を推奨する。提出するには、https://www.regulations.gov にアクセスし、検索ボックスに USCG-2026-0831 と入力し、「Search」をクリックされたい。次に、検索結果欄で本文書を探し、それをクリックされたい。その後、「Comment」オプションをクリックされたい。https://www.regulations.gov を利用して資料を提出できない場合は、本規則の FOR FURTHER INFORMATION CONTACT 欄に記載された担当者に電話又は電子メールで連絡し、代替の手続きについて確認されたい。",
+      "docket 内の資料の閲覧。本規則において docket 内で入手可能であるとされている文書を閲覧するには、前段落に記載の方法により docket を探し、「Document Type」欄において「Supporting & Related Material」を選択されたい。公衆から提出されたコメントについても、当局のオンライン docket に掲載され、https://www.regulations.gov のよくある質問(Frequently Asked Questions)のウェブページに記載された手順に従って閲覧することができる。また、「Dockets」タブをクリックし、続いて本規則をクリックすると、電子メールによる通知を受け取るための「Subscribe」オプションが表示されるはずである。このオプションにより、コメントが掲載された場合又は最終規則が公布された場合に通知を受けることができる。",
+      "当局は受領したすべてのコメントを検討するが、本規則の主題に関連するコメントのみを掲載する。当局は、主題と無関係なもの、不適切なもの、又は重複するコメントについては、これを掲載しないことがある。",
+      "個人情報について。当局は匿名によるコメントの提出を受け付ける。https://www.regulations.gov に掲載されるコメントには、提出者が提供した個人情報が含まれることになるが、連絡先情報(電子メールアドレスや郵送先住所等)については、提出者が docket への提出内容の本文中に当該情報を含めない限り、公衆の閲覧に供されることはない。本文書に対する docket への提出に関するプライバシー及び取扱いの詳細については、国土安全保障省(DHS)の電子規則制定システムに関する記録システム通知(85 FR 14226、2020年3月11日)を参照されたい。",
+      "33 CFR Part 165における対象事項一覧",
+      "港湾",
+      "海上安全",
+      "航行(水上)",
+      "報告及び記録保持の要件",
+      "保安措置",
+      "水路",
+      "前文に記載された理由により、沿岸警備隊は33 CFR Part 165を以下のとおり改正する。",
+      "第165部 規制航行区域及び制限区域",
+      "1. 第165部の権限引用は、引き続き以下のとおりとする。",
+      "権限:46 U.S.C. 70034、70051、70124、33 CFR 1.05-1、6.04-1、6.04-6及び160.5、DHS委任第00170.1号、改訂番号01.4。",
+      "2. 第165.T05-0556条を新設し、以下のとおり定める。",
+      "第165.T05-0556条",
+      "安全区域、デラウェア川浚渫、ペンシルベニア州マーカスフック。",
+      "(a) 所在地。以下の区域を安全区域とする。",
+      "(1) 安全区域1には、33 CFR 83.27に規定される操縦能力が制限された船舶であることを示す灯火及び形象物を掲げた浚渫船がマーカスフック航路において作業を行っている間、当該浚渫船から250ヤード以内のすべての水域、並びに関連するすべての浚渫機材が含まれる。取締りの目的上、マーカスフック航路には、当該航路の最上流端における水路中心線に対して垂直に引いた線から、当該航路の最下流端における水路中心線に対して垂直に引いた線までの間にあるデラウェア川のすべての航行可能水域が含まれるものとする。",
+      "(2) 安全区域2には、33 CFR 110.157(a)(8)に規定される、マーカスフック航路沖の投錨地7のすべての水域が含まれる。",
+      "(3) 安全区域3には、33 CFR 110.157(a)(10)に規定される、マントゥア・クリーク入口付近の投錨地9のすべての水域が含まれる。",
+      "(b) 定義。本条において使用される「指定代表者」とは、本条(a)項に記載される安全水域の取締りを支援するため、港長により権限を付与された沿岸警備隊の尉官、准士官又は下士官をいう。",
+      "(c) 規則。(1) 安全水域1への立入り又は同水域内の通航は、本条及び航行規則(33 CFR第I章、サブチャプターE)に従い、VHF-FM無線13チャンネル又は16チャンネルを通じて稼働中の浚渫船との間で満足のいく通過調整を行わない限り、禁止される。通航を希望する船舶は、到着の少なくとも1時間前までにVHF-FM無線13チャンネル又は16チャンネルを通じて稼働中の浚渫船に連絡しなければならない。これに代えて、船舶は、デラウェア湾管区港長(COTP)の許可を、VHF-FM無線16チャンネル又は電話番号(833) 453-1007を通じて得ることができる。",
+      "(2) 安全水域2、マーカスフック・レンジ沖の錨地7に投錨を希望する船舶は、全長650フィート以上でなければならず、少なくとも24時間前までに電話番号(833) 453-1007によりCOTPの許可を得なければならない。COTPは、「先着順」に基づき、最大2隻の船舶の同時投錨を許可する。船舶の投錨は12時間に限り許可される。全長650フィート未満の船舶は、上記電話番号によりCOTPに連絡することで、マーカスフック・レンジ沖の錨地7への投錨を申請することができ、個別の事案ごとに承認され得る。公衆衛生局、税関又は入国管理当局による検査を必要とする船舶は、COTPにより当該検査のための錨地へ誘導される。(45207ページ印刷)",
+      "(3) 安全水域3、マンチュア・クリーク入口付近の錨地9への投錨を希望する船舶は、全長500フィート以上でなければならない。全長500フィート未満の船舶は、マンチュア・クリーク入口付近の錨地9への投錨を申請することができ、個別の事案ごとに承認され得る。",
+      "(4) 本条は、次の業務に従事する船舶を除く全ての船舶に適用される。すなわち、法令の執行、航行援助施設の整備、及び緊急対応である。",
+      "(d) 取締り。米国沿岸警備隊は、当該水域の巡視及び取締りにおいて、連邦、州及び地方の機関の支援を受けることができる。",
+      "(e) 施行期間。本条は、デラウェア湾管区港長により早期に解除されない限り、2026年7月15日から2026年10月31日まで施行される。",
+      "ロベルト・リベラ",
+      "米国沿岸警備隊大佐、デラウェア湾管区代理港長",
+      "[FR Doc. 2026-14584 Filed 7-17-26; 8:45 am]",
+      "BILLING CODE 9110-04-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

@@ -3,7 +3,7 @@
   "sources": {
     "uscis_news": {
       "ok": true,
-      "items": 17,
+      "items": 320,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -37,15 +37,15 @@
       "alert": true
     },
     "state_press": {
-      "ok": true,
+      "ok": false,
       "items": 0,
-      "error": null,
-      "fail_streak": 0,
+      "error": "https://www.state.gov/press-releases/: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.state.gov/press-releases/\", waiting until \"domcontentloaded\"\n",
+      "fail_streak": 1,
       "alert": true
     },
     "federal_register": {
       "ok": true,
-      "items": 20,
+      "items": 101,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -66,14 +66,14 @@
     },
     "presidential": {
       "ok": true,
-      "items": 5,
+      "items": 22,
       "error": null,
       "fail_streak": 0,
       "alert": true
     }
   },
   "translate": {
-    "done": 0,
+    "done": 11,
     "failed": 0,
     "key": true,
     "fail_streak": 0

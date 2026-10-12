@@ -1,0 +1,135 @@
+{
+  "id": "fce0e1f377d7",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-fiscal-year-2027-h-1b-cap",
+  "original_title": "USCIS Reaches Fiscal Year 2027 H-1B Cap",
+  "published": "2026-07-17",
+  "effective_date": null,
+  "importance": "high",
+  "category": "processing",
+  "tags": [
+    "H-1B",
+    "Cap",
+    "FY2027"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, 2027회계연도 H-1B 쿼터 마감 발표",
+      "summary": "USCIS는 2027회계연도 H-1B 비자의 정규 쿼터 6만5천 건과 석사 학위 이상 소지자를 위한 추가 쿼터 2만 건을 채우기에 충분한 청원서를 접수했다고 밝혔습니다. 이번 발표는 2026년 7월 17일 자로 공지되었습니다.",
+      "points": [
+        "USCIS가 2027회계연도 H-1B 정규 쿼터 6만5천 건에 해당하는 청원서를 접수했습니다.",
+        "미국 석사 이상 학위 소지자를 위한 추가 쿼터 2만 건도 모두 채워졌습니다.",
+        "이는 의회가 정한 연간 H-1B 비자 쿼터에 따른 것입니다.",
+        "구체적인 선발 절차나 향후 접수 재개 여부는 이번 발표에 명시되지 않았습니다."
+      ],
+      "who": "2027회계연도 H-1B 쿼터 대상 청원서를 제출한 고용주와 신청자가 영향을 받습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "USCIS Reaches Fiscal Year 2027 H-1B Cap",
+      "summary": "USCIS announced it has received enough H-1B petitions to reach the fiscal year 2027 regular cap of 65,000 and the master's cap of 20,000 for U.S. advanced degree holders. The announcement was released on July 17, 2026.",
+      "points": [
+        "USCIS has received enough petitions to reach the 65,000 regular H-1B cap for fiscal year 2027.",
+        "The 20,000 master's cap exemption for U.S. advanced degree holders has also been reached.",
+        "These caps are set by Congress on an annual basis.",
+        "The source does not specify further details on the selection process or whether additional filings will be accepted."
+      ],
+      "who": "Employers and foreign workers with H-1B petitions filed for fiscal year 2027 are affected.",
+      "action": ""
+    },
+    "es": {
+      "title": "USCIS alcanza el tope de visas H-1B del año fiscal 2027",
+      "summary": "USCIS informó que ha recibido suficientes peticiones para alcanzar el tope regular de 65,000 visas H-1B y el tope adicional de 20,000 para titulares de maestrías estadounidenses correspondientes al año fiscal 2027. El anuncio se publicó el 17 de julio de 2026.",
+      "points": [
+        "USCIS recibió suficientes peticiones para cubrir el tope regular de 65,000 visas H-1B del año fiscal 2027.",
+        "También se alcanzó el tope adicional de 20,000 para quienes poseen maestrías de instituciones estadounidenses.",
+        "Estos topes son establecidos anualmente por el Congreso de Estados Unidos.",
+        "La fuente no detalla el proceso de selección ni si se aceptarán nuevas presentaciones."
+      ],
+      "who": "Afecta a empleadores y trabajadores extranjeros con peticiones H-1B presentadas para el año fiscal 2027.",
+      "action": ""
+    },
+    "zh": {
+      "title": "USCIS宣布2027财年H-1B签证名额已满",
+      "summary": "美国公民及移民服务局(USCIS)宣布,已收到足够数量的申请,达到2027财年H-1B签证常规名额6.5万个以及硕士及以上学位豁免名额2万个的上限。该公告于2026年7月17日发布。",
+      "points": [
+        "USCIS已收到足够申请,达到2027财年6.5万个H-1B常规名额上限。",
+        "面向美国硕士及以上学位持有者的2万个额外名额也已满额。",
+        "该名额由美国国会每年设定。",
+        "公告未说明具体抽签流程或是否会接受更多申请。"
+      ],
+      "who": "已为2027财年提交H-1B申请的雇主及外籍员工受到影响。",
+      "action": ""
+    },
+    "ja": {
+      "title": "USCIS、2027会計年度のH-1Bビザ上限に到達と発表",
+      "summary": "USCISは、2027会計年度のH-1Bビザ通常枠6万5千件および米国修士号以上取得者向けの追加枠2万件に達するのに十分な申請を受理したと発表しました。この発表は2026年7月17日付けです。",
+      "points": [
+        "USCISは2027会計年度のH-1B通常枠6万5千件に達する申請を受理しました。",
+        "米国の修士号以上取得者向けの追加枠2万件も満了しました。",
+        "この上限は米国議会が毎年定めているものです。",
+        "選考プロセスの詳細や今後の追加受付の有無については情報源に記載がありません。"
+      ],
+      "who": "2027会計年度にH-1B申請を行った雇用主および外国人労働者が対象です。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-12T20:09Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "h1b",
+    "employment"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "07/17/2026"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services has received enough petitions to reach the congressionally mandated 65,000 H-1B visa regular cap and the 20,000 H-1B visa U.S. advanced degree exemption, known as the master’s cap, for fiscal year 2027."
+      },
+      {
+        "t": "p",
+        "x": "07/17/2026"
+      }
+    ],
+    "fetched": "2026-10-12T20:09Z",
+    "from": "page",
+    "chars": 276
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 7월 17일",
+      "미국 시민권 및 이민 서비스국(USCIS)은 2027회계연도에 대해 의회가 정한 65,000건의 H-1B 비자 정규 쿼터 및 미국 석사 학위 이상 소지자에게 적용되는 20,000건의 H-1B 비자 면제, 즉 석사 쿼터에 도달하기에 충분한 수의 청원서를 접수하였음을 발표합니다.",
+      "2026년 7월 17일"
+    ],
+    "es": [
+      "Fecha de Publicación",
+      "17/07/2026",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) ha recibido suficientes peticiones para alcanzar el límite regular de 65,000 visas H-1B establecido por el Congreso y la exención de 20,000 visas H-1B para titulares de títulos de posgrado estadounidenses avanzados, conocida como el límite de maestría, para el año fiscal 2027.",
+      "17/07/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年07月17日",
+      "美国公民及移民服务局(USCIS)已收到足够数量的申请,达到国会规定的2027财年65,000个H-1B签证常规限额,以及20,000个H-1B签证美国高等学位豁免限额(即硕士学位限额)。",
+      "2026年07月17日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年7月17日",
+      "米国市民権移民局(USCIS)は、2027会計年度について、議会が定めた65,000件のH-1Bビザ通常上限および20,000件のH-1Bビザ米国上級学位免除枠(修士号上限として知られる)に達するために十分な数の申請を受理しました。",
+      "2026年7月17日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
