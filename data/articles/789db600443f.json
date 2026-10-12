@@ -96,5 +96,703 @@
     "travel",
     "humanitarian"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain\nthe following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part\nthe document amends, proposes to amend, or is directly\nrelated to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in\nthe Unified Agenda of Federal Regulatory and Deregulatory\nActions"
+      },
+      {
+        "t": "p",
+        "x": "See the\nDocument Drafting Handbook\nfor more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "U.S. Customs and Border Protection"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Customs and Border Protection, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice of Fee Adjustment for Inflation."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security (DHS) is announcing Fiscal Year (FY) 2027 inflation adjustments to certain immigration-related fees required by the One Big Beautiful Bill Act (HR-1). HR-1 requires that DHS annually adjust certain immigration-related fees for inflation. This notice sets the inflation-adjusted FY 2027 fee amounts for the following immigration fees required by HR-1: the fee for parole of an alien into the United States, the Electronic System for Travel Authorization (ESTA) fees, and the fee for enrollment in the Electronic Visa Update System (EVUS). In accordance with the inflation adjustment rounding requirement in HR-1, the existing fee for Form I-94 Arrival/Departure Record applications will not change for FY 2027."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "HR-1 Parole Fee:\nU.S. Customs and Border Protection (CBP), U.S. Citizenship and Immigration Services (USCIS), and U.S. Immigration and Customs Enforcement (ICE) will begin assessing the FY 2027 amount for the HR-1 parole fee described in this notice on October 16, 2026."
+      },
+      {
+        "t": "p",
+        "x": "HR-1 I-94, ESTA, and EVUS Fees:\nCBP will begin assessing the FY 2027 amounts for the HR-1 I-94, ESTA, and EVUS fees described in this notice on October 16, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "For questions regarding the HR-1 parole fee, by component:"
+      },
+      {
+        "t": "p",
+        "x": "CBP:\nOffice of Field Operations, U.S. Customs and Border Protection, Department of Homeland Security, 1300 Pennsylvania Avenue NW, Suite 1500N, Washington, DC 20229, email address:\nparolenotification@cbp.dhs.gov."
+      },
+      {
+        "t": "p",
+        "x": "USCIS:\nOffice of Chief Financial Officer, U.S. Citizenship and Immigration Services, Department of Homeland Security, 5900 Capital Gateway Drive, Camp Springs, MD 20746, telephone (240) 721-3000 (not a toll-free number)."
+      },
+      {
+        "t": "p",
+        "x": "ICE:\nOffice of Regulatory Affairs and Policy, U.S. Immigration and Customs Enforcement, Department of Homeland Security, 500 12th Street SW, Washington, DC 20536; telephone (202) 732-6960 (not a toll-free number)."
+      },
+      {
+        "t": "p",
+        "x": "For questions regarding the HR-1 I-94, ESTA, and EVUS fees:"
+      },
+      {
+        "t": "p",
+        "x": "Melanie Mataxas, Director, Electronic Systems Travel Authorization, Office of Field Operations, U.S. Customs and Border Protection, at 202-325-1372 or at\nmelanie.d.mataxas@cbp.dhs.gov."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Background and Legal Authority"
+      },
+      {
+        "t": "p",
+        "x": "On July 4, 2025, the President signed into law the One Big Beautiful Bill Act,\n( printed page 62535)\nPublic Law 119-21, 139 Stat. 72 (HR-1). HR-1 was a comprehensive legislative package that changed many laws and added new laws that touch many areas of the United States Government. Among those changes, the law established new immigration fees and increased existing fees for certain immigration-related actions. The statute established minimum fees for Fiscal Year (FY) 2025 and required annual adjustments to the fees in subsequent fiscal years based on the Consumer Price Index for All Urban Consumers (CPI-U).[1]"
+      },
+      {
+        "t": "p",
+        "x": "Among other immigration fees specified in HR-1, the Secretary of Homeland Security must require the payment of a fee by any alien who is paroled into the United States, unless an exception in Public Law 119-21 section 100004(b) applies (the HR-1 parole fee).\nSeePublic Law 119-21 sec. 100004. Several Department of Homeland Security (DHS) components, including U.S. Immigration and Customs Enforcement (ICE), U.S. Citizenship and Immigration Services (USCIS), and U.S. Customs and Border Protection (CBP), are responsible for assessing and collecting the HR-1 parole fee."
+      },
+      {
+        "t": "p",
+        "x": "CBP also administers several other fees specified in HR-1,[2]\nincluding requiring fees for submitting an application for a CBP Form I-94 Arrival/Departure Record, for using the Electronic System for Travel Authorization (ESTA) and receiving ESTA travel authorizations, and for enrolling in the Electronic Visa Update System (EVUS).\nSeePublic Law 119-21 secs. 100008, 100014, 100015."
+      },
+      {
+        "t": "p",
+        "x": "The following table lists the notices which implemented the immigration parole, Form I-94, ESTA, and EVUS fees and adjusted those fees for inflation."
+      },
+      {
+        "t": "p",
+        "x": "Table 1—Summary of Immigration Parole, Form I-94, ESTA, and EVUS Fee Notices"
+      },
+      {
+        "t": "tr",
+        "x": "Subject\n| Federal Register citation\n| Date published\n| Date fees took effect"
+      },
+      {
+        "t": "tr",
+        "x": "Implementation of HR-1 Form I-94, ESTA, and EVUS Fees\n| 90 FR 42025\n| Aug. 28, 2025\n| Sept. 30, 2025"
+      },
+      {
+        "t": "tr",
+        "x": "Implementation of HR-1 Immigration Parole Fee\n| 90 FR 48317\n| Oct. 16, 2025\n| Oct. 16, 2025"
+      },
+      {
+        "t": "tr",
+        "x": "FY 2026 Inflation Adjustments for Immigration Parole, Form I-94, ESTA, and EVUS Fees\n| 90 FR 52085\n| Nov. 19, 2025\n| Jan. 1, 2026"
+      },
+      {
+        "t": "h",
+        "x": "II. FY 2027 Inflation Adjustments to Certain Immigration Fees Required by HR-1"
+      },
+      {
+        "t": "p",
+        "x": "In accordance with HR-1, most immigration-related fees required by HR-1 are subject to annual inflation adjustments. This notice provides the FY 2027 rates for the HR-1 parole, I-94, ESTA, and EVUS fees (collectively, the HR-1 fees)."
+      },
+      {
+        "t": "p",
+        "x": "Generally, HR-1 requires the multiplication of an HR-1 fee or a portion of an HR-1 fee from the prior fiscal year by the percentage, if any, by which the CPI-U for the month of July preceding the date on which the adjustment takes effect exceeds the CPI-U for the July of the preceding calendar year (the inflation adjustment). In July 2025, the CPI-U was 323.048, and in July 2026, the CPI-U was 333.918. Therefore, between July 2025 and July 2026, the CPI-U increased by 3.36 percent.[3]\nTo determine the total HR-1 fee for each fiscal year, the inflation adjustment is added to the HR-1 fee or portion of the HR-1 fee used in the calculation of the inflation adjustment, pursuant to the statutorily prescribed formula. The specifics of the statutory inflation adjustment formulas differ for each HR-1 fee. The following table provides a summary of the inflation-adjusted FY 2027 HR-1 fees described in this notice, and the following subsections further detail the HR-1 inflation adjustment requirements."
+      },
+      {
+        "t": "p",
+        "x": "Table 2—Certain FY 2027 Fees, as Required by HR-1"
+      },
+      {
+        "t": "tr",
+        "x": "HR-1, Public Law 119-21 (139 Stat. 72) Section\n| Action\n| Total FY\n2026 fee\n(existing\nfee)\n| FY 2027\ninflation\nadjustment\n| Total FY\n2027 fee\n(revised\nfee)"
+      },
+      {
+        "t": "tr",
+        "x": "100004\n| Parole into the United States\n| $1,020\n| +$30\n| $1,050"
+      },
+      {
+        "t": "tr",
+        "x": "100008\n| Application for CBP Form I-94 at land border ports of entry\n| 30\n|\n4\n +$0\n|\n5\n 30"
+      },
+      {
+        "t": "tr",
+        "x": "100014\n| ESTA authorization\n| 40.27\n| +$0.35\n|\n6\n 40.62"
+      },
+      {
+        "t": "tr",
+        "x": "100015\n| EVUS enrollment\n| 30.75\n| +$1\n| $31.75"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 62536)"
+      },
+      {
+        "t": "h",
+        "x": "A. DHS HR-1 Parole Fee"
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to HR-1, the Secretary of Homeland Security must require the payment of a fee by any alien who is paroled into the United States, unless an exception in Public Law 119-21 section 100004(b) applies.\nSeePublic Law 119-21 sec. 100004 (8 U.S.C. 1804). Specifically, this fee is required each time an alien is granted parole under sec. 212(d)(5)(A) of the Immigration and Nationality Act (INA), 8 U.S.C. 1182(d)(5)(A), including initial parole from outside the United States, parole in place, re-parole, or parole from DHS custody.\nSee90 FR 48317, 48318."
+      },
+      {
+        "t": "p",
+        "x": "DHS is required to adjust the HR-1 parole fee for inflation in each fiscal year.\nSeePublic Law 119-21 sec. 100004(d). This notice announces the FY 2027 inflation-adjusted HR-1 parole fee for all DHS components, including ICE, USCIS, and CBP."
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to HR-1, DHS is required to adjust the HR-1 parole fee by adding an inflation adjustment amount, rounded to the next lowest multiple of $10, to the amount of the fee for the most recently concluded fiscal year.\nId.\nThe FY 2026 inflation-adjusted HR-1 parole fee is $1,020.\nSee90 FR 52085 (Nov. 19, 2025). The FY 2027 inflation adjustment amount is $34.32 rounded to the next lowest multiple of $10, which is $30."
+      },
+      {
+        "t": "p",
+        "x": "Accordingly, the inflation-adjusted HR-1 parole fee for FY 2027 will be $1,050 ($1,020 + $30). The HR-1 parole fee will not be assessed if the alien establishes, to the satisfaction of DHS, on an individual, case-by-case basis, that the circumstances of the alien's parole align with at least 1 of the 10 exceptions found in HR-1.\nSeePublic Law 119-21 sec. 100004(b). The operative event that triggers the statutory obligation to pay the HR-1 parole fee is the actual grant and effectuation of parole into the United States—not the filing of an application or request. Thus, unless statutorily excepted, the FY 2027 inflation-adjusted HR-1 parole fee will be collected from any alien who is granted parole on or after October 16, 2026, regardless of when the underlying application or request was submitted."
+      },
+      {
+        "t": "p",
+        "x": "The $1,050 HR-1 parole fee is required in addition to any other fee authorized by law.\nSeePublic Law 119-21 sec. 100004(a)."
+      },
+      {
+        "t": "h",
+        "x": "B. CBP Form I-94 Arrival/Departure Record"
+      },
+      {
+        "t": "p",
+        "x": "CBP issues an electronic CBP Form I-94 Arrival/Departure Record to all arriving aliens who are legally required to submit that form (unless otherwise exempted).\nSee\nparts 1.4 and 235.1(h) of title 8 of the Code of Federal Regulations (8 CFR 1.4, 235.1(h)). CBP Form I-94 serves as evidence of the terms of the alien's admission or parole and is generally issued at the time the alien is admitted or paroled at a U.S. port of entry.\nSee8 CFR 235.1(h). Aliens arriving at a land border port of entry who are legally required to submit a CBP Form I-94 must apply for that form."
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to HR-1, the Secretary of Homeland Security must require the payment of a fee for any alien who submits an application for a Form I-94 Arrival/Departure Record (the HR-1 I-94 fee).\nSeePublic Law 119-21 sec. 100008 (8 U.S.C. 1807). CBP is required to adjust the HR-1 I-94 fee for inflation in each fiscal year.\nSeePublic Law 119-21 sec. 100008(b)(2). The statutory formula requires adding an inflation adjustment amount, rounded down to the nearest dollar, to the amount of the fee required under Public Law 119-21 sec. 100008(b) for the most recently concluded fiscal year.\nId.\nThe FY 2026 HR-1 I-94 fee is $24.\nSee90 FR 52085, 52086. For FY 2027, the inflation adjustment required by Public Law 119-21 sec. 100008(b)(2)(B) is $0.81 rounded down to the nearest dollar, which is $0. Thus, the HR-1 I-94 fee for FY 2026 will remain at $24 ($24 + $0)."
+      },
+      {
+        "t": "p",
+        "x": "The HR-1 I-94 fee is required in addition to any other fee authorized by law.\nSeePublic Law 119-21 sec. 100008(a). Currently, CBP imposes a $6 fee for aliens who are legally required to be issued, or request to be issued, CBP Form I-94 and who intend to arrive at a land border port of entry.\nSee8 CFR 103.7(d)(4), 235.1(h)(1), and 286.9(b)(1). Accordingly, the total fee to apply for a CBP Form I-94 at a land border port of entry for FY 2027 will continue to be $30, consisting of the $6 land border fee and the $24 HR-1 fee. CBP will not assess a fee for aliens arriving at an air or sea port of entry because such aliens are not required to submit an application for a CBP Form I-94."
+      },
+      {
+        "t": "h",
+        "x": "C. Electronic System for Travel Authorization (ESTA)"
+      },
+      {
+        "t": "p",
+        "x": "ESTA is the online system through which aliens intending to enter the United States under the Visa Waiver Program (VWP) must obtain an electronic travel authorization in advance of travel to the United States.[7]\nEach alien intending to travel by air, sea, or land to the United States under the VWP must receive a travel authorization via ESTA prior to travel.\nSee\nINA sec. 217 (8 U.S.C. 1187) and 8 CFR part 217. Pursuant to section 217(h)(3)(B) of the INA (8 U.S.C. 1187(h)(3)(B)), as amended by section 100014 of HR-1, two fees are required for each ESTA authorization, and one fee is required for each use of the ESTA system."
+      },
+      {
+        "t": "p",
+        "x": "The FY 2026 ESTA authorization fee of $40.27, as required by HR-1, is the sum of three fees, including: $17 per travel authorization as provided for in 8 U.S.C. 1187(h)(3)(B)(i)(I), $10.27 as provided for in 8 U.S.C. 1187(h)(3)(B)(i)(II) to ensure recovery of the full costs of providing and administering the ESTA system, and $13 per travel authorization as provided for in 8 U.S.C. 1187(h)(3)(B)(i)(III).\nSee90 FR 52085, 52087. The 8 U.S.C. 1187(h)(3)(B)(i)(II) cost recovery fee is required for all applications, regardless of authorization or denial; thus, in the event the ESTA application is denied, HR-1 set a $10.27 fee for FY 2026.\nSee8 U.S.C. 1187(h)(3)(B)."
+      },
+      {
+        "t": "p",
+        "x": "CBP is required to adjust the 8 U.S.C. 1187(h)(3)(B)(i)(II) cost recovery fee for inflation in each fiscal year.\nSee8 U.S.C. 1187(h)(3)(B)(iv). Under HR-1, the adjusted 8 U.S.C. 1187(h)(3)(B)(i)(II) cost recovery fee is calculated by adding the amount required under 8 U.S.C. 1187(h)(3)(B)(i)(II) for the previous fiscal year to the inflation adjustment amount.\nSee8 U.S.C. 1187(h)(3)(B)(iv). For FY 2026, the amount required under 8 U.S.C. 1187(h)(3)(B)(i)(II) is $10.27. The inflation adjustment for FY 2027 is $0.35. HR-1 does not direct CBP to round the HR-1 ESTA inflation adjustment. Thus, for FY 2027, the 8 U.S.C. 1187(h)(3)(B)(i)(II) cost recovery fee will be $10.62 ($10.27 + $0.35)."
+      },
+      {
+        "t": "p",
+        "x": "As noted previously, the 8 U.S.C. 1187(h)(3)(B)(i)(II) cost recovery fee is one of three fees that, when combined, comprise the total ESTA authorization fee for each fiscal year. This notice does not alter the $17 or $13 fees required under 8 U.S.C. 1187(h)(3)(B)(i)(I) and 8 U.S.C. 1187(h)(3)(B)(i)(III), respectively. Thus, as required by HR-1, the inflation-adjusted FY 2027 ESTA fee will be $40.62 ($17 + $10.62 + $13) per travel authorization. In the event the ESTA application is denied, the FY 2027 fee is $10.62 to ensure recovery of the costs of providing and administering the ESTA System."
+      },
+      {
+        "t": "h",
+        "x": "D. Electronic Visa Update System (EVUS)"
+      },
+      {
+        "t": "p",
+        "x": "EVUS is an online system currently used by nationals of the People's Republic of China (PRC) holding a 10-year B-1, B-2, or B-1/B-2 (visitor) visa to provide required information to DHS prior to travel to the United States.\nSee\n( printed page 62537)\n8 CFR part 215, subpart B.[8]\nPRC nationals with an approved U.S.-issued visa of a designated category must enroll in EVUS and provide or update personal and travel information to receive a determination of travel eligibility.\nSee8 CFR 215.24."
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to HR-1, the Secretary of Homeland Security must require any alien enrolling in EVUS to pay a fee. Public Law 119-21 sec. 100015 (8 U.S.C. 1813). The alien must pay the fee at the time of enrollment.\nId.\nFor FY 2025, the statute set a minimum fee amount of $30.\nSeePublic Law 119-21 sec. 100015(b)(1)."
+      },
+      {
+        "t": "p",
+        "x": "During FY 2026 and each subsequent FY, CBP is required to adjust the HR-1 EVUS fee for inflation.\nSeePublic Law 119-21 sec. 100015(b)(2). The statutory formula requires adding an inflation adjustment amount, rounded down to the next lowest multiple of $0.25, to the amount of the fee required under Public Law 119-21 sec. 100015(b) for the most recently concluded fiscal year.\nId.\nThe inflation-adjusted HR-1 EVUS fee for FY 2026 is $30.75. For FY 2027, the inflation adjustment under Public Law 119-21 sec. 100015(b)(2)(B) is $1.03 rounded down to the next lowest multiple of $0.25, which is $1.00. Thus, the inflation-adjusted HR-1 EVUS fee for FY 2027 is $31.75 ($30.75 + $1.00)."
+      },
+      {
+        "t": "p",
+        "x": "This $31.75 HR-1 EVUS fee is required in addition to any other fee applicable by law.\nSeePublic Law 119-21 sec. 100015(a)."
+      },
+      {
+        "t": "p",
+        "x": "Markwayne Mullin,"
+      },
+      {
+        "t": "p",
+        "x": "Secretary, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1.\n \nSee Public Law 119-21 secs. 100004(d), 100008(b)(2), 100014(3), 100015(b)(2), codified as 8 U.S.C. 1804(d), 8 U.S.C. 1807(b)(2), 8 U.S.C. 1187(h)(3)(B)(iv), and 8 U.S.C. 1813(b)(2)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2.\n The Secretary of Homeland Security has delegated the authority to enforce and administer the immigration laws to the Commissioner of U.S. Customs and Border Protection.\nSee\nDHS Delegation No. 07010.3, Delegation of Authority to the Commissioner of U.S. Customs and Border Protection, (Rev. No. 03.2, Incorporating Change 2) at II.B.1 (Dec. 11, 2024)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3.\n Bureau of Labor Statistics, Consumer Price Index—July 2026, August 12, 2026,\nhttps://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm\n(last visited Aug. 13, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4.\n Section II.B. explains the inflation adjustment formula for the HR-1 I-94 fee and details that upon applying the inflation adjustment formula and rounding down to the nearest dollar, the fee amount will not increase in FY 2027."
+      },
+      {
+        "t": "p",
+        "x": "5.\n This $30 total includes the $6 land border fee. Payment of the $6 land border fee is required pursuant to 8 CFR 103.7(d)(4), 235.1(h)(1), and 286.9(b)(1), and is not a fee that is required by HR-1. Therefore, the inflation adjustment is not calculated based on the total $30 fee, and instead, only the $24 portion of the Form I-94 fee, required by HR-1, is adjusted for inflation."
+      },
+      {
+        "t": "p",
+        "x": "6.\n Section II.C. explains the inflation adjustment formula found in Public Law 119-21 sec. 100014(3) (8 U.S.C. 1187(h)(3)(B)(iv)) and the resulting FY 2027 ESTA fee calculations for CBP processing of ESTA applications and travel authorizations. In the event an ESTA application is denied, the fee is $10.62 for FY 2027."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "7.\n For additional information on the Visa Waiver Program, see 8 U.S.C. 1187 and 8 CFR part 217."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "8.\n In a\nFederal Register\nnotice published on October 20, 2016 (81 FR 72600), DHS identified the PRC as an EVUS country and designated B-1, B-2, and B-1/B-2 visas issued without restriction for the maximum validity period and contained in a passport issued by the PRC as designated visa categories for purposes of EVUS."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-20185 Filed 9-30-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-14-P"
+      }
+    ],
+    "fetched": "2026-10-12T17:04Z",
+    "from": "federalregister.gov",
+    "chars": 17815
+  },
+  "full": {
+    "ko": [
+      "문서 제목",
+      "문서 제목은 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 편(title) 번호 및 각 부(part) 번호",
+      "기관 접수번호/기관 내부 파일 번호",
+      "연방 규제 및 규제 완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 기재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국토안보부(Department of Homeland Security)",
+      "미국 관세국경보호청(U.S. Customs and Border Protection)",
+      "기관:",
+      "미국 관세국경보호청, 미국 국토안보부.",
+      "조치:",
+      "물가상승 반영 수수료 조정 공고.",
+      "요약:",
+      "국토안보부(DHS)는 One Big Beautiful Bill Act(HR-1)에서 요구하는 특정 이민 관련 수수료에 대한 2027회계연도(FY) 물가상승 조정 사항을 공고합니다. HR-1은 국토안보부가 매년 특정 이민 관련 수수료를 물가상승률에 따라 조정하도록 요구하고 있습니다. 본 공고는 HR-1에서 요구하는 다음 이민 관련 수수료에 대하여 물가상승이 반영된 2027회계연도 수수료 금액을 설정합니다. 외국인의 미국 가석방(parole) 수수료, 전자여행허가제(Electronic System for Travel Authorization, ESTA) 수수료, 그리고 전자비자갱신시스템(Electronic Visa Update System, EVUS) 등록 수수료입니다. HR-1의 물가상승 조정 반올림 요건에 따라, 기존 I-94 출입국기록(Form I-94 Arrival/Departure Record) 신청 수수료는 2027회계연도에 변경되지 않습니다.",
+      "시행일:",
+      "HR-1 가석방 수수료:\n미국 관세국경보호청(CBP), 미국 시민권이민서비스국(USCIS), 미국 이민세관집행국(ICE)은 본 공고에서 설명하는 HR-1 가석방 수수료의 2027회계연도 금액을 2026년 10월 16일부터 부과하기 시작합니다.",
+      "HR-1 I-94, ESTA 및 EVUS 수수료:\nCBP는 본 공고에서 설명하는 HR-1 I-94, ESTA 및 EVUS 수수료의 2027회계연도 금액을 2026년 10월 16일부터 부과하기 시작합니다.",
+      "추가 정보 문의처:",
+      "구성기관별 HR-1 가석방 수수료 관련 문의사항:",
+      "CBP:\n현장운영국(Office of Field Operations), 미국 관세국경보호청, 국토안보부, 1300 Pennsylvania Avenue NW, Suite 1500N, Washington, DC 20229, 이메일 주소: parolenotification@cbp.dhs.gov.",
+      "USCIS:\n최고재무책임관실(Office of Chief Financial Officer), 미국 시민권이민서비스국, 국토안보부, 5900 Capital Gateway Drive, Camp Springs, MD 20746, 전화 (240) 721-3000(수신자부담 전화번호 아님).",
+      "ICE:\n규제업무정책실(Office of Regulatory Affairs and Policy), 미국 이민세관집행국, 국토안보부, 500 12th Street SW, Washington, DC 20536, 전화 (202) 732-6960(수신자부담 전화번호 아님).",
+      "HR-1 I-94, ESTA 및 EVUS 수수료 관련 문의사항:",
+      "Melanie Mataxas, 전자여행허가제 국장, 현장운영국, 미국 관세국경보호청, 전화 202-325-1372 또는 이메일 melanie.d.mataxas@cbp.dhs.gov.",
+      "보충 정보:",
+      "I. 배경 및 법적 권한",
+      "2025년 7월 4일, 대통령은 One Big Beautiful Bill Act,\n(인쇄본 페이지 62535)\n공법(Public Law) 119-21, 139 Stat. 72(HR-1)에 서명하여 법률로 제정하였습니다. HR-1은 미국 정부의 여러 분야에 걸쳐 많은 법률을 변경하고 새로운 법률을 추가한 포괄적인 입법 패키지였습니다. 이러한 변경사항 중에는 새로운 이민 수수료를 신설하고 특정 이민 관련 조치에 대한 기존 수수료를 인상한 내용이 포함되어 있습니다. 해당 법률은 2025회계연도(FY)의 최저 수수료를 설정하였고, 이후 회계연도에는 모든 도시 소비자 대상 소비자물가지수(CPI-U)를 기준으로 수수료를 매년 조정하도록 요구하였습니다.[1]",
+      "HR-1에 명시된 다른 이민 수수료 중에서도, 국토안보부 장관은 공법 119-21 제100004(b)조의 예외가 적용되는 경우를 제외하고, 미국으로 가석방되는 모든 외국인에게 수수료 납부를 요구하여야 합니다(HR-1 가석방 수수료). 공법 119-21 제100004조를 참조하십시오. 미국 이민세관집행국(ICE), 미국 시민권이민서비스국(USCIS), 미국 관세국경보호청(CBP)을 포함한 국토안보부(DHS)의 여러 구성기관이 HR-1 가석방 수수료의 부과 및 징수를 담당합니다.",
+      "CBP는 또한 HR-1에 명시된 여러 다른 수수료를 관리하고 있으며,[2] 여기에는 CBP I-94 출입국기록(Form I-94 Arrival/Departure Record) 신청서 제출 수수료, 전자여행허가제(ESTA) 이용 및 ESTA 여행허가 수령 수수료, 그리고 전자비자갱신시스템(EVUS) 등록 수수료가 포함됩니다. 공법 119-21 제100008조, 제100014조, 제100015조를 참조하십시오.",
+      "다음 표는 이민 가석방, I-94 양식, ESTA 및 EVUS 수수료를 시행하고 그러한 수수료를 물가상승률에 따라 조정한 공고들을 열거한 것입니다.",
+      "표 1. 이민 가석방, I-94 양식, ESTA 및 EVUS 수수료 공고 요약",
+      "제목\n| 연방관보(Federal Register) 인용\n| 공포일\n| 수수료 발효일",
+      "HR-1 I-94 양식, ESTA 및 EVUS 수수료의 시행\n| 90 FR 42025\n| 2025년 8월 28일\n| 2025년 9월 30일",
+      "HR-1 이민 가석방 수수료의 시행\n| 90 FR 48317\n| 2025년 10월 16일\n| 2025년 10월 16일",
+      "이민 가석방, I-94 양식, ESTA 및 EVUS 수수료에 대한 2026회계연도 물가상승률 조정\n| 90 FR 52085\n| 2025년 11월 19일\n| 2026년 1월 1일",
+      "II. HR-1에서 요구하는 특정 이민 수수료에 대한 2027회계연도 물가상승률 조정",
+      "HR-1에 따라 HR-1이 요구하는 대부분의 이민 관련 수수료는 매년 물가상승률 조정 대상이 됩니다. 본 공고는 HR-1 가석방, I-94, ESTA 및 EVUS 수수료(이하 'HR-1 수수료')에 대한 2027회계연도 요율을 제공합니다.",
+      "일반적으로 HR-1은 전 회계연도의 HR-1 수수료 또는 그 일부 금액에, 조정 발효일 직전 7월의 소비자물가지수(CPI-U)가 그 전년도 7월의 CPI-U를 초과하는 비율(이하 '물가상승률 조정')을 곱하도록 요구하고 있습니다. 2025년 7월 CPI-U는 323.048이었고, 2026년 7월 CPI-U는 333.918이었습니다. 따라서 2025년 7월과 2026년 7월 사이에 CPI-U는 3.36퍼센트 상승하였습니다.[3]\n각 회계연도의 총 HR-1 수수료를 산정하기 위하여, 법정 산식에 따라 물가상승률 조정액이 물가상승률 조정 산정에 사용된 HR-1 수수료 또는 그 일부 금액에 더해집니다. 법정 물가상승률 조정 산식의 구체적인 내용은 각 HR-1 수수료별로 상이합니다. 다음 표는 본 공고에서 설명하는 물가상승률이 조정된 2027회계연도 HR-1 수수료를 요약한 것이며, 이어지는 하위 항목에서는 HR-1 물가상승률 조정 요건을 보다 상세히 설명합니다.",
+      "표 2. HR-1에서 요구하는 2027회계연도 특정 수수료",
+      "HR-1, 공법(Public Law) 119-21 (139 Stat. 72) 조항\n| 조치\n| 2026회계연도\n총 수수료\n(기존\n수수료)\n| 2027회계연도\n물가상승률\n조정액\n| 2027회계연도\n총 수수료\n(개정된\n수수료)",
+      "100004\n| 미국 내 가석방\n| $1,020\n| +$30\n| $1,050",
+      "100008\n| 육상 국경 입국항에서의 CBP I-94 양식 신청\n| 30\n|\n4\n +$0\n|\n5\n 30",
+      "100014\n| ESTA 인가\n| 40.27\n| +$0.35\n|\n6\n 40.62",
+      "100015\n| EVUS 등록\n| 30.75\n| +$1\n| $31.75",
+      "(인쇄본 페이지 62536)",
+      "A. DHS HR-1 가석방 수수료",
+      "HR-1에 따라, 국토안보부 장관은 공법 119-21 제100004조(b)항의 예외가 적용되는 경우를 제외하고, 미국으로 가석방되는 모든 외국인에게 수수료 납부를 요구하여야 합니다.\n공법 119-21 제100004조(8 U.S.C. 1804) 참조. 구체적으로, 본 수수료는 외국인에게 이민국적법(INA) 제212조(d)(5)(A), 8 U.S.C. 1182(d)(5)(A)에 따른 가석방이 허가될 때마다 부과되며, 여기에는 미국 외부로부터의 최초 가석방, 현지 가석방(parole in place), 재가석방, 또는 DHS 구금으로부터의 가석방이 포함됩니다.\n90 FR 48317, 48318 참조.",
+      "DHS는 매 회계연도마다 HR-1 가석방 수수료를 물가상승률에 따라 조정하여야 합니다.\n공법 119-21 제100004조(d)항 참조. 본 공고는 ICE, USCIS 및 CBP를 포함한 모든 DHS 산하 기관에 적용되는 2027회계연도 물가상승률 조정 HR-1 가석방 수수료를 공표합니다.",
+      "HR-1에 따라 DHS는 직전 회계연도 수수료 금액에, 10달러 단위로 내림하여 산정한 물가상승률 조정액을 더하여 HR-1 가석방 수수료를 조정하여야 합니다.\n위 참조. 2026회계연도 물가상승률 조정 HR-1 가석방 수수료는 $1,020입니다.\n90 FR 52085 (2025년 11월 19일) 참조. 2027회계연도 물가상승률 조정액은 $34.32이며, 이를 10달러 단위로 내림하면 $30이 됩니다.",
+      "따라서 2027회계연도 물가상승률 조정 HR-1 가석방 수수료는 $1,050($1,020 + $30)이 됩니다. 외국인이 DHS가 만족할 수 있는 방식으로, 개별 사안별로, 자신의 가석방 상황이 HR-1에 규정된 10가지 예외 중 최소 1가지에 해당함을 입증하는 경우에는 HR-1 가석방 수수료가 부과되지 않습니다.\n공법 119-21 제100004조(b)항 참조. HR-1 가석방 수수료 납부의 법정 의무를 발생시키는 결정적 사건은 신청서 또는 요청서의 제출이 아니라, 미국 내 가석방의 실제 허가 및 발효입니다. 따라서 법령상 예외에 해당하지 않는 한, 2027회계연도 물가상승률 조정 HR-1 가석방 수수료는 기초가 되는 신청서 또는 요청서가 언제 제출되었는지와 관계없이, 2026년 10월 16일 이후 가석방이 허가되는 모든 외국인으로부터 징수됩니다.",
+      "HR-1 가석방 수수료 1,050달러는 법률에 의해 승인된 그 밖의 모든 수수료에 추가하여 요구됩니다.\n공법(Public Law) 119-21 제100004조(a)항 참조.",
+      "B. CBP Form I-94 출입국 기록(Arrival/Departure Record)",
+      "미국 세관국경보호청(CBP)은 해당 서식을 제출할 법적 의무가 있는 (별도로 면제되지 않는 한) 모든 입국 외국인에게 전자식 CBP Form I-94 출입국 기록을 발급합니다.\n연방규정집(Code of Federal Regulations) 제8편 제1.4항 및 제235.1(h)항(8 CFR 1.4, 235.1(h)) 참조. CBP Form I-94는 외국인의 입국 또는 가석방 조건에 대한 증빙 자료로 사용되며, 일반적으로 외국인이 미국 입국항에서 입국 또는 가석방될 때 발급됩니다.\n8 CFR 235.1(h) 참조. CBP Form I-94를 제출할 법적 의무가 있는 외국인으로서 육로 국경 입국항에 도착하는 자는 해당 서식을 신청하여야 합니다.",
+      "HR-1에 따라 국토안보부(DHS) 장관은 Form I-94 출입국 기록 신청서를 제출하는 모든 외국인에게 수수료(HR-1 I-94 수수료) 납부를 요구하여야 합니다.\n공법 119-21 제100008조(8 U.S.C. 1807) 참조. CBP는 매 회계연도마다 HR-1 I-94 수수료를 물가상승률에 따라 조정하여야 합니다.\n공법 119-21 제100008조(b)항(2)호 참조. 법정 산식에 따르면, 공법 119-21 제100008조(b)항에 따라 가장 최근에 종료된 회계연도에 요구되었던 수수료 금액에 물가상승 조정 금액을 더한 후, 이를 가장 가까운 달러 단위로 절사하여야 합니다.\n위와 같음.\n2026회계연도 HR-1 I-94 수수료는 24달러입니다.\n90 FR 52085, 52086 참조. 2027회계연도의 경우, 공법 119-21 제100008조(b)항(2)호(B)목에 따라 요구되는 물가상승 조정 금액은 0.81달러이며, 이를 가장 가까운 달러 단위로 절사하면 0달러가 됩니다. 따라서 2026회계연도의 HR-1 I-94 수수료는 계속하여 24달러(24달러 + 0달러)로 유지됩니다.",
+      "HR-1 I-94 수수료는 법률에 의해 승인된 그 밖의 모든 수수료에 추가하여 요구됩니다.\n공법 119-21 제100008조(a)항 참조. 현재 CBP는 CBP Form I-94를 발급받아야 할 법적 의무가 있거나 발급을 요청하는 외국인으로서 육로 국경 입국항을 통해 입국하고자 하는 자에게 6달러의 수수료를 부과하고 있습니다.\n8 CFR 103.7(d)(4), 235.1(h)(1), 및 286.9(b)(1) 참조. 따라서 2027회계연도에 육로 국경 입국항에서 CBP Form I-94를 신청하는 데 소요되는 총 수수료는 육로 국경 수수료 6달러와 HR-1 수수료 24달러를 합한 30달러로 계속 유지됩니다. 항공 또는 해상 입국항을 통해 입국하는 외국인은 CBP Form I-94 신청서를 제출할 의무가 없으므로, CBP는 이들에게 수수료를 부과하지 않습니다.",
+      "C. 전자여행허가제(Electronic System for Travel Authorization, ESTA)",
+      "ESTA는 비자면제프로그램(Visa Waiver Program, VWP)에 따라 미국에 입국하고자 하는 외국인이 미국 여행 전에 전자여행허가를 받아야 하는 온라인 시스템입니다.[7]\nVWP에 따라 항공, 해상, 또는 육로로 미국에 여행하고자 하는 모든 외국인은 여행 전에 ESTA를 통해 여행허가를 받아야 합니다.\n이민국적법(INA) 제217조(8 U.S.C. 1187) 및 8 CFR 제217부 참조. HR-1 제100014조에 의해 개정된 이민국적법 제217조(h)항(3)호(B)목(8 U.S.C. 1187(h)(3)(B))에 따라, ESTA 허가 건당 두 가지 수수료가 요구되며, ESTA 시스템 사용 건당 한 가지 수수료가 요구됩니다.",
+      "HR-1에 의해 요구되는 2026회계연도 ESTA 허가 수수료 40.27달러는 다음 세 가지 수수료의 합계입니다. 즉, 8 U.S.C. 1187(h)(3)(B)(i)(I)에 규정된 여행허가 건당 17달러, ESTA 시스템 제공 및 운영에 소요되는 전체 비용의 회수를 보장하기 위하여 8 U.S.C. 1187(h)(3)(B)(i)(II)에 규정된 10.27달러, 그리고 8 U.S.C. 1187(h)(3)(B)(i)(III)에 규정된 여행허가 건당 13달러입니다.\n90 FR 52085, 52087 참조. 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따른 비용회수 수수료는 허가 또는 거부 여부와 관계없이 모든 신청에 대하여 요구됩니다. 따라서 ESTA 신청이 거부되는 경우에도 HR-1은 2026회계연도에 대하여 10.27달러의 수수료를 정하였습니다.\n8 U.S.C. 1187(h)(3)(B) 참조.",
+      "CBP는 매 회계연도마다 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따른 비용회수 수수료를 물가상승률에 따라 조정하여야 합니다.\n8 U.S.C. 1187(h)(3)(B)(iv) 참조. HR-1에 따라, 조정된 8 U.S.C. 1187(h)(3)(B)(i)(II) 비용회수 수수료는 직전 회계연도에 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따라 요구된 금액에 물가상승 조정 금액을 더하여 산정됩니다.\n8 U.S.C. 1187(h)(3)(B)(iv) 참조. 2026회계연도의 경우, 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따라 요구되는 금액은 10.27달러입니다. 2027회계연도의 물가상승 조정 금액은 0.35달러입니다. HR-1은 HR-1 ESTA 물가상승 조정 금액을 절사하도록 지시하지 않습니다. 따라서 2027회계연도의 경우, 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따른 비용회수 수수료는 10.62달러(10.27달러 + 0.35달러)가 됩니다.",
+      "앞서 언급한 바와 같이, 8 U.S.C. 1187(h)(3)(B)(i)(II)에 따른 비용 회수 수수료는 각 회계연도의 전자여행허가(ESTA) 승인 수수료 총액을 구성하는 세 가지 수수료 중 하나입니다. 본 공고는 8 U.S.C. 1187(h)(3)(B)(i)(I) 및 8 U.S.C. 1187(h)(3)(B)(i)(III)에 따라 각각 요구되는 17달러 및 13달러의 수수료를 변경하지 않습니다. 따라서 HR-1에서 요구하는 바에 따라, 물가상승률이 반영된 2027 회계연도 ESTA 수수료는 여행허가 1건당 40.62달러(17달러 + 10.62달러 + 13달러)가 됩니다. ESTA 신청이 거부되는 경우, 2027 회계연도 수수료는 ESTA 시스템의 제공 및 운영 비용 회수를 보장하기 위하여 10.62달러로 합니다.",
+      "D. 전자비자갱신시스템(Electronic Visa Update System, EVUS)",
+      "EVUS는 현재 중화인민공화국(PRC) 국민으로서 10년 유효기간의 B-1, B-2 또는 B-1/B-2(방문자) 비자를 소지한 자가 미국 방문 전에 국토안보부(DHS)에 필요한 정보를 제공하기 위하여 사용하는 온라인 시스템입니다.\n8 CFR part 215, subpart B를 참조하십시오.[8]\n( printed page 62537)\n지정된 범주의 미국 발급 비자를 승인받은 중화인민공화국 국민은 EVUS에 등록하고 여행 적격성 판정을 받기 위하여 개인 정보 및 여행 정보를 제공하거나 갱신하여야 합니다.\n8 CFR 215.24를 참조하십시오.",
+      "HR-1에 따라, 국토안보부 장관은 EVUS에 등록하는 모든 외국인에게 수수료를 납부하도록 요구하여야 합니다. Public Law 119-21 sec. 100015(8 U.S.C. 1813). 해당 외국인은 등록 시점에 수수료를 납부하여야 합니다.\n위와 같음.\n2025 회계연도의 경우, 해당 법률은 최저 수수료 금액을 30달러로 정하였습니다.\nPublic Law 119-21 sec. 100015(b)(1)을 참조하십시오.",
+      "2026 회계연도 및 그 이후의 매 회계연도 동안, 세관국경보호청(CBP)은 HR-1 EVUS 수수료를 물가상승률에 따라 조정하여야 합니다.\nPublic Law 119-21 sec. 100015(b)(2)를 참조하십시오. 해당 법정 산식은 가장 최근에 종료된 회계연도에 대하여 Public Law 119-21 sec. 100015(b)에 따라 요구되는 수수료 금액에 물가상승 조정액을 더한 후, 이를 0.25달러 단위로 절사하여 가장 가까운 낮은 배수로 반올림하도록 요구합니다.\n위와 같음.\n2026 회계연도의 물가상승률이 반영된 HR-1 EVUS 수수료는 30.75달러입니다. 2027 회계연도의 경우, Public Law 119-21 sec. 100015(b)(2)(B)에 따른 물가상승 조정액은 1.03달러이며, 이를 0.25달러 단위로 절사하면 1.00달러가 됩니다. 따라서 2027 회계연도의 물가상승률이 반영된 HR-1 EVUS 수수료는 31.75달러(30.75달러 + 1.00달러)입니다.",
+      "이 31.75달러의 HR-1 EVUS 수수료는 법률에 따라 적용되는 그 밖의 모든 수수료에 추가하여 요구됩니다.\nPublic Law 119-21 sec. 100015(a)를 참조하십시오.",
+      "마크웨인 멀린(Markwayne Mullin),",
+      "미합중국 국토안보부 장관",
+      "각주",
+      "1.\n Public Law 119-21 secs. 100004(d), 100008(b)(2), 100014(3), 100015(b)(2)를 참조하십시오. 이는 각각 8 U.S.C. 1804(d), 8 U.S.C. 1807(b)(2), 8 U.S.C. 1187(h)(3)(B)(iv), 8 U.S.C. 1813(b)(2)로 성문화되어 있습니다.",
+      "인용으로 돌아가기",
+      "2.\n 국토안보부 장관은 이민법 집행 및 운영에 관한 권한을 세관국경보호청(U.S. Customs and Border Protection) 청장에게 위임하였습니다.\nDHS Delegation No. 07010.3, 세관국경보호청 청장에 대한 권한 위임(Delegation of Authority to the Commissioner of U.S. Customs and Border Protection), (개정판 03.2, 변경사항 2 반영) II.B.1 (2024년 12월 11일)을 참조하십시오.",
+      "인용으로 돌아가기",
+      "3.\n 노동통계국(Bureau of Labor Statistics), 소비자물가지수, 2026년 7월(Consumer Price Index, July 2026), 2026년 8월 12일,\nhttps://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm\n(2026년 8월 13일 최종 방문).",
+      "인용으로 돌아가기",
+      "4.\n 제II.B절에서는 HR-1 I-94 수수료에 대한 물가상승 조정 산식을 설명하며, 해당 물가상승 조정 산식을 적용하고 최근접 달러 단위로 절사할 경우 2027 회계연도에는 수수료 금액이 증가하지 않는다는 점을 상세히 설명합니다.",
+      "5.\n 이 30달러 총액에는 6달러의 육로 국경 수수료가 포함되어 있습니다. 6달러의 육로 국경 수수료 납부는 8 CFR 103.7(d)(4), 235.1(h)(1), 286.9(b)(1)에 따라 요구되는 것이며, HR-1에 의하여 요구되는 수수료가 아닙니다. 따라서 물가상승 조정은 30달러 총액을 기준으로 산정되지 아니하며, HR-1에 의하여 요구되는 Form I-94 수수료 중 24달러 부분만이 물가상승률에 따라 조정됩니다.",
+      "6.\n 제II.C절에서는 Public Law 119-21 sec. 100014(3)(8 U.S.C. 1187(h)(3)(B)(iv))에 규정된 물가상승 조정 산식과 CBP의 ESTA 신청 및 여행허가 처리에 따른 2027 회계연도 ESTA 수수료 산정 결과를 설명합니다. ESTA 신청이 거부되는 경우, 2027 회계연도의 수수료는 10.62달러입니다.",
+      "인용으로 돌아가기",
+      "7.\n 비자면제프로그램에 관한 추가 정보는 8 U.S.C. 1187 및 8 CFR part 217을 참조하십시오.",
+      "인용으로 돌아가기",
+      "8.\n 2016년 10월 20일에 발행된 연방관보(Federal Register) 공고(81 FR 72600)에서, 국토안보부는 중화인민공화국을 EVUS 적용 국가로 지정하였으며, 중화인민공화국이 발급한 여권에 포함되어 있고 제한 없이 최대 유효기간으로 발급된 B-1, B-2 및 B-1/B-2 비자를 EVUS 목적상 지정 비자 범주로 지정하였습니다.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-20185 Filed 9-30-26; 8:45 am]",
+      "빌링 코드 9111-14-P"
+    ],
+    "es": [
+      "Encabezados del documento",
+      "Los encabezados del documento varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "el organismo o los organismos que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la que está directamente relacionado",
+      "el número de expediente del organismo o número de archivo interno del organismo",
+      "el RIN que identifica cada acción reglamentaria incluida en la Agenda Unificada de Acciones Reglamentarias y Desreglamentarias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Oficina de Aduanas y Protección Fronteriza de los Estados Unidos",
+      "AGENCIA:",
+      "Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP), Departamento de Seguridad Nacional de los Estados Unidos (DHS).",
+      "ACCIÓN:",
+      "Aviso de ajuste de tarifa por inflación.",
+      "RESUMEN:",
+      "El Departamento de Seguridad Nacional (DHS) anuncia los ajustes por inflación del Año Fiscal (AF) 2027 para ciertas tarifas relacionadas con inmigración requeridas por la Ley One Big Beautiful Bill (HR-1). La HR-1 requiere que el DHS ajuste anualmente por inflación ciertas tarifas relacionadas con inmigración. Este aviso establece los montos de tarifas ajustados por inflación para el AF 2027 para las siguientes tarifas de inmigración requeridas por la HR-1: la tarifa por la libertad condicional (parole) de un extranjero hacia los Estados Unidos, las tarifas del Sistema Electrónico para la Autorización de Viaje (ESTA) y la tarifa de inscripción en el Sistema Electrónico de Actualización de Visas (EVUS). De conformidad con el requisito de redondeo del ajuste por inflación establecido en la HR-1, la tarifa existente para las solicitudes del Formulario I-94, Registro de Entrada/Salida, no cambiará para el AF 2027.",
+      "FECHAS:",
+      "Tarifa de libertad condicional (parole) de la HR-1:\nLa Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP), el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) y el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) comenzarán a cobrar el monto del AF 2027 para la tarifa de libertad condicional de la HR-1 descrita en este aviso a partir del 16 de octubre de 2026.",
+      "Tarifas de I-94, ESTA y EVUS de la HR-1:\nLa CBP comenzará a cobrar los montos del AF 2027 para las tarifas de I-94, ESTA y EVUS de la HR-1 descritas en este aviso a partir del 16 de octubre de 2026.",
+      "PARA MÁS INFORMACIÓN, CONTACTAR A:",
+      "Para preguntas relacionadas con la tarifa de libertad condicional de la HR-1, por componente:",
+      "CBP:\nOficina de Operaciones de Campo, Oficina de Aduanas y Protección Fronteriza de los Estados Unidos, Departamento de Seguridad Nacional, 1300 Pennsylvania Avenue NW, Suite 1500N, Washington, DC 20229, dirección de correo electrónico:\nparolenotification@cbp.dhs.gov.",
+      "USCIS:\nOficina del Director Financiero, Servicio de Ciudadanía e Inmigración de los Estados Unidos, Departamento de Seguridad Nacional, 5900 Capital Gateway Drive, Camp Springs, MD 20746, teléfono (240) 721-3000 (no es un número gratuito).",
+      "ICE:\nOficina de Asuntos Regulatorios y Política, Servicio de Inmigración y Control de Aduanas de los Estados Unidos, Departamento de Seguridad Nacional, 500 12th Street SW, Washington, DC 20536; teléfono (202) 732-6960 (no es un número gratuito).",
+      "Para preguntas relacionadas con las tarifas de I-94, ESTA y EVUS de la HR-1:",
+      "Melanie Mataxas, Directora, Sistema Electrónico de Autorización de Viaje, Oficina de Operaciones de Campo, Oficina de Aduanas y Protección Fronteriza de los Estados Unidos, al 202-325-1372 o a\nmelanie.d.mataxas@cbp.dhs.gov.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Antecedentes y autoridad legal",
+      "El 4 de julio de 2025, el Presidente promulgó la Ley One Big Beautiful Bill,\n( página impresa 62535)\nLey Pública 119-21, 139 Stat. 72 (HR-1). La HR-1 fue un paquete legislativo integral que modificó muchas leyes y agregó nuevas leyes que abarcan muchas áreas del Gobierno de los Estados Unidos. Entre esos cambios, la ley estableció nuevas tarifas de inmigración y aumentó las tarifas existentes para ciertas acciones relacionadas con inmigración. La ley estableció tarifas mínimas para el Año Fiscal (AF) 2025 y requirió ajustes anuales de las tarifas en los años fiscales subsiguientes con base en el Índice de Precios al Consumidor para Todos los Consumidores Urbanos (CPI-U, por sus siglas en inglés).[1]",
+      "Entre otras tarifas de inmigración especificadas en la HR-1, el Secretario de Seguridad Nacional debe requerir el pago de una tarifa por parte de todo extranjero al que se le otorgue la libertad condicional (parole) para ingresar a los Estados Unidos, a menos que aplique una excepción contenida en la sección 100004(b) de la Ley Pública 119-21 (la tarifa de libertad condicional de la HR-1).\nVéase la Ley Pública 119-21, sec. 100004. Varios componentes del Departamento de Seguridad Nacional (DHS), entre ellos el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE), el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) y la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP), son responsables de determinar y cobrar la tarifa de libertad condicional de la HR-1.",
+      "La CBP también administra otras varias tarifas especificadas en la HR-1,[2]\nincluyendo el requisito de tarifas por presentar una solicitud del Formulario I-94 de la CBP, Registro de Entrada/Salida, por el uso del Sistema Electrónico para la Autorización de Viaje (ESTA) y la recepción de autorizaciones de viaje ESTA, y por la inscripción en el Sistema Electrónico de Actualización de Visas (EVUS).\nVéase la Ley Pública 119-21, secs. 100008, 100014, 100015.",
+      "La siguiente tabla enumera los avisos que implementaron las tarifas de libertad condicional migratoria (parole), del Formulario I-94, ESTA y EVUS, y que ajustaron dichas tarifas por inflación.",
+      "Tabla 1, Resumen de los avisos sobre tarifas de libertad condicional migratoria, del Formulario I-94, ESTA y EVUS",
+      "Asunto\n| Cita del Registro Federal\n| Fecha de publicación\n| Fecha en que las tarifas entraron en vigor",
+      "Implementación de las tarifas de HR-1 del Formulario I-94, ESTA y EVUS\n| 90 FR 42025\n| 28 de agosto de 2025\n| 30 de septiembre de 2025",
+      "Implementación de la tarifa de libertad condicional migratoria de HR-1\n| 90 FR 48317\n| 16 de octubre de 2025\n| 16 de octubre de 2025",
+      "Ajustes por inflación del año fiscal 2026 para las tarifas de libertad condicional migratoria, del Formulario I-94, ESTA y EVUS\n| 90 FR 52085\n| 19 de noviembre de 2025\n| 1 de enero de 2026",
+      "II. Ajustes por inflación del año fiscal 2027 a ciertas tarifas migratorias requeridas por HR-1",
+      "De conformidad con HR-1, la mayoría de las tarifas relacionadas con inmigración requeridas por HR-1 están sujetas a ajustes anuales por inflación. Este aviso establece las tarifas del año fiscal 2027 para las tarifas de HR-1 de libertad condicional, I-94, ESTA y EVUS (colectivamente, las tarifas de HR-1).",
+      "En general, HR-1 requiere la multiplicación de una tarifa de HR-1 o de una parte de una tarifa de HR-1 del año fiscal anterior por el porcentaje, si lo hubiera, en que el IPC-U del mes de julio anterior a la fecha en que el ajuste entra en vigor exceda el IPC-U de julio del año calendario anterior (el ajuste por inflación). En julio de 2025, el IPC-U fue de 323.048, y en julio de 2026, el IPC-U fue de 333.918. Por lo tanto, entre julio de 2025 y julio de 2026, el IPC-U aumentó un 3.36 por ciento.[3]\nPara determinar la tarifa total de HR-1 para cada año fiscal, el ajuste por inflación se suma a la tarifa de HR-1 o a la parte de la tarifa de HR-1 utilizada en el cálculo del ajuste por inflación, de conformidad con la fórmula prescrita por ley. Los detalles específicos de las fórmulas de ajuste por inflación establecidas por ley difieren para cada tarifa de HR-1. La siguiente tabla proporciona un resumen de las tarifas de HR-1 del año fiscal 2027 ajustadas por inflación descritas en este aviso, y las siguientes subsecciones detallan además los requisitos de ajuste por inflación de HR-1.",
+      "Tabla 2, Ciertas tarifas del año fiscal 2027, según lo requerido por HR-1",
+      "Sección de HR-1, Ley Pública 119-21 (139 Stat. 72)\n| Acción\n| Tarifa total\ndel año fiscal\n2026\n(tarifa\nexistente)\n| Ajuste por\ninflación del\naño fiscal\n2027\n| Tarifa total\ndel año fiscal\n2027\n(tarifa\nrevisada)",
+      "100004\n| Libertad condicional de ingreso a los Estados Unidos\n| $1,020\n| +$30\n| $1,050",
+      "100008\n| Solicitud del Formulario I-94 de CBP en los puertos de entrada terrestres\n| 30\n|\n4\n +$0\n|\n5\n 30",
+      "100014\n| Autorización ESTA\n| 40.27\n| +$0.35\n|\n6\n 40.62",
+      "100015\n| Inscripción en EVUS\n| 30.75\n| +$1\n| $31.75",
+      "( página impresa 62536)",
+      "A. Tarifa de libertad condicional de HR-1 del DHS",
+      "De conformidad con HR-1, el Secretario de Seguridad Nacional debe exigir el pago de una tarifa por parte de cualquier extranjero a quien se le otorgue libertad condicional de ingreso a los Estados Unidos, a menos que aplique una excepción prevista en la sección 100004(b) de la Ley Pública 119-21.\nVéase la Ley Pública 119-21, sección 100004 (8 U.S.C. 1804). Específicamente, esta tarifa se requiere cada vez que se otorga libertad condicional a un extranjero conforme a la sección 212(d)(5)(A) de la Ley de Inmigración y Nacionalidad (INA, por sus siglas en inglés), 8 U.S.C. 1182(d)(5)(A), incluyendo la libertad condicional inicial desde fuera de los Estados Unidos, la libertad condicional in situ (parole in place), la nueva libertad condicional (re-parole), o la libertad condicional desde la custodia del DHS.\nVéase 90 FR 48317, 48318.",
+      "El DHS está obligado a ajustar la tarifa de libertad condicional de HR-1 por inflación en cada año fiscal.\nVéase la Ley Pública 119-21, sección 100004(d). Este aviso anuncia la tarifa de libertad condicional de HR-1 ajustada por inflación para el año fiscal 2027 para todos los componentes del DHS, incluyendo ICE, USCIS y CBP.",
+      "De conformidad con HR-1, el DHS debe ajustar la tarifa de libertad condicional de HR-1 sumando un monto de ajuste por inflación, redondeado al múltiplo de $10 inmediatamente inferior, al monto de la tarifa correspondiente al año fiscal más recientemente concluido.\nÍd. La tarifa de libertad condicional de HR-1 ajustada por inflación para el año fiscal 2026 es de $1,020.\nVéase 90 FR 52085 (19 de noviembre de 2025). El monto del ajuste por inflación del año fiscal 2027 es de $34.32, redondeado al múltiplo de $10 inmediatamente inferior, que es $30.",
+      "En consecuencia, la tarifa de libertad condicional de HR-1 ajustada por inflación para el año fiscal 2027 será de $1,050 ($1,020 + $30). La tarifa de libertad condicional de HR-1 no se cobrará si el extranjero demuestra, a satisfacción del DHS, en forma individual y según el caso particular, que las circunstancias de su libertad condicional se ajustan a al menos 1 de las 10 excepciones establecidas en HR-1.\nVéase la Ley Pública 119-21, sección 100004(b). El evento operativo que da lugar a la obligación legal de pagar la tarifa de libertad condicional de HR-1 es el otorgamiento y la efectivización reales de la libertad condicional de ingreso a los Estados Unidos, y no la presentación de una solicitud o petición. Por lo tanto, salvo que exista una excepción legal, la tarifa de libertad condicional de HR-1 ajustada por inflación para el año fiscal 2027 se cobrará a todo extranjero al que se le otorgue libertad condicional a partir del 16 de octubre de 2026 o después, independientemente de la fecha en que se haya presentado la solicitud o petición subyacente.",
+      "La tarifa de libertad condicional de HR-1 de $1,050 se requiere además de cualquier otra tarifa autorizada por la ley.\nVéasePublic Law 119-21 sec. 100004(a).",
+      "B. Formulario I-94 de CBP, Registro de Entrada/Salida",
+      "La Oficina de Aduanas y Protección Fronteriza (CBP) emite un Formulario I-94 electrónico de Registro de Entrada/Salida a todos los extranjeros que llegan y que están legalmente obligados a presentar dicho formulario (a menos que estén exentos de otro modo).\nVéase\nlas partes 1.4 y 235.1(h) del título 8 del Código de Regulaciones Federales (8 CFR 1.4, 235.1(h)). El Formulario I-94 de CBP sirve como evidencia de las condiciones de la admisión o libertad condicional del extranjero y, por lo general, se emite en el momento en que el extranjero es admitido o se le otorga libertad condicional en un puerto de entrada de los Estados Unidos.\nVéase8 CFR 235.1(h). Los extranjeros que llegan a un puerto de entrada terrestre y que están legalmente obligados a presentar un Formulario I-94 de CBP deben solicitar dicho formulario.",
+      "De conformidad con HR-1, el Secretario de Seguridad Nacional debe exigir el pago de una tarifa para todo extranjero que presente una solicitud de Formulario I-94 de Registro de Entrada/Salida (la tarifa del I-94 de HR-1).\nVéasePublic Law 119-21 sec. 100008 (8 U.S.C. 1807). Se exige que CBP ajuste la tarifa del I-94 de HR-1 por inflación en cada año fiscal.\nVéasePublic Law 119-21 sec. 100008(b)(2). La fórmula establecida por la ley requiere sumar un monto de ajuste por inflación, redondeado hacia abajo al dólar más cercano, al monto de la tarifa requerida conforme a Public Law 119-21 sec. 100008(b) para el año fiscal concluido más recientemente.\nId.\nLa tarifa del I-94 de HR-1 para el AF 2026 es de $24.\nVéase90 FR 52085, 52086. Para el AF 2027, el ajuste por inflación requerido por Public Law 119-21 sec. 100008(b)(2)(B) es de $0.81, redondeado hacia abajo al dólar más cercano, lo cual equivale a $0. Por lo tanto, la tarifa del I-94 de HR-1 para el AF 2026 permanecerá en $24 ($24 + $0).",
+      "La tarifa del I-94 de HR-1 se requiere además de cualquier otra tarifa autorizada por la ley.\nVéasePublic Law 119-21 sec. 100008(a). Actualmente, CBP impone una tarifa de $6 para los extranjeros que están legalmente obligados a que se les emita, o que solicitan que se les emita, un Formulario I-94 de CBP y que tienen la intención de llegar a un puerto de entrada terrestre.\nVéase8 CFR 103.7(d)(4), 235.1(h)(1), y 286.9(b)(1). En consecuencia, la tarifa total para solicitar un Formulario I-94 de CBP en un puerto de entrada terrestre para el AF 2027 continuará siendo de $30, compuesta por la tarifa de $6 por frontera terrestre y la tarifa de $24 de HR-1. CBP no cobrará una tarifa a los extranjeros que lleguen por un puerto de entrada aéreo o marítimo, ya que dichos extranjeros no están obligados a presentar una solicitud de Formulario I-94 de CBP.",
+      "C. Sistema Electrónico para la Autorización de Viaje (ESTA)",
+      "ESTA es el sistema en línea mediante el cual los extranjeros que tienen la intención de ingresar a los Estados Unidos bajo el Programa de Exención de Visa (VWP) deben obtener una autorización electrónica de viaje antes de viajar a los Estados Unidos.[7]\nTodo extranjero que tenga la intención de viajar por vía aérea, marítima o terrestre a los Estados Unidos bajo el VWP debe recibir una autorización de viaje a través de ESTA antes de viajar.\nVéase\nla sección 217 de la INA (8 U.S.C. 1187) y la parte 217 del 8 CFR. De conformidad con la sección 217(h)(3)(B) de la INA (8 U.S.C. 1187(h)(3)(B)), según enmendada por la sección 100014 de HR-1, se requieren dos tarifas por cada autorización de ESTA, y se requiere una tarifa por cada uso del sistema ESTA.",
+      "La tarifa de autorización de ESTA para el AF 2026 de $40.27, según lo requerido por HR-1, es la suma de tres tarifas, que incluyen: $17 por autorización de viaje conforme a lo dispuesto en 8 U.S.C. 1187(h)(3)(B)(i)(I), $10.27 conforme a lo dispuesto en 8 U.S.C. 1187(h)(3)(B)(i)(II) para garantizar la recuperación de todos los costos de proporcionar y administrar el sistema ESTA, y $13 por autorización de viaje conforme a lo dispuesto en 8 U.S.C. 1187(h)(3)(B)(i)(III).\nVéase90 FR 52085, 52087. La tarifa de recuperación de costos de 8 U.S.C. 1187(h)(3)(B)(i)(II) se requiere para todas las solicitudes, independientemente de que sean autorizadas o denegadas; por lo tanto, en caso de que se deniegue la solicitud de ESTA, HR-1 estableció una tarifa de $10.27 para el AF 2026.\nVéase8 U.S.C. 1187(h)(3)(B).",
+      "Se exige que CBP ajuste la tarifa de recuperación de costos de 8 U.S.C. 1187(h)(3)(B)(i)(II) por inflación en cada año fiscal.\nVéase8 U.S.C. 1187(h)(3)(B)(iv). Conforme a HR-1, la tarifa ajustada de recuperación de costos de 8 U.S.C. 1187(h)(3)(B)(i)(II) se calcula sumando el monto requerido conforme a 8 U.S.C. 1187(h)(3)(B)(i)(II) para el año fiscal anterior al monto del ajuste por inflación.\nVéase8 U.S.C. 1187(h)(3)(B)(iv). Para el AF 2026, el monto requerido conforme a 8 U.S.C. 1187(h)(3)(B)(i)(II) es de $10.27. El ajuste por inflación para el AF 2027 es de $0.35. HR-1 no instruye a CBP a redondear el ajuste por inflación del ESTA de HR-1. Por lo tanto, para el AF 2027, la tarifa de recuperación de costos de 8 U.S.C. 1187(h)(3)(B)(i)(II) será de $10.62 ($10.27 + $0.35).",
+      "Como se señaló anteriormente, la tarifa de recuperación de costos conforme a 8 U.S.C. 1187(h)(3)(B)(i)(II) es una de tres tarifas que, combinadas, conforman la tarifa total de autorización ESTA para cada año fiscal. Este aviso no modifica las tarifas de $17 o $13 requeridas conforme a 8 U.S.C. 1187(h)(3)(B)(i)(I) y 8 U.S.C. 1187(h)(3)(B)(i)(III), respectivamente. Por lo tanto, según lo requerido por la HR-1, la tarifa ESTA ajustada por inflación para el año fiscal 2027 será de $40.62 ($17 + $10.62 + $13) por autorización de viaje. En caso de que se deniegue la solicitud ESTA, la tarifa del año fiscal 2027 es de $10.62 para garantizar la recuperación de los costos de proporcionar y administrar el Sistema ESTA.",
+      "D. Sistema Electrónico para la Actualización de Visas (EVUS)",
+      "EVUS es un sistema en línea actualmente utilizado por nacionales de la República Popular China (RPC) titulares de una visa B-1, B-2 o B-1/B-2 (de visitante) con validez de 10 años, para proporcionar información requerida al Departamento de Seguridad Nacional (DHS) antes de viajar a los Estados Unidos.\nVéase\n( página impresa 62537)\n8 CFR parte 215, subparte B.[8]\nLos nacionales de la RPC con una visa estadounidense aprobada de una categoría designada deben inscribirse en EVUS y proporcionar o actualizar información personal y de viaje para recibir una determinación de elegibilidad de viaje.\nVéase 8 CFR 215.24.",
+      "Conforme a la HR-1, el Secretario de Seguridad Nacional debe exigir que todo extranjero que se inscriba en EVUS pague una tarifa. Ley Pública 119-21, sec. 100015 (8 U.S.C. 1813). El extranjero debe pagar la tarifa en el momento de la inscripción.\nId.\nPara el año fiscal 2025, la ley estableció un monto mínimo de tarifa de $30.\nVéase Ley Pública 119-21, sec. 100015(b)(1).",
+      "Durante el año fiscal 2026 y cada año fiscal subsiguiente, la CBP está obligada a ajustar la tarifa EVUS de la HR-1 por inflación.\nVéase Ley Pública 119-21, sec. 100015(b)(2). La fórmula estatutaria requiere sumar un monto de ajuste por inflación, redondeado hacia abajo al múltiplo de $0.25 más cercano, al monto de la tarifa requerida conforme a la Ley Pública 119-21, sec. 100015(b) correspondiente al año fiscal concluido más recientemente.\nId.\nLa tarifa EVUS de la HR-1 ajustada por inflación para el año fiscal 2026 es de $30.75. Para el año fiscal 2027, el ajuste por inflación conforme a la Ley Pública 119-21, sec. 100015(b)(2)(B) es de $1.03, redondeado hacia abajo al múltiplo de $0.25 más cercano, lo que da $1.00. Por lo tanto, la tarifa EVUS de la HR-1 ajustada por inflación para el año fiscal 2027 es de $31.75 ($30.75 + $1.00).",
+      "Esta tarifa EVUS de la HR-1 de $31.75 se requiere además de cualquier otra tarifa aplicable por ley.\nVéase Ley Pública 119-21, sec. 100015(a).",
+      "Markwayne Mullin,",
+      "Secretario, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "Notas al pie",
+      "1.\n \nVéase Ley Pública 119-21, secs. 100004(d), 100008(b)(2), 100014(3), 100015(b)(2), codificadas como 8 U.S.C. 1804(d), 8 U.S.C. 1807(b)(2), 8 U.S.C. 1187(h)(3)(B)(iv), y 8 U.S.C. 1813(b)(2).",
+      "Volver a la cita",
+      "2.\n El Secretario de Seguridad Nacional ha delegado la autoridad para hacer cumplir y administrar las leyes de inmigración al Comisionado de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP).\nVéase\nDelegación del DHS No. 07010.3, Delegación de Autoridad al Comisionado de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos, (Rev. No. 03.2, incorporando el Cambio 2) en II.B.1 (11 de diciembre de 2024).",
+      "Volver a la cita",
+      "3.\n Oficina de Estadísticas Laborales, Índice de Precios al Consumidor, julio de 2026, 12 de agosto de 2026,\nhttps://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm\n(última visita el 13 de agosto de 2026).",
+      "Volver a la cita",
+      "4.\n La Sección II.B. explica la fórmula de ajuste por inflación para la tarifa del Formulario I-94 de la HR-1 y detalla que, al aplicar la fórmula de ajuste por inflación y redondear hacia abajo al dólar más cercano, el monto de la tarifa no aumentará en el año fiscal 2027.",
+      "5.\n Este total de $30 incluye la tarifa de frontera terrestre de $6. El pago de la tarifa de frontera terrestre de $6 se requiere conforme a 8 CFR 103.7(d)(4), 235.1(h)(1), y 286.9(b)(1), y no es una tarifa requerida por la HR-1. Por lo tanto, el ajuste por inflación no se calcula sobre la base de la tarifa total de $30, sino que únicamente se ajusta por inflación la porción de $24 de la tarifa del Formulario I-94 requerida por la HR-1.",
+      "6.\n La Sección II.C. explica la fórmula de ajuste por inflación que se encuentra en la Ley Pública 119-21, sec. 100014(3) (8 U.S.C. 1187(h)(3)(B)(iv)) y los cálculos resultantes de la tarifa ESTA para el año fiscal 2027 por el procesamiento de solicitudes ESTA y autorizaciones de viaje por parte de la CBP. En caso de que se deniegue una solicitud ESTA, la tarifa es de $10.62 para el año fiscal 2027.",
+      "Volver a la cita",
+      "7.\n Para obtener información adicional sobre el Programa de Exención de Visa, véase 8 U.S.C. 1187 y 8 CFR parte 217.",
+      "Volver a la cita",
+      "8.\n En un aviso del\nFederal Register\npublicado el 20 de octubre de 2016 (81 FR 72600), el DHS identificó a la RPC como un país EVUS y designó las visas B-1, B-2, y B-1/B-2 emitidas sin restricciones por el período máximo de validez y contenidas en un pasaporte emitido por la RPC como categorías de visa designadas para los fines de EVUS.",
+      "Volver a la cita",
+      "[Documento del Registro Federal 2026-20185 Presentado el 30-9-26; 8:45 a.m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-14-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异，但可能包含以下内容：",
+      "签发并签署该文件的一个或多个机构",
+      "该文件所修订、拟议修订或直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号／机构内部档案编号",
+      "用于识别《联邦监管与放松监管行动统一议程》中所列每项监管行动的RIN编号",
+      "详见《文件起草手册》了解更多详情。",
+      "美国国土安全部",
+      "美国海关与边境保护局",
+      "机构：",
+      "美国海关与边境保护局，美国国土安全部。",
+      "行动：",
+      "通胀调整费用通知。",
+      "摘要：",
+      "美国国土安全部（DHS）现宣布根据《一个大而美法案》（HR-1）要求对特定移民相关费用进行2027财年（FY）通胀调整。HR-1要求DHS每年根据通胀情况调整某些移民相关费用。本通知设定了HR-1所要求的以下移民费用经通胀调整后的2027财年金额：外国人获准进入美国的假释费、电子旅行授权系统（ESTA）费用，以及电子签证更新系统（EVUS）注册费。根据HR-1中关于通胀调整的四舍五入要求，现行I-94入境／离境记录表申请费在2027财年将保持不变。",
+      "日期：",
+      "HR-1假释费：\n美国海关与边境保护局（CBP）、美国公民及移民服务局（USCIS）与美国移民及海关执法局（ICE）将于2026年10月16日起开始征收本通知所述HR-1假释费的2027财年金额。",
+      "HR-1 I-94、ESTA及EVUS费用：\nCBP将于2026年10月16日起开始征收本通知所述HR-1 I-94、ESTA及EVUS费用的2027财年金额。",
+      "欲知详情请联系：",
+      "有关HR-1假释费的问题，请按以下部门分别联系：",
+      "CBP：\n美国国土安全部美国海关与边境保护局现场行动办公室，地址：1300 Pennsylvania Avenue NW, Suite 1500N, Washington, DC 20229，电子邮件地址：\nparolenotification@cbp.dhs.gov。",
+      "USCIS：\n美国国土安全部美国公民及移民服务局首席财务官办公室，地址：5900 Capital Gateway Drive, Camp Springs, MD 20746，电话：(240) 721-3000（非免费电话）。",
+      "ICE：\n美国国土安全部美国移民及海关执法局监管事务与政策办公室，地址：500 12th Street SW, Washington, DC 20536；电话：(202) 732-6960（非免费电话）。",
+      "有关HR-1 I-94、ESTA及EVUS费用的问题：",
+      "Melanie Mataxas，美国海关与边境保护局现场行动办公室电子旅行授权系统主任，电话：202-325-1372，电子邮箱：\nmelanie.d.mataxas@cbp.dhs.gov。",
+      "补充信息：",
+      "一、背景与法律授权",
+      "2025年7月4日，总统签署《一个大而美法案》成为法律，\n（印刷页第62535页）\n公法119-21号，139 Stat. 72（HR-1）。HR-1是一项综合性立法方案，修改了多项法律并新增了涉及美国政府多个领域的法律规定。其中的变化之一，是该法确立了新的移民费用，并提高了某些移民相关行动的现行费用。该法规规定了2025财年（FY）的最低费用标准，并要求在其后各财年根据全体城市消费者消费价格指数（CPI-U）对费用进行年度调整。[1]",
+      "在HR-1规定的其他移民费用中，国土安全部部长必须要求任何获准假释进入美国的外国人缴纳费用，除非适用公法119-21号第100004(b)条规定的例外情形（即HR-1假释费）。\n参见公法119-21号第100004条。美国国土安全部（DHS）的多个部门，包括美国移民及海关执法局（ICE）、美国公民及移民服务局（USCIS）以及美国海关与边境保护局（CBP），均负责评估和征收HR-1假释费。",
+      "CBP还负责管理HR-1规定的若干其他费用，[2]\n包括就提交CBP I-94入境／离境记录表申请、使用电子旅行授权系统（ESTA）并获得ESTA旅行授权，以及注册电子签证更新系统（EVUS）收取费用。\n参见公法119-21号第100008条、第100014条和第100015条。",
+      "下表列出了实施移民假释、I-94表格、ESTA和EVUS费用并对这些费用进行通货膨胀调整的各项通知。",
+      "表1 ,移民假释、I-94表格、ESTA和EVUS费用通知摘要",
+      "主题\n| 联邦公报引用\n| 发布日期\n| 费用生效日期",
+      "HR-1 I-94表格、ESTA和EVUS费用的实施\n| 90 FR 42025\n| 2025年8月28日\n| 2025年9月30日",
+      "HR-1移民假释费用的实施\n| 90 FR 48317\n| 2025年10月16日\n| 2025年10月16日",
+      "2026财年移民假释、I-94表格、ESTA和EVUS费用的通货膨胀调整\n| 90 FR 52085\n| 2025年11月19日\n| 2026年1月1日",
+      "二、HR-1要求的某些移民费用的2027财年通货膨胀调整",
+      "根据HR-1规定,HR-1要求的大多数移民相关费用须接受年度通货膨胀调整。本通知提供HR-1假释费、I-94费、ESTA费和EVUS费(统称为HR-1费用)的2027财年费率。",
+      "一般而言,HR-1要求将上一财年的HR-1费用或HR-1费用的一部分乘以某一百分比(如有),该百分比为调整生效日期之前7月份的城市消费者消费价格指数(CPI-U)超过上一日历年7月份CPI-U的幅度(即通货膨胀调整)。2025年7月,CPI-U为323.048,2026年7月,CPI-U为333.918。因此,从2025年7月至2026年7月,CPI-U上涨了3.36%。[3]\n为确定每个财年的HR-1费用总额,须按照法定规定的公式,将通货膨胀调整额加到用于计算该通货膨胀调整的HR-1费用或HR-1费用的一部分之上。每项HR-1费用的具体法定通货膨胀调整公式各不相同。下表汇总了本通知所述经通货膨胀调整的2027财年HR-1费用,以下各小节将进一步详细说明HR-1通货膨胀调整要求。",
+      "表2 ,HR-1要求的某些2027财年费用",
+      "HR-1,公法119-21号(139 Stat. 72)条款\n| 措施\n| 2026财年\n费用总额\n(现行\n费用)\n| 2027财年\n通货膨胀\n调整额\n| 2027财年\n费用总额\n(修订后\n费用)",
+      "100004\n| 进入美国的假释\n| 1,020美元\n| +30美元\n| 1,050美元",
+      "100008\n| 在陆地边境口岸申请CBP I-94表格\n| 30\n|\n4\n +0美元\n|\n5\n 30",
+      "100014\n| ESTA授权\n| 40.27\n| +0.35美元\n|\n6\n 40.62",
+      "100015\n| EVUS登记\n| 30.75\n| +1美元\n| 31.75美元",
+      "(印刷页第62536页)",
+      "A. 国土安全部HR-1假释费",
+      "根据HR-1规定,国土安全部(DHS)部长必须要求任何被假释进入美国的外国人缴纳费用,除非符合公法119-21号第100004(b)条规定的例外情形。\n参见公法119-21号第100004条(《美国法典》第8编第1804条)。具体而言,每当外国人根据《移民与国籍法》(INA)第212(d)(5)(A)条、《美国法典》第8编第1182(d)(5)(A)条获得假释时,均须缴纳此费用,包括从美国境外获得的初始假释、原址假释、再假释或从国土安全部羁押中获得的假释。\n参见90 FR 48317,48318页。",
+      "国土安全部须在每个财年对HR-1假释费进行通货膨胀调整。\n参见公法119-21号第100004(d)条。本通知公布适用于国土安全部所有下属机构(包括移民与海关执法局、美国公民及移民服务局和美国海关及边境保护局)的2027财年经通货膨胀调整的HR-1假释费。",
+      "根据HR-1规定,国土安全部须通过将通货膨胀调整金额(四舍五入至最接近的较低10美元整数倍)加到最近一个已结束财年的费用金额之上,对HR-1假释费进行调整。\n同上。2026财年经通货膨胀调整的HR-1假释费为1,020美元。\n参见90 FR 52085(2025年11月19日)。2027财年通货膨胀调整金额为34.32美元,四舍五入至最接近的较低10美元整数倍为30美元。",
+      "因此,2027财年经通货膨胀调整的HR-1假释费将为1,050美元(1,020美元加30美元)。如果外国人向国土安全部提供令其满意的证明,在个案基础上逐案确认其假释情形符合HR-1规定的10项例外情形中的至少一项,则不征收HR-1假释费。\n参见公法119-21号第100004(b)条。触发缴纳HR-1假释费法定义务的操作性事件是实际准予并实施进入美国的假释,而非申请或请求的提交。因此,除非依法获得豁免,否则自2026年10月16日起或其后获准假释的任何外国人,无论其相关申请或请求何时提交,均须缴纳经通货膨胀调整的2027财年HR-1假释费。",
+      "1050美元的HR-1假释费为法律授权收取的任何其他费用之外额外加收的费用。\n参见《公法》第119-21号第100004(a)条。",
+      "B. CBP表格I-94出入境记录",
+      "美国海关及边境保护局(CBP)向所有依法须提交该表格的入境外国人签发电子版CBP表格I-94出入境记录(另有豁免规定者除外)。\n参见《联邦法规汇编》第8编第1.4部分和第235.1(h)部分(8 CFR 1.4, 235.1(h))。CBP表格I-94用作证明外国人入境或假释条件的证据,通常在外国人于美国入境口岸被准予入境或假释时签发。\n参见8 CFR 235.1(h)。在陆路边境口岸抵达且依法须提交CBP表格I-94的外国人,必须申请该表格。",
+      "根据HR-1规定,国土安全部部长须对任何提交I-94出入境记录表格申请的外国人收取费用(即HR-1 I-94费)。\n参见《公法》第119-21号第100008条(8 U.S.C. 1807)。CBP须在每个财政年度对HR-1 I-94费进行通货膨胀调整。\n参见《公法》第119-21号第100008(b)(2)条。该法定计算公式要求将通货膨胀调整额(向下舍入至最接近的整数美元)加到《公法》第119-21号第100008(b)条规定的最近一个已结束财政年度的费用金额上。\n同上。\n2026财政年度的HR-1 I-94费为24美元。\n参见《联邦公报》第90卷第52085页、第52086页。对于2027财政年度,《公法》第119-21号第100008(b)(2)(B)条所要求的通货膨胀调整额为0.81美元,向下舍入至最接近的整数美元后为0美元。因此,2027财政年度的HR-1 I-94费将维持在24美元(24美元加0美元)。",
+      "HR-1 I-94费是在法律授权收取的任何其他费用之外额外加收的费用。\n参见《公法》第119-21号第100008(a)条。目前,CBP对依法须签发或要求签发CBP表格I-94且拟从陆路边境口岸入境的外国人收取6美元的费用。\n参见8 CFR 103.7(d)(4)、235.1(h)(1)和286.9(b)(1)。因此,2027财政年度在陆路边境口岸申请CBP表格I-94的总费用将继续为30美元,其中包括6美元的陆路边境费和24美元的HR-1费。CBP不会对从航空或海运口岸抵达的外国人收取该费用,因为此类外国人无须提交CBP表格I-94申请。",
+      "C. 电子旅行许可系统(ESTA)",
+      "ESTA是指根据免签证计划(VWP)拟入境美国的外国人必须在前往美国旅行之前通过该在线系统获得电子旅行许可。[7]\n根据免签证计划拟经由航空、海运或陆路前往美国的每一位外国人,必须在旅行前通过ESTA获得旅行许可。\n参见\n《移民和国籍法》(INA)第217条(8 U.S.C. 1187)及《联邦法规汇编》第8编第217部分。根据经HR-1第100014条修订的INA第217(h)(3)(B)条(8 U.S.C. 1187(h)(3)(B)),每份ESTA许可须收取两项费用,且每次使用ESTA系统须收取一项费用。",
+      "根据HR-1的要求,2026财政年度的ESTA许可费为40.27美元,该金额为以下三项费用之和,包括:根据8 U.S.C. 1187(h)(3)(B)(i)(I)规定的每份旅行许可17美元,根据8 U.S.C. 1187(h)(3)(B)(i)(II)规定的为确保全额收回提供和管理ESTA系统成本而收取的10.27美元,以及根据8 U.S.C. 1187(h)(3)(B)(i)(III)规定的每份旅行许可13美元。\n参见《联邦公报》第90卷第52085页、第52087页。8 U.S.C. 1187(h)(3)(B)(i)(II)规定的成本回收费适用于所有申请,无论批准与否均须收取;因此,若ESTA申请被拒绝,HR-1规定2026财政年度仍须收取10.27美元的费用。\n参见8 U.S.C. 1187(h)(3)(B)。",
+      "CBP须在每个财政年度对8 U.S.C. 1187(h)(3)(B)(i)(II)规定的成本回收费进行通货膨胀调整。\n参见8 U.S.C. 1187(h)(3)(B)(iv)。根据HR-1,经调整的8 U.S.C. 1187(h)(3)(B)(i)(II)成本回收费的计算方法为,将上一财政年度根据8 U.S.C. 1187(h)(3)(B)(i)(II)规定所需的金额与通货膨胀调整额相加。\n参见8 U.S.C. 1187(h)(3)(B)(iv)。就2026财政年度而言,根据8 U.S.C. 1187(h)(3)(B)(i)(II)规定所需的金额为10.27美元。2027财政年度的通货膨胀调整额为0.35美元。HR-1并未指示CBP对HR-1 ESTA通货膨胀调整额进行舍入处理。因此,对于2027财政年度,根据8 U.S.C. 1187(h)(3)(B)(i)(II)规定的成本回收费将为10.62美元(10.27美元加0.35美元)。",
+      "如前所述,8 U.S.C. 1187(h)(3)(B)(i)(II)规定的成本回收费是构成每个财政年度ESTA授权费总额的三项费用之一。本通知不改变8 U.S.C. 1187(h)(3)(B)(i)(I)和8 U.S.C. 1187(h)(3)(B)(i)(III)分别要求的17美元和13美元费用。因此,根据HR-1的要求,经通货膨胀调整后的2027财政年度ESTA费用为每次旅行授权40.62美元(17美元+10.62美元+13美元)。如ESTA申请被拒绝,2027财政年度的费用为10.62美元,以确保收回提供和管理ESTA系统的成本。",
+      "D. 电子签证更新系统(EVUS)",
+      "EVUS是一个在线系统,目前供持有10年期B-1、B-2或B-1/B-2(访客)签证的中华人民共和国(PRC)国民使用,以便在前往美国旅行之前向美国国土安全部(DHS)提供所需信息。\n参见\n(印刷页62537)\n8 CFR第215部分B分部。[8]\n持有已获批准的指定类别美国签证的中华人民共和国国民必须注册EVUS,并提供或更新个人及旅行信息,以获得旅行资格的认定。\n参见8 CFR 215.24。",
+      "根据HR-1,国土安全部部长必须要求任何注册EVUS的外国人缴纳费用。公法119-21第100015条(8 U.S.C. 1813)。该外国人必须在注册时缴纳该费用。\n同上。\n对于2025财政年度,该法规设定的最低费用金额为30美元。\n参见公法119-21第100015(b)(1)条。",
+      "在2026财政年度及其后每个财政年度,美国海关与边境保护局(CBP)须对HR-1规定的EVUS费用进行通货膨胀调整。\n参见公法119-21第100015(b)(2)条。该法定公式要求将通货膨胀调整金额(向下舍入至最接近的0.25美元的倍数)加到公法119-21第100015(b)条对最近一个已结束财政年度所要求的费用金额上。\n同上。\n2026财政年度经通货膨胀调整后的HR-1 EVUS费用为30.75美元。对于2027财政年度,根据公法119-21第100015(b)(2)(B)条计算的通货膨胀调整额为1.03美元,向下舍入至最接近的0.25美元倍数,即1.00美元。因此,2027财政年度经通货膨胀调整后的HR-1 EVUS费用为31.75美元(30.75美元+1.00美元)。",
+      "此31.75美元的HR-1 EVUS费用是在法律适用的任何其他费用之外额外要求缴纳的。\n参见公法119-21第100015(a)条。",
+      "马克韦恩·穆林(Markwayne Mullin)",
+      "美国国土安全部部长",
+      "脚注",
+      "1.\n \n参见公法119-21第100004(d)、100008(b)(2)、100014(3)、100015(b)(2)条,分别编入8 U.S.C. 1804(d)、8 U.S.C. 1807(b)(2)、8 U.S.C. 1187(h)(3)(B)(iv)和8 U.S.C. 1813(b)(2)。",
+      "返回引文",
+      "2.\n 国土安全部部长已将执行和管理移民法律的职权授权给美国海关与边境保护局(CBP)局长。\n参见\nDHS授权令第07010.3号,《授权美国海关与边境保护局局长的职权》(第03.2次修订,纳入第2号修改),第II.B.1节(2024年12月11日)。",
+      "返回引文",
+      "3.\n 劳工统计局,《消费者价格指数,2026年7月》,2026年8月12日,\nhttps://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm\n(最后访问日期2026年8月13日)。",
+      "返回引文",
+      "4.\n 第II.B节说明了HR-1规定的I-94费用通货膨胀调整公式,并详细说明在适用该通货膨胀调整公式并向下舍入至最接近的整数美元后,2027财政年度的费用金额将不会增加。",
+      "5.\n 该30美元总额包括6美元的陆地边境费用。缴纳该6美元陆地边境费用是根据8 CFR 103.7(d)(4)、235.1(h)(1)和286.9(b)(1)条的要求,并非HR-1所要求的费用。因此,通货膨胀调整并非基于30美元的总费用计算,而仅对HR-1所要求的I-94表格费用中的24美元部分进行通货膨胀调整。",
+      "6.\n 第II.C节说明了公法119-21第100014(3)条(8 U.S.C. 1187(h)(3)(B)(iv))所规定的通货膨胀调整公式,以及由此得出的2027财政年度CBP处理ESTA申请和旅行授权的费用计算结果。如ESTA申请被拒绝,2027财政年度的费用为10.62美元。",
+      "返回引文",
+      "7.\n 有关免签证计划的更多信息,请参见8 U.S.C. 1187和8 CFR第217部分。",
+      "返回引文",
+      "8.\n 在2016年10月20日发布的《联邦公报》通知(81 FR 72600)中,国土安全部将中华人民共和国指定为EVUS国家,并将中华人民共和国颁发护照中载明的、无限制签发且具有最长有效期的B-1、B-2和B-1/B-2签证指定为EVUS的指定签证类别。",
+      "返回引文",
+      "[联邦公报文件编号 2026-20185。于2026年9月30日上午8:45存档]",
+      "账单代码 9111-14-P"
+    ],
+    "ja": [
+      "文書見出し",
+      "文書見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発行し、署名した機関又は複数の機関",
+      "当該文書が改正し、改正を提案し、又は直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の整理番号及び機関内部の整理番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN(規制識別番号)",
+      "詳細については文書作成ハンドブックを参照のこと。",
+      "国土安全保障省",
+      "米国税関・国境警備局",
+      "機関:",
+      "米国税関・国境警備局、米国国土安全保障省。",
+      "措置:",
+      "インフレーションに伴う手数料調整に関する通知。",
+      "概要:",
+      "国土安全保障省(DHS)は、One Big Beautiful Bill Act(HR-1)により義務付けられている特定の移民関連手数料について、2027会計年度(FY)のインフレ調整を公示する。HR-1は、DHSに対し、特定の移民関連手数料について毎年インフレ調整を行うことを義務付けている。本通知は、HR-1により義務付けられている以下の移民関連手数料について、インフレ調整後のFY 2027手数料額を定める。すなわち、外国人の米国への仮上陸(パロール)に係る手数料、電子渡航認証システム(ESTA)手数料、及び電子ビザ更新システム(EVUS)登録手数料である。HR-1のインフレ調整端数処理要件に従い、I-94入出国記録申請フォームの既存手数料はFY 2027において変更されない。",
+      "日付:",
+      "HR-1パロール手数料:\n米国税関・国境警備局(CBP)、米国市民権・移民局(USCIS)及び米国移民・税関執行局(ICE)は、本通知に記載されるHR-1パロール手数料のFY 2027の金額について、2026年10月16日から賦課を開始する。",
+      "HR-1 I-94、ESTA及びEVUS手数料:\nCBPは、本通知に記載されるHR-1のI-94、ESTA及びEVUS手数料のFY 2027の金額について、2026年10月16日から賦課を開始する。",
+      "問い合わせ先:",
+      "HR-1パロール手数料に関する質問については、担当部門ごとに以下のとおりである。",
+      "CBP:\n米国税関・国境警備局 現場業務局、国土安全保障省、1300 Pennsylvania Avenue NW, Suite 1500N, Washington, DC 20229、電子メールアドレス:\nparolenotification@cbp.dhs.gov。",
+      "USCIS:\n米国市民権・移民局 最高財務責任者室、国土安全保障省、5900 Capital Gateway Drive, Camp Springs, MD 20746、電話(240) 721-3000(フリーダイヤルではない)。",
+      "ICE:\n米国移民・税関執行局 規制問題・政策局、国土安全保障省、500 12th Street SW, Washington, DC 20536、電話(202) 732-6960(フリーダイヤルではない)。",
+      "HR-1のI-94、ESTA及びEVUS手数料に関する質問については:",
+      "Melanie Mataxas、電子渡航認証システム局長、現場業務局、米国税関・国境警備局、電話202-325-1372又は電子メール\nmelanie.d.mataxas@cbp.dhs.gov。",
+      "補足情報:",
+      "I. 背景及び法的根拠",
+      "2025年7月4日、大統領はOne Big Beautiful Bill Act\n(印刷ページ62535)\n、Public Law 119-21、139 Stat. 72(HR-1)に署名し、これを法律として成立させた。HR-1は、米国政府の多くの分野に関わる多数の法律を改正し、新たな法律を追加する包括的な法案であった。これらの変更の中には、特定の移民関連行為に対する新たな手数料の創設及び既存手数料の引き上げが含まれていた。同法は2025会計年度(FY)について最低手数料額を定め、その後の各会計年度において全都市消費者物価指数(CPI-U)に基づき手数料を毎年調整することを義務付けた。[1]",
+      "HR-1に定められるその他の移民関連手数料の中で、国土安全保障長官は、Public Law 119-21第100004条(b)の例外が適用される場合を除き、米国に仮上陸(パロール)を許可された外国人に手数料の支払いを義務付けなければならない(HR-1パロール手数料)。\nPublic Law 119-21 第100004条を参照のこと。米国移民・税関執行局(ICE)、米国市民権・移民局(USCIS)及び米国税関・国境警備局(CBP)を含む国土安全保障省(DHS)の複数の部局が、HR-1パロール手数料の賦課及び徴収を担当している。",
+      "CBPはまた、HR-1に定められるその他のいくつかの手数料も管轄している。[2]\nこれには、CBP Form I-94入出国記録の申請提出に係る手数料、電子渡航認証システム(ESTA)の利用及びESTA渡航認証の取得に係る手数料、並びに電子ビザ更新システム(EVUS)への登録に係る手数料が含まれる。\nPublic Law 119-21 第100008条、第100014条、第100015条を参照のこと。",
+      "次の表は、移民仮入国(パロール)手数料、I-94様式手数料、ESTA手数料及びEVUS手数料を実施し、これらの手数料をインフレーションに応じて調整した通知を一覧にしたものである。",
+      "表1 移民仮入国(パロール)手数料、I-94様式手数料、ESTA手数料及びEVUS手数料に関する通知の概要",
+      "件名\n| 連邦官報(Federal Register)引用\n| 公表日\n| 手数料発効日",
+      "HR-1法によるI-94様式手数料、ESTA手数料及びEVUS手数料の実施\n| 90 FR 42025\n| 2025年8月28日\n| 2025年9月30日",
+      "HR-1法による移民仮入国(パロール)手数料の実施\n| 90 FR 48317\n| 2025年10月16日\n| 2025年10月16日",
+      "2026会計年度における移民仮入国(パロール)手数料、I-94様式手数料、ESTA手数料及びEVUS手数料のインフレーション調整\n| 90 FR 52085\n| 2025年11月19日\n| 2026年1月1日",
+      "II. HR-1法が要求する特定の移民関係手数料に対する2027会計年度のインフレーション調整",
+      "HR-1法に従い、同法が要求するほとんどの移民関係手数料は、毎年のインフレーション調整の対象となる。本通知は、HR-1法に基づく仮入国(パロール)手数料、I-94手数料、ESTA手数料及びEVUS手数料(以下「HR-1手数料」と総称する。)に関する2027会計年度の料率を示すものである。",
+      "一般に、HR-1法は、前会計年度のHR-1手数料又はその一部に、調整が発効する日の前月である7月の消費者物価指数(CPI-U)が、前暦年の7月のCPI-U を超過する割合(以下「インフレーション調整」という。)を乗じることを求めている。2025年7月のCPI-Uは323.048であり、2026年7月のCPI-Uは333.918であった。したがって、2025年7月から2026年7月の間に、CPI-Uは3.36パーセント上昇した。[3]\n各会計年度のHR-1手数料の総額を算定するためには、法定の算式に従い、インフレーション調整の算定に用いられたHR-1手数料又はその一部にインフレーション調整額を加算する。法定のインフレーション調整算式の詳細は、各HR-1手数料ごとに異なる。次の表は、本通知で説明するインフレーション調整後の2027会計年度のHR-1手数料の概要を示すものであり、以下の各項において、HR-1法のインフレーション調整要件についてさらに詳述する。",
+      "表2 HR-1法が要求する2027会計年度の特定の手数料",
+      "HR-1法(公法第119-21号、139 Stat. 72)条項\n| 措置\n| 2026会計年度\n手数料総額\n(現行手数料)\n| 2027会計年度\nインフレーション\n調整額\n| 2027会計年度\n手数料総額\n(改定後手数料)",
+      "100004\n| 米国への仮入国(パロール)\n| 1,020ドル\n| +30ドル\n| 1,050ドル",
+      "100008\n| 陸路国境検問所におけるCBP I-94様式の申請\n| 30ドル\n|\n4\n +0ドル\n|\n5\n 30ドル",
+      "100014\n| ESTA認証\n| 40.27ドル\n| +0.35ドル\n|\n6\n 40.62ドル",
+      "100015\n| EVUS登録\n| 30.75ドル\n| +1ドル\n| 31.75ドル",
+      "(印刷ページ62536)",
+      "A. 国土安全保障省によるHR-1法仮入国(パロール)手数料",
+      "HR-1法に従い、国土安全保障省長官は、公法第119-21号第100004条(b)項に定める例外が適用される場合を除き、米国に仮入国(パロール)を許可されたすべての外国人に対し手数料の納付を義務付けなければならない。\n公法第119-21号第100004条(8 U.S.C. 1804)参照。具体的には、この手数料は、移民及び国籍法(INA)第212条(d)(5)(A)項、8 U.S.C. 1182(d)(5)(A)に基づき外国人に仮入国が許可されるたびに、米国外からの当初の仮入国、現地仮入国(パロール・イン・プレイス)、再仮入国、又は国土安全保障省の拘禁からの仮入国を含め、徴収が必要とされる。\n90 FR 48317, 48318参照。",
+      "国土安全保障省は、各会計年度においてHR-1法仮入国(パロール)手数料をインフレーションに応じて調整することが義務付けられている。\n公法第119-21号第100004条(d)項参照。本通知は、移民・関税執行局(ICE)、米国市民権・移民局(USCIS)及び税関・国境保護局(CBP)を含む国土安全保障省のすべての構成機関に適用される2027会計年度のインフレーション調整後HR-1法仮入国(パロール)手数料を公表するものである。",
+      "HR-1法に従い、国土安全保障省は、直近に終了した会計年度の手数料額に、10ドル単位で直近の下位の倍数に切り捨てたインフレーション調整額を加算することにより、HR-1法仮入国(パロール)手数料を調整することが義務付けられている。\n同条参照。2026会計年度のインフレーション調整後HR-1法仮入国(パロール)手数料は1,020ドルである。\n90 FR 52085(2025年11月19日)参照。2027会計年度のインフレーション調整額は34.32ドルであり、これを10ドル単位で直近の下位の倍数に切り捨てると30ドルとなる。",
+      "したがって、2027会計年度のインフレーション調整後HR-1法仮入国(パロール)手数料は1,050ドル(1,020ドル+30ドル)となる。HR-1法仮入国(パロール)手数料は、外国人が、個別の事案ごとの判断に基づき、国土安全保障省が納得する形で、自己の仮入国の事情がHR-1法に定める10の例外のうち少なくとも1つに該当することを立証した場合には、賦課されない。\n公法第119-21号第100004条(b)項参照。HR-1法仮入国(パロール)手数料の納付義務を発生させる事由は、申請又は請求の提出ではなく、米国への仮入国(パロール)の現実の許可及び実施である。したがって、法令上の例外に該当しない限り、2027会計年度のインフレーション調整後HR-1法仮入国(パロール)手数料は、根拠となる申請又は請求がいつ提出されたかにかかわらず、2026年10月16日以降に仮入国(パロール)を許可されたすべての外国人から徴収される。",
+      "HR-1法に基づく1,050ドルの仮放免(パロール)手数料は、法律により認められるその他の手数料に加えて必要とされるものである。\n公法119-21号第100004条(a)を参照のこと。",
+      "B. CBP様式I-94入出国記録",
+      "CBP(アメリカ合衆国税関国境警備局)は、同様式の提出が法律上義務付けられているすべての入国外国人(別途免除される場合を除く)に対し、電子CBP様式I-94入出国記録を発行する。\n連邦規則集第8編第1.4部及び第235.1条(h)(8 CFR 1.4, 235.1(h))を参照のこと。CBP様式I-94は、当該外国人の入国又は仮放免の条件を証明するものであり、通常、外国人が米国の入国港において入国を許可され又は仮放免された時点で発行される。\n8 CFR 235.1(h)を参照のこと。陸路国境入国港に到着し、CBP様式I-94の提出が法律上義務付けられている外国人は、当該様式を申請しなければならない。",
+      "HR-1法に基づき、国土安全保障長官は、様式I-94入出国記録の申請を行うすべての外国人に対して手数料の支払いを義務付けなければならない(HR-1 I-94手数料)。\n公法119-21号第100008条(合衆国法典第8編第1807条)を参照のこと。CBPは、各会計年度においてHR-1 I-94手数料をインフレーションに応じて調整することが義務付けられている。\n公法119-21号第100008条(b)(2)を参照のこと。法定算式では、直近に終了した会計年度について公法119-21号第100008条(b)に基づき要求される手数料の額に、1ドル未満を切り捨てたインフレーション調整額を加算することとされている。\n同上。2026会計年度のHR-1 I-94手数料は24ドルである。\n連邦官報90 FR 52085, 52086を参照のこと。2027会計年度については、公法119-21号第100008条(b)(2)(B)により要求されるインフレーション調整額は0.81ドルであり、1ドル未満を切り捨てると0ドルとなる。したがって、2027会計年度のHR-1 I-94手数料は、2026会計年度と同じく24ドル(24ドル+0ドル)のままとなる。",
+      "HR-1 I-94手数料は、法律により認められるその他の手数料に加えて必要とされるものである。\n公法119-21号第100008条(a)を参照のこと。現在、CBPは、CBP様式I-94の発行を法律上義務付けられている、又はその発行を求める外国人であって陸路国境入国港への到着を予定している者に対し、6ドルの手数料を課している。\n8 CFR 103.7条(d)(4)、235.1条(h)(1)及び286.9条(b)(1)を参照のこと。したがって、2027会計年度における陸路国境入国港でのCBP様式I-94の申請に係る手数料の合計額は、陸路国境手数料6ドルとHR-1手数料24ドルを合わせて、引き続き30ドルとなる。CBPは、航空又は海路の入国港に到着する外国人については、CBP様式I-94の申請が義務付けられていないため、手数料を課さない。",
+      "C. 電子渡航認証システム(ESTA)",
+      "ESTAは、ビザ免除プログラム(VWP)の下で米国への入国を予定している外国人が、米国への渡航前にあらかじめ電子渡航認証を取得しなければならないオンラインシステムである。[7]\nVWPの下で航空機、船舶又は陸路により米国へ渡航を予定しているすべての外国人は、渡航前にESTAを通じて渡航認証を取得しなければならない。\n移民国籍法(INA)第217条(合衆国法典第8編第1187条)及び連邦規則集第8編第217部を参照のこと。HR-1法第100014条により改正された移民国籍法第217条(h)(3)(B)(合衆国法典第8編第1187条(h)(3)(B))に基づき、各ESTA認証につき2種類の手数料が必要とされ、ESTAシステムの各使用につき1種類の手数料が必要とされる。",
+      "HR-1法により義務付けられる2026会計年度のESTA認証手数料40.27ドルは、以下の3種類の手数料の合計である。すなわち、合衆国法典第8編第1187条(h)(3)(B)(i)(I)に定める渡航認証1件当たり17ドル、ESTAシステムの提供及び管理に係る全費用の回収を確保するために合衆国法典第8編第1187条(h)(3)(B)(i)(II)に定める10.27ドル、並びに合衆国法典第8編第1187条(h)(3)(B)(i)(III)に定める渡航認証1件当たり13ドルである。\n連邦官報90 FR 52085, 52087を参照のこと。合衆国法典第8編第1187条(h)(3)(B)(i)(II)の費用回収手数料は、認証の可否にかかわらずすべての申請について必要とされる。したがって、ESTA申請が却下された場合であっても、HR-1法は2026会計年度について10.27ドルの手数料を定めている。\n合衆国法典第8編第1187条(h)(3)(B)を参照のこと。",
+      "CBPは、各会計年度において合衆国法典第8編第1187条(h)(3)(B)(i)(II)の費用回収手数料をインフレーションに応じて調整することが義務付けられている。\n合衆国法典第8編第1187条(h)(3)(B)(iv)を参照のこと。HR-1法の下では、調整後の合衆国法典第8編第1187条(h)(3)(B)(i)(II)費用回収手数料は、前会計年度について合衆国法典第8編第1187条(h)(3)(B)(i)(II)に基づき要求される額にインフレーション調整額を加算することにより算出される。\n合衆国法典第8編第1187条(h)(3)(B)(iv)を参照のこと。2026会計年度について合衆国法典第8編第1187条(h)(3)(B)(i)(II)に基づき要求される額は10.27ドルである。2027会計年度のインフレーション調整額は0.35ドルである。HR-1法は、HR-1 ESTAインフレーション調整額について端数処理を指示していない。したがって、2027会計年度の合衆国法典第8編第1187条(h)(3)(B)(i)(II)費用回収手数料は10.62ドル(10.27ドル+0.35ドル)となる。",
+      "前述のとおり、8 U.S.C. 1187(h)(3)(B)(i)(II)に基づく費用回収手数料は、各会計年度のESTA認証手数料の総額を構成する3つの手数料のうちの1つである。本通知は、8 U.S.C. 1187(h)(3)(B)(i)(I)及び8 U.S.C. 1187(h)(3)(B)(i)(III)にそれぞれ基づき要求される17ドル及び13ドルの手数料を変更するものではない。したがって、HR-1により要求されるとおり、インフレ調整後の2027会計年度のESTA手数料は、渡航認証1件当たり40.62ドル(17ドル + 10.62ドル + 13ドル)となる。ESTA申請が拒否された場合、2027会計年度の手数料は、ESTAシステムの提供及び運営に係る費用の回収を確保するため、10.62ドルとなる。",
+      "D. 電子渡航認証システム(EVUS)",
+      "EVUSは、10年間有効なB-1、B-2又はB-1/B-2(訪問者)査証を保有する中華人民共和国(PRC)国民が、米国への渡航前に国土安全保障省(DHS)に必要な情報を提供するために現在使用しているオンラインシステムである。\n8 CFR第215部Bサブパートを参照。[8]\n(62537ページ印刷)\n指定された区分の米国発行査証を承認されたPRC国民は、EVUSに登録し、個人情報及び渡航情報を提供又は更新して渡航資格の判定を受けなければならない。\n8 CFR 215.24を参照。",
+      "HR-1に基づき、国土安全保障長官は、EVUSに登録する外国人に手数料の支払いを義務付けなければならない。公法119-21第100015条(8 U.S.C. 1813)。当該外国人は、登録時に手数料を支払わなければならない。\n同条。\n2025会計年度については、同法は最低手数料額を30ドルと定めている。\n公法119-21第100015条(b)(1)を参照。",
+      "2026会計年度及びそれ以降の各会計年度において、CBPはHR-1 EVUS手数料をインフレーションに応じて調整することが義務付けられている。\n公法119-21第100015条(b)(2)を参照。法定の算定式では、直近に終了した会計年度について公法119-21第100015条(b)に基づき要求される手数料額に、0.25ドル単位で切り捨てたインフレ調整額を加算することが求められる。\n同条。\n2026会計年度のインフレ調整後のHR-1 EVUS手数料は30.75ドルである。2027会計年度については、公法119-21第100015条(b)(2)(B)に基づくインフレ調整額は1.03ドルであり、これを0.25ドル単位で切り捨てると1.00ドルとなる。したがって、2027会計年度のインフレ調整後のHR-1 EVUS手数料は31.75ドル(30.75ドル + 1.00ドル)となる。",
+      "この31.75ドルのHR-1 EVUS手数料は、法律により適用される他の手数料に加えて要求されるものである。\n公法119-21第100015条(a)を参照。",
+      "マークウェイン・マリン",
+      "米国国土安全保障省長官",
+      "脚注",
+      "1.\n公法119-21第100004条(d)、第100008条(b)(2)、第100014条(3)、第100015条(b)(2)を参照のこと。これらはそれぞれ8 U.S.C. 1804(d)、8 U.S.C. 1807(b)(2)、8 U.S.C. 1187(h)(3)(B)(iv)、及び8 U.S.C. 1813(b)(2)として法典化されている。",
+      "引用元に戻る",
+      "2.\n国土安全保障長官は、移民法の執行及び運用に関する権限を米国税関国境警備局(CBP)長官に委任している。\nDHS委任番号07010.3、米国税関国境警備局長官への権限委任(改訂番号03.2、変更2を含む)II.B.1(2024年12月11日)を参照。",
+      "引用元に戻る",
+      "3.\n労働統計局、消費者物価指数、2026年7月分、2026年8月12日、\nhttps://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm\n(最終アクセス日:2026年8月13日)。",
+      "引用元に戻る",
+      "4.\nII.B項では、HR-1 I-94手数料のインフレ調整算定式について説明しており、当該インフレ調整算定式を適用し、最も近いドル単位で切り捨てた場合、2027会計年度において手数料額は増加しないことが詳述されている。",
+      "5.\nこの30ドルの総額には、6ドルの陸路国境手数料が含まれている。この6ドルの陸路国境手数料の支払いは、8 CFR 103.7(d)(4)、235.1(h)(1)及び286.9(b)(1)に基づき要求されるものであり、HR-1により要求される手数料ではない。したがって、インフレ調整は30ドルの総額に基づいて算定されるのではなく、HR-1により要求されるForm I-94手数料のうち24ドルの部分についてのみ、インフレ調整が行われる。",
+      "6.\nII.C項では、公法119-21第100014条(3)(8 U.S.C. 1187(h)(3)(B)(iv))に定めるインフレ調整算定式、及びCBPによるESTA申請及び渡航認証の処理に関する2027会計年度のESTA手数料の算定結果について説明している。ESTA申請が拒否された場合、2027会計年度の手数料は10.62ドルである。",
+      "引用元に戻る",
+      "7.\nビザ免除プログラムに関する追加情報については、8 U.S.C. 1187及び8 CFR第217部を参照のこと。",
+      "引用元に戻る",
+      "8.\n2016年10月20日発行の連邦官報通知(81 FR 72600)において、DHSはPRCをEVUS対象国として特定し、PRC発行の旅券に記載された、制限なく最長有効期間で発行されたB-1、B-2及びB-1/B-2査証を、EVUSの目的上の指定査証区分として指定した。",
+      "引用元に戻る",
+      "[連邦官報文書番号 2026-20185、2026年9月30日午前8時45分提出]",
+      "請求コード 9111-14-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

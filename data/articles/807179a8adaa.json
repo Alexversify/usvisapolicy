@@ -89,5 +89,1271 @@
     "family",
     "employment"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "If USCIS determines there are more immigrant visas available for a fiscal year than there are known applicants for such visas, we will state on this page that you may use the Dates for Filing chart. Otherwise, we will indicate on this page that you must use the Final Action Dates chart to determine when you may file your adjustment of status application. However, if a particular immigrant visa category is “current” on the Final Action Dates chart or the cutoff date on the Final Action Dates chart is later than the date on the Dates for Filing chart, applicants in that immigrant visa category may file using the Final Action Dates chart during that month."
+      },
+      {
+        "t": "p",
+        "x": "We anticipate designating one of the two charts each month and linking to the relevant chart below within one week of DOS’s publication of the Visa Bulletin."
+      },
+      {
+        "t": "h",
+        "x": "Current Month’s Adjustment of Status Filing Charts"
+      },
+      {
+        "t": "p",
+        "x": "For Family-Sponsored Filings:\nFor all family-sponsored preference categories, you must use the Dates for Filing chart in the Department of State Visa Bulletin for October 2026."
+      },
+      {
+        "t": "p",
+        "x": "For Employment-Based Preference Filings:\nFor all employment-based preference categories, you must use the Dates for Filing chart in the Department of State Visa Bulletin for October 2026."
+      },
+      {
+        "t": "li",
+        "x": "USCIS October 2026 Adjustment of Status Filing Charts"
+      },
+      {
+        "t": "h",
+        "x": "Next Month’s Adjustment of Status Filing Charts"
+      },
+      {
+        "t": "p",
+        "x": "Coming soon"
+      },
+      {
+        "t": "h",
+        "x": "Previous Adjustment of Status Filing Charts"
+      },
+      {
+        "t": "p",
+        "x": "Close All Open All"
+      },
+      {
+        "t": "h",
+        "x": "2026"
+      },
+      {
+        "t": "li",
+        "x": "January 2026"
+      },
+      {
+        "t": "li",
+        "x": "February 2026"
+      },
+      {
+        "t": "li",
+        "x": "March 2026"
+      },
+      {
+        "t": "li",
+        "x": "April 2026"
+      },
+      {
+        "t": "li",
+        "x": "May 2026"
+      },
+      {
+        "t": "li",
+        "x": "June 2026"
+      },
+      {
+        "t": "li",
+        "x": "July 2026"
+      },
+      {
+        "t": "li",
+        "x": "August 2026"
+      },
+      {
+        "t": "li",
+        "x": "September 2026"
+      },
+      {
+        "t": "h",
+        "x": "2025"
+      },
+      {
+        "t": "li",
+        "x": "January 2025"
+      },
+      {
+        "t": "li",
+        "x": "February 2025"
+      },
+      {
+        "t": "li",
+        "x": "March 2025"
+      },
+      {
+        "t": "li",
+        "x": "April 2025"
+      },
+      {
+        "t": "li",
+        "x": "May 2025"
+      },
+      {
+        "t": "li",
+        "x": "June 2025"
+      },
+      {
+        "t": "li",
+        "x": "July 2025"
+      },
+      {
+        "t": "li",
+        "x": "August 2025"
+      },
+      {
+        "t": "li",
+        "x": "September 2025"
+      },
+      {
+        "t": "li",
+        "x": "October 2025"
+      },
+      {
+        "t": "li",
+        "x": "November 2025"
+      },
+      {
+        "t": "li",
+        "x": "December 2025"
+      },
+      {
+        "t": "h",
+        "x": "2024"
+      },
+      {
+        "t": "li",
+        "x": "January 2024"
+      },
+      {
+        "t": "li",
+        "x": "February 2024"
+      },
+      {
+        "t": "li",
+        "x": "March 2024"
+      },
+      {
+        "t": "li",
+        "x": "April 2024"
+      },
+      {
+        "t": "li",
+        "x": "May 2024"
+      },
+      {
+        "t": "li",
+        "x": "June 2024"
+      },
+      {
+        "t": "li",
+        "x": "July 2024"
+      },
+      {
+        "t": "li",
+        "x": "August 2024"
+      },
+      {
+        "t": "li",
+        "x": "September 2024"
+      },
+      {
+        "t": "li",
+        "x": "October 2024"
+      },
+      {
+        "t": "li",
+        "x": "November 2024"
+      },
+      {
+        "t": "li",
+        "x": "December 2024"
+      },
+      {
+        "t": "h",
+        "x": "2023"
+      },
+      {
+        "t": "li",
+        "x": "January 2023"
+      },
+      {
+        "t": "li",
+        "x": "February 2023"
+      },
+      {
+        "t": "li",
+        "x": "March 2023"
+      },
+      {
+        "t": "li",
+        "x": "April 2023"
+      },
+      {
+        "t": "li",
+        "x": "May 2023"
+      },
+      {
+        "t": "li",
+        "x": "June 2023"
+      },
+      {
+        "t": "li",
+        "x": "July 2023"
+      },
+      {
+        "t": "li",
+        "x": "August 2023"
+      },
+      {
+        "t": "li",
+        "x": "September 2023"
+      },
+      {
+        "t": "li",
+        "x": "October 2023"
+      },
+      {
+        "t": "li",
+        "x": "November 2023"
+      },
+      {
+        "t": "li",
+        "x": "December 2023"
+      },
+      {
+        "t": "h",
+        "x": "2022"
+      },
+      {
+        "t": "li",
+        "x": "January 2022"
+      },
+      {
+        "t": "li",
+        "x": "February 2022"
+      },
+      {
+        "t": "li",
+        "x": "March 2022"
+      },
+      {
+        "t": "li",
+        "x": "April 2022"
+      },
+      {
+        "t": "li",
+        "x": "May 2022"
+      },
+      {
+        "t": "li",
+        "x": "June 2022"
+      },
+      {
+        "t": "li",
+        "x": "July 2022"
+      },
+      {
+        "t": "li",
+        "x": "August 2022"
+      },
+      {
+        "t": "li",
+        "x": "September 2022"
+      },
+      {
+        "t": "li",
+        "x": "October 2022"
+      },
+      {
+        "t": "li",
+        "x": "November 2022"
+      },
+      {
+        "t": "li",
+        "x": "December 2022"
+      },
+      {
+        "t": "h",
+        "x": "2021"
+      },
+      {
+        "t": "li",
+        "x": "January 2021"
+      },
+      {
+        "t": "li",
+        "x": "February 2021"
+      },
+      {
+        "t": "li",
+        "x": "March 2021"
+      },
+      {
+        "t": "li",
+        "x": "April 2021"
+      },
+      {
+        "t": "li",
+        "x": "May 2021"
+      },
+      {
+        "t": "li",
+        "x": "June 2021"
+      },
+      {
+        "t": "li",
+        "x": "July 2021"
+      },
+      {
+        "t": "li",
+        "x": "August 2021"
+      },
+      {
+        "t": "li",
+        "x": "September 2021"
+      },
+      {
+        "t": "li",
+        "x": "October 2021"
+      },
+      {
+        "t": "li",
+        "x": "November 2021"
+      },
+      {
+        "t": "li",
+        "x": "December 2021"
+      },
+      {
+        "t": "h",
+        "x": "2020"
+      },
+      {
+        "t": "li",
+        "x": "January 2020"
+      },
+      {
+        "t": "li",
+        "x": "February 2020"
+      },
+      {
+        "t": "li",
+        "x": "March 2020"
+      },
+      {
+        "t": "li",
+        "x": "April 2020"
+      },
+      {
+        "t": "li",
+        "x": "May 2020"
+      },
+      {
+        "t": "li",
+        "x": "June 2020"
+      },
+      {
+        "t": "li",
+        "x": "July 2020"
+      },
+      {
+        "t": "li",
+        "x": "August 2020"
+      },
+      {
+        "t": "li",
+        "x": "September 2020"
+      },
+      {
+        "t": "li",
+        "x": "October 2020"
+      },
+      {
+        "t": "li",
+        "x": "November 2020"
+      },
+      {
+        "t": "li",
+        "x": "December 2020"
+      },
+      {
+        "t": "h",
+        "x": "2019"
+      },
+      {
+        "t": "li",
+        "x": "January 2019"
+      },
+      {
+        "t": "li",
+        "x": "February 2019"
+      },
+      {
+        "t": "li",
+        "x": "March 2019"
+      },
+      {
+        "t": "li",
+        "x": "April 2019"
+      },
+      {
+        "t": "li",
+        "x": "May 2019"
+      },
+      {
+        "t": "li",
+        "x": "June 2019"
+      },
+      {
+        "t": "li",
+        "x": "July 2019"
+      },
+      {
+        "t": "li",
+        "x": "August 2019"
+      },
+      {
+        "t": "li",
+        "x": "September 2019"
+      },
+      {
+        "t": "li",
+        "x": "October 2019"
+      },
+      {
+        "t": "li",
+        "x": "November 2019"
+      },
+      {
+        "t": "li",
+        "x": "December 2019"
+      },
+      {
+        "t": "h",
+        "x": "2018"
+      },
+      {
+        "t": "li",
+        "x": "January 2018"
+      },
+      {
+        "t": "li",
+        "x": "February 2018"
+      },
+      {
+        "t": "li",
+        "x": "March 2018"
+      },
+      {
+        "t": "li",
+        "x": "April 2018"
+      },
+      {
+        "t": "li",
+        "x": "May 2018"
+      },
+      {
+        "t": "li",
+        "x": "June 2018"
+      },
+      {
+        "t": "li",
+        "x": "July 2018"
+      },
+      {
+        "t": "li",
+        "x": "August 2018"
+      },
+      {
+        "t": "li",
+        "x": "September 2018"
+      },
+      {
+        "t": "li",
+        "x": "October 2018"
+      },
+      {
+        "t": "li",
+        "x": "November 2018"
+      },
+      {
+        "t": "li",
+        "x": "December 2018"
+      },
+      {
+        "t": "h",
+        "x": "2017"
+      },
+      {
+        "t": "li",
+        "x": "January 2017"
+      },
+      {
+        "t": "li",
+        "x": "February 2017"
+      },
+      {
+        "t": "li",
+        "x": "March 2017"
+      },
+      {
+        "t": "li",
+        "x": "April 2017"
+      },
+      {
+        "t": "li",
+        "x": "May 2017"
+      },
+      {
+        "t": "li",
+        "x": "June 2017"
+      },
+      {
+        "t": "li",
+        "x": "July 2017"
+      },
+      {
+        "t": "li",
+        "x": "August 2017"
+      },
+      {
+        "t": "li",
+        "x": "September 2017"
+      },
+      {
+        "t": "li",
+        "x": "October 2017"
+      },
+      {
+        "t": "li",
+        "x": "November 2017"
+      },
+      {
+        "t": "li",
+        "x": "December 2017"
+      },
+      {
+        "t": "h",
+        "x": "2016"
+      },
+      {
+        "t": "li",
+        "x": "January 2016"
+      },
+      {
+        "t": "li",
+        "x": "February 2016"
+      },
+      {
+        "t": "li",
+        "x": "March 2016"
+      },
+      {
+        "t": "li",
+        "x": "April 2016"
+      },
+      {
+        "t": "li",
+        "x": "May 2016"
+      },
+      {
+        "t": "li",
+        "x": "June 2016"
+      },
+      {
+        "t": "li",
+        "x": "July 2016"
+      },
+      {
+        "t": "li",
+        "x": "August 2016"
+      },
+      {
+        "t": "li",
+        "x": "September 2016"
+      },
+      {
+        "t": "li",
+        "x": "October 2016"
+      },
+      {
+        "t": "li",
+        "x": "November 2016"
+      },
+      {
+        "t": "li",
+        "x": "December 2016"
+      },
+      {
+        "t": "h",
+        "x": "2015"
+      },
+      {
+        "t": "li",
+        "x": "October 2015"
+      },
+      {
+        "t": "li",
+        "x": "November 2015"
+      },
+      {
+        "t": "li",
+        "x": "December 2015"
+      },
+      {
+        "t": "p",
+        "x": "Close All Open All"
+      },
+      {
+        "t": "p",
+        "x": "10/01/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:03Z",
+    "from": "page",
+    "chars": 2953
+  },
+  "full": {
+    "ko": [
+      "USCIS(미국 시민권 및 이민서비스국)가 해당 회계연도에 알려진 신청자 수보다 더 많은 이민비자가 발급 가능하다고 판단하는 경우, 본 페이지에 신청일 기준표(Dates for Filing)를 사용할 수 있다는 내용을 명시합니다. 그렇지 않은 경우, 본 페이지에 신분조정 신청서를 제출할 수 있는 시기를 판단하기 위해 최종 조치일 기준표(Final Action Dates)를 사용해야 한다는 내용을 명시합니다. 다만, 특정 이민비자 범주가 최종 조치일 기준표에서 '현재(current)' 상태이거나 최종 조치일 기준표의 마감일이 신청일 기준표의 날짜보다 늦은 경우, 해당 이민비자 범주의 신청자는 그 달에 최종 조치일 기준표를 사용하여 신청할 수 있습니다.",
+      "저희는 매월 두 기준표 중 하나를 지정할 것으로 예상하며, 국무부(DOS)의 비자 공고(Visa Bulletin) 발행 후 1주일 이내에 아래에 해당 기준표에 대한 링크를 게시할 예정입니다.",
+      "이번 달 신분조정 신청 기준표",
+      "가족 초청 신청의 경우:\n모든 가족 초청 우선순위 범주에 대해서는 2026년 10월 국무부 비자 공고(Visa Bulletin)의 신청일 기준표(Dates for Filing)를 사용해야 합니다.",
+      "고용 기반 우선순위 신청의 경우:\n모든 고용 기반 우선순위 범주에 대해서는 2026년 10월 국무부 비자 공고(Visa Bulletin)의 신청일 기준표(Dates for Filing)를 사용해야 합니다.",
+      "USCIS 2026년 10월 신분조정 신청 기준표",
+      "다음 달 신분조정 신청 기준표",
+      "곧 제공될 예정입니다",
+      "이전 신분조정 신청 기준표",
+      "모두 닫기 모두 열기",
+      "2026년",
+      "2026년 1월",
+      "2026년 2월",
+      "2026년 3월",
+      "2026년 4월",
+      "2026년 5월",
+      "2026년 6월",
+      "2026년 7월",
+      "2026년 8월",
+      "2026년 9월",
+      "2025년",
+      "2025년 1월",
+      "2025년 2월",
+      "2025년 3월",
+      "2025년 4월",
+      "2025년 5월",
+      "2025년 6월",
+      "2025년 7월",
+      "2025년 8월",
+      "2025년 9월",
+      "2025년 10월",
+      "2025년 11월",
+      "2025년 12월",
+      "2024년",
+      "2024년 1월",
+      "2024년 2월",
+      "2024년 3월",
+      "2024년 4월",
+      "2024년 5월",
+      "2024년 6월",
+      "2024년 7월",
+      "2024년 8월",
+      "2024년 9월",
+      "2024년 10월",
+      "2024년 11월",
+      "2024년 12월",
+      "2023년",
+      "2023년 1월",
+      "2023년 2월",
+      "2023년 3월",
+      "2023년 4월",
+      "2023년 5월",
+      "2023년 6월",
+      "2023년 7월",
+      "2023년 8월",
+      "2023년 9월",
+      "2023년 10월",
+      "2023년 11월",
+      "2023년 12월",
+      "2022년",
+      "2022년 1월",
+      "2022년 2월",
+      "2022년 3월",
+      "2022년 4월",
+      "2022년 5월",
+      "2022년 6월",
+      "2022년 7월",
+      "2022년 8월",
+      "2022년 9월",
+      "2022년 10월",
+      "2022년 11월",
+      "2022년 12월",
+      "2021년",
+      "2021년 1월",
+      "2021년 2월",
+      "2021년 3월",
+      "2021년 4월",
+      "2021년 5월",
+      "2021년 6월",
+      "2021년 7월",
+      "2021년 8월",
+      "2021년 9월",
+      "2021년 10월",
+      "2021년 11월",
+      "2021년 12월",
+      "2020년",
+      "2020년 1월",
+      "2020년 2월",
+      "2020년 3월",
+      "2020년 4월",
+      "2020년 5월",
+      "2020년 6월",
+      "2020년 7월",
+      "2020년 8월",
+      "2020년 9월",
+      "2020년 10월",
+      "2020년 11월",
+      "2020년 12월",
+      "2019년",
+      "2019년 1월",
+      "2019년 2월",
+      "2019년 3월",
+      "2019년 4월",
+      "2019년 5월",
+      "2019년 6월",
+      "2019년 7월",
+      "2019년 8월",
+      "2019년 9월",
+      "2019년 10월",
+      "2019년 11월",
+      "2019년 12월",
+      "2018년",
+      "2018년 1월",
+      "2018년 2월",
+      "2018년 3월",
+      "2018년 4월",
+      "2018년 5월",
+      "2018년 6월",
+      "2018년 7월",
+      "2018년 8월",
+      "2018년 9월",
+      "2018년 10월",
+      "2018년 11월",
+      "2018년 12월",
+      "2017년",
+      "2017년 1월",
+      "2017년 2월",
+      "2017년 3월",
+      "2017년 4월",
+      "2017년 5월",
+      "2017년 6월",
+      "2017년 7월",
+      "2017년 8월",
+      "2017년 9월",
+      "2017년 10월",
+      "2017년 11월",
+      "2017년 12월",
+      "2016년",
+      "2016년 1월",
+      "2016년 2월",
+      "2016년 3월",
+      "2016년 4월",
+      "2016년 5월",
+      "2016년 6월",
+      "2016년 7월",
+      "2016년 8월",
+      "2016년 9월",
+      "2016년 10월",
+      "2016년 11월",
+      "2016년 12월",
+      "2015년",
+      "2015년 10월",
+      "2015년 11월",
+      "2015년 12월",
+      "모두 닫기 모두 열기",
+      "2026/10/01"
+    ],
+    "es": [
+      "Si USCIS determina que hay más visas de inmigrante disponibles para un año fiscal que la cantidad de solicitantes conocidos de dichas visas, indicaremos en esta página que usted puede utilizar el cuadro de Fechas para Presentación de Solicitudes. De lo contrario, indicaremos en esta página que usted debe utilizar el cuadro de Fechas de Acción Final para determinar cuándo puede presentar su solicitud de ajuste de estatus. Sin embargo, si una categoría particular de visa de inmigrante está \"vigente\" (current) en el cuadro de Fechas de Acción Final, o si la fecha límite en el cuadro de Fechas de Acción Final es posterior a la fecha en el cuadro de Fechas para Presentación de Solicitudes, los solicitantes en esa categoría de visa de inmigrante podrán presentar su solicitud utilizando el cuadro de Fechas de Acción Final durante ese mes.",
+      "Anticipamos designar uno de los dos cuadros cada mes y enlazar al cuadro correspondiente a continuación dentro de una semana a partir de la publicación del Boletín de Visas por parte del Departamento de Estado (DOS).",
+      "Cuadros de Presentación de Solicitudes de Ajuste de Estatus del Mes Actual",
+      "Para Presentaciones Basadas en Patrocinio Familiar:\nPara todas las categorías de preferencia basadas en patrocinio familiar, usted debe utilizar el cuadro de Fechas para Presentación de Solicitudes en el Boletín de Visas del Departamento de Estado para octubre de 2026.",
+      "Para Presentaciones de Preferencia Basadas en Empleo:\nPara todas las categorías de preferencia basadas en empleo, usted debe utilizar el cuadro de Fechas para Presentación de Solicitudes en el Boletín de Visas del Departamento de Estado para octubre de 2026.",
+      "Cuadros de Presentación de Solicitudes de Ajuste de Estatus de USCIS para Octubre de 2026",
+      "Cuadros de Presentación de Solicitudes de Ajuste de Estatus del Próximo Mes",
+      "Próximamente",
+      "Cuadros Anteriores de Presentación de Solicitudes de Ajuste de Estatus",
+      "Cerrar Todo Abrir Todo",
+      "2026",
+      "Enero de 2026",
+      "Febrero de 2026",
+      "Marzo de 2026",
+      "Abril de 2026",
+      "Mayo de 2026",
+      "Junio de 2026",
+      "Julio de 2026",
+      "Agosto de 2026",
+      "Septiembre de 2026",
+      "2025",
+      "Enero de 2025",
+      "Febrero de 2025",
+      "Marzo de 2025",
+      "Abril de 2025",
+      "Mayo de 2025",
+      "Junio de 2025",
+      "Julio de 2025",
+      "Agosto de 2025",
+      "Septiembre de 2025",
+      "Octubre de 2025",
+      "Noviembre de 2025",
+      "Diciembre de 2025",
+      "2024",
+      "Enero de 2024",
+      "Febrero de 2024",
+      "Marzo de 2024",
+      "Abril de 2024",
+      "Mayo de 2024",
+      "Junio de 2024",
+      "Julio de 2024",
+      "Agosto de 2024",
+      "Septiembre de 2024",
+      "Octubre de 2024",
+      "Noviembre de 2024",
+      "Diciembre de 2024",
+      "2023",
+      "Enero de 2023",
+      "Febrero de 2023",
+      "Marzo de 2023",
+      "Abril de 2023",
+      "Mayo de 2023",
+      "Junio de 2023",
+      "Julio de 2023",
+      "Agosto de 2023",
+      "Septiembre de 2023",
+      "Octubre de 2023",
+      "Noviembre de 2023",
+      "Diciembre de 2023",
+      "2022",
+      "Enero de 2022",
+      "Febrero de 2022",
+      "Marzo de 2022",
+      "Abril de 2022",
+      "Mayo de 2022",
+      "Junio de 2022",
+      "Julio de 2022",
+      "Agosto de 2022",
+      "Septiembre de 2022",
+      "Octubre de 2022",
+      "Noviembre de 2022",
+      "Diciembre de 2022",
+      "2021",
+      "Enero de 2021",
+      "Febrero de 2021",
+      "Marzo de 2021",
+      "Abril de 2021",
+      "Mayo de 2021",
+      "Junio de 2021",
+      "Julio de 2021",
+      "Agosto de 2021",
+      "Septiembre de 2021",
+      "Octubre de 2021",
+      "Noviembre de 2021",
+      "Diciembre de 2021",
+      "2020",
+      "Enero de 2020",
+      "Febrero de 2020",
+      "Marzo de 2020",
+      "Abril de 2020",
+      "Mayo de 2020",
+      "Junio de 2020",
+      "Julio de 2020",
+      "Agosto de 2020",
+      "Septiembre de 2020",
+      "Octubre de 2020",
+      "Noviembre de 2020",
+      "Diciembre de 2020",
+      "2019",
+      "Enero de 2019",
+      "Febrero de 2019",
+      "Marzo de 2019",
+      "Abril de 2019",
+      "Mayo de 2019",
+      "Junio de 2019",
+      "Julio de 2019",
+      "Agosto de 2019",
+      "Septiembre de 2019",
+      "Octubre de 2019",
+      "Noviembre de 2019",
+      "Diciembre de 2019",
+      "2018",
+      "Enero de 2018",
+      "Febrero de 2018",
+      "Marzo de 2018",
+      "Abril de 2018",
+      "Mayo de 2018",
+      "Junio de 2018",
+      "Julio de 2018",
+      "Agosto de 2018",
+      "Septiembre de 2018",
+      "Octubre de 2018",
+      "Noviembre de 2018",
+      "Diciembre de 2018",
+      "2017",
+      "Enero de 2017",
+      "Febrero de 2017",
+      "Marzo de 2017",
+      "Abril de 2017",
+      "Mayo de 2017",
+      "Junio de 2017",
+      "Julio de 2017",
+      "Agosto de 2017",
+      "Septiembre de 2017",
+      "Octubre de 2017",
+      "Noviembre de 2017",
+      "Diciembre de 2017",
+      "2016",
+      "Enero de 2016",
+      "Febrero de 2016",
+      "Marzo de 2016",
+      "Abril de 2016",
+      "Mayo de 2016",
+      "Junio de 2016",
+      "Julio de 2016",
+      "Agosto de 2016",
+      "Septiembre de 2016",
+      "Octubre de 2016",
+      "Noviembre de 2016",
+      "Diciembre de 2016",
+      "2015",
+      "Octubre de 2015",
+      "Noviembre de 2015",
+      "Diciembre de 2015",
+      "Cerrar todo Abrir todo",
+      "10/01/2026"
+    ],
+    "zh": [
+      "如果美国公民及移民服务局(USCIS)确定某财政年度可用的移民签证数量多于已知的签证申请人数量，我们将在本页说明您可以使用申请递交日期表。否则，我们将在本页说明您必须使用最终裁定日期表来确定您何时可以递交调整身份申请。但是，如果某一移民签证类别在最终裁定日期表中显示为“现行”，或者最终裁定日期表中的截止日期晚于申请递交日期表中的日期，则该移民签证类别的申请人在该月可使用最终裁定日期表递交申请。",
+      "我们预计每月将指定两个表之一，并在美国国务院(DOS)公布签证公告后一周内在下方链接至相关表格。",
+      "本月调整身份申请递交表",
+      "家庭担保类申请：\n对于所有家庭担保类优先类别，您必须使用2026年10月美国国务院签证公告中的申请递交日期表。",
+      "就业类优先类别申请：\n对于所有就业类优先类别，您必须使用2026年10月美国国务院签证公告中的申请递交日期表。",
+      "美国公民及移民服务局2026年10月调整身份申请递交表",
+      "下月调整身份申请递交表",
+      "即将推出",
+      "以往调整身份申请递交表",
+      "全部收起 全部展开",
+      "2026年",
+      "2026年1月",
+      "2026年2月",
+      "2026年3月",
+      "2026年4月",
+      "2026年5月",
+      "2026年6月",
+      "2026年7月",
+      "2026年8月",
+      "2026年9月",
+      "2025年",
+      "2025年1月",
+      "2025年2月",
+      "2025年3月",
+      "2025年4月",
+      "2025年5月",
+      "2025年6月",
+      "2025年7月",
+      "2025年8月",
+      "2025年9月",
+      "2025年10月",
+      "2025年11月",
+      "2025年12月",
+      "2024年",
+      "2024年1月",
+      "2024年2月",
+      "2024年3月",
+      "2024年4月",
+      "2024年5月",
+      "2024年6月",
+      "2024年7月",
+      "2024年8月",
+      "2024年9月",
+      "2024年10月",
+      "2024年11月",
+      "2024年12月",
+      "2023年",
+      "2023年1月",
+      "2023年2月",
+      "2023年3月",
+      "2023年4月",
+      "2023年5月",
+      "2023年6月",
+      "2023年7月",
+      "2023年8月",
+      "2023年9月",
+      "2023年10月",
+      "2023年11月",
+      "2023年12月",
+      "2022年",
+      "2022年1月",
+      "2022年2月",
+      "2022年3月",
+      "2022年4月",
+      "2022年5月",
+      "2022年6月",
+      "2022年7月",
+      "2022年8月",
+      "2022年9月",
+      "2022年10月",
+      "2022年11月",
+      "2022年12月",
+      "2021年",
+      "2021年1月",
+      "2021年2月",
+      "2021年3月",
+      "2021年4月",
+      "2021年5月",
+      "2021年6月",
+      "2021年7月",
+      "2021年8月",
+      "2021年9月",
+      "2021年10月",
+      "2021年11月",
+      "2021年12月",
+      "2020年",
+      "2020年1月",
+      "2020年2月",
+      "2020年3月",
+      "2020年4月",
+      "2020年5月",
+      "2020年6月",
+      "2020年7月",
+      "2020年8月",
+      "2020年9月",
+      "2020年10月",
+      "2020年11月",
+      "2020年12月",
+      "2019年",
+      "2019年1月",
+      "2019年2月",
+      "2019年3月",
+      "2019年4月",
+      "2019年5月",
+      "2019年6月",
+      "2019年7月",
+      "2019年8月",
+      "2019年9月",
+      "2019年10月",
+      "2019年11月",
+      "2019年12月",
+      "2018年",
+      "2018年1月",
+      "2018年2月",
+      "2018年3月",
+      "2018年4月",
+      "2018年5月",
+      "2018年6月",
+      "2018年7月",
+      "2018年8月",
+      "2018年9月",
+      "2018年10月",
+      "2018年11月",
+      "2018年12月",
+      "2017年",
+      "2017年1月",
+      "2017年2月",
+      "2017年3月",
+      "2017年4月",
+      "2017年5月",
+      "2017年6月",
+      "2017年7月",
+      "2017年8月",
+      "2017年9月",
+      "2017年10月",
+      "2017年11月",
+      "2017年12月",
+      "2016年",
+      "2016年1月",
+      "2016年2月",
+      "2016年3月",
+      "2016年4月",
+      "2016年5月",
+      "2016年6月",
+      "2016年7月",
+      "2016年8月",
+      "2016年9月",
+      "2016年10月",
+      "2016年11月",
+      "2016年12月",
+      "2015年",
+      "2015年10月",
+      "2015年11月",
+      "2015年12月",
+      "全部关闭 全部展开",
+      "2026年10月1日"
+    ],
+    "ja": [
+      "USCIS(米国市民権移民局)が、ある会計年度において利用可能な移民ビザの数が、当該ビザの申請者として判明している数を上回ると判断した場合、当局は本ページにおいて申請日チャート(Dates for Filing chart)を使用できる旨を明示します。それ以外の場合には、当局は本ページにおいて、調整上の地位申請をいつ提出できるかを判断するために最終行動日チャート(Final Action Dates chart)を使用しなければならない旨を示します。ただし、特定の移民ビザカテゴリーが最終行動日チャートにおいて「current(現在受付中)」である場合、または最終行動日チャートの締切日が申請日チャートの日付よりも遅い場合には、当該移民ビザカテゴリーの申請者は、その月において最終行動日チャートを使用して申請することができます。",
+      "当局は、毎月いずれか一方のチャートを指定し、国務省(DOS)によるビザ速報の公表から1週間以内に、以下の該当するチャートへのリンクを掲載する予定です。",
+      "今月の調整上の地位申請チャート",
+      "家族ベースの申請について:\nすべての家族優先カテゴリーについて、2026年10月分の国務省ビザ速報における申請日チャートを使用しなければなりません。",
+      "雇用ベースの優先カテゴリーの申請について:\nすべての雇用ベースの優先カテゴリーについて、2026年10月分の国務省ビザ速報における申請日チャートを使用しなければなりません。",
+      "USCIS 2026年10月分調整上の地位申請チャート",
+      "来月の調整上の地位申請チャート",
+      "近日公開予定",
+      "過去の調整上の地位申請チャート",
+      "すべて閉じる すべて開く",
+      "2026年",
+      "2026年1月",
+      "2026年2月",
+      "2026年3月",
+      "2026年4月",
+      "2026年5月",
+      "2026年6月",
+      "2026年7月",
+      "2026年8月",
+      "2026年9月",
+      "2025年",
+      "2025年1月",
+      "2025年2月",
+      "2025年3月",
+      "2025年4月",
+      "2025年5月",
+      "2025年6月",
+      "2025年7月",
+      "2025年8月",
+      "2025年9月",
+      "2025年10月",
+      "2025年11月",
+      "2025年12月",
+      "2024年",
+      "2024年1月",
+      "2024年2月",
+      "2024年3月",
+      "2024年4月",
+      "2024年5月",
+      "2024年6月",
+      "2024年7月",
+      "2024年8月",
+      "2024年9月",
+      "2024年10月",
+      "2024年11月",
+      "2024年12月",
+      "2023年",
+      "2023年1月",
+      "2023年2月",
+      "2023年3月",
+      "2023年4月",
+      "2023年5月",
+      "2023年6月",
+      "2023年7月",
+      "2023年8月",
+      "2023年9月",
+      "2023年10月",
+      "2023年11月",
+      "2023年12月",
+      "2022年",
+      "2022年1月",
+      "2022年2月",
+      "2022年3月",
+      "2022年4月",
+      "2022年5月",
+      "2022年6月",
+      "2022年7月",
+      "2022年8月",
+      "2022年9月",
+      "2022年10月",
+      "2022年11月",
+      "2022年12月",
+      "2021年",
+      "2021年1月",
+      "2021年2月",
+      "2021年3月",
+      "2021年4月",
+      "2021年5月",
+      "2021年6月",
+      "2021年7月",
+      "2021年8月",
+      "2021年9月",
+      "2021年10月",
+      "2021年11月",
+      "2021年12月",
+      "2020年",
+      "2020年1月",
+      "2020年2月",
+      "2020年3月",
+      "2020年4月",
+      "2020年5月",
+      "2020年6月",
+      "2020年7月",
+      "2020年8月",
+      "2020年9月",
+      "2020年10月",
+      "2020年11月",
+      "2020年12月",
+      "2019年",
+      "2019年1月",
+      "2019年2月",
+      "2019年3月",
+      "2019年4月",
+      "2019年5月",
+      "2019年6月",
+      "2019年7月",
+      "2019年8月",
+      "2019年9月",
+      "2019年10月",
+      "2019年11月",
+      "2019年12月",
+      "2018年",
+      "2018年1月",
+      "2018年2月",
+      "2018年3月",
+      "2018年4月",
+      "2018年5月",
+      "2018年6月",
+      "2018年7月",
+      "2018年8月",
+      "2018年9月",
+      "2018年10月",
+      "2018年11月",
+      "2018年12月",
+      "2017年",
+      "2017年1月",
+      "2017年2月",
+      "2017年3月",
+      "2017年4月",
+      "2017年5月",
+      "2017年6月",
+      "2017年7月",
+      "2017年8月",
+      "2017年9月",
+      "2017年10月",
+      "2017年11月",
+      "2017年12月",
+      "2016年",
+      "2016年1月",
+      "2016年2月",
+      "2016年3月",
+      "2016年4月",
+      "2016年5月",
+      "2016年6月",
+      "2016年7月",
+      "2016年8月",
+      "2016年9月",
+      "2016年10月",
+      "2016年11月",
+      "2016年12月",
+      "2015年",
+      "2015年10月",
+      "2015年11月",
+      "2015年12月",
+      "すべて閉じる すべて開く",
+      "2026/10/01"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

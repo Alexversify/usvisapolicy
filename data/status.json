@@ -73,12 +73,13 @@
     }
   },
   "translate": {
-    "done": 0,
-    "failed": 0,
+    "done": 14,
+    "failed": 1,
     "key": true,
     "fail_streak": 0
   },
   "retries": {
-    "68dbb2e68b49": 1
+    "68dbb2e68b49": 1,
+    "7cc2aa296f66": 1
   }
 }

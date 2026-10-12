@@ -93,5 +93,519 @@
     "fees",
     "enforcement"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain\nthe following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part\nthe document amends, proposes to amend, or is directly\nrelated to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in\nthe Unified Agenda of Federal Regulatory and Deregulatory\nActions"
+      },
+      {
+        "t": "p",
+        "x": "See the\nDocument Drafting Handbook\nfor more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "U.S. Immigration and Customs Enforcement"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Immigration and Customs Enforcement, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice of inflationary fee adjustment."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security (DHS) is announcing Fiscal Year (FY) 2027 inflationary adjustments for two of the immigration enforcement-related fees established by the One Big Beautiful Bill Act (HR-1). HR-1 requires that DHS annually adjust certain immigration enforcement-related fees for inflation. The adjusted fee amounts for FY 2027 for aliens ordered removed in absentia who are subsequently arrested and inadmissible aliens apprehended between ports of entry are $5,300. On October 16, 2026, DHS will begin assessing and collecting these new amounts."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The fees announced in this notice are effective on October 16, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Office of Principal Legal Advisor, Regulatory Affairs Unit, U.S. Immigration and Customs Enforcement, Department of Homeland Security, 500 12th Street SW, Washington, DC 20536-5901. Telephone 202-732-6960 (not a toll-free number)."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Background and Authority"
+      },
+      {
+        "t": "p",
+        "x": "On July 4, 2025, the President signed into law the One Big Beautiful Bill Act, Public Law 119-21, 139 Stat. 72 (HR-1), which, among other things, established a number of immigration-related fees.[1]\nRelevant to this notice, HR-1 established two immigration enforcement fees applicable to the following: (1) aliens who are ordered removed in absentia pursuant to section 240(b)(5) of the Immigration and Nationality Act (INA), 8 U.S.C. 1229a(b)(5), and are subsequently arrested by U.S. Immigration and Customs Enforcement (ICE); and (2) inadmissible aliens at the time such aliens are apprehended between ports of entry.[2]\nOn September 8, 2025, DHS provided notice to the public announcing that DHS would begin assessing and collecting these fees in the amount of $5,000 for FY 2025 for both fees, as authorized by statute.[3]\nAs of September 8, 2025, DHS has been individually notifying aliens to whom these fees apply and providing instructions on how to make payments for these fees.[4]"
+      },
+      {
+        "t": "p",
+        "x": "On November 20, 2025, DHS published a notice for FY 2026 to adjust the fees for inflation to $5,130, which became effective on December 1, 2025.[5]\nUnder HR-1, these fees are subject to annual adjustments for inflation each fiscal year.[6]\nSpecifically, both fees provide that the annual adjustment for inflation will be calculated as follows:"
+      },
+      {
+        "t": "p",
+        "x": "[T]he sum of—"
+      },
+      {
+        "t": "p",
+        "x": "(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and"
+      },
+      {
+        "t": "p",
+        "x": "(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July\n( printed page 62543)\npreceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10."
+      },
+      {
+        "t": "p",
+        "x": "DHS has now calculated the adjustments for inflation for FY 2027 and sets forth the applicable new amounts below in this notice."
+      },
+      {
+        "t": "h",
+        "x": "II. FY 2027 Fee Amounts Adjusted for Inflation"
+      },
+      {
+        "t": "h",
+        "x": "A. Adjustments for Immigration Enforcement-Related Fees Under HR-1"
+      },
+      {
+        "t": "p",
+        "x": "Consistent with the current process, DHS will individually notify aliens to whom these adjusted fees apply and provide instructions on how to pay the fees levied as of October 16, 2026. In accordance with HR-1 secs. 100016(b)(2) and 100017(b)(2), the annual adjustment for FY 2027 is calculated as the sum of the amount of the fee required under this subsection for the most recently concluded fiscal year ($5,130); and the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage by which the Consumer Price Index of All Urban Consumers (CPI-U) (333.918) for the month of July 2026 exceeds the CPI-U for July 2025 (323.048), rounded to the next lowest multiple of $10. The multiplier of 1.03365 (rounded to the fifth decimal place) applied to the previous fee of $5,130 results in a new amount of $5302.62 (rounded to the nearest cent) and then rounded down to the nearest $10 increment is $5,300. The new FY 2027 fees are as follows:"
+      },
+      {
+        "t": "tr",
+        "x": "Fee description\n| Citation\n| FY 2026 fee amount\n| Multiplier 7\n| FY 2027 fee amount as\nadjusted by\nthis notice"
+      },
+      {
+        "t": "tr",
+        "x": "Aliens subject to removal orders in absentia and subsequently arrested by ICE\n| HR-1, Public Law 119-21, 139 Stat. 72, sec. 100016. (codified at 8 U.S.C. 1814)\n| $5,130\n| 1.03365\n| $5,300"
+      },
+      {
+        "t": "tr",
+        "x": "Inadmissible aliens arrested between ports of entry\n| HR-1, Public Law 119-21, 139 Stat. 72, sec. 100017. (codified at 8 U.S.C. 1815)\n| 5,130\n| 1.03365\n| 5,300"
+      },
+      {
+        "t": "h",
+        "x": "B. Section 100016. Aliens Ordered Removed in Absentia Pursuant to INA Section 240(b)(5) and Subsequently Arrested by ICE"
+      },
+      {
+        "t": "p",
+        "x": "Based on the calculation for inflation adjustments for FY 2027, as set forth under HR-1 section 100016(b)(2), DHS will collect and assess a fee in the amount of $5,300 for aliens subject to the fee under HR-1, section 100016,\nFee for aliens ordered removed in absentia,\nbeginning October 16, 2026. This fee is applicable to aliens who have been ordered removed in absentia by an immigration judge pursuant to INA section 240(b)(5) for failure to attend removal proceedings and are subsequently arrested by ICE.[8]\nHR-1 provides an exception to this fee for aliens whose removal order in absentia is rescinded pursuant to INA section 240(b)(5)(C), 8 U.S.C. 1229a(b)(5)(C).\n9\nSeePublic Law 119-21 sec. 100016(c). HR-1 also provides that no waivers are available for this enforcement fee.\nSee Public Law 119-21\nsec. 100016(e)."
+      },
+      {
+        "t": "h",
+        "x": "C. Section 100017. Inadmissible Aliens Apprehended Between Ports of Entry"
+      },
+      {
+        "t": "p",
+        "x": "Based on the calculation for inflation adjustments for FY 2027, as set forth under HR-1 section 100017(b)(2), DHS, including ICE and U.S. Customs and Border Protection, will collect and assess a fee in the amount of $5,300 for aliens subject to the fee under HR-1, section 100017,\nInadmissible alien apprehension fee,\nbeginning October 16, 2026. This fee is applicable to aliens who are inadmissible under INA section 212, 8 U.S.C. 1182, and are apprehended by DHS between ports of entry. Aliens who are apprehended by DHS between ports of entry are often subject to the ground of inadmissibility under INA section 212(a)(6), 8 U.S.C. 1182(a)(6), which provides that any alien “present in the United States without being admitted or paroled, or who arrives in the United States at any time or place other than as designated by the Attorney General, is inadmissible.” [10]\nHowever, an alien could also be inadmissible based on additional grounds of inadmissibility listed under INA section 212, 8 U.S.C. 1182."
+      },
+      {
+        "t": "p",
+        "x": "Markwayne Mullin,"
+      },
+      {
+        "t": "p",
+        "x": "Secretary, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1.\n \nSee\nHR-1, Title X, Subtitle A, Part I, sections 100001 through 100018."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2.\n \nSee Public Law 119-21, 139 Stat. 72, secs. 100016, 100017 (codified at 8 U.S.C. 1814, 1815)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3.\n Certain DHS Immigration Enforcement-Related Fees Required by HR-1 Reconciliation Bill, 90 FR 43223 (Sept. 8, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4.\n \nId."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "5.\n Certain Immigration Enforcement-Related Fees Required by HR-1 Reconciliation Bill: Fiscal Year 2026 Adjustments for Inflation, 90 FR 52425 (Nov. 20, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "6.\n \nSee Public Law 119-21, 139 Stat. 72, secs. 100016(b)(2) and 100017(b)(2), 8 U.S.C. 1814(b)(2), 1815(b)(2)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "7.\n \nSee\nBureau of Labor Statistics, Consumer Price Index for All Urban Consumers,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​years\n(last visited Aug. 18, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "8.\n An alien is “ordered removed in absentia” by an immigration judge under section 240(b)(5) of the INA, 8 U.S.C. 1229a(b)(5), when the alien fails to attend removal proceedings after written notice “required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record” and DHS has established “by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable.”"
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "9.\n INA section 240(b)(5)(C), 8 U.S.C. 1229a(b)(5)(C) (“Such an order may be rescinded only—(i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1)), or (ii) upon a motion to reopen filed at any time if the alien demonstrates that the alien did not receive notice in accordance with paragraph (1) or (2) of section 1229(a) of this title or the alien demonstrates that the alien was in Federal or State custody and the failure to appear was through no fault of the alien”)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "10.\n INA section 212(a)(6), 8 U.S.C. 1182(a)(6)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-20186 Filed 9-30-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-CB-P"
+      }
+    ],
+    "fetched": "2026-10-12T17:03Z",
+    "from": "federalregister.gov",
+    "chars": 9457
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "해당 문서가 개정하거나, 개정을 제안하거나, 직접 관련되는 CFR 표제 번호 및 각 부(Part)의 번호",
+      "기관 문서 번호(docket number)/기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하시기 바랍니다.",
+      "국토안보부(Department of Homeland Security, DHS)",
+      "미국 이민세관집행국(U.S. Immigration and Customs Enforcement, ICE)",
+      "기관:",
+      "미국 이민세관집행국(ICE), 미국 국토안보부(DHS).",
+      "조치:",
+      "물가연동 수수료 조정 고시.",
+      "요약:",
+      "국토안보부(DHS)는 하나의 크고 아름다운 법안(One Big Beautiful Bill Act, HR-1)에 의해 제정된 이민 집행 관련 수수료 중 두 가지 항목에 대하여 2027 회계연도(FY) 물가연동 조정을 발표합니다. HR-1은 DHS로 하여금 특정 이민 집행 관련 수수료를 매년 물가에 따라 조정하도록 요구하고 있습니다. 궐석으로 추방명령을 받은 후 체포된 외국인 및 입국항 사이에서 체포된 입국불허 대상 외국인에 대한 2027 회계연도 조정 수수료 금액은 5,300달러입니다. DHS는 2026년 10월 16일부터 이 새로운 금액을 부과 및 징수하기 시작할 것입니다.",
+      "일자:",
+      "본 고시에서 발표하는 수수료는 2026년 10월 16일부터 발효됩니다.",
+      "추가 정보 문의처:",
+      "국토안보부 미국 이민세관집행국 수석법률고문실 규제업무과, 500 12th Street SW, Washington, DC 20536-5901. 전화 202-732-6960(수신자 부담 전화번호 아님).",
+      "보충 정보:",
+      "I. 배경 및 권한",
+      "2025년 7월 4일, 대통령은 그 밖의 사항과 함께 다수의 이민 관련 수수료를 제정한 하나의 크고 아름다운 법안(공법 제119-21호, 139 Stat. 72, HR-1)에 서명하여 이를 법률로 제정하였습니다.[1]\n본 고시와 관련하여, HR-1은 다음에 적용되는 두 가지 이민 집행 수수료를 제정하였습니다. (1) 이민국적법(Immigration and Nationality Act, INA) 제240조(b)(5), 8 U.S.C. 1229a(b)(5)에 따라 궐석으로 추방명령을 받은 후 미국 이민세관집행국(ICE)에 의해 체포된 외국인, 그리고 (2) 입국항 사이에서 체포된 시점의 입국불허 대상 외국인.[2]\n2025년 9월 8일, DHS는 법률에 의해 승인된 바에 따라 2025 회계연도에 두 수수료 모두에 대해 5,000달러의 금액으로 부과 및 징수를 시작할 것임을 발표하는 고시를 공중에 제공하였습니다.[3]\n2025년 9월 8일 현재, DHS는 이러한 수수료가 적용되는 외국인 각 개인에게 이를 개별적으로 통지하고 해당 수수료의 납부 방법에 관한 안내를 제공하여 왔습니다.[4]",
+      "2025년 11월 20일, DHS는 2026 회계연도에 대하여 해당 수수료를 물가에 따라 5,130달러로 조정하는 고시를 공표하였으며, 이는 2025년 12월 1일부터 발효되었습니다.[5]\nHR-1에 따라, 이러한 수수료는 매 회계연도마다 물가에 따른 연례 조정의 대상이 됩니다.[6]\n구체적으로, 두 수수료 모두 물가에 따른 연례 조정은 다음과 같이 산정하도록 규정하고 있습니다.",
+      "[다음의] 합계,",
+      "(A) 가장 최근에 종료된 회계연도에 대해 본 항에 따라 요구되는 수수료 금액, 그리고",
+      "(B) 해당 조정이 발효되는 날짜 직전 7월의 모든 도시 소비자를 위한 소비자물가지수가\n( 인쇄된 페이지 62543)\n직전 역년 동일 월의 모든 도시 소비자를 위한 소비자물가지수를 초과하는 비율(있는 경우)을 (A)항에서 언급된 금액에 곱하여 산출되는 금액을 합산한 값으로, 10달러 단위로 내림하여 산정합니다.",
+      "DHS는 이제 2027 회계연도에 대한 물가연동 조정을 산정하였으며, 본 고시 아래에 해당 신규 금액을 명시합니다.",
+      "II. 물가에 따라 조정된 2027 회계연도 수수료 금액",
+      "A. HR-1에 따른 이민 집행 관련 수수료의 조정",
+      "현행 절차에 따라, 국토안보부(DHS)는 이러한 조정된 수수료가 적용되는 외국인에게 개별적으로 통지하고, 2026년 10월 16일부로 부과되는 수수료를 납부하는 방법에 대한 안내를 제공할 것입니다. HR-1 제100016조(b)(2)항 및 제100017조(b)(2)항에 따라, 2027 회계연도의 연례 조정액은 다음의 합으로 산정됩니다. 가장 최근에 종료된 회계연도에 대하여 본 항에서 요구되는 수수료 금액(5,130달러), 그리고 (A)호에서 언급된 금액에 2026년 7월의 모든 도시 소비자 대상 소비자물가지수(CPI-U)(333.918)가 2025년 7월의 CPI-U(323.048)를 초과하는 백분율을 곱한 값을 10달러 단위로 절사한 금액의 합입니다. 이전 수수료 5,130달러에 1.03365(소수점 다섯째 자리에서 반올림)의 승수를 적용하면 새로운 금액은 5,302.62달러(센트 단위에서 반올림)가 되며, 이를 10달러 단위로 절사하면 5,300달러가 됩니다. 2027 회계연도의 새로운 수수료는 다음과 같습니다.",
+      "수수료 설명\n| 인용 조항\n| 2026 회계연도 수수료 금액\n| 승수 7\n| 본 고시에 의해 조정된 2027 회계연도 수수료 금액",
+      "궐석 강제퇴거명령 대상 외국인으로서 이후 미국 이민세관단속국(ICE)에 체포된 자\n| HR-1, 공법 제119-21호, 139 Stat. 72, 제100016조. (미국 법전 제8편 제1814조에 편입)\n| 5,130달러\n| 1.03365\n| 5,300달러",
+      "입국항 사이에서 체포된 입국 부적격 외국인\n| HR-1, 공법 제119-21호, 139 Stat. 72, 제100017조. (미국 법전 제8편 제1815조에 편입)\n| 5,130\n| 1.03365\n| 5,300",
+      "B. 제100016조. 이민국적법(INA) 제240조(b)(5)항에 따라 궐석으로 강제퇴거명령을 받고 이후 미국 이민세관단속국(ICE)에 체포된 외국인",
+      "HR-1 제100016조(b)(2)항에 규정된 2027 회계연도 물가 조정 계산에 근거하여, 국토안보부(DHS)는 2026년 10월 16일부터 HR-1 제100016조에 따른 수수료,\n즉 궐석 강제퇴거명령 외국인에 대한 수수료\n의 대상이 되는 외국인에게 5,300달러의 수수료를 부과하고 징수할 것입니다. 이 수수료는 강제퇴거 절차에 출석하지 않아 이민법 판사가 이민국적법 제240조(b)(5)항에 따라 궐석으로 강제퇴거를 명령하였고 이후 ICE에 체포된 외국인에게 적용됩니다.[8]\nHR-1은 이민국적법 제240조(b)(5)항(C)호, 미국 법전 제8편 제1229a조(b)(5)항(C)호에 따라 궐석 강제퇴거명령이 취소된 외국인에 대하여 이 수수료의 예외를 규정하고 있습니다.\n9\n공법 제119-21호 제100016조(c)항을 참조하십시오. HR-1은 또한 이 집행 수수료에 대하여 어떠한 면제도 허용되지 않는다고 규정하고 있습니다.\n공법 제119-21호\n제100016조(e)항을 참조하십시오.",
+      "C. 제100017조. 입국항 사이에서 체포된 입국 부적격 외국인",
+      "HR-1 제100017조(b)(2)항에 규정된 2027 회계연도 물가 조정 계산에 근거하여, ICE 및 미국 관세국경보호청(CBP)을 포함한 국토안보부(DHS)는 2026년 10월 16일부터 HR-1 제100017조에 따른 수수료,\n즉 입국 부적격 외국인 체포 수수료\n의 대상이 되는 외국인에게 5,300달러의 수수료를 부과하고 징수할 것입니다. 이 수수료는 이민국적법 제212조, 미국 법전 제8편 제1182조에 따라 입국이 부적격하며 입국항 사이에서 국토안보부(DHS)에 체포된 외국인에게 적용됩니다. 입국항 사이에서 국토안보부(DHS)에 체포된 외국인은 흔히 이민국적법 제212조(a)(6)항, 미국 법전 제8편 제1182조(a)(6)항에 따른 입국 부적격 사유의 대상이 되는데, 이 조항은 \"허가 또는 가석방 없이 미국에 체류하거나, 법무장관이 지정한 장소나 시간 이외의 시간 또는 장소에서 미국에 도착하는\" 외국인은 모두 입국 부적격이라고 규정하고 있습니다.[10]\n다만, 외국인은 이민국적법 제212조, 미국 법전 제8편 제1182조에 열거된 그 밖의 입국 부적격 사유에 근거하여도 입국 부적격이 될 수 있습니다.",
+      "마크웨인 멀린(Markwayne Mullin),",
+      "미국 국토안보부 장관.",
+      "각주",
+      "1.\n \nHR-1, 제X편, 하위편 A, 제I부, 제100001조 내지 제100018조를 참조하십시오.",
+      "인용으로 돌아가기",
+      "2.\n \n공법 제119-21호, 139 Stat. 72, 제100016조, 제100017조(미국 법전 제8편 제1814조, 제1815조에 편입)를 참조하십시오.",
+      "인용으로 돌아가기",
+      "3.\n HR-1 예산조정법에 의해 요구되는 특정 국토안보부 이민 집행 관련 수수료, 90 FR 43223(2025년 9월 8일).",
+      "인용으로 돌아가기",
+      "4.\n \n위와 같음.",
+      "인용으로 돌아가기",
+      "5.\n HR-1 예산조정법에 의해 요구되는 특정 이민 집행 관련 수수료: 2026 회계연도 물가 조정, 90 FR 52425(2025년 11월 20일).",
+      "인용으로 돌아가기",
+      "6.\n \n공법 제119-21호, 139 Stat. 72, 제100016조(b)(2)항 및 제100017조(b)(2)항, 미국 법전 제8편 제1814조(b)(2)항, 제1815조(b)(2)항을 참조하십시오.",
+      "인용으로 돌아가기",
+      "7.\n \n미국 노동통계국, 모든 도시 소비자 대상 소비자물가지수를 참조하십시오,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​years\n(2026년 8월 18일 최종 방문).",
+      "인용으로 돌아가기",
+      "8.\n 이민판사는 외국인이 서면통지, 즉 8 U.S.C. 1229(a) 제1항 또는 제2항에 따라 요구되는 통지가 해당 외국인 또는 그 기록상 변호인에게 제공되었음에도 외국인이 추방절차에 출석하지 아니하고, 국토안보부(DHS)가 해당 서면통지가 그와 같이 제공되었다는 사실 및 해당 외국인이 추방대상자라는 사실을 명확하고 분명하며 확실한 증거로 입증한 경우, 이민국적법(INA) 제240조(b)(5)항, 8 U.S.C. 1229a(b)(5)에 따라 해당 외국인에 대하여 \"궐석 추방명령\"을 내립니다.",
+      "앞의 인용으로 돌아가기",
+      "9.\n 이민국적법(INA) 제240조(b)(5)(C)항, 8 U.S.C. 1229a(b)(5)(C) (\"그러한 명령은 다음의 경우에 한하여 취소될 수 있다. (i) 추방명령일로부터 180일 이내에 재개신청이 제기되고, 외국인이 출석하지 못한 사유가 예외적 사정(제(e)(1)항에서 정의됨)에 해당함을 입증하는 경우, 또는 (ii) 언제든지 제기된 재개신청에서 외국인이 8 U.S.C. 1229(a) 제1항 또는 제2항에 따른 통지를 받지 못하였음을 입증하거나, 외국인이 연방 또는 주의 구금 상태에 있었고 출석하지 못한 것이 해당 외국인의 귀책사유가 아니었음을 입증하는 경우\").",
+      "앞의 인용으로 돌아가기",
+      "10.\n 이민국적법(INA) 제212조(a)(6)항, 8 U.S.C. 1182(a)(6).",
+      "앞의 인용으로 돌아가기",
+      "[연방관보 문서번호 2026-20186, 2026년 9월 30일 오전 8시 45분 제출]",
+      "청구코드 9111-CB-P"
+    ],
+    "es": [
+      "Encabezados del documento",
+      "Los encabezados del documento varían según el tipo de documento, pero pueden contener\nlo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte\nque el documento enmienda, propone enmendar, o con la cual está directamente\nrelacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en\nla Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales\n(Unified Agenda of Federal Regulatory and Deregulatory Actions)",
+      "Consulte el\nManual de Redacción de Documentos\n(Document Drafting Handbook) para más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Servicio de Inmigración y Control de Aduanas de los Estados Unidos",
+      "AGENCIA:",
+      "Servicio de Inmigración y Control de Aduanas de los Estados Unidos, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "ACCIÓN:",
+      "Aviso de ajuste inflacionario de tarifas.",
+      "RESUMEN:",
+      "El Departamento de Seguridad Nacional (DHS) anuncia los ajustes inflacionarios para el Año Fiscal (FY) 2027 de dos de las tarifas relacionadas con el cumplimiento de las leyes de inmigración establecidas por la One Big Beautiful Bill Act (HR-1). La HR-1 exige que el DHS ajuste anualmente ciertas tarifas relacionadas con el cumplimiento de las leyes de inmigración para reflejar la inflación. Los montos de las tarifas ajustadas para el FY 2027 para los extranjeros a quienes se les ordenó la expulsión en ausencia y que posteriormente son arrestados, y para los extranjeros inadmisibles aprehendidos entre puertos de entrada, son de $5,300. A partir del 16 de octubre de 2026, el DHS comenzará a evaluar y cobrar estos nuevos montos.",
+      "FECHAS:",
+      "Las tarifas anunciadas en este aviso entran en vigor el 16 de octubre de 2026.",
+      "PARA MÁS INFORMACIÓN, COMUNÍQUESE CON:",
+      "Oficina del Asesor Jurídico Principal, Unidad de Asuntos Regulatorios, Servicio de Inmigración y Control de Aduanas de los Estados Unidos, Departamento de Seguridad Nacional, 500 12th Street SW, Washington, DC 20536-5901. Teléfono 202-732-6960 (no es un número gratuito).",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Antecedentes y Autoridad",
+      "El 4 de julio de 2025, el Presidente promulgó la One Big Beautiful Bill Act, Ley Pública 119-21, 139 Stat. 72 (HR-1), la cual, entre otras cosas, estableció una serie de tarifas relacionadas con inmigración.[1]\nEn relación con este aviso, la HR-1 estableció dos tarifas de cumplimiento de las leyes de inmigración aplicables a lo siguiente: (1) extranjeros a quienes se les ordena la expulsión en ausencia conforme a la sección 240(b)(5) de la Ley de Inmigración y Nacionalidad (INA), 8 U.S.C. 1229a(b)(5), y que posteriormente son arrestados por el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE); y (2) extranjeros inadmisibles en el momento en que dichos extranjeros son aprehendidos entre puertos de entrada.[2]\nEl 8 de septiembre de 2025, el DHS notificó al público que comenzaría a evaluar y cobrar estas tarifas por un monto de $5,000 para el FY 2025 para ambas tarifas, según lo autorizado por la ley.[3]\nA partir del 8 de septiembre de 2025, el DHS ha estado notificando individualmente a los extranjeros a quienes se les aplican estas tarifas y proporcionando instrucciones sobre cómo realizar los pagos correspondientes a estas tarifas.[4]",
+      "El 20 de noviembre de 2025, el DHS publicó un aviso para el FY 2026 a fin de ajustar las tarifas por inflación a $5,130, el cual entró en vigor el 1 de diciembre de 2025.[5]\nConforme a la HR-1, estas tarifas están sujetas a ajustes anuales por inflación cada año fiscal.[6]\nEspecíficamente, ambas tarifas establecen que el ajuste anual por inflación se calculará de la siguiente manera:",
+      "[L]a suma de, ",
+      "(A) el monto de la tarifa requerida bajo esta subsección para el año fiscal concluido más recientemente; y",
+      "(B) el producto resultante de multiplicar el monto mencionado en el subpárrafo (A) por el porcentaje (si lo hubiera) en que el Índice de Precios al Consumidor para Todos los Consumidores Urbanos correspondiente al mes de julio\n( printed page 62543)\nanterior a la fecha en que dicho ajuste entre en vigor exceda el Índice de Precios al Consumidor para Todos los Consumidores Urbanos del mismo mes del año calendario anterior, redondeado al múltiplo de $10 inmediatamente inferior.",
+      "El DHS ha calculado ahora los ajustes por inflación para el FY 2027 y establece a continuación en este aviso los nuevos montos aplicables.",
+      "II. Montos de Tarifas para el FY 2027 Ajustados por Inflación",
+      "A. Ajustes para las Tarifas Relacionadas con el Cumplimiento de las Leyes de Inmigración Conforme a la HR-1",
+      "De conformidad con el proceso actual, el DHS notificará individualmente a los extranjeros a quienes se apliquen estas tarifas ajustadas y proporcionará instrucciones sobre cómo pagar las tarifas que se cobren a partir del 16 de octubre de 2026. De conformidad con las secciones 100016(b)(2) y 100017(b)(2) de la HR-1, el ajuste anual para el año fiscal 2027 se calcula como la suma del monto de la tarifa requerida bajo esta subsección para el año fiscal más recientemente concluido ($5,130); y el producto resultante de la multiplicación del monto referido en el subpárrafo (A) por el porcentaje en que el Índice de Precios al Consumidor para Todos los Consumidores Urbanos (CPI-U) (333.918) del mes de julio de 2026 supera el CPI-U de julio de 2025 (323.048), redondeado al múltiplo de $10 inmediatamente inferior. El multiplicador de 1.03365 (redondeado al quinto decimal) aplicado a la tarifa anterior de $5,130 resulta en un nuevo monto de $5302.62 (redondeado al centavo más cercano) que, luego redondeado hacia abajo al incremento de $10 más cercano, es $5,300. Las nuevas tarifas del año fiscal 2027 son las siguientes:",
+      "Descripción de la tarifa\n| Cita\n| Monto de la tarifa del año fiscal 2026\n| Multiplicador 7\n| Monto de la tarifa del año fiscal 2027\najustado por\neste aviso",
+      "Extranjeros sujetos a órdenes de remoción en ausencia y posteriormente arrestados por el ICE\n| HR-1, Ley Pública 119-21, 139 Stat. 72, sec. 100016. (codificado en 8 U.S.C. 1814)\n| $5,130\n| 1.03365\n| $5,300",
+      "Extranjeros inadmisibles arrestados entre puertos de entrada\n| HR-1, Ley Pública 119-21, 139 Stat. 72, sec. 100017. (codificado en 8 U.S.C. 1815)\n| 5,130\n| 1.03365\n| 5,300",
+      "B. Sección 100016. Extranjeros a quienes se ordenó la remoción en ausencia conforme a la sección 240(b)(5) de la INA y posteriormente arrestados por el ICE",
+      "Con base en el cálculo de los ajustes por inflación para el año fiscal 2027, según lo establecido en la sección 100016(b)(2) de la HR-1, el DHS cobrará y determinará una tarifa por el monto de $5,300 para los extranjeros sujetos a la tarifa conforme a la sección 100016 de la HR-1,\nTarifa para extranjeros con orden de remoción en ausencia,\na partir del 16 de octubre de 2026. Esta tarifa es aplicable a los extranjeros a quienes un juez de inmigración haya ordenado la remoción en ausencia conforme a la sección 240(b)(5) de la INA por no comparecer a los procedimientos de remoción y que posteriormente sean arrestados por el ICE.[8]\nLa HR-1 establece una excepción a esta tarifa para los extranjeros cuya orden de remoción en ausencia sea rescindida conforme a la sección 240(b)(5)(C) de la INA, 8 U.S.C. 1229a(b)(5)(C).\n9\nVéase la Ley Pública 119-21, sec. 100016(c). La HR-1 también establece que no existen exenciones disponibles para esta tarifa de ejecución de la ley.\nVéase la Ley Pública 119-21\nsec. 100016(e).",
+      "C. Sección 100017. Extranjeros inadmisibles aprehendidos entre puertos de entrada",
+      "Con base en el cálculo de los ajustes por inflación para el año fiscal 2027, según lo establecido en la sección 100017(b)(2) de la HR-1, el DHS, incluyendo al ICE y a la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP), cobrará y determinará una tarifa por el monto de $5,300 para los extranjeros sujetos a la tarifa conforme a la sección 100017 de la HR-1,\nTarifa de aprehensión de extranjero inadmisible,\na partir del 16 de octubre de 2026. Esta tarifa es aplicable a los extranjeros que sean inadmisibles conforme a la sección 212 de la INA, 8 U.S.C. 1182, y que sean aprehendidos por el DHS entre puertos de entrada. Los extranjeros que son aprehendidos por el DHS entre puertos de entrada con frecuencia están sujetos al motivo de inadmisibilidad conforme a la sección 212(a)(6) de la INA, 8 U.S.C. 1182(a)(6), la cual establece que todo extranjero “presente en los Estados Unidos sin haber sido admitido o autorizado para ingresar provisionalmente (parole), o que llegue a los Estados Unidos en cualquier momento o lugar distinto al designado por el Procurador General, es inadmisible.” [10]\nSin embargo, un extranjero también podría ser inadmisible con base en motivos adicionales de inadmisibilidad enumerados en la sección 212 de la INA, 8 U.S.C. 1182.",
+      "Markwayne Mullin,",
+      "Secretario, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "Notas al pie",
+      "1.\n \nVéase\nla HR-1, Título X, Subtítulo A, Parte I, secciones 100001 a 100018.",
+      "Volver a la cita",
+      "2.\n \nVéase la Ley Pública 119-21, 139 Stat. 72, secs. 100016, 100017 (codificado en 8 U.S.C. 1814, 1815).",
+      "Volver a la cita",
+      "3.\n Ciertas tarifas relacionadas con la ejecución de la ley de inmigración requeridas por la Ley de Reconciliación HR-1, 90 FR 43223 (8 de septiembre de 2025).",
+      "Volver a la cita",
+      "4.\n \nÍd.",
+      "Volver a la cita",
+      "5.\n Ciertas tarifas relacionadas con la ejecución de la ley de inmigración requeridas por la Ley de Reconciliación HR-1: Ajustes por inflación del año fiscal 2026, 90 FR 52425 (20 de noviembre de 2025).",
+      "Volver a la cita",
+      "6.\n \nVéase la Ley Pública 119-21, 139 Stat. 72, secs. 100016(b)(2) y 100017(b)(2), 8 U.S.C. 1814(b)(2), 1815(b)(2).",
+      "Volver a la cita",
+      "7.\n \nVéase\nla Oficina de Estadísticas Laborales, Índice de Precios al Consumidor para Todos los Consumidores Urbanos,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​years\n(visitado por última vez el 18 de agosto de 2026).",
+      "Volver a la cita",
+      "8.\n Un extranjero es \"ordenado a ser removido en ausencia\" por un juez de inmigración conforme a la sección 240(b)(5) de la INA, 8 U.S.C. 1229a(b)(5), cuando el extranjero no comparece a los procedimientos de remoción después de que se le haya proporcionado al extranjero o a su abogado de registro la notificación escrita \"requerida conforme al párrafo (1) o (2) de la sección 1229(a) de este título\" y el DHS haya establecido \"mediante evidencia clara, inequívoca y convincente que la notificación escrita fue proporcionada de esa manera y que el extranjero es removible\".",
+      "Volver a la cita",
+      "9.\n Sección 240(b)(5)(C) de la INA, 8 U.S.C. 1229a(b)(5)(C) (\"Dicha orden solo podrá ser rescindida, (i) mediante una moción de reapertura presentada dentro de los 180 días posteriores a la fecha de la orden de remoción, si el extranjero demuestra que la falta de comparecencia se debió a circunstancias excepcionales (según se definen en el inciso (e)(1)), o (ii) mediante una moción de reapertura presentada en cualquier momento si el extranjero demuestra que no recibió la notificación de conformidad con el párrafo (1) o (2) de la sección 1229(a) de este título, o si el extranjero demuestra que estuvo bajo custodia federal o estatal y que la falta de comparecencia no se debió a culpa del extranjero\").",
+      "Volver a la cita",
+      "10.\n Sección 212(a)(6) de la INA, 8 U.S.C. 1182(a)(6).",
+      "Volver a la cita",
+      "[Doc. del FR 2026-20186 Presentado el 30-9-26; 8:45 a. m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-CB-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署文件的机构或多个机构",
+      "文件所修订、拟议修订或直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "监管信息号(RIN),用于标识《联邦监管与放松管制行动统一议程》中列出的每项监管行动",
+      "详情请参阅《文件起草手册》(Document Drafting Handbook)。",
+      "美国国土安全部",
+      "美国移民及海关执法局",
+      "机构:",
+      "美国移民及海关执法局,美国国土安全部。",
+      "行动:",
+      "通货膨胀费用调整通知。",
+      "摘要:",
+      "美国国土安全部(DHS)现宣布,根据《一个大而美丽法案》(One Big Beautiful Bill Act,HR-1)设立的两项移民执法相关费用的2027财年通货膨胀调整。HR-1要求DHS每年对某些移民执法相关费用进行通货膨胀调整。针对被缺席判决驱逐出境后又被逮捕的外国人,以及在入境口岸之间被截获的不可入境外国人,2027财年调整后的费用金额为5,300美元。DHS将于2026年10月16日起开始评估和收取这些新金额。",
+      "日期:",
+      "本通知中公布的费用自2026年10月16日起生效。",
+      "欲知详情请联系:",
+      "首席法律顾问办公室监管事务处,美国移民及海关执法局,美国国土安全部,地址:500 12th Street SW, Washington, DC 20536-5901。电话:202-732-6960(非免费电话)。",
+      "补充信息:",
+      "一、背景与授权依据",
+      "2025年7月4日,总统签署《一个大而美丽法案》(One Big Beautiful Bill Act),成为《公法》第119-21号,139 Stat. 72(HR-1)。该法案除其他事项外,设立了若干项移民相关费用。[1]\n与本通知相关的是,HR-1设立了适用于以下情形的两项移民执法费用:(1)依据《移民与国籍法》(INA)第240(b)(5)条,8 U.S.C. 1229a(b)(5),被缺席判决驱逐出境、随后被美国移民及海关执法局(ICE)逮捕的外国人;以及(2)在入境口岸之间被截获时属于不可入境的外国人。[2]\n2025年9月8日,DHS向公众发布通知,宣布DHS将依照法定授权,自2025财年起按两项费用各5,000美元的金额开始评估和收取这些费用。[3]\n自2025年9月8日起,DHS已逐一通知适用这些费用的外国人,并提供有关如何缴纳这些费用的说明。[4]",
+      "2025年11月20日,DHS发布了2026财年通知,将费用因通货膨胀调整为5,130美元,该调整自2025年12月1日起生效。[5]\n根据HR-1规定,这些费用须在每个财政年度根据通货膨胀进行年度调整。[6]\n具体而言,这两项费用均规定,通货膨胀年度调整应按以下方式计算:",
+      "[其]总和为:",
+      "(A)本款项下规定的最近一个已结束财政年度所适用的费用金额;以及",
+      "(B)将(A)项所述金额乘以以下百分比(如有)所得之乘积:即该调整生效之日前一个7月份的城市消费者消费价格指数(printed page 62543),超出上一日历年同月城市消费者消费价格指数的百分比,并向下舍入至最接近的10美元整数倍。",
+      "DHS现已计算出2027财年的通货膨胀调整金额,并在本通知下文列明适用的新金额。",
+      "二、经通货膨胀调整后的2027财年费用金额",
+      "A. 根据HR-1对移民执法相关费用的调整",
+      "根据现行程序,美国国土安全部(DHS)将单独通知适用这些调整后费用的外国人,并就如何缴纳自2026年10月16日起征收的费用提供说明。根据《HR-1法案》第100016(b)(2)条和第100017(b)(2)条的规定,2027财年的年度调整额计算方式为以下两项之和:本款项下最近一个已结束财年所要求的费用金额(5,130美元),以及将(A)段所述金额乘以2026年7月城镇消费者消费价格指数(CPI-U)(333.918)超过2025年7月CPI-U(323.048)的百分比所得乘积,并向下舍入至最接近的10美元的倍数。将1.03365的乘数(保留小数点后五位)应用于此前5,130美元的费用,得出新金额为5302.62美元(四舍五入至最接近的美分),然后向下舍入至最接近的10美元增量,结果为5,300美元。2027财年的新费用如下:",
+      "费用说明\n| 引用条款\n| 2026财年费用金额\n| 乘数 7\n| 经本通知调整后的\n2027财年费用金额",
+      "被缺席判令驱逐出境后随后被美国移民及海关执法局(ICE)逮捕的外国人\n| 《HR-1法案》,公法第119-21号,139 Stat. 72,第100016条。(编入《美国法典》第8编第1814条)\n| 5,130美元\n| 1.03365\n| 5,300美元",
+      "在入境口岸之间被逮捕的不可入境外国人\n| 《HR-1法案》,公法第119-21号,139 Stat. 72,第100017条。(编入《美国法典》第8编第1815条)\n| 5,130\n| 1.03365\n| 5,300",
+      "B. 第100016条。根据《移民与国籍法》第240(b)(5)条被缺席判令驱逐出境后随后被美国移民及海关执法局逮捕的外国人",
+      "根据《HR-1法案》第100016(b)(2)条规定的2027财年通货膨胀调整计算结果,美国国土安全部将自2026年10月16日起,对适用《HR-1法案》第100016条,\n即缺席驱逐令外国人费用,\n所规定费用的外国人征收并评估5,300美元的费用。该费用适用于因未出席驱逐程序而被移民法官依据《移民与国籍法》第240(b)(5)条缺席判令驱逐出境,随后被美国移民及海关执法局逮捕的外国人。[8]\n《HR-1法案》为依据《移民与国籍法》第240(b)(5)(C)条,即《美国法典》第8编第1229a(b)(5)(C)条,撤销缺席驱逐令的外国人规定了该费用的豁免情形。\n9\n参见公法第119-21号第100016(c)条。《HR-1法案》还规定,此项执法费用不提供任何豁免。\n参见公法第119-21号\n第100016(e)条。",
+      "C. 第100017条。在入境口岸之间被抓获的不可入境外国人",
+      "根据《HR-1法案》第100017(b)(2)条规定的2027财年通货膨胀调整计算结果,美国国土安全部,包括美国移民及海关执法局和美国海关与边境保护局(CBP),将自2026年10月16日起,对适用《HR-1法案》第100017条,\n即不可入境外国人抓获费用,\n所规定费用的外国人征收并评估5,300美元的费用。该费用适用于依据《移民与国籍法》第212条,即《美国法典》第8编第1182条,被认定为不可入境,且在入境口岸之间被美国国土安全部抓获的外国人。在入境口岸之间被美国国土安全部抓获的外国人通常依据《移民与国籍法》第212(a)(6)条,即《美国法典》第8编第1182(a)(6)条所规定的不可入境理由,该条规定,任何“未经准许入境或假释而出现在美国境内,或在非司法部长指定的时间或地点抵达美国的”外国人,均属不可入境。[10]\n但是,外国人也可能基于《移民与国籍法》第212条,即《美国法典》第8编第1182条所列的其他不可入境理由而被认定为不可入境。",
+      "马克韦恩·马林(Markwayne Mullin),",
+      "美国国土安全部部长。",
+      "脚注",
+      "1.\n \n参见\n《HR-1法案》第十编,A子编,第一部分,第100001条至第100018条。",
+      "返回引文",
+      "2.\n \n参见公法第119-21号,139 Stat. 72,第100016条、第100017条(编入《美国法典》第8编第1814条、第1815条)。",
+      "返回引文",
+      "3.\n 《HR-1协调法案要求的若干与移民执法相关的DHS费用》,90 FR 43223(2025年9月8日)。",
+      "返回引文",
+      "4.\n \n同上。",
+      "返回引文",
+      "5.\n 《HR-1协调法案要求的若干与移民执法相关的费用:2026财年通货膨胀调整》,90 FR 52425(2025年11月20日)。",
+      "返回引文",
+      "6.\n \n参见公法第119-21号,139 Stat. 72,第100016(b)(2)条和第100017(b)(2)条,《美国法典》第8编第1814(b)(2)条、第1815(b)(2)条。",
+      "返回引文",
+      "7.\n \n参见\n美国劳工统计局,《全体城镇消费者消费价格指数》,\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​years\n(最后访问日期:2026年8月18日)。",
+      "返回引文",
+      "8.\n 根据《移民与国籍法》第240(b)(5)条,8 U.S.C. 1229a(b)(5),当外国人未出席驱逐出境程序,而在此之前已依照该法第1229(a)条第(1)项或第(2)项的规定向该外国人或其登记在案的律师提供书面通知,且国土安全部(DHS)已以“明确、无歧义且令人信服的证据”证明该书面通知已如此送达且该外国人应予驱逐出境的情况下,移民法官将对该外国人作出“缺席驱逐令”。",
+      "返回引文",
+      "9.\n 《移民与国籍法》第240(b)(5)(C)条,8 U.S.C. 1229a(b)(5)(C)(“此类命令只能在下列情形下撤销:(i)若外国人在驱逐令作出之日起180天内提出重新开庭动议,并证明其未出席是由于特殊情况(如(e)(1)款所定义);或(ii)若外国人在任何时候提出重新开庭动议,并证明其未按照第1229(a)条第(1)项或第(2)项的规定收到通知,或证明其当时处于联邦或州羁押之中,且未出席并非因其自身过错所致”)。",
+      "返回引文",
+      "10.\n 《移民与国籍法》第212(a)(6)条,8 U.S.C. 1182(a)(6)。",
+      "返回引文",
+      "[联邦公报文件编号2026-20186,于2026年9月30日上午8:45存档]",
+      "账单代码9111-CB-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含む場合がある。",
+      "文書を発行し署名した機関",
+      "文書が改正し、改正を提案し、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "担当機関のドケット番号/担当機関の内部ファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブック(Document Drafting Handbook)を参照されたい。",
+      "国土安全保障省",
+      "米国移民税関捜査局",
+      "機関:",
+      "米国移民税関捜査局、米国国土安全保障省。",
+      "措置:",
+      "インフレ調整に伴う手数料改定の通知。",
+      "概要:",
+      "国土安全保障省(DHS)は、One Big Beautiful Bill Act(HR-1)により設けられた移民執行関連手数料のうち2件について、2027会計年度(FY)のインフレ調整を公表する。HR-1は、DHSに対し、特定の移民執行関連手数料について毎年インフレ調整を行うことを義務付けている。欠席裁判により退去強制が命じられた後に逮捕された外国人、及び入国港以外の場所で拘束された入国不適格外国人に係る2027会計年度の調整後の手数料額は5,300ドルである。DHSは、2026年10月16日からこれらの新たな金額の査定及び徴収を開始する。",
+      "日付:",
+      "本通知で公表される手数料は、2026年10月16日に発効する。",
+      "問い合わせ先:",
+      "米国移民税関捜査局、国土安全保障省、首席法務顧問室規制問題課、500 12th Street SW, Washington, DC 20536-5901。電話番号202-732-6960(フリーダイヤルではない)。",
+      "補足情報:",
+      "I. 背景及び権限",
+      "2025年7月4日、大統領はOne Big Beautiful Bill Act(公法119-21号、139 Stat. 72、HR-1)に署名し、同法は他の事項とともに多数の移民関連手数料を設けた。[1]\n本通知に関連して、HR-1は以下の者に適用される2つの移民執行手数料を設けた。(1)移民国籍法(INA)第240条(b)(5)項、8 U.S.C. 1229a(b)(5)に基づき欠席裁判で退去強制が命じられ、その後米国移民税関捜査局(ICE)により逮捕された外国人、及び(2)入国港以外の場所で拘束された時点で入国不適格であった外国人。[2]\n2025年9月8日、DHSは、法律により権限が付与されたとおり、2025会計年度についてこれら両手数料をそれぞれ5,000ドルとして査定及び徴収を開始する旨を公表する通知を公衆に提供した。[3]\n2025年9月8日以降、DHSはこれらの手数料が適用される外国人に対し個別に通知を行い、当該手数料の支払方法についての案内を提供している。[4]",
+      "2025年11月20日、DHSは2026会計年度についてインフレ調整により手数料を5,130ドルに改定する通知を公表し、これは2025年12月1日に発効した。[5]\nHR-1の下で、これらの手数料は各会計年度において毎年インフレ調整の対象となる。[6]\n具体的には、両手数料ともに、インフレに係る年次調整は以下のとおり算定されるものと規定されている。",
+      "次の合計額",
+      "(A)直近に終了した会計年度について本項に基づき要求される手数料の金額、及び",
+      "(B)(A)号にいう金額に、当該調整が発効する日の直前の7月の全都市消費者物価指数が、前暦年の同月の全都市消費者物価指数を上回る割合(ある場合)を乗じて得られる積\n(印刷ページ62543)\nであって、10ドルの倍数のうち直近の下位の数に四捨五入したもの。",
+      "DHSは現在、2027会計年度のインフレ調整を算定し、本通知において以下に適用される新たな金額を定める。",
+      "II. インフレ調整後の2027会計年度手数料額",
+      "A. HR-1に基づく移民執行関連手数料の調整",
+      "現行の手続きに従い、国土安全保障省(DHS)は、これらの調整後手数料が適用される外国人に対して個別に通知を行い、2026年10月16日付けで賦課される手数料の納付方法に関する指示を提供する。HR-1法第100016条(b)(2)及び第100017条(b)(2)に従い、2027会計年度の年次調整額は、直近に終了した会計年度について本項に基づき必要とされる手数料額(5,130ドル)と、上記(A)で言及した金額に、2026年7月の全都市消費者向け消費者物価指数(CPI-U)(333.918)が2025年7月のCPI-U(323.048)を上回る割合を乗じた積(直近10ドル単位の下位倍数に切り捨て)との合計として算出される。前回の手数料5,130ドルに乗数1.03365(小数第5位まで四捨五入)を適用すると、新たな金額は5,302.62ドル(セント未満を四捨五入)となり、これを直近10ドル単位に切り捨てると5,300ドルとなる。新たな2027会計年度の手数料は以下のとおりである。",
+      "手数料の説明\n| 引用条文\n| 2026会計年度の手数料額\n| 乗数 7\n| 本通知による調整後の\n2027会計年度の手数料額",
+      "欠席裁判による退去命令の対象となり、その後ICEにより逮捕された外国人\n| HR-1、公法119-21号、139 Stat. 72、第100016条。(米国法典第8編第1814条として法典化)\n| 5,130ドル\n| 1.03365\n| 5,300ドル",
+      "入国地点間で逮捕された入国不許可外国人\n| HR-1、公法119-21号、139 Stat. 72、第100017条。(米国法典第8編第1815条として法典化)\n| 5,130\n| 1.03365\n| 5,300",
+      "B. 第100016条。移民国籍法(INA)第240条(b)(5)に基づき欠席裁判で退去命令を受け、その後ICEにより逮捕された外国人",
+      "HR-1法第100016条(b)(2)に定める2027会計年度のインフレ調整の計算に基づき、DHSは、HR-1法第100016条「欠席裁判による退去命令を受けた外国人に対する手数料」に基づき手数料の対象となる外国人に対し、2026年10月16日以降、5,300ドルの手数料を徴収及び賦課する。この手数料は、移民国籍法第240条(b)(5)に基づき、退去手続きへの出頭を怠ったために移民判事により欠席裁判で退去命令を受け、その後ICEにより逮捕された外国人に適用される。[8]\nHR-1法は、移民国籍法第240条(b)(5)(C)、米国法典第8編第1229a条(b)(5)(C)に基づき欠席裁判による退去命令が取り消された外国人に対しては、この手数料の例外を定めている。\n9\n公法119-21号第100016条(c)参照。HR-1法はまた、この執行手数料について免除は認められないことを定めている。\n公法119-21号\n第100016条(e)参照。",
+      "C. 第100017条。入国地点間で拘束された入国不許可外国人",
+      "HR-1法第100017条(b)(2)に定める2027会計年度のインフレ調整の計算に基づき、ICE及び米国税関国境警備局(CBP)を含むDHSは、HR-1法第100017条「入国不許可外国人拘束手数料」に基づき手数料の対象となる外国人に対し、2026年10月16日以降、5,300ドルの手数料を徴収及び賦課する。この手数料は、移民国籍法第212条、米国法典第8編第1182条に基づき入国不許可となる外国人であって、DHSにより入国地点間で拘束された者に適用される。DHSにより入国地点間で拘束された外国人は、多くの場合、移民国籍法第212条(a)(6)、米国法典第8編第1182条(a)(6)に基づく入国不許可事由の対象となり、同条は、「入国を許可又は仮放免されることなく米国内に所在する、又は司法長官が指定した時間若しくは場所以外の時間若しくは場所において米国に到着する」外国人は入国不許可となると定めている。[10]\nただし、外国人は、移民国籍法第212条、米国法典第8編第1182条に列挙されたその他の入国不許可事由に基づいても入国不許可となり得る。",
+      "マークウェイン・マリン",
+      "米国国土安全保障省長官",
+      "脚注",
+      "1.\n \nHR-1法第X編、サブタイトルA、第I部、第100001条から第100018条までを参照のこと。",
+      "引用元に戻る",
+      "2.\n \n公法119-21号、139 Stat. 72、第100016条、第100017条(米国法典第8編第1814条、第1815条として法典化)を参照のこと。",
+      "引用元に戻る",
+      "3.\n HR-1財政調整法により義務付けられた特定のDHS移民執行関連手数料、連邦官報90 FR 43223(2025年9月8日)。",
+      "引用元に戻る",
+      "4.\n \n同上。",
+      "引用元に戻る",
+      "5.\n HR-1財政調整法により義務付けられた特定の移民執行関連手数料：2026会計年度のインフレ調整、連邦官報90 FR 52425(2025年11月20日)。",
+      "引用元に戻る",
+      "6.\n \n公法119-21号、139 Stat. 72、第100016条(b)(2)及び第100017条(b)(2)、米国法典第8編第1814条(b)(2)、第1815条(b)(2)を参照のこと。",
+      "引用元に戻る",
+      "7.\n \n労働統計局、全都市消費者向け消費者物価指数、\nhttps://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​years\n(2026年8月18日最終閲覧)を参照のこと。",
+      "引用元に戻る",
+      "8.\n 外国人は、移民判事により、移民国籍法(INA)第240条(b)(5)項、8 U.S.C. 1229a(b)(5)に基づき、「同法第1229条(a)項(1)号又は(2)号に基づき要求される書面による通知が当該外国人又は当該外国人の記録上の代理人に提供された」後に当該外国人が退去強制手続に出頭せず、かつ国土安全保障省(DHS)が「当該書面による通知がそのように提供されたこと及び当該外国人が退去強制事由に該当することを明確、曖昧性のない、かつ説得力のある証拠により立証した」場合に、「欠席のまま退去強制を命じられる」ものとする。",
+      "引用元に戻る",
+      "9.\n INA第240条(b)(5)(C)項、8 U.S.C. 1229a(b)(5)(C)(「かかる命令は、次の場合に限り取り消すことができる。(i)退去強制命令の日から180日以内に再審理の申立てがなされ、当該外国人が出頭しなかったことが例外的事情(同条(e)(1)項に定義されるもの)によるものであることを証明した場合、又は(ii)いつでも再審理の申立てがなされ、当該外国人が同法第1229条(a)項(1)号又は(2)号に従った通知を受領していなかったことを証明した場合、若しくは当該外国人が連邦又は州の拘禁下にあり、出頭しなかったことが当該外国人の責めに帰すべき事由によるものでないことを証明した場合」)。",
+      "引用元に戻る",
+      "10.\n INA第212条(a)(6)項、8 U.S.C. 1182(a)(6)。",
+      "引用元に戻る",
+      "[FR Doc. 2026-20186 Filed 9-30-26; 8:45 am]",
+      "BILLING CODE 9111-CB-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
