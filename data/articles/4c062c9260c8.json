@@ -1,0 +1,474 @@
+{
+  "id": "4c062c9260c8",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
+  "original_title": "Labor Certification Process for the Temporary Employment of Foreign Workers in Agriculture in the United States: Adverse Effect Wage Rate Updates for Non-Range Occupations",
+  "published": "2026-08-03",
+  "effective_date": "2026-08-03",
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "H-2A",
+    "AEWR",
+    "Wages",
+    "Agriculture"
+  ],
+  "relevant": true,
+  "langs": {
+    "en": {
+      "title": "DOL Updates H-2A Adverse Effect Wage Rates for Non-Range Agricultural Jobs",
+      "summary": "The Department of Labor's Employment and Training Administration has issued updated Adverse Effect Wage Rates (AEWR) for H-2A agricultural workers in non-range occupations, based on new BLS wage survey data. The rates set the minimum wages employers must offer and pay H-2A workers and U.S. workers in corresponding employment.",
+      "points": [
+        "The updated AEWRs apply to H-2A non-range agricultural jobs and are based on the Bureau of Labor Statistics' Occupational Employment and Wage Statistics (OEWS) survey.",
+        "Rates are set separately for two skill levels, entry-level and experienced, and vary by state or territory and occupation.",
+        "The rates took effect August 3, 2026, except for employers and states covered by the court order in Kansas et al. v. U.S. Dep't of Labor, where they take effect August 17, 2026.",
+        "DOL also updated the 'average AEWR,' now $15.96, which is used to calculate required bond amounts for H-2A labor contractors.",
+        "Employers must pay H-2A workers and workers in corresponding employment the updated AEWR if it is higher than other applicable wage sources during the work contract.",
+        "Full state and occupation specific wage tables are published on DOL's Office of Foreign Labor Certification website."
+      ],
+      "who": "H-2A agricultural employers, H-2A labor contractors, and H-2A workers in non-range occupations across U.S. states and territories.",
+      "action": "Employers should check the updated AEWR tables on DOL's OFLC website for their state and occupation and adjust wages accordingly."
+    },
+    "ko": {
+      "title": "美 노동부, H-2A 비범위 농업직종 불리한 영향 임금률(AEWR) 갱신",
+      "summary": "미국 노동부 고용훈련청(ETA)이 노동통계국(BLS) 임금 조사자료를 기초로 H-2A 비범위 농업 직종에 적용되는 불리한 영향 임금률(AEWR)을 갱신했습니다. 이 임금률은 고용주가 H-2A 근로자 및 동등한 지위의 미국 근로자에게 최소한으로 지급해야 하는 임금 수준을 정합니다.",
+      "points": [
+        "갱신된 AEWR은 H-2A 비범위 농업 직종에 적용되며 노동통계국(BLS)의 직업고용임금통계(OEWS) 조사 자료를 근거로 산정되었습니다.",
+        "임금률은 초급 수준과 경력 수준의 두 가지 숙련도 구간으로 나뉘며 주 또는 준주 및 직종별로 다르게 적용됩니다.",
+        "새 임금률은 2026년 8월 3일부터 시행되나, Kansas 등 대 미국 노동부 소송의 법원 명령 적용 대상 고용주 및 주에 대해서는 2026년 8월 17일부터 시행됩니다.",
+        "노동부는 H-2A 인력중개업체의 보증금 산정에 사용되는 '평균 AEWR'도 갱신했으며 현재 금액은 시간당 15.96달러입니다.",
+        "고용주는 근로계약 기간 중 갱신된 AEWR이 기존 적용 임금보다 높을 경우 그 즉시 인상된 임금을 지급해야 합니다.",
+        "주별 및 직종별 상세 임금표는 노동부 해외노동인증국(OFLC) 웹사이트에서 확인할 수 있습니다."
+      ],
+      "who": "H-2A 비범위 농업 직종을 고용하는 미국 내 고용주, H-2A 인력중개업체, 그리고 해당 직종의 H-2A 근로자가 영향을 받습니다.",
+      "action": "고용주는 노동부 OFLC 웹사이트에서 해당 주 및 직종의 갱신된 AEWR을 확인하고 임금을 이에 맞게 조정해야 합니다."
+    },
+    "es": {
+      "title": "El DOL actualiza las tasas salariales por efecto adverso (AEWR) para empleos agrícolas H-2A no itinerantes",
+      "summary": "La Administración de Empleo y Capacitación (ETA) del Departamento de Trabajo de EE. UU. emitió tasas salariales por efecto adverso (AEWR) actualizadas para trabajadores agrícolas H-2A en ocupaciones no itinerantes, basadas en nuevos datos de la encuesta de salarios de la Oficina de Estadísticas Laborales (BLS). Estas tasas establecen el salario mínimo que los empleadores deben ofrecer y pagar a los trabajadores H-2A y a los trabajadores estadounidenses en empleo correspondiente.",
+      "points": [
+        "Las AEWR actualizadas se aplican a empleos agrícolas H-2A no itinerantes y se basan en la encuesta de Estadísticas de Empleo y Salarios Ocupacionales (OEWS) de la BLS.",
+        "Las tasas se establecen por separado para dos niveles de habilidad, nivel inicial y nivel experimentado, y varían según el estado o territorio y la ocupación.",
+        "Las tasas entraron en vigor el 3 de agosto de 2026, salvo para empleadores y estados sujetos a la orden judicial en el caso Kansas et al. v. U.S. Dep't of Labor, para quienes entran en vigor el 17 de agosto de 2026.",
+        "El DOL también actualizó la 'AEWR promedio', ahora de 15.96 dólares, utilizada para calcular los montos de fianza requeridos a los contratistas laborales H-2A.",
+        "Los empleadores deben pagar a los trabajadores H-2A y a los trabajadores en empleo correspondiente la AEWR actualizada si esta es mayor que otras fuentes salariales aplicables durante el contrato de trabajo.",
+        "Las tablas salariales completas por estado y ocupación están publicadas en el sitio web de la Oficina de Certificación Laboral Extranjera (OFLC) del DOL."
+      ],
+      "who": "Empleadores agrícolas que usan el programa H-2A, contratistas laborales H-2A y trabajadores H-2A en ocupaciones no itinerantes en todo Estados Unidos.",
+      "action": "Los empleadores deben consultar las tablas de AEWR actualizadas en el sitio web de la OFLC del DOL para su estado y ocupación y ajustar los salarios correspondientes."
+    },
+    "zh": {
+      "title": "美国劳工部更新H-2A非游牧类农业职位不利影响工资率（AEWR）",
+      "summary": "美国劳工部就业与培训管理局（ETA）根据劳工统计局（BLS）最新工资调查数据，更新了适用于H-2A非游牧类农业职位的不利影响工资率（AEWR）。该工资率规定了雇主向H-2A工人及对应岗位美国工人必须提供和支付的最低工资标准。",
+      "points": [
+        "更新后的AEWR适用于H-2A非游牧类农业职位，依据劳工统计局（BLS）的职业就业与工资统计（OEWS）调查数据确定。",
+        "工资率按两个技能等级分别设定，即入门级和经验级，并根据州或属地及职业类别有所不同。",
+        "新工资率自2026年8月3日起生效，但对于受Kansas等诉美国劳工部一案法院命令约束的雇主和州，生效日期为2026年8月17日。",
+        "劳工部还更新了用于计算H-2A劳务承包商所需保证金金额的“平均AEWR”，目前为每小时15.96美元。",
+        "在工作合同期间，如果更新后的AEWR高于其他适用工资标准，雇主必须立即按新标准支付H-2A工人及对应岗位工人的工资。",
+        "按州和职业划分的完整工资表已公布在劳工部海外劳工认证办公室（OFLC）网站上。"
+      ],
+      "who": "使用H-2A项目的美国农业雇主、H-2A劳务承包商以及从事非游牧类职位的H-2A工人受此影响。",
+      "action": "雇主应在劳工部OFLC网站上查询其所在州及职业对应的最新AEWR，并相应调整工资。"
+    },
+    "ja": {
+      "title": "米労働省、H-2A非放牧農業職種の不利益防止賃金率（AEWR）を更新",
+      "summary": "米労働省雇用訓練局（ETA）は、労働統計局（BLS）の最新賃金調査データに基づき、H-2A農業労働者の非放牧職種に適用される不利益防止賃金率（AEWR）を更新しました。この賃金率は、雇用主がH-2A労働者および同等の立場にある米国人労働者に支払うべき最低賃金水準を定めるものです。",
+      "points": [
+        "更新されたAEWRはH-2A非放牧農業職種に適用され、労働統計局（BLS）の職業雇用賃金統計（OEWS）調査データに基づいて算出されています。",
+        "賃金率は未経験レベルと経験者レベルの2つの技能区分ごとに設定され、州または準州および職種によって異なります。",
+        "新しい賃金率は2026年8月3日から適用されますが、Kansas等対米労働省訴訟の裁判所命令の対象となる雇用主および州については、2026年8月17日から適用されます。",
+        "労働省は、H-2A労務仲介業者に求められる保証金額の算定に用いる「平均AEWR」も更新し、現在は時給15.96ドルとなっています。",
+        "雇用契約期間中に更新後のAEWRが他の適用賃金水準より高い場合、雇用主は直ちにその新しい賃金率を支払う必要があります。",
+        "州および職種ごとの詳細な賃金表は、労働省の海外労働認証局（OFLC）のウェブサイトで公開されています。"
+      ],
+      "who": "H-2Aプログラムを利用する米国の農業雇用主、H-2A労務仲介業者、および非放牧職種に従事するH-2A労働者が対象です。",
+      "action": "雇用主は労働省OFLCのウェブサイトで該当する州および職種の最新AEWRを確認し、賃金を適切に調整する必要があります。"
+    }
+  },
+  "added": "2026-10-12T18:50Z",
+  "model": "claude-sonnet-5",
+  "agency": "dol",
+  "topics": [
+    "employment",
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Labor"
+      },
+      {
+        "t": "h",
+        "x": "Employment and Training Administration"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Employment and Training Administration, Department of Labor."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Employment and Training Administration (ETA) of the Department of Labor (DOL) is issuing this notice to announce updates to the Adverse Effect Wage Rates (AEWR) for the employment of temporary or seasonal nonimmigrant foreign workers (H-2A workers) to perform agricultural labor or services in non-range occupations. AEWRs are the minimum wage rates that must be offered, advertised in recruitment, and paid by employers to H-2A workers and workers in corresponding employment to ensure that the wages and working conditions of workers in the United States similarly employed are not adversely affected."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "These rates are effective August 3, 2026. However, for entities and states subject to the court order in Kansas et al. v. U.S. Dep't of Labor (749 F. Supp. 3d 1363 (S.D. Ga. 2024)), these rates are effective August 17, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Brian Pasternak, Administrator, Office of Foreign Labor Certification (OFLC), email: ETA.OFLC.Forms@dol.gov."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "p",
+        "x": "Consistent with the methodology established in the interim final rule, Adverse Effect Wage ( printed page 48947) Rate Methodology for the Temporary Employment of H-2A Nonimmigrants in Non-Range Occupations in the United States (2025 AEWR IFR),[1] this notice updates AEWRs using wage data from the Bureau of Labor Statistics' (BLS) Occupational Employment and Wage Statistics (OEWS) survey as the basis for all non-range AEWR determinations. This methodology establishes AEWRs based on two skill-based categories, with corresponding housing adjustments that only apply when compensating H-2A workers under temporary agricultural labor certifications, consistent with regulatory requirements. In this notice, DOL also announces an update to the average AEWR, which is used to calculate adjustments to required bond amounts for H-2A Labor Contractors."
+      },
+      {
+        "t": "p",
+        "x": "The U.S. Citizenship and Immigration Services of the Department of Homeland Security will not approve an employer's petition for the admission of H-2A nonimmigrant temporary and seasonal agricultural workers in the U.S. unless the petitioner has received an H-2A labor certification from DOL. The labor certification provides that: (1) there are not sufficient U.S. workers who are able, willing, and qualified and who will be available at the time and place needed to perform the labor or services involved in the petition; and (2) the employment of the foreign worker(s) in such labor or services will not adversely affect the wages and working conditions of workers in the U.S. similarly employed. See8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(c)(1), and 1188(a); 8 CFR 214.2(h)(5); 20 CFR 655.100."
+      },
+      {
+        "t": "p",
+        "x": "DOL H-2A regulations at 20 CFR 655.120 and 655.122(l) provide that, for non-range occupations, employers must pay their H-2A workers and workers in corresponding employment at least the highest of various specified wage sources, including the AEWR. Further, when the AEWR is updated during a work contract, the employer must pay at least that updated AEWR upon the effective date of the new AEWR, if the updated AEWR is higher than the highest of the previous AEWRs, a prevailing rate for the crop activity or agricultural activity and, if applicable, a distinct work task or tasks performed in that activity and geographic area, the agreed-upon collective bargaining wage, the Federal minimum wage rate, or the State minimum wage rate. See20 CFR 655.120(b)(5). Similarly, when the AEWR is updated during a work contract and is lower than the wage rate that is guaranteed on the job order, the employer must continue to pay at least the wage rate guaranteed on the job order. See20 CFR 655.120(b)(6)."
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to the 2025 AEWR IFR, AEWRs for non-range agricultural occupations are determined using wage data from the BLS OEWS survey. This methodology determines the AEWRs for H-2A job opportunities using the annual average hourly gross wage for each U.S. state or territory, differentiated by two skill or qualification levels: Skill Level I (Entry-Level) and Skill Level II (Experience-Level). A Skill Level I AEWR applies to job opportunities with minimum qualifications consistent with entry-level positions, in which workers are not required to possess formal education or specialized training credentials. A Skill Level II AEWR applies to job opportunities requiring qualifications commensurate with experienced or otherwise fully proficient workers, who through education, training, or experience, have demonstrated the skills or knowledge necessary to perform the duties of the H-2A job opportunity. AEWRs for most job opportunities will continue to be classified within the five Standard Occupational Classification (SOC) codes comprising the field and livestock workers (combined) category.[2]"
+      },
+      {
+        "t": "p",
+        "x": "Current regulation requires the OFLC Administrator to publish a Federal Register notice at least once in each calendar year to establish each set of AEWRs and corresponding housing compensation adjustments. See20 CFR 655.120(b)(4)."
+      },
+      {
+        "t": "h",
+        "x": "AEWR Determinations Using OEWS Data"
+      },
+      {
+        "t": "p",
+        "x": "In accordance with 20 CFR 655.120(b)(1)(i), AEWRs for occupations within the field and livestock workers (combined) category are calculated using statewide [3] annual average hourly wages reported by the OEWS survey for the relevant SOC codes. Where a statewide annual average hourly gross wage in the U.S. state or territory at either skill level is not reported by the OEWS, the AEWR for the field and livestock workers (combined) category shall be the national annual average hourly gross wage at that skill level, as reported by the OEWS survey."
+      },
+      {
+        "t": "p",
+        "x": "Similarly, and consistent with 20 CFR 655.120(b)(1)(ii), AEWRs for all other occupations are determined using the statewide annual average hourly gross wage for the SOC code for the State, or equivalent district or territory, as reported by the OEWS survey. Where a statewide annual average hourly gross wage in the State at either skill level is not reported by the OEWS survey, the AEWR for each SOC shall be the national annual average hourly gross wage for that occupation at that skill level, as reported by the OEWS survey."
+      },
+      {
+        "t": "p",
+        "x": "Based on the most recently published OEWS survey,[4] the OFLC Administrator is publishing the statewide hourly AEWRs applicable to all non-range H-2A job opportunities. Additionally, DOL is updating and disclosing the statewide downward compensation adjustments to the applicable AEWRs that can only be applied to H-2A workers who are provided with housing at no cost pursuant to 20 CFR 655.120(b)(3). All hourly AEWRs determined under 20 CFR 655.120(b) are available for each SOC code and geographic area at the following URL: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates. At the URL, DOL provides a searchable spreadsheet and other resources that enable interested parties to search by U.S. state or territory and SOC code for the OEWS-based AEWR applicable to an H-2A job opportunity."
+      },
+      {
+        "t": "h",
+        "x": "Average AEWR Determination"
+      },
+      {
+        "t": "p",
+        "x": "Section20 CFR 655.103(b) defines “average AEWR” as “the simple average of the [AEWR] applicable to the SOC45-2092 . . . and published by the OFLC Administrator in accordance with § 655.120.” Accordingly, the calculation of the average AEWR requires the simple average of the AEWRs applicable to SOC45-2092 across all U.S. states and territories, as reported by the OEWS survey, and published by the OFLC Administrator. Because the regulatory text specifies that the simple average must be taken across the AEWRs “applicable to the SOC45-2092,” the calculation encompasses the sum of the complete set of applicable AEWRs across both skill levels without any standardized adjustments referenced above divided by the number of AEWRs applicable to SOC 45-2092 included in the published searchable spreadsheet at the aforementioned URL. Therefore, the current average AEWR determined ( printed page 48948) under 20 CFR 655.103(b), which is used to calculate the bond amounts required under 20 CFR 655.132(c)(2)(ii), is $15.96 and is also available at the following URL: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates."
+      },
+      {
+        "t": "p",
+        "x": "(Authority: 20 CFR 655.120(b)(4); 20 CFR 655.103(b))"
+      },
+      {
+        "t": "p",
+        "x": "Marek Laco,"
+      },
+      {
+        "t": "p",
+        "x": "Acting Assistant Secretary for Employment and Training, Labor."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. See 90 FR 47914 (Oct. 2, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2. The OEWS reports the annual average hourly gross wage for each U.S. state or territory aggregated across the following SOCs contained within the field and livestock (combined) category: 45-2041 Graders and Sorters, Agricultural Products; 45-2091 Agricultural Equipment Operators; 45-2092 Farmworkers and Laborers, Crop, Nursery, and Greenhouse; 45-2093 Farmworkers, Farm, Ranch, and Aquacultural Animals; and 53-7064 Packers and Packagers, Hand."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3. See 20 CFR 655.120(b)(1)(iv) (“For purposes of paragraphs (b)(1)(i) and (ii) of this section, the term State and statewide include the 50 States, the District of Columbia, Guam, Puerto Rico, and the U.S. Virgin Islands.”)"
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4. See Bureau of Labor Statistics, Occupational Employment and Wage Statistics (OEWS) data, OEWS Databases (May 15, 2026), available at https://www.bls.gov/​oes/​data.htm. Note that the OEWS data released represent May 2025 estimates."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-15673 Filed 7-31-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4510-FP-P"
+      }
+    ],
+    "fetched": "2026-10-12T18:50Z",
+    "from": "federalregister.gov",
+    "chars": 9886
+  },
+  "full": {
+    "ko": [
+      "문서 제목",
+      "문서 제목은 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관",
+      "해당 문서가 개정하거나, 개정을 제안하거나, 직접 관련된 CFR 편의 번호 및 각 부의 번호",
+      "기관 문서번호 / 기관 내부 파일번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 안내서(Document Drafting Handbook)를 참조하십시오.",
+      "노동부",
+      "고용훈련청",
+      "기관:",
+      "고용훈련청, 노동부.",
+      "조치:",
+      "공고.",
+      "요약:",
+      "노동부(DOL) 산하 고용훈련청(ETA)은 비범위(non-range) 직종에서 농업 노동 또는 서비스를 수행하는 임시 또는 계절 비이민 외국인 근로자(H-2A 근로자)의 고용에 대한 부정적 영향 임금률(Adverse Effect Wage Rates, AEWR) 갱신을 공고하기 위하여 본 공고를 발행합니다. AEWR이란 미국 내 유사하게 고용된 근로자의 임금 및 근로조건이 부정적인 영향을 받지 않도록 하기 위하여 고용주가 H-2A 근로자 및 상응 고용(corresponding employment) 근로자에게 제시, 모집공고에 광고, 지급하여야 하는 최저 임금률을 말합니다.",
+      "일자:",
+      "이 요율은 2026년 8월 3일부터 효력을 발생합니다. 다만, Kansas 외 대 미국 노동부 사건(749 F. Supp. 3d 1363 (S.D. Ga. 2024))의 법원 명령 적용을 받는 단체 및 주의 경우, 이 요율은 2026년 8월 17일부터 효력을 발생합니다.",
+      "추가 정보 문의처:",
+      "Brian Pasternak, 해외노동인증실(Office of Foreign Labor Certification, OFLC) 실장, 이메일: ETA.OFLC.Forms@dol.gov.",
+      "보충 정보:",
+      "2025년 AEWR 잠정 최종규칙(interim final rule)인 비범위 직종에서의 미국 내 H-2A 비이민자 임시 고용에 관한 부정적 영향 임금률 산정 방법론(2025 AEWR IFR)[1]에서 수립된 방법론에 따라, (인쇄본 48947면) 본 공고는 모든 비범위 AEWR 결정의 기초로서 노동통계국(BLS)의 직업별 고용 및 임금 통계(OEWS) 조사 자료를 사용하여 AEWR을 갱신합니다. 이 방법론은 규제 요건에 따라 임시 농업 노동인증 하에서 H-2A 근로자에게 보상을 지급할 때에만 적용되는 상응 주거 조정과 함께, 두 가지 숙련도 기반 범주에 근거하여 AEWR을 수립합니다. 본 공고에서 노동부(DOL)는 또한 H-2A 노동계약자(H-2A Labor Contractors)에 대한 필요 보증금액 조정 산정에 사용되는 평균 AEWR의 갱신도 함께 공고합니다.",
+      "국토안보부(DHS) 산하 미국 시민권 이민서비스국(USCIS)은 청원인이 노동부로부터 H-2A 노동인증을 받지 않는 한, 미국 내 H-2A 비이민 임시 및 계절 농업 근로자의 입국을 위한 고용주의 청원을 승인하지 않습니다. 노동인증은 다음을 확인합니다. (1) 청원에 관련된 노동 또는 서비스를 수행하기 위하여 필요한 시기와 장소에서 가능하고, 기꺼이 일하고자 하며, 자격을 갖추고 이용 가능한 충분한 미국인 근로자가 없다는 점, 그리고 (2) 해당 노동 또는 서비스에서의 외국인 근로자 고용이 유사하게 고용된 미국 내 근로자의 임금 및 근로조건에 부정적인 영향을 미치지 않는다는 점입니다. 8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(c)(1), 1188(a); 8 CFR 214.2(h)(5); 20 CFR 655.100 참조.",
+      "20 CFR 655.120 및 655.122(l)에 규정된 노동부 H-2A 규정은, 비범위 직종의 경우 고용주가 H-2A 근로자 및 상응 고용 근로자에게 AEWR을 포함한 여러 명시된 임금 출처 중 가장 높은 금액 이상을 지급하여야 한다고 규정하고 있습니다. 또한, 근로계약 기간 중 AEWR이 갱신되는 경우, 갱신된 AEWR이 이전 AEWR, 해당 작물활동 또는 농업활동(및 해당되는 경우 그 활동 및 지리적 지역 내에서 수행되는 별개의 작업 업무)의 우세 임금률, 합의된 단체교섭 임금, 연방 최저임금률, 또는 주 최저임금률 중 가장 높은 금액보다 높은 경우, 고용주는 새로운 AEWR의 효력 발생일부터 최소한 해당 갱신된 AEWR 이상을 지급하여야 합니다. 20 CFR 655.120(b)(5) 참조. 마찬가지로, 근로계약 기간 중 AEWR이 갱신되어 구인광고(job order)에서 보장된 임금률보다 낮아지는 경우, 고용주는 계속하여 구인광고에서 보장된 임금률 이상을 지급하여야 합니다. 20 CFR 655.120(b)(6) 참조.",
+      "2025년 연간 역효과 임금률(AEWR) 잠정 최종 규칙(IFR)에 따라, 비방목 농업 직종에 대한 AEWR은 노동통계국(BLS) 직업고용통계(OEWS) 조사의 임금 자료를 사용하여 결정됩니다. 이 방법론은 각 미국 주 또는 준주의 연간 평균 시간당 총임금을 사용하여 H-2A 취업 기회에 대한 AEWR을 결정하며, 이는 숙련도 I(초급 수준)와 숙련도 II(경력 수준)의 두 가지 숙련 또는 자격 수준으로 구분됩니다. 숙련도 I AEWR은 근로자가 정규 교육이나 전문 교육 자격을 보유할 필요가 없는 초급직에 상응하는 최저 자격 요건을 갖춘 취업 기회에 적용됩니다. 숙련도 II AEWR은 교육, 훈련 또는 경험을 통해 H-2A 취업 기회의 직무를 수행하는 데 필요한 기술 또는 지식을 입증한, 경력이 있거나 그 밖의 방식으로 완전히 숙련된 근로자에 상응하는 자격을 요구하는 취업 기회에 적용됩니다. 대부분의 취업 기회에 대한 AEWR은 계속해서 포장 및 축산 근로자(통합) 범주를 구성하는 5개의 표준직업분류(SOC) 코드 내에서 분류됩니다.[2]",
+      "현행 규정에 따라 해외노동인증국(OFLC) 국장은 각 AEWR 및 그에 상응하는 주거 보상 조정액을 설정하기 위하여 매 역년마다 최소 1회 연방관보 고시를 발행하여야 합니다. 20 CFR 655.120(b)(4) 참조.",
+      "OEWS 자료를 이용한 AEWR 결정",
+      "20 CFR 655.120(b)(1)(i)에 따라, 포장 및 축산 근로자(통합) 범주에 속하는 직종에 대한 AEWR은 해당 SOC 코드에 대하여 OEWS 조사에서 보고된 주별[3] 연간 평균 시간당 임금을 사용하여 산정됩니다. 어느 한 숙련 수준에서 해당 미국 주 또는 준주의 주별 연간 평균 시간당 총임금이 OEWS에서 보고되지 않는 경우, 포장 및 축산 근로자(통합) 범주에 대한 AEWR은 OEWS 조사에서 보고된 해당 숙련 수준의 전국 연간 평균 시간당 총임금으로 합니다.",
+      "마찬가지로, 20 CFR 655.120(b)(1)(ii)에 따라, 그 밖의 모든 직종에 대한 AEWR은 해당 주 또는 이에 상응하는 구역이나 준주에 대하여 OEWS 조사에서 보고된 SOC 코드의 주별 연간 평균 시간당 총임금을 사용하여 결정됩니다. 어느 한 숙련 수준에서 해당 주의 주별 연간 평균 시간당 총임금이 OEWS 조사에서 보고되지 않는 경우, 각 SOC에 대한 AEWR은 OEWS 조사에서 보고된 해당 숙련 수준의 그 직종에 대한 전국 연간 평균 시간당 총임금으로 합니다.",
+      "가장 최근에 발표된 OEWS 조사[4]를 기초로, OFLC 국장은 모든 비방목 H-2A 취업 기회에 적용되는 주별 시간당 AEWR을 고시합니다. 또한 노동부(DOL)는 20 CFR 655.120(b)(3)에 따라 무상으로 주거를 제공받는 H-2A 근로자에게만 적용할 수 있는 해당 AEWR에 대한 주별 하향 보상 조정액을 갱신하여 공개합니다. 20 CFR 655.120(b)에 따라 결정된 모든 시간당 AEWR은 각 SOC 코드 및 지리적 구역별로 다음 URL에서 확인할 수 있습니다: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates. 해당 URL에서 노동부는 이해관계자가 미국 주 또는 준주 및 SOC 코드별로 H-2A 취업 기회에 적용되는 OEWS 기반 AEWR을 검색할 수 있는 검색 가능한 스프레드시트 및 그 밖의 자료를 제공합니다.",
+      "평균 AEWR 결정",
+      "20 CFR 655.103(b)는 “평균 AEWR”을 “제655.120조에 따라 OFLC 국장이 고시하는 SOC 45-2092에 적용되는 [AEWR]의 단순 평균”으로 정의합니다. 따라서 평균 AEWR의 산정은 OEWS 조사에서 보고되고 OFLC 국장이 고시한, 모든 미국 주 및 준주에 걸친 SOC 45-2092에 적용되는 AEWR의 단순 평균을 요구합니다. 규정 문언이 단순 평균은 “SOC 45-2092에 적용되는” AEWR 전체에 걸쳐 산출되어야 한다고 명시하고 있으므로, 이 산정은 위에서 언급한 표준화된 조정 없이 두 숙련 수준 전체에 걸쳐 적용 가능한 AEWR 전체 집합의 합을, 전술한 URL에 게재된 검색 가능한 스프레드시트에 포함된 SOC 45-2092에 적용되는 AEWR의 개수로 나눈 값을 포함합니다. 따라서 20 CFR 655.132(c)(2)(ii)에 따라 요구되는 보증금 액수를 산정하는 데 사용되는, 20 CFR 655.103(b)에 따라 결정된 현행 평균 AEWR은( 인쇄본 48948면) 15.96달러이며, 이는 다음 URL에서도 확인할 수 있습니다: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates.",
+      "(근거 법령: 20 CFR 655.120(b)(4); 20 CFR 655.103(b))",
+      "마렉 라코(Marek Laco),",
+      "고용훈련국 차관보 대행, 노동부.",
+      "각주",
+      "1. 90 FR 47914(2025년 10월 2일) 참조.",
+      "인용으로 돌아가기",
+      "2. OEWS는 농경지 및 축산(통합) 분류에 포함된 다음 SOC들을 합산하여 각 미국 주 또는 준주의 연간 평균 시간당 총임금을 보고합니다: 45-2041 농산물 등급 분류원 및 선별원; 45-2091 농업 장비 운전원; 45-2092 작물, 묘포장 및 온실 농장 근로자 및 노무자; 45-2093 농장, 목장 및 수산양식 동물 농장 근로자; 53-7064 수작업 포장원 및 포장 노무자.",
+      "인용으로 돌아가기",
+      "3. 20 CFR 655.120(b)(1)(iv) 참조(\"본 조 (b)(1)(i) 및 (ii)항의 목적상, '주' 및 '주 전역'이라는 용어는 50개 주, 컬럼비아 특별구, 괌, 푸에르토리코 및 미국령 버진아일랜드를 포함한다.\")",
+      "인용으로 돌아가기",
+      "4. 노동통계국, 직업별 고용 및 임금 통계(OEWS) 데이터, OEWS 데이터베이스(2026년 5월 15일), 다음에서 확인 가능: https://www.bls.gov/​oes/​data.htm. 공개된 OEWS 데이터는 2025년 5월 추정치를 나타내는 것임에 유의하시기 바랍니다.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-15673 Filed 7-31-26; 8:45 am]",
+      "BILLING CODE 4510-FP-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar, o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción reglamentaria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Trabajo",
+      "Administración de Empleo y Capacitación",
+      "AGENCIA:",
+      "Administración de Empleo y Capacitación, Departamento de Trabajo.",
+      "ACCIÓN:",
+      "Aviso.",
+      "RESUMEN:",
+      "La Administración de Empleo y Capacitación (ETA, por sus siglas en inglés) del Departamento de Trabajo (DOL, por sus siglas en inglés) emite este aviso para anunciar actualizaciones a las Tasas Salariales de Efecto Adverso (AEWR, por sus siglas en inglés) para el empleo de trabajadores extranjeros no inmigrantes temporales o estacionales (trabajadores H-2A) para realizar labores o servicios agrícolas en ocupaciones que no son de pastoreo. Las AEWR son las tasas salariales mínimas que los empleadores deben ofrecer, anunciar en el reclutamiento, y pagar a los trabajadores H-2A y a los trabajadores en empleo correspondiente para garantizar que los salarios y las condiciones de trabajo de los trabajadores empleados de manera similar en los Estados Unidos no se vean afectados adversamente.",
+      "FECHAS:",
+      "Estas tasas entran en vigor el 3 de agosto de 2026. Sin embargo, para las entidades y los estados sujetos a la orden judicial en Kansas et al. v. U.S. Dep't of Labor (749 F. Supp. 3d 1363 (S.D. Ga. 2024)), estas tasas entran en vigor el 17 de agosto de 2026.",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON:",
+      "Brian Pasternak, Administrador, Oficina de Certificación de Trabajo Extranjero (OFLC, por sus siglas en inglés), correo electrónico: ETA.OFLC.Forms@dol.gov.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "De conformidad con la metodología establecida en la norma final provisional, Metodología de la Tasa Salarial de Efecto Adverso (Adverse Effect Wage) ( página impresa 48947) Rate Methodology for the Temporary Employment of H-2A Nonimmigrants in Non-Range Occupations in the United States (IFR de AEWR de 2025),[1] este aviso actualiza las AEWR utilizando datos salariales de la encuesta de Estadísticas de Empleo y Salarios Ocupacionales (OEWS, por sus siglas en inglés) de la Oficina de Estadísticas Laborales (BLS, por sus siglas en inglés) como base para todas las determinaciones de AEWR que no son de pastoreo. Esta metodología establece las AEWR con base en dos categorías basadas en el nivel de habilidad, con los ajustes de vivienda correspondientes que solo se aplican al compensar a los trabajadores H-2A conforme a las certificaciones laborales agrícolas temporales, de conformidad con los requisitos reglamentarios. En este aviso, el DOL también anuncia una actualización de la AEWR promedio, que se utiliza para calcular los ajustes a los montos de fianza requeridos para los Contratistas de Trabajo H-2A.",
+      "Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés) del Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) no aprobarán la petición de un empleador para la admisión de trabajadores agrícolas temporales y estacionales no inmigrantes H-2A en los Estados Unidos, a menos que el peticionario haya recibido una certificación laboral H-2A del DOL. La certificación laboral establece que: (1) no hay suficientes trabajadores estadounidenses que sean capaces, estén dispuestos, y calificados, y que estén disponibles en el momento y lugar necesarios para realizar la labor o los servicios involucrados en la petición; y (2) el empleo del trabajador o los trabajadores extranjeros en dicha labor o servicios no afectará adversamente los salarios y las condiciones de trabajo de los trabajadores empleados de manera similar en los Estados Unidos. Véase 8 U.S.C. 1101(a)(15)(H)(ii)(a), 1184(c)(1), y 1188(a); 8 CFR 214.2(h)(5); 20 CFR 655.100.",
+      "Los reglamentos H-2A del DOL en 20 CFR 655.120 y 655.122(l) establecen que, para ocupaciones que no son de pastoreo, los empleadores deben pagar a sus trabajadores H-2A y a los trabajadores en empleo correspondiente al menos la más alta de varias fuentes salariales específicas, incluyendo la AEWR. Además, cuando la AEWR se actualiza durante un contrato de trabajo, el empleador debe pagar al menos esa AEWR actualizada a partir de la fecha de vigencia de la nueva AEWR, si la AEWR actualizada es más alta que la más alta de las siguientes: las AEWR anteriores, una tasa vigente para la actividad de cultivo o actividad agrícola y, de ser aplicable, una tarea o tareas de trabajo distintas realizadas en esa actividad y área geográfica, el salario acordado mediante negociación colectiva, la tasa de salario mínimo federal, o la tasa de salario mínimo estatal. Véase 20 CFR 655.120(b)(5). De manera similar, cuando la AEWR se actualiza durante un contrato de trabajo y resulta inferior a la tasa salarial garantizada en la orden de trabajo, el empleador debe continuar pagando al menos la tasa salarial garantizada en la orden de trabajo. Véase 20 CFR 655.120(b)(6).",
+      "De conformidad con la Norma Final Provisional (IFR, por sus siglas en inglés) de la AEWR de 2025, las AEWR para ocupaciones agrícolas que no son de pastoreo se determinan utilizando datos salariales de la encuesta OEWS de la Oficina de Estadísticas Laborales (BLS, por sus siglas en inglés). Esta metodología determina las AEWR para las oportunidades de empleo H-2A utilizando el salario bruto promedio anual por hora para cada estado o territorio de los Estados Unidos, diferenciado por dos niveles de habilidad o calificación: Nivel de Habilidad I (Nivel de Entrada) y Nivel de Habilidad II (Nivel de Experiencia). Una AEWR de Nivel de Habilidad I se aplica a las oportunidades de empleo con calificaciones mínimas consistentes con puestos de nivel de entrada, en los cuales no se requiere que los trabajadores posean credenciales de educación formal o capacitación especializada. Una AEWR de Nivel de Habilidad II se aplica a las oportunidades de empleo que requieren calificaciones acordes con trabajadores experimentados o que de otro modo sean totalmente competentes, quienes mediante educación, capacitación o experiencia, hayan demostrado las habilidades o conocimientos necesarios para desempeñar las funciones de la oportunidad de empleo H-2A. Las AEWR para la mayoría de las oportunidades de empleo continuarán clasificándose dentro de los cinco códigos de la Clasificación Estándar de Ocupaciones (SOC, por sus siglas en inglés) que conforman la categoría de trabajadores de campo y ganado (combinados).[2]",
+      "La reglamentación vigente exige que el Administrador de la OFLC publique un aviso en el Registro Federal al menos una vez en cada año calendario para establecer cada conjunto de AEWR y los ajustes de compensación de vivienda correspondientes. Véase 20 CFR 655.120(b)(4).",
+      "Determinaciones de la AEWR Utilizando Datos de la OEWS",
+      "De conformidad con el 20 CFR 655.120(b)(1)(i), las AEWR para las ocupaciones dentro de la categoría de trabajadores de campo y ganado (combinados) se calculan utilizando los salarios brutos promedio anuales por hora a nivel estatal [3] reportados por la encuesta OEWS para los códigos SOC pertinentes. Cuando un salario bruto promedio anual por hora a nivel estatal en el estado o territorio de los Estados Unidos no sea reportado por la OEWS en cualquiera de los niveles de habilidad, la AEWR para la categoría de trabajadores de campo y ganado (combinados) será el salario bruto promedio anual por hora a nivel nacional en ese nivel de habilidad, según lo reportado por la encuesta OEWS.",
+      "De manera similar, y en conformidad con el 20 CFR 655.120(b)(1)(ii), las AEWR para todas las demás ocupaciones se determinan utilizando el salario bruto promedio anual por hora a nivel estatal para el código SOC correspondiente al estado, o distrito o territorio equivalente, según lo reportado por la encuesta OEWS. Cuando un salario bruto promedio anual por hora a nivel estatal en el estado no sea reportado por la encuesta OEWS en cualquiera de los niveles de habilidad, la AEWR para cada SOC será el salario bruto promedio anual por hora a nivel nacional para esa ocupación en ese nivel de habilidad, según lo reportado por la encuesta OEWS.",
+      "Con base en la encuesta OEWS publicada más recientemente,[4] el Administrador de la OFLC está publicando las AEWR por hora a nivel estatal aplicables a todas las oportunidades de empleo H-2A que no son de pastoreo. Adicionalmente, el DOL está actualizando y divulgando los ajustes descendentes de compensación a nivel estatal aplicables a las AEWR correspondientes, que solo pueden aplicarse a los trabajadores H-2A a quienes se les proporcione vivienda sin costo alguno, de conformidad con el 20 CFR 655.120(b)(3). Todas las AEWR por hora determinadas conforme al 20 CFR 655.120(b) están disponibles para cada código SOC y área geográfica en la siguiente URL: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates. En dicha URL, el DOL proporciona una hoja de cálculo con función de búsqueda y otros recursos que permiten a las partes interesadas buscar, por estado o territorio de los Estados Unidos y código SOC, la AEWR basada en la OEWS aplicable a una oportunidad de empleo H-2A.",
+      "Determinación de la AEWR Promedio",
+      "La sección 20 CFR 655.103(b) define la \"AEWR promedio\" como \"el promedio simple de la [AEWR] aplicable al SOC 45-2092 . . . y publicada por el Administrador de la OFLC de conformidad con el § 655.120\". En consecuencia, el cálculo de la AEWR promedio requiere el promedio simple de las AEWR aplicables al SOC 45-2092 en todos los estados y territorios de los Estados Unidos, según lo reportado por la encuesta OEWS, y publicado por el Administrador de la OFLC. Dado que el texto reglamentario especifica que el promedio simple debe calcularse a partir de las AEWR \"aplicables al SOC 45-2092\", el cálculo abarca la suma del conjunto completo de las AEWR aplicables en ambos niveles de habilidad, sin ninguno de los ajustes estandarizados mencionados anteriormente, dividida entre el número de AEWR aplicables al SOC 45-2092 incluidas en la hoja de cálculo con función de búsqueda publicada en la URL antes mencionada. Por lo tanto, la AEWR promedio actual determinada ( página impresa 48948) conforme al 20 CFR 655.103(b), que se utiliza para calcular los montos de fianza requeridos conforme al 20 CFR 655.132(c)(2)(ii), es de $15.96 y también está disponible en la siguiente URL: https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates.",
+      "(Autoridad: 20 CFR 655.120(b)(4); 20 CFR 655.103(b))",
+      "Marek Laco,",
+      "Secretaria Auxiliar Interina de Empleo y Capacitación, Trabajo.",
+      "Notas al pie",
+      "1. Véase 90 FR 47914 (2 de octubre de 2025).",
+      "Volver a la cita",
+      "2. El OEWS reporta el salario bruto promedio por hora a nivel anual para cada estado o territorio de los Estados Unidos, agregado en los siguientes códigos SOC contenidos dentro de la categoría de agricultura y ganadería (combinada): 45-2041 Clasificadores y Seleccionadores de Productos Agrícolas; 45-2091 Operadores de Equipo Agrícola; 45-2092 Trabajadores Agrícolas y Jornaleros de Cultivos, Viveros e Invernaderos; 45-2093 Trabajadores de Granjas, Ranchos y Animales Acuícolas; y 53-7064 Empacadores y Embaladores Manuales.",
+      "Volver a la cita",
+      "3. Véase 20 CFR 655.120(b)(1)(iv) (\"Para efectos de los párrafos (b)(1)(i) y (ii) de esta sección, el término Estado y a nivel estatal incluyen los 50 Estados, el Distrito de Columbia, Guam, Puerto Rico y las Islas Vírgenes de los Estados Unidos.\")",
+      "Volver a la cita",
+      "4. Véase la Oficina de Estadísticas Laborales (Bureau of Labor Statistics), datos de Estadísticas Ocupacionales de Empleo y Salarios (OEWS), Bases de Datos del OEWS (15 de mayo de 2026), disponible en https://www.bls.gov/​oes/​data.htm. Tenga en cuenta que los datos del OEWS publicados representan estimaciones de mayo de 2025.",
+      "Volver a la cita",
+      "[FR Doc. 2026-15673 Presentado 7-31-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 4510-FP-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "颁布并签署该文件的机构",
+      "该文件修订、拟修订或直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "监管信息编号(RIN),用于标识《联邦监管与放松监管行动统一议程》中列明的每项监管行动",
+      "有关更多详情,请参阅《文件起草手册》。",
+      "美国劳工部",
+      "就业与培训管理局",
+      "机构:",
+      "美国劳工部就业与培训管理局。",
+      "行动:",
+      "通知。",
+      "摘要:",
+      "美国劳工部(DOL)就业与培训管理局(ETA)发布本通知,宣布更新用于临时或季节性外国劳工(H-2A工人)从事非放牧类农业劳动或服务的不利影响工资率(AEWR)。不利影响工资率是雇主必须向H-2A工人及对应就业工人提供、在招聘中公布并实际支付的最低工资率,以确保美国境内从事类似工作的工人的工资和工作条件不受到不利影响。",
+      "日期:",
+      "这些工资率自2026年8月3日起生效。但是,对于受《堪萨斯州等诉美国劳工部案》(749 F. Supp. 3d 1363(S.D. Ga. 2024))法院裁定约束的实体和州,这些工资率自2026年8月17日起生效。",
+      "如需进一步信息,请联系:",
+      "布莱恩·帕斯特纳克(Brian Pasternak),海外劳工认证办公室(OFLC)主任,电子邮箱:ETA.OFLC.Forms@dol.gov。",
+      "补充信息:",
+      "根据临时最终规则《美国非放牧类职业H-2A非移民临时雇佣不利影响工资率方法》(2025年AEWR临时最终规则)[1]所确立的方法(见第48947页),本通知使用美国劳工统计局(BLS)职业就业与工资统计(OEWS)调查的工资数据作为所有非放牧类不利影响工资率确定的基础,对不利影响工资率进行更新。该方法根据两个技能类别确定不利影响工资率,并相应地规定了住房调整,该调整仅适用于根据临时农业劳动认证对H-2A工人支付报酬的情形,符合监管要求。在本通知中,劳工部还宣布更新平均不利影响工资率,该平均工资率用于计算对H-2A劳工承包商所需保证金金额的调整。",
+      "美国国土安全部下属的美国公民及移民服务局(USCIS)将不会批准雇主为在美国境内接纳H-2A非移民临时季节性农业工人而提交的申请,除非申请人已从劳工部获得H-2A劳工认证。该劳工认证须证明:(1)不存在足够数量的、有能力、愿意并符合资格,且将在申请所需的时间和地点可供从事申请所涉劳动或服务的美国工人;以及(2)雇用外国工人从事此类劳动或服务不会对美国境内从事类似工作的工人的工资和工作条件产生不利影响。参见8 U.S.C. 1101(a)(15)(H)(ii)(a)、1184(c)(1)及1188(a);8 CFR 214.2(h)(5);20 CFR 655.100。",
+      "劳工部H-2A法规20 CFR 655.120及655.122(l)规定,对于非放牧类职业,雇主必须向其H-2A工人及对应就业工人支付不低于各项特定工资来源(包括不利影响工资率)中最高者的工资。此外,当不利影响工资率在工作合同期间更新时,若更新后的不利影响工资率高于此前各项工资率(包括该作物活动或农业活动及该活动和地理区域内特定工作任务(如适用)的现行工资率、议定的集体谈判工资、联邦最低工资率或州最低工资率)中的最高者,雇主必须自新不利影响工资率生效之日起支付不低于该更新后不利影响工资率的工资。参见20 CFR 655.120(b)(5)。同样,当不利影响工资率在工作合同期间更新且低于工作订单所保证的工资率时,雇主必须继续支付不低于工作订单所保证的工资率。参见20 CFR 655.120(b)(6)。",
+      "根据《2025年不利影响工资率临时最终规则》(2025 AEWR IFR),非放牧类农业职业的不利影响工资率(AEWR)系使用劳工统计局(BLS)职业就业与工资统计(OEWS)调查的工资数据确定。该方法以美国各州或领地的年平均每小时总工资为基础,按两个技能或资格等级确定H-2A工作机会的不利影响工资率:技能等级一(入门级)和技能等级二(经验级)。技能等级一不利影响工资率适用于最低资格要求与入门级职位相符的工作机会,即不要求工人具备正规教育或专业培训资历。技能等级二不利影响工资率适用于要求具备与经验丰富或已完全胜任的工人相当资格的工作机会,此类工人通过教育、培训或经验已证明具备履行H-2A工作机会职责所需的技能或知识。大多数工作机会的不利影响工资率将继续按照构成田间与牲畜工人(合并)类别的五个标准职业分类(SOC)代码进行分类。[2]",
+      "现行法规要求外国劳工认证办公室(OFLC)主任每日历年至少在《联邦公报》上发布一次通知,以确定每一组不利影响工资率及相应的住房补偿调整。参见20 CFR 655.120(b)(4)。",
+      "使用OEWS数据确定不利影响工资率",
+      "根据20 CFR 655.120(b)(1)(i)的规定,田间与牲畜工人(合并)类别内各职业的不利影响工资率,系使用OEWS调查报告的相关SOC代码的全州[3]年平均每小时工资计算得出。若OEWS未报告某美国州或领地在任一技能等级下的全州年平均每小时总工资,则田间与牲畜工人(合并)类别的不利影响工资率应为OEWS调查报告的该技能等级的全国年平均每小时总工资。",
+      "同样,依照20 CFR 655.120(b)(1)(ii)的规定,所有其他职业的不利影响工资率系根据OEWS调查报告的该州或相当的辖区或领地相应SOC代码的全州年平均每小时总工资确定。若OEWS调查未报告该州在任一技能等级下的全州年平均每小时总工资,则每个SOC代码的不利影响工资率应为OEWS调查报告的该职业在该技能等级下的全国年平均每小时总工资。",
+      "根据最近发布的OEWS调查结果,[4]外国劳工认证办公室主任现发布适用于所有非放牧类H-2A工作机会的全州每小时不利影响工资率。此外,美国劳工部(DOL)正在更新并披露适用于不利影响工资率的全州向下补偿调整幅度,该调整仅可适用于依照20 CFR 655.120(b)(3)规定获得免费住房的H-2A工人。根据20 CFR 655.120(b)确定的所有每小时不利影响工资率,均可按SOC代码及地理区域在以下网址查询:https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates。在该网址上,劳工部提供可搜索的电子表格及其他资源,供相关方按美国州或领地及SOC代码查询适用于某H-2A工作机会的基于OEWS数据的不利影响工资率。",
+      "平均不利影响工资率的确定",
+      "20 CFR 655.103(b)条将“平均不利影响工资率”定义为“适用于SOC 45-2092职业,并由外国劳工认证办公室主任依照第655.120条发布的[不利影响工资率]之简单平均值”。因此,平均不利影响工资率的计算须取美国各州及领地中适用于SOC 45-2092职业的不利影响工资率(按OEWS调查报告并由外国劳工认证办公室主任发布)之简单平均值。由于该法规条文明确规定简单平均值须取自“适用于SOC 45-2092”的不利影响工资率,该计算涵盖两个技能等级下全部适用不利影响工资率之总和(不含上述任何标准化调整),再除以前述网址所发布的可搜索电子表格中所列适用于SOC 45-2092的不利影响工资率数量。因此,目前依照20 CFR 655.103(b)条确定的平均不利影响工资率(第48948页)为15.96美元,该数值用于计算20 CFR 655.132(c)(2)(ii)条所要求的保证金数额,亦可在以下网址查询:https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates。",
+      "(依据:20 CFR 655.120(b)(4);20 CFR 655.103(b))",
+      "马雷克·拉科(Marek Laco),",
+      "代理就业和培训助理部长,劳工部。",
+      "脚注",
+      "1. 见90 FR 47914(2025年10月2日)。",
+      "返回引文",
+      "2. 职业就业和工资统计调查(OEWS)报告每个美国州或领地在以下归入大田作物和牲畜(合并)类别的标准职业分类(SOC)中的年平均小时总工资:45-2041 农产品分级员和分拣员;45-2091 农业设备操作员;45-2092 农场、苗圃和温室作物工人及劳工;45-2093 农场、牧场和水产养殖动物工人;以及53-7064 手工包装工和装箱工。",
+      "返回引文",
+      "3. 见20 CFR 655.120(b)(1)(iv)(“就本节第(b)(1)(i)项和第(ii)项而言,州和全州一词包括50个州、哥伦比亚特区、关岛、波多黎各和美属维尔京群岛。”)",
+      "返回引文",
+      "4. 见劳工统计局(Bureau of Labor Statistics),职业就业和工资统计(OEWS)数据,OEWS数据库(2026年5月15日),可查阅网址:https://www.bls.gov/​oes/​data.htm。请注意,所发布的OEWS数据代表2025年5月的估计值。",
+      "返回引文",
+      "[FR Doc. 2026-15673 Filed 7-31-26; 8:45 am]",
+      "BILLING CODE 4510-FP-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発行し署名した機関または機関群",
+      "文書が改正し、改正を提案し、または直接関連する連邦規則集(CFR)の編番号及び各部の番号",
+      "機関の事件番号/機関内部ファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに記載される各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブックを参照のこと。",
+      "労働省",
+      "雇用訓練局",
+      "機関:",
+      "労働省雇用訓練局。",
+      "措置:",
+      "通知。",
+      "要旨:",
+      "労働省(DOL)の雇用訓練局(ETA)は、非放牧職種において農業労働又はサービスを行う一時的又は季節的な非移民外国人労働者(H-2A労働者)の雇用に関する逆影響賃金率(AEWR)の更新を公表するため、本通知を発出する。AEWRとは、米国内で同様に雇用される労働者の賃金及び労働条件に悪影響が及ばないようにするため、雇用主がH-2A労働者及び対応雇用の労働者に対して提示し、募集広告に掲載し、かつ支払わなければならない最低賃金率である。",
+      "日付:",
+      "これらの賃金率は2026年8月3日から適用される。ただし、カンザス州他対米国労働省事件(749 F. Supp. 3d 1363 (S.D. Ga. 2024))の裁判所命令の対象となる事業体及び州については、これらの賃金率は2026年8月17日から適用される。",
+      "問い合わせ先:",
+      "ブライアン・パスターナク、海外労働者証明局(OFLC)局長、電子メール:ETA.OFLC.Forms@dol.gov。",
+      "補足情報:",
+      "暫定最終規則「米国における非放牧職種のH-2A非移民の一時的雇用に関する逆影響賃金率算定方法」(2025年AEWR暫定最終規則)[1](印刷ページ48947)において確立された算定方法と整合的に、本通知は、全ての非放牧職種のAEWR決定の基礎として労働統計局(BLS)の職業別雇用賃金統計(OEWS)調査による賃金データを用いてAEWRを更新するものである。この算定方法は、規制上の要件と整合的に、一時的農業労働証明に基づきH-2A労働者に報酬を支払う場合にのみ適用される対応する住宅手当調整を伴う、2つの技能別区分に基づいてAEWRを定めるものである。本通知において、DOLは、H-2A労働力請負業者に求められる保証金額の調整を算定するために用いられる平均AEWRの更新についても公表する。",
+      "国土安全保障省の米国市民権移民局は、申請者が労働省からH-2A労働証明を受けていない限り、米国内でのH-2A非移民一時的及び季節的農業労働者の入国のための雇用主の申請を承認しない。労働証明は次の事項を証するものである。すなわち、(1)申請に関わる労働又はサービスを遂行するために必要な時期及び場所において利用可能であり、かつ、その能力、意欲及び資格を有する米国人労働者が十分に存在しないこと、及び(2)当該労働又はサービスにおける外国人労働者の雇用が、米国内で同様に雇用される労働者の賃金及び労働条件に悪影響を及ぼさないことである。8 U.S.C. 1101(a)(15)(H)(ii)(a)、1184(c)(1)及び1188(a)、8 CFR 214.2(h)(5)、20 CFR 655.100を参照のこと。",
+      "20 CFR 655.120及び655.122(l)に定める労働省のH-2A規則は、非放牧職種について、雇用主がH-2A労働者及び対応雇用の労働者に対し、AEWRを含む種々の指定された賃金情報源のうち最も高いものを少なくとも支払わなければならないと規定している。さらに、就労契約期間中にAEWRが更新された場合、更新後のAEWRが、それまでのAEWR、当該作物活動若しくは農業活動及び(該当する場合)当該活動及び地理的地域において行われる個別の作業内容についての一般的賃金率、合意済みの団体交渉賃金、連邦最低賃金率、又は州最低賃金率のうち最も高いものを上回る場合には、雇用主は、新たなAEWRの発効日から、少なくとも当該更新後のAEWRを支払わなければならない。20 CFR 655.120(b)(5)を参照のこと。同様に、就労契約期間中にAEWRが更新され、それが求人票上で保証されている賃金率より低い場合には、雇用主は、少なくとも求人票上で保証されている賃金率を引き続き支払わなければならない。20 CFR 655.120(b)(6)を参照のこと。",
+      "2025年AEWR暫定最終規則(IFR)に従い、非放牧農業職種に係るAEWRは、BLSのOEWS調査からの賃金データを使用して決定される。この方法論は、米国の各州または準州について、2つの技能または資格水準、すなわち技能水準I(初級水準)および技能水準II(経験水準)に区分した年間平均時給総額を用いて、H-2A求人機会に係るAEWRを決定するものである。技能水準IのAEWRは、労働者が正規の教育または専門的な訓練資格を有することを要しない初級職に相当する最低資格要件を持つ求人機会に適用される。技能水準IIのAEWRは、教育、訓練または経験を通じて、当該H-2A求人機会の職務を遂行するために必要な技能または知識を有することを示した経験豊富な、またはその他の意味で完全に習熟した労働者に相当する資格を要する求人機会に適用される。大半の求人機会に係るAEWRは、引き続き、圃場および家畜労働者(統合)区分を構成する5つの標準職業分類(SOC)コード内に分類される。[2]",
+      "現行規則は、OFLC局長に対し、各AEWR一式および対応する住居費調整額を設定するため、暦年ごとに少なくとも1回、連邦官報告示を公表することを義務付けている。20 CFR 655.120(b)(4)を参照のこと。",
+      "OEWSデータを用いたAEWR決定",
+      "20 CFR 655.120(b)(1)(i)に従い、圃場および家畜労働者(統合)区分内の職種に係るAEWRは、該当するSOCコードについてOEWS調査により報告された州全体[3]の年間平均時給を用いて算出される。いずれかの技能水準において、米国の州または準州における州全体の年間平均時給総額がOEWSにより報告されていない場合、圃場および家畜労働者(統合)区分に係るAEWRは、OEWS調査により報告された当該技能水準における全国年間平均時給総額とする。",
+      "同様に、20 CFR 655.120(b)(1)(ii)に整合する形で、その他すべての職種に係るAEWRは、OEWS調査により報告された当該州、または同等の地区もしくは準州に係るSOCコードの州全体の年間平均時給総額を用いて決定される。いずれかの技能水準において、当該州における州全体の年間平均時給総額がOEWS調査により報告されていない場合、各SOCに係るAEWRは、OEWS調査により報告された当該技能水準における当該職種の全国年間平均時給総額とする。",
+      "直近に公表されたOEWS調査[4]に基づき、OFLC局長は、すべての非放牧H-2A求人機会に適用される州全体の時給AEWRを公表するものである。さらに、労働省(DOL)は、20 CFR 655.120(b)(3)に従い無償で住居を提供されるH-2A労働者にのみ適用され得る、適用AEWRに対する州全体の下方補償調整額を更新し、開示するものである。20 CFR 655.120(b)に基づき決定されたすべての時給AEWRは、各SOCコードおよび地理的地域について、以下のURLで入手可能である。https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates。当該URLにおいて、DOLは、関係者が米国の州または準州およびSOCコードにより、H-2A求人機会に適用されるOEWSに基づくAEWRを検索できる検索可能な表計算シートおよびその他の資料を提供している。",
+      "平均AEWRの決定",
+      "20 CFR 655.103(b)は、「平均AEWR」を「SOC45-2092に適用され・・・かつOFLC局長が第655.120条に従って公表する[AEWR]の単純平均」と定義している。したがって、平均AEWRの算定には、OEWS調査により報告され、OFLC局長により公表された、米国のすべての州および準州にわたるSOC45-2092に適用されるAEWRの単純平均が必要とされる。規則本文が、単純平均は「SOC45-2092に適用される」AEWRにわたって取得されなければならないと定めていることから、当該算定は、上記で言及した標準化調整を一切適用しない、両技能水準にわたる適用AEWRの全体の合計を、前述のURLで公表されている検索可能な表計算シートに含まれるSOC45-2092に適用されるAEWRの数で除したものを対象とする。したがって、20 CFR 655.132(c)(2)(ii)に基づき必要とされる保証金額の算定に使用される、20 CFR 655.103(b)に基づき決定された現行の平均AEWR(印刷ページ48948)は15.96ドルであり、これも以下のURLで入手可能である。https://flag.dol.gov/​wage-data/​adverse-effect-wage-rates。",
+      "(根拠法令:20 CFR 655.120(b)(4)、20 CFR 655.103(b))",
+      "マレク・ラコ",
+      "雇用訓練担当次官補代理、労働省。",
+      "脚注",
+      "1. 90 FR 47914（2025年10月2日）を参照。",
+      "引用箇所に戻る",
+      "2. OEWSは、圃場作業及び家畜（統合）区分に含まれる以下の標準職業分類（SOC）を集計した、各米国州又は準州における年間平均時間給総額を報告している。45-2041 農産物等級分類工及び選別工、45-2091 農業機械運転工、45-2092 作物・苗圃・温室農場労働者、45-2093 農場・牧場・水産養殖動物農場労働者、及び53-7064 梱包工（手作業）。",
+      "引用箇所に戻る",
+      "3. 20 CFR 655.120(b)(1)(iv)を参照（「本項(b)(1)(i)及び(ii)の目的上、『州』及び『州全域』という用語には、50州、コロンビア特別区、グアム、プエルトリコ及び米領ヴァージン諸島が含まれる。」）",
+      "引用箇所に戻る",
+      "4. 労働統計局、職業雇用賃金統計（OEWS）データ、OEWSデータベース（2026年5月15日）、https://www.bls.gov/​oes/​data.htm で入手可能。公表されたOEWSデータは2025年5月の推計値である点に留意されたい。",
+      "引用箇所に戻る",
+      "[FR Doc. 2026-15673 2026年7月31日午前8時45分提出]",
+      "請求コード 4510-FP-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

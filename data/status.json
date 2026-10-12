@@ -38,7 +38,7 @@
     },
     "state_press": {
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -73,14 +73,13 @@
     }
   },
   "translate": {
-    "done": 0,
+    "done": 12,
     "failed": 0,
     "key": true,
     "fail_streak": 0
   },
   "retries": {
     "68dbb2e68b49": 2,
-    "94903a11eff4": 1,
-    "e023b2c4be13": 1
+    "9855dd559209": 1
   }
 }
