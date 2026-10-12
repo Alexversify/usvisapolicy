@@ -21,6 +21,26 @@
     "added": "2026-10-10T13:02Z"
   },
   {
+    "id": "f09adf1947de",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/12/dhs-releases-new-data-revealing-new-york-has-refused-honor-more-16000-ice-detainers",
+    "published": "2026-10-12",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainers",
+      "Sanctuary Policy",
+      "New York",
+      "DHS Statement"
+    ],
+    "added": "2026-10-12T16:13Z"
+  },
+  {
     "id": "0636e9837095",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york",
