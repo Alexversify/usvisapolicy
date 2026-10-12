@@ -1010,6 +1010,26 @@
     ]
   },
   {
+    "id": "68dbb2e68b49",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/launch-of-online-visa-fraud-tip-portal/",
+    "published": "2026-09-23",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Visa Fraud",
+      "Consular Affairs",
+      "Reporting Portal"
+    ],
+    "added": "2026-10-12T21:35Z"
+  },
+  {
     "id": "ca9ec3434946",
     "source": "uscis_policy_manual",
     "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260923-CriminalInadmissibility.pdf",
@@ -1345,6 +1365,27 @@
     "topics": [
       "travel"
     ]
+  },
+  {
+    "id": "9855dd559209",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/announcement-of-new-visa-restriction-policy-targeting-foreign-nationals-involved-in-race-based-discrimination/",
+    "published": "2026-09-15",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "Visa Restriction",
+      "South Africa",
+      "Section 212(a)(3)(C)",
+      "Travel Ban"
+    ],
+    "added": "2026-10-12T21:36Z"
   },
   {
     "id": "592db69f42b6",
@@ -3005,6 +3046,27 @@
     "added": "2026-10-12T21:00Z"
   },
   {
+    "id": "eb928b20229f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/defendants-sentenced-in-visa-fraud-and-conspiracy-case",
+    "published": "2026-07-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Visa Fraud",
+      "Green Card",
+      "I-130"
+    ],
+    "added": "2026-10-12T21:37Z"
+  },
+  {
     "id": "f7336d3ce29d",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13349/foreign-terrorist-organization-designation-of-chone-killers",
@@ -3141,5 +3203,230 @@
       "CNMI"
     ],
     "added": "2026-10-12T21:23Z"
+  },
+  {
+    "id": "5bed811cbb2f",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260626-ReligiousWorkersPeriodOfStay.pdf",
+    "published": "2026-06-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "R-1",
+      "Religious Workers",
+      "Policy Manual"
+    ],
+    "added": "2026-10-12T21:41Z"
+  },
+  {
+    "id": "214901200c3b",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/important-notice-for-clients-of-former-immigration-attorney-alexandra-lozano",
+    "published": "2026-06-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "other",
+      "family",
+      "humanitarian"
+    ],
+    "tags": [
+      "Attorney Discipline",
+      "Address Change",
+      "VAWA",
+      "U Visa",
+      "T Visa"
+    ],
+    "added": "2026-10-12T21:40Z"
+  },
+  {
+    "id": "ba05052b09f5",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12756/delegation-of-authority-to-the-coordinator-for-counterterrorism-to-review-and-deny-petitions-for",
+    "published": "2026-06-25",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Delegation of Authority",
+      "Counterterrorism"
+    ],
+    "added": "2026-10-12T21:42Z"
+  },
+  {
+    "id": "83150c1eb0a6",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12542/naturalization-application-fee-adjustments",
+    "published": "2026-06-23",
+    "effective_date": null,
+    "importance": "high",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "citizenship",
+      "fees"
+    ],
+    "tags": [
+      "N-400",
+      "N-336",
+      "Fees",
+      "Naturalization",
+      "Fee Waiver"
+    ],
+    "added": "2026-10-12T21:43Z"
+  },
+  {
+    "id": "83cf844dce70",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12399/rescinding-portions-of-dhs-title-vi-regulations-to-conform-more-closely-with-the-statutory-text-and",
+    "published": "2026-06-22",
+    "effective_date": "2026-06-22",
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Title VI",
+      "Civil Rights",
+      "DHS"
+    ],
+    "added": "2026-10-12T21:52Z"
+  },
+  {
+    "id": "f79647f398d8",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/06/18/2026-12435/national-homeownership-month-2026",
+    "published": "2026-06-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Proclamation",
+      "Homeownership"
+    ],
+    "added": "2026-10-12T21:56Z"
+  },
+  {
+    "id": "2b0c32f48c1a",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/06/18/2026-12436/flag-day-and-national-flag-week-2026",
+    "published": "2026-06-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Flag Day",
+      "Proclamation"
+    ],
+    "added": "2026-10-12T21:55Z"
+  },
+  {
+    "id": "a7877cde210c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/court-order-on-hold-policies",
+    "published": "2026-06-12",
+    "effective_date": "2026-06-11",
+    "importance": "high",
+    "category": "policy",
+    "agency": "courts",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Court Order",
+      "Travel Ban",
+      "Policy Memoranda",
+      "Rhode Island"
+    ],
+    "added": "2026-10-12T22:00Z"
+  },
+  {
+    "id": "39429657dd16",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-us-citizenship-from-17-naturalized-sex-offenders-fraudsters-drug",
+    "published": "2026-06-12",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement",
+      "h1b"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Citizenship",
+      "Enforcement",
+      "Naturalization Fraud"
+    ],
+    "added": "2026-10-12T21:58Z"
+  },
+  {
+    "id": "eb669ef9341f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11692/eoir-fees",
+    "published": "2026-06-11",
+    "effective_date": "2026-06-11",
+    "importance": "high",
+    "category": "fees",
+    "agency": "doj",
+    "topics": [
+      "fees",
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "EOIR",
+      "Fees",
+      "Immigration Court",
+      "OBBBA",
+      "BIA Appeals"
+    ],
+    "added": "2026-10-12T22:01Z"
+  },
+  {
+    "id": "41cb54508d08",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
+    "published": "2026-06-09",
+    "effective_date": "2026-07-01",
+    "importance": "medium",
+    "category": "fees",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "fees"
+    ],
+    "tags": [
+      "B1/B2",
+      "Visa Fees",
+      "Expedited Appointment",
+      "Department of State"
+    ],
+    "added": "2026-10-12T22:04Z"
   }
 ]

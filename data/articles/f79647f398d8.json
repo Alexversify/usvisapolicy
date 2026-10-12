@@ -1,0 +1,205 @@
+{
+  "id": "f79647f398d8",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/06/18/2026-12435/national-homeownership-month-2026",
+  "original_title": "National Homeownership Month, 2026",
+  "published": "2026-06-18",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Proclamation",
+    "Homeownership"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "2026년 국가 주택 소유의 달 기념 포고문 발표",
+      "summary": "백악관은 2026년 6월을 국가 주택 소유의 달로 선포하는 대통령 포고문을 발표했습니다. 이 문서는 주택 정책과 관련된 행정부의 입장을 밝히는 상징적 성격의 선언으로, 이민 정책상의 구체적인 변경 사항은 포함하고 있지 않습니다.",
+      "points": [
+        "이 포고문은 2026년 6월을 국가 주택 소유의 달로 지정하는 상징적 선언입니다.",
+        "내용 중 불법 이민이 주택 공급난의 원인 중 하나로 언급되지만 구체적인 이민 정책 변경 사항은 없습니다.",
+        "연방 주택 프로그램 및 기관 투자자 관련 행정부 정책 방향이 언급되어 있습니다.",
+        "비자, 이민 신청 절차, 수수료 등 실질적 이민법 변경 사항은 포함되어 있지 않습니다."
+      ],
+      "who": "이 포고문은 미국 비자 신청자나 이민 신청 절차에 직접적인 영향을 미치지 않습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "White House Proclaims June 2026 as National Homeownership Month",
+      "summary": "The White House issued a presidential proclamation declaring June 2026 as National Homeownership Month. The document is a symbolic statement on housing policy and does not contain any specific immigration policy changes.",
+      "points": [
+        "The proclamation formally designates June 2026 as National Homeownership Month.",
+        "Illegal immigration is mentioned in passing as a factor the administration says strained housing supply.",
+        "The text references administration policies on federal housing programs and institutional investors in the housing market.",
+        "No visa, immigration filing, or fee changes are included in this document."
+      ],
+      "who": "This proclamation does not directly affect visa applicants or immigration processes.",
+      "action": ""
+    },
+    "es": {
+      "title": "La Casa Blanca proclama junio de 2026 como el Mes Nacional de la Vivienda Propia",
+      "summary": "La Casa Blanca emitio una proclama presidencial que declara junio de 2026 como el Mes Nacional de la Vivienda Propia. El documento es una declaracion simbolica sobre politica de vivienda y no contiene cambios especificos en materia migratoria.",
+      "points": [
+        "La proclama designa formalmente junio de 2026 como el Mes Nacional de la Vivienda Propia.",
+        "Se menciona de forma breve la inmigracion ilegal como un factor que, segun la administracion, afecto la oferta de vivienda.",
+        "El texto hace referencia a politicas de la administracion sobre programas federales de vivienda e inversionistas institucionales.",
+        "No se incluyen cambios en visas, tramites migratorios ni tarifas en este documento."
+      ],
+      "who": "Esta proclama no afecta directamente a solicitantes de visa ni a procesos migratorios.",
+      "action": ""
+    },
+    "zh": {
+      "title": "白宫宣布2026年6月为全国住房拥有月",
+      "summary": "白宫发布总统公告,宣布2026年6月为全国住房拥有月。该文件是关于住房政策的象征性声明,不包含任何具体的移民政策变化。",
+      "points": [
+        "该公告正式将2026年6月指定为全国住房拥有月。",
+        "文件中简要提到非法移民是政府所称造成住房供应紧张的因素之一。",
+        "文本提及政府在联邦住房项目及机构投资者方面的政策方向。",
+        "该文件不涉及任何签证、移民申请程序或费用变化。"
+      ],
+      "who": "此公告不会直接影响签证申请人或移民程序。",
+      "action": ""
+    },
+    "ja": {
+      "title": "ホワイトハウス、2026年6月を全国持ち家月間と宣言",
+      "summary": "ホワイトハウスは2026年6月を全国持ち家月間と宣言する大統領布告を発表しました。この文書は住宅政策に関する象徴的な声明であり、具体的な移民政策の変更は含まれていません。",
+      "points": [
+        "この布告は2026年6月を正式に全国持ち家月間と指定するものです。",
+        "文中では不法移民が住宅供給を圧迫した要因の一つとして簡単に言及されています。",
+        "連邦住宅プログラムや機関投資家に関する政権の政策方針について触れています。",
+        "ビザ、移民申請手続き、手数料に関する変更はこの文書には含まれていません。"
+      ],
+      "who": "この布告はビザ申請者や移民手続きに直接影響を与えるものではありません。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-12T21:56Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Proclamation 11036 of June 12, 2026"
+      },
+      {
+        "t": "h",
+        "x": "National Homeownership Month, 2026"
+      },
+      {
+        "t": "p",
+        "x": "A Proclamation"
+      },
+      {
+        "t": "p",
+        "x": "During National Homeownership Month, my Administration recommits to making housing more affordable so that young Americans and hardworking families can raise children, build memories, and create a future in a home of their own."
+      },
+      {
+        "t": "p",
+        "x": "For too long, reckless spending, burdensome regulations, and failed housing policies drove up home prices and mortgage rates while mass illegal immigration and large institutional investors strained the housing supply. The result was a housing affordability crisis brought on by the failed leadership of the previous administration. Now, under my leadership, my Administration is fixing the mess we inherited and restoring the American Dream of homeownership."
+      },
+      {
+        "t": "p",
+        "x": "From the first day I returned to office, I proudly signed an Executive Order to deliver price relief to Americans crushed by the left-wing cost-of-living crisis—launching a bold new era of progress on supply, affordability, and opportunity for every hardworking family across our country. My Administration is working to restore integrity to Federal housing programs by ensuring taxpayer-sponsored loans once again reach the law-abiding citizens who truly need them, not illegal aliens and fraudsters who rob Americans of more affordable housing options. I have also directed Fannie Mae and Freddie Mac to purchase $200 billion in mortgage-backed securities to further drive down borrowing costs so that more of our citizens can achieve homeownership."
+      },
+      {
+        "t": "p",
+        "x": "Earlier this year, I took unprecedented action to ban large institutional investors from purchasing single-family homes, keeping more houses available for American families, not corporations. Through the Stopping Wall Street from Competing with Main Street Homebuyers Executive Order, we put prospective homebuyers back at the front of the line, directing Federal agencies to block big corporations from using Government-backed resources to outbid responsible homebuyers and unleashing the full power of antitrust enforcement to stop corporate giants from manipulating rents and pricing families out of their own neighborhoods. I call on the Congress to make these reforms permanent and pass the bipartisan 21st Century ROAD to Housing Act—the most comprehensive and consequential housing legislation in the history of our country."
+      },
+      {
+        "t": "p",
+        "x": "The victories we have achieved for American homeowners and homebuyers are unprecedented, and my Administration will never stop fighting to protect and expand them. Under my leadership, America will be a Nation where homes belong to families—not corporations—and we will never rest until the full promise and prosperity of this great Nation is felt by every hardworking citizen in a home they can proudly call their own."
+      },
+      {
+        "t": "p",
+        "x": "NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim June 2026 as National Homeownership Month. ( printed page 36960)"
+      },
+      {
+        "t": "p",
+        "x": "IN WITNESS WHEREOF, I have hereunto set my hand this twelfth day of June, in the year of our Lord two thousand twenty-six, and of the Independence of the United States of America the two hundred and fiftieth."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-12435"
+      },
+      {
+        "t": "p",
+        "x": "Filed 6-17-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 3395-F4-P"
+      }
+    ],
+    "fetched": "2026-10-12T21:56Z",
+    "from": "federalregister.gov",
+    "chars": 3300
+  },
+  "full": {
+    "ko": [
+      "2026년 6월 12일 포고 11036호",
+      "2026년 전국 자가주택 보유의 달",
+      "포고문",
+      "전국 자가주택 보유의 달을 맞이하여, 본 행정부는 젊은 미국인들과 성실히 일하는 가정들이 자녀를 키우고, 추억을 쌓으며, 자신의 집에서 미래를 설계할 수 있도록 주택을 더욱 저렴하게 만드는 데 다시 한번 전념합니다.",
+      "너무 오랫동안, 무분별한 지출과 과도한 규제, 그리고 실패한 주택 정책으로 인해 주택 가격과 주택담보대출 금리가 상승하였으며, 동시에 대규모 불법 이민과 대형 기관 투자자들이 주택 공급을 압박하였습니다. 그 결과는 전임 행정부의 실패한 리더십이 초래한 주택 구입 능력 위기였습니다. 이제 본인의 리더십 아래, 본 행정부는 물려받은 혼란을 바로잡고 자가주택 보유라는 아메리칸 드림을 회복시키고 있습니다.",
+      "본인은 집무에 복귀한 첫날부터, 좌파의 생활비 위기로 인해 고통받는 미국인들에게 물가 안정을 가져다주기 위한 행정명령에 자랑스럽게 서명하여, 우리 나라 전역의 모든 성실히 일하는 가정을 위한 공급, 구입 가능성, 그리고 기회에 관한 대담하고 새로운 발전의 시대를 열었습니다. 본 행정부는 납세자가 지원하는 대출이 미국인들로부터 더 저렴한 주택 선택권을 빼앗는 불법체류 외국인이나 사기꾼이 아니라, 진정으로 이를 필요로 하는 준법 시민들에게 다시 돌아가도록 함으로써 연방 주택 프로그램의 공정성을 회복하기 위해 노력하고 있습니다. 본인은 또한 연방주택저당공사(Fannie Mae)와 연방주택대출저당공사(Freddie Mac)에 2,000억 달러 규모의 주택저당증권을 매입하도록 지시하여 차입 비용을 더욱 낮춤으로써 더 많은 국민이 자가주택을 보유할 수 있도록 하였습니다.",
+      "본인은 올해 초, 대형 기관 투자자들이 단독주택을 매입하는 것을 금지하는 전례 없는 조치를 취하여, 더 많은 주택이 기업이 아닌 미국 가정을 위해 남아 있도록 하였습니다. 월스트리트가 메인스트리트 주택 구매자와 경쟁하는 것을 막기 위한 행정명령을 통해, 본인은 예비 주택 구매자들을 다시 우선순위에 두었으며, 연방 기관들에게 대기업이 정부 지원 자원을 이용하여 책임감 있는 주택 구매자들의 입찰을 압도하지 못하도록 지시하고, 반독점 집행의 모든 역량을 발동하여 대기업들이 임대료와 가격을 조작하여 가정들을 자신의 동네에서 밀어내는 것을 막도록 하였습니다. 본인은 의회에 이러한 개혁을 영구적으로 제도화하고, 우리 나라 역사상 가장 포괄적이고 중대한 주택 관련 법안인 초당적 21세기 주택을 향한 로드 법(21st Century ROAD to Housing Act)을 통과시킬 것을 촉구합니다.",
+      "미국의 주택 소유자들과 주택 구매자들을 위해 본 행정부가 이루어 낸 성과는 전례가 없는 것이며, 본 행정부는 이를 보호하고 확대하기 위한 노력을 결코 멈추지 않을 것입니다. 본인의 리더십 아래, 미국은 주택이 기업이 아닌 가정에 속하는 나라가 될 것이며, 이 위대한 나라의 완전한 약속과 번영이 자랑스럽게 자신의 집이라 부를 수 있는 모든 성실히 일하는 시민에게 체감될 때까지 결코 멈추지 않을 것입니다.",
+      "이에 따라, 본인 도널드 J. 트럼프, 미합중국 대통령은 미합중국 헌법과 법률이 본인에게 부여한 권한에 의거하여, 2026년 6월을 전국 자가주택 보유의 달로 선포합니다. (인쇄본 36960쪽)",
+      "이를 증명하기 위하여, 본인은 서기 2026년, 미합중국 독립 250주년이 되는 해 6월 12일, 이에 서명합니다.",
+      "[FR Doc. 2026-12435",
+      "제출일: 2026년 6월 17일 오전 11시 15분]",
+      "청구 코드 3395-F4-P"
+    ],
+    "es": [
+      "Proclamación 11036 del 12 de junio de 2026",
+      "Mes Nacional de la Vivienda Propia, 2026",
+      "Una Proclamación",
+      "Durante el Mes Nacional de la Vivienda Propia, mi Administración se compromete nuevamente a lograr que la vivienda sea más asequible, de modo que los jóvenes estadounidenses y las familias trabajadoras puedan criar a sus hijos, crear recuerdos y forjar un futuro en un hogar propio.",
+      "Durante demasiado tiempo, el gasto irresponsable, las regulaciones onerosas y las políticas de vivienda fallidas elevaron los precios de las viviendas y las tasas hipotecarias, mientras que la inmigración ilegal masiva y los grandes inversionistas institucionales ejercieron presión sobre la oferta de vivienda. El resultado fue una crisis de asequibilidad de vivienda provocada por el liderazgo fallido de la administración anterior. Ahora, bajo mi liderazgo, mi Administración está corrigiendo el desorden que heredamos y restaurando el Sueño Americano de la vivienda propia.",
+      "Desde el primer día en que regresé al cargo, firmé con orgullo una Orden Ejecutiva para brindar alivio de precios a los estadounidenses agobiados por la crisis del costo de vida provocada por la izquierda, iniciando una nueva y audaz era de progreso en materia de oferta, asequibilidad y oportunidad para cada familia trabajadora en todo nuestro país. Mi Administración está trabajando para restaurar la integridad de los programas federales de vivienda, asegurando que los préstamos financiados por los contribuyentes lleguen nuevamente a los ciudadanos respetuosos de la ley que realmente los necesitan, y no a los extranjeros ilegales y estafadores que privan a los estadounidenses de opciones de vivienda más asequibles. También he instruido a Fannie Mae y Freddie Mac para que compren 200 mil millones de dólares en valores respaldados por hipotecas, con el fin de reducir aún más los costos de los préstamos para que más de nuestros ciudadanos puedan lograr la vivienda propia.",
+      "A principios de este año, tomé una medida sin precedentes para prohibir que los grandes inversionistas institucionales compraran viviendas unifamiliares, manteniendo más casas disponibles para las familias estadounidenses, y no para las corporaciones. A través de la Orden Ejecutiva para Detener que Wall Street Compita con los Compradores de Vivienda de Main Street, pusimos nuevamente a los posibles compradores de vivienda al frente de la fila, instruyendo a las agencias federales para que impidan que las grandes corporaciones utilicen recursos respaldados por el Gobierno para superar las ofertas de compradores responsables, y desplegando todo el poder de la aplicación de las leyes antimonopolio para impedir que los gigantes corporativos manipulen los alquileres y expulsen a las familias de sus propios vecindarios debido a los precios. Hago un llamado al Congreso para que haga permanentes estas reformas y apruebe la Ley bipartidista 21st Century ROAD to Housing Act, la legislación de vivienda más integral y trascendental en la historia de nuestro país.",
+      "Las victorias que hemos logrado para los propietarios y compradores de vivienda estadounidenses no tienen precedentes, y mi Administración nunca dejará de luchar para protegerlas y ampliarlas. Bajo mi liderazgo, Estados Unidos será una Nación donde los hogares pertenezcan a las familias, no a las corporaciones, y no descansaremos hasta que la promesa plena y la prosperidad de esta gran Nación sean sentidas por cada ciudadano trabajador en un hogar que pueda llamar orgullosamente propio.",
+      "POR LO TANTO, YO, DONALD J. TRUMP, Presidente de los Estados Unidos de América, en virtud de la autoridad que me confieren la Constitución y las leyes de los Estados Unidos, proclamo por este medio el mes de junio de 2026 como el Mes Nacional de la Vivienda Propia. (página impresa 36960)",
+      "EN FE DE LO CUAL, firmo esto el día doce de junio, del año de Nuestro Señor dos mil veintiséis, y de la Independencia de los Estados Unidos de América el doscientos cincuenta.",
+      "[FR Doc. 2026-12435",
+      "Presentado el 17-6-26; 11:15 am]",
+      "Código de facturación 3395-F4-P"
+    ],
+    "zh": [
+      "2026年6月12日第11036号公告",
+      "2026年全国住房自有月",
+      "总统公告",
+      "在全国住房自有月期间,本届政府重申将致力于使住房更加可负担,以便美国年轻人和勤劳的家庭能够抚养子女、创造回忆,并在属于自己的家中建设未来。",
+      "长期以来,肆意挥霍的支出、繁重的监管规定以及失败的住房政策推高了房价和抵押贷款利率,而大规模非法移民和大型机构投资者又使住房供应雪上加霜。其结果就是前任政府领导不力所导致的住房可负担性危机。如今,在本人领导下,本届政府正在收拾我们所继承的烂摊子,重振美国人拥有住房的梦想。",
+      "从我重返总统职位的第一天起,我就自豪地签署了一项行政命令,为那些被左翼生活成本危机压得喘不过气的美国人提供价格方面的纾困,为全国每一个勤劳的家庭开启了在供应、可负担性和机遇方面取得进展的大胆新时代。本届政府正致力于恢复联邦住房项目的诚信,确保由纳税人资助的贷款重新惠及真正需要它们的守法公民,而不是那些剥夺美国人获得更可负担住房机会的非法外国人和欺诈者。我还指示房利美(Fannie Mae)和房地美(Freddie Mac)购买2000亿美元的抵押贷款支持证券,以进一步降低借贷成本,使更多公民能够实现拥有住房的愿望。",
+      "今年早些时候,我采取了前所未有的行动,禁止大型机构投资者购买单户住宅,从而为美国家庭而非企业保留更多住房。通过《阻止华尔街与主街购房者竞争》行政命令,我们将潜在购房者重新置于优先地位,指示联邦机构阻止大企业利用政府支持的资源与负责任的购房者竞价,并充分发挥反垄断执法的全部力量,阻止企业巨头操纵租金,把家庭排挤出自己所在的社区。我呼吁国会将这些改革永久化,并通过两党支持的《21世纪住房之路法案》,这是我国历史上最全面、最具影响力的住房立法。",
+      "我们为美国房主和购房者取得的胜利是前所未有的,本届政府将永不停止为保护和扩大这些成果而奋斗。在本人领导下,美国将成为一个住房属于家庭而非企业的国家,我们将永不停歇,直到这个伟大国家的全部承诺和繁荣,被每一位勤劳的公民在他们可以自豪地称之为自己的家中所感受到。",
+      "现在,因此,我,美利坚合众国总统唐纳德·J·特朗普,依据宪法和美国法律赋予本人的职权,特此宣布2026年6月为全国住房自有月。(印刷页第36960页)",
+      "我谨于公元二千零二十六年,即美利坚合众国独立第二百五十年,六月十二日,亲笔签署,以昭信守。",
+      "[联邦纪事文件编号2026-12435",
+      "存档日期:2026年6月17日上午11时15分]",
+      "印刷代码3395-F4-P"
+    ],
+    "ja": [
+      "2026年6月12日付 布告11036号",
+      "2026年全米ホームオーナーシップ月間",
+      "布告",
+      "全米ホームオーナーシップ月間において、私の政権は、若いアメリカ人と勤勉な家族が子供を育て、思い出を築き、自分自身の家で未来を創造できるよう、住宅の価格をより手頃なものにすることに改めて取り組む。",
+      "あまりにも長い間、無謀な支出、過重な規制、そして失敗した住宅政策が住宅価格と住宅ローン金利を押し上げる一方で、大規模な不法移民と大規模な機関投資家が住宅供給を圧迫してきた。その結果もたらされたのが、前政権の失敗した指導力によって引き起こされた住宅手頃感の危機である。今、私の指導の下、私の政権は、我々が引き継いだこの混乱を是正し、持ち家というアメリカンドリームを回復させつつある。",
+      "大統領職に復帰した初日から、私は誇りを持って、左派による生活費危機に打ちのめされたアメリカ人に価格面での救済をもたらす大統領令に署名し、国内のあらゆる勤勉な家族のために、供給、手頃感、機会に関する大胆な新時代の進歩を切り開いた。私の政権は、納税者が支援するローンが、不法滞在外国人やアメリカ人からより手頃な住宅の選択肢を奪う詐欺師ではなく、真にそれを必要とする法を遵守する市民に再び行き渡るようにすることで、連邦住宅プログラムの健全性を回復させるべく取り組んでいる。また私は、連邦住宅抵当公庫(ファニーメイ)および連邦住宅貸付抵当公社(フレディマック)に対し、2000億ドルの住宅ローン担保証券を購入するよう指示し、借入コストをさらに引き下げることで、より多くの市民が持ち家を実現できるようにした。",
+      "本年初め、私は、大規模な機関投資家による一戸建て住宅の購入を禁止するという前例のない措置を講じ、より多くの住宅を企業ではなくアメリカの家族のために確保した。「ウォール街がメインストリートの住宅購入者と競合することを阻止する」大統領令を通じて、我々は住宅購入希望者を再び列の先頭に戻し、連邦機関に対し、大企業が政府支援の資源を利用して責任ある住宅購入者に対抗して値をつり上げることを阻止するよう指示し、企業巨大勢力が賃料や価格を操作して家族を自らの地域から締め出すことを止めるため、独占禁止法執行の全面的な力を発揮させた。私は議会に対し、これらの改革を恒久化し、我が国の歴史上最も包括的かつ重要な住宅関連法案である、超党派の「21世紀住宅への道法(21st Century ROAD to Housing Act)」を可決するよう求める。",
+      "我々がアメリカの持ち家所有者および住宅購入者のために達成した勝利は前例のないものであり、私の政権は、それらを保護し拡大するための闘いを決して止めることはない。私の指導の下、アメリカは住宅が企業ではなく家族に属する国となり、この偉大な国の約束と繁栄の全てが、誇りを持って自分自身の家と呼べる住まいに住む、すべての勤勉な市民によって実感されるまで、我々は決して休むことはない。",
+      "よって、ここに私、アメリカ合衆国大統領ドナルド・J・トランプは、合衆国憲法および法律によって私に与えられた権限に基づき、2026年6月を全米ホームオーナーシップ月間として布告する。(印刷ページ36960)",
+      "以上の証として、我が主の年2026年6月12日、そして合衆国独立250年に当たるこの日、私は自らの手でここに署名した。",
+      "[連邦官報文書番号 2026-12435",
+      "提出日 2026年6月17日 午前11時15分]",
+      "請求コード 3395-F4-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
