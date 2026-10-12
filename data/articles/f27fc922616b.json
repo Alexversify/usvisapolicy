@@ -94,5 +94,95 @@
     "family",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/04/2026"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security today issued an interim final rule amending its regulations to allow certain children born in the United States to foreign government employees who are not U.S. citizens to register as lawful permanent residents."
+      },
+      {
+        "t": "p",
+        "x": "The rule amends existing regulations that allow children born in the United States to foreign diplomatic officers to register as lawful permanent residents. Consistent with President Trump’s Executive Order 14418, the rule extends that opportunity to eligible children when neither parent is a U.S. citizen and at least one parent is a foreign government employee at the time of the child’s birth."
+      },
+      {
+        "t": "p",
+        "x": "The interim final rule replaces the term “foreign diplomatic officer” with the broader term “foreign government employee.” Under the rule, “foreign government employee” includes foreign diplomatic officers accredited to the United States, certain foreign embassy or consulate employees who are nationals of that foreign country, persons employed by a foreign government in an official capacity, and persons employed by an international organization that possesses international-organization immunity. The rule also clarifies categories that are not included, such as personal employees or attendants of foreign officials, certain employees of state-owned enterprises, third-country nationals working for foreign governments, certain contractors, and foreign government employees visiting the United States in a personal capacity."
+      },
+      {
+        "t": "p",
+        "x": "DHS is also updating Form I-485, Application to Register Permanent Residence or Adjust Status, and the related form instructions, to replace references to “Individuals Born in the United States Under Diplomatic Status” with “Individuals Born to a Foreign Government Employee in the United States” and provide other updates to reflect these changes. DHS is also updating Form G-325R, Biographic Information (Registration), to account for children born in the United States who do not acquire U.S. citizenship at birth, choose not to register their permanent residence under the amended regulations, and are subject to the alien registration requirements in the INA."
+      },
+      {
+        "t": "p",
+        "x": "The interim final rule is effective Sept. 4, 2026, and applies to children born on or after the rule’s effective date."
+      },
+      {
+        "t": "p",
+        "x": "Given the injunction currently in place in Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md Sep. 2, 2026), DHS will not take actions to implement the rule specifically to any member of the certified class, or otherwise conflict with the preliminary injunction, unless and until the government obtains relief from the injunction. If the government obtains timely relief from the injunction, DHS will implement the rule accordingly."
+      },
+      {
+        "t": "p",
+        "x": "09/04/2026"
+      }
+    ],
+    "fetched": "2026-10-12T19:21Z",
+    "from": "page",
+    "chars": 2714
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "09/04/2026",
+      "국토안보부(Department of Homeland Security, DHS)는 오늘, 미국 시민이 아닌 외국 정부 직원의 자녀로서 미국에서 출생한 특정 자녀가 합법적 영주권자로 등록할 수 있도록 허용하는 규정을 개정하는 잠정 최종규칙(interim final rule)을 발표하였습니다.",
+      "이 규칙은 외국 외교관의 자녀로서 미국에서 출생한 자녀가 합법적 영주권자로 등록할 수 있도록 허용하는 기존 규정을 개정합니다. 트럼프 대통령의 행정명령 14418호에 따라, 이 규칙은 부모 중 어느 쪽도 미국 시민이 아니고 자녀의 출생 당시 부모 중 적어도 한 명이 외국 정부 직원인 경우, 해당 자격을 갖춘 자녀에게도 이러한 기회를 확대합니다.",
+      "이 잠정 최종규칙은 \"외국 외교관\"이라는 용어를 보다 광범위한 용어인 \"외국 정부 직원\"으로 대체합니다. 이 규칙에 따르면, \"외국 정부 직원\"에는 미국에 신임된 외국 외교관, 해당 외국의 국민으로서 외국 대사관 또는 영사관에 근무하는 특정 직원, 공식 자격으로 외국 정부에 고용된 자, 그리고 국제기구 면책특권을 보유한 국제기구에 고용된 자가 포함됩니다. 이 규칙은 또한 포함되지 않는 범주도 명확히 하고 있는데, 이는 외국 공무원의 개인 고용인 또는 수행원, 국영기업의 특정 직원, 외국 정부를 위해 근무하는 제3국 국민, 특정 계약자, 그리고 개인 자격으로 미국을 방문하는 외국 정부 직원 등입니다.",
+      "DHS는 또한 Form I-485(영주권 등록 신청서 또는 신분 조정 신청서) 및 관련 서식 안내서를 갱신하여, \"외교 신분으로 미국에서 출생한 개인\"이라는 표현을 \"미국에서 외국 정부 직원에게 태어난 개인\"으로 대체하고, 이러한 변경 사항을 반영하기 위한 기타 갱신 사항을 제공하고 있습니다. DHS는 또한 Form G-325R(인적사항 정보(등록))을 갱신하여, 출생 시 미국 시민권을 취득하지 못하고, 개정된 규정에 따른 영주권 등록을 선택하지 않으며, 이민국적법(INA)상 외국인 등록 요건의 적용을 받는, 미국에서 출생한 자녀를 반영하도록 하고 있습니다.",
+      "이 잠정 최종규칙은 2026년 9월 4일부터 시행되며, 이 규칙의 시행일 이후에 출생한 자녀에게 적용됩니다.",
+      "현재 시행 중인 Casa Inc. v. Trump 사건(No. 8:25-cv-00201, D. Md Sep. 2, 2026)의 금지명령을 고려하여, DHS는 정부가 해당 금지명령으로부터 구제를 받기 전까지는, 인증된 집단(certified class)의 구성원에게 이 규칙을 구체적으로 시행하거나 그 밖에 예비 금지명령(preliminary injunction)과 상충하는 조치를 취하지 않을 것입니다. 정부가 적시에 해당 금지명령으로부터 구제를 받는 경우, DHS는 이에 따라 이 규칙을 시행할 것입니다.",
+      "09/04/2026"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "04/09/2026",
+      "El Departamento de Seguridad Nacional emitió hoy una norma final provisional que modifica sus reglamentos para permitir que ciertos hijos nacidos en los Estados Unidos de empleados de gobiernos extranjeros que no son ciudadanos estadounidenses se registren como residentes permanentes legales.",
+      "La norma modifica los reglamentos vigentes que permiten que los hijos nacidos en los Estados Unidos de funcionarios diplomáticos extranjeros se registren como residentes permanentes legales. De conformidad con la Orden Ejecutiva 14418 del presidente Trump, la norma extiende esa oportunidad a los hijos elegibles cuando ninguno de los padres es ciudadano estadounidense y al menos uno de los padres es empleado de un gobierno extranjero al momento del nacimiento del hijo.",
+      "La norma final provisional reemplaza el término «funcionario diplomático extranjero» por el término más amplio de «empleado de gobierno extranjero». Conforme a la norma, «empleado de gobierno extranjero» incluye a los funcionarios diplomáticos extranjeros acreditados ante los Estados Unidos, ciertos empleados de embajadas o consulados extranjeros que sean nacionales de ese país extranjero, personas empleadas por un gobierno extranjero en calidad oficial, y personas empleadas por una organización internacional que posea inmunidad de organización internacional. La norma también aclara las categorías que no están incluidas, tales como los empleados personales o asistentes de funcionarios extranjeros, ciertos empleados de empresas estatales, nacionales de terceros países que trabajan para gobiernos extranjeros, ciertos contratistas, y empleados de gobiernos extranjeros que visitan los Estados Unidos en calidad personal.",
+      "El DHS también está actualizando el Formulario I-485, Solicitud para Registrar Residencia Permanente o Ajustar Estatus, y las instrucciones correspondientes del formulario, para reemplazar las referencias a «Personas Nacidas en los Estados Unidos Bajo Estatus Diplomático» por «Personas Nacidas de un Empleado de Gobierno Extranjero en los Estados Unidos» y proporcionar otras actualizaciones que reflejen estos cambios. El DHS también está actualizando el Formulario G-325R, Información Biográfica (Registro), para dar cuenta de los hijos nacidos en los Estados Unidos que no adquieren la ciudadanía estadounidense al nacer, que optan por no registrar su residencia permanente conforme a los reglamentos modificados, y que están sujetos a los requisitos de registro de extranjeros establecidos en el INA.",
+      "La norma final provisional entra en vigor el 4 de septiembre de 2026 y se aplica a los hijos nacidos en o después de la fecha de entrada en vigor de la norma.",
+      "En vista de la orden judicial actualmente vigente en el caso Casa Inc. v. Trump, No. 8:25-cv-00201 (D. Md. 2 de septiembre de 2026), el DHS no tomará medidas para implementar la norma específicamente respecto de ningún miembro de la clase certificada, ni de otro modo entrará en conflicto con la medida cautelar preliminar, a menos y hasta que el gobierno obtenga una exención de dicha orden judicial. Si el gobierno obtiene oportunamente una exención de la orden judicial, el DHS implementará la norma en consecuencia.",
+      "04/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年09月04日",
+      "美国国土安全部（DHS）今日发布一项临时最终规则，修订其相关法规，允许在美国出生、父母为非美国公民的外国政府雇员子女登记为合法永久居民。",
+      "该规则修订了现行法规，该法规此前允许在美国出生的外国外交官员子女登记为合法永久居民。根据特朗普总统第14418号行政命令的精神，该规则将这一机会扩展至符合条件的子女，即在该子女出生时，父母均非美国公民，且至少有一方父母为外国政府雇员。",
+      "该临时最终规则以更广泛的术语“外国政府雇员”取代了“外国外交官员”一词。根据该规则，“外国政府雇员”包括获美国认可的外国外交官员、属该外国国民的特定外国使馆或领事馆雇员、以官方身份受雇于外国政府的人员，以及受雇于享有国际组织豁免权的国际组织的人员。该规则同时明确了不属于此范畴的类别，例如外国官员的私人雇员或随从人员、国有企业的特定雇员、为外国政府工作的第三国国民、特定承包商，以及以个人身份访问美国的外国政府雇员。",
+      "美国国土安全部还将更新I-485表，即《登记永久居留权或调整身份申请表》及相关表格说明，将“在外交身份下于美国出生的人员”的表述替换为“在美国出生于外国政府雇员的人员”，并进行其他更新以反映这些变化。美国国土安全部还将更新G-325R表，即《传记信息（登记用）》，以涵盖在美国出生但未在出生时获得美国公民身份、选择不根据修订后的法规登记其永久居留权，并须遵守《移民与国籍法》（INA）中外侨登记要求的子女。",
+      "该临时最终规则自2026年9月4日起生效，适用于该规则生效日期或之后出生的子女。",
+      "鉴于Casa Inc.诉特朗普案（Casa Inc. v. Trump，案号8:25-cv-00201，马里兰州地区法院，2026年9月2日）目前存在的禁令，美国国土安全部将不会针对经认证集体诉讼成员采取具体实施该规则的行动，也不会采取其他与初步禁令相冲突的行动，除非且直至政府获得该禁令的解除。若政府及时获得该禁令的解除，美国国土安全部将相应实施该规则。",
+      "2026年09月04日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年9月4日",
+      "国土安全保障省(DHS)は本日、米国市民ではない外国政府職員の子として米国内で出生した一定の子どもが永住者としての登録を行うことを認めるよう規則を改正する暫定最終規則を発行した。",
+      "本規則は、外国の外交官の子として米国内で出生した子どもが永住者としての登録を行うことを認める既存の規則を改正するものである。トランプ大統領の大統領令第14418号に沿って、本規則は、両親のいずれも米国市民ではなく、かつ、子の出生時に少なくとも一方の親が外国政府職員である場合の適格な子どもにまで、その機会を拡大するものである。",
+      "本暫定最終規則は、「外国の外交官」という用語を、より広い用語である「外国政府職員」に置き換えるものである。本規則の下では、「外国政府職員」には、米国に対して信任された外国の外交官、当該外国の国民である一定の外国大使館又は領事館の職員、外国政府に公的な資格で雇用されている者、及び国際機関免除を有する国際機関に雇用されている者が含まれる。本規則はまた、外国政府職員の個人的な使用人又は従者、一定の国有企業の職員、外国政府のために働く第三国籍者、一定の請負業者、並びに個人的な資格で米国を訪問する外国政府職員など、含まれない区分についても明確化している。",
+      "DHSはまた、様式I-485「永住登録申請又は身分調整申請」及び関連する様式の記入方法についても、「外交身分の下で米国内で出生した者」という表現を「米国内で外国政府職員の子として出生した者」という表現に置き換え、これらの変更を反映するためのその他の更新を行うべく、更新を行っている。DHSはまた、様式G-325R「身上書(登録用)」についても、出生時に米国市民権を取得せず、改正後の規則に基づく永住登録を行わないことを選択し、かつ移民国籍法(INA)に定める外国人登録の要件の対象となる、米国内で出生した子どもに対応するため、更新を行っている。",
+      "本暫定最終規則は2026年9月4日に発効し、本規則の発効日以降に出生した子どもに適用される。",
+      "Casa Inc. 対 Trump事件、No. 8:25-cv-00201(メリーランド州地区裁判所、2026年9月2日)において現在発出されている差止命令に鑑み、政府が当該差止命令からの救済を得るまでの間は、DHSは、認定された集団の構成員に対して本規則を具体的に実施するための措置、又はその他の方法で当該予備的差止命令に抵触する措置を講じない。政府が適時に当該差止命令からの救済を得た場合には、DHSはこれに従って本規則を実施する。",
+      "2026年9月4日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

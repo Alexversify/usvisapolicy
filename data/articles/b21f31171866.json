@@ -1,0 +1,301 @@
+{
+  "id": "b21f31171866",
+  "source": "uscis_policy_manual",
+  "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-DNAEvidence.pdf",
+  "original_title": "Read More",
+  "published": "2026-08-05",
+  "effective_date": null,
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "DNA Testing",
+    "RFE",
+    "Policy Manual",
+    "Family-Based Immigration"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, 추가증거요청 시 DNA 검사 제안 지침 발표",
+      "summary": "USCIS가 정책매뉴얼을 개정해 친자관계 등 유전적 관계를 입증할 주된 증거가 없거나 신뢰할 수 없거나 불충분한 경우, 심사관이 추가증거요청서(RFE)에서 DNA 검사를 선택 가능한 증거로 제안하도록 하는 지침을 마련했습니다. 이는 심사관이 추가 증거가 필요하다고 판단한 사건에 적용됩니다.",
+      "points": [
+        "USCIS는 2026년 8월 5일 정책매뉴얼 업데이트를 통해 이 지침을 발표했습니다.",
+        "주된 증거가 없거나 신뢰성이 떨어지거나 불충분해 유전적 관계를 입증하기 어려운 경우에 적용됩니다.",
+        "DNA 검사는 의무가 아니라 선택 가능한 증거로 제시됩니다.",
+        "이번 변경은 증거 및 신원 확인 관련 여러 챕터, 그리고 시민권과 귀화를 위한 자녀 정의 챕터에 영향을 미칩니다.",
+        "구체적인 시행일은 출처에 명시되어 있지 않습니다."
+      ],
+      "who": "혈연관계를 입증해야 하는 가족 기반 이민 신청자 및 수혜자가 영향을 받습니다.",
+      "action": "추가증거요청서를 받은 경우 DNA 검사가 제안되었는지 확인하고, 필요 시 변호사와 상담해 적절한 증거를 준비하시기 바랍니다."
+    },
+    "en": {
+      "title": "USCIS Updates Policy Manual on Suggesting DNA Testing in Requests for Evidence",
+      "summary": "USCIS has issued a Policy Manual update directing officers to suggest DNA testing as an optional form of evidence when primary evidence of a claimed genetic relationship is unavailable, unreliable, or insufficient. The guidance applies in cases where an officer determines that additional evidence is needed.",
+      "points": [
+        "The policy alert was issued on August 5, 2026.",
+        "It applies when primary evidence cannot establish a claimed genetic relationship.",
+        "DNA testing is presented as an optional, not mandatory, form of evidence.",
+        "The update affects multiple Policy Manual chapters covering evidence, identity and age, and the definition of child for citizenship and naturalization purposes.",
+        "No specific effective date beyond the issuance date is stated in the source."
+      ],
+      "who": "Applicants and petitioners in family-based immigration cases involving claimed genetic relationships are affected.",
+      "action": "Those who receive a Request for Evidence suggesting DNA testing should review the request carefully and consider consulting an attorney about appropriate evidence."
+    },
+    "es": {
+      "title": "USCIS actualiza el Manual de Políticas sobre pruebas de ADN en solicitudes de evidencia",
+      "summary": "USCIS emitió una actualización de su Manual de Políticas que indica a los oficiales sugerir la prueba de ADN como una forma opcional de evidencia cuando la evidencia principal de una relación genética alegada no está disponible, no es confiable o es insuficiente. La guía se aplica en casos en que el oficial determina que se necesita evidencia adicional.",
+      "points": [
+        "La alerta de política fue emitida el 5 de agosto de 2026.",
+        "Se aplica cuando la evidencia principal no puede establecer una relación genética alegada.",
+        "La prueba de ADN se presenta como una forma de evidencia opcional, no obligatoria.",
+        "La actualización afecta varios capítulos del Manual de Políticas relacionados con evidencia, identidad y edad, y la definición de hijo para fines de ciudadanía y naturalización.",
+        "La fuente no indica una fecha de vigencia específica más allá de la fecha de emisión."
+      ],
+      "who": "Afecta a solicitantes y peticionarios en casos de inmigración familiar que involucran relaciones genéticas alegadas.",
+      "action": "Quienes reciban una Solicitud de Evidencia que sugiera una prueba de ADN deben revisarla cuidadosamente y considerar consultar a un abogado sobre la evidencia apropiada."
+    },
+    "zh": {
+      "title": "USCIS更新政策手册,就证据请求中建议DNA检测作出指引",
+      "summary": "USCIS发布政策手册更新,规定在无法获得、不可靠或不足以证明所声称基因关系的主要证据的情况下,官员应建议DNA检测作为可选证据形式。该指引适用于官员认定需要补充证据的案件。",
+      "points": [
+        "该政策提醒于2026年8月5日发布。",
+        "适用于主要证据无法证明所声称基因关系的情况。",
+        "DNA检测被列为可选证据,并非强制要求。",
+        "此次更新涉及政策手册中有关证据、身份与年龄,以及公民身份和入籍中子女定义的多个章节。",
+        "来源未说明除发布日期外的具体生效日期。"
+      ],
+      "who": "涉及基因关系证明的家庭类移民申请人和受益人受到影响。",
+      "action": "收到建议进行DNA检测的证据请求的申请人应仔细审阅该请求,并可考虑咨询律师以准备适当证据。"
+    },
+    "ja": {
+      "title": "USCIS、証拠追加要請でのDNA検査提案に関するポリシーマニュアルを更新",
+      "summary": "USCISは、主張された血縁関係を証明する主要な証拠が存在しない、信頼性が低い、または不十分な場合に、審査官がDNA検査を任意の証拠として提案するよう求めるポリシーマニュアルの改定を発表しました。この指針は、審査官が追加証拠が必要と判断した案件に適用されます。",
+      "points": [
+        "このポリシーアラートは2026年8月5日に発表されました。",
+        "主要な証拠で主張された血縁関係を証明できない場合に適用されます。",
+        "DNA検査は義務ではなく、任意の証拠として提示されます。",
+        "この改定は、証拠、身元と年齢、および市民権・帰化のための子の定義に関する複数の章に影響します。",
+        "発表日以外の具体的な施行日は情報源に記載されていません。"
+      ],
+      "who": "血縁関係の証明が必要な家族ベースの移民申請者および受益者が影響を受けます。",
+      "action": "DNA検査を提案する証拠追加要請を受け取った場合は、内容を慎重に確認し、必要に応じて弁護士に相談して適切な証拠を準備することが推奨されます。"
+    }
+  },
+  "added": "2026-10-12T18:42Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "family",
+    "citizenship"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "U.S. Department of Homeland Security U.S. Citizenship and Immigration Services www.uscis.gov U.S. Citizenship and Immigration Services Office of the Director Camp Springs, MD 20588-0009 PA- 2026-06 August 5, 2026 Policy Alert SUBJECT: Suggesting DNA Testing When Issuing a Request for Additional Evidence Purpose U.S. Citizenship and Immigration Services (USCIS) is issuing policy guidance in the USCIS Policy Manual to require officers to suggest Deoxyribonucleic Acid (DNA) testing as an optional form of evidence to establish a claimed genetic relationship in cases where primary evidence is unavailable, unreliable, or insufficient to establish a claimed genetic relationship, in situations where an officer determines additional evidence is necessary."
+      },
+      {
+        "t": "p",
+        "x": "Background USCIS requests and reviews evidence in connection with a benefit request to determine eligibility. Each benefit request has specific eligibility requirements that a requestor must meet to demonstrate the benefit sought should be approved.1 In general, benefit requests must be filed with primary evidence to demonstrate eligibility for the benefit sought.2 In cases where required primary evidence does not exist or cannot be obtained, requestors must provide secondary evidence.3 Certain immigration benefit requests require the benefit requestor to submit primary evidence to demonstrate the existence of a claimed qualifying genetic relationship. Previous USCIS policy indicated that officers may suggest DNA evidence after both primary and secondary evidence are deemed insufficient to establish the claimed genetic relationship. This guidance resulted in each directorate having varying guidance on suggesting DNA evidence, if at all."
+      },
+      {
+        "t": "p",
+        "x": "This new guidance requires officers to suggest DNA evidence when a benefit requestor does not meet their burden to establish a claimed genetic relationship and additional evidence is needed. The new policy also aligns with section nine of Executive Order 14165, Securing Our Borders, which directs the Department of Homeland Security to utilize “any available technologies and procedures to determine the validity of any claimed familial relationship.”4 1 See 8 CFR 103.2(b)(1)."
+      },
+      {
+        "t": "p",
+        "x": "2 See 8 CFR 103.2(b)(1)."
+      },
+      {
+        "t": "p",
+        "x": "3 See 8 CFR 103.2(b)."
+      },
+      {
+        "t": "p",
+        "x": "4 See Executive Order 14165, Securing Our Borders, 90 FR 8467 (Jan. 20, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "PA-2026-06: Suggesting DNA Testing When Issuing a Request for Additional Evidence Page: 2 This guidance, contained in Volume 1 of the Policy Manual, is effective immediately and applies to requests pending or filed on or after the publication date. The guidance contained in the Policy Manual is controlling and supersedes any related prior guidance."
+      },
+      {
+        "t": "p",
+        "x": "Policy Highlights"
+      },
+      {
+        "t": "li",
+        "x": "Provides that, when required primary evidence is unavailable, unreliable, or insufficient to establish the claimed genetic relationship, officers must suggest DNA testing in a request for additional evidence, in situations where a request for evidence is needed."
+      },
+      {
+        "t": "li",
+        "x": "Clarifies the circumstances under which primary evidence may be unreliable or insufficient to establish a claimed genetic relationship."
+      },
+      {
+        "t": "li",
+        "x": "Informs benefit requestors of the option to submit all available evidence at their disposal to establish a claimed genetic relationship."
+      },
+      {
+        "t": "p",
+        "x": "Summary of Changes Affected Section: Volume 1 > Part E > Chapter 6, Evidence"
+      },
+      {
+        "t": "li",
+        "x": "In Section B (Primary Evidence, Secondary Evidence, and Affidavits), Subsection 2 (Secondary Evidence) adds new italicized subheading, “Optional Submission of DNA Testing.” Affected Section: Volume 4 > Part C > Chapter 4, Documentation and Evidence"
+      },
+      {
+        "t": "li",
+        "x": "Revises content in Section D (Evidence), Subsection 3 (Secondary Evidence). Affected Section: Volume 5 > Part C > Chapter 7, Documentation and Evidence"
+      },
+      {
+        "t": "li",
+        "x": "Revises content under Section B (Required Evidence), Subsection 3 (Proof of Orphan’s Identity and Age)."
+      },
+      {
+        "t": "p",
+        "x": "Affected Section: Volume 5 > Part D > Chapter 3, Identity and Age"
+      },
+      {
+        "t": "li",
+        "x": "Revises first paragraph under italicized subheading “Sibling Exception” and revises content in footnote 5."
+      },
+      {
+        "t": "p",
+        "x": "Affected Section: Volume 12 > Part H > Chapter 2, Definition of Child and Residence for Citizenship and Naturalization"
+      },
+      {
+        "t": "li",
+        "x": "Revises content in Section A (Definition of Child) in the penultimate paragraph under italicized subheading “Definition of Child of a U.S. Citizen Father.” USCIS may also make other minor technical, stylistic, and conforming changes consistent with this update."
+      },
+      {
+        "t": "p",
+        "x": "PA-2026-06: Suggesting DNA Testing When Issuing a Request for Additional Evidence Page: 3 Citation Volume 1: General Policies and Procedures, Part E, Adjudications, Chapter 6, Evidence [1 USCIS- PM E.6]."
+      },
+      {
+        "t": "p",
+        "x": "Volume 4: Refugees and Asylees, Part C, Relative Petitions, Chapter 4, Documentation and Evidence [4 USCIS-PM C.4]."
+      },
+      {
+        "t": "p",
+        "x": "Volume 5: Adoptions, Part C, Child Eligibility Determinations (Orphan), Chapter 7, Documentation and Evidence [5 USCIS-PM C.7]."
+      },
+      {
+        "t": "p",
+        "x": "Volume 5: Adoptions, Part D, Child Eligibility Determinations (Hague), Chapter 3, Identity and Age [5 USCIS-PM D.3]."
+      },
+      {
+        "t": "p",
+        "x": "Volume 12: Citizenship and Naturalization, Part H, Children of U.S. Citizens, Chapter 2, Definition of Child and Residence for Citizenship and Naturalization [12 USCIS-PM H.2]."
+      }
+    ],
+    "fetched": "2026-10-12T18:42Z",
+    "from": "pdf",
+    "chars": 5072
+  },
+  "full": {
+    "ko": [
+      "미국 국토안보부 미국 시민권 및 이민서비스국 www.uscis.gov 미국 시민권 및 이민서비스국 국장실 캠프 스프링스, MD 20588-0009 PA-2026-06 2026년 8월 5일 정책 공지 제목: 추가 증거 요청서 발급 시 DNA 검사 제안 목적 미국 시민권 및 이민서비스국(USCIS)은 주장된 유전적 관계를 입증할 1차 증거가 존재하지 않거나, 신뢰할 수 없거나, 불충분한 경우로서 담당 심사관이 추가 증거가 필요하다고 판단하는 상황에서, 심사관이 주장된 유전적 관계를 입증하기 위한 선택적 증거 형태로 디옥시리보핵산(DNA) 검사를 제안하도록 요구하는 정책 지침을 USCIS 정책 매뉴얼에 발행합니다.",
+      "배경 USCIS는 수혜 자격을 판단하기 위하여 수혜 신청과 관련된 증거를 요청하고 검토합니다. 각 수혜 신청에는 신청인이 신청한 수혜가 승인되어야 함을 입증하기 위하여 충족하여야 하는 특정 자격 요건이 있습니다.1 일반적으로 수혜 신청서는 신청한 수혜에 대한 자격을 입증하는 1차 증거와 함께 제출되어야 합니다.2 요구되는 1차 증거가 존재하지 않거나 입수할 수 없는 경우, 신청인은 2차 증거를 제출하여야 합니다.3 특정 이민 수혜 신청의 경우, 수혜 신청인이 주장된 자격 요건에 해당하는 유전적 관계의 존재를 입증하는 1차 증거를 제출하도록 요구됩니다. 기존 USCIS 정책에서는 1차 증거와 2차 증거가 모두 주장된 유전적 관계를 입증하기에 불충분하다고 판단된 이후에 심사관이 DNA 증거를 제안할 수 있다고 명시하였습니다. 이러한 지침으로 인하여 각 국(局)마다 DNA 증거 제안에 관한 지침이 상이하였으며, 일부 국에서는 이를 전혀 제안하지 않는 경우도 있었습니다.",
+      "이번 새로운 지침은 수혜 신청인이 주장된 유전적 관계를 입증할 입증책임을 충족하지 못하고 추가 증거가 필요한 경우, 심사관이 DNA 증거를 제안하도록 요구합니다. 이 새로운 정책은 또한 행정명령 14165호 '국경 수호(Securing Our Borders)' 제9조와도 부합하며, 동 조항은 국토안보부로 하여금 '주장된 친족 관계의 타당성을 판단하기 위하여 이용 가능한 모든 기술 및 절차'를 활용하도록 지시하고 있습니다.4 1 8 CFR 103.2(b)(1) 참조.",
+      "2 8 CFR 103.2(b)(1) 참조.",
+      "3 8 CFR 103.2(b) 참조.",
+      "4 행정명령 14165호, 국경 수호(Securing Our Borders), 90 FR 8467 (2025년 1월 20일) 참조.",
+      "PA-2026-06: 추가 증거 요청서 발급 시 DNA 검사 제안 페이지: 2 정책 매뉴얼 제1권에 수록된 본 지침은 즉시 효력을 발생하며, 공표일 또는 그 이후에 계류 중이거나 제출된 신청에 적용됩니다. 정책 매뉴얼에 수록된 지침이 우선적으로 적용되며 이와 관련된 기존의 모든 지침에 우선합니다.",
+      "정책 요약",
+      "요구되는 1차 증거가 주장된 유전적 관계를 입증하기에 입수 불가능하거나, 신뢰할 수 없거나, 불충분한 경우, 증거 요청이 필요한 상황에서 심사관은 추가 증거 요청서에 DNA 검사를 제안하여야 함을 규정합니다.",
+      "주장된 유전적 관계를 입증하기 위한 1차 증거가 신뢰할 수 없거나 불충분할 수 있는 상황을 명확히 합니다.",
+      "수혜 신청인에게 주장된 유전적 관계를 입증하기 위하여 본인이 이용할 수 있는 모든 증거를 제출할 수 있는 선택권이 있음을 안내합니다.",
+      "변경 사항 요약 해당 섹션: 제1권 > E편 > 제6장, 증거",
+      "B절(1차 증거, 2차 증거 및 선서진술서)의 2단락(2차 증거)에 새로운 이탤릭체 소제목 'DNA 검사의 선택적 제출'을 추가합니다. 해당 섹션: 제4권 > C편 > 제4장, 문서 및 증거",
+      "D절(증거)의 3단락(2차 증거)의 내용을 개정합니다. 해당 섹션: 제5권 > C편 > 제7장, 문서 및 증거",
+      "B절(요구되는 증거)의 3단락(고아의 신원 및 연령 증명) 하의 내용을 개정합니다.",
+      "해당 섹션: 제5권 > D편 > 제3장, 신원 및 연령",
+      "이탤릭체 소제목 '형제자매 예외'의 첫 번째 단락을 개정하고, 각주 5의 내용을 개정합니다.",
+      "해당 섹션: 제12권 > H편 > 제2장, 시민권 및 귀화를 위한 자녀의 정의 및 거주 요건",
+      "A절(자녀의 정의) 중 이탤릭체 소제목 '미국 시민권자 부(父)의 자녀 정의' 하의 마지막에서 두 번째 단락의 내용을 개정합니다. USCIS는 또한 본 개정과 일치하는 범위 내에서 기타 사소한 기술적, 문체적 및 정합성 관련 변경을 할 수 있습니다.",
+      "PA-2026-06: 추가 증거 요청서 발급 시 DNA 검사 제안\n페이지: 3\n인용 출처 제1권: 일반 정책 및 절차, 제E편, 심사, 제6장, 증거 [1 USCIS-PM E.6].",
+      "제4권: 난민 및 비호 신청자, 제C편, 친족 청원, 제4장, 서류 및 증거 [4 USCIS-PM C.4].",
+      "제5권: 입양, 제C편, 아동 자격 결정(고아), 제7장, 서류 및 증거 [5 USCIS-PM C.7].",
+      "제5권: 입양, 제D편, 아동 자격 결정(헤이그), 제3장, 신원 및 연령 [5 USCIS-PM D.3].",
+      "제12권: 시민권 및 귀화, 제H편, 미국 시민의 자녀, 제2장, 시민권 및 귀화를 위한 자녀 정의 및 거주 [12 USCIS-PM H.2]."
+    ],
+    "es": [
+      "Departamento de Seguridad Nacional de los Estados Unidos Servicio de Ciudadanía e Inmigración de los Estados Unidos www.uscis.gov Servicio de Ciudadanía e Inmigración de los Estados Unidos Oficina del Director Camp Springs, MD 20588-0009 PA-2026-06 5 de agosto de 2026 Alerta de Política ASUNTO: Sugerencia de pruebas de ADN al emitir una Solicitud de Evidencia Adicional Propósito El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está emitiendo orientación de política en el Manual de Políticas de USCIS para exigir que los oficiales sugieran la prueba de Ácido Desoxirribonucleico (ADN) como una forma opcional de evidencia para establecer una relación genética reclamada en los casos en que la evidencia primaria no esté disponible, no sea confiable o sea insuficiente para establecer una relación genética reclamada, en situaciones en las que un oficial determine que se necesita evidencia adicional.",
+      "Antecedentes USCIS solicita y revisa evidencia en relación con una solicitud de beneficio para determinar la elegibilidad. Cada solicitud de beneficio tiene requisitos de elegibilidad específicos que un solicitante debe cumplir para demostrar que el beneficio solicitado debe ser aprobado.1 En general, las solicitudes de beneficios deben presentarse con evidencia primaria para demostrar la elegibilidad para el beneficio solicitado.2 En los casos en que la evidencia primaria requerida no exista o no pueda obtenerse, los solicitantes deben proporcionar evidencia secundaria.3 Ciertas solicitudes de beneficios de inmigración requieren que el solicitante del beneficio presente evidencia primaria para demostrar la existencia de una relación genética calificadora reclamada. La política anterior de USCIS indicaba que los oficiales podían sugerir evidencia de ADN después de que tanto la evidencia primaria como la secundaria se consideraran insuficientes para establecer la relación genética reclamada. Esta orientación resultó en que cada dirección tuviera una orientación variable sobre sugerir evidencia de ADN, si es que lo hacía.",
+      "Esta nueva orientación exige que los oficiales sugieran evidencia de ADN cuando un solicitante de beneficio no cumpla con su carga de establecer una relación genética reclamada y se necesite evidencia adicional. La nueva política también se alinea con la sección nueve de la Orden Ejecutiva 14165, Asegurando Nuestras Fronteras, que dirige al Departamento de Seguridad Nacional a utilizar “cualquier tecnología y procedimiento disponible para determinar la validez de cualquier relación familiar reclamada.”4 1 Véase 8 CFR 103.2(b)(1).",
+      "2 Véase 8 CFR 103.2(b)(1).",
+      "3 Véase 8 CFR 103.2(b).",
+      "4 Véase la Orden Ejecutiva 14165, Asegurando Nuestras Fronteras, 90 FR 8467 (20 de enero de 2025).",
+      "PA-2026-06: Sugerencia de pruebas de ADN al emitir una Solicitud de Evidencia Adicional Página: 2 Esta orientación, contenida en el Volumen 1 del Manual de Políticas, entra en vigor de inmediato y se aplica a las solicitudes pendientes o presentadas en o después de la fecha de publicación. La orientación contenida en el Manual de Políticas es vinculante y reemplaza cualquier orientación previa relacionada.",
+      "Aspectos Destacados de la Política",
+      "Establece que, cuando la evidencia primaria requerida no esté disponible, no sea confiable o sea insuficiente para establecer la relación genética reclamada, los oficiales deben sugerir la prueba de ADN en una solicitud de evidencia adicional, en situaciones en las que se necesite una solicitud de evidencia.",
+      "Aclara las circunstancias en las que la evidencia primaria puede no ser confiable o insuficiente para establecer una relación genética reclamada.",
+      "Informa a los solicitantes de beneficios sobre la opción de presentar toda la evidencia disponible a su disposición para establecer una relación genética reclamada.",
+      "Resumen de Cambios Sección Afectada: Volumen 1 > Parte E > Capítulo 6, Evidencia",
+      "En la Sección B (Evidencia Primaria, Evidencia Secundaria y Declaraciones Juradas), la Subsección 2 (Evidencia Secundaria) agrega un nuevo subtítulo en cursiva, “Presentación Opcional de Pruebas de ADN.” Sección Afectada: Volumen 4 > Parte C > Capítulo 4, Documentación y Evidencia",
+      "Revisa el contenido en la Sección D (Evidencia), Subsección 3 (Evidencia Secundaria). Sección Afectada: Volumen 5 > Parte C > Capítulo 7, Documentación y Evidencia",
+      "Revisa el contenido bajo la Sección B (Evidencia Requerida), Subsección 3 (Prueba de la Identidad y Edad del Huérfano).",
+      "Sección Afectada: Volumen 5 > Parte D > Capítulo 3, Identidad y Edad",
+      "Revisa el primer párrafo bajo el subtítulo en cursiva “Excepción de Hermanos” y revisa el contenido en la nota al pie 5.",
+      "Sección Afectada: Volumen 12 > Parte H > Capítulo 2, Definición de Hijo y Residencia para la Ciudadanía y la Naturalización",
+      "Revisa el contenido en la Sección A (Definición de Hijo) en el penúltimo párrafo bajo el subtítulo en cursiva “Definición de Hijo de un Padre Ciudadano Estadounidense.” USCIS también puede realizar otros cambios menores de carácter técnico, estilístico y de conformidad coherentes con esta actualización.",
+      "PA-2026-06: Sugerencia de pruebas de ADN al emitir una Solicitud de Evidencia Adicional Página: 3 Cita Volumen 1: Políticas y Procedimientos Generales, Parte E, Adjudicaciones, Capítulo 6, Evidencia [1 USCIS-PM E.6].",
+      "Volumen 4: Refugiados y Asilados, Parte C, Peticiones de Familiares, Capítulo 4, Documentación y Evidencia [4 USCIS-PM C.4].",
+      "Volumen 5: Adopciones, Parte C, Determinaciones de Elegibilidad del Menor (Huérfano), Capítulo 7, Documentación y Evidencia [5 USCIS-PM C.7].",
+      "Volumen 5: Adopciones, Parte D, Determinaciones de Elegibilidad del Menor (Convenio de La Haya), Capítulo 3, Identidad y Edad [5 USCIS-PM D.3].",
+      "Volumen 12: Ciudadanía y Naturalización, Parte H, Hijos de Ciudadanos Estadounidenses, Capítulo 2, Definición de Hijo y Residencia para la Ciudadanía y Naturalización [12 USCIS-PM H.2]."
+    ],
+    "zh": [
+      "美国国土安全部 美国公民及移民服务局 www.uscis.gov 美国公民及移民服务局局长办公室 马里兰州斯普林斯营 20588-0009 PA-2026-06 2026年8月5日 政策提醒 主题：在发出补充证据请求时建议进行DNA检测 目的 美国公民及移民服务局（USCIS）正在《USCIS政策手册》中发布政策指南，要求官员在初级证据不可获得、不可靠或不足以证明所声称的遗传关系的情况下，且官员确定需要补充证据时，建议将脱氧核糖核酸（DNA）检测作为证明所声称的遗传关系的一种可选证据形式。",
+      "背景 USCIS就受益申请请求、审查证据以确定资格。每项受益申请均有特定的资格要求，申请人必须满足这些要求才能证明所寻求的受益应予批准。1 一般而言，受益申请必须提交初级证据以证明有资格获得所寻求的受益。2 在所需初级证据不存在或无法获得的情况下，申请人必须提供次级证据。3 某些移民受益申请要求受益申请人提交初级证据，以证明所声称的合格遗传关系的存在。此前的USCIS政策指出，官员可以在初级证据和次级证据均被认定不足以证明所声称的遗传关系之后，建议使用DNA证据。此指南导致各业务司对建议使用DNA证据（如有的话）采取不同的指导方针。",
+      "这项新指南要求官员在受益申请人未能履行其证明所声称遗传关系的举证责任且需要补充证据时，建议使用DNA证据。该新政策也符合第14165号行政命令《保障我们的边境》第九节的规定，该命令指示国土安全部“利用任何可用的技术和程序来确定所声称的家庭关系的有效性”。4 1 见8 CFR 103.2(b)(1)。",
+      "2 见8 CFR 103.2(b)(1)。",
+      "3 见8 CFR 103.2(b)。",
+      "4 见第14165号行政命令《保障我们的边境》，90 FR 8467（2025年1月20日）。",
+      "PA-2026-06：在发出补充证据请求时建议进行DNA检测 第2页 本指南载于《政策手册》第1卷，自即日起生效，适用于在发布之日或之后待决或提交的申请。《政策手册》中所载的指南具有约束力，并取代任何相关的先前指南。",
+      "政策要点",
+      "规定在需要发出证据请求的情况下，当所需的初级证据不可获得、不可靠或不足以证明所声称的遗传关系时，官员必须在补充证据请求中建议进行DNA检测。",
+      "阐明初级证据在何种情况下可能不可靠或不足以证明所声称的遗传关系。",
+      "告知受益申请人可以选择提交其所能获得的全部证据，以证明所声称的遗传关系。",
+      "变更摘要 受影响章节：第1卷 > 第E部分 > 第6章，证据",
+      "在B节（初级证据、次级证据和宣誓书）第2小节（次级证据）中新增斜体小标题“DNA检测的可选提交”。受影响章节：第4卷 > 第C部分 > 第4章，文件和证据",
+      "修订D节（证据）第3小节（次级证据）的内容。受影响章节：第5卷 > 第C部分 > 第7章，文件和证据",
+      "修订B节（所需证据）第3小节（孤儿身份和年龄证明）的内容。",
+      "受影响章节：第5卷 > 第D部分 > 第3章，身份和年龄",
+      "修订斜体小标题“兄弟姐妹例外情形”下第一段内容，并修订脚注5的内容。",
+      "受影响章节：第12卷 > 第H部分 > 第2章，公民身份和入籍的子女定义及居住",
+      "修订A节（子女定义）中斜体小标题“美国公民父亲的子女定义”下倒数第二段的内容。USCIS还可能根据本次更新作出其他与之相符的细微技术性、文体性和一致性修改。",
+      "PA-2026-06:签发补充证据请求时建议进行DNA检测 第3页 引用卷1:总体政策与程序,E部分,裁决,第6章,证据 [1 USCIS-PM E.6]。",
+      "卷4:难民与庇护申请人,C部分,亲属申请,第4章,文件与证据 [4 USCIS-PM C.4]。",
+      "卷5:收养,C部分,儿童资格认定(孤儿),第7章,文件与证据 [5 USCIS-PM C.7]。",
+      "卷5:收养,D部分,儿童资格认定(海牙),第3章,身份与年龄 [5 USCIS-PM D.3]。",
+      "卷12:公民身份与入籍,H部分,美国公民子女,第2章,公民身份与入籍中子女的定义及居住 [12 USCIS-PM H.2]。"
+    ],
+    "ja": [
+      "米国国土安全保障省 米国市民権移民局 www.uscis.gov 米国市民権移民局 局長室 キャンプスプリングス、メリーランド州 20588-0009 PA-2026-06 2026年8月5日 政策通知 件名:追加証拠の要求を発行する際のDNA検査の提案 目的 米国市民権移民局(USCIS)は、主張される遺伝的関係を立証するための第一次証拠が存在しない、信頼性がない、又は主張される遺伝的関係を立証するのに不十分である場合であって、担当官が追加の証拠が必要であると判断した状況において、担当官に対し、主張される遺伝的関係を立証するための任意の証拠形態としてデオキシリボ核酸(DNA)検査を提案することを義務付けるため、USCIS政策マニュアルに政策指針を発行する。",
+      "背景 USCISは、給付申請に関連して証拠を要求し審査することにより、適格性を判断する。各給付申請には、申請者が求める給付の承認を証明するために満たさなければならない具体的な適格性要件が定められている。1 一般に、給付申請は、求める給付に対する適格性を証明するための第一次証拠とともに提出されなければならない。2 必要な第一次証拠が存在しない、又は入手できない場合、申請者は第二次証拠を提出しなければならない。3 特定の移民給付申請においては、給付申請者が主張する適格な遺伝的関係の存在を証明するための第一次証拠の提出が求められる。従来のUSCISの政策では、第一次証拠及び第二次証拠の双方が主張される遺伝的関係を立証するのに不十分であると判断された後に限り、担当官はDNA証拠を提案することができるとされていた。この指針により、各部門(ディレクトレート)がDNA証拠の提案に関して、提案を行うか否かも含め、異なる運用指針を有する結果となっていた。",
+      "この新たな指針は、給付申請者が主張する遺伝的関係を立証する責任を果たしておらず、追加の証拠が必要とされる場合に、担当官にDNA証拠の提案を義務付けるものである。この新たな政策はまた、大統領令14165号「国境の安全確保(Securing Our Borders)」の第9条とも整合するものであり、同条は国土安全保障省に対し、「主張されるあらゆる親族関係の有効性を判断するために利用可能なあらゆる技術及び手続」を活用するよう指示している。4 1 8 CFR 103.2(b)(1)を参照。",
+      "2 8 CFR 103.2(b)(1)を参照。",
+      "3 8 CFR 103.2(b)を参照。",
+      "4 大統領令14165号「国境の安全確保」、90 FR 8467(2025年1月20日)を参照。",
+      "PA-2026-06:追加証拠の要求を発行する際のDNA検査の提案 2ページ 政策マニュアル第1巻に収録されるこの指針は、直ちに発効し、公表日以降に係属中又は提出される申請に適用される。政策マニュアルに収録された指針が最終的な拘束力を有し、これに関連する従前のあらゆる指針に優先する。",
+      "政策の要点",
+      "必要な第一次証拠が、主張される遺伝的関係を立証するために利用できない、信頼性がない、又は不十分である場合であって、証拠要求が必要とされる状況においては、担当官は追加証拠の要求においてDNA検査を提案しなければならない旨を規定する。",
+      "第一次証拠が主張される遺伝的関係を立証するために信頼性を欠く、又は不十分となり得る状況を明確化する。",
+      "給付申請者に対し、主張する遺伝的関係を立証するために自己が有するあらゆる利用可能な証拠を提出する選択肢があることを周知する。",
+      "変更の概要 対象箇所:第1巻 > 第E部 > 第6章、証拠",
+      "第B節(第一次証拠、第二次証拠及び宣誓供述書)の第2小節(第二次証拠)に、新たなイタリック体の小見出し「DNA検査の任意提出」を追加する。 対象箇所:第4巻 > 第C部 > 第4章、書類及び証拠",
+      "第D節(証拠)の第3小節(第二次証拠)の内容を改訂する。 対象箇所:第5巻 > 第C部 > 第7章、書類及び証拠",
+      "第B節(必要な証拠)の第3小節(孤児の身元及び年齢の証明)の内容を改訂する。",
+      "対象箇所:第5巻 > 第D部 > 第3章、身元及び年齢",
+      "イタリック体の小見出し「兄弟姉妹の例外」の最初の段落を改訂し、脚注5の内容を改訂する。",
+      "対象箇所:第12巻 > 第H部 > 第2章、市民権及び帰化のための子の定義及び居住",
+      "第A節(子の定義)のイタリック体の小見出し「米国市民である父の子の定義」の末尾から2番目の段落の内容を改訂する。USCISはまた、本改訂と整合するその他の軽微な技術的、文体的及び整合性のための変更を行うことがある。",
+      "PA-2026-06:追加証拠要求の発出時におけるDNA検査の提案 ページ:3 引用箇所 第1編:総則及び手続、第E部、審査、第6章、証拠[1 USCIS-PM E.6]。",
+      "第4編:難民及び庇護希望者、第C部、親族による申請、第4章、文書及び証拠[4 USCIS-PM C.4]。",
+      "第5編:養子縁組、第C部、子の適格性の決定(孤児)、第7章、文書及び証拠[5 USCIS-PM C.7]。",
+      "第5編:養子縁組、第D部、子の適格性の決定(ハーグ条約)、第3章、身元及び年齢[5 USCIS-PM D.3]。",
+      "第12編:市民権及び帰化、第H部、米国市民の子、第2章、市民権及び帰化における子の定義及び居住[12 USCIS-PM H.2]。"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

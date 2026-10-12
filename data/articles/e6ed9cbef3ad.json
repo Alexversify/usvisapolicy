@@ -1,0 +1,1612 @@
+{
+  "id": "e6ed9cbef3ad",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15450/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement",
+  "original_title": "Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status",
+  "published": "2026-07-30",
+  "effective_date": null,
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "J-1",
+    "Exchange Visitor Program",
+    "SEVIS",
+    "Proposed Rule",
+    "Au Pair"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "국무부, J-1 교환방문자 프로그램 종료·연장·재개 규정 개정 추진",
+      "summary": "미국 국무부가 J-1 교환방문자 프로그램의 참가 종료, 프로그램 연장, 유효 상태 재개와 관련된 규정(22 CFR Part 62) 개정을 제안했습니다. 이번 제안은 아직 확정되거나 시행된 것이 아니며, 2026년 7월 30일부터 60일간 공개 의견 수렴을 진행합니다.",
+      "points": [
+        "교환방문자가 신청 또는 프로그램 진행 중 허위 정보를 제공하면 스폰서가 프로그램을 반드시 종료해야 하는 사유가 추가됩니다.",
+        "국무부나 국토안보부가 비자를 즉시 효력으로 취소 또는 철회한 경우 국무부가 재량으로 프로그램을 종료할 수 있는 권한이 신설됩니다.",
+        "무단취업 또는 허위정보로 인한 종료 통지에 대해서는 서면 통지 후 10영업일 이내에 반대 진술서를 제출할 수 있으며, 어려운 사정 등 형평성 사유로는 이의를 제기할 수 없습니다.",
+        "최대 기간을 초과하는 프로그램 연장 신청 시, 새 연장 기간 시작 최소 3개월 전까지 SEVIS를 통한 전자 신청과 증빙서류를 제출해야 하며 지연 제출은 예외 없이 불허됩니다.",
+        "오페어(Au pair) 범주의 별도 연장 규정은 폐지되고, 일반 규정에 따라 프로그램 종료 90일 전까지 연장 신청을 해야 합니다.",
+        "경미한 위반과 중대한 위반의 구분을 없애고, 재개 불가 위반을 제외한 모든 경우 스폰서가 30일 이내에 SEVIS 상태 수정(Correct SEVIS Status) 절차를 통해 기록을 바로잡아야 합니다."
+      ],
+      "who": "미국 내 J-1 교환방문자와 이들의 J-2 동반 배우자·자녀, 그리고 이들을 후원하는 지정 스폰서 기관이 영향을 받습니다.",
+      "action": "관련 스폰서와 교환방문자는 규정안의 세부 내용을 검토하고, 필요한 경우 규정 제정 절차에 따라 2026년 7월 30일부터 60일 이내에 regulations.gov(문서번호 DOS-2026-0859)를 통해 의견을 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "State Department Proposes Changes to J-1 Exchange Visitor Termination, Extension and Reinstatement Rules",
+      "summary": "The U.S. Department of State has issued a proposed rule revising how sponsors and the Department terminate, extend, and reinstate J-1 exchange visitor program participation under 22 CFR Part 62. The rule is not final or in effect, and the Department is accepting public comments for 60 days from July 30, 2026.",
+      "points": [
+        "Sponsors would be required to terminate an exchange visitor's program if the visitor falsifies or fails to provide truthful information or documents during application or the program.",
+        "The Department could terminate a program at its discretion when it or DHS has revoked or cancelled a visa with immediate effect, requiring the visitor to leave the country immediately.",
+        "Exchange visitors facing termination for unauthorized employment or falsified information may submit a written statement in opposition within 10 business days, but cannot appeal based on hardship.",
+        "Requests to extend a program beyond its maximum duration must be filed in SEVIS with supporting documents received at least three months before the new extension period, with no exceptions for late filings.",
+        "The separate au pair extension rule is being eliminated; au pairs would instead follow the general rule requiring extension requests 90 days before the program end date.",
+        "The rule removes the distinction between minor and substantive violations, requiring sponsors to correct most SEVIS record errors within 30 days using the Correct SEVIS Status process, with no fee to the Department."
+      ],
+      "who": "J-1 exchange visitors and their J-2 dependents, program sponsors, and host organizations administering exchange programs in the United States.",
+      "action": "Sponsors and interested parties may submit comments on the proposed rule through regulations.gov under Docket ID DOS-2026-0859 within 60 days of July 30, 2026."
+    },
+    "es": {
+      "title": "El Departamento de Estado propone cambios a las reglas de terminación, extensión y restablecimiento del Programa de Visitantes de Intercambio J-1",
+      "summary": "El Departamento de Estado de EE. UU. publicó una propuesta de regla que modifica cómo los patrocinadores y el Departamento terminan, extienden y restablecen la participación en el Programa de Visitantes de Intercambio J-1 bajo el 22 CFR Part 62. La regla no es final ni está vigente, y el Departamento acepta comentarios públicos durante 60 días a partir del 30 de julio de 2026.",
+      "points": [
+        "Los patrocinadores deberán terminar el programa de un visitante de intercambio si este falsifica o no proporciona información o documentos veraces durante la solicitud o el programa.",
+        "El Departamento podrá terminar un programa a su discreción cuando él o el DHS haya revocado o cancelado una visa con efecto inmediato, exigiendo que el visitante salga del país de inmediato.",
+        "Los visitantes de intercambio enfrentados a una terminación por empleo no autorizado o información falsificada podrán presentar una declaración de oposición por escrito dentro de 10 días hábiles, pero no podrán apelar por motivos de dificultad.",
+        "Las solicitudes de extensión más allá de la duración máxima del programa deberán presentarse en SEVIS, con documentación recibida al menos tres meses antes del nuevo periodo de extensión, sin excepciones por retrasos.",
+        "Se elimina la regla separada de extensión para au pairs; estos seguirán la regla general que exige presentar la solicitud 90 días antes de la fecha de finalización del programa.",
+        "La regla elimina la distinción entre infracciones menores y sustanciales, exigiendo que los patrocinadores corrijan la mayoría de los errores en los registros de SEVIS en un plazo de 30 días mediante el proceso Correct SEVIS Status, sin costo para el Departamento."
+      ],
+      "who": "Los visitantes de intercambio J-1 y sus dependientes J-2, los patrocinadores de programas y las organizaciones anfitrionas que administran programas de intercambio en Estados Unidos.",
+      "action": "Los patrocinadores y partes interesadas pueden enviar comentarios sobre la propuesta a través de regulations.gov bajo el número de expediente DOS-2026-0859 dentro de los 60 días posteriores al 30 de julio de 2026."
+    },
+    "zh": {
+      "title": "美国国务院提议修改J-1交流访问学者项目终止、延期与恢复有效状态规定",
+      "summary": "美国国务院发布一项拟议规则,修订赞助方和国务院在22 CFR第62部分下终止、延期及恢复J-1交流访问者项目参与资格的程序。该规则尚未最终确定,也未生效,国务院将自2026年7月30日起接受为期60天的公众意见征询。",
+      "points": [
+        "若交流访问者在申请或项目进行期间提供虚假信息或文件,赞助方将被要求终止其项目。",
+        "若国务院或国土安全部已立即生效撤销或取消某人签证,国务院可自行决定终止其项目,当事人须立即离境。",
+        "因未经授权就业或提供虚假信息而被终止项目的访问者,可在收到书面通知后10个工作日内提交书面异议陈述,但不得以经济困难等衡平理由提出上诉。",
+        "超过最长期限的项目延期申请须通过SEVIS提交,并在新延期开始前至少三个月提交相关证明文件,逾期申请将不予受理。",
+        "互惠生(Au pair)类别单独的延期规定将被取消,改为适用一般规则,需在项目结束前90天提出延期申请。",
+        "新规取消轻微违规与实质性违规的区分,除不可恢复的违规外,赞助方须在30天内通过“更正SEVIS状态”程序修正记录,且无需向国务院支付费用。"
+      ],
+      "who": "在美国的J-1交流访问者及其J-2随行家属,以及负责管理交流项目的赞助机构和接待单位将受到影响。",
+      "action": "赞助方及相关利益方可在2026年7月30日起60天内,通过regulations.gov网站以案号DOS-2026-0859提交对该拟议规则的意见。"
+    },
+    "ja": {
+      "title": "米国務省、J-1交流訪問者プログラムの終了・延長・有効ステータス復帰規定の改正を提案",
+      "summary": "米国務省は、22 CFR Part 62に基づくJ-1交流訪問者プログラムの参加終了、延長、有効ステータスへの復帰手続きを見直す規則案を発表しました。この規則はまだ最終決定も施行もされておらず、国務省は2026年7月30日から60日間、一般からの意見を募集しています。",
+      "points": [
+        "交流訪問者が申請時またはプログラム中に虚偽の情報や書類を提出した場合、スポンサーはプログラムを終了させなければならない事由が追加されます。",
+        "国務省または国土安全保障省がビザを即時効力で取り消した場合、国務省の裁量でプログラムを終了できる権限が新設され、該当者は直ちに出国する必要があります。",
+        "無許可就労や虚偽情報を理由に終了通知を受けた交流訪問者は、書面通知から10営業日以内に異議申立書を提出できますが、困難な事情などの衡平的理由による異議は認められません。",
+        "最長期間を超える延長申請は、新しい延長期間開始の少なくとも3か月前までにSEVIS経由で裏付け書類とともに提出する必要があり、遅延提出の例外は認められません。",
+        "オーペア(Au pair)区分の独自の延長規定は廃止され、一般規則に従いプログラム終了日の90日前までに延長申請を行うことになります。",
+        "軽微な違反と重大な違反の区別が撤廃され、復帰不可能な違反を除き、スポンサーは30日以内に「Correct SEVIS Status」手続きを通じて記録を修正する必要があり、国務省への手数料は発生しません。"
+      ],
+      "who": "米国内のJ-1交流訪問者およびそのJ-2同伴家族、交流プログラムを運営するスポンサー団体や受け入れ機関が影響を受けます。",
+      "action": "スポンサーおよび関係者は、2026年7月30日から60日以内に、regulations.gov(案件番号DOS-2026-0859)を通じて本規則案への意見を提出することができます。"
+    }
+  },
+  "added": "2026-10-12T19:02Z",
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "students",
+    "travel",
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of State"
+      },
+      {
+        "t": "li",
+        "x": "22 CFR Part 62"
+      },
+      {
+        "t": "li",
+        "x": "[Public Notice: 13087]"
+      },
+      {
+        "t": "li",
+        "x": "RIN: 1400-AF23"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Department of State."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Proposed rule with request for comment."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State's (Department's) Bureau of Educational and Cultural Affairs administers the Exchange Visitor Program, as set forth at 22 CFR part 62, wherein exchange visitors on educational and cultural exchange programs travel to the United States in the J visa category. The Department tracks the status and geographic location of exchange visitors through the Student and Exchange Visitor Information System (SEVIS), a database administered by the Department of Homeland Security. This Notice of Proposed Rulemaking (Proposed Rule) seeks to clarify the conditions under which a sponsor must terminate an exchange visitor's program and authorizes the Department, in its discretion, to terminate an exchange visitor's program in limited circumstances; modifies Extension of Program and Reinstatement to valid program status in their entirety by eliminating outdated requirements and introducing updated procedures that make use of current SEVIS functionality; amends Definitions to include definitions for “Unauthorized Employment” and “Valid Program Status”; and rescinds the separate extension of program provision for au pairs."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State will accept comments from the public for 60 days from July 30, 2026."
+      },
+      {
+        "t": "h",
+        "x": "ADDRESSES:"
+      },
+      {
+        "t": "p",
+        "x": "You may submit comments on this proposed rule by one of the following methods:"
+      },
+      {
+        "t": "p",
+        "x": "Online: Go to www.regulations.gov. Enter Docket ID: DOS-2026-0859 in the search bar to locate this rule. As required by the Administrative Procedure Act at 5 U.S.C. 553(b)(4), you can also find a plain language summary of the proposed rule at this location."
+      },
+      {
+        "t": "p",
+        "x": "Email: Send comments to JExchanges@state.gov. Include “RIN 1400-AF23” in the subject line of your email."
+      },
+      {
+        "t": "p",
+        "x": "All comments should include the commenter's name, the organization they represent (if applicable), and a mailing address. If the Department cannot read your comment or contact you for clarification, we may not be able to consider it. After the 60-day comment period closes, the Department will review all relevant feedback and publish a final rule as soon as possible."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Rebecca Pasini, Deputy Assistant Secretary for Private Sector Exchange, U.S. Department of State, SA-5, 5th Floor, 2200 C Street NW, Washington, DC 20522. Email: JExchanges@state.gov."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "p",
+        "x": "The Secretary of State is authorized to promulgate such rules and regulations as may be necessary to carry out the functions of the Department of State. 22 U.S.C. 2651a(a)(4). The Mutual Educational and Cultural Exchange Act of 1961, as amended, authorized the Department of State (and the newly established Bureau of Education and Cultural Affairs) to carry out the purposes of and manage, coordinate, and oversee programs established pursuant to the Act. 22 U.S.C. 2451 et seq. The Department of State is proposing modifications to Subpart C of the Code of Federal Regulations, Title 22: Foreign Relations, Part 62—Exchange Visitor Program (Subpart C—Status of Exchange Visitors). Subpart C governs the status of nonimmigrant exchange visitors who travel to the United States on J-1 visas and their accompanying spouses and/or dependents, if any, who travel to the United States on J-2 visas. This proposed rule specifically addresses termination of program participation under 22 CFR 62.40, extension of an exchange visitors' program under 22 CFR 62.43, and reinstatement of exchange visitor records to valid program status under 22 CFR 62.45. The ( printed page 48022) status of any accompanying spouses and/or dependents mirrors the status of the exchange visitors they accompany. For purposes of this proposed rule, references to exchange visitor records include the records of accompanying spouses and/or dependents unless stated otherwise."
+      },
+      {
+        "t": "p",
+        "x": "Subpart C was last modified in 1999, when the former U.S. Information Agency (USIA), which previously had oversight of the Exchange Visitor Program, issued an interim final rule with request for comment (64 FR 44123, Aug. 13, 1999). That rule replaced a prior policy statement published in the Federal Register on April 24, 1997. The 1999 regulations were developed for operation in a paper-based environment."
+      },
+      {
+        "t": "p",
+        "x": "The Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA) directed the Attorney General to create an electronic system to collect information on F, M, and J nonimmigrants in response to concerns that such individuals could fall out of status and remain in the United States without authorization. In 2001, section 416 of the USA PATRIOT Act (Pub. L. 107-56) amended IIRIRA to mandate the expansion and implementation of that system. In January 2003, the Department of Homeland Security (DHS) and the Department launched SEVIS, a web-based platform for tracking and monitoring F, M, and J nonimmigrants throughout the duration of their participation in approved programs."
+      },
+      {
+        "t": "h",
+        "x": "Termination of Program Participation"
+      },
+      {
+        "t": "p",
+        "x": "This proposed rule addresses the termination of exchange visitor program participation under 22 CFR 62.40. The proposed rule provides an additional basis for which a sponsor must terminate an exchange visitor's participation in their exchange program; namely, when an exchange visitor falsifies or fails to provide a full and truthful response, information, or documents as part of his or her exchange visitor application or during the ongoing exchange program."
+      },
+      {
+        "t": "p",
+        "x": "The proposed rule also amends 22 CFR 62.40 to expand circumstances where the Department may exercise its discretionary authority to terminate exchange visitor program participation. Under the proposed rule, the Department may terminate an exchange visitor's status when the Department or DHS has revoked or cancelled a visa with immediate effect. In such cases, the individual must immediately leave the country or risk removal. The proposed rule also provides that the Department may terminate an exchange visitor's program when an exchange visitor falsifies or fails to provide a full and truthful response, information, or documents as part of his or her exchange visitor application or during the ongoing exchange program. For example, exchange visitors may be asked to provide proof of a U.S. address, educational qualifications, or attendance at the site of activity. Accurate information is necessary for the sponsors and the Department to assess whether exchange visitors continue to meet the conditions of their nonimmigrant status. A new procedure is also being proposed where an exchange visitor may challenge the Department's termination decision for unauthorized employment or falsifying information or documentation by submitting a statement in opposition within 10 business days of the Department's written notice. Exchange visitors may not appeal on the basis of hardship or other equitable considerations. These regulatory changes are intended to further support the program's objectives of ensuring visitor welfare, program integrity, and national security."
+      },
+      {
+        "t": "h",
+        "x": "Extension of Program"
+      },
+      {
+        "t": "p",
+        "x": "The proposed replacement of 22 CFR 62.43 (Extension of Program) streamlines and clarifies the processes for extensions, both within and beyond the maximum program duration, by integrating these procedures with SEVIS functionalities. Sponsors currently have the authority to extend exchange visitor programs up to the permitted duration of the category of exchange programs. However, consistent with existing regulations, if exchange visitors are seeking to extend beyond the permitted maximum duration, sponsors must obtain Department approval. This rule proposes to establish a deadline for submitting such extension requests. After submitting the electronic application for extension in SEVIS, the Department must receive the supporting documentation no later than three months prior to the new extension period. There will be no exceptions for late submissions."
+      },
+      {
+        "t": "p",
+        "x": "To ensure consistency across all program categories, this proposed rule deletes 22 CFR 62.31(o) extension of program under the Au pair category, which currently stateses: “Applications to the Department for extensions of six, nine, or 12 months, must be received by the Department not less than 30 calendar days prior to the expiration of the exchange visitor's initial authorized stay . . .” Under this proposed rule, extensions for au pairs will be governed by the general rules and timelines contained in the proposed 22 CFR 62.43, which will require submission 90 days prior to the expiration of the exchange visitor's program end date. These revisions align with Executive Order 14219 (“Ensuring Lawful Governance and Implementing the President's 'Department of Government Efficiency' Deregulatory Initiative”, 90 FR 10583, Feb. 19, 2025), which directs agencies to streamline obsolete regulatory provisions."
+      },
+      {
+        "t": "h",
+        "x": "Reinstatement to Valid Program Status"
+      },
+      {
+        "t": "p",
+        "x": "The Department monitors the valid program status of exchange visitors in SEVIS. Designated sponsors must use SEVIS to validate initial program participation, report failures to begin programs, and indicate the early completion or termination of programs (22 CFR 62.13). Whether an exchange visitor completes their program ahead of schedule, voluntarily ends their participation, or has their program involuntarily terminated, sponsors must promptly update the exchange visitor's record in SEVIS to reflect this change and keep the status of the exchange visitor's SEVIS record up to date. This proposed rule revises 22 CFR 62.2 by adding a definition for “Valid Program Status” as the current and accurate status of an exchange visitor's SEVIS record from the time designated sponsors issue a Form DS-2019 through the visitor's active participation in an exchange program and including the visitor's final status upon completion, cessation, graduation, termination, or other program conclusion. The definition relates to any current or future status as contained in the SEVIS record: Initial, Active, Inactive, Terminated, Transferred, Invalid, and No Show. The proposed rule also adds a definition for “Unauthorized Employment,” aligning it with existing U.S. Citizenship and Immigration Services (USCIS) policy language. DHS administers and enforces the Immigration and Nationality Act (INA), as amended. Other federal and state agencies rely on SEVIS data to determine compliance with laws and regulations."
+      },
+      {
+        "t": "p",
+        "x": "When SEVIS was implemented, designated sponsors transitioned from paper files to electronic reporting. Sponsors are required under 22 CFR 62.12(a)(2) to maintain accurate, current, and updated SEVIS records. They must also ensure that program participation matches the activities described in SEVIS and listed on the Form DS-2019 (22 CFR 62.10(d))."
+      },
+      {
+        "t": "p",
+        "x": "Sponsors must report program status violations in SEVIS. When a record does not accurately reflect an exchange visitor's program status, whether through administrative oversight, ( printed page 48023) inadvertence, or neglect on the part of the sponsors, exchange visitors, or both, or due to unexpected circumstances beyond their control, the sponsor must either correct the record or request a reinstatement."
+      },
+      {
+        "t": "p",
+        "x": "The current regulation categorizes violations into three types: (1) minor or technical infractions, (2) substantive violations, and (3) non-reinstatable violations. The proposed rule eliminates the distinction between minor or technical infractions and substantive violations, requiring that, within 30 days, sponsors fix an exchange visitor's record in SEVIS using the Correct SEVIS Status process for all but non-reinstatable violations. This proposed rule provides a simplified system to ensure data integrity by replacing the previous deadlines of 120 days for minor infractions and giving sponsors an easy way to ensure accurate SEVIS records without compromising the program or requiring Department approval. Thus, the “Correct SEVIS Status” action must be used when a sponsor mistakenly changes the status of an exchange visitor's SEVIS record to Active, Inactive, Terminated, Transferred, Invalid, and No Show due to administrative error, neglect, or circumstances beyond their control, or when the error is caused by system changes. The Correct SEVIS Status action must also be used if an exchange visitor fails to request a timely update, such as a transfer or program extension, causing their record to mistakenly reflect an incorrect status, or if a student fails to maintain a full course of study (as defined in § 62.2) without prior consultation with the sponsor and their academic advisor."
+      },
+      {
+        "t": "p",
+        "x": "Sponsors will have 30 days from the date the SEVIS record went into the incorrect status to use the Correct SEVIS Status action to return SEVIS records to Active or Inactive status with no application or fee to the Department of State. There is no time limit for changing records from Invalid or Active status to Initial status if the exchange visitor has not entered the United States."
+      },
+      {
+        "t": "p",
+        "x": "The “Correct SEVIS Status” action updates the status of the exchange visitor's record immediately. If the J-2 spouse and/or dependent's SEVIS record changed alongside the J-1, it will automatically update. If not, the J-2 record must be corrected separately. If a sponsor is unable to correct the SEVIS record using the 30-day window, a Reinstatement application must be submitted."
+      },
+      {
+        "t": "p",
+        "x": "Previously, the Department would not consider requests made after 270 days, as such delays were seen as a lack of program continuity. In an effort to align with the policies provided by DHS, the Department will evaluate requests to reinstate exchange visitor records to Active status if the exchange visitor has not been out of status for more than the time period DHS has set (currently five months). If the exchange visitor has been out of status for more than the time established in DHS's policy, the Department will only consider requests where the sponsor can demonstrate that the failure to file was due to exceptional circumstances and that the request was filed as promptly as possible under those circumstances. There is no time limit for requesting a reinstatement to update a record to Inactive status."
+      },
+      {
+        "t": "p",
+        "x": "Sponsors may not use the Correct SEVIS Status action or submit a Reinstatement application to update an exchange visitor's record to Active status if the exchange visitor:"
+      },
+      {
+        "t": "li",
+        "x": "Did not maintain their original program objective identified under their category in22 CFR part 62 Subpart B (Specific Program Provisions);"
+      },
+      {
+        "t": "li",
+        "x": "Failed to maintain required insurance coverage required by22 CFR 62.14;"
+      },
+      {
+        "t": "li",
+        "x": "Was involuntarily suspended or terminated by sponsor or host organization;"
+      },
+      {
+        "t": "li",
+        "x": "Received a favorable waiver recommendation under INA § 212(e);"
+      },
+      {
+        "t": "li",
+        "x": "Received DHS approval for a change of status to a different nonimmigrant class of admission; or"
+      },
+      {
+        "t": "li",
+        "x": "Failed to pay the fee mandated byPublic Law 104-208."
+      },
+      {
+        "t": "p",
+        "x": "Reinstatement applications must be initiated in SEVIS and followed by submission of supporting documentation within ten (10) days to the Department. Sponsors must pay a non-refundable fee (listed in 62.17) and submit a written statement on official letterhead declaring:"
+      },
+      {
+        "t": "li",
+        "x": "The exchange visitor's continued pursuit of the original program objective;"
+      },
+      {
+        "t": "li",
+        "x": "That the lapse was due to oversight, inadvertence, or factors beyond the control of the sponsor;"
+      },
+      {
+        "t": "li",
+        "x": "That denial would impose unusual hardship on the exchange visitor;"
+      },
+      {
+        "t": "li",
+        "x": "That no unauthorized employment occurred; and,"
+      },
+      {
+        "t": "li",
+        "x": "The exchange visitor's accurate program end date."
+      },
+      {
+        "t": "p",
+        "x": "The proposed rule relocates and updates the definition of “Unauthorized Employment” to § 62.2. It mirrors the language found in Volume 7, Part B, Chapter 6 of the U.S. Citizenship and Immigration Services (USCIS) Policy Manual,[1] which defines unauthorized employment as:"
+      },
+      {
+        "t": "p",
+        "x": "“[A]ny service or labor performed for an employer within the United States by an alien who is not authorized by the INA or USCIS to accept employment or who exceeds the scope or period of the alien's employment authorization.” [2]"
+      },
+      {
+        "t": "p",
+        "x": "For purposes of this rule, unauthorized employment does not include activities that are normally approvable and appropriate for the visitor's category ( e.g., honoraria for scholars giving lectures or consultations)."
+      },
+      {
+        "t": "h",
+        "x": "Regulatory Analysis"
+      },
+      {
+        "t": "h",
+        "x": "Administrative Procedure Act"
+      },
+      {
+        "t": "p",
+        "x": "The Department has historically determined that rulemakings regarding the Exchange Visitor Program involve a foreign affairs function of the United States and therefore are exempt from notice and comment (5 U.S.C. 553(a)).[3] However, due to the Department's interest in seeking public comment on this rule, the Department is soliciting comments during a 60-day comment period, to which it will respond in a final rule, should the Department choose to finalize all or part of this proposal."
+      },
+      {
+        "t": "h",
+        "x": "Unfunded Mandates Reform Act of 1995"
+      },
+      {
+        "t": "p",
+        "x": "This proposed rule will not result in expenditures of $100 million or more in any one year by State, Local, or Tribal governments, or by the private sector. It also does not significantly or uniquely affect small governments. Therefore, no actions were deemed necessary under the Unfunded Mandates Reform Act of 1995. ( printed page 48024)"
+      },
+      {
+        "t": "h",
+        "x": "Executive Order 13175—Consultation and Coordination With Indian Tribal Governments"
+      },
+      {
+        "t": "p",
+        "x": "The Department has determined that this proposed rule does not have Tribal implications, does not impose substantial direct compliance costs on Indian Tribal governments, and does not preempt Tribal law. Accordingly, the requirements of Executive Order 13175 do not apply to this rulemaking."
+      },
+      {
+        "t": "h",
+        "x": "Regulatory Flexibility Act/Executive Order 13272—Consideration of Small Entities"
+      },
+      {
+        "t": "p",
+        "x": "While the Department of State considers this rule exempt from the notice-and-comment provisions of 5 U.S.C. 553, and thus not subject to the Regulatory Flexibility Act (5 U.S.C. 601 et seq.) or Executive Order 13272, we are nonetheless providing an assessment of the potential burden on small entities."
+      },
+      {
+        "t": "p",
+        "x": "Terminations: The Department estimates that approximately 1,400 designated sponsors operate under the Exchange Visitor Program. The Department anticipates the benefits resulting in changes to the termination of program section will significantly strengthen operational transparency and effectiveness without imposing additional economic burdens on sponsors or exchange visitors, ultimately advancing the program's foreign policy objectives. Any changes resulting from this proposed rule impose no new net regulatory costs. Expenses related to an exchange visitor submitting a statement of opposition and the review process conducted by the Deputy Assistant Secretary for Private Sector Exchange are expected to be minimal and rare."
+      },
+      {
+        "t": "p",
+        "x": "Analysis of Fee Impact for Extensions: Under the existing regulations, designated sponsors must obtain Department approval for program extensions that exceed the maximum duration allowed for a specific Exchange Visitor Program category. This process requires Department resources for review and adjudication. The fee associated with this request is designed to cover these administrative costs."
+      },
+      {
+        "t": "p",
+        "x": "The current fee for filing an application for specific exchange visitor status changes is $367 per application (22 CFR 62.17(b)(2)). Based on program data provided for 2022 through 2024, the Department processed an average of approximately 14,563 “Program Extension beyond Maximum Duration” requests annually (calculated from 43,690 requests over three years). Applying the $367 fee results in an estimated total annual cost recovery of approximately $5,344,871 (14,563 requests * $367/request). This cost reflects the Department resources required to act on these requests, which involves verifying the justification for the extension against program regulations and participant eligibility. Unlike the reinstatement fee discussed previously (which designated sponsors can potentially avoid by maintaining timely updates to their records in SEVIS), this fee is required whenever a sponsor seeks an extension for an exchange visitor beyond the standard maximum program duration permitted by regulations for a category, necessitating Department review. The fee per request affects all designated sponsors submitting such requests, including small entities. The estimated total annual cost across all designated sponsors is noteworthy (~$5.34 million), driven by the high volume of extension requests (~14,563 annually)."
+      },
+      {
+        "t": "p",
+        "x": "Unlike the reinstatement fee, which applies to a much smaller volume of requests and may be avoidable, the extension fee applies to a more common request. While the cost per individual request may not be significant, substantial cumulative costs arise from numerous extension requests. The Department also acknowledges that the number of extension requests has remained relatively consistent from 2022 to 2024, with a nominal increase in requests in 2024 compared to the prior year. The Department cannot forecast how the volume of these requests may change in the coming years."
+      },
+      {
+        "t": "p",
+        "x": "Benefits: A primary benefit of the fee is cost recovery for the U.S. Government, ensuring that the administrative costs associated with processing these requests are borne by the entities requesting the service rather than the public or appropriated funds. The fee also implicitly underscores the nature of extensions beyond the maximum duration, which still represents a relatively small proportion of the total exchange visitor population annually."
+      },
+      {
+        "t": "p",
+        "x": "Conclusion: Based on recent data, the established fee for Program Extension beyond Maximum Duration requests, which is applied to an average of approximately 14,563 requests annually, results in an estimated cost recovery of approximately $5.34 million annually. This fee allows the Department of State to cover the administrative expenses associated with providing the necessary services for these specific extension requests made by designated sponsors on behalf of exchange visitors."
+      },
+      {
+        "t": "p",
+        "x": "Analysis of Fee Impact for Reinstatements: Available data shows that only 21 formal reinstatement requests were submitted in 2024. Preparing an extension or reinstatement request typically requires 1 hour of administrative time, resulting in an estimated total annual cost of approximately $2,100 for all affected sponsors combined. This low volume and minimal administrative burden support the Department's determination that the economic impact of this rule on small entities is minimal."
+      },
+      {
+        "t": "p",
+        "x": "The rule codifies existing SEVIS procedures, such as Correct SEVIS Status, that allow sponsors to fix most issues without Department intervention or fees. Fees only apply when designated sponsors fail to take timely action and reinstatement is necessary to correct SEVIS records."
+      },
+      {
+        "t": "p",
+        "x": "The rule is structured to promote preventative compliance: sponsors who maintain accurate and timely SEVIS records will not incur new fees. This helps reduce the financial burden, particularly for smaller sponsors with limited resources."
+      },
+      {
+        "t": "p",
+        "x": "This rule is also consistent with Executive Order 14192, Unleashing American Prosperity Through Deregulation, as it imposes no new net regulatory costs and codifies existing operational practices. The primary direct cost is the non-refundable fee for submitting reinstatement requests to the Department. This fee has consistently remained at $367 per application, as specified in the Exchange Visitor Program regulations at 22 CFR 62.17(b)(2). Program data from 2022 to 2024 indicates that the Department processed an average of 155 reinstatement requests annually (calculated from 465 requests over three years). Consequently, the estimated annual cost to designated sponsors for processing these requests totals $56,885 (155 requests * $367/request)."
+      },
+      {
+        "t": "p",
+        "x": "This proposed rule highlights the significance of quantifying costs and benefits, minimizing administrative burdens, aligning regulations, encouraging flexibility, promoting sponsor independence, and fostering self-reliance. The rule emphasizes the use of SEVIS, enabling designated sponsors to resolve many common record issues directly. This is expected to alleviate administrative burdens and save designated sponsors time when handling routine corrections. However, if designated sponsors fail to update records directly in SEVIS within designated timeframes, the sponsors must initiate the Reinstatement request in SEVIS and pay the non-refundable fee established under 22 CFR 62.17(b)(2). Reinstatement requests require review and processing by the ( printed page 48025) Department of State. The cost per sponsor will significantly depend on the number of reinstatement applications sponsors submit annually due to not utilizing the corrective actions available in SEVIS that do not require prior Department approval. Given the relatively low total number of these specific applications requiring Department involvement among approximately 1,400 designated sponsors, along with the general preventability of such requests through timely actions in SEVIS, the Department believes that the fee is unlikely to impose a significant economic impact on a substantial number of designated sponsors. A more detailed analysis comparing potential costs to designated sponsors' revenues would require data on sponsor size distribution and reinstatement request frequency by size, which is not currently available."
+      },
+      {
+        "t": "p",
+        "x": "The Department recognizes that SEVIS functionality has evolved since it was first implemented in 2003. This rule reflects those developments and aligns the regulatory framework with current sponsor responsibilities and technological capabilities. To ensure clear and consistent program compliance, the Department intends to review and update relevant sponsor guidance as SEVIS tools continue to advance."
+      },
+      {
+        "t": "p",
+        "x": "The regulations outline streamlined procedures (Correct SEVIS Status) that allow designated sponsors to address many record issues directly in SEVIS within specified timeframes without requiring Department intervention or a fee. The annual estimate reflects the expenses incurred by designated sponsors who seek Department action rather than a rise in costs for designated sponsors using SEVIS as intended. Furthermore, the Department acknowledges that reinstatement requests declined yearly from 2022 to 2024. As such, the Department of State does not make projections regarding potential changes in the number of requests in the coming years."
+      },
+      {
+        "t": "p",
+        "x": "Benefits: The primary benefits include: (1) Increased efficiency and reduced administrative burden for designated sponsors managing routine record corrections in SEVIS; (2) Enhanced accuracy and timeliness of SEVIS data, resulting from streamlined correction processes and the incentive structure established by the fee, which supports program administration and oversight; (3) Cost recovery for Department resources utilized to resolve more complex reinstatement cases that exceed standard corrections; (4) Clear regulatory standards for designated sponsors regarding record maintenance and corrections; and, (5) Indirect benefits for exchange visitors, of resolving their status issues more efficiently, in contrast to potential adverse impacts on exchange visitors if designated sponsors fail to correct records promptly."
+      },
+      {
+        "t": "p",
+        "x": "Conclusion: The Department of State believes the proposed approach maximizes net benefits. The anticipated advantages—including enhanced sponsor efficiency, improved SEVIS data integrity, clearer regulatory standards, Department cost recovery, and potentially quicker resolutions for exchange visitors—are expected to outweigh the potential costs associated with the fee for reinstatement requests, which require direct Department involvement."
+      },
+      {
+        "t": "h",
+        "x": "Executive Orders 12866 and 13563—Regulatory Planning and Review"
+      },
+      {
+        "t": "p",
+        "x": "The Office of Information and Regulatory Affairs has determined that this proposed rule is significant within the meaning of section 3(f) of Executive Order 12866. The Department has reviewed this proposed rule to ensure consistency with the principles of cost-effectiveness, clarity, and regulatory flexibility described in these Executive Orders."
+      },
+      {
+        "t": "p",
+        "x": "In 2024, over 1,700 individual exchange visitor records were terminated. The top reasons were for breaking sponsor rules or regulations (975), failure to continue program activities (300), disciplinary reasons or criminal convictions (90), engaging in unauthorized employment (30), and reasons listed as “other” (450). The proposed modernization of 22 CFR 62.40 strengthens program administration by allowing for efficient electronic recording, tracking, and documentation of termination decisions, resulting in greater accuracy and timeliness of data while supporting proactive compliance monitoring. The new regulations also provide sponsors and exchange visitors with increased operational and regulatory clarity, while formalizing the Department's discretionary authority in the exchange visitor termination process through the introduction of defined procedural requirements. There are no new costs involved for updating the functionality in the SEVIS database. Sponsors shall continue the same monitoring and documentation of exchange visitors as is already expected. Exchange visitors who are terminated by the Department will be accorded the right to challenge the Department's termination."
+      },
+      {
+        "t": "h",
+        "x": "Executive Order 12988—Civil Justice Reform"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State has reviewed this proposed rule in accordance with Sections 3(a) and 3(b)(2) of Executive Order 12988. The rule is written to minimize ambiguity, reduce litigation, and establish clear legal standards."
+      },
+      {
+        "t": "h",
+        "x": "Executive Orders 12372 and 13132—Federalism"
+      },
+      {
+        "t": "p",
+        "x": "The Department has determined that this proposed rule does not have substantial direct effects on the states, on the relationships between the national government and the states, or on the distribution of power and responsibilities among the various levels of government. In accordance with Section 6 of Executive Order 13132, the rule does not have sufficient federalism implications to require consultation or preparation of a federalism summary impact statement. Executive Order 12372, which governs intergovernmental review of federal programs, does not apply to this regulation."
+      },
+      {
+        "t": "h",
+        "x": "Paperwork Reduction Act"
+      },
+      {
+        "t": "p",
+        "x": "Under the Paperwork Reduction Act of 1995 (44 U.S.C. Chapter 35), agencies must obtain approval from the Office of Management and Budget (OMB) for any new collection of information. This proposed rule does not impose any new reporting or recordkeeping requirements on sponsors, and therefore, does not require approval under the PRA."
+      },
+      {
+        "t": "h",
+        "x": "List of Subjects in 22 CFR Part 62"
+      },
+      {
+        "t": "li",
+        "x": "Cultural exchange programs"
+      },
+      {
+        "t": "li",
+        "x": "Reporting and recordkeeping requirements"
+      },
+      {
+        "t": "p",
+        "x": "Accordingly, 22 CFR part 62 is proposed to be amended to read as follows:"
+      },
+      {
+        "t": "h",
+        "x": "PART 62—EXCHANGE VISITOR PROGRAM"
+      },
+      {
+        "t": "p",
+        "x": "1. The authority citation for 22 CFR Part 62 is revised to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "Authority: 8 U.S.C. 1101(a)(15)(J), 1182, 1184, 1258; 22 U.S.C. 1431-1442, 2451 et seq.;22 U.S.C. 2451; Foreign Affairs Reform and Restructuring Act of 1998, Pub. L. 105-277, Div. G, 112 Stat. 2681 et seq.; Reorganization Plan No. 2 of 1977, 3 CFR, 1977 Comp., p. 200; E.O. 12048 of March 27, 1978, 3 CFR, 1978 Comp., p. 168; Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA) of 1996, Pub. L. 104-208, Div. C, 110 Stat. 3009-546, as amended; USA PATRIOT Act, Pub. L. 107-56, sec. 416, 115 Stat. 354; Enhanced Border Security and Visa Entry Reform Act of 2002, Pub. L. 107-173, 116 Stat. 543."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 48026)"
+      },
+      {
+        "t": "p",
+        "x": "§ 62.2"
+      },
+      {
+        "t": "p",
+        "x": "[Amended]"
+      },
+      {
+        "t": "p",
+        "x": "2. Section 62.2 is amended to add the following definitions, in alphabetical order:"
+      },
+      {
+        "t": "p",
+        "x": "Unauthorized employment: Any service or labor performed for an employer within the United States by foreign nationals who are not authorized by the Immigration and Nationality Act or the U.S. Citizenship and Immigration Services to accept employment, or who exceed the scope or period of their employment authorization. This definition also applies to accompanying J-2 spouses and/or dependents who perform such labor without prior Department of Homeland Security authorization."
+      },
+      {
+        "t": "p",
+        "x": "Valid program status: The current and accurate status of an exchange visitor's SEVIS record from the time designated sponsors issue a Form DS-2019 through the visitor's active participation in an exchange program and including the visitor's final status upon completion, cessation, graduation, termination, or other program conclusion."
+      },
+      {
+        "t": "p",
+        "x": "§ 62.31"
+      },
+      {
+        "t": "p",
+        "x": "[Amended]"
+      },
+      {
+        "t": "p",
+        "x": "3. Remove and reserve paragraph (o)."
+      },
+      {
+        "t": "p",
+        "x": "4. Amend § 62.40 by revising it to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 62.40"
+      },
+      {
+        "t": "p",
+        "x": "Termination of program participation."
+      },
+      {
+        "t": "p",
+        "x": "(a) A sponsor must terminate an exchange visitor's participation in his or her program when the exchange visitor:"
+      },
+      {
+        "t": "p",
+        "x": "(1) Fails to pursue the activities for which he or she was admitted to the United States;"
+      },
+      {
+        "t": "p",
+        "x": "(2) Is unable to continue the program unless otherwise exempted pursuant to these regulations;"
+      },
+      {
+        "t": "p",
+        "x": "(3) Violates the sponsor's rules governing the program, if, in the sponsor's discretion after reviewing Department of State guidance, termination is warranted;"
+      },
+      {
+        "t": "p",
+        "x": "(4) Fails to maintain the insurance coverage required under § 62.14 of these regulations; or"
+      },
+      {
+        "t": "p",
+        "x": "(5) Falsifies or fails to provide full and truthful response, information, or documents as part of his or her application or ongoing program."
+      },
+      {
+        "t": "p",
+        "x": "(b) The Department of State may terminate an exchange visitor's participation in his or her program when:"
+      },
+      {
+        "t": "p",
+        "x": "(1) The Department of State or the Department of Homeland Security has revoked or canceled the exchange visitor's visa with immediate effect;"
+      },
+      {
+        "t": "p",
+        "x": "(2) An exchange visitor engages in unauthorized employment; or"
+      },
+      {
+        "t": "p",
+        "x": "(3) An exchange visitor falsifies or fails to provide full and truthful response, information, or documents as part of his or her application or ongoing program."
+      },
+      {
+        "t": "p",
+        "x": "(c) Upon a finding of any of the acts set forth at paragraph (b)(2) or (3) of this section, the Office of Private Sector Exchange shall serve an exchange visitor with not less than thirty (30) days written notice of intent to terminate an exchange visitor's participation in his or her program. Such notice must specify the grounds for the proposed termination and its effective date, advise the exchange visitor that he or she may oppose the termination, and identify the procedures for submitting a statement of opposition thereto."
+      },
+      {
+        "t": "p",
+        "x": "(d) Within ten (10) days after service of such written notice of intent to terminate, the exchange visitor may submit a statement in opposition to the proposed termination to the Deputy Assistant Secretary for Private Sector Exchange (Deputy Assistant Secretary). Exchange visitors may not appeal on the basis of hardship or other equitable considerations."
+      },
+      {
+        "t": "p",
+        "x": "(e) The submission of such statement will stay the effective date of the proposed termination pending the decision of the Deputy Assistant Secretary."
+      },
+      {
+        "t": "p",
+        "x": "(f) Upon consideration of such statement, the Deputy Assistant Secretary will issue a written decision confirming or withdrawing the proposed termination. The decision of the Deputy Assistant Secretary is not subject to administrative appeal."
+      },
+      {
+        "t": "p",
+        "x": "5. Amend § 62.43 by revising it to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 62.43"
+      },
+      {
+        "t": "p",
+        "x": "Extension of program"
+      },
+      {
+        "t": "p",
+        "x": "(a) Extension within the maximum duration."
+      },
+      {
+        "t": "p",
+        "x": "(1) Sponsors may extend an exchange visitor's participation in the Exchange Visitor Program through SEVIS up to the maximum permissible period of participation authorized for his or her specific program category."
+      },
+      {
+        "t": "p",
+        "x": "(2) A sponsor that extends an exchange visitor's program must:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Issue the exchange visitor a duly executed Form DS-2019 reflecting the extension; and"
+      },
+      {
+        "t": "p",
+        "x": "(ii) Where the new program end date exceeds the exchange visitor's fixed period of admission, issue the Form DS-2019 before the exchange visitor applies for an extension of stay with the Department of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "(b) Extension beyond the maximum duration."
+      },
+      {
+        "t": "p",
+        "x": "(1) The sponsor seeking a program extension on behalf of an exchange visitor in excess of that authorized for his or her specific category of participation must:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Submit their extension request through SEVIS and email supporting documentation to the Department of State no later than three months prior to the beginning of the desired extension period for the exchange visitor;"
+      },
+      {
+        "t": "p",
+        "x": "(ii) Include proof of payment of the required non-refundable extension fee as set forth in § 62.17; and"
+      },
+      {
+        "t": "p",
+        "x": "(iii) Adequately document the reasons which justify such extension."
+      },
+      {
+        "t": "p",
+        "x": "(2) For au pairs, sponsors may submit applications to the Department of State for extensions of six, nine, or 12 months and must include the following additional supporting documentation on the sponsor's organizational letterhead:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Au pair's name, SEVIS identification number, date of birth, the length of the extension period being requested; and,"
+      },
+      {
+        "t": "p",
+        "x": "(ii) Verification that the au pair completed the educational requirements of the initial program."
+      },
+      {
+        "t": "p",
+        "x": "(3) Upon Department of State approval, a sponsor that extends an exchange visitor's program must:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Issue the exchange visitor a duly executed Form DS-2019 reflecting the extension; and"
+      },
+      {
+        "t": "p",
+        "x": "(ii) Where the new program end date exceeds the exchange visitor's fixed period of admission, issue the Form DS-2019 before the exchange visitor applies for an extension of stay with the Department of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "6. Revise § 62.45 by amending it to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 62.45"
+      },
+      {
+        "t": "p",
+        "x": "Reinstatement to valid program status."
+      },
+      {
+        "t": "p",
+        "x": "(a) Maintain valid program status. Designated sponsors must maintain current and accurate SEVIS records. Failure to maintain an exchange visitor's valid program status may negatively affect that individual's ability to enter or remain in the United States. The Department of State may determine that a sponsor's failure to maintain valid program status endangers the welfare of the exchange visitor or U.S. national security. Sponsors must use one of the correction options outlined in this section to restore valid program status when necessary."
+      },
+      {
+        "t": "p",
+        "x": "(b) Correct SEVIS status."
+      },
+      {
+        "t": "p",
+        "x": "(1) Sponsors must use the “Correct SEVIS Status” action to address incorrect record statuses resulting from administrative oversight, inadvertence, or circumstances beyond the control of either the sponsor or exchange visitor."
+      },
+      {
+        "t": "p",
+        "x": "(2) Sponsors will have 30 days from the status change date to use this action to return SEVIS records to Active or Inactive status. Under this provision, sponsors can only correct Terminated records if the sponsor initiates the ( printed page 48027) termination. After 30 days from the status change, a reinstatement application is required."
+      },
+      {
+        "t": "p",
+        "x": "(3) Sponsors must also use this action to change records from Active or Invalid status to Initial status if the exchange visitor has not entered the United States. There is no time limit for using this action if the Form DS-2019 has not been used for entry."
+      },
+      {
+        "t": "p",
+        "x": "(c) Reinstatements."
+      },
+      {
+        "t": "p",
+        "x": "(1) If sponsors cannot correct the status of the SEVIS record using the action above within the permitted 30-day timeframe, they must request a formal reinstatement from the Department of State."
+      },
+      {
+        "t": "p",
+        "x": "(2) The Department of State will evaluate requests to reinstate exchange visitor records to Active status if submitted within the time period consistent with DHS policies (currently five months). Alternatively, if the sponsor can demonstrate that the failure to file was due to exceptional circumstances and that the request was filed as promptly as possible under those circumstances, the Department may consider the request. There is no time limit for requesting a reinstatement to update a record to reflect Inactive status."
+      },
+      {
+        "t": "p",
+        "x": "(3) Sponsors must initiate the reinstatement application in SEVIS and, within 10 calendar days, email the Department of State the following:"
+      },
+      {
+        "t": "p",
+        "x": "(i) A signed statement on sponsor letterhead, including:"
+      },
+      {
+        "t": "p",
+        "x": "(A) That the exchange visitor is pursuing or intended to pursue their original activity;"
+      },
+      {
+        "t": "p",
+        "x": "(B) That the lapse was due to oversight, inadvertence, or circumstances beyond the control of the sponsor;"
+      },
+      {
+        "t": "p",
+        "x": "(C) That denial would cause unusual hardship to the exchange visitor;"
+      },
+      {
+        "t": "p",
+        "x": "(D) That no unauthorized employment occurred; and,"
+      },
+      {
+        "t": "p",
+        "x": "(E) The exchange visitor's accurate program end date."
+      },
+      {
+        "t": "p",
+        "x": "(ii) A copy of the pay.gov receipt and I-901 repayment proof;"
+      },
+      {
+        "t": "p",
+        "x": "(iii) A copy of the exchange visitor's Form I-94, visa, and passport; and"
+      },
+      {
+        "t": "p",
+        "x": "(iv) Any other supporting documentation deemed necessary."
+      },
+      {
+        "t": "p",
+        "x": "(4) Notification of Decision. The Department of State will notify sponsors of its decision. If approved, the SEVIS record will be updated, and an automated email will be sent to the sponsor. The sponsor should issue an updated Form DS-2019 to the exchange visitor reflecting the change. If denied, the sponsor will receive an email explaining the reason(s) for the denial."
+      },
+      {
+        "t": "p",
+        "x": "(5) The Department of State will not consider reinstatement requests to Active status if the exchange visitor:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Did not maintain their original program objective;"
+      },
+      {
+        "t": "p",
+        "x": "(ii) Failed to maintain required insurance coverage required by 22 CFR 62.14;"
+      },
+      {
+        "t": "p",
+        "x": "(iii) Engaged in unauthorized employment;"
+      },
+      {
+        "t": "p",
+        "x": "(iv) Was involuntarily suspended or terminated by sponsor or host site;"
+      },
+      {
+        "t": "p",
+        "x": "(v) Received a favorable waiver recommendation under INA § 212(e);"
+      },
+      {
+        "t": "p",
+        "x": "(vi) Received DHS approval for a change of status to a different nonimmigrant class of admission; or"
+      },
+      {
+        "t": "p",
+        "x": "(viii) Failed to pay the fee mandated by Public Law 104-208."
+      },
+      {
+        "t": "p",
+        "x": "(e) Failure to maintain valid program status. Sponsors must routinely monitor and update SEVIS records. A sponsor's failure to take appropriate action using the correction of SEVIS status or reinstatement processes may be considered a violation of 22 CFR 62.13 (Notification requirements)."
+      },
+      {
+        "t": "p",
+        "x": "Rebecca A. Pasini,"
+      },
+      {
+        "t": "p",
+        "x": "Deputy Assistant Secretary, Bureau of Educational and Cultural Affairs, U.S. Department of State."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. See Volume 7, Adjustment of Status, Part B, 245(a) Adjustment, Chapter 6, Unauthorized Employment (INA 245(c)(2) and INA 245(c)(8), Section A, Definitions, Subsection 1, Unauthorized Employment [7 USCIS-PM B.6(A)(1)]."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2. See 8 CFR 274a.12(a)-(c) for examples of authorized employment."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3. Foreign governments seek to promote the ability of their foreign nationals to visit and study in the United States, and the Department of State establishes modified exchange programs pursuant to memoranda of understanding with foreign governments, based on the foreign policy needs of the United States. This practice reflects the flexibility needed for a program whose purpose is to promote the interests of the United States abroad and further “peaceful relations between the United States and the other countries of the world.” 22 U.S.C. 2451. In connection with that purpose, a major purpose of this rule is to protect the health, safety, and welfare of foreign nationals while they are in the United States on their programs. Failure to protect the health, safety and welfare of these foreign nationals can have direct and substantial adverse effects on the foreign affairs of the United States."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-15450 Filed 7-29-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4710-05-P"
+      }
+    ],
+    "fetched": "2026-10-12T19:02Z",
+    "from": "federalregister.gov",
+    "chars": 42999
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발급하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접 관련된 연방규정집(CFR) 편 번호 및 각 부의 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제 완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국무부",
+      "22 CFR Part 62",
+      "[공고 번호: 13087]",
+      "RIN: 1400-AF23",
+      "기관:",
+      "미합중국 국무부.",
+      "조치:",
+      "의견 요청을 포함한 규칙제정안.",
+      "요약:",
+      "국무부(이하 \"국무부\") 교육문화국(Bureau of Educational and Cultural Affairs)은 22 CFR part 62에 규정된 교환방문자 프로그램(Exchange Visitor Program)을 관리하며, 이 프로그램에 따라 교육 및 문화 교류 프로그램에 참여하는 교환방문자는 J 비자 범주로 미국에 입국합니다. 국무부는 국토안보부(DHS)가 운영하는 데이터베이스인 학생교환방문자정보시스템(Student and Exchange Visitor Information System, SEVIS)을 통해 교환방문자의 신분 상태 및 지리적 위치를 추적합니다. 본 규칙제정예고(Proposed Rule)는 스폰서가 교환방문자의 프로그램을 종료해야 하는 조건을 명확히 하고, 제한된 상황에서 국무부가 재량에 따라 교환방문자의 프로그램을 종료할 수 있도록 권한을 부여하며, 현재의 SEVIS 기능을 활용한 개정된 절차를 도입하고 시대에 뒤떨어진 요건을 삭제함으로써 프로그램 연장(Extension of Program) 및 유효 프로그램 상태로의 복귀(Reinstatement) 조항 전체를 수정하고, \"무허가 고용(Unauthorized Employment)\" 및 \"유효 프로그램 상태(Valid Program Status)\"에 대한 정의를 포함하도록 정의 조항을 개정하며, 오페어(au pair)에 대한 별도의 프로그램 연장 규정을 폐지하고자 합니다.",
+      "일자:",
+      "국무부는 2026년 7월 30일부터 60일간 대중으로부터 의견을 접수합니다.",
+      "주소:",
+      "본 규칙제정안에 대한 의견은 다음 방법 중 하나로 제출할 수 있습니다.",
+      "온라인: www.regulations.gov에 접속하십시오. 검색창에 도켓 ID: DOS-2026-0859를 입력하여 본 규칙을 찾으십시오. 행정절차법(Administrative Procedure Act) 5 U.S.C. 553(b)(4)에서 요구하는 바와 같이, 이 위치에서 본 규칙제정안의 평이한 언어 요약본도 확인할 수 있습니다.",
+      "이메일: JExchanges@state.gov로 의견을 제출하십시오. 이메일 제목란에 \"RIN 1400-AF23\"을 포함하십시오.",
+      "모든 의견에는 의견 제출자의 성명, 대표하는 단체(해당되는 경우), 우편 주소를 포함해야 합니다. 국무부가 귀하의 의견을 판독할 수 없거나 명확한 설명을 위해 귀하에게 연락할 수 없는 경우, 해당 의견을 고려하지 못할 수 있습니다. 60일간의 의견 접수 기간이 종료된 후, 국무부는 모든 관련 의견을 검토하고 가능한 한 신속히 최종 규칙을 공표할 것입니다.",
+      "추가 정보 문의처:",
+      "레베카 파시니(Rebecca Pasini), 민간부문 교류 담당 부차관보(Deputy Assistant Secretary for Private Sector Exchange), 미합중국 국무부, SA-5, 5th Floor, 2200 C Street NW, Washington, DC 20522. 이메일: JExchanges@state.gov.",
+      "보충 정보:",
+      "국무장관은 국무부의 기능 수행에 필요한 규칙 및 규정을 제정할 권한을 가집니다. 22 U.S.C. 2651a(a)(4). 개정된 1961년 상호교육문화교류법(Mutual Educational and Cultural Exchange Act of 1961)은 국무부(및 신설된 교육문화국)가 동법의 목적을 수행하고 동법에 따라 수립된 프로그램을 관리, 조정 및 감독할 권한을 부여하였습니다. 22 U.S.C. 2451 이하. 국무부는 연방규정집(Code of Federal Regulations) 제22편: 대외관계(Foreign Relations), 제62부, 교환방문자 프로그램(Exchange Visitor Program)의 하위부(Subpart) C(교환방문자의 신분, Status of Exchange Visitors)에 대한 수정을 제안합니다. 하위부 C는 J-1 비자로 미국에 입국하는 비이민 교환방문자 및 이에 동반하는 배우자 및/또는 부양가족(있는 경우)이 J-2 비자로 미국에 입국하는 경우 그 신분을 규율합니다. 본 규칙제정안은 22 CFR 62.40에 따른 프로그램 참여 종료, 22 CFR 62.43에 따른 교환방문자 프로그램의 연장, 22 CFR 62.45에 따른 교환방문자 기록의 유효 프로그램 상태로의 복귀를 구체적으로 다룹니다. (인쇄본 페이지 48022) 동반 배우자 및/또는 부양가족의 신분은 이들이 동반하는 교환방문자의 신분을 그대로 따릅니다. 본 규칙제정안의 목적상, 교환방문자 기록에 대한 언급은 별도로 명시되지 않는 한 동반 배우자 및/또는 부양가족의 기록을 포함합니다.",
+      "Subpart C는 1999년에 마지막으로 개정되었으며, 당시 교류방문자 프로그램을 감독하던 구 미국정보청(U.S. Information Agency, USIA)이 의견수렴을 요청하는 잠정 최종규칙을 발표하였습니다(64 FR 44123, 1999년 8월 13일). 해당 규칙은 1997년 4월 24일 연방관보에 게재되었던 기존 정책성명을 대체한 것입니다. 1999년 규정은 서면 기반 환경에서의 운영을 전제로 마련된 것이었습니다.",
+      "1996년 불법이민개혁 및 이민자책임법(Illegal Immigration Reform and Immigrant Responsibility Act of 1996, IIRIRA)은 F, M, J 비이민자에 관한 정보를 수집하기 위한 전자 시스템을 구축하도록 법무장관에게 지시하였으며, 이는 해당 외국인들이 신분을 상실한 채 미국 내에 무단으로 체류할 수 있다는 우려에 따른 것이었습니다. 2001년, 애국법(USA PATRIOT Act, Pub. L. 107-56) 제416조는 IIRIRA를 개정하여 해당 시스템의 확대 및 시행을 의무화하였습니다. 2003년 1월, 국토안보부(Department of Homeland Security, DHS)와 국무부는 F, M, J 비이민자가 승인된 프로그램에 참여하는 전 기간 동안 이들을 추적 및 관리하기 위한 웹 기반 플랫폼인 SEVIS를 도입하였습니다.",
+      "프로그램 참여의 종료",
+      "본 규칙제정안은 22 CFR 62.40에 따른 교류방문자 프로그램 참여의 종료에 관한 사항을 다룹니다. 본 규칙제정안은 스폰서가 교류방문자의 교류 프로그램 참여를 종료해야 하는 추가적인 사유를 규정하는바, 이는 교류방문자가 자신의 교류방문자 신청서 작성 또는 진행 중인 교류 프로그램 과정에서 허위 사실을 기재하거나 완전하고 진실한 답변, 정보 또는 서류를 제출하지 아니한 경우입니다.",
+      "본 규칙제정안은 또한 22 CFR 62.40을 개정하여 국무부가 교류방문자 프로그램 참여를 종료할 수 있는 재량권을 행사할 수 있는 상황을 확대합니다. 본 규칙제정안에 따르면, 국무부 또는 DHS가 비자를 즉시 효력으로 취소 또는 무효화한 경우, 국무부는 교류방문자의 신분을 종료할 수 있습니다. 이러한 경우 해당인은 즉시 미국을 떠나야 하며, 그렇지 않을 경우 강제퇴거의 위험에 처하게 됩니다. 또한 본 규칙제정안은 교류방문자가 자신의 교류방문자 신청서 작성 또는 진행 중인 교류 프로그램 과정에서 허위 사실을 기재하거나 완전하고 진실한 답변, 정보 또는 서류를 제출하지 아니한 경우 국무부가 해당 교류방문자의 프로그램을 종료할 수 있음을 규정합니다. 예를 들어, 교류방문자는 미국 내 주소, 학력 또는 활동 장소에서의 참석 사실을 증명하는 자료를 제출하도록 요구받을 수 있습니다. 정확한 정보는 스폰서와 국무부가 교류방문자가 비이민 신분 요건을 계속 충족하고 있는지를 평가하는 데 필수적입니다. 또한 교류방문자가 무단취업 또는 정보나 서류의 허위 기재를 이유로 한 국무부의 종료 결정에 이의를 제기할 수 있는 새로운 절차가 제안되는바, 이는 국무부의 서면 통지일로부터 영업일 기준 10일 이내에 이의 진술서를 제출하는 방식입니다. 교류방문자는 곤란한 사정이나 그 밖의 형평상 고려사항을 근거로 이의를 제기할 수 없습니다. 이러한 규정 개정은 방문자의 복지, 프로그램의 완전성 및 국가안보를 확보한다는 프로그램의 목적을 한층 더 뒷받침하기 위한 것입니다.",
+      "프로그램의 연장",
+      "22 CFR 62.43(프로그램의 연장)의 대체규정안은 SEVIS 기능과의 통합을 통하여 허용된 프로그램 최대기간 이내 및 그 기간을 초과하는 연장 절차를 간소화하고 명확히 합니다. 현재 스폰서는 해당 교류 프로그램 범주에서 허용된 기간까지 교류방문자 프로그램을 연장할 수 있는 권한을 가지고 있습니다. 다만 기존 규정과 마찬가지로, 교류방문자가 허용된 최대기간을 초과하여 연장을 신청하고자 하는 경우에는 스폰서가 국무부의 승인을 받아야 합니다. 본 규칙제정안은 이러한 연장 신청의 제출기한을 설정할 것을 제안합니다. SEVIS를 통한 전자 연장신청서 제출 이후, 국무부는 새로운 연장기간 개시 3개월 전까지 관련 증빙서류를 수령하여야 합니다. 지연 제출에 대한 예외는 인정되지 않습니다.",
+      "모든 프로그램 범주 간의 일관성을 보장하기 위하여, 이 규칙안은 오페어(Au pair) 범주에 따른 프로그램 연장에 관한 22 CFR 62.31(o)를 삭제합니다. 해당 조항은 현재 다음과 같이 규정하고 있습니다. “6개월, 9개월 또는 12개월 연장에 관한 국무부(Department) 신청서는 교환방문자의 최초 승인된 체류기간 만료일 최소 30일 전까지 국무부에 접수되어야 한다…” 이 규칙안에 따르면, 오페어에 대한 연장은 제안된 22 CFR 62.43에 포함된 일반 규칙 및 일정에 따라 규율되며, 이는 교환방문자 프로그램 종료일 만료 90일 전까지 신청서를 제출하도록 요구할 것입니다. 이러한 개정 사항은 행정명령 14219호(“합법적 통치 보장 및 대통령의 '정부효율부' 규제완화 이니셔티브 이행”, 90 FR 10583, 2025년 2월 19일)에 부합하는 것으로, 동 행정명령은 각 기관에 시대에 뒤떨어진 규제 조항을 간소화할 것을 지시하고 있습니다.",
+      "유효 프로그램 상태로의 복귀",
+      "국무부는 SEVIS를 통해 교환방문자의 유효 프로그램 상태를 모니터링합니다. 지정된 후원기관은 SEVIS를 사용하여 최초 프로그램 참여를 확인하고, 프로그램 미개시를 보고하며, 프로그램의 조기 종료 또는 종결을 표시하여야 합니다(22 CFR 62.13). 교환방문자가 일정보다 일찍 프로그램을 완료하든, 자발적으로 참여를 종료하든, 또는 비자발적으로 프로그램이 종료되든 관계없이, 후원기관은 이러한 변경사항을 반영하도록 SEVIS 내 교환방문자의 기록을 신속히 갱신하고 교환방문자의 SEVIS 기록 상태를 최신 상태로 유지하여야 합니다. 이 규칙안은 22 CFR 62.2를 개정하여 “유효 프로그램 상태(Valid Program Status)”에 대한 정의를 추가하는바, 이는 지정된 후원기관이 Form DS-2019를 발급한 시점부터 방문자의 교환프로그램에 대한 활발한 참여 기간을 거쳐, 완료, 중단, 수료, 종결 또는 기타 프로그램 종료 시의 최종 상태를 포함하여, 교환방문자의 SEVIS 기록의 현재적이고 정확한 상태를 의미합니다. 이 정의는 SEVIS 기록에 포함된 현재 또는 향후의 모든 상태, 즉 최초(Initial), 활성(Active), 비활성(Inactive), 종결(Terminated), 이전(Transferred), 무효(Invalid), 미출석(No Show)과 관련됩니다. 이 규칙안은 또한 “무단취업(Unauthorized Employment)”에 대한 정의를 추가하여, 이를 미국 시민권 및 이민서비스국(USCIS)의 기존 정책 용어와 일치시키고 있습니다. 국토안보부(DHS)는 개정된 이민국적법(INA)을 관리하고 집행합니다. 다른 연방 및 주 기관은 법률 및 규정 준수 여부를 판단하기 위하여 SEVIS 데이터에 의존합니다.",
+      "SEVIS가 도입되었을 때, 지정된 후원기관은 종이 서류에서 전자 보고 방식으로 전환하였습니다. 후원기관은 22 CFR 62.12(a)(2)에 따라 정확하고 최신의 갱신된 SEVIS 기록을 유지하여야 합니다. 또한 후원기관은 프로그램 참여 내용이 SEVIS에 기재되고 Form DS-2019에 기재된 활동과 일치하도록 보장하여야 합니다(22 CFR 62.10(d)).",
+      "후원기관은 SEVIS에서 프로그램 상태 위반 사항을 보고하여야 합니다. 기록이 교환방문자의 프로그램 상태를 정확히 반영하지 못하는 경우, 이는 후원기관, 교환방문자 또는 양측 모두의 행정적 간과, (원문 페이지 48023) 부주의 또는 과실로 인한 것이든, 또는 그들의 통제를 벗어난 예기치 못한 상황으로 인한 것이든 관계없이, 후원기관은 해당 기록을 정정하거나 복귀를 신청하여야 합니다.",
+      "현행 규정은 위반 사항을 세 가지 유형으로 분류합니다. (1) 경미하거나 기술적인 위반, (2) 실질적 위반, (3) 복귀 불가능한 위반입니다. 제안된 규칙은 경미하거나 기술적인 위반과 실질적 위반 간의 구분을 폐지하며, 복귀 불가능한 위반을 제외한 모든 경우에 대해 스폰서가 30일 이내에 SEVIS 상태 수정(Correct SEVIS Status) 절차를 이용하여 교환방문자의 기록을 SEVIS에서 수정하도록 요구합니다. 이 제안된 규칙은 경미한 위반에 대한 기존의 120일 기한을 대체함으로써 데이터 무결성을 보장하는 간소화된 체계를 제공하며, 프로그램의 완전성을 저해하거나 국무부의 승인을 요구하지 않고도 스폰서가 정확한 SEVIS 기록을 쉽게 유지할 수 있는 방법을 제공합니다. 따라서 'SEVIS 상태 수정' 조치는 스폰서가 행정상의 오류, 부주의, 또는 자신의 통제를 벗어난 상황으로 인하여 또는 시스템 변경으로 인한 오류로 인하여 교환방문자의 SEVIS 기록 상태를 활성(Active), 비활성(Inactive), 종료(Terminated), 전학(Transferred), 무효(Invalid), 및 불출석(No Show)으로 잘못 변경한 경우에 사용되어야 합니다. 또한 SEVIS 상태 수정 조치는 교환방문자가 전학 또는 프로그램 연장과 같은 적시의 갱신 신청을 하지 아니하여 기록이 잘못된 상태를 반영하게 된 경우, 또는 학생이 스폰서 및 지도교수와 사전 협의 없이 제62.2조에 정의된 정규 과정(full course of study)을 유지하지 못한 경우에도 사용되어야 합니다.",
+      "스폰서는 SEVIS 기록이 잘못된 상태로 전환된 날로부터 30일 이내에 SEVIS 상태 수정 조치를 이용하여 SEVIS 기록을 활성 또는 비활성 상태로 되돌릴 수 있으며, 이 경우 국무부에 신청서나 수수료를 제출할 필요가 없습니다. 교환방문자가 미국에 입국하지 아니한 경우, 기록을 무효 또는 활성 상태에서 초기(Initial) 상태로 변경하는 데에는 기한의 제한이 없습니다.",
+      "'SEVIS 상태 수정' 조치는 교환방문자 기록의 상태를 즉시 갱신합니다. J-1과 함께 J-2 배우자 및/또는 부양가족의 SEVIS 기록이 변경된 경우에는 자동으로 갱신됩니다. 그렇지 아니한 경우에는 J-2 기록을 별도로 수정하여야 합니다. 스폰서가 30일의 기간 내에 SEVIS 기록을 수정할 수 없는 경우에는 복귀(Reinstatement) 신청서를 제출하여야 합니다.",
+      "이전에는 국무부가 270일이 경과한 후에 제출된 신청을 고려하지 아니하였는데, 이는 그러한 지연이 프로그램의 연속성 결여로 간주되었기 때문입니다. 국토안보부(DHS)가 제공하는 정책과의 정합성을 도모하기 위하여, 국무부는 교환방문자가 국토안보부(DHS)가 정한 기간(현재 5개월) 이내에 자격을 상실한 경우, 교환방문자 기록을 활성 상태로 복귀시키는 요청을 검토합니다. 교환방문자가 국토안보부(DHS)의 정책에서 정한 기간을 초과하여 자격을 상실한 경우, 국무부는 스폰서가 신청 지연이 예외적인 사정으로 인한 것이며 그러한 사정 하에서 가능한 한 신속하게 신청이 이루어졌음을 입증할 수 있는 경우에 한하여 요청을 검토합니다. 기록을 비활성 상태로 갱신하기 위한 복귀 요청에는 기한의 제한이 없습니다.",
+      "스폰서는 교환방문자가 다음 중 어느 하나에 해당하는 경우, 교환방문자의 기록을 활성 상태로 갱신하기 위하여 SEVIS 상태 수정 조치를 사용하거나 복귀 신청서를 제출할 수 없습니다.",
+      "22 CFR 제62부 하위파트 B(특정 프로그램 규정)에 따라 자신의 범주에서 명시된 원래의 프로그램 목적을 유지하지 아니한 경우.",
+      "22 CFR 62.14에서 요구하는 필수 보험 보장을 유지하지 아니한 경우.",
+      "스폰서 또는 주최 기관에 의하여 비자발적으로 정지되거나 종료된 경우.",
+      "이민국적법(INA) 제212조(e)항에 따라 긍정적 면제 권고를 받은 경우.",
+      "다른 비이민 입국 범주로의 신분 변경에 대하여 국토안보부(DHS)의 승인을 받은 경우. 또는",
+      "공법(Public Law) 104-208에서 의무화한 수수료를 납부하지 아니한 경우.",
+      "복귀 신청서는 SEVIS에서 개시되어야 하며, 그 후 10일 이내에 뒷받침 서류를 국무부에 제출하여야 합니다. 스폰서는 (제62.17조에 열거된) 환불 불가 수수료를 납부하여야 하며, 공식 서신용지에 다음 사항을 선언하는 서면 진술서를 제출하여야 합니다.",
+      "교환방문자가 원래의 프로그램 목적을 계속 추구하고 있다는 사실.",
+      "자격 상실이 스폰서의 간과, 부주의, 또는 스폰서의 통제를 벗어난 요인으로 인한 것이라는 사실.",
+      "거부할 경우 교환방문자에게 이례적인 어려움을 초래할 것이라는 사실.",
+      "무허가 취업이 발생하지 아니하였다는 사실. 그리고,",
+      "교환방문자의 정확한 프로그램 종료일.",
+      "제안된 규칙은 '무허가 고용(Unauthorized Employment)'의 정의를 제62.2조로 이전 및 갱신합니다. 이는 미국 시민권 및 이민 서비스국(USCIS) 정책 매뉴얼 제7권 제B부 제6장[1]에 수록된 문언을 그대로 따른 것으로서, 무허가 고용을 다음과 같이 정의하고 있습니다.",
+      "\"이민 및 국적법(INA) 또는 USCIS로부터 고용을 승인받지 아니한 외국인, 또는 자신의 고용 허가의 범위나 기간을 초과한 외국인이 미국 내에서 고용주를 위하여 수행하는 모든 용역 또는 노무.\" [2]",
+      "본 규칙의 목적상, 무허가 고용에는 해당 방문자 범주에 통상적으로 승인 가능하고 적절한 활동(예: 강연이나 자문을 제공하는 학자에 대한 사례금)은 포함되지 아니합니다.",
+      "규제 분석",
+      "행정절차법",
+      "국무부는 교환방문자 프로그램(Exchange Visitor Program)에 관한 규칙 제정이 미국의 외교 기능과 관련된다고 역사적으로 판단하여 왔으며, 따라서 통지 및 의견수렴 절차(5 U.S.C. 553(a))로부터 면제됩니다.[3] 다만, 국무부는 본 규칙에 대한 공공의 의견을 구하는 데 관심이 있으므로, 60일간의 의견수렴 기간을 두어 의견을 받고자 하며, 국무부가 본 제안의 전부 또는 일부를 최종화하기로 결정하는 경우 최종 규칙에서 이에 대하여 답변할 것입니다.",
+      "1995년 비자금 지원 의무 개혁법(Unfunded Mandates Reform Act of 1995)",
+      "본 제안된 규칙은 주, 지방 또는 부족 정부, 또는 민간 부문에 의하여 어느 한 해에 1억 달러 이상의 지출을 초래하지 아니합니다. 또한 소규모 정부에 중대하거나 특이한 영향을 미치지 아니합니다. 따라서 1995년 비자금 지원 의무 개혁법에 따라 필요한 조치는 없는 것으로 판단되었습니다. (인쇄된 페이지 48024)",
+      "행정명령 13175호, 인디언 부족 정부와의 협의 및 조정",
+      "국무부는 본 제안된 규칙이 부족에 대한 영향을 미치지 아니하며, 인디언 부족 정부에 상당한 직접적 준수 비용을 부과하지 아니하고, 부족법을 선점하지 아니한다고 판단하였습니다. 따라서 행정명령 13175호의 요건은 본 규칙 제정에 적용되지 아니합니다.",
+      "규제유연성법(Regulatory Flexibility Act)/행정명령 13272호, 소규모 기업체 고려",
+      "국무부는 본 규칙이 5 U.S.C. 553의 통지 및 의견수렴 규정으로부터 면제되며, 따라서 규제유연성법(5 U.S.C. 601 이하) 또는 행정명령 13272호의 적용을 받지 아니한다고 보고 있으나, 그럼에도 불구하고 소규모 기업체에 미치는 잠재적 부담에 대한 평가를 제공합니다.",
+      "종료: 국무부는 약 1,400개의 지정 후원기관이 교환방문자 프로그램 하에서 운영되고 있는 것으로 추산합니다. 국무부는 프로그램 종료 부분의 변경으로 인한 혜택이 후원기관이나 교환방문자에게 추가적인 경제적 부담을 부과하지 아니하면서도 운영상의 투명성과 효과성을 현저히 강화하여 궁극적으로 프로그램의 외교정책 목표를 증진시킬 것으로 예상합니다. 본 제안된 규칙으로 인한 어떠한 변경도 새로운 순 규제 비용을 부과하지 아니합니다. 교환방문자가 반대 진술서를 제출하는 것 및 민간부문교환 담당 부차관보가 수행하는 검토 절차와 관련된 비용은 미미하고 드물 것으로 예상됩니다.",
+      "연장에 대한 수수료 영향 분석: 현행 규정상, 지정 후원기관은 특정 교환방문자 프로그램 범주에 허용되는 최대 기간을 초과하는 프로그램 연장에 대하여 국무부의 승인을 받아야 합니다. 이 절차에는 검토 및 심사를 위한 국무부의 자원이 필요합니다. 이 요청과 관련된 수수료는 이러한 행정 비용을 충당하기 위하여 마련된 것입니다.",
+      "특정 교환방문자 신분 변경 신청을 위한 현행 수수료는 신청 건당 367달러입니다(22 CFR 62.17(b)(2)). 2022년부터 2024년까지 제공된 프로그램 데이터에 따르면, 국무부는 연평균 약 14,563건의 \"최대 기간을 초과하는 프로그램 연장\" 요청을 처리하였습니다(3년간 총 43,690건의 요청을 기준으로 산정). 367달러의 수수료를 적용할 경우, 연간 총 비용 회수액은 약 5,344,871달러로 추산됩니다(14,563건 * 건당 367달러). 이 비용은 해당 요청을 처리하는 데 필요한 국무부 자원을 반영한 것으로, 연장 사유를 프로그램 규정 및 참가자 자격 요건에 비추어 검증하는 작업을 포함합니다. 앞서 설명한 재지정(reinstatement) 수수료와 달리(지정 스폰서가 SEVIS 기록을 적시에 갱신함으로써 회피할 수 있는 수수료), 이 수수료는 스폰서가 규정상 특정 범주에 대해 허용된 표준 최대 프로그램 기간을 초과하여 교환방문자의 연장을 요청할 때마다 부과되며, 이는 국무부의 검토를 필요로 합니다. 건당 수수료는 이러한 요청을 제출하는 모든 지정 스폰서에게 영향을 미치며, 여기에는 소규모 기관도 포함됩니다. 모든 지정 스폰서를 합산한 연간 총 추정 비용은 주목할 만한 수준이며(약 534만 달러), 이는 연장 요청의 높은 건수(연간 약 14,563건)에 기인합니다.",
+      "훨씬 적은 건수에 적용되며 회피가 가능할 수 있는 재지정 수수료와 달리, 연장 수수료는 보다 일반적인 요청에 적용됩니다. 개별 요청당 비용은 크지 않을 수 있으나, 다수의 연장 요청으로 인해 상당한 누적 비용이 발생합니다. 국무부는 또한 2022년부터 2024년까지 연장 요청 건수가 비교적 일정하게 유지되었으며, 2024년에는 전년 대비 소폭 증가하였음을 인지하고 있습니다. 국무부는 향후 몇 년간 이러한 요청 건수가 어떻게 변화할지 예측할 수 없습니다.",
+      "편익: 이 수수료의 주된 편익은 미국 정부의 비용 회수로서, 이러한 요청을 처리하는 데 따른 행정 비용이 일반 대중이나 배정된 예산이 아니라 서비스를 요청하는 기관에 의해 부담되도록 보장하는 것입니다. 또한 이 수수료는 최대 기간을 초과하는 연장이 연간 전체 교환방문자 수에서 여전히 상대적으로 작은 비중을 차지한다는 점을 암묵적으로 강조합니다.",
+      "결론: 최근 데이터에 따르면, 연평균 약 14,563건에 적용되는 최대 기간을 초과하는 프로그램 연장 요청에 대해 설정된 수수료는 연간 약 534만 달러의 비용 회수를 초래합니다. 이 수수료를 통해 국무부는 교환방문자를 대신하여 지정 스폰서가 제출하는 이러한 특정 연장 요청에 필요한 서비스를 제공하는 데 따른 행정 비용을 충당할 수 있습니다.",
+      "재지정에 대한 수수료 영향 분석: 입수 가능한 데이터에 따르면 2024년에 제출된 공식 재지정 요청은 단 21건에 불과하였습니다. 연장 또는 재지정 요청을 준비하는 데는 통상 1시간의 행정 처리 시간이 소요되며, 이에 따라 영향을 받는 모든 스폰서를 합산한 연간 총 추정 비용은 약 2,100달러입니다. 이러한 낮은 건수와 최소한의 행정 부담은 이 규칙이 소규모 기관에 미치는 경제적 영향이 미미하다는 국무부의 판단을 뒷받침합니다.",
+      "이 규칙은 스폰서가 국무부의 개입이나 수수료 없이 대부분의 문제를 해결할 수 있도록 하는 기존 SEVIS 절차, 예를 들어 SEVIS 상태 수정(Correct SEVIS Status) 절차를 성문화합니다. 수수료는 지정 스폰서가 적시에 조치를 취하지 아니하여 SEVIS 기록을 수정하기 위한 재지정이 필요한 경우에만 적용됩니다.",
+      "이 규칙은 예방적 준수를 장려하도록 구성되어 있습니다. 정확하고 적시에 SEVIS 기록을 유지하는 스폰서는 새로운 수수료를 부담하지 않게 됩니다. 이는 특히 자원이 제한된 소규모 스폰서의 재정적 부담을 경감하는 데 도움이 됩니다.",
+      "이 규칙은 새로운 순 규제 비용을 부과하지 않고 기존의 운영 관행을 성문화한다는 점에서 규제를 통한 미국의 번영 촉진(Unleashing American Prosperity Through Deregulation)에 관한 행정명령 14192호와도 부합합니다. 주된 직접 비용은 국무부에 복권 신청을 제출하는 데 따른 환불 불가 수수료입니다. 이 수수료는 교류방문자 프로그램 규정인 22 CFR 62.17(b)(2)에 명시된 바와 같이 신청 1건당 367달러로 계속 유지되어 왔습니다. 2022년부터 2024년까지의 프로그램 자료에 따르면 국무부는 연평균 155건의 복권 신청을 처리한 것으로 나타납니다(3년간 총 465건을 기준으로 산출). 따라서 이러한 신청을 처리하는 데 따른 지정후원기관의 연간 예상 비용은 총 56,885달러입니다(155건 x 건당 367달러).",
+      "이번 제안 규칙은 비용과 편익을 정량화하고, 행정 부담을 최소화하며, 규정을 정비하고, 유연성을 장려하며, 후원기관의 독립성을 증진하고, 자율성을 함양하는 것의 중요성을 강조합니다. 이 규칙은 지정후원기관이 다수의 일반적인 기록 문제를 직접 해결할 수 있도록 SEVIS의 활용을 강조합니다. 이를 통해 일상적인 수정 작업을 처리할 때 지정후원기관의 행정 부담이 완화되고 시간이 절약될 것으로 예상됩니다. 다만, 지정후원기관이 지정된 기한 내에 SEVIS에서 직접 기록을 갱신하지 못하는 경우, 해당 후원기관은 SEVIS에서 복권 신청을 개시하고 22 CFR 62.17(b)(2)에 따라 정해진 환불 불가 수수료를 납부해야 합니다. 복권 신청은 (48025페이지 인쇄) 국무부의 검토 및 처리를 거쳐야 합니다. 후원기관별 비용은 사전 국무부 승인이 필요하지 않은 SEVIS 내 시정 조치를 활용하지 않음으로 인해 후원기관이 매년 제출하는 복권 신청 건수에 크게 좌우될 것입니다. 약 1,400개의 지정후원기관 중 국무부의 개입이 필요한 이러한 특정 신청의 총 건수가 상대적으로 적다는 점, 그리고 SEVIS에서의 적시 조치를 통해 이러한 신청을 대체로 예방할 수 있다는 점을 고려할 때, 국무부는 해당 수수료가 상당수의 지정후원기관에 중대한 경제적 영향을 미칠 가능성은 낮다고 판단합니다. 지정후원기관의 수익과 잠재적 비용을 비교하는 보다 상세한 분석을 수행하려면 후원기관 규모 분포 및 규모별 복권 신청 빈도에 관한 자료가 필요하나, 이러한 자료는 현재 확보되어 있지 않습니다.",
+      "국무부는 SEVIS의 기능이 2003년 최초 시행 이후 계속 발전해 왔음을 인식하고 있습니다. 이 규칙은 그러한 발전 사항을 반영하며 현행 후원기관의 책임 및 기술적 역량에 맞추어 규제 체계를 정비합니다. 명확하고 일관된 프로그램 준수를 보장하기 위하여, 국무부는 SEVIS 도구가 계속 발전함에 따라 관련 후원기관 지침을 검토하고 갱신할 계획입니다.",
+      "해당 규정은 지정후원기관이 국무부의 개입이나 수수료 납부 없이 지정된 기한 내에 SEVIS에서 직접 다수의 기록 문제를 처리할 수 있도록 하는 간소화된 절차(SEVIS 상태 수정, Correct SEVIS Status)를 규정하고 있습니다. 연간 추정치는 SEVIS를 본래 목적대로 사용하는 지정후원기관의 비용 증가가 아니라, 국무부의 조치를 구하는 지정후원기관이 부담하는 비용을 반영한 것입니다. 또한 국무부는 복권 신청 건수가 2022년부터 2024년까지 매년 감소하였음을 인지하고 있습니다. 따라서 국무부는 향후 신청 건수의 변동 가능성에 관한 예측을 하지 않습니다.",
+      "편익: 주요 편익은 다음과 같습니다. (1) SEVIS에서 일상적인 기록 수정을 관리하는 지정후원기관의 효율성 증대 및 행정 부담 경감, (2) 간소화된 수정 절차와 수수료를 통해 마련된 유인 구조로 인한 SEVIS 데이터의 정확성 및 적시성 향상으로, 이는 프로그램 운영 및 감독을 지원함, (3) 표준적인 수정 범위를 초과하는 보다 복잡한 복권 사안을 해결하는 데 투입되는 국무부 자원에 대한 비용 회수, (4) 기록 유지 및 수정에 관하여 지정후원기관에 제공되는 명확한 규제 기준, (5) 교류방문자에게 발생하는 간접적 편익으로서, 지정후원기관이 기록을 신속히 정정하지 못할 경우 교류방문자에게 미칠 수 있는 부정적 영향과 대비하여, 교류방문자의 신분 문제를 보다 효율적으로 해결할 수 있다는 점.",
+      "결론: 국무부는 제안된 접근 방식이 순편익을 극대화한다고 판단합니다. 스폰서 효율성 향상, SEVIS 데이터 무결성 개선, 더 명확한 규제 기준, 국무부의 비용 회수, 그리고 교환 방문자에 대한 잠재적으로 더 신속한 해결 등 예상되는 이점이, 국무부의 직접적인 관여가 필요한 복권 신청 수수료와 관련된 잠재적 비용을 상회할 것으로 예상됩니다.",
+      "행정명령 12866호 및 13563호, 규제 계획 및 검토",
+      "정보규제업무국(Office of Information and Regulatory Affairs)은 이 규칙안이 행정명령 12866호 제3조(f)항의 의미 내에서 중요한 규칙안에 해당한다고 결정하였습니다. 국무부는 이러한 행정명령에서 설명하는 비용 효율성, 명확성 및 규제 유연성의 원칙에 부합하도록 이 규칙안을 검토하였습니다.",
+      null,
+      "행정명령 12988호, 민사 사법 개혁",
+      "국무부(Department of State)는 행정명령 12988호 제3조(a)항 및 제3조(b)(2)항에 따라 이 규칙안을 검토하였습니다. 본 규칙은 모호성을 최소화하고, 소송을 줄이며, 명확한 법적 기준을 확립하기 위하여 작성되었습니다.",
+      "행정명령 12372호 및 13132호, 연방주의",
+      "국무부는 이 규칙안이 각 주에 대하여, 연방정부와 각 주 간의 관계에 대하여, 또는 각급 정부 간의 권한 및 책임 배분에 대하여 실질적인 직접적 영향을 미치지 아니한다고 판단하였습니다. 행정명령 13132호 제6조에 따라, 본 규칙은 협의 또는 연방주의 영향요약서 작성을 요하는 충분한 연방주의적 함의를 갖지 아니합니다. 연방 프로그램에 대한 정부 간 검토를 규율하는 행정명령 12372호는 본 규정에 적용되지 아니합니다.",
+      "문서업무감축법(Paperwork Reduction Act)",
+      "1995년 문서업무감축법(44 U.S.C. Chapter 35)에 따라, 각 기관은 신규 정보수집에 대하여 관리예산실(Office of Management and Budget, OMB)의 승인을 받아야 합니다. 본 규칙안은 후원자에게 어떠한 신규 보고 또는 기록보관 의무도 부과하지 아니하므로, 문서업무감축법(PRA)에 따른 승인을 요하지 아니합니다.",
+      "22 CFR 제62부 주제 목록",
+      "문화교류 프로그램",
+      "보고 및 기록보관 요건",
+      "따라서 22 CFR 제62부를 다음과 같이 개정할 것을 제안합니다.",
+      "제62부, 교환방문자 프로그램",
+      "1. 22 CFR 제62부의 근거 법령 인용을 다음과 같이 개정합니다.",
+      "근거 법령: 8 U.S.C. 1101(a)(15)(J), 1182, 1184, 1258; 22 U.S.C. 1431-1442, 2451 이하; 22 U.S.C. 2451; 1998년 대외관계 개편 및 재조정법(Foreign Affairs Reform and Restructuring Act), Pub. L. 105-277, Div. G, 112 Stat. 2681 이하; 1977년 조직개편계획 제2호, 3 CFR, 1977년 편찬본, 200면; 1978년 3월 27일자 행정명령 제12048호, 3 CFR, 1978년 편찬본, 168면; 1996년 불법이민개혁 및 이민자책임법(IIRIRA), Pub. L. 104-208, Div. C, 110 Stat. 3009-546, 개정됨; 미국애국법(USA PATRIOT Act), Pub. L. 107-56, sec. 416, 115 Stat. 354; 2002년 국경보안강화 및 비자발급개혁법(Enhanced Border Security and Visa Entry Reform Act), Pub. L. 107-173, 116 Stat. 543.",
+      "(인쇄본 48026면)",
+      "제62.2조",
+      "[개정]",
+      "2. 제62.2조를 다음 정의를 알파벳 순서로 추가하여 개정합니다.",
+      "무단 취업: 이민국적법(Immigration and Nationality Act) 또는 미국 시민권 이민국(U.S. Citizenship and Immigration Services, USCIS)의 승인을 받지 못한 외국인이 미국 내 고용주를 위하여 수행하는 모든 용역이나 노동, 또는 자신의 취업 허가의 범위나 기간을 초과하여 수행하는 용역이나 노동을 말합니다. 이 정의는 국토안보부의 사전 승인 없이 그러한 노동을 수행하는 동반 J-2 배우자 및/또는 피부양자에게도 적용됩니다.",
+      "유효한 프로그램 자격 상태: 지정된 스폰서가 DS-2019 양식을 발급한 시점부터 교류방문자의 교류 프로그램 참여 활동 기간을 거쳐 수료, 중단, 졸업, 종료 또는 기타 프로그램 종결에 따른 최종 상태에 이르기까지, 교류방문자의 SEVIS 기록상 현재의 정확한 상태를 말합니다.",
+      "제62.31조",
+      "[개정]",
+      "3. (o)항을 삭제하고 유보한다.",
+      "4. 제62.40조를 다음과 같이 개정한다.",
+      "제62.40조",
+      "프로그램 참여의 종료.",
+      "(a) 스폰서는 교류방문자가 다음 각 호에 해당하는 경우 해당 교류방문자의 프로그램 참여를 종료하여야 한다.",
+      "(1) 미국 입국 목적이 된 활동을 수행하지 아니하는 경우.",
+      "(2) 본 규정에 따라 달리 면제되지 아니하는 한, 프로그램을 계속할 수 없는 경우.",
+      "(3) 국무부의 지침을 검토한 후 스폰서의 재량에 따라 종료가 정당하다고 판단되는 경우로서, 프로그램을 관장하는 스폰서의 규정을 위반한 경우.",
+      "(4) 본 규정 제62.14조에서 요구하는 보험 보장을 유지하지 아니하는 경우. 또는",
+      "(5) 신청서 또는 진행 중인 프로그램의 일환으로 허위 진술을 하거나 완전하고 진실한 답변, 정보 또는 서류를 제공하지 아니하는 경우.",
+      "(b) 국무부는 다음 각 호에 해당하는 경우 교류방문자의 프로그램 참여를 종료할 수 있다.",
+      "(1) 국무부 또는 국토안보부가 교류방문자의 비자를 즉시 효력을 갖도록 취소하거나 무효화한 경우.",
+      "(2) 교류방문자가 무단 취업을 한 경우. 또는",
+      "(3) 교류방문자가 신청서 또는 진행 중인 프로그램의 일환으로 허위 진술을 하거나 완전하고 진실한 답변, 정보 또는 서류를 제공하지 아니한 경우.",
+      "(c) 본 조 (b)(2)항 또는 (3)항에 규정된 행위 중 어느 하나가 있었다고 판단되는 경우, 민간부문교류국(Office of Private Sector Exchange)은 교류방문자에게 프로그램 참여 종료 의사를 서면으로 최소 삼십(30)일 전에 통지하여야 한다. 그러한 통지에는 제안된 종료의 사유 및 그 발효일을 명시하여야 하며, 교류방문자가 해당 종료에 이의를 제기할 수 있음을 고지하고, 이에 대한 이의 진술서 제출 절차를 명시하여야 한다.",
+      "(d) 종료 의사에 관한 서면 통지를 송달받은 날로부터 십(10)일 이내에, 교류방문자는 민간부문교류 담당 부차관보(Deputy Assistant Secretary for Private Sector Exchange, 이하 \"부차관보\")에게 제안된 종료에 대한 이의 진술서를 제출할 수 있다. 교류방문자는 애로사항이나 기타 형평성에 관한 사유를 근거로 이의를 제기할 수 없다.",
+      "(e) 그러한 진술서의 제출은 부차관보의 결정이 있을 때까지 제안된 종료의 발효일을 정지시킨다.",
+      "(f) 그러한 진술서를 검토한 후, 부차관보는 제안된 종료를 확정하거나 철회하는 서면 결정을 내려야 한다. 부차관보의 결정에 대하여는 행정적 이의 제기를 할 수 없다.",
+      "5. 제62.43조를 다음과 같이 개정한다.",
+      "제62.43조",
+      "프로그램의 연장",
+      "(a) 최대 기간 내 연장.",
+      "(1) 스폰서는 교류방문자의 특정 프로그램 범주에 대하여 허용된 최대 참여 기간까지 SEVIS를 통하여 교류방문자의 교류방문자 프로그램 참여를 연장할 수 있다.",
+      "(2) 교류방문자의 프로그램을 연장하는 스폰서는 다음을 이행하여야 한다.",
+      "(i) 연장 사항을 반영한 정식으로 작성된 DS-2019 양식을 교류방문자에게 발급할 것. 그리고",
+      "(ii) 새로운 프로그램 종료일이 교류방문자의 확정된 체류 기간을 초과하는 경우, 교류방문자가 국토안보부에 체류 기간 연장을 신청하기 전에 DS-2019 양식을 발급할 것.",
+      "(b) 최대 기간을 초과하는 연장.",
+      "(1) 교류방문자를 대신하여 해당 교류방문자의 특정 참여 범주에 대하여 허용된 기간을 초과하는 프로그램 연장을 신청하고자 하는 스폰서는 다음을 이행하여야 한다.",
+      "(i) 교환방문자의 희망하는 연장 기간 시작일로부터 최소 3개월 전까지 SEVIS를 통하여 연장 요청을 제출하고 국무부에 증빙서류를 이메일로 송부할 것.",
+      "(ii) 제62.17조에 규정된 환불 불가능한 연장 수수료 납부 증빙을 포함할 것. 그리고",
+      "(iii) 해당 연장을 정당화하는 사유를 충분히 입증할 것.",
+      "(2) 오페어의 경우, 스폰서는 국무부에 6개월, 9개월 또는 12개월의 연장을 위한 신청서를 제출할 수 있으며, 스폰서 기관의 공식 서신지에 다음의 추가 증빙서류를 포함하여야 합니다.",
+      "(i) 오페어의 성명, SEVIS 식별번호, 생년월일, 신청하는 연장 기간. 그리고",
+      "(ii) 해당 오페어가 최초 프로그램의 교육 요건을 완료하였음을 확인하는 증빙.",
+      "(3) 국무부의 승인을 받은 후, 교환방문자의 프로그램을 연장하는 스폰서는 다음을 이행하여야 합니다.",
+      "(i) 연장 내용을 반영한 정식으로 작성된 서식 DS-2019를 교환방문자에게 발급할 것. 그리고",
+      "(ii) 새로운 프로그램 종료일이 교환방문자의 확정된 체류 허가 기간을 초과하는 경우, 교환방문자가 국토안보부(DHS)에 체류 연장을 신청하기 전에 서식 DS-2019를 발급할 것.",
+      "6. 제62.45조를 다음과 같이 개정합니다.",
+      "제62.45조",
+      "유효한 프로그램 상태로의 복원.",
+      "(a) 유효한 프로그램 상태의 유지. 지정된 스폰서는 최신의 정확한 SEVIS 기록을 유지하여야 합니다. 교환방문자의 유효한 프로그램 상태를 유지하지 못할 경우 해당 개인이 미국에 입국하거나 체류할 수 있는 능력에 부정적인 영향을 미칠 수 있습니다. 국무부는 스폰서가 유효한 프로그램 상태를 유지하지 못한 것이 교환방문자의 복지 또는 미국의 국가안보를 위태롭게 한다고 판단할 수 있습니다. 스폰서는 필요한 경우 본 조항에 명시된 수정 방안 중 하나를 사용하여 유효한 프로그램 상태를 회복하여야 합니다.",
+      "(b) SEVIS 상태의 수정.",
+      "(1) 스폰서는 행정상의 과실, 부주의, 또는 스폰서나 교환방문자의 통제를 벗어난 사정으로 인하여 발생한 부정확한 기록 상태를 바로잡기 위하여 \"SEVIS 상태 수정(Correct SEVIS Status)\" 조치를 사용하여야 합니다.",
+      "(2) 스폰서는 상태 변경일로부터 30일 이내에 이 조치를 사용하여 SEVIS 기록을 활성(Active) 또는 비활성(Inactive) 상태로 되돌릴 수 있습니다. 본 규정에 따라, 스폰서는 자신이 종료를 개시한 경우에 한하여 종료(Terminated) 기록을 수정할 수 있습니다.( printed page 48027) 상태 변경일로부터 30일이 경과한 후에는 복원 신청이 요구됩니다.",
+      "(3) 스폰서는 또한 교환방문자가 미국에 입국하지 아니한 경우, 기록을 활성 또는 무효(Invalid) 상태에서 초기(Initial) 상태로 변경하기 위하여 이 조치를 사용하여야 합니다. 서식 DS-2019가 입국에 사용되지 아니한 경우에는 이 조치를 사용하는 데 기한의 제한이 없습니다.",
+      "(c) 복원.",
+      "(1) 스폰서가 허용된 30일 기한 내에 위의 조치를 사용하여 SEVIS 기록의 상태를 수정할 수 없는 경우, 국무부에 정식 복원을 신청하여야 합니다.",
+      "(2) 국무부는 국토안보부(DHS)의 정책과 일치하는 기간(현재 5개월) 내에 제출된 경우, 교환방문자 기록을 활성 상태로 복원하는 신청을 심사합니다. 그렇지 않은 경우라도, 스폰서가 신청 지연이 예외적인 사정으로 인한 것이며 그러한 사정 하에서 가능한 한 신속하게 신청이 이루어졌음을 입증할 수 있는 경우, 국무부는 해당 신청을 검토할 수 있습니다. 기록을 비활성 상태로 반영하도록 갱신하기 위한 복원 신청에는 기한의 제한이 없습니다.",
+      "(3) 스폰서는 SEVIS에서 복원 신청을 개시하여야 하며, 10 역일 이내에 다음 사항을 국무부에 이메일로 송부하여야 합니다.",
+      "(i) 스폰서의 공식 서신지에 서명된 진술서로서 다음을 포함할 것.",
+      "(A) 교환방문자가 원래의 활동을 수행하고 있거나 수행할 의도가 있었다는 사실.",
+      "(B) 해당 공백이 스폰서의 과실, 부주의 또는 스폰서의 통제를 벗어난 사정으로 인한 것이라는 사실.",
+      "(C) 신청 거부 시 교환방문자에게 이례적인 어려움이 발생할 것이라는 사실.",
+      "(D) 무허가 취업이 발생하지 아니하였다는 사실. 그리고",
+      "(E) 교환방문자의 정확한 프로그램 종료일.",
+      "(ii) pay.gov 영수증 사본 및 I-901 재납부 증빙.",
+      "(iii) 교환방문자의 서식 I-94, 비자 및 여권 사본. 그리고",
+      "(iv) 필요하다고 판단되는 기타 증빙서류.",
+      "(4) 결정 통지. 국무부는 후원자에게 결정 사항을 통지합니다. 승인되는 경우, SEVIS 기록이 갱신되며 후원자에게 자동 이메일이 발송됩니다. 후원자는 변경 사항을 반영한 갱신된 DS-2019 양식을 교류 방문자에게 발급해야 합니다. 거부되는 경우, 후원자는 거부 사유를 설명하는 이메일을 받게 됩니다.",
+      "(5) 국무부는 다음에 해당하는 교류 방문자의 활성 상태 복원 요청을 고려하지 않습니다.",
+      "(i) 원래의 프로그램 목적을 유지하지 않은 경우",
+      "(ii) 22 CFR 62.14에서 요구하는 필수 보험 보장을 유지하지 못한 경우",
+      "(iii) 무허가 취업에 종사한 경우",
+      "(iv) 후원자 또는 수용 기관에 의해 비자발적으로 정지되거나 종료된 경우",
+      "(v) 이민 및 국적법(INA) 제212(e)조에 따른 긍정적인 면제 권고를 받은 경우",
+      "(vi) 국토안보부(DHS)로부터 다른 비이민 입국 범주로의 신분 변경을 승인받은 경우, 또는",
+      "(viii) 공법(Public Law) 104-208에서 요구하는 수수료를 납부하지 않은 경우",
+      "(e) 유효한 프로그램 신분 유지 실패. 후원자는 SEVIS 기록을 정기적으로 모니터링하고 갱신해야 합니다. 후원자가 SEVIS 신분 정정 또는 복원 절차를 이용하여 적절한 조치를 취하지 않는 경우, 이는 22 CFR 62.13(통지 요건) 위반으로 간주될 수 있습니다.",
+      "Rebecca A. Pasini,",
+      "교육문화국(Bureau of Educational and Cultural Affairs) 부차관보, 미국 국무부.",
+      "각주",
+      "1. Volume 7, 신분조정(Adjustment of Status), Part B, 245(a) 신분조정, Chapter 6, 무허가 취업(이민 및 국적법(INA) 245(c)(2) 및 INA 245(c)(8)), Section A, 정의, Subsection 1, 무허가 취업 [7 USCIS-PM B.6(A)(1)] 참조.",
+      "인용으로 돌아가기",
+      "2. 허가된 취업의 예시는 8 CFR 274a.12(a)부터 (c)까지를 참조하십시오.",
+      "인용으로 돌아가기",
+      "3. 외국 정부는 자국민이 미국을 방문하고 유학할 수 있는 능력을 증진하고자 하며, 국무부는 미국의 외교 정책 필요에 따라 외국 정부와의 양해각서에 의거하여 수정된 교류 프로그램을 수립합니다. 이러한 관행은 해외에서 미국의 이익을 증진하고 '미국과 세계 다른 국가들 간의 평화적 관계'를 도모하는 것을 목적으로 하는 프로그램에 필요한 유연성을 반영합니다. 22 U.S.C. 2451. 이러한 목적과 관련하여, 이 규칙의 주요 목적 중 하나는 외국인이 미국 내에서 프로그램에 참여하는 동안 그들의 건강, 안전 및 복지를 보호하는 것입니다. 이러한 외국인의 건강, 안전 및 복지를 보호하지 못할 경우 미국의 외교 관계에 직접적이고 실질적인 부정적 영향을 미칠 수 있습니다.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-15450 Filed 7-29-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ],
+    "es": [
+      "Encabezados del Documento",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y suscribieron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Estado",
+      "22 CFR Parte 62",
+      "[Aviso Público: 13087]",
+      "RIN: 1400-AF23",
+      "AGENCIA:",
+      "Departamento de Estado de los Estados Unidos.",
+      "ACCIÓN:",
+      "Norma propuesta con solicitud de comentarios.",
+      "RESUMEN:",
+      "La Oficina de Asuntos Educativos y Culturales del Departamento de Estado (el Departamento) administra el Programa de Visitantes de Intercambio, conforme a lo establecido en 22 CFR parte 62, en el cual los visitantes de intercambio en programas de intercambio educativo y cultural viajan a los Estados Unidos en la categoría de visa J. El Departamento rastrea el estatus y la ubicación geográfica de los visitantes de intercambio a través del Sistema de Información de Estudiantes y Visitantes de Intercambio (SEVIS), una base de datos administrada por el Departamento de Seguridad Nacional (DHS). Este Aviso de Propuesta de Reglamentación (Norma Propuesta) busca aclarar las condiciones bajo las cuales un patrocinador debe dar por terminado el programa de un visitante de intercambio y autoriza al Departamento, a su discreción, a dar por terminado el programa de un visitante de intercambio en circunstancias limitadas; modifica en su totalidad la Extensión del Programa y la Restitución al estatus de programa válido, eliminando requisitos obsoletos e introduciendo procedimientos actualizados que hacen uso de la funcionalidad actual de SEVIS; enmienda las Definiciones para incluir definiciones de “Empleo No Autorizado” y “Estatus de Programa Válido”; y deroga la disposición separada de extensión de programa para au pairs.",
+      "FECHAS:",
+      "El Departamento de Estado aceptará comentarios del público durante 60 días a partir del 30 de julio de 2026.",
+      "DIRECCIONES:",
+      "Puede presentar comentarios sobre esta norma propuesta por uno de los siguientes métodos:",
+      "En línea: Vaya a www.regulations.gov. Ingrese el ID de expediente: DOS-2026-0859 en la barra de búsqueda para localizar esta norma. Conforme a lo exigido por la Ley de Procedimiento Administrativo en 5 U.S.C. 553(b)(4), también puede encontrar en ese lugar un resumen en lenguaje sencillo de la norma propuesta.",
+      "Correo electrónico: Envíe comentarios a JExchanges@state.gov. Incluya “RIN 1400-AF23” en la línea de asunto de su correo electrónico.",
+      "Todos los comentarios deben incluir el nombre del remitente, la organización que representa (si corresponde) y una dirección postal. Si el Departamento no puede leer su comentario o comunicarse con usted para solicitar una aclaración, es posible que no podamos considerarlo. Una vez cerrado el período de comentarios de 60 días, el Departamento revisará toda la retroalimentación pertinente y publicará una norma final tan pronto como sea posible.",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON:",
+      "Rebecca Pasini, Subsecretaria Adjunta de Intercambio del Sector Privado, Departamento de Estado de los Estados Unidos, SA-5, 5to Piso, 2200 C Street NW, Washington, DC 20522. Correo electrónico: JExchanges@state.gov.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "El Secretario de Estado está autorizado a promulgar las normas y reglamentos que sean necesarios para llevar a cabo las funciones del Departamento de Estado. 22 U.S.C. 2651a(a)(4). La Ley de Intercambio Educativo y Cultural Mutuo de 1961, en su versión enmendada, autorizó al Departamento de Estado (y a la recién establecida Oficina de Asuntos Educativos y Culturales) a llevar a cabo los propósitos de la Ley y a administrar, coordinar y supervisar los programas establecidos conforme a esta. 22 U.S.C. 2451 y siguientes. El Departamento de Estado propone modificaciones a la Subparte C del Código de Reglamentos Federales, Título 22: Relaciones Exteriores, Parte 62, Programa de Visitantes de Intercambio (Subparte C, Estatus de los Visitantes de Intercambio). La Subparte C regula el estatus de los visitantes de intercambio no inmigrantes que viajan a los Estados Unidos con visas J-1 y de sus cónyuges y/o dependientes que los acompañan, si los hubiere, quienes viajan a los Estados Unidos con visas J-2. Esta norma propuesta aborda específicamente la terminación de la participación en el programa conforme a 22 CFR 62.40, la extensión del programa de los visitantes de intercambio conforme a 22 CFR 62.43, y la restitución de los registros de los visitantes de intercambio al estatus de programa válido conforme a 22 CFR 62.45. (página impresa 48022) El estatus de los cónyuges y/o dependientes que los acompañan refleja el estatus de los visitantes de intercambio a quienes acompañan. Para los fines de esta norma propuesta, las referencias a los registros de visitantes de intercambio incluyen los registros de los cónyuges y/o dependientes que los acompañan, salvo que se indique lo contrario.",
+      "La Subparte C fue modificada por última vez en 1999, cuando la entonces Agencia de Información de los Estados Unidos (USIA), que anteriormente tenía la supervisión del Programa de Visitantes de Intercambio, emitió una norma final provisional con solicitud de comentarios (64 FR 44123, 13 de agosto de 1999). Esa norma reemplazó una declaración de política anterior publicada en el Registro Federal el 24 de abril de 1997. Las regulaciones de 1999 fueron elaboradas para funcionar en un entorno basado en papel.",
+      "La Ley de Reforma de la Inmigración Ilegal y de Responsabilidad del Inmigrante de 1996 (IIRIRA, por sus siglas en inglés) ordenó al Fiscal General crear un sistema electrónico para recopilar información sobre los no inmigrantes F, M y J, en respuesta a inquietudes sobre que dichas personas pudieran perder su estatus y permanecer en los Estados Unidos sin autorización. En 2001, la sección 416 de la Ley PATRIOTA de los Estados Unidos (USA PATRIOT Act) (Pub. L. 107-56) modificó la IIRIRA para exigir la expansión e implementación de dicho sistema. En enero de 2003, el Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) y el Departamento lanzaron el SEVIS, una plataforma basada en la web para el seguimiento y monitoreo de los no inmigrantes F, M y J durante toda la duración de su participación en programas aprobados.",
+      "Terminación de la Participación en el Programa",
+      "Esta norma propuesta aborda la terminación de la participación en el Programa de Visitantes de Intercambio conforme al 22 CFR 62.40. La norma propuesta establece una base adicional por la cual un patrocinador debe terminar la participación de un visitante de intercambio en su programa de intercambio; a saber, cuando un visitante de intercambio falsifica o no proporciona una respuesta, información o documentos completos y veraces como parte de su solicitud de visitante de intercambio o durante el desarrollo del programa de intercambio.",
+      "La norma propuesta también modifica el 22 CFR 62.40 para ampliar las circunstancias en las que el Departamento puede ejercer su facultad discrecional para terminar la participación en el Programa de Visitantes de Intercambio. Conforme a la norma propuesta, el Departamento puede terminar el estatus de un visitante de intercambio cuando el Departamento o el DHS hayan revocado o cancelado una visa con efecto inmediato. En tales casos, la persona debe abandonar el país de inmediato, o correrá el riesgo de ser expulsada. La norma propuesta también establece que el Departamento puede terminar el programa de un visitante de intercambio cuando este falsifique o no proporcione una respuesta, información o documentos completos y veraces como parte de su solicitud de visitante de intercambio o durante el desarrollo del programa de intercambio. Por ejemplo, se les puede solicitar a los visitantes de intercambio que presenten comprobante de una dirección en los Estados Unidos, de sus calificaciones educativas o de su asistencia en el lugar de la actividad. La información precisa es necesaria para que los patrocinadores y el Departamento evalúen si los visitantes de intercambio continúan cumpliendo con las condiciones de su estatus de no inmigrante. También se propone un nuevo procedimiento mediante el cual un visitante de intercambio puede impugnar la decisión de terminación del Departamento por empleo no autorizado o por falsificar información o documentación, presentando una declaración de oposición dentro de los 10 días hábiles siguientes a la notificación por escrito del Departamento. Los visitantes de intercambio no pueden apelar sobre la base de penurias u otras consideraciones de equidad. Estos cambios regulatorios tienen como objetivo seguir apoyando los objetivos del programa de garantizar el bienestar del visitante, la integridad del programa y la seguridad nacional.",
+      "Extensión del Programa",
+      "La propuesta de reemplazo del 22 CFR 62.43 (Extensión del Programa) simplifica y aclara los procesos para las extensiones, tanto dentro como más allá de la duración máxima del programa, mediante la integración de estos procedimientos con las funcionalidades del SEVIS. Actualmente, los patrocinadores tienen la facultad de extender los programas de visitantes de intercambio hasta la duración permitida para la categoría del programa de intercambio correspondiente. Sin embargo, de conformidad con las regulaciones vigentes, si los visitantes de intercambio buscan extender su programa más allá de la duración máxima permitida, los patrocinadores deben obtener la aprobación del Departamento. Esta norma propone establecer un plazo límite para la presentación de dichas solicitudes de extensión. Después de presentar la solicitud electrónica de extensión en el SEVIS, el Departamento debe recibir la documentación de respaldo a más tardar tres meses antes del inicio del nuevo período de extensión. No habrá excepciones para las presentaciones tardías.",
+      "Para garantizar la coherencia en todas las categorías de programas, esta norma propuesta elimina el 22 CFR 62.31(o), extensión de programa bajo la categoría de Au Pair, que actualmente establece: \"Las solicitudes al Departamento para extensiones de seis, nueve o 12 meses deben ser recibidas por el Departamento no menos de 30 días calendario antes del vencimiento de la estadía autorizada inicial del visitante de intercambio . . .\" Conforme a esta norma propuesta, las extensiones para au pairs se regirán por las reglas generales y los plazos contenidos en el 22 CFR 62.43 propuesto, que exigirá la presentación 90 días antes del vencimiento de la fecha de finalización del programa del visitante de intercambio. Estas revisiones están alineadas con la Orden Ejecutiva 14219 (\"Ensuring Lawful Governance and Implementing the President's 'Department of Government Efficiency' Deregulatory Initiative\", 90 FR 10583, 19 de febrero de 2025), que ordena a las agencias simplificar las disposiciones reglamentarias obsoletas.",
+      "Restablecimiento al Estatus de Programa Válido",
+      "El Departamento supervisa el estatus de programa válido de los visitantes de intercambio en el SEVIS. Los patrocinadores designados deben utilizar el SEVIS para validar la participación inicial en el programa, reportar los casos de no inicio de programas, e indicar la finalización anticipada o la terminación de los programas (22 CFR 62.13). Ya sea que un visitante de intercambio complete su programa antes de lo previsto, termine voluntariamente su participación, o se le termine involuntariamente el programa, los patrocinadores deben actualizar con prontitud el registro del visitante de intercambio en el SEVIS para reflejar este cambio y mantener actualizado el estatus del registro del visitante de intercambio en el SEVIS. Esta norma propuesta modifica el 22 CFR 62.2 al agregar una definición de \"Estatus de Programa Válido\" como el estatus actual y preciso del registro del visitante de intercambio en el SEVIS desde el momento en que los patrocinadores designados emiten el Formulario DS-2019 hasta la participación activa del visitante en un programa de intercambio, incluyendo el estatus final del visitante al completar, cesar, graduarse, terminar, o concluir de otra manera el programa. La definición se relaciona con cualquier estatus actual o futuro contenido en el registro del SEVIS: Inicial, Activo, Inactivo, Terminado, Transferido, Inválido y No Presentado. La norma propuesta también agrega una definición de \"Empleo No Autorizado\", alineándola con el lenguaje de política existente del Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS). El DHS administra y hace cumplir la Ley de Inmigración y Nacionalidad (INA), según enmendada. Otras agencias federales y estatales dependen de los datos del SEVIS para determinar el cumplimiento de las leyes y los reglamentos.",
+      "Cuando se implementó el SEVIS, los patrocinadores designados hicieron la transición de los expedientes en papel a la presentación de informes electrónicos. Conforme al 22 CFR 62.12(a)(2), los patrocinadores están obligados a mantener registros precisos, actualizados y al día en el SEVIS. También deben asegurarse de que la participación en el programa coincida con las actividades descritas en el SEVIS y enumeradas en el Formulario DS-2019 (22 CFR 62.10(d)).",
+      "Los patrocinadores deben reportar las infracciones del estatus del programa en el SEVIS. Cuando un registro no refleje con precisión el estatus del programa de un visitante de intercambio, ya sea por descuido administrativo, ( página impresa 48023) por negligencia inadvertida por parte de los patrocinadores, de los visitantes de intercambio, o de ambos, o debido a circunstancias imprevistas fuera de su control, el patrocinador debe corregir el registro o solicitar un restablecimiento.",
+      "El reglamento actual clasifica las infracciones en tres tipos: (1) infracciones menores o técnicas, (2) infracciones sustantivas, y (3) infracciones no reintegrables. La norma propuesta elimina la distinción entre infracciones menores o técnicas e infracciones sustantivas, y exige que, dentro de un plazo de 30 días, los patrocinadores corrijan el expediente de un visitante de intercambio en el SEVIS mediante el proceso de Corrección del Estatus en SEVIS (Correct SEVIS Status) para todas las infracciones excepto aquellas no reintegrables. Esta norma propuesta proporciona un sistema simplificado para garantizar la integridad de los datos, al reemplazar los plazos anteriores de 120 días para infracciones menores, y ofrece a los patrocinadores un medio sencillo para asegurar registros exactos en el SEVIS sin comprometer el programa ni requerir la aprobación del Departamento. Por lo tanto, la acción de \"Corrección del Estatus en SEVIS\" debe utilizarse cuando un patrocinador cambia erróneamente el estatus del registro de un visitante de intercambio en el SEVIS a Activo, Inactivo, Terminado, Transferido, Inválido o No Presentado (No Show) debido a un error administrativo, negligencia o circunstancias fuera de su control, o cuando el error es causado por cambios en el sistema. La acción de Corrección del Estatus en SEVIS también debe utilizarse si un visitante de intercambio no solicita oportunamente una actualización, como una transferencia o una extensión del programa, lo que provoca que su registro refleje erróneamente un estatus incorrecto, o si un estudiante no mantiene un programa de estudios de tiempo completo (según se define en el § 62.2) sin haber consultado previamente con su patrocinador y su asesor académico.",
+      "Los patrocinadores tendrán 30 días a partir de la fecha en que el registro del SEVIS pasó al estatus incorrecto para utilizar la acción de Corrección del Estatus en SEVIS, a fin de devolver los registros del SEVIS al estatus Activo o Inactivo, sin necesidad de presentar solicitud ni pagar tarifa alguna al Departamento de Estado. No existe límite de tiempo para cambiar los registros de estatus Inválido o Activo a estatus Inicial si el visitante de intercambio no ha ingresado a los Estados Unidos.",
+      "La acción de \"Corrección del Estatus en SEVIS\" actualiza de inmediato el estatus del registro del visitante de intercambio. Si el registro en el SEVIS del cónyuge y/o dependiente J-2 cambió junto con el del titular J-1, este se actualizará automáticamente. De no ser así, el registro J-2 deberá corregirse por separado. Si un patrocinador no puede corregir el registro del SEVIS dentro del plazo de 30 días, deberá presentarse una solicitud de Reintegración (Reinstatement).",
+      "Anteriormente, el Departamento no consideraba las solicitudes presentadas después de 270 días, ya que tales demoras se consideraban una falta de continuidad en el programa. En un esfuerzo por alinearse con las políticas establecidas por el DHS, el Departamento evaluará las solicitudes de reintegración de registros de visitantes de intercambio al estatus Activo si el visitante de intercambio no ha estado fuera de estatus por un período mayor al establecido por el DHS (actualmente cinco meses). Si el visitante de intercambio ha estado fuera de estatus por un período mayor al establecido en la política del DHS, el Departamento solo considerará las solicitudes en las que el patrocinador pueda demostrar que la falta de presentación se debió a circunstancias excepcionales y que la solicitud se presentó tan pronto como fue posible dadas esas circunstancias. No existe límite de tiempo para solicitar una reintegración destinada a actualizar un registro al estatus Inactivo.",
+      "Los patrocinadores no podrán utilizar la acción de Corrección del Estatus en SEVIS ni presentar una solicitud de Reintegración para actualizar el registro de un visitante de intercambio al estatus Activo si el visitante de intercambio:",
+      "No mantuvo su objetivo original del programa identificado conforme a su categoría en el 22 CFR parte 62, Subparte B (Disposiciones Específicas del Programa);",
+      "No mantuvo la cobertura de seguro requerida conforme al 22 CFR 62.14;",
+      "Fue suspendido o terminado involuntariamente por el patrocinador o la organización anfitriona;",
+      "Recibió una recomendación favorable de exención conforme al INA § 212(e);",
+      "Recibió la aprobación del DHS para un cambio de estatus a una clase diferente de admisión no inmigrante; o",
+      "No pagó la tarifa exigida por la Ley Pública 104-208 (Public Law 104-208).",
+      "Las solicitudes de Reintegración deben iniciarse en el SEVIS y ser seguidas de la presentación de la documentación justificativa dentro de un plazo de diez (10) días al Departamento. Los patrocinadores deben pagar una tarifa no reembolsable (indicada en el § 62.17) y presentar una declaración por escrito en papel membretado oficial que señale:",
+      "La continuación por parte del visitante de intercambio de la búsqueda del objetivo original del programa;",
+      "Que el vencimiento se debió a un descuido, inadvertencia o factores fuera del control del patrocinador;",
+      "Que la denegación impondría una dificultad inusual para el visitante de intercambio;",
+      "Que no se produjo empleo no autorizado; y,",
+      "La fecha exacta de finalización del programa del visitante de intercambio.",
+      "La norma propuesta reubica y actualiza la definición de “Empleo No Autorizado” en el § 62.2. Refleja el lenguaje que se encuentra en el Volumen 7, Parte B, Capítulo 6 del Manual de Políticas del Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS, por sus siglas en inglés), [1] el cual define el empleo no autorizado como:",
+      "“[C]ualquier servicio o trabajo realizado para un empleador dentro de los Estados Unidos por un extranjero que no está autorizado por la INA o por USCIS para aceptar empleo, o que excede el alcance o el período de la autorización de empleo del extranjero”. [2]",
+      "Para los fines de esta norma, el empleo no autorizado no incluye actividades que normalmente son aprobables y apropiadas para la categoría del visitante (por ejemplo, honorarios por conferencias o consultas que brinden académicos).",
+      "Análisis Regulatorio",
+      "Ley de Procedimiento Administrativo",
+      "El Departamento ha determinado históricamente que las normas relacionadas con el Programa de Visitantes de Intercambio involucran una función de asuntos exteriores de los Estados Unidos y, por lo tanto, están exentas del proceso de aviso y comentario público (5 U.S.C. 553(a)). [3] Sin embargo, debido al interés del Departamento en recibir comentarios públicos sobre esta norma, el Departamento está solicitando comentarios durante un período de 60 días, a los cuales responderá en una norma final, en caso de que el Departamento decida finalizar la totalidad o parte de esta propuesta.",
+      "Ley de Reforma de Mandatos No Financiados de 1995",
+      "Esta norma propuesta no resultará en gastos de 100 millones de dólares o más en ningún año por parte de los gobiernos estatales, locales o tribales, ni por parte del sector privado. Tampoco afecta de manera significativa o exclusiva a los gobiernos pequeños. Por lo tanto, no se consideró necesaria ninguna acción conforme a la Ley de Reforma de Mandatos No Financiados de 1995. (página impresa 48024)",
+      "Orden Ejecutiva 13175, Consulta y Coordinación con los Gobiernos Tribales Indígenas",
+      "El Departamento ha determinado que esta norma propuesta no tiene implicaciones tribales, no impone costos de cumplimiento directos sustanciales a los gobiernos tribales indígenas y no reemplaza la ley tribal. En consecuencia, los requisitos de la Orden Ejecutiva 13175 no se aplican a esta reglamentación.",
+      "Ley de Flexibilidad Regulatoria/Orden Ejecutiva 13272, Consideración de Entidades Pequeñas",
+      "Si bien el Departamento de Estado considera que esta norma está exenta de las disposiciones de aviso y comentario del 5 U.S.C. 553, y por lo tanto no está sujeta a la Ley de Flexibilidad Regulatoria (5 U.S.C. 601 y siguientes) ni a la Orden Ejecutiva 13272, de todas formas proporcionamos una evaluación de la posible carga sobre las entidades pequeñas.",
+      "Terminaciones: El Departamento estima que aproximadamente 1,400 patrocinadores designados operan bajo el Programa de Visitantes de Intercambio. El Departamento anticipa que los beneficios resultantes de los cambios a la sección de terminación del programa fortalecerán significativamente la transparencia y la eficacia operativa sin imponer cargas económicas adicionales a los patrocinadores o a los visitantes de intercambio, lo que en última instancia promoverá los objetivos de política exterior del programa. Cualquier cambio que resulte de esta norma propuesta no impone nuevos costos regulatorios netos. Se espera que los gastos relacionados con la presentación de una declaración de oposición por parte de un visitante de intercambio, y el proceso de revisión llevado a cabo por el Subsecretario Adjunto Adjunto para Intercambio del Sector Privado, sean mínimos y poco frecuentes.",
+      "Análisis del Impacto de Tarifas para Extensiones: Conforme a las regulaciones vigentes, los patrocinadores designados deben obtener la aprobación del Departamento para las extensiones de programa que excedan la duración máxima permitida para una categoría específica del Programa de Visitantes de Intercambio. Este proceso requiere recursos del Departamento para su revisión y adjudicación. La tarifa asociada con esta solicitud está diseñada para cubrir estos costos administrativos.",
+      "La tarifa actual para presentar una solicitud de cambios específicos de estatus de visitante de intercambio es de $367 por solicitud (22 CFR 62.17(b)(2)). Con base en los datos del programa proporcionados para el período de 2022 a 2024, el Departamento procesó un promedio de aproximadamente 14,563 solicitudes de “Extensión de Programa más allá de la Duración Máxima” anualmente (calculado a partir de 43,690 solicitudes a lo largo de tres años). Al aplicar la tarifa de $367 se obtiene una recuperación total estimada de costos anual de aproximadamente $5,344,871 (14,563 solicitudes x $367/solicitud). Este costo refleja los recursos del Departamento necesarios para actuar sobre estas solicitudes, lo cual implica verificar la justificación de la extensión conforme a las regulaciones del programa y la elegibilidad del participante. A diferencia de la tarifa de restablecimiento discutida anteriormente (la cual los patrocinadores designados pueden potencialmente evitar manteniendo actualizaciones oportunas de sus registros en el SEVIS), esta tarifa se requiere siempre que un patrocinador solicite una extensión para un visitante de intercambio más allá de la duración máxima estándar del programa permitida por las regulaciones para una categoría, lo cual requiere la revisión del Departamento. La tarifa por solicitud afecta a todos los patrocinadores designados que presentan dicho tipo de solicitudes, incluyendo a las pequeñas entidades. El costo total anual estimado en todos los patrocinadores designados es considerable (~$5.34 millones), impulsado por el alto volumen de solicitudes de extensión (~14,563 anualmente).",
+      "A diferencia de la tarifa de restablecimiento, que se aplica a un volumen mucho menor de solicitudes y puede ser evitable, la tarifa de extensión se aplica a un tipo de solicitud más común. Si bien el costo por solicitud individual puede no ser significativo, surgen costos acumulativos sustanciales a partir de la gran cantidad de solicitudes de extensión. El Departamento también reconoce que el número de solicitudes de extensión se ha mantenido relativamente constante entre 2022 y 2024, con un incremento nominal en las solicitudes en 2024 en comparación con el año anterior. El Departamento no puede pronosticar cómo podría cambiar el volumen de estas solicitudes en los próximos años.",
+      "Beneficios: Un beneficio principal de la tarifa es la recuperación de costos para el Gobierno de los Estados Unidos, lo cual garantiza que los costos administrativos asociados con el procesamiento de estas solicitudes sean asumidos por las entidades que solicitan el servicio en lugar del público o de los fondos asignados. La tarifa también subraya implícitamente la naturaleza de las extensiones más allá de la duración máxima, las cuales siguen representando una proporción relativamente pequeña de la población total de visitantes de intercambio anualmente.",
+      "Conclusión: Con base en datos recientes, la tarifa establecida para las solicitudes de Extensión de Programa más allá de la Duración Máxima, la cual se aplica a un promedio de aproximadamente 14,563 solicitudes anualmente, resulta en una recuperación de costos estimada de aproximadamente $5.34 millones al año. Esta tarifa le permite al Departamento de Estado cubrir los gastos administrativos asociados con la prestación de los servicios necesarios para estas solicitudes específicas de extensión realizadas por los patrocinadores designados en nombre de los visitantes de intercambio.",
+      "Análisis del Impacto de la Tarifa para los Restablecimientos: Los datos disponibles muestran que solo se presentaron 21 solicitudes formales de restablecimiento en 2024. La preparación de una solicitud de extensión o restablecimiento generalmente requiere 1 hora de tiempo administrativo, lo que resulta en un costo total anual estimado de aproximadamente $2,100 para todos los patrocinadores afectados en conjunto. Este bajo volumen y la mínima carga administrativa respaldan la determinación del Departamento de que el impacto económico de esta regla sobre las pequeñas entidades es mínimo.",
+      "La regla codifica los procedimientos existentes del SEVIS, tales como Corrección de Estatus en el SEVIS (Correct SEVIS Status), que permiten a los patrocinadores resolver la mayoría de los problemas sin intervención del Departamento ni tarifas. Las tarifas solo se aplican cuando los patrocinadores designados no actúan de manera oportuna y el restablecimiento resulta necesario para corregir los registros del SEVIS.",
+      "La regla está estructurada para promover el cumplimiento preventivo: los patrocinadores que mantengan registros precisos y oportunos en el SEVIS no incurrirán en nuevas tarifas. Esto ayuda a reducir la carga financiera, particularmente para los patrocinadores más pequeños con recursos limitados.",
+      "Esta norma también es congruente con la Orden Ejecutiva 14192, Liberando la Prosperidad Estadounidense a través de la Desregulación, ya que no impone nuevos costos regulatorios netos y codifica prácticas operativas existentes. El costo directo principal es la tarifa no reembolsable para presentar solicitudes de reincorporación ante el Departamento. Esta tarifa se ha mantenido constante en $367 por solicitud, según se especifica en las regulaciones del Programa de Visitantes de Intercambio en 22 CFR 62.17(b)(2). Los datos del programa de 2022 a 2024 indican que el Departamento procesó un promedio de 155 solicitudes de reincorporación anualmente (calculado a partir de 465 solicitudes en tres años). En consecuencia, el costo anual estimado para los patrocinadores designados por el procesamiento de estas solicitudes asciende a un total de $56,885 (155 solicitudes * $367/solicitud).",
+      "Esta norma propuesta destaca la importancia de cuantificar los costos y beneficios, minimizar las cargas administrativas, alinear las regulaciones, fomentar la flexibilidad, promover la independencia de los patrocinadores y fomentar la autosuficiencia. La norma enfatiza el uso del SEVIS, lo que permite a los patrocinadores designados resolver directamente muchos problemas comunes de registro. Se espera que esto alivie las cargas administrativas y ahorre tiempo a los patrocinadores designados al manejar correcciones de rutina. Sin embargo, si los patrocinadores designados no actualizan los registros directamente en el SEVIS dentro de los plazos designados, los patrocinadores deben iniciar la solicitud de Reincorporación en el SEVIS y pagar la tarifa no reembolsable establecida en virtud de 22 CFR 62.17(b)(2). Las solicitudes de reincorporación requieren revisión y procesamiento por parte del (página impresa 48025) Departamento de Estado. El costo por patrocinador dependerá significativamente del número de solicitudes de reincorporación que los patrocinadores presenten anualmente debido a la falta de utilización de las acciones correctivas disponibles en el SEVIS que no requieren la aprobación previa del Departamento. Dado el número total relativamente bajo de estas solicitudes específicas que requieren la participación del Departamento entre aproximadamente 1,400 patrocinadores designados, junto con la posibilidad general de prevenir dichas solicitudes mediante acciones oportunas en el SEVIS, el Departamento considera que es poco probable que la tarifa imponga un impacto económico significativo en un número sustancial de patrocinadores designados. Un análisis más detallado que compare los costos potenciales con los ingresos de los patrocinadores designados requeriría datos sobre la distribución del tamaño de los patrocinadores y la frecuencia de las solicitudes de reincorporación por tamaño, los cuales no están disponibles actualmente.",
+      "El Departamento reconoce que la funcionalidad del SEVIS ha evolucionado desde su implementación inicial en 2003. Esta norma refleja esos avances y alinea el marco regulatorio con las responsabilidades actuales de los patrocinadores y las capacidades tecnológicas existentes. Para garantizar un cumplimiento claro y consistente del programa, el Departamento tiene la intención de revisar y actualizar la orientación pertinente para los patrocinadores a medida que las herramientas del SEVIS continúen avanzando.",
+      "Las regulaciones establecen procedimientos simplificados (Corregir Estado en SEVIS) que permiten a los patrocinadores designados abordar directamente muchos problemas de registro en el SEVIS dentro de plazos específicos, sin requerir la intervención del Departamento ni el pago de una tarifa. La estimación anual refleja los gastos en que incurren los patrocinadores designados que solicitan la intervención del Departamento, en lugar de un aumento en los costos para los patrocinadores designados que utilizan el SEVIS según lo previsto. Además, el Departamento reconoce que las solicitudes de reincorporación disminuyeron año tras año de 2022 a 2024. Por consiguiente, el Departamento de Estado no realiza proyecciones respecto de posibles cambios en el número de solicitudes en los próximos años.",
+      "Beneficios: Los principales beneficios incluyen: (1) Mayor eficiencia y reducción de la carga administrativa para los patrocinadores designados que gestionan correcciones de registro de rutina en el SEVIS; (2) Mayor precisión y oportunidad de los datos del SEVIS, resultante de los procesos de corrección simplificados y la estructura de incentivos establecida por la tarifa, lo cual respalda la administración y supervisión del programa; (3) Recuperación de costos por los recursos del Departamento utilizados para resolver casos de reincorporación más complejos que exceden las correcciones estándar; (4) Normas regulatorias claras para los patrocinadores designados en relación con el mantenimiento y la corrección de registros; y, (5) Beneficios indirectos para los visitantes de intercambio, al resolver sus problemas de estatus de manera más eficiente, en contraste con los posibles impactos adversos para los visitantes de intercambio si los patrocinadores designados no corrigen los registros con prontitud.",
+      "Conclusión: El Departamento de Estado considera que el enfoque propuesto maximiza los beneficios netos. Se espera que las ventajas previstas (incluyendo una mayor eficiencia para los patrocinadores, una mejor integridad de los datos del SEVIS, normas reglamentarias más claras, la recuperación de costos para el Departamento y resoluciones potencialmente más rápidas para los visitantes de intercambio) superen los costos potenciales asociados con la tarifa para las solicitudes de reincorporación, las cuales requieren la participación directa del Departamento.",
+      "Órdenes Ejecutivas 12866 y 13563, Planificación y Revisión Regulatoria",
+      "La Oficina de Información y Asuntos Regulatorios (Office of Information and Regulatory Affairs) ha determinado que esta propuesta de regla es significativa en el sentido de la sección 3(f) de la Orden Ejecutiva 12866. El Departamento ha revisado esta propuesta de regla para garantizar la coherencia con los principios de rentabilidad, claridad y flexibilidad regulatoria descritos en dichas Órdenes Ejecutivas.",
+      "En 2024, se terminaron más de 1,700 registros individuales de visitantes de intercambio. Las principales razones fueron el incumplimiento de las normas o reglamentos del patrocinador (975), la falta de continuación de las actividades del programa (300), razones disciplinarias o condenas penales (90), participación en empleo no autorizado (30) y razones clasificadas como \"otras\" (450). La modernización propuesta del 22 CFR 62.40 fortalece la administración del programa al permitir el registro, seguimiento y documentación electrónica eficiente de las decisiones de terminación, lo que resulta en una mayor precisión y oportunidad de los datos, al tiempo que respalda el monitoreo proactivo del cumplimiento. Las nuevas regulaciones también brindan a los patrocinadores y a los visitantes de intercambio una mayor claridad operativa y regulatoria, al tiempo que formalizan la autoridad discrecional del Departamento en el proceso de terminación de visitantes de intercambio mediante la introducción de requisitos procesales definidos. No existen nuevos costos relacionados con la actualización de la funcionalidad en la base de datos del SEVIS. Los patrocinadores deberán continuar con el mismo monitoreo y documentación de los visitantes de intercambio que ya se espera. Los visitantes de intercambio cuya terminación sea ordenada por el Departamento tendrán derecho a impugnar la terminación del Departamento.",
+      "Orden Ejecutiva 12988, Reforma de la Justicia Civil",
+      "El Departamento de Estado ha revisado esta propuesta de regla de conformidad con las Secciones 3(a) y 3(b)(2) de la Orden Ejecutiva 12988. La regla está redactada para minimizar la ambigüedad, reducir los litigios y establecer normas legales claras.",
+      "Órdenes Ejecutivas 12372 y 13132, Federalismo",
+      "El Departamento ha determinado que esta propuesta de regla no tiene efectos directos sustanciales sobre los estados, sobre las relaciones entre el gobierno nacional y los estados, ni sobre la distribución de facultades y responsabilidades entre los distintos niveles de gobierno. De conformidad con la Sección 6 de la Orden Ejecutiva 13132, la regla no tiene implicaciones federalistas suficientes para requerir consulta o la preparación de una declaración resumida de impacto federalista. La Orden Ejecutiva 12372, que rige la revisión intergubernamental de los programas federales, no se aplica a esta regulación.",
+      "Ley de Reducción de Trámites (Paperwork Reduction Act)",
+      "De conformidad con la Ley de Reducción de Trámites de 1995 (Paperwork Reduction Act of 1995) (44 U.S.C. Capítulo 35), los organismos deben obtener la aprobación de la Oficina de Administración y Presupuesto (Office of Management and Budget, OMB) para cualquier nueva recopilación de información. Esta propuesta de regla no impone ningún nuevo requisito de presentación de informes o mantenimiento de registros a los patrocinadores y, por lo tanto, no requiere aprobación conforme a la PRA.",
+      "Lista de Materias en el Título 22 del CFR, Parte 62",
+      "Programas de intercambio cultural",
+      "Requisitos de presentación de informes y mantenimiento de registros",
+      "En consecuencia, se propone enmendar el Título 22 del CFR, parte 62, para que diga lo siguiente:",
+      "PARTE 62, PROGRAMA DE VISITANTES DE INTERCAMBIO",
+      "1. Se revisa la cita de autoridad del Título 22 del CFR, Parte 62, para que diga lo siguiente:",
+      "Autoridad: 8 U.S.C. 1101(a)(15)(J), 1182, 1184, 1258; 22 U.S.C. 1431-1442, 2451 y siguientes; 22 U.S.C. 2451; Ley de Reforma y Reestructuración de Asuntos Exteriores de 1998 (Foreign Affairs Reform and Restructuring Act of 1998), Pub. L. 105-277, Div. G, 112 Stat. 2681 y siguientes; Plan de Reorganización No. 2 de 1977, 3 CFR, Comp. de 1977, p. 200; O.E. 12048 del 27 de marzo de 1978, 3 CFR, Comp. de 1978, p. 168; Ley de Reforma de la Inmigración Ilegal y Responsabilidad del Inmigrante (Illegal Immigration Reform and Immigrant Responsibility Act, IIRIRA) de 1996, Pub. L. 104-208, Div. C, 110 Stat. 3009-546, en su versión modificada; Ley USA PATRIOT, Pub. L. 107-56, sec. 416, 115 Stat. 354; Ley de Reforma de Seguridad Fronteriza Mejorada y Entrada de Visas de 2002 (Enhanced Border Security and Visa Entry Reform Act of 2002), Pub. L. 107-173, 116 Stat. 543.",
+      "(página impresa 48026)",
+      "§ 62.2",
+      "[Enmendado]",
+      "2. Se enmienda la Sección 62.2 para agregar las siguientes definiciones, en orden alfabético:",
+      "Empleo no autorizado: Cualquier servicio o trabajo realizado para un empleador dentro de los Estados Unidos por ciudadanos extranjeros que no estén autorizados por la Ley de Inmigración y Nacionalidad o por el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) para aceptar empleo, o que excedan el alcance o el período de su autorización de empleo. Esta definición también se aplica a los cónyuges y/o dependientes J-2 que lo acompañan y que realicen dicho trabajo sin la autorización previa del Departamento de Seguridad Nacional (DHS).",
+      "Estado válido del programa: El estado actual y exacto del registro SEVIS de un visitante de intercambio desde el momento en que los patrocinadores designados emiten el Formulario DS-2019 hasta la participación activa del visitante en un programa de intercambio, incluyendo el estado final del visitante al completar, cesar, graduarse, ser dado de baja u otra forma de conclusión del programa.",
+      "§ 62.31",
+      "[Modificado]",
+      "3. Se elimina y se reserva el párrafo (o).",
+      "4. Se modifica el § 62.40 para que diga lo siguiente:",
+      "§ 62.40",
+      "Terminación de la participación en el programa.",
+      "(a) Un patrocinador debe terminar la participación de un visitante de intercambio en su programa cuando el visitante de intercambio:",
+      "(1) No realice las actividades para las cuales fue admitido en los Estados Unidos;",
+      "(2) No pueda continuar el programa, a menos que esté exento de otro modo conforme a estos reglamentos;",
+      "(3) Infrinja las normas del patrocinador que rigen el programa, si, a discreción del patrocinador y tras revisar las directrices del Departamento de Estado, se justifica la terminación;",
+      "(4) No mantenga la cobertura de seguro exigida conforme al § 62.14 de estos reglamentos; o",
+      "(5) Falsifique o no proporcione una respuesta, información o documentos completos y veraces como parte de su solicitud o de su programa en curso.",
+      "(b) El Departamento de Estado podrá terminar la participación de un visitante de intercambio en su programa cuando:",
+      "(1) El Departamento de Estado o el Departamento de Seguridad Nacional haya revocado o cancelado la visa del visitante de intercambio con efecto inmediato;",
+      "(2) Un visitante de intercambio incurra en empleo no autorizado; o",
+      "(3) Un visitante de intercambio falsifique o no proporcione una respuesta, información o documentos completos y veraces como parte de su solicitud o de su programa en curso.",
+      "(c) Al constatarse cualquiera de los actos establecidos en los párrafos (b)(2) o (3) de esta sección, la Oficina de Intercambio del Sector Privado notificará al visitante de intercambio, con no menos de treinta (30) días de anticipación por escrito, la intención de terminar su participación en el programa. Dicha notificación deberá especificar los motivos de la terminación propuesta y su fecha de vigencia, informar al visitante de intercambio que puede oponerse a la terminación, e indicar los procedimientos para presentar una declaración de oposición a la misma.",
+      "(d) Dentro de los diez (10) días siguientes a la notificación por escrito de la intención de terminación, el visitante de intercambio podrá presentar una declaración de oposición a la terminación propuesta ante el Subsecretario Adjunto de Intercambio del Sector Privado (Subsecretario Adjunto). Los visitantes de intercambio no podrán apelar por motivos de dificultades u otras consideraciones de equidad.",
+      "(e) La presentación de dicha declaración suspenderá la fecha de vigencia de la terminación propuesta hasta que se dicte la decisión del Subsecretario Adjunto.",
+      "(f) Tras considerar dicha declaración, el Subsecretario Adjunto emitirá una decisión por escrito confirmando o retirando la terminación propuesta. La decisión del Subsecretario Adjunto no está sujeta a apelación administrativa.",
+      "5. Se modifica el § 62.43 para que diga lo siguiente:",
+      "§ 62.43",
+      "Extensión del programa",
+      "(a) Extensión dentro de la duración máxima.",
+      "(1) Los patrocinadores podrán extender la participación de un visitante de intercambio en el Programa de Visitantes de Intercambio a través de SEVIS hasta el período máximo permitido de participación autorizado para su categoría específica de programa.",
+      "(2) Un patrocinador que extienda el programa de un visitante de intercambio debe:",
+      "(i) Emitir al visitante de intercambio un Formulario DS-2019 debidamente ejecutado que refleje la extensión; y",
+      "(ii) Cuando la nueva fecha de finalización del programa exceda el período fijo de admisión del visitante de intercambio, emitir el Formulario DS-2019 antes de que el visitante de intercambio solicite una extensión de estadía ante el Departamento de Seguridad Nacional.",
+      "(b) Extensión más allá de la duración máxima.",
+      "(1) El patrocinador que solicite una extensión del programa en nombre de un visitante de intercambio por encima de la autorizada para su categoría específica de participación debe:",
+      "(i) Presentar su solicitud de extensión a través de SEVIS y enviar por correo electrónico la documentación de respaldo al Departamento de Estado a más tardar tres meses antes del inicio del período de extensión deseado para el visitante de intercambio;",
+      "(ii) Incluir comprobante de pago de la tarifa de extensión no reembolsable requerida según lo establecido en el § 62.17; y",
+      "(iii) Documentar adecuadamente las razones que justifican dicha extensión.",
+      "(2) Para los au pairs, los patrocinadores pueden presentar solicitudes al Departamento de Estado para extensiones de seis, nueve o 12 meses y deben incluir la siguiente documentación de respaldo adicional en el membrete institucional del patrocinador:",
+      "(i) Nombre del au pair, número de identificación de SEVIS, fecha de nacimiento, la duración del período de extensión que se solicita; y,",
+      "(ii) Verificación de que el au pair completó los requisitos educativos del programa inicial.",
+      "(3) Una vez aprobado por el Departamento de Estado, el patrocinador que extienda el programa de un visitante de intercambio debe:",
+      "(i) Emitir al visitante de intercambio un Formulario DS-2019 debidamente ejecutado que refleje la extensión; y",
+      "(ii) Cuando la nueva fecha de finalización del programa exceda el período fijo de admisión del visitante de intercambio, emitir el Formulario DS-2019 antes de que el visitante de intercambio solicite una extensión de estadía ante el Departamento de Seguridad Nacional.",
+      "6. Revisar el § 62.45 modificándolo para que diga lo siguiente:",
+      "§ 62.45",
+      "Restablecimiento a un estatus de programa válido.",
+      "(a) Mantener un estatus de programa válido. Los patrocinadores designados deben mantener registros de SEVIS actuales y precisos. El hecho de no mantener el estatus de programa válido de un visitante de intercambio puede afectar negativamente la capacidad de esa persona para ingresar o permanecer en los Estados Unidos. El Departamento de Estado puede determinar que el hecho de que un patrocinador no mantenga un estatus de programa válido pone en peligro el bienestar del visitante de intercambio o la seguridad nacional de los Estados Unidos. Los patrocinadores deben utilizar una de las opciones de corrección descritas en esta sección para restablecer el estatus de programa válido cuando sea necesario.",
+      "(b) Corregir el estatus en SEVIS.",
+      "(1) Los patrocinadores deben utilizar la acción de \"Corregir el Estatus en SEVIS\" para abordar estatus de registro incorrectos resultantes de descuido administrativo, falta de atención o circunstancias fuera del control del patrocinador o del visitante de intercambio.",
+      "(2) Los patrocinadores tendrán 30 días a partir de la fecha de cambio de estatus para utilizar esta acción a fin de devolver los registros de SEVIS al estatus Activo o Inactivo. Bajo esta disposición, los patrocinadores solo pueden corregir registros Terminados si el patrocinador inicia la (página impresa 48027) terminación. Después de 30 días a partir del cambio de estatus, se requiere una solicitud de restablecimiento.",
+      "(3) Los patrocinadores también deben utilizar esta acción para cambiar los registros de estatus Activo o Inválido a estatus Inicial si el visitante de intercambio no ha ingresado a los Estados Unidos. No hay límite de tiempo para utilizar esta acción si el Formulario DS-2019 no se ha utilizado para el ingreso.",
+      "(c) Restablecimientos.",
+      "(1) Si los patrocinadores no pueden corregir el estatus del registro de SEVIS utilizando la acción anterior dentro del plazo permitido de 30 días, deben solicitar un restablecimiento formal al Departamento de Estado.",
+      "(2) El Departamento de Estado evaluará las solicitudes para restablecer los registros de visitantes de intercambio al estatus Activo si se presentan dentro del período de tiempo conforme a las políticas del DHS (actualmente cinco meses). Alternativamente, si el patrocinador puede demostrar que el hecho de no presentar la solicitud se debió a circunstancias excepcionales y que la solicitud se presentó tan pronto como fue posible bajo esas circunstancias, el Departamento puede considerar la solicitud. No hay límite de tiempo para solicitar un restablecimiento a fin de actualizar un registro para reflejar el estatus Inactivo.",
+      "(3) Los patrocinadores deben iniciar la solicitud de restablecimiento en SEVIS y, dentro de los 10 días calendario, enviar por correo electrónico al Departamento de Estado lo siguiente:",
+      "(i) Una declaración firmada en el membrete del patrocinador, que incluya:",
+      "(A) Que el visitante de intercambio está realizando o tenía la intención de realizar su actividad original;",
+      "(B) Que el lapso se debió a un descuido, falta de atención o circunstancias fuera del control del patrocinador;",
+      "(C) Que la denegación causaría dificultades inusuales al visitante de intercambio;",
+      "(D) Que no ocurrió empleo no autorizado; y,",
+      "(E) La fecha exacta de finalización del programa del visitante de intercambio.",
+      "(ii) Una copia del recibo de pay.gov y el comprobante de pago del I-901;",
+      "(iii) Una copia del Formulario I-94, la visa y el pasaporte del visitante de intercambio; y",
+      "(iv) Cualquier otra documentación de respaldo que se considere necesaria.",
+      "(4) Notificación de la Decisión. El Departamento de Estado notificará a los patrocinadores su decisión. Si se aprueba, se actualizará el registro en el SEVIS y se enviará un correo electrónico automático al patrocinador. El patrocinador deberá emitir un Formulario DS-2019 actualizado al visitante de intercambio que refleje el cambio. Si se deniega, el patrocinador recibirá un correo electrónico que explique la(s) razón(es) de la denegación.",
+      "(5) El Departamento de Estado no considerará las solicitudes de reincorporación al estatus Activo si el visitante de intercambio:",
+      "(i) No mantuvo su objetivo de programa original;",
+      "(ii) No mantuvo la cobertura de seguro requerida conforme al 22 CFR 62.14;",
+      "(iii) Participó en empleo no autorizado;",
+      "(iv) Fue suspendido o terminado involuntariamente por el patrocinador o el sitio anfitrión;",
+      "(v) Recibió una recomendación favorable de exención conforme a la INA § 212(e);",
+      "(vi) Recibió la aprobación del DHS para un cambio de estatus a una clase de admisión de no inmigrante diferente; o",
+      "(viii) No pagó la tarifa exigida por la Ley Pública 104-208.",
+      "(e) Incumplimiento en el mantenimiento de un estatus de programa válido. Los patrocinadores deben monitorear y actualizar rutinariamente los registros del SEVIS. El hecho de que un patrocinador no tome las medidas apropiadas mediante los procesos de corrección del estatus en el SEVIS o de reincorporación podrá considerarse una infracción del 22 CFR 62.13 (Requisitos de notificación).",
+      "Rebecca A. Pasini,",
+      "Subsecretaria Adjunta, Oficina de Asuntos Educativos y Culturales, Departamento de Estado de los Estados Unidos.",
+      "Notas al pie",
+      "1. Véase el Volumen 7, Ajuste de Estatus, Parte B, Ajuste conforme al 245(a), Capítulo 6, Empleo No Autorizado (INA 245(c)(2) e INA 245(c)(8), Sección A, Definiciones, Subsección 1, Empleo No Autorizado [7 USCIS-PM B.6(A)(1)].",
+      "Volver a la cita",
+      "2. Véase 8 CFR 274a.12(a)-(c) para ejemplos de empleo autorizado.",
+      "Volver a la cita",
+      "3. Los gobiernos extranjeros buscan promover la capacidad de sus nacionales extranjeros de visitar y estudiar en los Estados Unidos, y el Departamento de Estado establece programas de intercambio modificados conforme a memorandos de entendimiento con gobiernos extranjeros, con base en las necesidades de política exterior de los Estados Unidos. Esta práctica refleja la flexibilidad necesaria para un programa cuyo propósito es promover los intereses de los Estados Unidos en el extranjero y fomentar aún más las \"relaciones pacíficas entre los Estados Unidos y los demás países del mundo\". 22 U.S.C. 2451. En relación con ese propósito, un objetivo principal de esta norma es proteger la salud, la seguridad y el bienestar de los nacionales extranjeros mientras se encuentran en los Estados Unidos en sus programas. El incumplimiento en la protección de la salud, la seguridad y el bienestar de estos nacionales extranjeros puede tener efectos adversos directos y sustanciales en las relaciones exteriores de los Estados Unidos.",
+      "Volver a la cita",
+      "[FR Doc. 2026-15450 Presentado el 7-29-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 4710-05-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异，但可能包含以下内容：",
+      "签发并签署该文件的机构或多个机构",
+      "该文件修订、拟议修订或与之直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构档案编号／机构内部案卷编号",
+      "用于识别《联邦监管与放松监管行动统一议程》中所列每项监管行动的RIN编号",
+      "详情参见《文件起草手册》。",
+      "美国国务院",
+      "22 CFR Part 62",
+      "[Public Notice: 13087]",
+      "RIN: 1400-AF23",
+      "机构：",
+      "美国国务院。",
+      "行动：",
+      "拟议规则并征求意见。",
+      "摘要：",
+      "美国国务院（以下简称“国务院”）教育与文化事务局负责管理交流访问者项目，该项目规定于22 CFR第62部分，交流访问者通过教育和文化交流项目以J签证类别前往美国。国务院通过学生和交流访问者信息系统（SEVIS，一个由国土安全部（DHS）管理的数据库）跟踪交流访问者的身份状态和地理位置。本拟议规则制定通知（“拟议规则”）旨在澄清赞助方必须终止交流访问者项目的条件，并授权国务院在有限情形下自行决定终止交流访问者项目；全面修改“项目延期”和“恢复至有效项目身份”的规定，取消过时要求并引入利用现行SEVIS功能的更新程序；修订“定义”部分，增加“未经授权就业”和“有效项目身份”的定义；并废除针对互惠生（au pair）单独设立的项目延期条款。",
+      "日期：",
+      "美国国务院将自2026年7月30日起接受公众意见，为期60天。",
+      "地址：",
+      "您可通过以下方式之一就本拟议规则提交意见：",
+      "在线提交：访问www.regulations.gov。在搜索栏中输入档案编号：DOS-2026-0859以查找本规则。根据《行政程序法》5 U.S.C. 553(b)(4)的要求，您也可在该网址找到本拟议规则的通俗语言摘要。",
+      "电子邮件：将意见发送至JExchanges@state.gov。请在邮件主题中注明“RIN 1400-AF23”。",
+      "所有意见均应包括评论人的姓名、其所代表的机构（如适用）以及通讯地址。如果国务院无法辨认您的意见内容，或无法联系您以获取澄清，则可能无法将其纳入考虑。在为期60天的意见征集期结束后，国务院将审查所有相关反馈意见，并尽快发布最终规则。",
+      "如需进一步了解情况，请联系：",
+      "丽贝卡·帕西尼（Rebecca Pasini），私营部门交流事务副助理国务卿，美国国务院，SA-5大楼5楼，地址：2200 C Street NW, Washington, DC 20522。电子邮件：JExchanges@state.gov。",
+      "补充信息：",
+      "国务卿有权颁布为执行国务院职能所必需的规则和条例。见22 U.S.C. 2651a(a)(4)。经修订的《1961年相互教育与文化交流法》授权国务院（以及新成立的教育与文化事务局）执行该法宗旨，并对依据该法设立的各项目进行管理、协调和监督。见22 U.S.C. 2451及其后各条。国务院现拟对《联邦法规汇编》第22篇“对外关系”第62部分“交流访问者项目”（Subpart C，“交流访问者身份”）进行修改。Subpart C规范持J-1签证前往美国的非移民交流访问者及其随行配偶和（或）受抚养人（如有，持J-2签证前往美国）的身份状态。本拟议规则具体涉及22 CFR 62.40项下的项目参与终止、22 CFR 62.43项下的交流访问者项目延期，以及22 CFR 62.45项下交流访问者记录恢复至有效项目身份的事宜。（印刷页第48022页）随行配偶和（或）受抚养人的身份状态与其随行的交流访问者的身份状态保持一致。就本拟议规则而言，除另有说明外，提及交流访问者记录即包括随行配偶和（或）受抚养人的记录。",
+      "C部分最后一次修订是在1999年,当时此前负责交流访问者项目监督工作的美国新闻署(USIA)发布了一项临时最终规则并征求意见(64 FR 44123, 1999年8月13日)。该规则取代了此前于1997年4月24日在《联邦公报》上发布的政策声明。1999年的法规是为纸质办公环境运作而制定的。",
+      "1996年《非法移民改革和移民责任法》(IIRIRA)责成司法部长建立一套电子系统,以收集有关F、M和J类非移民人员的信息,此举是为应对有关此类人员可能脱离身份并在未经授权的情况下继续留在美国的担忧而采取的。2001年,《美国爱国者法案》(公法第107-56号)第416条修订了IIRIRA,要求扩展并实施该系统。2003年1月,国土安全部(DHS)与国务院共同推出了SEVIS系统,这是一个基于网络的平台,用于在F、M和J类非移民人员参与经批准的项目期间对其进行跟踪和监测。",
+      "项目参与资格的终止",
+      "本拟议规则涉及根据22 CFR 62.40条终止交流访问者项目参与资格的问题。该拟议规则增加了一项主办方必须终止交流访问者参与其交流项目的依据,即当交流访问者在其交流访问者申请中或在交流项目进行期间伪造或未能提供完整真实的答复、信息或文件时。",
+      "该拟议规则还修订了22 CFR 62.40条,以扩大国务院可行使自由裁量权终止交流访问者项目参与资格的情形。根据该拟议规则,当国务院或国土安全部已立即生效地吊销或取消某签证时,国务院可终止交流访问者的身份。在此类情况下,相关人员必须立即离境,否则将面临被遣返的风险。该拟议规则还规定,当交流访问者在其交流访问者申请中或在交流项目进行期间伪造或未能提供完整真实的答复、信息或文件时,国务院可终止其交流项目。例如,交流访问者可能被要求提供美国地址证明、教育资历证明或在活动地点出勤的证明。准确的信息对于主办方和国务院评估交流访问者是否继续符合其非移民身份条件是必要的。该规则还拟议建立一项新程序,交流访问者可就国务院因未经授权就业或伪造信息或文件而作出的终止决定提出异议,须在国务院书面通知发出后10个工作日内提交反对声明。交流访问者不得以困苦或其他衡平因素为由提出上诉。这些法规修改旨在进一步支持该项目确保访问者福祉、项目完整性和国家安全的目标。",
+      "项目的延期",
+      "拟议中对22 CFR 62.43条(项目延期)的替代修订,通过将相关程序与SEVIS系统功能相整合,简化并明确了在最长项目期限以内以及超出该期限的延期申请流程。目前,主办方有权在交流访问者项目类别所允许的期限内对项目进行延期。但是,根据现行法规,如果交流访问者寻求延期超过所允许的最长期限,主办方必须获得国务院的批准。本规则拟议为此类延期申请的提交设定截止期限。在SEVIS系统中提交电子延期申请后,国务院必须最迟在新延期期限开始前三个月收到相关证明文件。逾期提交将不设任何例外。",
+      "为确保各项目类别之间的一致性,本拟议规则删除了《联邦法规汇编》第22卷第62.31(o)条关于互惠生类别项目延期的规定,该条现规定:“向国务院申请延长六个月、九个月或十二个月的,必须在交流访问者初始授权停留期限届满前不少于30个日历日送达国务院......”根据本拟议规则,互惠生的延期事宜将适用拟议的第22卷第62.43条所载的一般规则和时限,该条要求在交流访问者项目终止日期届满前90天提交申请。这些修订与第14219号行政命令(《确保依法施政并落实总统“政府效率部”放松管制倡议》,《联邦纪事》第90卷第10583页,2025年2月19日)相一致,该行政命令指示各机构精简过时的监管规定。",
+      "恢复为有效项目状态",
+      "国务院通过SEVIS系统监测交流访问者的有效项目状态。指定发起人必须使用SEVIS系统确认初始项目参与情况,报告未能开始项目的情形,并标明项目的提前完成或终止情况(22 CFR 62.13)。无论交流访问者是提前完成项目、自愿终止参与,还是被非自愿终止项目,发起人均必须及时更新该交流访问者在SEVIS系统中的记录,以反映此种变化,并保持交流访问者SEVIS记录状态的及时更新。本拟议规则修订了22 CFR 62.2条,新增“有效项目状态”的定义,将其定义为:自指定发起人签发DS-2019表格起,至访问者积极参与交流项目期间,直至该访问者因完成、终止参与、毕业、被终止或项目以其他方式结束而获得最终状态为止,其SEVIS记录当前且准确的状态。该定义涉及SEVIS记录中所载的任何现有或未来状态:初始、活动、非活动、已终止、已转移、无效及未报到。本拟议规则还新增了“未经授权就业”的定义,使其与美国公民及移民服务局(USCIS)现行政策用语保持一致。国土安全部(DHS)负责执行并实施经修订的《移民与国籍法》(INA)。其他联邦及州机构亦依赖SEVIS数据以确定对相关法律法规的遵守情况。",
+      "SEVIS系统实施后,指定发起人已由纸质文件转为电子报告方式。根据22 CFR 62.12(a)(2)的规定,发起人须保持SEVIS记录的准确、现时及更新状态。发起人还必须确保项目参与情况与SEVIS系统中所述及DS-2019表格所列的活动相符(22 CFR 62.10(d))。",
+      "发起人必须在SEVIS系统中报告项目状态违规情况。当记录未能准确反映交流访问者的项目状态时,无论是由于发起人、交流访问者或双方的行政疏漏、疏忽(印刷页第48023页)大意,还是由于超出其控制范围的意外情形所致,发起人均必须更正该记录或申请恢复原状。",
+      "现行法规将违规行为分为三类:(1)轻微或技术性违规,(2)实质性违规,以及(3)不可恢复性违规。拟议规则取消了轻微或技术性违规与实质性违规之间的区分,要求除不可恢复性违规外,赞助方须在30天内使用“更正SEVIS状态”(Correct SEVIS Status)程序修正交流访问者在学生及交流访问者信息系统(SEVIS)中的记录。本拟议规则提供了一套简化系统以确保数据完整性,取代了此前针对轻微违规规定的120天期限,使赞助方能够以简便方式确保SEVIS记录的准确性,而无需影响该计划或要求国务院批准。因此,当赞助方由于管理错误、疏忽或其无法控制的情形,错误地将交流访问者SEVIS记录的状态更改为“活跃”(Active)、“非活跃”(Inactive)、“终止”(Terminated)、“转移”(Transferred)、“无效”(Invalid)和“未到校”(No Show),或当该错误系由系统变更引起时,必须使用“更正SEVIS状态”操作。如果交流访问者未能及时提出更新请求(例如转学或项目延期),导致其记录错误地反映出不正确的状态,或者学生未经事先与赞助方及其学业顾问协商而未能保持全日制学业(定义见第62.2条),也必须使用“更正SEVIS状态”操作。",
+      "自SEVIS记录变为不正确状态之日起,赞助方有30天时间使用“更正SEVIS状态”操作,将SEVIS记录恢复为“活跃”或“非活跃”状态,无需向国务院提出申请或缴纳费用。如果交流访问者尚未入境美国,将记录从“无效”或“活跃”状态更改为“初始”(Initial)状态则没有时间限制。",
+      "“更正SEVIS状态”操作会立即更新交流访问者记录的状态。如果J-2配偶和/或受抚养人的SEVIS记录随J-1记录一同发生变更,该记录将自动更新。否则,必须单独更正J-2记录。如果赞助方未能在30天期限内更正SEVIS记录,则必须提交恢复身份(Reinstatement)申请。",
+      "此前,国务院不受理超过270天提出的申请,因为此类延迟被视为缺乏项目连续性。为与国土安全部(DHS)的政策保持一致,国务院将评估将交流访问者记录恢复为“活跃”状态的请求,前提是交流访问者失去身份的时间未超过DHS所设定的期限(目前为五个月)。如果交流访问者失去身份的时间超过DHS政策所设定的期限,国务院仅在赞助方能够证明未能及时提交申请系因特殊情况所致,且申请已在该情况下尽快提交的情形下,方予以受理。将记录更新为“非活跃”状态的恢复申请则没有时间限制。",
+      "如交流访问者出现以下情形,赞助方不得使用“更正SEVIS状态”操作或提交恢复身份申请将其记录更新为“活跃”状态:",
+      "未能按照22 CFR第62部分B分部(具体项目规定)下其所属类别所确定的原定项目目标继续进行;",
+      "未能按照22 CFR第62.14条的规定维持所需的保险保障;",
+      "被赞助方或接待机构非自愿中止或终止交流项目;",
+      "根据《移民与国籍法》(INA)第212(e)条获得了有利的豁免建议;",
+      "已获得国土安全部批准变更为其他非移民签证类别的身份;或",
+      "未缴纳《第104-208号公法》(Public Law 104-208)规定的费用。",
+      "恢复身份申请必须在SEVIS中启动,并须在十(10)日内向国务院提交支持性文件。赞助方必须缴纳不可退还的费用(见第62.17条所列),并在正式信头纸上提交书面声明,声明以下事项:",
+      "交流访问者继续追求其原定项目目标;",
+      "该中断系由于疏忽、无意或赞助方无法控制的因素所致;",
+      "若拒绝该申请将对交流访问者造成异常困难;",
+      "未发生未经授权的就业行为;以及",
+      "交流访问者准确的项目结束日期。",
+      "该拟议规则将“未经授权的就业”的定义迁移并更新至第62.2条。该定义反映了美国公民及移民服务局(USCIS)政策手册第7卷B部分第6章中所载的措辞,[1]该章将未经授权的就业定义为:",
+      "“外国人在美国境内为雇主提供的任何服务或劳动,而该外国人未获得《移民与国籍法》(INA)或美国公民及移民服务局(USCIS)授权接受就业,或超出其就业授权的范围或期限。”[2]",
+      "就本规则而言,未经授权的就业不包括通常可获批准且适合访问者所属类别的活动(例如,学者进行讲座或咨询所获得的酬金)。",
+      "监管分析",
+      "《行政程序法》",
+      "国务院历来认为,有关交流访问者项目的规则制定涉及美国的外交事务职能,因此依据5 U.S.C. 553(a)免于通知与评论程序。[3] 然而,鉴于国务院有意就本规则征求公众意见,国务院将在为期60天的评论期内征集意见,并在国务院选择最终定稿本提案全部或部分内容时,在最终规则中作出回应。",
+      "1995年《无资金授权改革法》",
+      "本拟议规则不会导致州、地方或部落政府或私营部门在任何一年内产生1亿美元或以上的支出。该规则也不会对小型政府产生显著或独特的影响。因此,根据1995年《无资金授权改革法》,无需采取任何行动。(印刷页第48024页)",
+      "第13175号行政命令,关于与印第安部落政府的协商与协调",
+      "国务院已确定,本拟议规则不涉及部落事务,不会对印第安部落政府施加重大的直接合规成本,也不会优先于部落法律。因此,第13175号行政命令的要求不适用于本规则制定。",
+      "《监管灵活性法》/第13272号行政命令,关于对小实体的考量",
+      "尽管国务院认为本规则依据5 U.S.C. 553免于通知与评论程序的规定,因此不受《监管灵活性法》(5 U.S.C. 601及其后条款)或第13272号行政命令的约束,但我们仍提供对小实体潜在负担的评估。",
+      "终止:国务院估计,约有1,400个指定赞助机构在交流访问者项目下运营。国务院预计,项目终止部分变更所带来的益处将显著增强运营的透明度和有效性,而不会给赞助机构或交流访问者带来额外的经济负担,最终推动该项目外交政策目标的实现。本拟议规则所引致的任何变更均不会产生新的净监管成本。与交流访问者提交反对声明及由负责私营部门交流事务的副助理国务卿所进行的审查程序相关的费用预计极小且罕见。",
+      "延期费用影响分析:根据现行规定,指定赞助机构必须就超过特定交流访问者项目类别所允许最长期限的项目延期获得国务院批准。此程序需要国务院投入资源进行审查和裁决。与此请求相关的费用旨在用于弥补这些行政成本。",
+      "目前,就特定交流访问者身份变更提出申请的申请费为每份申请367美元(22 CFR 62.17(b)(2))。根据2022年至2024年提供的项目数据,国务院每年平均处理约14,563份“超出最长期限的项目延期”请求(根据三年内共43,690份请求计算得出)。按367美元的费用计算,预计每年的总成本回收额约为5,344,871美元(14,563份请求乘以每份请求367美元)。该费用反映了国务院处理这些请求所需投入的资源,包括根据项目法规和参与者资格核实延期理由的正当性。与前文讨论的恢复身份费用不同(指定担保方可以通过及时在SEVIS系统中更新其记录来避免该费用),只要担保方为交流访问者申请超出法规针对某一类别所允许的标准最长项目期限的延期,就必须缴纳此项费用,这需要国务院进行审查。该按请求收取的费用会影响所有提交此类请求的指定担保方,包括小实体。所有指定担保方的预计年度总成本颇为可观(约534万美元),这是由延期请求的高数量(每年约14,563份)所致。",
+      "与适用请求数量少得多且可能可以避免的恢复身份费用不同,延期费用适用于更为常见的请求。尽管单次请求的成本可能并不显著,但大量的延期请求累积起来会产生可观的总成本。国务院还注意到,2022年至2024年间延期请求的数量保持相对稳定,2024年的请求数量较上一年略有增加。国务院无法预测未来几年此类请求的数量将如何变化。",
+      "收益:该费用的一个主要收益是为美国政府实现成本回收,确保处理这些请求所涉及的行政成本由提出服务请求的实体承担,而非由公众或拨款资金承担。该费用还隐含地强调了超出最长期限的延期请求的性质,即此类请求在每年交流访问者总人数中所占比例仍相对较小。",
+      "结论:根据近期数据,针对“超出最长期限的项目延期”请求所设定的费用,适用于每年平均约14,563份请求,预计可实现每年约534万美元的成本回收。该费用使国务院能够弥补因代表交流访问者的指定担保方提出此类特定延期请求而提供必要服务所产生的行政开支。",
+      "恢复身份费用影响分析:现有数据显示,2024年仅提交了21份正式的恢复身份请求。准备一份延期或恢复身份请求通常需要1小时的行政工作时间,由此估算所有受影响担保方的年度总成本约为2,100美元。这一低数量及极小的行政负担支持了国务院关于本规则对小实体的经济影响微乎其微的判断。",
+      "本规则将现行SEVIS程序予以编纂,例如“更正SEVIS状态”程序,该程序允许担保方在无需国务院介入或缴纳费用的情况下解决大多数问题。只有在指定担保方未能及时采取行动,且必须进行恢复身份以更正SEVIS记录时,才需缴纳相关费用。",
+      "本规则的结构旨在促进预防性合规:保持准确及时的SEVIS记录的担保方将不会产生新的费用。这有助于减轻财务负担,尤其是对资源有限的较小担保方而言。",
+      "该规则也符合第14192号行政命令《通过放松管制释放美国繁荣》的要求,因为它不会增加新的净监管成本,且将现行操作做法予以编纂。主要的直接成本是向国务院提交重新激活请求所需缴纳的不可退还费用。根据22 CFR 62.17(b)(2)规定的交流访问者项目条例,该费用一直保持为每份申请367美元。2022年至2024年的项目数据显示,国务院每年平均处理155份重新激活请求(根据三年共465份请求计算得出)。因此,指定发起人处理此类请求的预估年度成本总计为56,885美元(155份请求乘以每份请求367美元)。",
+      "本拟议规则强调量化成本和效益、尽量减少行政负担、协调法规、鼓励灵活性、促进发起人自主性以及培养自立能力的重要性。该规则强调使用SEVIS系统,使指定发起人能够直接解决许多常见的记录问题。预计这将减轻行政负担,并为指定发起人在处理日常更正事项时节省时间。但是,如果指定发起人未能在规定时限内直接在SEVIS中更新记录,发起人必须在SEVIS中发起重新激活请求,并缴纳根据22 CFR 62.17(b)(2)规定设立的不可退还费用。重新激活请求需经(印刷页48025)国务院审查和处理。由于未利用SEVIS中无需国务院事先批准的纠正措施,每位发起人所需承担的成本将在很大程度上取决于其每年提交的重新激活申请数量。鉴于在约1,400家指定发起人中,需要国务院介入的此类特定申请总数相对较少,并且此类请求通常可以通过在SEVIS中及时采取行动加以预防,国务院认为该费用不太可能对大量指定发起人造成重大经济影响。若要对指定发起人潜在成本与其收入进行更详细的比较分析,则需要有关发起人规模分布以及按规模划分的重新激活请求频率的数据,而目前尚无此类数据。",
+      "国务院认识到,自2003年首次实施以来,SEVIS系统的功能已经历了持续演进。本规则反映了这些发展变化,并使监管框架与当前发起人职责及技术能力保持一致。为确保项目合规的清晰性和一致性,国务院计划随着SEVIS工具的不断进步,审查并更新相关的发起人指南。",
+      "相关条例规定了简化程序(更正SEVIS状态),允许指定发起人在规定时限内直接在SEVIS中解决许多记录问题,而无需国务院介入或缴纳费用。该年度估算反映的是寻求国务院采取行动的指定发起人所产生的费用,而非按预期方式使用SEVIS的指定发起人成本的增加。此外,国务院注意到,2022年至2024年间,重新激活请求数量逐年下降。因此,国务院不对未来几年请求数量可能发生的变化作出预测。",
+      "效益:主要效益包括:(1)提高效率,减轻指定发起人在SEVIS中管理日常记录更正时的行政负担;(2)通过简化的更正流程以及该费用所建立的激励机制,提高SEVIS数据的准确性和及时性,从而支持项目管理和监督;(3)为解决超出标准更正范围的更复杂重新激活案例所使用的国务院资源实现成本回收;(4)为指定发起人提供有关记录维护和更正的明确监管标准;以及(5)为交流访问者带来间接效益,即更高效地解决其身份状态问题,与之相对的是,如果指定发起人未能及时更正记录,可能对交流访问者造成的不利影响。",
+      "结论：国务院认为,拟议方案能够使净效益最大化。预期的优势,包括提高项目赞助方的效率、改善SEVIS数据完整性、明确监管标准、使国务院能够收回成本,以及可能加快交流访问者问题的解决速度,预计将超过与恢复身份申请相关费用所带来的潜在成本,此类申请需要国务院直接参与。",
+      "第12866号和第13563号行政命令，监管规划与审查",
+      "信息和监管事务办公室已确定，本拟议规则属于第12866号行政命令第3(f)条所指的重大规则。国务院已对本拟议规则进行审查，以确保其符合上述行政命令所述的成本效益、明确性和监管灵活性原则。",
+      "2024年，超过1,700份个人交流访问者记录被终止。排名靠前的终止原因包括：违反项目赞助方规则或规定（975例）、未能继续项目活动（300例）、纪律原因或刑事定罪（90例）、从事未经授权的就业（30例），以及被列为“其他”原因的（450例）。拟议对22 CFR第62.40条的现代化修订，通过允许以电子方式高效记录、跟踪和记载终止决定，加强了项目管理，从而提高了数据的准确性和及时性，同时支持主动合规监控。新规定还通过引入明确的程序性要求，为项目赞助方和交流访问者提供了更大的操作和监管明确性，同时使国务院在交流访问者终止程序中的自由裁量权正式化。更新SEVIS数据库功能不涉及任何新增费用。项目赞助方应继续按照既有要求对交流访问者进行相同的监控和记录。被国务院终止身份的交流访问者将获得对国务院终止决定提出异议的权利。",
+      "第12988号行政命令，民事司法改革",
+      "国务院已依据第12988号行政命令第3(a)条和第3(b)(2)条对本拟议规则进行审查。该规则的撰写旨在最大限度减少歧义、减少诉讼并确立明确的法律标准。",
+      "第12372号和第13132号行政命令，联邦制",
+      "国务院已确定，本拟议规则对各州、国家政府与各州之间的关系，或各级政府之间权力和责任的分配，不具有实质性的直接影响。根据第13132号行政命令第6条，本规则不具有足以要求进行磋商或编制联邦制影响摘要声明的联邦制影响。管辖联邦项目政府间审查的第12372号行政命令不适用于本法规。",
+      "文书削减法",
+      "根据1995年《文书削减法》（44 U.S.C. 第35章），各机构必须就任何新的信息收集事项获得管理和预算办公室（OMB）的批准。本拟议规则未对项目赞助方施加任何新的报告或记录保存要求，因此无需根据《文书削减法》获得批准。",
+      "22 CFR第62部分主题列表",
+      "文化交流项目",
+      "报告和记录保存要求",
+      "因此，现拟议对22 CFR第62部分作如下修订：",
+      "第62部分，交流访问者项目",
+      "1. 22 CFR第62部分的授权引文修订如下：",
+      "授权依据：8 U.S.C. 1101(a)(15)(J)条、1182条、1184条、1258条；22 U.S.C. 1431-1442条、2451条及其后续条款；22 U.S.C. 2451条；1998年《对外事务改革与重组法》，Pub. L. 105-277，G分篇，112 Stat. 2681及其后续条款；1977年第2号重组计划，3 CFR，1977年汇编，第200页；1978年3月27日第12048号行政命令，3 CFR，1978年汇编，第168页；1996年《非法移民改革和移民责任法》（IIRIRA），Pub. L. 104-208，C分篇，110 Stat. 3009-546，及其修订；《美国爱国者法》，Pub. L. 107-56，第416条，115 Stat. 354；2002年《加强边境安全和签证入境改革法》，Pub. L. 107-173，116 Stat. 543。",
+      "（印刷页第48026页）",
+      "第62.2条",
+      "【已修订】",
+      "2. 第62.2条修订，按字母顺序增加以下定义：",
+      "未经授权的就业:外国国民在美国境内为雇主从事的任何未经《移民与国籍法》或美国公民及移民服务局(USCIS)授权接受就业的服务或劳动,或超出其就业授权范围或期限的服务或劳动。该定义同样适用于随行的J-2配偶和/或受抚养人,如其未经美国国土安全部事先授权而从事此类劳动。",
+      "有效项目身份:自指定担保人签发DS-2019表格之时起,至交流访问者积极参与交流项目期间,包括交流访问者完成、终止、毕业、终结或项目以其他方式结束时的最终身份,其SEVIS记录当前且准确的状态。",
+      "第62.31条",
+      "[修订]",
+      "3. 删除并保留第(o)款。",
+      "4. 修订第62.40条,修订后内容如下:",
+      "第62.40条",
+      "项目参与的终止。",
+      "(a) 在下列情形下,担保人必须终止交流访问者在其项目中的参与:",
+      "(1) 未能从事其获准进入美国时所为之活动的;",
+      "(2) 无法继续该项目,除非根据本条例另有豁免的;",
+      "(3) 违反担保人关于该项目的规定,且担保人在审阅国务院指导意见后自行裁量认为终止系属正当的;",
+      "(4) 未能维持本条例第62.14条要求的保险保障的;或",
+      "(5) 在其申请或正在进行的项目中伪造或未能提供完整真实的答复、信息或文件的。",
+      "(b) 在下列情形下,国务院可终止交流访问者在其项目中的参与:",
+      "(1) 国务院或美国国土安全部已立即撤销或取消该交流访问者的签证的;",
+      "(2) 交流访问者从事未经授权的就业的;或",
+      "(3) 交流访问者在其申请或正在进行的项目中伪造或未能提供完整真实的答复、信息或文件的。",
+      "(c) 一经认定存在本条第(b)(2)款或第(b)(3)款所列任一行为,私营部门交流办公室应向交流访问者送达不少于三十(30)天的书面通知,告知拟终止其项目参与的意图。该通知必须载明拟议终止的理由及其生效日期,告知交流访问者其可以对该终止提出异议,并说明提交异议声明的程序。",
+      "(d) 在送达该拟议终止书面通知后的十(10)天内,交流访问者可向负责私营部门交流事务的副助理国务卿(副助理国务卿)提交反对拟议终止的声明。交流访问者不得以经济困难或其他衡平因素为由提出上诉。",
+      "(e) 提交该声明将使拟议终止的生效日期中止,直至副助理国务卿作出决定。",
+      "(f) 副助理国务卿在审议该声明后,将作出书面决定,确认或撤回拟议的终止。副助理国务卿的决定不得提起行政上诉。",
+      "5. 修订第62.43条,修订后内容如下:",
+      "第62.43条",
+      "项目的延期",
+      "(a) 在最长期限内的延期。",
+      "(1) 担保人可通过SEVIS将交流访问者在交流访问者项目中的参与延长至其特定项目类别所授权的最长允许参与期限。",
+      "(2) 为交流访问者延长项目的担保人必须:",
+      "(i) 向交流访问者签发一份正式签署的、反映该延期的DS-2019表格;并且",
+      "(ii) 若新的项目结束日期超出交流访问者固定的准予停留期限,须在交流访问者向美国国土安全部申请延长停留期之前签发DS-2019表格。",
+      "(b) 超出最长期限的延期。",
+      "(1) 为代表交流访问者寻求超出其特定参与类别所授权期限的项目延期的担保人,必须:",
+      "（一）在交流访问者期望延期开始日期前不迟于三个月，通过SEVIS提交延期申请，并将支持文件以电子邮件方式发送至美国国务院（Department of State）；",
+      "（二）附上按照第62.17条规定缴纳的不可退还延期费用的付款证明；以及",
+      "（三）充分记录说明该延期理由的文件。",
+      "（二）对于互惠生（au pair），项目担保人可向美国国务院提交为期六个月、九个月或十二个月的延期申请，并须在担保机构信笺上附具以下补充支持文件：",
+      "（一）互惠生姓名、SEVIS识别号码、出生日期，以及所申请延期期限的长度；以及，",
+      "（二）证明互惠生已完成初始项目教育要求的核实文件。",
+      "（三）经美国国务院批准后，为交流访问者延长项目的担保人必须：",
+      "（一）向交流访问者签发经正式签署、反映延期情况的DS-2019表格；以及",
+      "（二）如新的项目结束日期超出交流访问者固定准许停留期限，须在交流访问者向美国国土安全部（DHS）申请延长停留期之前，先行签发DS-2019表格。",
+      "六、修订第62.45条，内容修改如下：",
+      "第62.45条",
+      "恢复为有效项目身份。",
+      "（甲）维持有效项目身份。指定担保人必须保持SEVIS记录的及时性与准确性。未能维持交流访问者的有效项目身份，可能对该个人进入或留在美国的能力产生不利影响。美国国务院可认定担保人未能维持有效项目身份，危及交流访问者的福祉或美国国家安全。担保人必须在必要时使用本条所列出的更正选项之一，以恢复有效项目身份。",
+      "（乙）更正SEVIS身份状态。",
+      "（一）担保人必须使用“更正SEVIS身份状态”操作，以处理因行政疏漏、疏忽或担保人与交流访问者均无法控制的情形所导致的不正确记录状态。",
+      "（二）担保人应自身份状态变更之日起30天内使用此操作，将SEVIS记录恢复为“活跃（Active）”或“非活跃（Inactive）”状态。根据本规定，担保人仅可更正由其自身发起终止的（第48027页）“已终止（Terminated）”记录。自状态变更之日起超过30天后，须提交恢复申请。",
+      "（三）如交流访问者尚未入境美国，担保人还必须使用此操作，将记录从“活跃”或“无效（Invalid）”状态更改为“初始（Initial）”状态。若DS-2019表格尚未用于入境，则使用此操作不受时间限制。",
+      "（丙）恢复申请。",
+      "（一）如担保人未能在允许的30天期限内使用上述操作更正SEVIS记录状态，则必须向美国国务院提出正式恢复申请。",
+      "（二）美国国务院将评估在符合美国国土安全部（DHS）政策规定期限内（目前为五个月）提交的恢复交流访问者记录为“活跃”状态的申请。此外，如担保人能够证明未能及时提交申请系由于特殊情况所致，且该请求已在该情况下尽可能迅速地提出，国务院亦可予以考虑。对于请求将记录恢复为“非活跃”状态以反映实际情况的申请，不受时间限制。",
+      "（三）担保人必须在SEVIS中启动恢复申请，并在10个日历日内，将以下材料以电子邮件方式发送至美国国务院：",
+      "（一）由担保机构签署的信笺声明，须包括：",
+      "（甲）交流访问者正在从事或原本打算从事其原定活动；",
+      "（乙）该中断系因疏漏、疏忽或担保人无法控制的情形所致；",
+      "（丙）若拒绝该申请将对交流访问者造成异常困难；",
+      "（丁）未发生任何未经授权的就业行为；以及，",
+      "（戊）交流访问者准确的项目结束日期。",
+      "（二）pay.gov收据副本及I-901费用重新缴纳证明；",
+      "（三）交流访问者I-94表格、签证及护照的副本；以及",
+      "（四）认为必要的其他任何支持文件。",
+      "(4) 决定通知。国务院将把其决定通知主办方。如获批准,SEVIS记录将被更新,并向主办方发送自动电子邮件。主办方应向交流访问者签发反映该变更的更新版DS-2019表。如被拒绝,主办方将收到说明拒绝理由的电子邮件。",
+      "(5) 在下列情形下,国务院将不考虑将交流访问者恢复为“有效”身份的请求:",
+      "(i) 未能维持其原定的项目目标;",
+      "(ii) 未能按照22 CFR 62.14的要求维持所需的保险保障;",
+      "(iii) 从事未经授权的就业;",
+      "(iv) 被主办方或接待单位非自愿地中止或终止;",
+      "(v) 根据《移民与国籍法》第212(e)条获得了有利的豁免建议;",
+      "(vi) 获得国土安全部(DHS)批准变更为其他非移民准许入境类别;或",
+      "(viii) 未能缴纳公法104-208号法律所规定的费用。",
+      "(e) 未能维持有效的项目身份。主办方必须定期监控并更新SEVIS记录。主办方未能通过SEVIS身份更正或恢复程序采取适当行动的,可被视为违反22 CFR 62.13(通知要求)的规定。",
+      "丽贝卡·A·帕西尼(Rebecca A. Pasini),",
+      "美国国务院教育文化事务局副助理国务卿。",
+      "脚注",
+      "1. 参见第7卷,身份调整,B部分,第245(a)条身份调整,第6章,未经授权的就业(《移民与国籍法》第245(c)(2)条和第245(c)(8)条),A节,定义,第1小节,未经授权的就业 [7 USCIS-PM B.6(A)(1)]。",
+      "返回引文处",
+      "2. 关于授权就业的示例,参见8 CFR 274a.12(a)至(c)。",
+      "返回引文处",
+      "3. 外国政府寻求促进其本国国民赴美访问和学习的能力,国务院根据美国的外交政策需要,依据与外国政府签订的谅解备忘录,建立经修订的交流项目。这一做法体现了该项目所需的灵活性,该项目的目的是促进美国在海外的利益,并进一步推动“美国与世界各国之间的和平关系”。22 U.S.C. 2451。与该目的相关,本规则的一个主要目的是在外国国民在美国参加其项目期间保护其健康、安全和福祉。未能保护这些外国国民的健康、安全和福祉,可能对美国的对外事务产生直接且重大的不利影响。",
+      "返回引文处",
+      "[FR Doc. 2026-15450 Filed 7-29-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発出し署名した機関",
+      "文書が改正する、改正を提案する、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "担当機関のドケット番号/担当機関内部ファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに掲載される各規制措置を識別するRIN(規則識別番号)",
+      "詳細については文書作成ハンドブック(Document Drafting Handbook)を参照のこと。",
+      "国務省",
+      "22 CFR Part 62",
+      "[パブリックノーティス: 13087]",
+      "RIN: 1400-AF23",
+      "機関:",
+      "米国国務省。",
+      "措置:",
+      "意見募集を伴う規則案。",
+      "概要:",
+      "国務省(以下「省」という。)の教育文化局は、22 CFR part 62に規定される交流訪問者プログラムを運営しており、同プログラムの下で教育文化交流プログラムに参加する交流訪問者はJビザ区分で米国へ渡航する。省は、国土安全保障省が管理するデータベースである学生及び交流訪問者情報システム(SEVIS)を通じて、交流訪問者の身分及び所在地を追跡している。本規則制定案通知(以下「規則案」という。)は、スポンサーが交流訪問者のプログラムを終了しなければならない条件を明確化し、限定的な状況において省の裁量により交流訪問者のプログラムを終了させる権限を認めるものである。また、プログラムの延長及び有効なプログラム身分への復帰に関する規定について、時代遅れの要件を廃止し、現行のSEVISの機能を活用した更新された手続を導入することにより全面的に改正する。さらに、定義規定を改正して「無許可就労」及び「有効なプログラム身分」の定義を追加し、オーペアに関する個別のプログラム延長規定を廃止する。",
+      "日付:",
+      "国務省は、2026年7月30日から60日間、一般からの意見を受け付ける。",
+      "宛先:",
+      "本規則案に対する意見は、以下のいずれかの方法により提出することができる。",
+      "オンライン: www.regulations.gov にアクセスし、検索欄にドケットID「DOS-2026-0859」を入力して本規則を検索すること。行政手続法(5 U.S.C. 553(b)(4))の要求に従い、同所において本規則案の平易な言葉による概要も確認できる。",
+      "電子メール: JExchanges@state.gov 宛に意見を送付すること。電子メールの件名欄に「RIN 1400-AF23」と記載すること。",
+      "すべての意見には、意見提出者の氏名、所属する団体(該当する場合)、及び郵送先住所を記載すること。省が意見を読み取れない場合、又は明確化のために提出者に連絡できない場合には、当該意見を考慮できないことがある。60日間の意見提出期間が終了した後、省はすべての関連する意見を検討し、可能な限り速やかに最終規則を公表する。",
+      "問い合わせ先:",
+      "レベッカ・パシーニ、民間部門交流担当次官補代理、米国国務省、SA-5、5階、2200 C Street NW、Washington, DC 20522。電子メール: JExchanges@state.gov。",
+      "補足情報:",
+      "国務長官は、国務省の職務を遂行するために必要な規則を制定する権限を有する。22 U.S.C. 2651a(a)(4)。1961年相互教育文化交流法(改正済み)は、国務省(及び新設された教育文化局)に対し、同法の目的を遂行し、同法に基づき設立されたプログラムを管理、調整及び監督する権限を付与した。22 U.S.C. 2451 et seq. 国務省は、連邦規則集(CFR)第22編、外交関係、第62部、交流訪問者プログラムのサブパートC(交流訪問者の身分)の改正を提案するものである。サブパートCは、J-1ビザで米国へ渡航する非移民交流訪問者及びこれに同行するJ-2ビザで米国へ渡航する配偶者及び/又は扶養家族(いる場合)の身分を規律する。本規則案は、具体的には、22 CFR 62.40に基づくプログラム参加の終了、22 CFR 62.43に基づく交流訪問者のプログラムの延長、及び22 CFR 62.45に基づく交流訪問者記録の有効なプログラム身分への復帰について扱うものである。(印刷ページ48022)同行する配偶者及び/又は扶養家族の身分は、同行する交流訪問者の身分に準じるものとする。本規則案の目的上、交流訪問者記録への言及には、別段の定めがない限り、同行する配偶者及び/又は扶養家族の記録を含むものとする。",
+      "サブパートCは1999年に最後に改正された。当時、交流訪問者プログラムの監督を担当していた旧米国情報局(USIA)が意見募集を伴う暫定最終規則を発出した(64 FR 44123、1999年8月13日)。同規則は、1997年4月24日に連邦官報に公表された従前の政策声明に代わるものであった。1999年の規則は、紙媒体による運用を前提として策定されたものである。",
+      "1996年不法移民改革及び移民責任法(IIRIRA)は、F、M及びJ非移民がステータスを失い、無許可のまま米国内に残留する可能性があるとの懸念を受けて、司法長官に対し、これらの者に関する情報を収集する電子システムを構築するよう指示した。2001年、米国愛国者法(Pub. L. 107-56)第416条はIIRIRAを改正し、当該システムの拡張及び実施を義務付けた。2003年1月、国土安全保障省(DHS)及び国務省は、承認されたプログラムへの参加期間を通じてF、M及びJ非移民を追跡及び監視するためのウェブベースのプラットフォームであるSEVISを開始した。",
+      "プログラム参加の終了",
+      "本規則案は、22 CFR 62.40に基づく交流訪問者プログラム参加の終了を取り扱うものである。本規則案は、スポンサーが交流訪問者のプログラムへの参加を終了しなければならない事由を追加するものであり、具体的には、交流訪問者が、その交流訪問者申請の一部として、又は進行中の交流プログラムの過程において、虚偽の申告を行った場合、若しくは完全かつ真実の回答、情報若しくは書類を提供しなかった場合である。",
+      "本規則案はまた、22 CFR 62.40を改正し、国務省が交流訪問者プログラム参加を終了する裁量権を行使し得る状況を拡大するものである。本規則案の下では、国務省又はDHSが査証を即時効力をもって取り消し若しくは無効とした場合、国務省は交流訪問者の資格を終了することができる。かかる場合、当該個人は直ちに出国しなければならず、さもなければ退去強制のおそれがある。本規則案はまた、交流訪問者が、その交流訪問者申請の一部として、又は進行中の交流プログラムの過程において、虚偽の申告を行った場合、若しくは完全かつ真実の回答、情報若しくは書類を提供しなかった場合に、国務省が当該交流訪問者のプログラムを終了することができる旨を定めるものである。例えば、交流訪問者は、米国内の住所、学歴、又は活動場所への出席の証明を求められることがある。正確な情報は、スポンサー及び国務省が、交流訪問者が引き続きその非移民資格の条件を満たしているかどうかを評価するために必要である。さらに、交流訪問者が、無許可就労又は情報若しくは書類の虚偽申告を理由とする国務省の終了決定に対して、国務省による書面通知から10営業日以内に異議申立書を提出することにより異議を申し立てることができる新たな手続も提案されている。交流訪問者は、苦難その他の衡平上の考慮に基づいて不服申立てを行うことはできない。これらの規則改正は、交流訪問者の福祉の確保、プログラムの健全性及び国家安全保障というプログラムの目的をさらに支えることを意図したものである。",
+      "プログラムの延長",
+      "22 CFR 62.43(プログラムの延長)の置き換えが提案されているが、これは、最大プログラム期間内及びそれを超える延長の双方について、これらの手続をSEVISの機能と統合することにより、手続を合理化し明確化するものである。スポンサーは現在、交流プログラムの区分に応じて認められた期間まで交流訪問者プログラムを延長する権限を有している。もっとも、既存の規則と整合的に、交流訪問者が認められた最大期間を超える延長を求める場合、スポンサーは国務省の承認を得なければならない。本規則案は、かかる延長申請の提出期限を定めることを提案するものである。SEVISにおいて延長の電子申請を提出した後、国務省は、新たな延長期間の開始の遅くとも3か月前までに、裏付け書類を受領しなければならない。提出遅延に対する例外は認められない。",
+      "全てのプログラムカテゴリーにわたる一貫性を確保するため、本規則案は、オーペアカテゴリーに基づくプログラムの延長を定める22 CFR 62.31(o)を削除する。同条項は現在、「6か月、9か月、又は12か月の延長申請は、交流訪問者の当初の認められた滞在期間の満了日の少なくとも30暦日前までに国務省によって受理されなければならない......」と規定している。本規則案の下では、オーペアの延長は、提案されている22 CFR 62.43に含まれる一般規則及び期限によって規律されることとなり、同条項は交流訪問者のプログラム終了日の満了の90日前までに申請を提出することを求めるものである。これらの改正は、大統領令14219号(「合法的統治の確保及び大統領の『政府効率化省』規制緩和イニシアチブの実施」、90 FR 10583、2025年2月19日)に整合するものであり、同大統領令は各省庁に対し、時代遅れの規制条項を簡素化するよう指示している。",
+      "有効なプログラム状況への復帰",
+      "国務省は、SEVISにおいて交流訪問者の有効なプログラム状況を監視している。指定スポンサーは、当初のプログラム参加を検証し、プログラム開始の失敗を報告し、プログラムの早期完了又は終了を示すために、SEVISを使用しなければならない(22 CFR 62.13)。交流訪問者が予定より早くプログラムを完了した場合、自発的に参加を終了した場合、又はプログラムが非自発的に終了された場合のいずれであっても、スポンサーは速やかにSEVIS上の交流訪問者の記録を更新してこの変更を反映させ、交流訪問者のSEVIS記録の状況を最新の状態に保たなければならない。本規則案は、22 CFR 62.2を改正し、「有効なプログラム状況」の定義を追加するものであり、これは、指定スポンサーがForm DS-2019を発行した時点から、交流訪問者が交流プログラムに積極的に参加している期間を経て、完了、終了、卒業、打ち切り、又はその他のプログラム終了時における訪問者の最終的な状況を含む、交流訪問者のSEVIS記録の現在かつ正確な状況として定義されるものである。この定義は、SEVIS記録に含まれる現在又は将来のあらゆる状況、すなわち、Initial(開始)、Active(有効)、Inactive(無効)、Terminated(終了)、Transferred(移転)、Invalid(無効)、及びNo Show(不参加)に関連するものである。本規則案はまた、「無許可就労」の定義を追加し、これを米国市民権・移民局(USCIS)の既存の政策用語と整合させるものである。国土安全保障省(DHS)は、改正された移民及び国籍法(INA)を所管し、執行する。他の連邦及び州の機関は、法令遵守の判断のためにSEVISのデータに依拠している。",
+      "SEVISが導入された際、指定スポンサーは紙媒体のファイルから電子報告へと移行した。スポンサーは、22 CFR 62.12(a)(2)に基づき、正確かつ最新のSEVIS記録を維持することが求められている。また、スポンサーは、プログラムへの参加がSEVISに記載され、かつForm DS-2019に記載された活動と一致していることを確保しなければならない(22 CFR 62.10(d))。",
+      "スポンサーは、プログラム状況の違反をSEVISに報告しなければならない。記録が交流訪問者のプログラム状況を正確に反映していない場合、それがスポンサー若しくは交流訪問者、又はその両者による事務的な見落とし、(印刷ページ48023)不注意、若しくは怠慢によるものであるか、又はそれらの者の制御を超えた予期せぬ事情によるものであるかを問わず、スポンサーは当該記録を是正するか、又は復帰を申請しなければならない。",
+      "現行の規則は、違反を次の3種類に分類している。(1) 軽微な違反又は技術的な違反、(2) 実質的な違反、及び(3) 復活不可能な違反である。本提案規則は、軽微な違反又は技術的な違反と実質的な違反との区別を撤廃し、復活不可能な違反を除くすべての場合について、スポンサーが30日以内にSEVISステータス修正プロセスを用いて交流訪問者の記録をSEVIS上で修正することを義務付けるものである。本提案規則は、軽微な違反に関する従来の120日間の期限を見直すことにより、データの完全性を確保するための簡素化された仕組みを提供するものであり、プログラムの健全性を損なうことなく、また国務省の承認を必要とすることなく、スポンサーがSEVIS記録の正確性を容易に確保できるようにするものである。したがって、「SEVISステータス修正」の措置は、スポンサーが行政上の過誤、不注意若しくはスポンサーの管理の及ばない事情により、又はシステム変更に起因する誤りにより、交流訪問者のSEVIS記録のステータスを誤ってActive(有効)、Inactive(無効)、Terminated(終了)、Transferred(移管)、Invalid(無効)又はNo Show(不出頭)に変更してしまった場合に用いなければならない。また、交流訪問者が移籍又はプログラム延長等について適時に更新を申請しなかったために、その記録が誤って不正確なステータスを示すこととなった場合、又は学生がスポンサー及び指導教員と事前に協議することなく第62.2条に定義されるフルコースの修学を維持しなかった場合にも、SEVISステータス修正の措置を用いなければならない。",
+      "スポンサーは、SEVIS記録が誤ったステータスとなった日から30日以内に、SEVISステータス修正の措置を用いて、国務省への申請又は手数料の納付を要することなく、SEVIS記録をActive又はInactiveのステータスに戻すことができる。交流訪問者が米国に入国していない場合、InvalidステータスからInitial(初期)ステータスへ、又はActiveステータスからInitialステータスへ記録を変更することについては、期限の定めはない。",
+      "「SEVISステータス修正」の措置は、交流訪問者の記録のステータスを直ちに更新するものである。J-2の配偶者及び/又は扶養家族のSEVIS記録がJ-1の記録と連動して変更されていた場合には、自動的に更新される。そうでない場合には、J-2の記録は別途修正しなければならない。スポンサーが30日間の期間内にSEVIS記録を修正することができない場合には、復活(Reinstatement)の申請を提出しなければならない。",
+      "従来、国務省は270日を経過した後に行われた申請は受理しないこととしており、このような遅延はプログラムの継続性の欠如とみなされていた。国土安全保障省(DHS)の方針との整合を図るため、国務省は、交流訪問者が、DHSが定める期間(現在は5か月間)を超えてステータスを外れていない場合には、当該交流訪問者の記録をActiveステータスに復活させる申請を審査することとする。交流訪問者がDHSの方針で定められた期間を超えてステータスを外れていた場合には、国務省は、スポンサーが、申請を行わなかったことが例外的な事情によるものであり、かつ、当該事情の下で可能な限り速やかに申請が行われたことを証明できる場合に限り、当該申請を審査するものとする。記録をInactiveステータスに更新するための復活の申請については、期限の定めはない。",
+      "交流訪問者が次のいずれかに該当する場合、スポンサーは、SEVISステータス修正の措置を用いること、又は交流訪問者の記録をActiveステータスに更新するための復活の申請を提出することができない。",
+      "22 CFR第62部Bサブパート(個別プログラム規定)の下で、当該交流訪問者の区分に定められた当初のプログラム目的を維持しなかったこと。",
+      "22 CFR第62.14条により義務付けられた必要な保険の加入を維持しなかったこと。",
+      "スポンサー又は受入れ機関により、本人の意思に反して資格停止又は終了とされたこと。",
+      "移民国籍法(INA)第212条(e)に基づき、肯定的な免除の勧告を受けたこと。",
+      "異なる非移民入国区分への身分変更について、国土安全保障省(DHS)の承認を受けたこと。又は、",
+      "公法104-208号により義務付けられた手数料を納付しなかったこと。",
+      "復活の申請は、まずSEVIS上で開始した上で、その後10日以内に裏付け資料を国務省に提出しなければならない。スポンサーは、返金不可の手数料(第62.17条に記載)を納付し、公式レターヘッドにより次の事項を記載した書面による陳述書を提出しなければならない。",
+      "交流訪問者が当初のプログラム目的の追求を継続していること。",
+      "当該中断が、スポンサーの見落とし、不注意、又はスポンサーの管理の及ばない要因によるものであること。",
+      "申請を却下することが交流訪問者に異常な困難を課すこととなること。",
+      "無許可の就労が行われていなかったこと。並びに、",
+      "交流訪問者のプログラム終了日の正確な記載。",
+      "この規則案は、「無許可就労」の定義を第62.2条に移動し更新するものである。これは、米国市民権移民局(USCIS)政策マニュアル第7巻Bパート第6章[1]に見られる文言を反映したものであり、同章では無許可就労を次のように定義している。",
+      "「移民国籍法(INA)又はUSCISにより就労を許可されていない外国人、又はその外国人の就労許可の範囲若しくは期間を超えた外国人が、米国内において雇用主のために行う一切の役務又は労働。」[2]",
+      "本規則の目的上、無許可就労には、訪問者の資格区分において通常承認され適切とされる活動(例えば、講演や協議を行う学者への謝礼金)は含まれない。",
+      "規制分析",
+      "行政手続法",
+      "国務省は、交流訪問者プログラムに関する規則制定は米国の外交機能に関わるものであり、したがって告知及び意見公募の手続(合衆国法典第5編第553条(a))の適用を除外されると、従来から判断してきた。[3]しかしながら、本規則について一般からの意見聴取を望む国務省の関心に鑑み、国務省は60日間の意見公募期間を設け、国務省が本提案の全部又は一部を最終規則化することを選択した場合には、最終規則においてこれに応答することとする。",
+      "1995年未資金裁定改革法",
+      "本規則案は、州政府、地方政府若しくは部族政府、又は民間部門に対し、いかなる年においても1億ドル以上の支出を生じさせるものではない。また、小規模な政府に重大又は特有の影響を及ぼすものでもない。したがって、1995年未資金裁定改革法に基づく措置は必要でないと判断された。(印刷ページ48024)",
+      "大統領令第13175号、インディアン部族政府との協議及び調整",
+      "国務省は、本規則案がインディアン部族に対する影響を有さず、インディアン部族政府に対し実質的な直接コンプライアンス費用を課すものではなく、かつ部族法を優先するものでもないと判断した。したがって、大統領令第13175号の要件は本規則制定には適用されない。",
+      "規制柔軟化法/大統領令第13272号、小規模事業体への配慮",
+      "国務省は、本規則が合衆国法典第5編第553条の告知及び意見公募規定の適用を除外されるものであり、したがって規制柔軟化法(合衆国法典第5編第601条以下)又は大統領令第13272号の対象とならないと考えているが、それにもかかわらず、小規模事業体に対する潜在的負担についての評価を提供するものとする。",
+      "終了措置、国務省は、交流訪問者プログラムの下で約1,400の指定スポンサーが運営していると推計している。国務省は、プログラム終了に関する節の変更から生じる利益が、スポンサー又は交流訪問者に追加の経済的負担を課すことなく、運営上の透明性及び有効性を大幅に強化し、最終的に本プログラムの外交政策上の目的を推進するものと見込んでいる。本規則案から生じる変更は、いかなる新たな純規制費用も課すものではない。交流訪問者が異議申立書を提出すること及び民間部門交流担当副次官補が実施する審査手続に関連する費用は、僅少かつ稀であると見込まれる。",
+      "延長に対する手数料影響の分析、現行規則の下では、指定スポンサーは、特定の交流訪問者プログラムの区分について認められる最長期間を超えるプログラムの延長について、国務省の承認を得なければならない。この手続には、審査及び裁定のための国務省の資源が必要とされる。この申請に関連する手数料は、これらの行政費用を賄うために設計されたものである。",
+      "特定の交流訪問者ステータス変更の申請に係る現行の手数料は、申請1件につき367米ドルである(22 CFR 62.17(b)(2))。2022年から2024年までに提供されたプログラムデータに基づくと、国務省は年間平均約14,563件の「最長期間を超えるプログラム延長」要請を処理した(3年間で43,690件の要請に基づき算出)。367米ドルの手数料を適用すると、年間の推定総費用回収額は約5,344,871米ドルとなる(14,563件の要請×367米ドル/件)。この費用は、延長の正当性をプログラム規則及び参加者の適格性に照らして検証することを含む、これらの要請に対応するために必要となる国務省の資源を反映したものである。前述した再指定手数料(指定スポンサーがSEVIS上の記録を適時に更新することで回避し得るもの)とは異なり、この手数料は、スポンサーがカテゴリーごとに規則で定められた標準的な最長プログラム期間を超えて交流訪問者の延長を求める場合には常に必要とされ、国務省による審査を要するものである。要請1件当たりの手数料は、小規模事業体を含む、かかる要請を提出するすべての指定スポンサーに影響を及ぼす。すべての指定スポンサーにわたる年間総費用の推定額(約534万米ドル)は、延長要請の件数が多いこと(年間約14,563件)に起因しており、注目に値する。",
+      "より少数の要請件数にしか適用されず、回避し得る場合がある再指定手数料とは異なり、延長手数料はより一般的な要請に適用されるものである。個々の要請ごとの費用は大きくない場合があるとしても、多数の延長要請から相当な累積費用が生じる。国務省はまた、延長要請の件数が2022年から2024年にかけて概ね一定であったこと、及び2024年には前年と比較してわずかな増加が見られたことを認識している。国務省は、これらの要請件数が今後どのように変化するかを予測することはできない。",
+      "便益:本手数料の主たる便益は、米国政府にとっての費用回収であり、これらの要請の処理に伴う行政費用が、公衆や歳出予算ではなく、当該役務を要請する事業体によって負担されることを確保するものである。本手数料はまた、最長期間を超える延長の性質を暗示的に強調するものであり、これは依然として年間の交流訪問者総数のうち比較的小さな割合を占めるにとどまる。",
+      "結論:最近のデータに基づくと、最長期間を超えるプログラム延長要請について設定された手数料は、年間平均約14,563件の要請に適用され、年間約534万米ドルの推定費用回収をもたらす。この手数料により、国務省は、指定スポンサーが交流訪問者に代わって行うこれらの特定の延長要請に対して必要な役務を提供するために要する行政費用を賄うことができる。",
+      "再指定に係る手数料の影響分析:入手可能なデータによれば、2024年に提出された正式な再指定要請はわずか21件であった。延長又は再指定要請の準備には通常1時間の事務処理時間を要し、影響を受けるすべてのスポンサーを合わせた年間総費用は約2,100米ドルと推定される。この低い件数及び最小限の事務負担は、本規則が小規模事業体に及ぼす経済的影響が軽微であるとの国務省の判断を裏付けるものである。",
+      "本規則は、是正SEVISステータス(Correct SEVIS Status)など、スポンサーが国務省の介入や手数料を要することなくほとんどの問題を是正できる既存のSEVIS手続を成文化するものである。手数料は、指定スポンサーが適時の措置を講じず、SEVIS記録の是正のために再指定が必要となる場合にのみ適用される。",
+      "本規則は、予防的なコンプライアンスを促進するよう構成されている。すなわち、正確かつ適時なSEVIS記録を維持するスポンサーには新たな手数料は課されない。これにより、特に資源の限られた小規模なスポンサーにとっての財政的負担が軽減される。",
+      "この規則は、規制を通じたアメリカの繁栄解放に関する大統領令14192号とも整合しており、新たな純規制コストを課すことなく、既存の運用慣行を成文化するものである。主な直接的費用は、国務省に対する復活申請の提出に係る返金不可の手数料である。この手数料は、交流訪問者プログラム規則の22 CFR 62.17(b)(2)に規定されるとおり、一申請当たり367ドルで一貫して維持されている。2022年から2024年までのプログラムデータによれば、国務省は年間平均155件の復活申請を処理した(3年間で465件の申請に基づき算出)。その結果、これらの申請処理に係る指定スポンサーの年間推定費用は、合計56,885ドル(155件×367ドル/件)となる。",
+      "この規則案は、費用及び便益の定量化、行政負担の最小化、規制の整合性確保、柔軟性の促進、スポンサーの独立性の促進、並びに自立性の育成の重要性を強調するものである。本規則は、指定スポンサーが多くの一般的な記録上の問題を直接解決できるようにするSEVISの活用を重視している。これにより、日常的な修正を行う際の行政負担が軽減され、指定スポンサーの時間が節約されることが見込まれる。ただし、指定スポンサーが定められた期間内にSEVIS上で直接記録を更新しない場合、当該スポンサーはSEVISにおいて復活申請を開始し、22 CFR 62.17(b)(2)に基づき定められた返金不可の手数料を支払わなければならない。復活申請は、国務省による審査及び処理を要する(印刷ページ48025)。スポンサー一人当たりの費用は、事前の国務省の承認を必要としないSEVIS上の是正措置を利用しないことに起因して、各スポンサーが年間に提出する復活申請の件数に大きく依存することになる。約1,400の指定スポンサーのうち、国務省の関与を要するこの種の申請の総数が比較的少ないこと、及びSEVISにおける適時の対応によってこのような申請が一般的に防止可能であることに鑑み、国務省は、当該手数料が相当数の指定スポンサーに重大な経済的影響を及ぼす可能性は低いと考えている。指定スポンサーの収益に対する潜在的費用をより詳細に比較分析するためには、スポンサーの規模分布及び規模別の復活申請頻度に関するデータが必要となるが、現時点ではそのようなデータは入手できない。",
+      "国務省は、2003年に初めて導入されて以来、SEVISの機能が発展してきたことを認識している。本規則は、これらの発展を反映し、規制の枠組みを現行のスポンサーの責務及び技術的能力に整合させるものである。明確かつ一貫したプログラム遵守を確保するため、国務省は、SEVISのツールが引き続き発展するのに伴い、関連するスポンサー向けガイダンスを見直し、更新する意向である。",
+      "本規則は、指定スポンサーが国務省の介入や手数料を必要とせずに、定められた期間内にSEVIS上で直接多くの記録上の問題に対処することを可能にする簡素化された手続(SEVIS状態の是正)を定めるものである。年間推定値は、意図されたとおりにSEVISを利用する指定スポンサーの費用の増加ではなく、国務省による措置を求める指定スポンサーが負担する費用を反映している。さらに、国務省は、2022年から2024年にかけて復活申請の件数が年々減少していることを認識している。したがって、国務省は、今後の申請件数の変化について予測を行わない。",
+      "便益:主な便益には以下が含まれる。(1)指定スポンサーがSEVISにおける日常的な記録の修正を管理する際の効率性の向上及び行政負担の軽減、(2)簡素化された修正手続及び手数料によって確立されたインセンティブ構造により、プログラムの運営及び監督を支える、SEVISデータの正確性及び適時性の向上、(3)標準的な修正の範囲を超える、より複雑な復活案件の解決に充てられる国務省の資源に対する費用回収、(4)記録の維持及び修正に関する指定スポンサー向けの明確な規制基準、並びに、(5)指定スポンサーが記録を速やかに修正しない場合に交流訪問者が被る可能性のある不利な影響とは対照的に、交流訪問者がより効率的に自らの身分上の問題を解決することによる間接的な便益。",
+      "結論:国務省は、提案されたアプローチが純便益を最大化するものと考える。予想される利点、すなわちスポンサーの効率性の向上、SEVISデータの整合性の改善、規制基準の明確化、国務省による費用回収、及び交流訪問者にとってより迅速な解決の可能性等は、国務省の直接的関与を要する復帰申請手数料に伴う潜在的費用を上回ると見込まれる。",
+      "大統領令12866号及び13563号、規制の立案及び審査",
+      "情報及び規制問題局(OIRA)は、本規則案が大統領令12866号第3条(f)の意味において重要であると決定した。国務省は、これらの大統領令に記載された費用対効果、明確性及び規制の柔軟性の原則との整合性を確保するため、本規則案を審査した。",
+      "2024年には、1,700件を超える個々の交流訪問者記録が終了となった。その主な理由は、スポンサーの規則若しくは規定への違反(975件)、プログラム活動の継続不履行(300件)、懲戒上の理由若しくは刑事有罪判決(90件)、無許可雇用への従事(30件)、及び「その他」として分類される理由(450件)であった。22 CFR 62.40の近代化の提案は、終了決定の効率的な電子記録、追跡及び文書化を可能にすることによりプログラム運営を強化し、データの正確性及び適時性の向上をもたらすとともに、積極的なコンプライアンス監視を支援するものである。新規則はまた、明確な手続要件の導入を通じて交流訪問者終了手続における国務省の裁量権限を正式なものとしつつ、スポンサー及び交流訪問者に対し運用上及び規制上の明確性の向上をもたらす。SEVISデータベースの機能更新に係る新たな費用は発生しない。スポンサーは、既に求められているものと同様の交流訪問者の監視及び文書化を引き続き行うものとする。国務省により終了とされた交流訪問者には、国務省の終了決定に異議を申し立てる権利が与えられる。",
+      "大統領令12988号、民事司法改革",
+      "国務省は、大統領令12988号第3条(a)及び第3条(b)(2)に従い、本規則案を審査した。本規則は、曖昧さを最小限に抑え、訴訟を減少させ、明確な法的基準を確立するように作成されている。",
+      "大統領令12372号及び13132号、連邦制",
+      "国務省は、本規則案が、州に対し、国と州との関係に対し、又は政府の様々な段階間における権限及び責任の配分に対し、実質的な直接の影響を及ぼすものではないと決定した。大統領令13132号第6条に従い、本規則は、連邦制に関する協議又は連邦制影響要約書の作成を要するほどの連邦制上の意味合いを有しない。連邦プログラムの政府間審査を規律する大統領令12372号は、本規則には適用されない。",
+      "ペーパーワーク削減法",
+      "1995年ペーパーワーク削減法(44 U.S.C.第35章)に基づき、各省庁は、新たな情報収集について行政管理予算局(OMB)の承認を得なければならない。本規則案は、スポンサーに対し新たな報告又は記録保持の要件を課すものではなく、したがって、ペーパーワーク削減法に基づく承認を要しない。",
+      "22 CFR第62部における対象事項一覧",
+      "文化交流プログラム",
+      "報告及び記録保持の要件",
+      "よって、22 CFR第62部は、以下のとおり改正することが提案される。",
+      "第62部、交流訪問者プログラム",
+      "1. 22 CFR第62部の根拠法令引用を次のとおり改正する。",
+      "根拠法令:8 U.S.C. 1101(a)(15)(J)、1182、1184、1258、22 U.S.C. 1431から1442まで、2451以下、22 U.S.C. 2451、1998年外交改革再編法(Pub. L. 105-277、Div. G、112 Stat. 2681以下)、1977年再編計画第2号(3 CFR、1977年版、200頁)、1978年3月27日付大統領令12048号(3 CFR、1978年版、168頁)、1996年不法移民改革及び移民責任法(IIRIRA)(Pub. L. 104-208、Div. C、110 Stat. 3009-546、改正済み)、米国愛国者法(Pub. L. 107-56、第416条、115 Stat. 354)、2002年国境安全保障強化及びビザ入国改革法(Pub. L. 107-173、116 Stat. 543)。",
+      "(印刷ページ48026)",
+      "第62.2条",
+      "[改正]",
+      "2. 第62.2条を改正し、以下の定義をアルファベット順に追加する。",
+      "無許可就労:外国人が、移民国籍法又は米国市民権・移民局(USCIS)により就労を許可されていないにもかかわらず、米国内の雇用主のために行う役務若しくは労働、又はその就労許可の範囲若しくは期間を超えて行う役務若しくは労働をいう。この定義は、国土安全保障省(DHS)の事前の許可を得ることなくこのような労働を行う同伴J-2配偶者及び/又は被扶養者にも適用される。",
+      "有効なプログラム資格:指定スポンサーがフォームDS-2019を発行した時点から、交流訪問者が交流プログラムに積極的に参加している期間を通じ、修了、中止、卒業、終了又はその他のプログラム終了時における最終的な資格状況を含む、交流訪問者のSEVIS記録の現時点における正確な資格状況をいう。",
+      "第62.31条",
+      "[改正]",
+      "3. 第(o)項を削除し、留保する。",
+      "4. 第62.40条を次のように改正する。",
+      "第62.40条",
+      "プログラム参加の終了。",
+      "(a) スポンサーは、交流訪問者が以下のいずれかに該当する場合、そのプログラムへの参加を終了しなければならない。",
+      "(1) 米国への入国が認められた目的である活動を遂行しない場合。",
+      "(2) 本規則に基づき別途免除されない限り、プログラムを継続することができない場合。",
+      "(3) 国務省の指針を検討した後、スポンサーの裁量により終了が正当であると判断される場合であって、プログラムを規律するスポンサーの規則に違反した場合。",
+      "(4) 本規則第62.14条に基づき要求される保険の加入を維持しない場合。又は",
+      "(5) その申請又は継続中のプログラムの一環として、虚偽の申告を行い、若しくは完全かつ真実の回答、情報若しくは書類を提供しない場合。",
+      "(b) 国務省は、以下のいずれかに該当する場合、交流訪問者のプログラムへの参加を終了することができる。",
+      "(1) 国務省又は国土安全保障省が、交流訪問者の査証を即時効力をもって取り消し又は無効とした場合。",
+      "(2) 交流訪問者が無許可就労に従事した場合。又は",
+      "(3) 交流訪問者が、その申請又は継続中のプログラムの一環として、虚偽の申告を行い、若しくは完全かつ真実の回答、情報若しくは書類を提供しない場合。",
+      "(c) 本条(b)(2)又は(3)に定める行為のいずれかが認定された場合、民間部門交流局は、交流訪問者に対し、そのプログラムへの参加を終了する意思について、30日以上前に書面による通知を行うものとする。当該通知には、提案された終了の理由及びその発効日を明記し、交流訪問者が当該終了に異議を申し立てることができる旨を告知し、並びに当該異議申立書の提出手続を示さなければならない。",
+      "(d) 当該終了意思の書面通知の送達後10日以内に、交流訪問者は、民間部門交流担当次官補(Deputy Assistant Secretary)に対し、提案された終了に対する異議申立書を提出することができる。交流訪問者は、苦難その他の衡平上の考慮事項を理由として異議を申し立てることはできない。",
+      "(e) 当該異議申立書が提出された場合、民間部門交流担当次官補の決定が下されるまでの間、提案された終了の発効日は停止される。",
+      "(f) 民間部門交流担当次官補は、当該異議申立書を検討の上、提案された終了を確定又は撤回する旨の書面による決定を発するものとする。民間部門交流担当次官補の決定に対しては、行政不服申立てをすることができない。",
+      "5. 第62.43条を次のように改正する。",
+      "第62.43条",
+      "プログラムの延長",
+      "(a) 最長期間内における延長。",
+      "(1) スポンサーは、交流訪問者の特定のプログラム区分について認められている最長参加可能期間まで、SEVISを通じて当該交流訪問者の交流訪問者プログラムへの参加を延長することができる。",
+      "(2) 交流訪問者のプログラムを延長するスポンサーは、以下を行わなければならない。",
+      "(i) 延長を反映した正式に作成されたフォームDS-2019を交流訪問者に発行すること。及び",
+      "(ii) 新たなプログラム終了日が交流訪問者の確定された在留期間を超える場合、交流訪問者が国土安全保障省に対し在留期間延長を申請する前に、フォームDS-2019を発行すること。",
+      "(b) 最長期間を超える延長。",
+      "(1) 交流訪問者について、その特定の参加区分について認められている期間を超えるプログラム延長を求めるスポンサーは、以下を行わなければならない。",
+      "(i) SEVISを通じて延長申請を提出し、交流訪問者の希望する延長期間の開始日の遅くとも3か月前までに、裏付け資料を国務省に電子メールで送付すること。",
+      "(ii) 第62.17条に定める返金不可の延長手数料の納付証明を含めること。及び",
+      "(iii) 当該延長を正当化する理由を適切に裏付ける資料を提出すること。",
+      "(2) オーペアについては、スポンサーは6か月、9か月又は12か月の延長について国務省に申請を提出することができ、スポンサーの組織用レターヘッドに以下の追加の裏付け資料を含めなければならない。",
+      "(i) オーペアの氏名、SEVIS識別番号、生年月日、申請する延長期間の長さ。及び、",
+      "(ii) オーペアが当初のプログラムの教育要件を修了したことの証明。",
+      "(3) 国務省の承認を得た後、交流訪問者のプログラムを延長するスポンサーは以下を行わなければならない。",
+      "(i) 延長内容を反映した正式に発行されたフォームDS-2019を交流訪問者に発行すること。及び",
+      "(ii) 新たなプログラム終了日が交流訪問者の確定された在留許可期間を超える場合、交流訪問者が国土安全保障省に在留期間延長を申請する前にフォームDS-2019を発行すること。",
+      "6. 第62.45条を次のように改正する。",
+      "第62.45条",
+      "有効なプログラム状況への復帰。",
+      "(a) 有効なプログラム状況の維持。指定されたスポンサーは、SEVIS記録を最新かつ正確に維持しなければならない。交流訪問者の有効なプログラム状況を維持できない場合、当該個人の米国への入国又は在留の能力に悪影響を及ぼす可能性がある。国務省は、スポンサーが有効なプログラム状況を維持できなかったことが交流訪問者の福祉又は米国の国家安全保障を脅かすと判断することがある。スポンサーは、必要に応じて本条に定める是正方法のいずれかを用いて、有効なプログラム状況を回復しなければならない。",
+      "(b) SEVIS状況の訂正。",
+      "(1) スポンサーは、事務上の見落とし、不注意、又はスポンサー若しくは交流訪問者のいずれの管理も及ばない事情に起因する誤った記録状況に対処するため、「SEVIS状況の訂正」アクションを使用しなければならない。",
+      "(2) スポンサーは、状況変更日から30日以内に、このアクションを用いてSEVIS記録をアクティブ又は非アクティブの状況に戻すことができる。この規定の下では、スポンサーが終了を開始した場合に限り、終了済みの記録を訂正することができる(印刷ページ48027)。状況変更から30日を経過した場合は、復帰申請が必要となる。",
+      "(3) スポンサーは、交流訪問者が米国に入国していない場合、記録をアクティブ又は無効の状況から初期の状況に変更するためにも、このアクションを使用しなければならない。フォームDS-2019が入国に使用されていない場合、このアクションの使用に期限はない。",
+      "(c) 復帰。",
+      "(1) スポンサーが上記のアクションを用いて、許容される30日間の期間内にSEVIS記録の状況を訂正できない場合、国務省に正式な復帰を申請しなければならない。",
+      "(2) 国務省は、DHSの方針(現在は5か月)と整合する期間内に提出された場合、交流訪問者記録をアクティブな状況に復帰させる申請を審査する。あるいは、スポンサーが、提出の不履行が例外的な事情によるものであり、かつその事情の下で可能な限り速やかに申請が行われたことを証明できる場合、国務省は当該申請を検討することがある。記録を非アクティブの状況に反映させるための復帰申請には期限はない。",
+      "(3) スポンサーは、SEVISにおいて復帰申請を開始し、暦日で10日以内に、以下を国務省に電子メールで送付しなければならない。",
+      "(i) スポンサーのレターヘッドに署名された陳述書で、以下を含むもの。",
+      "(A) 交流訪問者が当初の活動を継続しているか、又は継続する意図があったこと。",
+      "(B) その失効がスポンサーの見落とし、不注意、又は管理の及ばない事情によるものであったこと。",
+      "(C) 申請を拒否した場合、交流訪問者に異常な困難をもたらすこと。",
+      "(D) 無許可の就労が行われなかったこと。及び、",
+      "(E) 交流訪問者の正確なプログラム終了日。",
+      "(ii) pay.govの領収書の写し及びI-901再支払いの証明。",
+      "(iii) 交流訪問者のフォームI-94、ビザ及び旅券の写し。及び",
+      "(iv) 必要と認められるその他の裏付け資料。",
+      "(4)決定の通知。国務省は、スポンサーに対しその決定を通知する。承認された場合、SEVIS記録が更新され、自動送信の電子メールがスポンサーに送付される。スポンサーは、交流訪問者に対し、変更内容を反映した更新版のフォームDS-2019を発行しなければならない。却下された場合、スポンサーは却下の理由を説明する電子メールを受け取る。",
+      "(5)国務省は、交流訪問者が次のいずれかに該当する場合、アクティブ・ステータスへの復帰(リインステートメント)の申請を考慮しない。",
+      "(i)当初のプログラムの目的を維持していなかった場合",
+      "(ii)22 CFR 62.14で義務付けられている必要な保険の加入を維持できなかった場合",
+      "(iii)無許可の就労に従事していた場合",
+      "(iv)スポンサーまたは受入先によって非自発的に停止または終了させられた場合",
+      "(v)移民国籍法(INA)第212条(e)に基づき肯定的な免除勧告を受けた場合",
+      "(vi)国土安全保障省(DHS)により、異なる非移民の入国区分への身分変更が承認された場合、または",
+      "(viii)公法104-208により義務付けられている手数料を納付しなかった場合。",
+      "(e)有効なプログラム・ステータスの維持を怠った場合。スポンサーは、SEVIS記録を定期的に監視し、更新しなければならない。SEVISステータスの訂正手続または復帰手続を用いて適切な措置を講じなかったスポンサーは、22 CFR 62.13(通知要件)の違反とみなされる場合がある。",
+      "レベッカ・A・パシーニ",
+      "国務省教育文化局次官補代理",
+      "脚注",
+      "1. 第7巻、ステータス調整、Bパート、245(a)条に基づく身分調整、第6章、無許可就労(移民国籍法245(c)(2)及び245(c)(8))、Aセクション、定義、サブセクション1、無許可就労[7 USCIS-PM B.6(A)(1)]を参照。",
+      "引用元に戻る",
+      "2. 許可された就労の例については、8 CFR 274a.12(a)から(c)を参照。",
+      "引用元に戻る",
+      "3. 外国政府は、自国民が米国を訪問し、留学する能力を促進することを求めており、国務省は、米国の外交政策上の必要性に基づき、外国政府との了解覚書(メモランダム・オブ・アンダースタンディング)に従って、修正された交流プログラムを設立している。この慣行は、米国の対外的利益を促進し、「米国と世界の他の国々との平和的関係」を増進することを目的とするプログラムに必要な柔軟性を反映したものである。22 U.S.C. 2451。この目的に関連して、本規則の主要な目的の一つは、外国人がそのプログラムの下で米国に滞在している間の健康、安全及び福祉を保護することである。これらの外国人の健康、安全及び福祉の保護を怠ることは、米国の外交関係に直接的かつ重大な悪影響を及ぼし得る。",
+      "引用元に戻る",
+      "[FR Doc. 2026-15450 Filed 7-29-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

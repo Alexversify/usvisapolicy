@@ -2165,6 +2165,28 @@
     "added": "2026-10-12T16:38Z"
   },
   {
+    "id": "94903a11eff4",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16403/continuing-to-protect-the-meaning-and-value-of-american-citizenship",
+    "published": "2026-08-11",
+    "effective_date": "2026-08-06",
+    "importance": "high",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "citizenship",
+      "family",
+      "other"
+    ],
+    "tags": [
+      "Birthright Citizenship",
+      "Executive Order",
+      "14th Amendment",
+      "Citizenship Clause"
+    ],
+    "added": "2026-10-12T18:40Z"
+  },
+  {
     "id": "dbfa66711b54",
     "source": "presidential",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16404/ending-birth-tourism",
@@ -2334,6 +2356,26 @@
     "added": "2026-10-12T17:47Z"
   },
   {
+    "id": "e023b2c4be13",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-identity-checks-lead-to-arrest-of-former-latvian-reality-tv-contestant-with-violent-criminal",
+    "published": "2026-08-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Enforcement",
+      "ICE",
+      "Visa Overstay"
+    ],
+    "added": "2026-10-12T18:41Z"
+  },
+  {
     "id": "2f4ae285a1b9",
     "source": "uscis_policy_manual",
     "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260806-ChildrenBornToForeignDiplomaticOfficer.pdf",
@@ -2352,6 +2394,49 @@
       "Citizenship at Birth"
     ],
     "added": "2026-10-12T17:57Z"
+  },
+  {
+    "id": "84569df653e0",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-EvidentiaryStandards.pdf",
+    "published": "2026-08-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other",
+      "employment",
+      "family"
+    ],
+    "tags": [
+      "Policy Manual",
+      "RFE",
+      "NOID",
+      "Evidence Standards"
+    ],
+    "added": "2026-10-12T18:43Z"
+  },
+  {
+    "id": "b21f31171866",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260805-DNAEvidence.pdf",
+    "published": "2026-08-05",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "family",
+      "citizenship"
+    ],
+    "tags": [
+      "DNA Testing",
+      "RFE",
+      "Policy Manual",
+      "Family-Based Immigration"
+    ],
+    "added": "2026-10-12T18:42Z"
   },
   {
     "id": "ed7b545c626e",
@@ -2374,5 +2459,177 @@
       "Placeholder Filings"
     ],
     "added": "2026-10-12T17:58Z"
+  },
+  {
+    "id": "2b4888352b1f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/mexican-alien-sentenced-for-fraud-conspiracy",
+    "published": "2026-08-04",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "U Visa",
+      "Fraud",
+      "Sentencing",
+      "ICE",
+      "USCIS"
+    ],
+    "added": "2026-10-12T18:44Z"
+  },
+  {
+    "id": "b596769a543a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+    "published": "2026-08-03",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "UFLPA",
+      "Forced Labor",
+      "Trade Enforcement",
+      "Entity List"
+    ],
+    "added": "2026-10-12T18:51Z"
+  },
+  {
+    "id": "4c062c9260c8",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15673/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
+    "published": "2026-08-03",
+    "effective_date": "2026-08-03",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "H-2A",
+      "AEWR",
+      "Wages",
+      "Agriculture"
+    ],
+    "added": "2026-10-12T18:50Z"
+  },
+  {
+    "id": "725433c4f89e",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+    "published": "2026-08-03",
+    "effective_date": "2026-08-03",
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Visa Bond",
+      "B-1/B-2",
+      "Department of State",
+      "Overstay"
+    ],
+    "added": "2026-10-12T18:46Z"
+  },
+  {
+    "id": "e6ed9cbef3ad",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15450/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement",
+    "published": "2026-07-30",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "students",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "J-1",
+      "Exchange Visitor Program",
+      "SEVIS",
+      "Proposed Rule",
+      "Au Pair"
+    ],
+    "added": "2026-10-12T19:02Z"
+  },
+  {
+    "id": "dd209f456f47",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15458/civil-money-penalty-for-actions-in-contempt-of-an-immigration-judges-proper-exercise-of-authority",
+    "published": "2026-07-30",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "EOIR",
+      "Immigration Judges",
+      "Contempt Authority",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-12T18:57Z"
+  },
+  {
+    "id": "b8a00d3bdb9d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-sentenced-for-role-in-international-alien-smuggling-asylum-fraud-and-money-laundering",
+    "published": "2026-07-30",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "travel"
+    ],
+    "tags": [
+      "Asylum Fraud",
+      "Alien Smuggling",
+      "Money Laundering",
+      "ESTA",
+      "USCIS"
+    ],
+    "added": "2026-10-12T18:56Z"
+  },
+  {
+    "id": "13789da08016",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15190/affirmative-asylum-referrals-without-interview",
+    "published": "2026-07-28",
+    "effective_date": "2026-07-28",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "Asylum",
+      "Affirmative Asylum",
+      "EOIR",
+      "I-589"
+    ],
+    "added": "2026-10-12T19:06Z"
   }
 ]

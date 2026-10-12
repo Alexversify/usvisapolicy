@@ -86,5 +86,127 @@
     "h1b",
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "( printed page 57769) Proclamation 11060 of September 4, 2026"
+      },
+      {
+        "t": "h",
+        "x": "Labor Day, 2026"
+      },
+      {
+        "t": "p",
+        "x": "A Proclamation"
+      },
+      {
+        "t": "p",
+        "x": "This Labor Day, we recognize the hard work, dedication, and unwavering commitment of the American worker. Their inspiring skill and unbreakable spirit have propelled our country forward for generations. Their strength built our cities, their genius launched and sustained our most advanced industries, and their ingenuity carried American craftsmanship to every corner of the globe. Time and again, their resilience has seen our people through hardship and has consistently brought us to even greater heights of wealth and prosperity. The American worker deserves a Government that is determined to fight for them, as they have fought for us for generations, and we are delivering."
+      },
+      {
+        "t": "p",
+        "x": "Since returning to office, my Administration has remained steadfast in its mission to empower the American worker and families by strengthening the economy, bolstering manufacturing, and unleashing innovation like never before. Last year, I proudly signed the Working Families Tax Cuts Act into law, making the largest tax cuts in American history permanent and boosting take-home pay for millions of hardworking families across our Nation. The law also makes the small business tax deduction permanent, allowing small business owners to deduct 20 percent of their qualified business income."
+      },
+      {
+        "t": "p",
+        "x": "After decades of disastrous trade policies that surrendered our industrial strength to foreign nations, companies are now returning home, investing trillions of dollars into the United States economy, and adding over 900,000 American jobs. Thanks to my protective tariffs, our Nation's workers are being shielded from unfair foreign competition, ensuring that their labor is honored, their businesses are defended, and their jobs remain on American soil. Through landmark trade deals, American manufacturing has expanded for 6 months straight, and more auto plants are being built in America today than ever before. To ensure we are hiring and training American workers, we are proposing a new fee on H-1B visa petitions that will encourage companies to invest in qualified Americans before looking overseas for labor."
+      },
+      {
+        "t": "p",
+        "x": "Our Nation is entering a bold new era of American manufacturing, technological innovation, and economic prosperity—powered by the might of the American worker. Today and every day, we commit to ensuring their hard work remains the driving force behind our Nation's strength and prosperity and the foundation for an even greater future."
+      },
+      {
+        "t": "p",
+        "x": "NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim September 7, 2026, as Labor Day. I call upon all public officials and people of the United States to observe this day with appropriate programs, ceremonies, and activities that honor the contributions and resilience of working Americans."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 57770)"
+      },
+      {
+        "t": "p",
+        "x": "IN WITNESS WHEREOF, I have hereunto set my hand this fourth day of September, in the year of our Lord two thousand twenty-six, and of the Independence of the United States of America the two hundred and fifty-first."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-18573"
+      },
+      {
+        "t": "p",
+        "x": "Filed 9-9-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 3395-F4-P"
+      }
+    ],
+    "fetched": "2026-10-12T19:17Z",
+    "from": "federalregister.gov",
+    "chars": 3245
+  },
+  "full": {
+    "ko": [
+      "(인쇄 페이지 57769) 2026년 9월 4일자 포고문 11060호",
+      "2026년 노동절",
+      "포고문",
+      "이번 노동절에 우리는 미국 노동자들의 근면, 헌신, 그리고 변함없는 책임감을 기립니다. 그들의 감동적인 기술과 불굴의 정신은 수세대에 걸쳐 우리나라를 앞으로 나아가게 했습니다. 그들의 힘은 우리의 도시를 건설했고, 그들의 재능은 우리의 가장 첨단화된 산업을 일으키고 유지했으며, 그들의 창의성은 미국의 장인정신을 세계 곳곳으로 전파했습니다. 그들의 회복력은 거듭하여 우리 국민을 역경 속에서 지켜냈으며, 끊임없이 우리를 더 큰 부와 번영으로 이끌었습니다. 미국 노동자들이 수세대에 걸쳐 우리를 위해 싸워온 것처럼, 그들은 그들을 위해 싸우기로 결심한 정부를 누릴 자격이 있으며, 우리는 이를 실현하고 있습니다.",
+      "저의 행정부는 집권 복귀 이후 경제를 강화하고, 제조업을 활성화하며, 그 어느 때보다 혁신을 촉진함으로써 미국 노동자와 가정에 힘을 실어주는 임무에 변함없이 매진해 왔습니다. 작년에 저는 자랑스럽게도 근로가정 세금감면법(Working Families Tax Cuts Act)에 서명하여 미국 역사상 최대 규모의 세금감면을 영구화하고 전국의 수백만 근면한 가정의 실수령 소득을 증대시켰습니다. 이 법은 또한 소기업 세금공제를 영구화하여 소기업 소유주들이 적격 사업소득의 20퍼센트를 공제받을 수 있도록 했습니다.",
+      "수십 년간 우리의 산업적 역량을 외국에 넘겨준 재앙적인 무역정책 이후, 이제 기업들이 본국으로 돌아와 미국 경제에 수조 달러를 투자하고 90만 개 이상의 미국 일자리를 창출하고 있습니다. 저의 보호관세 덕분에 우리나라의 노동자들은 불공정한 외국 경쟁으로부터 보호받고 있으며, 이로써 그들의 노동이 존중받고, 그들의 사업이 지켜지며, 그들의 일자리가 미국 땅에 남아 있도록 보장되고 있습니다. 획기적인 무역협정들을 통해 미국 제조업은 6개월 연속 확장되었으며, 오늘날 그 어느 때보다 많은 자동차 공장이 미국에 건설되고 있습니다. 우리가 미국 노동자를 고용하고 훈련시키도록 보장하기 위해, 우리는 기업들이 해외 인력을 찾기 전에 자격을 갖춘 미국인에게 투자하도록 장려하는 H-1B 비자 청원에 대한 새로운 수수료를 제안하고 있습니다.",
+      "우리나라는 미국 노동자의 힘으로 추진되는 미국 제조업, 기술 혁신, 경제 번영의 담대한 새 시대로 진입하고 있습니다. 오늘도 그리고 매일, 우리는 그들의 근면함이 우리나라의 힘과 번영의 원동력으로, 그리고 더욱 위대한 미래의 토대로 남도록 할 것을 다짐합니다.",
+      "이에 따라, 본인 도널드 제이 트럼프는 미합중국 대통령으로서 헌법과 미합중국 법률이 본인에게 부여한 권한에 의거하여, 2026년 9월 7일을 노동절로 선포합니다. 본인은 모든 공직자와 미국 국민이 근로하는 미국인들의 공헌과 회복력을 기리는 적절한 프로그램, 의식 및 행사로써 이 날을 기념할 것을 촉구합니다.",
+      "(인쇄 페이지 57770)",
+      "이를 증명하기 위하여, 본인은 서기 2026년, 미합중국 독립 251년 9월 4일 이 문서에 서명합니다.",
+      "[연방관보 문서 2026-18573",
+      "접수: 2026년 9월 9일 오전 11시 15분]",
+      "청구 코드 3395-F4-P"
+    ],
+    "es": [
+      "(página impresa 57769) Proclama 11060 del 4 de septiembre de 2026",
+      "Día del Trabajo, 2026",
+      "Una Proclama",
+      "En este Día del Trabajo, reconocemos el arduo trabajo, la dedicación y el compromiso inquebrantable del trabajador estadounidense. Su destreza inspiradora y su espíritu inquebrantable han impulsado a nuestro país durante generaciones. Su fortaleza construyó nuestras ciudades, su genio lanzó y sostuvo nuestras industrias más avanzadas, y su ingenio llevó la artesanía estadounidense a cada rincón del planeta. Una y otra vez, su resiliencia ha guiado a nuestro pueblo a través de las dificultades y nos ha llevado constantemente a alturas aún mayores de riqueza y prosperidad. El trabajador estadounidense merece un Gobierno decidido a luchar por él, tal como él ha luchado por nosotros durante generaciones, y eso es lo que estamos cumpliendo.",
+      "Desde que regresé al cargo, mi Administración se ha mantenido firme en su misión de empoderar al trabajador estadounidense y a las familias, fortaleciendo la economía, impulsando la manufactura y liberando la innovación como nunca antes. El año pasado, firmé con orgullo la Ley de Recortes de Impuestos para Familias Trabajadoras (Working Families Tax Cuts Act), haciendo permanentes los mayores recortes de impuestos en la historia de Estados Unidos e incrementando el ingreso disponible de millones de familias trabajadoras en toda nuestra Nación. La ley también hace permanente la deducción fiscal para pequeñas empresas, permitiendo a los propietarios de pequeños negocios deducir el 20 por ciento de sus ingresos comerciales calificados.",
+      "Después de décadas de políticas comerciales desastrosas que entregaron nuestra fortaleza industrial a naciones extranjeras, las empresas ahora están regresando a casa, invirtiendo billones de dólares en la economía de los Estados Unidos y creando más de 900,000 empleos estadounidenses. Gracias a mis aranceles de protección, los trabajadores de nuestra Nación están siendo protegidos de la competencia extranjera desleal, garantizando que su trabajo sea honrado, que sus negocios sean defendidos y que sus empleos permanezcan en suelo estadounidense. Mediante acuerdos comerciales históricos, la manufactura estadounidense se ha expandido durante 6 meses consecutivos, y hoy se están construyendo más plantas automotrices en Estados Unidos que nunca antes. Para garantizar que estemos contratando y capacitando a trabajadores estadounidenses, estamos proponiendo una nueva tarifa para las peticiones de visa H-1B que incentivará a las empresas a invertir en estadounidenses calificados antes de buscar mano de obra en el extranjero.",
+      "Nuestra Nación está entrando en una nueva era audaz de manufactura estadounidense, innovación tecnológica y prosperidad económica, impulsada por la fuerza del trabajador estadounidense. Hoy y todos los días, nos comprometemos a garantizar que su arduo trabajo siga siendo la fuerza motriz detrás de la fortaleza y prosperidad de nuestra Nación, y el fundamento de un futuro aún más grande.",
+      "POR LO TANTO, YO, DONALD J. TRUMP, Presidente de los Estados Unidos de América, en virtud de la autoridad que me confieren la Constitución y las leyes de los Estados Unidos, proclamo por este medio el 7 de septiembre de 2026 como el Día del Trabajo. Exhorto a todos los funcionarios públicos y al pueblo de los Estados Unidos a observar este día con programas, ceremonias y actividades apropiadas que honren las contribuciones y la resiliencia de los trabajadores estadounidenses.",
+      "(página impresa 57770)",
+      "EN TESTIMONIO DE LO CUAL, firmo la presente el día cuatro de septiembre, del año de Nuestro Señor dos mil veintiséis, y de la Independencia de los Estados Unidos de América el doscientos cincuenta y uno.",
+      "[Documento FR 2026-18573",
+      "Presentado el 9-9-26; 11:15 am]",
+      "Código de facturación 3395-F4-P"
+    ],
+    "zh": [
+      "(印刷页第57769页) 2026年9月4日第11060号公告",
+      "2026年劳动节",
+      "总统公告",
+      "在这个劳动节,我们向美国工人的辛勤工作、无私奉献和坚定不移的承诺致敬。他们鼓舞人心的技能和不屈不挠的精神,数代以来一直推动着我们的国家向前发展。他们的力量建造了我们的城市,他们的才智启动并支撑了我们最先进的产业,他们的创造力将美国的工艺传播到世界的每一个角落。他们的坚韧不拔一次又一次地带领我们的人民渡过艰难时期,并持续不断地将我们带向更高的财富与繁荣。美国工人理应拥有一个决心为他们而战的政府,正如他们数代以来一直为我们而战一样,而我们正在兑现这一承诺。",
+      "自重新执政以来,本届政府始终坚定不移地致力于通过增强经济、促进制造业发展以及以前所未有的方式释放创新活力,来赋予美国工人和家庭以力量。去年,我自豪地签署了《工薪家庭减税法案》(Working Families Tax Cuts Act),使美国历史上规模最大的减税措施永久化,并为我国数百万辛勤工作的家庭提高了实得工资。该法案还将小企业税收减免永久化,允许小企业主扣除其合格营业收入的20%。",
+      "经过数十年灾难性的贸易政策,将我们的工业实力拱手让给了外国,如今企业正纷纷回归本土,向美国经济投入数万亿美元,并新增了超过90万个美国就业岗位。得益于我实施的保护性关税,我国工人正免受不公平的外国竞争之害,确保他们的劳动得到尊重、他们的企业得到保护、他们的工作岗位留在美国本土。通过具有里程碑意义的贸易协定,美国制造业已连续6个月实现扩张,如今美国建造的汽车工厂数量超过以往任何时候。为确保我们优先雇用和培训美国工人,我们正提议对H-1B签证申请征收新费用,以鼓励企业在向海外寻求劳动力之前,先投资于合格的美国人才。",
+      "我们的国家正迈入一个由美国工人的力量所驱动的、大胆崭新的美国制造业、技术创新和经济繁荣的时代。今天,以及今后的每一天,我们都承诺确保他们的辛勤工作始终是我们国家实力与繁荣的驱动力,也是通向更加伟大未来的基石。",
+      "因此,我,美利坚合众国总统唐纳德·J·特朗普(DONALD J. TRUMP),依据宪法和美利坚合众国法律赋予我的权力,特此宣布2026年9月7日为劳动节。我呼吁美国全体公职人员和人民以适当的活动、仪式和庆祝方式纪念这一天,以表彰美国劳动者的贡献与坚韧精神。",
+      "(印刷页第57770页)",
+      "我谨于公历二千零二十六年,即美利坚合众国独立第二百五十一年,九月四日,亲笔签署,以昭信守。",
+      "[联邦公报文件编号 2026-18573",
+      "存档日期:2026年9月9日上午11:15]",
+      "印刷代码 3395-F4-P"
+    ],
+    "ja": [
+      "(印刷版57769ページ) 2026年9月4日付布告11060号",
+      "2026年レイバーデー",
+      "布告",
+      "本年のレイバーデーにあたり、我々はアメリカの労働者のたゆまぬ努力、献身、そして揺るぎない献身を称える。彼らの刺激的な技能と不屈の精神は、幾世代にもわたり我が国を前進させてきた。彼らの力が我々の都市を築き、彼らの才能が我々の最も先進的な産業を立ち上げ維持し、彼らの創意工夫がアメリカの匠の技を世界の隅々まで運んだ。幾度となく、彼らの不屈の精神が我が国民を苦難から導き、絶えず我々をさらなる富と繁栄の高みへと押し上げてきた。アメリカの労働者は、彼らが幾世代にもわたり我々のために戦ってきたのと同様に、彼らのために戦う決意を持つ政府に値する。そして我々はそれを実現している。",
+      "政権に復帰して以来、私の政権は、経済を強化し、製造業を後押しし、かつてない規模でイノベーションを解き放つことにより、アメリカの労働者と家族の力を高めるという使命に揺るぎなく取り組んできた。昨年、私は誇りを持って勤労家族減税法に署名し、米国史上最大の減税を恒久化し、我が国全土の勤勉な何百万もの家族の手取り収入を押し上げた。同法はまた、中小企業税控除を恒久化し、中小企業の経営者が適格事業所得の20パーセントを控除できるようにしている。",
+      "我が国の産業力を外国に譲り渡してきた数十年にわたる破滅的な貿易政策の後、企業は今や本国に回帰し、米国経済に数兆ドルを投資し、90万人を超えるアメリカの雇用を創出している。私の保護関税のおかげで、我が国の労働者は不公正な外国との競争から守られ、彼らの労働が尊重され、彼らの事業が守られ、彼らの雇用がアメリカの地にとどまることが保証されている。画期的な貿易協定を通じて、アメリカの製造業は6か月連続で拡大しており、今日ほど多くの自動車工場がアメリカで建設されている時代はない。アメリカの労働者を雇用し訓練することを確実にするため、我々は、企業が海外に労働力を求める前に有資格のアメリカ人への投資を促す、H-1Bビザ申請に対する新たな手数料を提案している。",
+      "我が国は、アメリカの労働者の力によって推進される、アメリカの製造業、技術革新、そして経済的繁栄の大胆な新時代に入りつつある。今日、そして毎日、我々は彼らのたゆまぬ努力が我が国の強さと繁栄の原動力であり続け、さらに偉大な未来への礎であり続けることを確実にすることを誓う。",
+      "よって、私、アメリカ合衆国大統領ドナルド・J・トランプは、合衆国憲法および法律によって私に与えられた権限に基づき、ここに2026年9月7日をレイバーデーと布告する。私はすべての公職者および合衆国国民に対し、勤労するアメリカ人の貢献と不屈の精神を称える適切な行事、式典、活動をもってこの日を祝うよう呼びかける。",
+      "(印刷版57770ページ)",
+      "以上の証として、私は西暦2026年、すなわちアメリカ合衆国独立251年の9月4日、ここに署名した。",
+      "[連邦官報文書番号 2026-18573",
+      "2026年9月9日午前11時15分提出]",
+      "請求コード 3395-F4-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

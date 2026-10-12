@@ -86,5 +86,79 @@
   "topics": [
     "family"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/04/2026"
+      },
+      {
+        "t": "p",
+        "x": "On Aug. 28, 2026, the U.S. District Court for the Northern District of California issued an order in Medani, et al., v. Trump, et al., 26-cv-6332 (NDCA), temporarily vacating PM-602-0193 pending further litigation. USCIS is ordered, “to the extent practicable and in good faith, to take all reasonable steps during the remainder of the Diversity Visa fiscal year to resume ordinary adjudication of plaintiffs’ pending adjustment of status applications without applying” PM-602-0193."
+      },
+      {
+        "t": "p",
+        "x": "Further, the Court granted in part plaintiff’s motion for class certification. With respect to USCIS, the Court certified the following subclass: “all selectees and derivative beneficiaries under the FY-2026 Diversity Visa Program who are subject to the USCIS DV Hold imposed by Policy Memorandum PM-602-0193.”"
+      },
+      {
+        "t": "p",
+        "x": "The Policy Memorandum was issued to ensure that all aliens applying for adjustment of status under the DV Program in the United States do not pose a threat to national security or public safety."
+      },
+      {
+        "t": "p",
+        "x": "USCIS strongly disagrees with the Court’s order but will follow its terms pending possible further judicial review."
+      },
+      {
+        "t": "p",
+        "x": "09/04/2026"
+      }
+    ],
+    "fetched": "2026-10-12T19:21Z",
+    "from": "page",
+    "chars": 1133
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 9월 4일",
+      "2026년 8월 28일, 캘리포니아 북부지방법원(U.S. District Court for the Northern District of California)은 Medani 외 대 Trump 외, 사건번호 26-cv-6332 (NDCA) 사건에서 추가 소송 계속 중 PM-602-0193을 잠정적으로 무효화하는 명령을 발령하였습니다. 미국 시민권이민서비스국(USCIS)은 \"실행 가능한 범위 내에서 신의성실하게, 다양성 비자 회계연도의 남은 기간 동안 PM-602-0193을 적용하지 않고 원고들의 계류 중인 신분조정 신청에 대한 통상적인 심사를 재개하기 위하여 모든 합리적인 조치를 취하도록\" 명령받았습니다.",
+      "또한, 법원은 원고의 집단소송 인증 신청을 부분적으로 인용하였습니다. USCIS와 관련하여, 법원은 다음과 같은 하위집단을 인증하였습니다. \"PM-602-0193 정책각서에 의해 부과된 USCIS DV 보류 조치의 적용을 받는 2026 회계연도 다양성 비자 프로그램의 모든 선정자 및 종속 수혜자\".",
+      "해당 정책각서는 미국 내에서 다양성 비자 프로그램에 따라 신분조정을 신청하는 모든 외국인이 국가안보 또는 공공안전에 위협이 되지 않도록 보장하기 위하여 발행되었습니다.",
+      "USCIS는 법원의 명령에 강력히 동의하지 않으나, 추가 사법심사가 있을 때까지 해당 명령의 조건을 따를 것입니다.",
+      "2026년 9월 4일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "09/04/2026",
+      "El 28 de agosto de 2026, el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California emitió una orden en el caso Medani, et al., v. Trump, et al., 26-cv-6332 (NDCA), anulando temporalmente la PM-602-0193 en espera de litigio adicional. Se ordena a USCIS, “en la medida de lo posible y de buena fe, tomar todas las medidas razonables durante el resto del año fiscal de la Visa de Diversidad para reanudar la adjudicación ordinaria de las solicitudes de ajuste de estatus pendientes de los demandantes sin aplicar” la PM-602-0193.",
+      "Además, el Tribunal concedió parcialmente la moción de los demandantes para la certificación de clase. Con respecto a USCIS, el Tribunal certificó la siguiente subclase: “todos los seleccionados y beneficiarios derivados bajo el Programa de Visa de Diversidad del año fiscal 2026 que están sujetos a la Retención de DV de USCIS impuesta por el Memorando de Política PM-602-0193”.",
+      "El Memorando de Política se emitió para garantizar que todos los extranjeros que solicitan el ajuste de estatus bajo el Programa de DV en los Estados Unidos no representen una amenaza para la seguridad nacional o la seguridad pública.",
+      "USCIS está firmemente en desacuerdo con la orden del Tribunal, pero cumplirá con sus términos en espera de una posible revisión judicial adicional.",
+      "09/04/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年09月04日",
+      "2026年8月28日,美国加利福尼亚北区联邦地区法院在Medani等诉Trump等案(案号26-cv-6332,加利福尼亚北区地区法院)中发布命令,暂时撤销PM-602-0193号备忘录,直至诉讼进一步进行。法院命令美国公民及移民服务局(USCIS),“在切实可行且出于善意的情况下,在多元化签证财政年度剩余时间内采取一切合理措施,恢复对原告待决的身份调整申请的常规审理,且不适用”PM-602-0193号备忘录。",
+      "此外,法院部分批准了原告关于集体诉讼认证的动议。就USCIS而言,法院认证了以下子类别:“根据2026财政年度多元化签证项目被选中者及其随行受益人中,受PM-602-0193号政策备忘录所施加的USCIS多元化签证暂扣(USCIS DV Hold)约束的所有人员。”",
+      "发布该政策备忘录的目的在于确保所有在美国境内根据多元化签证项目申请身份调整的外国人不对国家安全或公共安全构成威胁。",
+      "美国公民及移民服务局强烈不同意法院的命令,但在可能的进一步司法审查结果出来之前,将遵守该命令的条款。",
+      "2026年09月04日"
+    ],
+    "ja": [
+      "リリース日",
+      "2026年9月4日",
+      "2026年8月28日、北カリフォルニア地区連邦地方裁判所は、Medani他対Trump他事件、事件番号26-cv-6332(NDCA)において命令を発し、PM-602-0193を今後の訴訟係属中、暫定的に失効させた。米国市民権移民局(USCIS)は、「実行可能な範囲で、かつ誠実に、ダイバーシティ・ビザ会計年度の残存期間中、原告らの係属中の身分調整申請について」PM-602-0193を「適用することなく通常の審査を再開するためのあらゆる合理的な措置を講じる」よう命じられている。",
+      "さらに、裁判所は原告のクラス認定申立てを一部認容した。USCISに関して、裁判所は以下のサブクラスを認定した。「政策覚書PM-602-0193により課されたUSCIS DVホールドの対象となる、2026会計年度ダイバーシティ・ビザ・プログラムの全選出者及び派生受益者」",
+      "当該政策覚書は、米国内でDVプログラムに基づき身分調整を申請する全ての外国人が、国家安全保障または公共の安全に対する脅威とならないことを確保するために発出されたものである。",
+      "USCISは裁判所の命令に強く異議を唱えるものであるが、さらなる司法審査が行われる可能性があることを踏まえ、暫定的にその条項に従うこととする。",
+      "2026年9月4日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
