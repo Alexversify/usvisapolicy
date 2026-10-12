@@ -1,0 +1,172 @@
+{
+  "id": "68dbb2e68b49",
+  "source": "state_press",
+  "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/launch-of-online-visa-fraud-tip-portal/",
+  "original_title": "Launch of Online Visa Fraud Tip Portal",
+  "published": "2026-09-23",
+  "effective_date": null,
+  "importance": "medium",
+  "category": "enforcement",
+  "tags": [
+    "Visa Fraud",
+    "Consular Affairs",
+    "Reporting Portal"
+  ],
+  "relevant": true,
+  "langs": {
+    "en": {
+      "title": "State Department Launches Online Portal for Reporting Visa Fraud",
+      "summary": "The Department of State has launched a new online tip portal allowing the public to report suspected U.S. visa fraud and misuse. The Bureau of Consular Affairs says tips have helped identify fraud cases and the portal is meant to make reporting easier and faster.",
+      "points": [
+        "The portal is available at travel.state.gov/reportvisafraud.",
+        "The Department says examples of visa fraud include falsified documents, sham marriages, shell companies, fabricated job offers, and birth tourism.",
+        "The Department states it may revoke visas and refer fraud cases for further law enforcement investigation.",
+        "The announcement does not create new visa rules or eligibility changes; it is an enforcement and reporting tool.",
+        "No fees, forms, or processing changes are mentioned in the announcement."
+      ],
+      "who": "Members of the public, visa applicants, and anyone with information about suspected visa fraud.",
+      "action": "Those with information about suspected visa fraud can submit a tip through the online portal at travel.state.gov/reportvisafraud."
+    },
+    "ko": {
+      "title": "美 국무부, 온라인 비자 사기 제보 포털 출범",
+      "summary": "미국 국무부가 비자 사기 및 오남용 의심 사례를 신고할 수 있는 온라인 제보 포털을 새로 출범했습니다. 영사국은 그동안 시민들의 제보가 사기 사례 적발에 도움이 되었다며, 이번 포털이 신고 절차를 더 쉽고 신속하게 만들 것이라고 밝혔습니다.",
+      "points": [
+        "포털 주소는 travel.state.gov/reportvisafraud 입니다.",
+        "국무부는 위조 서류, 위장 결혼, 유령 회사, 허위 취업 제안, 출산 관광 등을 비자 사기 사례로 제시했습니다.",
+        "국무부는 사기가 확인될 경우 비자를 취소하고 추가 법 집행 조사를 의뢰할 수 있다고 밝혔습니다.",
+        "이번 발표는 새로운 비자 규정이나 자격 요건 변경이 아니라 신고 및 단속 도구에 관한 것입니다.",
+        "발표문에는 수수료, 양식, 처리 절차 변경에 대한 언급은 없습니다."
+      ],
+      "who": "비자 사기 의심 정보를 가진 일반 대중과 비자 신청자 전반에 관련된 내용입니다.",
+      "action": "비자 사기가 의심되는 정보를 가진 사람은 travel.state.gov/reportvisafraud 에서 온라인으로 제보할 수 있습니다."
+    },
+    "es": {
+      "title": "El Departamento de Estado lanza un portal en línea para denunciar fraude de visas",
+      "summary": "El Departamento de Estado de Estados Unidos lanzó un nuevo portal en línea para que el público reporte sospechas de fraude o uso indebido de visas. La Oficina de Asuntos Consulares señala que denuncias ciudadanas han ayudado a identificar casos de fraude y que el portal busca facilitar y agilizar el proceso de denuncia.",
+      "points": [
+        "El portal está disponible en travel.state.gov/reportvisafraud.",
+        "El Departamento menciona como ejemplos de fraude de visas documentos falsificados, matrimonios fraudulentos, empresas fachada, ofertas de empleo falsas y turismo de parto.",
+        "El Departamento indica que puede revocar visas y remitir casos de fraude para investigación adicional por parte de las autoridades.",
+        "El anuncio no establece nuevas reglas ni cambios de elegibilidad para visas, se trata de una herramienta de denuncia y aplicación de la ley.",
+        "El comunicado no menciona tarifas, formularios ni cambios en los tiempos de procesamiento."
+      ],
+      "who": "El público en general, solicitantes de visa y cualquier persona con información sobre posible fraude de visas.",
+      "action": "Quienes tengan información sobre sospecha de fraude de visas pueden presentar una denuncia en travel.state.gov/reportvisafraud."
+    },
+    "zh": {
+      "title": "美国国务院启动在线签证欺诈举报平台",
+      "summary": "美国国务院推出了一个新的在线举报平台,供公众举报涉嫌签证欺诈或滥用的行为。领事事务局表示,公众举报此前曾帮助发现多起欺诈案件,该平台旨在让举报流程更加便捷和迅速。",
+      "points": [
+        "该举报平台网址为travel.state.gov/reportvisafraud。",
+        "国务院列举的签证欺诈例子包括伪造文件、假结婚、空壳公司、虚假工作邀请函以及生育旅游。",
+        "国务院表示,一旦确认欺诈,可能会撤销签证并将案件移交执法部门进一步调查。",
+        "此次公告并未设立新的签证规则或资格变更,而是提供一项举报和执法工具。",
+        "公告未提及任何费用、表格或处理流程方面的变化。"
+      ],
+      "who": "普通公众、签证申请人以及任何掌握涉嫌签证欺诈信息的人士均与此相关。",
+      "action": "如有涉嫌签证欺诈的信息,可通过travel.state.gov/reportvisafraud在线提交举报。"
+    },
+    "ja": {
+      "title": "米国務省、ビザ不正報告のためのオンラインポータルを開設",
+      "summary": "米国務省は、ビザの不正利用や詐欺の疑いについて一般市民が報告できる新しいオンラインポータルを開設しました。領事局によると、これまでも市民からの情報提供が不正事例の発見に役立っており、今回のポータルは報告をより簡単かつ迅速にすることを目的としています。",
+      "points": [
+        "ポータルはtravel.state.gov/reportvisafraudで利用できます。",
+        "国務省はビザ詐欺の例として、偽造書類、偽装結婚、ペーパーカンパニー、虚偽の就労オファー、出産目的の渡航などを挙げています。",
+        "国務省は、不正が確認された場合ビザを取り消し、さらなる法執行調査に付託することがあるとしています。",
+        "今回の発表は新たなビザ規則や資格要件の変更ではなく、報告と取り締まりのための手段です。",
+        "発表文には手数料、申請書式、処理手続きの変更についての言及はありません。"
+      ],
+      "who": "一般市民、ビザ申請者、およびビザ不正に関する情報を持つすべての人が関係します。",
+      "action": "ビザ不正が疑われる情報を持つ人は、travel.state.gov/reportvisafraudからオンラインで報告できます。"
+    }
+  },
+  "added": "2026-10-12T21:35Z",
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "enforcement",
+    "travel"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "hide"
+      },
+      {
+        "t": "h",
+        "x": "Launch of Online Visa Fraud Tip Portal"
+      },
+      {
+        "t": "p",
+        "x": "Media Note"
+      },
+      {
+        "t": "p",
+        "x": "Office of the Spokesman"
+      },
+      {
+        "t": "p",
+        "x": "September 23, 2026"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State has launched an online tip portal for members of the public to help identify and stop suspected fraud and misuse of U.S. visas. Many of the tens of thousands of visa fraudsters the Department has identified and held accountable during President Trump’s second term were discovered thanks to tips provided by upstanding and concerned members of the public. This new online tool provides a convenient and reliable way for the public to submit crucial information for prompt review and action.\nUnder the leadership of President Trump and Secretary Rubio, the Department of State’s Bureau of Consular Affairs is conducting rigorous fraud detection and prevention activities to thwart attempts to travel to the United States through fraudulent means or for illegal purposes. Visa fraud can include the use of falsified documents or travel plans, brokers arranging sham marriages, shell companies, fabricated job offers, engaging in or facilitating birth tourism, and more. These schemes do not just defraud the U.S. government – visa fraud hurts American communities, undermines the U.S. economy and American workers, and jeopardizes U.S. national security and public safety. The Department of State is fully enforcing U.S. laws and will hold accountable all those who violate them, including by revoking visas and referring fraud for further law enforcement investigation.\nWe encourage those with information about suspected visa fraud and misuse to visit travel.state.gov/reportvisafraud."
+      },
+      {
+        "t": "p",
+        "x": "Tags"
+      },
+      {
+        "t": "p",
+        "x": "Bureau of Consular Affairs Fraud Office of the Spokesman U.S. Visas and Green Cards"
+      }
+    ],
+    "fetched": "2026-10-12T21:35Z",
+    "from": "page",
+    "chars": 1689
+  },
+  "full": {
+    "ko": [
+      "숨기기",
+      "온라인 비자 사기 제보 포털 개설",
+      "언론 성명",
+      "대변인실",
+      "2026년 9월 23일",
+      "국무부는 미국 비자에 대한 의심되는 사기 및 오용을 식별하고 중단시키는 데 도움을 주고자 일반 대중을 위한 온라인 제보 포털을 개설하였습니다. 트럼프 대통령의 2기 임기 동안 국무부가 식별하여 책임을 물은 수만 명의 비자 사기범 중 다수는 정직하고 우려하는 일반 시민들이 제공한 제보 덕분에 발각되었습니다. 이 새로운 온라인 도구는 대중이 신속한 검토 및 조치를 위해 중요한 정보를 제출할 수 있는 편리하고 신뢰할 수 있는 방법을 제공합니다.\n트럼프 대통령과 루비오 장관의 지도 하에, 국무부 영사국(Bureau of Consular Affairs)은 사기적인 수단이나 불법적인 목적으로 미국에 여행하려는 시도를 저지하기 위하여 엄격한 사기 적발 및 예방 활동을 수행하고 있습니다. 비자 사기에는 위조 서류나 여행 계획의 사용, 위장 결혼을 주선하는 브로커, 유령 회사, 조작된 취업 제안, 출산 관광의 실행 또는 조장 등이 포함될 수 있습니다. 이러한 계략은 단순히 미국 정부를 기만하는 데 그치지 않습니다. 비자 사기는 미국 지역사회에 해를 끼치고, 미국 경제와 미국 근로자를 저해하며, 미국의 국가안보와 공공안전을 위태롭게 합니다. 국무부는 미국 법률을 전면적으로 집행하고 있으며, 비자 취소 및 추가 법 집행 수사를 위한 사기 사건 회부를 포함하여 법을 위반하는 모든 자에게 책임을 물을 것입니다.\n비자 사기 및 오용이 의심되는 정보를 가진 분들은 travel.state.gov/reportvisafraud를 방문하실 것을 권장합니다.",
+      "태그",
+      "영사국 사기 담당 대변인실 미국 비자 및 영주권"
+    ],
+    "es": [
+      "ocultar",
+      "Lanzamiento del Portal en Línea para Denuncias de Fraude de Visas",
+      "Nota de Prensa",
+      "Oficina del Portavoz",
+      "23 de septiembre de 2026",
+      "El Departamento de Estado ha lanzado un portal de denuncias en línea para que los miembros del público ayuden a identificar y detener el presunto fraude y uso indebido de visas estadounidenses. Muchos de los decenas de miles de defraudadores de visas que el Departamento ha identificado y hecho responsables durante el segundo mandato del presidente Trump fueron descubiertos gracias a las denuncias proporcionadas por miembros del público íntegros y preocupados. Esta nueva herramienta en línea proporciona una manera conveniente y confiable para que el público envíe información crucial para su pronta revisión y acción.\nBajo el liderazgo del presidente Trump y el secretario Rubio, la Oficina de Asuntos Consulares (Bureau of Consular Affairs) del Departamento de Estado está llevando a cabo rigurosas actividades de detección y prevención de fraude para frustrar los intentos de viajar a los Estados Unidos por medios fraudulentos o con fines ilegales. El fraude de visas puede incluir el uso de documentos o planes de viaje falsificados, intermediarios que organizan matrimonios fraudulentos, empresas fantasma, ofertas de trabajo fabricadas, la participación o facilitación del turismo de nacimiento, y más. Estos esquemas no solo defraudan al gobierno de los Estados Unidos, el fraude de visas perjudica a las comunidades estadounidenses, socava la economía estadounidense y a los trabajadores estadounidenses, y pone en peligro la seguridad nacional y la seguridad pública de los Estados Unidos. El Departamento de Estado está haciendo cumplir plenamente las leyes estadounidenses y hará responsables a todos aquellos que las infrinjan, incluso mediante la revocación de visas y la remisión de casos de fraude para una mayor investigación por parte de las autoridades encargadas de hacer cumplir la ley.\nAlentamos a quienes tengan información sobre presuntos casos de fraude y uso indebido de visas a visitar travel.state.gov/reportvisafraud.",
+      "Etiquetas",
+      "Oficina de Asuntos Consulares Fraude Oficina del Portavoz Visas y Tarjetas de Residencia (Green Cards) Estadounidenses"
+    ],
+    "zh": [
+      "隐藏",
+      "上线签证欺诈举报在线门户",
+      "媒体说明",
+      "发言人办公室",
+      "2026年9月23日",
+      "美国国务院已推出一个在线举报门户,供公众帮助识别和制止涉嫌的美国签证欺诈和滥用行为。在特朗普总统第二任期内,国务院已查明并追究责任的数万名签证欺诈者中,许多人是凭借正直而关切的公众提供的举报线索而被发现的。这一新的在线工具为公众提供了一种便捷可靠的方式,可提交关键信息以供及时审查和处理。\n在特朗普总统和鲁比奥国务卿的领导下,国务院领事事务局(Bureau of Consular Affairs)正在开展严格的欺诈侦测与预防活动,以挫败通过欺诈手段或为非法目的企图前往美国的行为。签证欺诈可能包括使用伪造文件或虚假旅行计划、中介安排假结婚、空壳公司、编造的工作邀约、从事或协助“生育旅游”等。这些骗局不仅是欺骗美国政府,签证欺诈还损害美国社区,削弱美国经济和美国工人的利益,并危及美国国家安全和公共安全。国务院正在全面执行美国法律,并将追究所有违法者的责任,包括吊销签证以及将欺诈行为移交进一步执法调查。\n我们鼓励掌握涉嫌签证欺诈和滥用信息的人士访问 travel.state.gov/reportvisafraud。",
+      "标签",
+      "领事事务局 欺诈 发言人办公室 美国签证和绿卡"
+    ],
+    "ja": [
+      "非表示",
+      "オンラインビザ不正通報ポータルの開設",
+      "報道発表",
+      "報道官室",
+      "2026年9月23日",
+      "国務省は、米国ビザの不正利用及び悪用の疑いを特定し阻止する一助として、一般市民向けのオンライン通報ポータルを開設した。トランプ大統領の第2期政権下で国務省が特定し責任を追及してきた数万人のビザ不正行為者の多くは、誠実で懸念を抱いた一般市民からの通報のおかげで発見されたものである。この新たなオンラインツールは、国民が重要な情報を提出し、迅速な審査と対応につなげるための便利かつ信頼できる手段を提供するものである。\nトランプ大統領及びルビオ国務長官の指導の下、国務省領事局(Bureau of Consular Affairs)は、不正な手段又は違法な目的による米国への渡航の試みを阻止するため、厳格な不正検知及び防止活動を実施している。ビザ不正には、偽造文書又は虚偽の渡航計画の使用、偽装結婚を仲介するブローカー、ペーパーカンパニー、捏造された就労内定、出産目的渡航(バーストツーリズム)の実行又は幇助などが含まれ得る。こうした手口は、単に米国政府を欺くだけでなく、ビザ不正は米国社会に損害を与え、米国経済及び米国人労働者を損ない、米国の国家安全保障及び公共の安全を危険にさらすものである。国務省は米国法を完全に執行しており、ビザの取消し及び不正行為のさらなる法執行当局への照会を含め、法令に違反する全ての者の責任を追及していく。\nビザ不正及び悪用の疑いに関する情報をお持ちの方は、travel.state.gov/reportvisafraud をご覧いただくことを推奨する。",
+      "タグ",
+      "領事局 不正 報道官室 米国ビザ及びグリーンカード"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
