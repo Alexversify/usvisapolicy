@@ -91,5 +91,111 @@
   "topics": [
     "family"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "08/19/2026"
+      },
+      {
+        "t": "p",
+        "x": "On Sept. 18, 2026, USCIS will publish a revised edition of Form I-485, Application to Register Permanent Residence or Adjust Status (edition date: 09/18/26). The form has been revised to align with the recently announced Public Charge Ground of Inadmissibility Final Rule."
+      },
+      {
+        "t": "p",
+        "x": "The 09/18/26 edition of Form I-485 replaces the 01/20/25 edition of Form I-485."
+      },
+      {
+        "t": "p",
+        "x": "USCIS is providing a preview version of the 09/18/26 edition of Form I-485 and its instructions because there is no grace period for accepting the revised edition of Form I-485. Do not file the 09/18/26 edition of Form I-485 before Sept. 18, 2026. We will only accept the 09/18/26 edition of this form if it is postmarked or electronically submitted on or after Sept. 18, 2026."
+      },
+      {
+        "t": "p",
+        "x": "If you file Form I-485, please note that:"
+      },
+      {
+        "t": "li",
+        "x": "USCIS will accept the 01/20/25 edition of Form I-485 if it is postmarked or electronically submitted before Sept. 18, 2026;"
+      },
+      {
+        "t": "li",
+        "x": "USCIS will reject the 01/20/25 edition of Form I-485 if it is postmarked or electronically submitted on or after Sept. 18, 2026; and"
+      },
+      {
+        "t": "li",
+        "x": "USCIS will only accept the 09/18/26 edition of Form I-485 if it is postmarked or electronically submitted on or after Sept. 18, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Visit the Form I-485 webpage to view the preview version of the 09/18/26 edition of Form I-485 and its instructions."
+      },
+      {
+        "t": "p",
+        "x": "08/19/2026"
+      }
+    ],
+    "fetched": "2026-10-12T20:31Z",
+    "from": "page",
+    "chars": 1305
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 8월 19일",
+      "2026년 9월 18일, 미국 시민권이민국(USCIS)은 Form I-485, 영주권 등록 신청서 또는 신분 조정 신청서(Application to Register Permanent Residence or Adjust Status)의 개정판(개정일자: 2026년 9월 18일)을 공표할 예정입니다. 이 양식은 최근 발표된 공적 부담 입국 불허 사유 최종 규칙(Public Charge Ground of Inadmissibility Final Rule)에 맞추어 개정되었습니다.",
+      "2026년 9월 18일자 Form I-485 개정판은 2025년 1월 20일자 Form I-485 개정판을 대체합니다.",
+      "개정된 Form I-485 양식의 접수에는 유예 기간이 없으므로, 미국 시민권이민국은 2026년 9월 18일자 Form I-485 및 그 작성 안내서의 미리보기 버전을 제공합니다. 2026년 9월 18일 이전에는 2026년 9월 18일자 Form I-485를 제출하지 마십시오. 당국은 2026년 9월 18일 이후에 우편 소인이 찍히거나 전자적으로 제출된 경우에 한하여 2026년 9월 18일자 양식을 접수할 것입니다.",
+      "Form I-485를 제출하는 경우 다음 사항에 유의하시기 바랍니다.",
+      "미국 시민권이민국은 2026년 9월 18일 이전에 우편 소인이 찍히거나 전자적으로 제출된 경우, 2025년 1월 20일자 Form I-485 개정판을 접수합니다.",
+      "미국 시민권이민국은 2026년 9월 18일 이후에 우편 소인이 찍히거나 전자적으로 제출된 경우, 2025년 1월 20일자 Form I-485 개정판을 반려합니다. 그리고",
+      "미국 시민권이민국은 2026년 9월 18일 이후에 우편 소인이 찍히거나 전자적으로 제출된 경우에 한하여 2026년 9월 18일자 Form I-485 개정판을 접수합니다.",
+      "2026년 9월 18일자 Form I-485 및 그 작성 안내서의 미리보기 버전을 확인하려면 Form I-485 웹페이지를 방문하시기 바랍니다.",
+      "2026년 8월 19일"
+    ],
+    "es": [
+      "Fecha de Publicación",
+      "19/08/2026",
+      "El 18 de septiembre de 2026, el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) publicará una edición revisada del Formulario I-485, Solicitud de Registro de Residencia Permanente o Ajuste de Estatus (fecha de edición: 18/09/26). El formulario ha sido revisado para alinearse con la Regla Final sobre el Motivo de Inadmisibilidad por Carga Pública (Public Charge Ground of Inadmissibility Final Rule) anunciada recientemente.",
+      "La edición del 18/09/26 del Formulario I-485 reemplaza la edición del 20/01/25 del Formulario I-485.",
+      "USCIS está proporcionando una versión preliminar de la edición del 18/09/26 del Formulario I-485 y sus instrucciones debido a que no existe un período de gracia para aceptar la edición revisada del Formulario I-485. No presente la edición del 18/09/26 del Formulario I-485 antes del 18 de septiembre de 2026. Solo aceptaremos la edición del 18/09/26 de este formulario si tiene matasellos o es presentada electrónicamente el 18 de septiembre de 2026 o después.",
+      "Si presenta el Formulario I-485, tenga en cuenta lo siguiente:",
+      "USCIS aceptará la edición del 20/01/25 del Formulario I-485 si tiene matasellos o es presentada electrónicamente antes del 18 de septiembre de 2026;",
+      "USCIS rechazará la edición del 20/01/25 del Formulario I-485 si tiene matasellos o es presentada electrónicamente el 18 de septiembre de 2026 o después; y",
+      "USCIS solo aceptará la edición del 18/09/26 del Formulario I-485 si tiene matasellos o es presentada electrónicamente el 18 de septiembre de 2026 o después.",
+      "Visite la página web del Formulario I-485 para ver la versión preliminar de la edición del 18/09/26 del Formulario I-485 y sus instrucciones.",
+      "19/08/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年8月19日",
+      "2026年9月18日,美国公民及移民服务局(USCIS)将发布经修订版本的I-485表格《申请登记永久居留或调整身份》(版本日期:2026年9月18日)。该表格已根据最近公布的《公共负担不可入境性最终规则》进行修订,以与之保持一致。",
+      "I-485表格2026年9月18日版将取代I-485表格2025年1月20日版。",
+      "美国公民及移民服务局正在提供I-485表格2026年9月18日版及其说明的预览版本,因为接受该表格修订版不设宽限期。请勿在2026年9月18日之前提交I-485表格2026年9月18日版。我们仅会受理在2026年9月18日当日或之后邮寄或电子提交的该版本表格。",
+      "如果您提交I-485表格,请注意以下事项:",
+      "美国公民及移民服务局将受理在2026年9月18日之前邮寄或电子提交的I-485表格2025年1月20日版;",
+      "美国公民及移民服务局将拒收在2026年9月18日当日或之后邮寄或电子提交的I-485表格2025年1月20日版;以及",
+      "美国公民及移民服务局仅会受理在2026年9月18日当日或之后邮寄或电子提交的I-485表格2026年9月18日版。",
+      "请访问I-485表格网页,查看I-485表格2026年9月18日版及其说明的预览版本。",
+      "2026年8月19日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年08月19日",
+      "2026年9月18日、米国市民権移民局(USCIS)は、永住権登録申請または身分調整申請書(フォームI-485)(版日:2026年09月18日)の改訂版を公表する予定である。本様式は、最近公表された公的扶助受給可能性に基づく入国拒否事由に関する最終規則に適合させるために改訂されたものである。",
+      "フォームI-485の2026年09月18日版は、フォームI-485の2025年01月20日版に代わるものである。",
+      "USCISは、改訂版フォームI-485の受理について猶予期間を設けていないため、2026年09月18日版フォームI-485及びその説明書のプレビュー版を提供している。2026年9月18日より前に2026年09月18日版フォームI-485を提出しないこと。当該2026年09月18日版様式は、2026年9月18日以降に消印が押されるか、電子的に提出された場合に限り受理される。",
+      "フォームI-485を提出する場合、以下の点に留意されたい。",
+      "USCISは、2026年9月18日より前に消印が押されるか、電子的に提出された場合、フォームI-485の2025年01月20日版を受理する。",
+      "USCISは、2026年9月18日以降に消印が押されるか、電子的に提出された場合、フォームI-485の2025年01月20日版を却下する。また、",
+      "USCISは、2026年9月18日以降に消印が押されるか、電子的に提出された場合に限り、フォームI-485の2026年09月18日版を受理する。",
+      "フォームI-485のウェブページにアクセスし、2026年09月18日版フォームI-485及びその説明書のプレビュー版を閲覧されたい。",
+      "2026年08月19日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
