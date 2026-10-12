@@ -87,5 +87,95 @@
     "enforcement",
     "citizenship"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      },
+      {
+        "t": "p",
+        "x": "KANSAS CITY, Kan. — A federal grand jury in Topeka returned an indictment charging a Nigerian alien with falsely claiming to be a U.S. citizen to illegally vote in elections. U.S. Citizenship and Immigration Services provided valuable assistance to the investigation. The U.S. Attorney’s Office for the District of Kansas made the announcement."
+      },
+      {
+        "t": "p",
+        "x": "According to court documents, George Olawunmi Johnson, 67, formerly of Olathe, Kansas, is charged with one count of false claim to U.S. citizenship, one count of false claim to U.S. citizenship in order to vote, one count of fraudulent election conduct, and one count of voting by an alien in a federal election."
+      },
+      {
+        "t": "p",
+        "x": "In February 2010, Johnson allegedly falsely represented himself as a U.S. citizen while registering to vote in Johnson County, Kansas. In November 2024, Johnson allegedly cast a ballot in Kansas that included candidates for the offices of U.S. president, vice president, Senate, and House of Representatives after falsely certifying that he was eligible to vote as a U.S. citizen when he is in fact a permanent resident."
+      },
+      {
+        "t": "p",
+        "x": "Homeland Security Investigations is investigating the case. USCIS aided the investigation."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit USCIS.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "09/25/2026"
+      }
+    ],
+    "fetched": "2026-10-12T18:06Z",
+    "from": "page",
+    "chars": 1425
+  },
+  "full": {
+    "ko": [
+      "발표일",
+      "2026년 9월 25일",
+      "캔자스주 캔자스시티. 토피카 연방 대배심은 나이지리아 출신 외국인이 선거에서 불법으로 투표하기 위해 미국 시민권자라고 허위로 주장한 혐의로 기소장을 발부했습니다. 미국 시민권이민국(USCIS)은 이번 수사에 귀중한 지원을 제공했습니다. 캔자스 지방검찰청이 이번 발표를 했습니다.",
+      "법원 문서에 따르면, 캔자스주 올레이스 출신인 조지 올라운미 존슨(67세)은 미국 시민권 허위 주장 1건, 투표를 위한 미국 시민권 허위 주장 1건, 부정 선거 행위 1건, 그리고 외국인의 연방 선거 투표 1건의 혐의로 기소되었습니다.",
+      "2010년 2월, 존슨은 캔자스주 존슨 카운티에서 유권자 등록을 하면서 자신을 미국 시민권자라고 허위로 진술한 혐의를 받고 있습니다. 2024년 11월, 존슨은 자신이 실제로는 영주권자임에도 불구하고 미국 시민권자로서 투표 자격이 있다고 허위로 인증한 후, 미국 대통령, 부통령, 상원의원 및 하원의원 후보가 포함된 선거에서 캔자스주에서 투표용지를 제출한 혐의를 받고 있습니다.",
+      "국토안보수사국(HSI)이 이 사건을 수사하고 있습니다. USCIS는 이번 수사를 지원했습니다.",
+      "USCIS에 이민 혜택 사기 또는 남용이 의심되는 사례를 신고하시려면 USCIS 신고 양식(USCIS Tip Form)을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 대한 자세한 내용은 USCIS.gov를 방문하시거나 X, 인스타그램, 유튜브, 페이스북 및 링크드인에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 9월 25일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "25/09/2026",
+      "KANSAS CITY, Kan. ,  Un gran jurado federal en Topeka emitió una acusación formal en contra de un extranjero nigeriano por declarar falsamente ser ciudadano estadounidense con el fin de votar ilegalmente en elecciones. El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) brindó una valiosa asistencia a la investigación. La Oficina del Fiscal Federal para el Distrito de Kansas hizo el anuncio.",
+      "Según los documentos judiciales, George Olawunmi Johnson, de 67 años, residente anteriormente de Olathe, Kansas, está acusado de un cargo de declaración falsa de ciudadanía estadounidense, un cargo de declaración falsa de ciudadanía estadounidense con el fin de votar, un cargo de conducta electoral fraudulenta, y un cargo de voto por parte de un extranjero en una elección federal.",
+      "En febrero de 2010, Johnson presuntamente se declaró falsamente como ciudadano estadounidense al registrarse para votar en el condado de Johnson, Kansas. En noviembre de 2024, Johnson presuntamente emitió un voto en Kansas que incluía candidatos para los cargos de presidente y vicepresidente de los Estados Unidos, el Senado y la Cámara de Representantes, tras certificar falsamente que era elegible para votar como ciudadano estadounidense cuando en realidad es residente permanente.",
+      "La División de Investigaciones de Seguridad Nacional (Homeland Security Investigations) está investigando el caso. El USCIS colaboró con la investigación.",
+      "Para denunciar sospechas de fraude o abuso de beneficios migratorios ante USCIS, por favor utilice el Formulario de Denuncias de USCIS (USCIS Tip Form).",
+      "Para obtener más información sobre USCIS y sus programas, visite USCIS.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "25/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年9月25日",
+      "堪萨斯州堪萨斯城,一个联邦大陪审团在托皮卡作出起诉,指控一名尼日利亚籍外国人谎称自己为美国公民以非法参与选举投票。美国公民及移民服务局(USCIS)为本案调查提供了重要协助。此公告由美国堪萨斯地区检察官办公室发布。",
+      "根据法庭文件,现年67岁、曾居住在堪萨斯州奥拉西的乔治·奥拉温米·约翰逊(George Olawunmi Johnson)被指控犯有一项谎称美国公民身份罪、一项为投票而谎称美国公民身份罪、一项选举欺诈行为罪,以及一项外国人在联邦选举中投票罪。",
+      "据称,2010年2月,约翰逊在堪萨斯州约翰逊县登记投票时谎称自己为美国公民。据称,2024年11月,约翰逊在虚假声明自己作为美国公民有资格投票后,在堪萨斯州投下了一张包含美国总统、副总统、参议院及众议院候选人的选票,而事实上他是永久居民。",
+      "国土安全调查局(Homeland Security Investigations)正在对本案进行调查。USCIS协助了本次调查。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为,请使用USCIS举报表格(USCIS Tip Form)。",
+      "如需了解有关USCIS及其项目的更多信息,请访问USCIS.gov,或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年9月25日"
+    ],
+    "ja": [
+      "公開日",
+      "2026年09月25日",
+      "カンザス州カンザスシティ、連邦大陪審はトピーカにおいて、選挙で違法に投票するために米国市民であると虚偽の主張を行ったとして、ナイジェリア人を起訴する起訴状を発付した。米国市民権・移民局(USCIS)は捜査に対して貴重な支援を提供した。カンザス州連邦検事局がこの発表を行った。",
+      "裁判所の記録によれば、カンザス州オラーテ出身の67歳、ジョージ・オラウンミ・ジョンソンは、米国市民であるとの虚偽の主張1件、投票を目的とした米国市民であるとの虚偽の主張1件、不正な選挙行為1件、および連邦選挙における外国人による投票1件の、合計4件の容疑で起訴された。",
+      "2010年2月、ジョンソンはカンザス州ジョンソン郡において投票登録をする際、自らを米国市民であると虚偽に表明したとされている。2024年11月、ジョンソンは、実際には永住者であるにもかかわらず、米国市民として投票資格があると虚偽に証明した上で、米国大統領、副大統領、上院議員、および下院議員の候補者を含む投票用紙をカンザス州において投票したとされている。",
+      "国土安全保障省捜査局(HSI)が本件を捜査している。USCISは捜査に協力した。",
+      "移民給付に関する不正または濫用の疑いをUSCISに通報する場合は、USCIS通報フォームをご利用ください。",
+      "USCISおよびその各種プログラムに関する詳細情報は、USCIS.govをご覧いただくか、X、Instagram、YouTube、Facebook、LinkedInの公式アカウントをフォローしてください。",
+      "2026年09月25日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
