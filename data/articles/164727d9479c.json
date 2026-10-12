@@ -1,0 +1,550 @@
+{
+  "id": "164727d9479c",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
+  "original_title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction",
+  "published": "2026-07-21",
+  "effective_date": "2026-07-21",
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "Asylum",
+    "EAD",
+    "H.R.1",
+    "Correction",
+    "Form I-589"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, H.R.1 관련 망명 수수료 규정 오류 정정, EAD 30일 처리기한 복원",
+      "summary": "DHS는 2026년 4월 29일 발표된 H.R.1 관련 임시최종규칙(IFR)에서 실수로 누락된 규정 문구를 정정했습니다. 이번 정정으로 계류 중인 망명 신청을 근거로 한 최초 취업허가(EAD) 신청에 대한 30일 처리기한이 복원되었습니다. 이는 정책을 새로 바꾸는 것이 아니라 기술적 오류를 바로잡는 것이라고 DHS는 설명했습니다.",
+      "points": [
+        "2026년 4월 29일 공개된 H.R.1 관련 USCIS 수수료 임시최종규칙에서 8 CFR 208.7(a)(1)의 일부 문구가 실수로 삭제되었습니다.",
+        "이번 정정으로 계류 중인 망명 신청(Form I-589)을 근거로 하는 최초 (c)(8) 취업허가(EAD) 신청에 대한 30일 처리기한이 다시 명시됩니다.",
+        "연간 망명 수수료(Annual Asylum Fee) 미납으로 망명 신청이 반려된 경우에도 거부된 경우와 동일하게 EAD 처리에 영향을 미치도록 규정 문구에 반려 사유가 추가되었습니다.",
+        "이번 정정 규칙은 2026년 7월 21일부터 시행되지만, 원래 IFR의 시행일인 2026년 5월 29일부터 소급 적용됩니다.",
+        "DHS는 이 정정이 기술적 오류 수정일 뿐이며, 현재 별도로 검토 중인 EAD 처리기한을 180일로 연장하는 제안 규칙과는 무관하다고 밝혔습니다."
+      ],
+      "who": "계류 중인 망명 신청을 근거로 최초 취업허가(EAD)를 신청하는 망명 신청자가 영향을 받습니다.",
+      "action": "별도의 신청 조치는 필요하지 않으며, 해당 신청자와 대리인은 30일 처리기한이 2026년 5월 29일부터 적용된다는 점을 참고하면 됩니다."
+    },
+    "en": {
+      "title": "USCIS corrects H.R.1 asylum fee rule, restores 30-day EAD processing timeframe",
+      "summary": "DHS has issued a correction to the interim final rule (IFR) published on April 29, 2026 implementing fee provisions required by H.R.1. The correction restores regulatory text that was inadvertently omitted, reinstating the 30-day processing timeframe for initial employment authorization applications based on a pending asylum application.",
+      "points": [
+        "The April 29, 2026 IFR implementing H.R.1 immigration fee provisions accidentally dropped language at 8 CFR 208.7(a)(1) setting a 30-day deadline for USCIS to act on initial (c)(8) EAD applications tied to pending asylum cases.",
+        "This correction restores that 30-day processing timeframe by adding it back as a new paragraph in the regulation.",
+        "The correction also adds the word rejected to the regulation so that asylum applications rejected for failure to pay the Annual Asylum Fee have the same effect on EAD applications as denied applications.",
+        "The correction is effective July 21, 2026 but applies retroactively as of May 29, 2026, the effective date of the original IFR.",
+        "DHS says this is a technical fix, not a substantive policy change, and is unrelated to a separate pending proposal to extend the EAD processing timeframe to 180 days, whose comment period has already closed."
+      ],
+      "who": "Asylum applicants with pending Form I-589 cases who are filing initial employment authorization (EAD) applications under category (c)(8).",
+      "action": "No separate action is required; affected applicants and attorneys should note that the 30-day processing timeframe applies retroactively from May 29, 2026."
+    },
+    "es": {
+      "title": "USCIS corrige regla de tarifas de asilo de H.R.1 y restablece plazo de 30 dias para EAD",
+      "summary": "El DHS publico una correccion a la regla final interina (IFR) del 29 de abril de 2026 que implementa las disposiciones de tarifas exigidas por la ley H.R.1. La correccion restablece un texto reglamentario que se omitio por error, reinstaurando el plazo de 30 dias para procesar solicitudes iniciales de autorizacion de empleo basadas en una solicitud de asilo pendiente.",
+      "points": [
+        "La IFR del 29 de abril de 2026 sobre tarifas de inmigracion de H.R.1 elimino por error un texto en 8 CFR 208.7(a)(1) que fijaba un plazo de 30 dias para que USCIS decidiera sobre solicitudes iniciales de EAD categoria (c)(8) vinculadas a casos de asilo pendientes.",
+        "Esta correccion restablece ese plazo de 30 dias agregando un nuevo parrafo al reglamento.",
+        "Tambien se agrega la palabra rechazada al reglamento para que las solicitudes de asilo rechazadas por no pagar la tarifa anual de asilo tengan el mismo efecto sobre las solicitudes de EAD que las solicitudes denegadas.",
+        "La correccion entra en vigor el 21 de julio de 2026, pero se aplica de forma retroactiva desde el 29 de mayo de 2026, fecha de vigencia de la IFR original.",
+        "El DHS aclara que se trata de una correccion tecnica, no de un cambio de politica sustantivo, y que no esta relacionada con una propuesta separada aun en revision para extender el plazo de procesamiento del EAD a 180 dias, cuyo periodo de comentarios ya finalizo."
+      ],
+      "who": "Solicitantes de asilo con formularios I-589 pendientes que presentan solicitudes iniciales de autorizacion de empleo (EAD) bajo la categoria (c)(8).",
+      "action": "No se requiere ninguna accion adicional; los solicitantes afectados y sus abogados deben tener en cuenta que el plazo de 30 dias se aplica de forma retroactiva desde el 29 de mayo de 2026."
+    },
+    "zh": {
+      "title": "USCIS更正H.R.1庇护费用规则,恢复EAD申请30天处理期限",
+      "summary": "美国国土安全部(DHS)对2026年4月29日发布的实施H.R.1移民费用规定的临时最终规则(IFR)进行了更正。此次更正恢复了此前被意外删除的法规条文,重新确立了基于待审庇护申请提交的初次工作许可申请的30天处理期限。",
+      "points": [
+        "2026年4月29日发布的H.R.1移民费用IFR意外删除了8 CFR 208.7(a)(1)中关于USCIS处理与待审庇护案件相关的初次(c)(8)类工作许可(EAD)申请需在30天内作出决定的规定。",
+        "此次更正通过新增一项条款恢复了该30天处理期限。",
+        "更正还在法规中增加了被驳回一词,使因未缴纳年度庇护费而被驳回的庇护申请与被拒绝的庇护申请在EAD申请上产生相同的法律效果。",
+        "此次更正自2026年7月21日起生效,但追溯适用于2026年5月29日,即原IFR的生效日期。",
+        "DHS表示这仅是技术性更正,并非实质性政策变更,与目前正在审议的另一项拟将EAD处理期限延长至180天的提案无关,该提案的公众评论期已经结束。"
+      ],
+      "who": "提交待审Form I-589庇护申请并据此申请(c)(8)类初次工作许可(EAD)的庇护申请人受到影响。",
+      "action": "无需采取额外行动,受影响的申请人及律师应注意30天处理期限自2026年5月29日起追溯适用。"
+    },
+    "ja": {
+      "title": "USCIS、H.R.1庇護費用規則を訂正しEAD30日処理期限を復活",
+      "summary": "国土安全保障省(DHS)は、H.R.1が求める手数料規定を実施した2026年4月29日付の暫定最終規則(IFR)を訂正しました。今回の訂正により、誤って削除されていた規定文言が復元され、係属中の庇護申請に基づく最初の就労許可申請に対する30日処理期限が再び明記されます。",
+      "points": [
+        "2026年4月29日に公表されたH.R.1関連の移民手数料IFRでは、係属中の庇護案件に基づく最初の(c)(8)区分の就労許可(EAD)申請についてUSCISが30日以内に決定を下すとする8 CFR 208.7(a)(1)の規定文言が誤って削除されていました。",
+        "今回の訂正は新たな項目を追加することでこの30日処理期限を復活させます。",
+        "また、年間庇護手数料の未払いにより却下された庇護申請についても、拒否された申請と同様の効果がEAD申請に及ぶよう、規定に却下という文言が追加されました。",
+        "この訂正規則は2026年7月21日に発効しますが、元のIFRの発効日である2026年5月29日に遡って適用されます。",
+        "DHSは、これは技術的な訂正であり実質的な政策変更ではないとし、EAD処理期限を180日に延長する別途審議中の提案規則(すでにコメント期間が終了)とは無関係であると説明しています。"
+      ],
+      "who": "係属中のForm I-589庇護申請に基づき(c)(8)区分の最初の就労許可(EAD)を申請する庇護申請者が対象です。",
+      "action": "特段の追加対応は不要ですが、対象者および代理人は30日処理期限が2026年5月29日に遡って適用される点を確認してください。"
+    }
+  },
+  "added": "2026-10-12T19:50Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "humanitarian",
+    "employment"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "li",
+        "x": "8 CFR Part 208"
+      },
+      {
+        "t": "li",
+        "x": "[CIS No. 2841-26; DHS Docket No. USCIS-2026-0133]"
+      },
+      {
+        "t": "li",
+        "x": "RIN 1615-AD09"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 45637)"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services (USCIS), Department of Homeland Security (DHS)."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Correcting amendment."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "This document corrects the interim final rule (IFR) that published in the Federal Register on April 29, 2026. The IFR codified certain immigration fees and other provisions required by the One Big Beautiful Bill Act (H.R. 1) and amended USCIS regulations governing asylum and annual asylum fees, the new Form I-94 fee requirement, the validity period for certain types of employment authorization, and the retention of the Form I-589 filing fee for every application. This document will restore regulatory language that was unintentionally removed in the April 29, 2026 IFR."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "Effective July 21, 2026, and applicable as of May 29, 2026."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Office of Policy and Strategy, U.S. Citizenship and Immigration Services, Department of Homeland Security, 5900 Capital Gateway Drive, Camp Springs, MD 20746; telephone 240-721-3000 (this is not a toll-free number)."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Need for Correction"
+      },
+      {
+        "t": "p",
+        "x": "On April 29, 2026, DHS published an IFR titled USCIS Immigration Fees and Related Procedures Required by H.R. 1 Reconciliation Bill.91 FR 22952. The IFR codified: (1) the Form I-94 fee requirement set forth in 8 U.S.C. 1807 as it applies to USCIS; (2) the Annual Asylum Fee (AAF) requirement in 8 U.S.C. 1808, including consequences for failure to pay the AAF and limitations related to employment authorization required by 8 U.S.C. 1810(b); (3) the requirement that every asylum application include the fee required by 8 U.S.C. 1802 at filing regardless of whether the application is rejected, and is not refundable; and (4) the H.R. 1 limits on the validity of Temporary Protected Status (TPS) employment authorization required by 8 U.S.C. 1803(c) and 8 U.S.C. 1811(a)."
+      },
+      {
+        "t": "p",
+        "x": "This document corrects an inadvertently omitted provision in the regulatory text at 8 CFR 208.7 regarding the processing timeframe for initial applications for employment authorization under 8 CFR 274a.12(c)(8). Before the IFR, 8 CFR 208.7(a)(1) provided, among other things, that “[i]f the asylum application is not so denied, [USCIS] shall have 30 days from the date of filing of the request employment authorization to grant or deny that application, except that no employment authorization shall be issued to an asylum applicant prior to the expiration of the 180-day period following the filing of the asylum application filed on or after April 1, 1997.”"
+      },
+      {
+        "t": "p",
+        "x": "The IFR revised and reformatted the regulatory text at 8 CFR 208.7(a)(1). As part of those revisions, DHS inadvertently did not include the final sentence in 8 CFR 208.7(a)(1) and as a result removed the 30-day processing timeframe for initial (c)(8) employment authorization applications. Therefore, this document corrects the regulatory text, 8 CFR 208.7(a)(1) to restore the 30-day processing timeframe for initial EAD applications based on a pending asylum application by adding a new paragraph to maintain the missing sentence.[1]"
+      },
+      {
+        "t": "p",
+        "x": "Because the IFR provides that failure to pay the Annual Asylum Fee (AAF) results in rejection of the pending Form I-589, DHS is adding “rejected” to the 8 CFR 208.7(a)(1)(v) language so that the regulation expressly covers both denials and rejections of asylum applications. This ensures that any (c)(8) employment authorization application filed after an asylum application has been denied or rejected is itself rejected, and any (c)(8) application still pending when the asylum application is denied or rejected is denied, thereby aligning employment authorization consequences with the new AAF rejection mechanism and with 8 U.S.C. 1810(b)."
+      },
+      {
+        "t": "p",
+        "x": "This correction is applicable as if DHS had included this provision in the IFR that published on April 29, 2026. That rule had an effective date of May 29, 2026. Accordingly, the correction is applicable as of May 29, 2026, at 12 a.m. Eastern Time. In other words, DHS will apply the corrected IFR to applications pending on, or filed on or after, May 29, 2026; DHS has continued to prioritize adjudicative resources for initial (c)(8)-based EAD applications accordingly; and there will not be a gap in application of the 30-day processing timeline to asylum applicants seeking EADs under 8 CFR 208.7(a)."
+      },
+      {
+        "t": "h",
+        "x": "II. Administrative Procedure Act"
+      },
+      {
+        "t": "p",
+        "x": "Section 553(b) of the Administrative Procedure Act (APA) generally requires agencies to publish a notice of proposed rulemaking in the Federal Register to provide a period for public comment before the provisions of a rule take effect. 5 U.S.C. 553(b). In addition, section 553(d) of the APA requires agencies to delay the effective date of final rules by a minimum of 30 days after the date of their publication in the Federal Register . 5 U.S.C. 553(d). Both of these requirements can be waived if an agency finds, for good cause, that the notice and comment process and/or delayed effective date is impracticable, unnecessary, or contrary to the public interest, and incorporates a statement of the finding and the reasons therefore in the notice. 5 U.S.C. 553(b)(B), (d)(3)."
+      },
+      {
+        "t": "p",
+        "x": "DHS believes there is good cause for publishing this document without prior notice and opportunity for public ( printed page 45638) comment and with an effective date of less than 30 days because such procedures are unnecessary. This document corrects a technical error in the regulatory text and does not make substantive changes to the policies in the IFR. Therefore, DHS believes that it has good cause to waive the notice and comment and effective date requirements of section 553 of the APA."
+      },
+      {
+        "t": "h",
+        "x": "List of Subjects in 8 CFR Part 208"
+      },
+      {
+        "t": "li",
+        "x": "Administrative practice and procedure"
+      },
+      {
+        "t": "li",
+        "x": "Aliens"
+      },
+      {
+        "t": "li",
+        "x": "Immigration"
+      },
+      {
+        "t": "li",
+        "x": "Reporting and recordkeeping requirements"
+      },
+      {
+        "t": "p",
+        "x": "Accordingly, 8 CFR part 208 is corrected by making the following amendment:"
+      },
+      {
+        "t": "h",
+        "x": "PART 208—PROCEDURES FOR ASYLUM AND WITHHOLDING OF REMOVAL"
+      },
+      {
+        "t": "p",
+        "x": "1. The authority citation for part 208 continues to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "Authority: 8 U.S.C. 1101, 1103, 1158, 1226, 1252, 1282, 1802, 1808; 48 U.S.C. 1806; 8 CFR part 2."
+      },
+      {
+        "t": "p",
+        "x": "2. Amend § 208.7 by adding paragraph (a)(1)(v) to read as follows:"
+      },
+      {
+        "t": "p",
+        "x": "§ 208.7"
+      },
+      {
+        "t": "p",
+        "x": "Employment authorization."
+      },
+      {
+        "t": "p",
+        "x": "(a) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(1) * * *"
+      },
+      {
+        "t": "p",
+        "x": "(v) If the asylum application is not so rejected or denied, USCIS shall have 30 days from the date of filing of the application for employment authorization to grant or deny that application, except that no employment authorization shall be issued to an asylum applicant prior to the expiration of the 180-day period following the filing of the asylum application filed on or after April 1, 1997."
+      },
+      {
+        "t": "p",
+        "x": "* * * * *"
+      },
+      {
+        "t": "p",
+        "x": "Christina E. McDonald,"
+      },
+      {
+        "t": "p",
+        "x": "Associate General Counsel for Regulatory Affairs, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. On February 23, 2026, DHS published a Notice of Proposed Rulemaking that proposed numerous changes related to employment authorization based on a pending asylum application. 91 FR 8616 (Feb. 23, 2026). That rule proposed to extend the current 30-day processing timeframe to 180 days for EAD applications received on or after the effective date of a future final rule on the same topic. 91 FR 8618, 8655-57. The comment period for that proposed rule ended on April 24, 2026. USCIS is reviewing the comments received in response and will consider whether to finalize the proposed changes to the processing timeline in a future rule. Neither the error in the April 29, 2026 IFR nor this correction notice are related to that regulatory change under consideration and instead simply maintain the current regulatory text while DHS considers the long-term policy."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-14698 Filed 7-20-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-97-P"
+      }
+    ],
+    "fetched": "2026-10-12T19:50Z",
+    "from": "federalregister.gov",
+    "chars": 8210
+  },
+  "full": {
+    "ko": [
+      "문서 제목",
+      "문서 제목은 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나 개정을 제안하거나 직접적으로 관련된 CFR 편(title) 번호 및 각 부(part) 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 지침서(Document Drafting Handbook)를 참조하시기 바랍니다.",
+      "국토안보부(Department of Homeland Security)",
+      "8 CFR Part 208",
+      "[CIS No. 2841-26; DHS Docket No. USCIS-2026-0133]",
+      "RIN 1615-AD09",
+      "(인쇄 페이지 45637)",
+      "기관:",
+      "미국 시민권 및 이민서비스국(U.S. Citizenship and Immigration Services, USCIS), 국토안보부(Department of Homeland Security, DHS).",
+      "조치:",
+      "정정 개정.",
+      "요약:",
+      "이 문서는 2026년 4월 29일 연방관보(Federal Register)에 게재된 잠정 최종규칙(interim final rule, IFR)을 정정합니다. 해당 IFR은 One Big Beautiful Bill Act(H.R. 1)에서 요구하는 특정 이민 수수료 및 기타 규정을 성문화하였으며, 망명 및 연간 망명 수수료, 신규 Form I-94 수수료 요건, 특정 유형의 취업허가 유효기간, 그리고 모든 신청서에 대한 Form I-589 접수 수수료의 보유에 관한 USCIS 규정을 개정하였습니다. 이 문서는 2026년 4월 29일자 IFR에서 의도치 않게 삭제된 규정 문언을 복원할 것입니다.",
+      "시행일:",
+      "2026년 7월 21일부터 시행되며, 2026년 5월 29일자로 소급 적용됩니다.",
+      "추가 정보 문의처:",
+      "Office of Policy and Strategy, U.S. Citizenship and Immigration Services, Department of Homeland Security, 5900 Capital Gateway Drive, Camp Springs, MD 20746; 전화 240-721-3000(수신자 부담 전화번호가 아님).",
+      "보충 정보:",
+      "I. 정정의 필요성",
+      "2026년 4월 29일, DHS는 “H.R. 1 조정 법안에 따라 요구되는 USCIS 이민 수수료 및 관련 절차”라는 제목의 IFR을 공표하였습니다(91 FR 22952). 해당 IFR은 다음을 성문화하였습니다. (1) USCIS에 적용되는 8 U.S.C. 1807에 규정된 Form I-94 수수료 요건, (2) 8 U.S.C. 1808에 규정된 연간 망명 수수료(Annual Asylum Fee, AAF) 요건으로, AAF 미납 시의 결과 및 8 U.S.C. 1810(b)에서 요구하는 취업허가 관련 제한을 포함함, (3) 모든 망명 신청서가 접수 시 8 U.S.C. 1802에서 요구하는 수수료를 포함하여야 하며, 신청서가 거부되는지 여부와 관계없이 해당 수수료는 환불되지 않는다는 요건, (4) 8 U.S.C. 1803(c) 및 8 U.S.C. 1811(a)에서 요구하는 임시보호신분(Temporary Protected Status, TPS) 취업허가 유효기간에 대한 H.R. 1의 제한.",
+      "이 문서는 8 CFR 274a.12(c)(8)에 따른 최초 취업허가 신청서의 처리 기한에 관한 8 CFR 208.7의 규정 문언에서 의도치 않게 누락된 조항을 정정합니다. IFR 이전에는 8 CFR 208.7(a)(1)에 다음과 같은 내용 등이 규정되어 있었습니다. “망명 신청이 그와 같이 거부되지 아니한 경우, [USCIS]는 취업허가 신청 접수일로부터 30일 이내에 해당 신청을 승인 또는 거부하여야 한다. 다만, 1997년 4월 1일 이후에 접수된 망명 신청의 경우, 망명 신청 접수일로부터 180일의 기간이 만료되기 전에는 어떠한 망명 신청인에게도 취업허가가 발급되지 아니한다.”",
+      "IFR은 8 CFR 208.7(a)(1)의 규정 문언을 개정 및 재구성하였습니다. 이러한 개정 과정에서 DHS는 8 CFR 208.7(a)(1)의 마지막 문장을 의도치 않게 포함하지 아니하였고, 그 결과 최초 (c)(8) 취업허가 신청서에 대한 30일의 처리 기한이 삭제되었습니다. 이에 따라 이 문서는 8 CFR 208.7(a)(1)의 규정 문언을 정정하여 누락된 문장을 유지하기 위한 새로운 항을 추가함으로써, 계류 중인 망명 신청에 근거한 최초 EAD 신청에 대한 30일의 처리 기한을 복원합니다.[1]",
+      "IFR에 따르면 연간 망명 수수료(AAF) 미납 시 계류 중인 Form I-589가 거부되도록 규정되어 있으므로, DHS는 8 CFR 208.7(a)(1)(v)의 문언에 “거부된(rejected)”이라는 표현을 추가하여, 해당 규정이 망명 신청의 기각(denial)과 거부(rejection) 모두를 명시적으로 포괄하도록 합니다. 이를 통해 망명 신청이 기각되거나 거부된 이후에 제출된 모든 (c)(8) 취업허가 신청은 그 자체로 거부되며, 망명 신청이 기각되거나 거부되는 시점에 여전히 계류 중인 모든 (c)(8) 신청은 기각되도록 하여, 취업허가의 결과를 새로운 AAF 거부 체계 및 8 U.S.C. 1810(b)와 일치시킵니다.",
+      "이 정정 사항은 국토안보부(DHS)가 2026년 4월 29일에 공표한 임시최종규칙(IFR)에 이 조항을 처음부터 포함시켰던 것과 동일하게 적용됩니다. 해당 규칙의 발효일은 2026년 5월 29일이었습니다. 따라서 이 정정 사항은 2026년 5월 29일 동부시간 자정부터 적용됩니다. 다시 말해, DHS는 정정된 IFR을 2026년 5월 29일에 계류 중이거나 그날 또는 그 이후에 제출된 신청에 적용하며, DHS는 이에 따라 (c)(8)에 근거한 최초 취업허가서(EAD) 신청에 대한 심사 자원의 우선순위를 계속 유지하였고, 8 CFR 208.7(a)에 따라 취업허가서를 신청하는 망명 신청자에 대한 30일 처리 기한 적용에 공백이 발생하지 않을 것입니다.",
+      "II. 행정절차법",
+      "행정절차법(APA) 제553조(b)항은 일반적으로 각 기관이 규칙의 조항이 발효되기 전에 공중이 의견을 제출할 수 있는 기간을 제공하기 위하여 연방관보에 규칙제정안 사전통지를 공표하도록 요구하고 있습니다. 5 U.S.C. 553(b). 또한 APA 제553조(d)항은 각 기관이 최종규칙의 발효일을 연방관보 공표일로부터 최소 30일 지연시키도록 요구하고 있습니다. 5 U.S.C. 553(d). 이 두 요건은 기관이 정당한 사유에 근거하여 사전통지 및 의견수렴 절차 및/또는 발효일 지연이 실행 불가능하거나, 불필요하거나, 공공의 이익에 반한다고 판단하고 그 판단 및 그 사유에 관한 설명을 통지에 포함시키는 경우에는 면제될 수 있습니다. 5 U.S.C. 553(b)(B), (d)(3).",
+      "DHS는 이러한 절차가 불필요하므로 사전통지 및 공중의 의견수렴 기회 없이, 그리고 30일 미만의 발효일을 두고 이 문서를 공표할 정당한 사유가 있다고 판단합니다( printed page 45638). 이 문서는 규제문언 상의 기술적 오류를 정정하는 것이며 IFR의 정책에 실질적인 변경을 가하는 것이 아닙니다. 따라서 DHS는 APA 제553조의 사전통지 및 의견수렴, 발효일 요건을 면제할 정당한 사유가 있다고 판단합니다.",
+      "8 CFR 제208편의 주제 목록",
+      "행정 관행 및 절차",
+      "외국인",
+      "이민",
+      "보고 및 기록보관 요건",
+      "따라서, 8 CFR 제208편은 다음과 같은 개정을 통하여 정정됩니다.",
+      "제208편, 망명 및 추방유예 절차",
+      "1. 제208편의 권한 인용 문구는 다음과 같이 계속 유지됩니다.",
+      "권한: 8 U.S.C. 1101, 1103, 1158, 1226, 1252, 1282, 1802, 1808; 48 U.S.C. 1806; 8 CFR 제2편.",
+      "2. 제208.7조를 다음과 같이 제(a)(1)(v)항을 추가하여 개정합니다.",
+      "제208.7조",
+      "취업허가.",
+      "(a) * * *",
+      "(1) * * *",
+      "(v) 망명 신청이 그와 같이 거부되거나 거절되지 아니한 경우, 미국 이민국(USCIS)은 취업허가 신청의 제출일로부터 30일 이내에 해당 신청을 승인 또는 거부하여야 합니다. 다만, 1997년 4월 1일 이후 제출된 망명 신청의 제출일로부터 180일의 기간이 만료되기 전에는 망명 신청자에게 어떠한 취업허가도 발급되지 아니합니다.",
+      "* * * * *",
+      "크리스티나 E. 맥도널드,",
+      "미국 국토안보부 규제업무 담당 부법률고문.",
+      "각주",
+      "1. 2026년 2월 23일, DHS는 계류 중인 망명 신청에 근거한 취업허가와 관련된 다수의 변경 사항을 제안하는 규칙제정안 사전통지를 공표하였습니다. 91 FR 8616 (2026년 2월 23일). 해당 규칙은 향후 공표될 동일 주제에 관한 최종규칙의 발효일 이후 접수되는 EAD 신청에 대하여 현행 30일 처리 기한을 180일로 연장할 것을 제안하였습니다. 91 FR 8618, 8655-57. 해당 제안규칙에 대한 의견수렴 기간은 2026년 4월 24일에 종료되었습니다. USCIS는 이에 대하여 접수된 의견을 검토하고 있으며, 향후 규칙에서 처리 기한에 관한 제안된 변경을 확정할 것인지 여부를 검토할 예정입니다. 2026년 4월 29일자 IFR의 오류와 이 정정 공고는 모두 검토 중인 그 규제 변경과는 무관하며, 오히려 DHS가 장기적인 정책을 검토하는 동안 현행 규제문언을 그대로 유지하기 위한 것일 뿐입니다.",
+      "인용으로 돌아가기",
+      "[연방관보 문서번호 2026-14698, 2026년 7월 20일 오전 8시 45분 제출]",
+      "청구 코드 9111-97-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y suscribieron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción reglamentaria enumerada en la Agenda Unificada de Acciones Reglamentarias y Desreglamentarias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Seguridad Nacional",
+      "8 CFR Parte 208",
+      "[N.º de CIS 2841-26; N.º de Expediente de DHS USCIS-2026-0133]",
+      "RIN 1615-AD09",
+      "(página impresa 45637)",
+      "AGENCIA:",
+      "Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS), Departamento de Seguridad Nacional (DHS).",
+      "ACCIÓN:",
+      "Enmienda de corrección.",
+      "RESUMEN:",
+      "Este documento corrige la norma final provisional (IFR, por sus siglas en inglés) que se publicó en el Registro Federal el 29 de abril de 2026. La IFR codificó ciertas tarifas de inmigración y otras disposiciones requeridas por la Ley One Big Beautiful Bill (H.R. 1) y enmendó las regulaciones de USCIS que rigen el asilo y las tarifas anuales de asilo, el nuevo requisito de tarifa del Formulario I-94, el período de validez de ciertos tipos de autorización de empleo, y la retención de la tarifa de presentación del Formulario I-589 para cada solicitud. Este documento restablecerá el lenguaje reglamentario que se eliminó de manera no intencional en la IFR del 29 de abril de 2026.",
+      "FECHAS:",
+      "Vigente a partir del 21 de julio de 2026, y aplicable desde el 29 de mayo de 2026.",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON:",
+      "Oficina de Política y Estrategia, Servicio de Ciudadanía e Inmigración de los Estados Unidos, Departamento de Seguridad Nacional, 5900 Capital Gateway Drive, Camp Springs, MD 20746; teléfono 240-721-3000 (este no es un número gratuito).",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Necesidad de la Corrección",
+      "El 29 de abril de 2026, el DHS publicó una IFR titulada USCIS Immigration Fees and Related Procedures Required by H.R. 1 Reconciliation Bill. 91 FR 22952. La IFR codificó: (1) el requisito de tarifa del Formulario I-94 establecido en 8 U.S.C. 1807 en lo que respecta a USCIS; (2) el requisito de la Tarifa Anual de Asilo (AAF) en 8 U.S.C. 1808, incluidas las consecuencias por no pagar la AAF y las limitaciones relacionadas con la autorización de empleo exigidas por 8 U.S.C. 1810(b); (3) el requisito de que toda solicitud de asilo incluya la tarifa exigida por 8 U.S.C. 1802 al momento de la presentación, independientemente de que la solicitud sea rechazada, y que dicha tarifa no sea reembolsable; y (4) los límites impuestos por la H.R. 1 sobre la validez de la autorización de empleo bajo el Estatus de Protección Temporal (TPS) exigidos por 8 U.S.C. 1803(c) y 8 U.S.C. 1811(a).",
+      "Este documento corrige una disposición omitida de manera inadvertida en el texto reglamentario del 8 CFR 208.7 relativa al plazo de procesamiento para las solicitudes iniciales de autorización de empleo conforme al 8 CFR 274a.12(c)(8). Antes de la IFR, el 8 CFR 208.7(a)(1) establecía, entre otras cosas, que “[s]i la solicitud de asilo no es denegada de esa manera, [USCIS] tendrá 30 días a partir de la fecha de presentación de la solicitud de autorización de empleo para otorgar o denegar dicha solicitud, salvo que no se emitirá ninguna autorización de empleo a un solicitante de asilo antes de que expire el período de 180 días posterior a la presentación de la solicitud de asilo presentada el 1 de abril de 1997 o después de esa fecha.”",
+      "La IFR revisó y reformateó el texto reglamentario del 8 CFR 208.7(a)(1). Como parte de esas revisiones, el DHS omitió de manera inadvertida la oración final del 8 CFR 208.7(a)(1) y, como resultado, eliminó el plazo de procesamiento de 30 días para las solicitudes iniciales de autorización de empleo bajo (c)(8). Por lo tanto, este documento corrige el texto reglamentario, el 8 CFR 208.7(a)(1), para restablecer el plazo de procesamiento de 30 días para las solicitudes iniciales de EAD basadas en una solicitud de asilo pendiente, mediante la adición de un nuevo párrafo para mantener la oración faltante.[1]",
+      "Debido a que la IFR establece que la falta de pago de la Tarifa Anual de Asilo (AAF) resulta en el rechazo del Formulario I-589 pendiente, el DHS está agregando el término “rechazada” al lenguaje del 8 CFR 208.7(a)(1)(v) para que la regulación cubra expresamente tanto las denegaciones como los rechazos de las solicitudes de asilo. Esto garantiza que cualquier solicitud de autorización de empleo bajo (c)(8) presentada después de que una solicitud de asilo haya sido denegada o rechazada sea, a su vez, rechazada, y que cualquier solicitud bajo (c)(8) que aún esté pendiente cuando la solicitud de asilo sea denegada o rechazada sea denegada, alineando así las consecuencias de la autorización de empleo con el nuevo mecanismo de rechazo de la AAF y con el 8 U.S.C. 1810(b).",
+      "Esta corrección es aplicable como si el DHS hubiera incluido esta disposición en la Norma Final Provisional (IFR) que se publicó el 29 de abril de 2026. Esa norma tenía una fecha de vigencia del 29 de mayo de 2026. En consecuencia, la corrección es aplicable a partir del 29 de mayo de 2026, a las 12:00 a.m., hora del Este. En otras palabras, el DHS aplicará la IFR corregida a las solicitudes pendientes, o presentadas a partir del 29 de mayo de 2026; el DHS ha continuado priorizando los recursos de adjudicación para las solicitudes iniciales de EAD basadas en (c)(8) en consecuencia; y no habrá una interrupción en la aplicación del plazo de procesamiento de 30 días a los solicitantes de asilo que buscan EAD conforme al 8 CFR 208.7(a).",
+      "II. Ley de Procedimiento Administrativo",
+      "La sección 553(b) de la Ley de Procedimiento Administrativo (APA, por sus siglas en inglés) generalmente exige que las agencias publiquen un aviso de propuesta de reglamentación en el Registro Federal para proporcionar un período de comentario público antes de que las disposiciones de una norma entren en vigor. 5 U.S.C. 553(b). Además, la sección 553(d) de la APA exige que las agencias retrasen la fecha de vigencia de las normas finales por un mínimo de 30 días después de la fecha de su publicación en el Registro Federal. 5 U.S.C. 553(d). Ambos requisitos pueden ser exonerados si una agencia determina, por causa justificada, que el proceso de aviso y comentario y/o el retraso de la fecha de vigencia son poco prácticos, innecesarios o contrarios al interés público, e incorpora una declaración de dicha determinación y las razones correspondientes en el aviso. 5 U.S.C. 553(b)(B), (d)(3).",
+      "El DHS considera que existe causa justificada para publicar este documento sin aviso previo ni oportunidad de comentario público ( página impresa 45638) y con una fecha de vigencia de menos de 30 días, debido a que dichos procedimientos son innecesarios. Este documento corrige un error técnico en el texto reglamentario y no realiza cambios sustantivos a las políticas de la IFR. Por lo tanto, el DHS considera que tiene causa justificada para exonerar los requisitos de aviso y comentario y de fecha de vigencia de la sección 553 de la APA.",
+      "Lista de materias en el título 8 del CFR, parte 208",
+      "Práctica y procedimiento administrativo",
+      "Extranjeros",
+      "Inmigración",
+      "Requisitos de presentación de informes y mantenimiento de registros",
+      "En consecuencia, se corrige el título 8 del CFR, parte 208, mediante la siguiente enmienda:",
+      "PARTE 208, PROCEDIMIENTOS PARA EL ASILO Y LA SUSPENSIÓN DE LA REMOCIÓN",
+      "1. La cita de autoridad para la parte 208 continúa redactándose de la siguiente manera:",
+      "Autoridad: 8 U.S.C. 1101, 1103, 1158, 1226, 1252, 1282, 1802, 1808; 48 U.S.C. 1806; 8 CFR parte 2.",
+      "2. Se enmienda el § 208.7 añadiendo el párrafo (a)(1)(v) para que diga lo siguiente:",
+      "§ 208.7",
+      "Autorización de empleo.",
+      "(a) * * *",
+      "(1) * * *",
+      "(v) Si la solicitud de asilo no es rechazada o denegada de esa manera, el USCIS tendrá 30 días a partir de la fecha de presentación de la solicitud de autorización de empleo para aprobar o denegar dicha solicitud, excepto que no se emitirá ninguna autorización de empleo a un solicitante de asilo antes de la expiración del período de 180 días posterior a la presentación de la solicitud de asilo presentada a partir del 1 de abril de 1997.",
+      "* * * * *",
+      "Christina E. McDonald,",
+      "Asesora General Adjunta de Asuntos Regulatorios, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "Notas al pie",
+      "1. El 23 de febrero de 2026, el DHS publicó un Aviso de Propuesta de Reglamentación que proponía numerosos cambios relacionados con la autorización de empleo basada en una solicitud de asilo pendiente. 91 FR 8616 (23 de febrero de 2026). Esa norma proponía extender el plazo de procesamiento actual de 30 días a 180 días para las solicitudes de EAD recibidas a partir de la fecha de vigencia de una futura norma final sobre el mismo tema. 91 FR 8618, 8655-57. El período de comentarios para esa norma propuesta finalizó el 24 de abril de 2026. El USCIS está revisando los comentarios recibidos en respuesta y considerará si finaliza los cambios propuestos al plazo de procesamiento en una futura norma. Ni el error en la IFR del 29 de abril de 2026 ni este aviso de corrección están relacionados con ese cambio regulatorio bajo consideración, sino que simplemente mantienen el texto reglamentario actual mientras el DHS considera la política a largo plazo.",
+      "Volver a la cita",
+      "[Documento del FR 2026-14698 presentado el 7-20-26; 8:45 a.m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-97-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异，但可能包含以下内容：",
+      "颁布并签署该文件的一个或多个机构",
+      "该文件修订、拟议修订或与之直接相关的CFR标题编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "用于标识《联邦监管与放松监管行动统一议程》中所列每项监管行动的RIN编号",
+      "详情请参阅《文件起草手册》。",
+      "美国国土安全部",
+      "8 CFR Part 208",
+      "[CIS 编号 2841-26；DHS 档案编号 USCIS-2026-0133]",
+      "RIN 1615-AD09",
+      "（印刷页 45637）",
+      "机构：",
+      "美国公民及移民服务局（USCIS），国土安全部（DHS）。",
+      "行动：",
+      "更正性修正。",
+      "摘要：",
+      "本文件更正了2026年4月29日在《联邦公报》上发布的临时最终规则（IFR）。该临时最终规则编纂了《重大美好法案》（H.R. 1）所要求的某些移民费用及其他规定，并修订了USCIS关于庇护及年度庇护费、新的I-94表格费用要求、某些类型就业授权的有效期，以及每份申请均须保留I-589表格申请费的相关规定。本文件将恢复在2026年4月29日临时最终规则中被无意删除的监管条文。",
+      "日期：",
+      "自2026年7月21日起生效，并自2026年5月29日起适用。",
+      "欲知详情，请联系：",
+      "美国国土安全部美国公民及移民服务局政策与战略办公室，地址：5900 Capital Gateway Drive, Camp Springs, MD 20746；电话：240-721-3000（非免费电话）。",
+      "补充信息：",
+      "一、更正的必要性",
+      "2026年4月29日，国土安全部发布了一项题为《H.R. 1和解法案要求的USCIS移民费用及相关程序》的临时最终规则，载于91 FR 22952。该临时最终规则编纂了以下内容：（1）8 U.S.C. 1807中规定的、适用于USCIS的I-94表格费用要求；（2）8 U.S.C. 1808中规定的年度庇护费（AAF）要求，包括未缴纳年度庇护费的后果以及8 U.S.C. 1810(b)所要求的与就业授权相关的限制；（3）要求每份庇护申请在提交时均须缴纳8 U.S.C. 1802所要求的费用，无论该申请是否被驳回，且该费用不可退还；以及（4）H.R. 1对8 U.S.C. 1803(c)和8 U.S.C. 1811(a)所要求的临时保护身份（TPS）就业授权有效期的限制。",
+      "本文件更正了8 CFR 208.7条监管文本中无意遗漏的一项规定，该规定涉及根据8 CFR 274a.12(c)(8)提出的初次就业授权申请的处理时限。在该临时最终规则发布之前，8 CFR 208.7(a)(1)规定，除其他内容外，“如庇护申请未被如此驳回，[USCIS]应自提出就业授权请求之日起30天内批准或拒绝该申请，但对于1997年4月1日或之后提交的庇护申请，在该庇护申请提交之日起180天期限届满之前，不得向庇护申请人签发任何就业授权。”",
+      "该临时最终规则对8 CFR 208.7(a)(1)的监管文本进行了修订和重新编排。在这些修订过程中，国土安全部无意中未纳入8 CFR 208.7(a)(1)中的最后一句话，从而删除了针对初次(c)(8)就业授权申请的30天处理时限。因此，本文件通过新增一款以保留该遗漏句子的方式，更正8 CFR 208.7(a)(1)监管文本，恢复基于待决庇护申请提出的初次EAD申请的30天处理时限。[1]",
+      "由于该临时最终规则规定，未缴纳年度庇护费（AAF）将导致待决的I-589表格被驳回，国土安全部在8 CFR 208.7(a)(1)(v)的文本中加入“被驳回”一词，使该条规定明确涵盖庇护申请被拒绝和被驳回两种情形。这确保了在庇护申请被拒绝或驳回后提出的任何(c)(8)就业授权申请本身将被驳回，而在庇护申请被拒绝或驳回时仍处于待决状态的任何(c)(8)申请将被拒绝，从而使就业授权的后果与新的年度庇护费驳回机制以及8 U.S.C. 1810(b)保持一致。",
+      "本更正适用情形如同国土安全部(DHS)已将该条款纳入2026年4月29日发布的临时最终规则(IFR)中一样。该规则的生效日期为2026年5月29日。因此，本更正自2026年5月29日东部时间凌晨12时起适用。换言之，国土安全部将把更正后的临时最终规则适用于在2026年5月29日或之后待决或提交的申请；国土安全部因此将继续优先分配裁决资源用于处理基于(c)(8)款的初次就业许可文件(EAD)申请；并且在8 CFR 208.7(a)条下为寻求就业许可文件的庇护申请人适用30天处理时限方面，不会出现空白期。",
+      "二、行政程序法",
+      "《行政程序法》(APA)第553(b)条一般要求各机构在《联邦公报》上发布拟议规则制定通知，以便在规则条款生效前提供一段公众评议期。5 U.S.C. 553(b)。此外，《行政程序法》第553(d)条要求各机构将最终规则的生效日期推迟至其在《联邦公报》上公布之日后至少30天。5 U.S.C. 553(d)。如果机构基于正当理由认定通知和评议程序和/或推迟生效日期不可行、无必要或有悖于公共利益，并在通知中列明该认定及其理由，则可免除上述两项要求。5 U.S.C. 553(b)(B)、(d)(3)。",
+      "国土安全部认为，有正当理由在未事先发布通知及提供公众评议机会的情况下发布本文件，并使其生效日期短于30天，原因是此类程序并无必要。( 印刷页45638)本文件更正了法规文本中的一处技术性错误，并未对临时最终规则中的政策作出实质性修改。因此，国土安全部认为其有正当理由免除《行政程序法》第553条规定的通知评议及生效日期要求。",
+      "8 CFR第208部分主题列表",
+      "行政实践与程序",
+      "外国人",
+      "移民",
+      "报告和记录保存要求",
+      "因此，现对8 CFR第208部分作如下修正予以更正：",
+      "第208部分 ，庇护和暂缓驱逐程序",
+      "1. 第208部分的授权引用继续规定如下：",
+      "授权依据：8 U.S.C. 1101、1103、1158、1226、1252、1282、1802、1808；48 U.S.C. 1806；8 CFR第2部分。",
+      "2. 修订第208.7条，增列第(a)(1)(v)段，内容如下：",
+      "第208.7条",
+      "就业许可。",
+      "(a) * * *",
+      "(1) * * *",
+      "(v) 如果庇护申请未因此被拒绝或驳回，美国公民及移民服务局(USCIS)应自就业许可申请提交之日起30天内批准或拒绝该申请，但对于2015年4月1日之后提交的庇护申请，在该庇护申请提交之日起满180天之前，不得向庇护申请人签发就业许可。",
+      "* * * * *",
+      "Christina E. McDonald，",
+      "美国国土安全部法规事务副总法律顾问。",
+      "脚注",
+      "1. 2026年2月23日，国土安全部发布了一份拟议规则制定通知，提议对基于待决庇护申请的就业许可作出多项变更。91 FR 8616（2026年2月23日）。该规则提议将现行30天处理时限延长至180天，适用于在同一主题未来最终规则生效日期之后收到的就业许可文件申请。91 FR 8618，8655-57。该拟议规则的评议期于2026年4月24日结束。美国公民及移民服务局正在审查所收到的评议意见，并将考虑是否在未来的规则中最终确定关于处理时限的拟议修改。2026年4月29日临时最终规则中的错误以及本更正通知均与正在审议中的该项法规变更无关，而仅仅是在国土安全部考虑长期政策期间维持现行法规文本不变。",
+      "返回引文处",
+      "[联邦公报文件编号 2026-14698，存档日期7-20-26；上午8:45]",
+      "账单代码 9111-97-P"
+    ],
+    "ja": [
+      "文書見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含むことがある。",
+      "文書を発行し署名した機関",
+      "文書が改正し、改正を提案し、又は直接関係する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関の案件番号/機関内部のファイル番号",
+      "連邦規制・規制緩和措置統一アジェンダに掲載された各規制措置を識別するRIN(規則識別番号)",
+      "詳細については、文書作成ハンドブックを参照のこと。",
+      "国土安全保障省(DHS)",
+      "8 CFR Part 208",
+      "[CIS No. 2841-26; DHS Docket No. USCIS-2026-0133]",
+      "RIN 1615-AD09",
+      "(印刷ページ45637)",
+      "機関:",
+      "米国市民権・移民業務局(USCIS)、国土安全保障省(DHS)。",
+      "措置:",
+      "訂正改正。",
+      "概要:",
+      "本文書は、2026年4月29日付けで連邦官報(Federal Register)に公示された暫定最終規則(IFR)を訂正するものである。当該IFRは、One Big Beautiful Bill Act(H.R. 1)により義務付けられた特定の移民関係手数料及びその他の規定を法典化し、庇護及び年次庇護手数料、新たなForm I-94手数料要件、特定の就労許可の有効期間、並びにすべての申請についてForm I-589の申請手数料を維持することに関するUSCIS規則を改正するものであった。本文書は、2026年4月29日付けIFRにおいて意図せず削除された規則文言を復元するものである。",
+      "日付:",
+      "2026年7月21日発効、2026年5月29日付けで適用される。",
+      "問い合わせ先:",
+      "国土安全保障省、米国市民権・移民業務局、政策戦略局、5900 Capital Gateway Drive, Camp Springs, MD 20746、電話番号240-721-3000(これはフリーダイヤルではない)。",
+      "補足情報:",
+      "I. 訂正の必要性",
+      "2026年4月29日、DHSは「H.R. 1財政調整法により義務付けられたUSCIS移民手数料及び関連手続」と題するIFRを公示した(91 FR 22952)。当該IFRは、次の事項を法典化した。(1)USCISに適用される8 U.S.C. 1807に定められたForm I-94手数料要件、(2)8 U.S.C. 1808に定める年次庇護手数料(AAF)要件(AAFの不払いの結果及び8 U.S.C. 1810(b)により義務付けられた就労許可に関する制限を含む)、(3)すべての庇護申請について、当該申請が却下されるか否かにかかわらず提出時に8 U.S.C. 1802により義務付けられた手数料を含めることを要し、当該手数料は返還されないという要件、並びに(4)8 U.S.C. 1803(c)及び8 U.S.C. 1811(a)により義務付けられた、一時的保護措置(TPS)就労許可の有効期間に関するH.R. 1の制限。",
+      "本文書は、8 CFR 274a.12(c)(8)に基づく就労許可の最初の申請に係る処理期間に関する8 CFR 208.7の規則文言において、誤って省略された規定を訂正するものである。IFR以前、8 CFR 208.7(a)(1)は、とりわけ、「庇護申請がそのように却下されない場合、〔USCISは〕就労許可申請の提出日から30日以内に当該申請を許可又は拒否しなければならない。ただし、1997年4月1日以降に提出された庇護申請について、当該庇護申請の提出から180日の期間が満了する前に、庇護申請者に対して就労許可を発行してはならない」と規定していた。",
+      "IFRは、8 CFR 208.7(a)(1)の規則文言を改訂し、再構成した。当該改訂の一環として、DHSは誤って8 CFR 208.7(a)(1)の末尾の文を含めなかったため、その結果、最初の(c)(8)就労許可申請に係る30日の処理期間が削除された。したがって、本文書は、欠落した文を維持するための新たな段落を追加することにより、係属中の庇護申請に基づく最初のEAD申請に係る30日の処理期間を復元するため、規則文言8 CFR 208.7(a)(1)を訂正する。[1]",
+      "IFRは、年次庇護手数料(AAF)の不払いが係属中のForm I-589の却下をもたらすと規定しているため、DHSは、当該規則が庇護申請の拒否及び却下の双方を明示的に対象とするよう、8 CFR 208.7(a)(1)(v)の文言に「却下された」を追加する。これにより、庇護申請が拒否又は却下された後に提出された(c)(8)就労許可申請はそれ自体が却下されること、及び庇護申請が拒否又は却下された時点で係属中であった(c)(8)申請は拒否されることが確保され、これにより、就労許可の帰結が新たなAAF却下の仕組み及び8 U.S.C. 1810(b)と整合することとなる。",
+      "この訂正は、DHSが2026年4月29日に公布した暫定最終規則(IFR)に当該規定を含めていたものとして適用される。当該規則の施行日は2026年5月29日であった。したがって、この訂正は2026年5月29日東部時間午前0時をもって適用される。言い換えれば、DHSは、2026年5月29日時点で係属中の申請、または同日以降に提出された申請に対して、訂正後のIFRを適用するものであり、DHSはこれに従い(c)(8)に基づく当初の就労許可申請(EAD申請)の審査資源の優先配分を継続してきたものであり、8 CFR 208.7(a)に基づき就労許可を求める庇護申請者に対する30日間の処理期間の適用に空白期間は生じない。",
+      "II. 行政手続法",
+      "行政手続法(APA)第553条(b)は、原則として、規則の規定が効力を生じる前に公衆意見提出期間を設けるため、各省庁が連邦官報に規則制定案の通知を公布することを求めている。5 U.S.C. 553(b)。さらに、APA第553条(d)は、各省庁に対し、最終規則の連邦官報への公布日から最低30日間、当該規則の施行日を遅らせることを求めている。5 U.S.C. 553(d)。これら両方の要件は、各省庁が正当な理由(グッドコーズ)により、意見提出手続及び/又は施行日の遅延が実行不可能、不要、又は公益に反すると認め、その認定及び理由に関する陳述を通知に盛り込む場合には、免除され得る。5 U.S.C. 553(b)(B)、(d)(3)。",
+      "DHSは、(印刷ページ45638)本書面を事前の通知及び公衆意見提出の機会なしに、かつ30日未満の施行日をもって公布することについて、正当な理由があると考える。なぜなら、かかる手続は不要であるからである。本書面は、規制文言における技術的誤りを訂正するものであり、IFRにおける政策に実質的な変更を加えるものではない。したがって、DHSは、APA第553条の意見提出手続及び施行日に関する要件を免除する正当な理由を有すると考える。",
+      "8 CFR第208部における対象事項一覧",
+      "行政実務及び手続",
+      "外国人",
+      "移民",
+      "報告及び記録保持の要件",
+      "したがって、8 CFR第208部は、以下の改正を行うことにより訂正される。",
+      "第208部 庇護及び退去強制の停止に関する手続",
+      "1. 第208部の権限根拠規定は、引き続き以下のとおりとする。",
+      "権限根拠:8 U.S.C. 1101、1103、1158、1226、1252、1282、1802、1808;48 U.S.C. 1806;8 CFR第2部。",
+      "2. 第208.7条を改正し、次のとおり段落(a)(1)(v)を追加する。",
+      "第208.7条",
+      "就労許可。",
+      "(a)*****",
+      "(1)*****",
+      "(v) 庇護申請がそのように却下又は拒否されない場合、USCIS(米国市民権移民局)は、就労許可申請の提出日から30日以内に当該申請を許可又は拒否しなければならない。ただし、1997年4月1日以降に提出された庇護申請の提出から180日間の経過前には、庇護申請者に就労許可を発行してはならない。",
+      "*****",
+      "クリスティーナ・E・マクドナルド",
+      "米国国土安全保障省(DHS)規制問題担当准法律顧問",
+      "脚注",
+      "1. 2026年2月23日、DHSは、係属中の庇護申請に基づく就労許可に関連する多数の変更を提案する規則制定案の通知を公布した。91 FR 8616(2026年2月23日)。当該規則は、同一主題に関する将来の最終規則の施行日以降に受理されるEAD申請について、現行の30日間の処理期間を180日間に延長することを提案するものであった。91 FR 8618、8655-57。当該規則案に対する意見提出期間は2026年4月24日に終了した。USCISは、これに対して提出された意見を審査中であり、処理期間に関する提案された変更を将来の規則において最終化するか否かを検討する予定である。2026年4月29日のIFRにおける誤り及び本訂正通知は、いずれも検討中の当該規制変更とは関係がなく、DHSが長期的な政策を検討する間、現行の規制文言を単に維持するものである。",
+      "引用元に戻る",
+      "[FRドキュメント2026-14698 2026年7月20日午前8時45分提出]",
+      "課金コード9111-97-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

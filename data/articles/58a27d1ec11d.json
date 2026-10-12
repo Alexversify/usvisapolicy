@@ -1,0 +1,194 @@
+{
+  "id": "58a27d1ec11d",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/news-releases/uscis-announces-rule-change-to-asylum-system-to-reduce-backlog",
+  "original_title": "USCIS Announces Rule Change to Asylum System to Reduce Backlog",
+  "published": "2026-07-27",
+  "effective_date": "2026-07-27",
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Asylum",
+    "Immigration Judges",
+    "Backlog",
+    "Interim Final Rule"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "USCIS, 망명 적체 해소 위해 심사 규정 변경, 인터뷰 없이 이민판사 회부 가능",
+      "summary": "USCIS가 망명 신청 적체를 줄이기 위한 잠정 최종규칙을 발표했습니다. 이 규칙에 따라 USCIS는 신청자를 인터뷰하지 않고도 망명 신청 건을 이민판사에게 회부할 수 있게 됩니다. 이 규칙은 즉시 발효되며, USCIS는 추후 공개 의견을 반영해 최종규칙을 발표할 예정입니다.",
+      "points": [
+        "현재는 추방 절차에 있지 않은 신청자의 적극적 망명 신청은 USCIS가, 추방 절차 중인 신청자의 방어적 망명 신청은 이민판사가 심사합니다.",
+        "기존에는 USCIS가 사건을 이민판사에게 회부할 경우 이민판사가 새로 전체 심사를 진행해 왔습니다.",
+        "새 잠정 최종규칙에 따라 USCIS는 신청자를 인터뷰하지 않고도 사건을 이민판사에게 회부할 수 있습니다.",
+        "USCIS는 이를 통해 망명 심사에 걸리는 전체 시간을 단축하고 적체를 줄이고자 한다고 밝혔습니다.",
+        "이 규칙은 발표 즉시 발효되며, 이는 잠정 최종규칙으로서 공개 의견 수렴 절차를 거쳐 추후 최종규칙이 발표될 예정입니다.",
+        "출처에는 의견 제출 마감일이 명시되어 있지 않습니다."
+      ],
+      "who": "미국에서 망명을 신청했거나 신청할 예정인 모든 사람과 이들을 대리하는 변호사가 영향을 받습니다.",
+      "action": "망명 신청자나 대리인은 USCIS의 공식 발표와 연방관보에 게재될 규칙 전문을 확인하고 필요한 경우 의견 제출을 검토해야 합니다."
+    },
+    "en": {
+      "title": "USCIS Rule Lets It Refer Asylum Cases to Immigration Judges Without Interviews",
+      "summary": "USCIS has announced an interim final rule intended to reduce the backlog in the asylum system. Under the rule, USCIS can refer affirmative asylum applications to Immigration Judges without first interviewing the applicant. The rule took effect immediately, and USCIS will accept public comments before issuing a final rule.",
+      "points": [
+        "USCIS currently adjudicates affirmative asylum applications for people not in removal proceedings, while Immigration Judges handle defensive applications for people already in removal proceedings.",
+        "Previously, when USCIS referred a case to an Immigration Judge, the judge conducted a completely new review of the application.",
+        "The new interim final rule allows USCIS to refer cases to Immigration Judges without conducting an interview first.",
+        "USCIS says the change is meant to shorten total adjudication time and reduce the asylum backlog.",
+        "The rule is effective immediately as an interim final rule, meaning it already applies while USCIS collects public comments.",
+        "The source does not specify a comment deadline."
+      ],
+      "who": "People applying for asylum in the United States, including those with pending or future affirmative applications, and their attorneys.",
+      "action": "Asylum applicants and attorneys should review the rule once published in the Federal Register and consider submitting comments if they wish."
+    },
+    "es": {
+      "title": "USCIS podrá referir casos de asilo a jueces de inmigración sin entrevista previa",
+      "summary": "USCIS anunció una regla final interina destinada a reducir el retraso en el sistema de asilo. Con esta regla, USCIS puede referir solicitudes de asilo afirmativo a jueces de inmigración sin entrevistar primero al solicitante. La regla entró en vigor de inmediato y USCIS aceptará comentarios públicos antes de emitir una regla final.",
+      "points": [
+        "USCIS resuelve actualmente las solicitudes de asilo afirmativo de personas que no están en proceso de deportación, mientras que los jueces de inmigración resuelven las solicitudes defensivas de quienes ya están en ese proceso.",
+        "Antes, cuando USCIS refería un caso a un juez de inmigración, este realizaba una revisión completamente nueva de la solicitud.",
+        "La nueva regla final interina permite a USCIS referir casos a jueces de inmigración sin realizar primero una entrevista.",
+        "USCIS indica que el cambio busca acortar el tiempo total de resolución y reducir el retraso acumulado en el sistema de asilo.",
+        "La regla es efectiva de inmediato como regla final interina, por lo que ya se aplica mientras USCIS recibe comentarios públicos.",
+        "La fuente no especifica una fecha límite para presentar comentarios."
+      ],
+      "who": "Las personas que solicitan asilo en Estados Unidos, incluidas quienes tienen solicitudes afirmativas pendientes o futuras, y sus abogados.",
+      "action": "Los solicitantes de asilo y sus abogados deben revisar la regla una vez publicada en el Federal Register y considerar presentar comentarios si lo desean."
+    },
+    "zh": {
+      "title": "美国移民局新规,可不经面谈将庇护案件移交移民法官",
+      "summary": "美国公民及移民服务局（USCIS）宣布一项临时最终规则,旨在减少庇护案件积压。根据该规则,USCIS可以在不先对申请人进行面谈的情况下,将积极庇护申请移交给移民法官审理。该规则即刻生效,USCIS将在发布最终规则前接受公众意见。",
+      "points": [
+        "目前,USCIS审理未处于驱逐程序中的申请人提出的积极庇护申请,而移民法官审理已处于驱逐程序中的申请人提出的防御性庇护申请。",
+        "此前,当USCIS将案件移交给移民法官时,法官会对申请进行全新的重新审查。",
+        "新颁布的临时最终规则允许USCIS在不进行面谈的情况下将案件移交给移民法官。",
+        "USCIS表示,此举旨在缩短庇护案件的整体审理时间,减少积压案件数量。",
+        "该规则作为临时最终规则已立即生效,意味着在USCIS收集公众意见期间该规则已经适用。",
+        "来源未说明公众意见提交的截止日期。"
+      ],
+      "who": "在美国申请庇护的人员,包括已提交或将要提交积极庇护申请的人员及其代理律师受到影响。",
+      "action": "庇护申请人及律师应在该规则正式刊登于联邦公报后予以查阅,并可考虑在意见征集期间提交意见。"
+    },
+    "ja": {
+      "title": "USCIS、面談なしで庇護申請を移民判事へ移送可能とする新規則を発表",
+      "summary": "USCISは、庇護審査の滞留案件を減らすことを目的とした暫定最終規則を発表しました。この規則により、USCISは申請者への面談を行わずに積極的庇護申請を移民判事へ移送できるようになります。規則は即日施行され、USCISは最終規則発表前にパブリックコメントを受け付けます。",
+      "points": [
+        "現在、強制送還手続き中でない申請者の積極的庇護申請はUSCISが審査し、強制送還手続き中の申請者の防御的庇護申請は移民判事が審査しています。",
+        "従来、USCISが案件を移民判事へ移送すると、判事は申請内容を一から新たに審査していました。",
+        "新しい暫定最終規則では、USCISが面談を行わずに案件を移民判事へ移送できるようになります。",
+        "USCISは、この変更により審査にかかる総時間を短縮し、庇護申請の滞留を減らすことを目指すとしています。",
+        "この規則は暫定最終規則として即日施行されており、USCISがパブリックコメントを募集している間も既に適用されています。",
+        "情報源にはコメント提出の締め切りは明記されていません。"
+      ],
+      "who": "米国で庇護を申請している、または今後申請する予定のすべての人、およびその代理人である弁護士が対象です。",
+      "action": "庇護申請者や代理人は、連邦官報に掲載される規則の内容を確認し、必要に応じてパブリックコメントの提出を検討してください。"
+    }
+  },
+  "added": "2026-10-12T19:45Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "humanitarian",
+    "enforcement"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "07/27/2026"
+      },
+      {
+        "t": "p",
+        "x": "With this rule, USCIS can refer asylum applications to Immigration Judges without interviewing the alien"
+      },
+      {
+        "t": "p",
+        "x": "WASHINGTON – The United States Department of Homeland Security (DHS) released the following statement after U.S. Citizenship and Immigration Services (USCIS) announced a rule change designed to reduce the backlog in the asylum system."
+      },
+      {
+        "t": "p",
+        "x": "Currently, both USCIS and Department of Justice (DOJ) Immigration Judges adjudicate applications for asylum: USCIS adjudicates “affirmative” asylum applications for aliens who are not in removal proceedings, while Immigration Judges adjudicate “defensive” asylum applications for aliens who are in removal proceedings. Depending on the alien’s immigration status, USCIS will usually either adjudicate the application or refer it to an Immigration Judge, who will then conduct a new review of the application. This essentially allows an alien to get a second chance at asylum."
+      },
+      {
+        "t": "p",
+        "x": "The interim final rule allows USCIS to refer asylum applications to Immigration Judges without first interviewing the alien. This rule will shorten the total time that it takes asylum officers and Immigration Judges to adjudicate asylum applications. Among other reasons, USCIS is making this change to reduce the asylum backlog."
+      },
+      {
+        "t": "p",
+        "x": "“For far too long the asylum system has been exploited for purposes of delay and work authorization, not legitimate claims of protection,” said USCIS Director Joseph Edlow. “America’s asylum system exists to protect individuals who genuinely fear persecution and this rule will help ensure that resources are directed to the timely adjudication of those claims instead of to those seeking to use the system as a loophole.”"
+      },
+      {
+        "t": "p",
+        "x": "“One of the greatest barriers to effective immigration enforcement is intentional delay by illegal aliens and the open borders attorneys who represent them,” said DHS General Counsel James Percival. “My office works every day with the immigration components of DHS to improve efficiency and fulfill the President’s mandate. The rule would do just that.”"
+      },
+      {
+        "t": "p",
+        "x": "The new rule will go into effect immediately. USCIS will accept public comments and later issue a final rule responding to those comments."
+      },
+      {
+        "t": "p",
+        "x": "07/27/2026"
+      }
+    ],
+    "fetched": "2026-10-12T19:45Z",
+    "from": "page",
+    "chars": 2187
+  },
+  "full": {
+    "ko": [
+      "배포일",
+      "2026년 7월 27일",
+      "이 규칙에 따라 USCIS는 외국인을 면접하지 않고도 망명 신청을 이민판사에게 회부할 수 있습니다",
+      "워싱턴, 미국 국토안보부(DHS)는 미국 시민권이민서비스국(USCIS)이 망명 제도의 적체를 줄이기 위해 고안된 규칙 변경을 발표한 후 다음과 같은 성명을 발표하였습니다.",
+      "현재 USCIS와 법무부(DOJ) 이민판사는 모두 망명 신청을 심사하고 있습니다. USCIS는 추방 절차에 있지 않은 외국인의 '적극적' 망명 신청을 심사하며, 이민판사는 추방 절차에 있는 외국인의 '방어적' 망명 신청을 심사합니다. 외국인의 이민 신분에 따라 USCIS는 통상적으로 해당 신청을 직접 심사하거나 이민판사에게 회부하며, 이 경우 이민판사는 해당 신청에 대해 새로운 심사를 진행하게 됩니다. 이는 사실상 외국인에게 망명을 받을 두 번째 기회를 제공하는 결과를 초래합니다.",
+      "이번 중간최종규칙(interim final rule)은 USCIS가 외국인을 먼저 면접하지 않고도 망명 신청을 이민판사에게 회부할 수 있도록 합니다. 이 규칙은 망명 담당관과 이민판사가 망명 신청을 심사하는 데 소요되는 총 시간을 단축시킬 것입니다. 여러 이유 중에서도 USCIS는 망명 적체를 줄이기 위해 이러한 변경을 시행하는 것입니다.",
+      "“너무 오랫동안 망명 제도는 정당한 보호 주장을 위해서가 아니라 지연 및 취업 허가를 목적으로 악용되어 왔습니다.” 라고 USCIS 국장 조셉 에들로우(Joseph Edlow)는 말하였습니다. “미국의 망명 제도는 진정으로 박해를 두려워하는 개인을 보호하기 위해 존재하며, 이 규칙은 자원이 제도를 허점으로 악용하려는 자들이 아니라 그러한 주장들의 신속한 심사에 투입되도록 보장하는 데 도움이 될 것입니다.”",
+      "“효과적인 이민 법 집행에 있어 가장 큰 장벽 중 하나는 불법 체류 외국인들과 이들을 대리하는 국경 개방 성향의 변호사들에 의한 의도적인 지연입니다.” 라고 DHS 법률고문 제임스 퍼시벌(James Percival)은 말하였습니다. “제 사무실은 효율성을 개선하고 대통령의 지시를 이행하기 위해 매일 DHS의 이민 관련 부서들과 협력하고 있습니다. 이 규칙은 바로 그러한 역할을 수행할 것입니다.”",
+      "새로운 규칙은 즉시 발효됩니다. USCIS는 공공 의견을 접수한 후 이에 대응하는 최종 규칙을 추후 발표할 예정입니다.",
+      "2026년 7월 27일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "27/07/2026",
+      "Con esta norma, USCIS puede remitir las solicitudes de asilo a los jueces de inmigración sin entrevistar al extranjero",
+      "WASHINGTON – El Departamento de Seguridad Nacional (DHS) de los Estados Unidos emitió la siguiente declaración después de que los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) anunciaran un cambio normativo diseñado para reducir el atraso en el sistema de asilo.",
+      "Actualmente, tanto USCIS como los jueces de inmigración del Departamento de Justicia (DOJ) adjudican las solicitudes de asilo: USCIS adjudica las solicitudes de asilo “afirmativas” para los extranjeros que no se encuentran en procedimientos de remoción, mientras que los jueces de inmigración adjudican las solicitudes de asilo “defensivas” para los extranjeros que se encuentran en procedimientos de remoción. Dependiendo del estatus migratorio del extranjero, USCIS generalmente adjudicará la solicitud o la remitirá a un juez de inmigración, quien luego realizará una nueva revisión de la solicitud. Esto, en esencia, permite que un extranjero tenga una segunda oportunidad de obtener asilo.",
+      "La norma final provisional permite que USCIS remita las solicitudes de asilo a los jueces de inmigración sin entrevistar primero al extranjero. Esta norma reducirá el tiempo total que les toma a los oficiales de asilo y a los jueces de inmigración adjudicar las solicitudes de asilo. Entre otras razones, USCIS está realizando este cambio para reducir el atraso en los casos de asilo.",
+      "“Durante demasiado tiempo, el sistema de asilo ha sido explotado con fines de demora y de obtención de autorización de empleo, no para reclamos legítimos de protección”, declaró el Director de USCIS, Joseph Edlow. “El sistema de asilo de Estados Unidos existe para proteger a las personas que genuinamente temen ser perseguidas, y esta norma ayudará a garantizar que los recursos se destinen a la adjudicación oportuna de esos reclamos, en lugar de a quienes buscan usar el sistema como una laguna legal.”",
+      "“Una de las mayores barreras para una aplicación eficaz de las leyes de inmigración es la demora intencional por parte de extranjeros ilegales y de los abogados pro fronteras abiertas que los representan”, declaró el Asesor Jurídico General del DHS, James Percival. “Mi oficina trabaja todos los días con los componentes de inmigración del DHS para mejorar la eficiencia y cumplir con el mandato del Presidente. Esta norma logrará precisamente eso.”",
+      "La nueva norma entrará en vigor de inmediato. USCIS aceptará comentarios públicos y posteriormente emitirá una norma final en respuesta a dichos comentarios.",
+      "27/07/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年07月27日",
+      "根据本规则,美国公民及移民服务局(USCIS)可在不对外国人进行面谈的情况下,将庇护申请转交移民法官审理",
+      "华盛顿,美国国土安全部(DHS)在美国公民及移民服务局(USCIS)宣布一项旨在减少庇护系统积压案件的规则变更后,发表了以下声明。",
+      "目前,美国公民及移民服务局(USCIS)和美国司法部(DOJ)的移民法官均可裁决庇护申请:USCIS负责裁决未处于驱逐程序中的外国人提出的“主动申请型”庇护申请,而移民法官则负责裁决正处于驱逐程序中的外国人提出的“被动申请型”庇护申请。根据外国人的移民身份,USCIS通常会自行裁决该申请,或将其转交移民法官,由移民法官对该申请重新进行审查。这实质上使外国人获得了第二次申请庇护的机会。",
+      "该临时最终规则允许USCIS在不先对外国人进行面谈的情况下,将庇护申请转交移民法官。该规则将缩短庇护官员和移民法官裁决庇护申请所需的总时间。USCIS做出这一变更的原因之一,是为了减少庇护积压案件。",
+      "USCIS局长约瑟夫·埃德洛(Joseph Edlow)表示:“长期以来,庇护系统一直被滥用,成为拖延时间和获取工作许可的手段,而非用于提出合法的保护诉求。美国的庇护系统旨在保护那些真正担心遭受迫害的个人,本规则将有助于确保资源用于及时裁决此类诉求,而不是被那些试图利用该系统漏洞的人所占用。”",
+      "DHS总法律顾问詹姆斯·珀西瓦尔(James Percival)表示:“有效执行移民法律所面临的最大障碍之一,就是非法外国人及代表他们的支持开放边境的律师所进行的故意拖延。我的办公室每天都与DHS的移民相关部门合作,以提高效率并履行总统的授权要求。该规则正是为实现这一目标而制定的。”",
+      "新规则将立即生效。USCIS将接受公众意见,并随后针对这些意见发布最终规则。",
+      "2026年07月27日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年7月27日",
+      "本規則により、USCISは外国人に対する面接を実施することなく庇護申請を移民判事に付託することが可能となる",
+      "ワシントン, 米国国土安全保障省(DHS)は、米国市民権移民局(USCIS)が庇護制度における滞留案件の削減を目的とした規則改正を発表したことを受け、以下の声明を発表した。",
+      "現在、USCIS及び司法省(DOJ)の移民判事の両方が庇護申請の審査を行っている。USCISは退去強制手続中にない外国人による「積極的」庇護申請を審査し、一方、移民判事は退去強制手続中にある外国人による「防御的」庇護申請を審査する。外国人の在留資格に応じて、USCISは通常、当該申請を自ら審査するか、または移民判事に付託し、移民判事がその申請について改めて審査を行うことになる。これは実質的に、外国人に庇護を得るための二度目の機会を与えるものである。",
+      "この中間最終規則により、USCISは外国人に対する面接を実施することなく庇護申請を移民判事に付託することが可能となる。本規則は、庇護担当官及び移民判事が庇護申請を審査するのに要する総時間を短縮するものである。USCISがこの変更を行う理由の一つは、庇護案件の滞留を削減することにある。",
+      "「庇護制度は長きにわたり、正当な保護の主張のためではなく、遅延及び就労許可を得る目的で悪用されてきた」と、USCIS局長ジョセフ・エドロウ氏は述べた。「米国の庇護制度は、真に迫害を恐れる個人を保護するために存在するものであり、本規則は、制度を抜け道として利用しようとする者ではなく、そうした真正な主張の迅速な審査にリソースが振り向けられるよう徹底する一助となるであろう。」",
+      "「効果的な移民法執行に対する最大の障壁の一つは、不法外国人及びこれを代理するオープンボーダー弁護士による意図的な遅延行為である」と、DHS法律顧問ジェームズ・パーシヴァル氏は述べた。「私の部局は、DHSの移民関連部門と日々協力し、効率性の向上と大統領の指示の実現に努めている。本規則はまさにそれを実現するものである。」",
+      "新規則は直ちに施行される。USCISはパブリックコメントを受け付け、その後、これらのコメントに対応した最終規則を発行する予定である。",
+      "2026年7月27日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

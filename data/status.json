@@ -1,9 +1,9 @@
 {
-  "checked": "2026-10-12T19:25Z",
+  "checked": "2026-10-12T20:31Z",
   "sources": {
     "uscis_news": {
       "ok": true,
-      "items": 17,
+      "items": 320,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -18,15 +18,15 @@
     "dos_visa_news": {
       "ok": false,
       "items": 0,
-      "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 1개, 예시 [('https://www.cloudflare.com/5xx-error-landing', 'Cloudflare')])",
-      "fail_streak": 26,
+      "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "fail_streak": 27,
       "alert": false
     },
     "visa_bulletin": {
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 26,
+      "fail_streak": 27,
       "alert": false
     },
     "uscis_vb_chart": {
@@ -37,15 +37,15 @@
       "alert": true
     },
     "state_press": {
-      "ok": true,
-      "items": 3,
-      "error": null,
-      "fail_streak": 0,
+      "ok": false,
+      "items": 0,
+      "error": "https://www.state.gov/press-releases/: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.state.gov/press-releases/\", waiting until \"domcontentloaded\"\n",
+      "fail_streak": 1,
       "alert": true
     },
     "federal_register": {
       "ok": true,
-      "items": 20,
+      "items": 101,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -66,14 +66,14 @@
     },
     "presidential": {
       "ok": true,
-      "items": 5,
+      "items": 22,
       "error": null,
       "fail_streak": 0,
       "alert": true
     }
   },
   "translate": {
-    "done": 12,
+    "done": 11,
     "failed": 0,
     "key": true,
     "fail_streak": 0

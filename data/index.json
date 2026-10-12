@@ -2631,5 +2631,233 @@
       "I-589"
     ],
     "added": "2026-10-12T19:06Z"
+  },
+  {
+    "id": "2a28174cda0d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15096/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-07-27",
+    "effective_date": "2026-07-27",
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Texas Border"
+    ],
+    "added": "2026-10-12T19:46Z"
+  },
+  {
+    "id": "58a27d1ec11d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-announces-rule-change-to-asylum-system-to-reduce-backlog",
+    "published": "2026-07-27",
+    "effective_date": "2026-07-27",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "Asylum",
+      "Immigration Judges",
+      "Backlog",
+      "Interim Final Rule"
+    ],
+    "added": "2026-10-12T19:45Z"
+  },
+  {
+    "id": "332469a4380f",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-and-department-of-justice-announce-move-to-revoke-us-citizenship-from-10-naturalized-criminals",
+    "published": "2026-07-22",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Citizenship",
+      "Fraud",
+      "DOJ"
+    ],
+    "added": "2026-10-12T19:47Z"
+  },
+  {
+    "id": "4518a9be775f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14604/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-07-21",
+    "effective_date": "2026-07-21",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Arizona"
+    ],
+    "added": "2026-10-12T19:52Z"
+  },
+  {
+    "id": "164727d9479c",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
+    "published": "2026-07-21",
+    "effective_date": "2026-07-21",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Asylum",
+      "EAD",
+      "H.R.1",
+      "Correction",
+      "Form I-589"
+    ],
+    "added": "2026-10-12T19:50Z"
+  },
+  {
+    "id": "500155ce9952",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/illegal-alien-child-rapist-sentenced-for-immigration-fraud",
+    "published": "2026-07-21",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "Immigration Fraud",
+      "U Visa",
+      "Operation False Haven",
+      "ICE"
+    ],
+    "added": "2026-10-12T19:49Z"
+  },
+  {
+    "id": "0e9e99488a58",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility",
+    "published": "2026-07-20",
+    "effective_date": "2026-09-18",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "family",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Public Charge",
+      "DHS",
+      "USCIS",
+      "Final Rule",
+      "Adjustment of Status"
+    ],
+    "added": "2026-10-12T19:55Z"
+  },
+  {
+    "id": "94183684f01a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14560/flight-manifestbilling-agreement",
+    "published": "2026-07-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Paperwork Reduction Act",
+      "Information Collection"
+    ],
+    "added": "2026-10-12T19:54Z"
+  },
+  {
+    "id": "d2066d513537",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14584/safety-zones-delaware-river-dredging-marcus-hook-pa",
+    "published": "2026-07-20",
+    "effective_date": "2026-07-20",
+    "importance": "low",
+    "category": "notice",
+    "agency": "cbp",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Coast Guard",
+      "Safety Zone",
+      "Delaware River"
+    ],
+    "added": "2026-10-12T19:53Z"
+  },
+  {
+    "id": "9dbfbb27c30c",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+    "published": "2026-07-17",
+    "effective_date": "2026-09-15",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "students",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "F-1",
+      "J-1",
+      "I Visa",
+      "Duration of Status",
+      "SEVP"
+    ],
+    "added": "2026-10-12T20:10Z"
+  },
+  {
+    "id": "fce0e1f377d7",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-fiscal-year-2027-h-1b-cap",
+    "published": "2026-07-17",
+    "effective_date": null,
+    "importance": "high",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "h1b",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "Cap",
+      "FY2027"
+    ],
+    "added": "2026-10-12T20:09Z"
   }
 ]
