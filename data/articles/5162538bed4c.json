@@ -1,0 +1,1171 @@
+{
+  "id": "5162538bed4c",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13574/modification-and-clarification-of-the-national-customs-automation-program-test-regarding",
+  "original_title": "Modification and Clarification of the National Customs Automation Program Test Regarding Post-Summary Corrections",
+  "published": "2026-07-06",
+  "effective_date": "2026-08-05",
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Customs",
+    "Trade",
+    "CBP"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "CBP, 수입신고 사후정정(PSC) 시범사업 관련 규정 일부 수정 발표",
+      "summary": "미국 관세국경보호청(CBP)이 수입신고 사후정정(Post-Summary Correction, PSC) 전자시스템 시범사업과 관련해 세 가지 수정 사항과 한 가지 설명을 발표했습니다. 이 공지는 관세 및 무역 행정 절차에 관한 것으로 이민 비자나 체류 자격과는 관련이 없습니다.",
+      "points": [
+        "CBP는 PSC로 인한 관세, 세금, 수수료 증가분을 2026년 8월 5일부터 전자결제(ACH)로만 납부하도록 의무화했습니다.",
+        "참가자는 청산 전에 전액을 납부하거나 청산 시 청구서를 받을 때까지 기다릴 수 있으나, 이전 PSC에 대한 납부가 완료되지 않으면 후속 PSC를 제출할 수 없습니다.",
+        "청산이 300일을 초과해 유예된 경우, 반덤핑/상계관세 유예 등 특정 사유가 있으면 기존 300일 제출 기한을 넘겨 PSC를 제출할 수 있도록 허용했습니다.",
+        "청산 전에는 이자 납부를 받지 않으며, 이자는 청산 후 청구서가 발급된 뒤에만 납부해야 한다는 점을 명확히 했습니다.",
+        "이 내용은 미국 비자, 이민, 시민권 정책과는 직접적인 관련이 없는 무역/통관 행정 공지입니다."
+      ],
+      "who": "미국에 상품을 수입하는 수입업자 및 관세사(브로커)가 영향을 받으며, 이민 비자 신청자나 체류자에게는 적용되지 않습니다.",
+      "action": "해당 공지는 이민 관련 사안이 아니므로 비자 신청자나 체류자는 별도 조치가 필요하지 않습니다."
+    },
+    "en": {
+      "title": "CBP Modifies Post-Summary Correction (PSC) Customs Automation Test",
+      "summary": "U.S. Customs and Border Protection has announced three modifications and a clarification to its National Customs Automation Program test for post-summary corrections (PSCs), which allow importers to electronically correct entry summaries. The notice addresses customs duty payment procedures and is unrelated to visas, immigration status, or citizenship.",
+      "points": [
+        "Starting August 5, 2026, test participants must pay increased duties, taxes, and fees resulting from a PSC electronically via ACH, and can no longer pay by check or cash.",
+        "Participants may pay in full before liquidation or wait to be billed at liquidation, but cannot file a subsequent PSC until a prior PSC's balance is fully paid.",
+        "CBP is formalizing a practice allowing PSCs to be filed beyond the usual 300-day deadline when liquidation is suspended for reasons such as antidumping or countervailing duty suspension.",
+        "CBP clarified that interest on PSC-related increases will only be accepted after liquidation and billing, not beforehand.",
+        "This is a customs and trade compliance notice; it does not change any immigration, visa, or citizenship rules."
+      ],
+      "who": "Importers and customs brokers who participate in CBP's PSC electronic filing test program; it does not affect visa applicants or immigrants.",
+      "action": "No action is needed for immigration purposes; affected importers and brokers should review CBP's updated ACH payment and filing procedures."
+    },
+    "es": {
+      "title": "CBP modifica la prueba de corrección posterior al resumen (PSC) en el sistema aduanero",
+      "summary": "La Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) anunció tres modificaciones y una aclaración a su programa de prueba de corrección posterior al resumen (Post-Summary Correction, PSC), que permite a los importadores corregir electrónicamente los resúmenes de entrada aduanera. El aviso trata sobre procedimientos de pago de aranceles y no tiene relación con visas, estatus migratorio o ciudadanía.",
+      "points": [
+        "A partir del 5 de agosto de 2026, los participantes deberán pagar los incrementos de aranceles, impuestos y tarifas resultantes de un PSC exclusivamente mediante transferencia electrónica (ACH), sin opción de pago en cheque o efectivo.",
+        "Los participantes pueden pagar el monto completo antes de la liquidación o esperar a recibir la factura, pero no podrán presentar un nuevo PSC hasta pagar por completo el anterior.",
+        "CBP formaliza la práctica de permitir presentar un PSC fuera del plazo habitual de 300 dias cuando la liquidacion esta suspendida por motivos como derechos antidumping o compensatorios.",
+        "CBP aclaro que los intereses relacionados con un PSC solo se aceptaran despues de la liquidacion y la emision de la factura, no antes.",
+        "Este aviso es de naturaleza aduanera y comercial, y no modifica ninguna norma migratoria, de visas o de ciudadania."
+      ],
+      "who": "Importadores y agentes aduanales que participan en el programa de prueba PSC de CBP; no afecta a solicitantes de visa ni a inmigrantes.",
+      "action": "No se requiere ninguna accion relacionada con inmigracion; los importadores y agentes afectados deben revisar los nuevos procedimientos de pago ACH de CBP."
+    },
+    "zh": {
+      "title": "CBP修改报关单后更正(PSC)自动化测试规定",
+      "summary": "美国海关与边境保护局(CBP)宣布对其国家海关自动化计划(NCAP)下的报关单后更正(Post-Summary Correction, PSC)测试项目做出三项修改并提供一项说明。该通知涉及关税缴纳程序,与签证、移民身份或入籍事项无关。",
+      "points": [
+        "自2026年8月5日起,测试参与者必须通过自动清算所(ACH)电子方式缴纳因PSC产生的关税、税费增加额,不再接受支票或现金支付。",
+        "参与者可在清关前全额缴清,也可等待清关后收到账单再缴费,但在前一笔PSC款项未缴清前不得提交新的PSC。",
+        "CBP将此前的惯例正式化,允许在清关因反倾销税或反补贴税等原因被暂停超过300天的情况下,突破通常的300天PSC申报期限。",
+        "CBP明确,因PSC产生的利息只能在清关并开具账单后缴纳,清关前不予受理。",
+        "本通知属于海关贸易合规事项,不涉及任何签证、移民或入籍规则的变化。"
+      ],
+      "who": "参与CBP的PSC电子申报测试项目的进口商和报关行,不影响签证申请人或移民。",
+      "action": "该通知与移民事务无关,无需采取相关行动;受影响的进口商和报关行应查阅CBP更新后的ACH付款和申报流程。"
+    },
+    "ja": {
+      "title": "CBP、事後修正申告(PSC)の税関自動化テストを一部改正",
+      "summary": "米国税関国境警備局(CBP)は、輸入申告の事後修正(Post-Summary Correction, PSC)を電子的に行う国家税関自動化プログラム(NCAP)テストについて、3つの変更点と1つの明確化を発表しました。本通知は関税支払い手続きに関するものであり、ビザや在留資格、市民権には関係しません。",
+      "points": [
+        "2026年8月5日以降、PSCによる関税や税金、手数料の増加分は自動決済(ACH)による電子支払いのみとなり、小切手や現金での支払いはできなくなります。",
+        "参加者は清算前に全額を支払うか、清算後に請求を待って支払うことができますが、前回のPSC分の支払いが完了するまで新たなPSCは提出できません。",
+        "CBPは、反ダンピング税や相殺関税の一時停止など特定の事由により清算が300日を超えて保留されている場合、通常の300日の申告期限を超えてPSCを提出できる運用を正式化しました。",
+        "PSCに伴う利息の支払いは、清算後に請求書が発行されてからのみ受け付けられることが明確化されました。",
+        "本通知は税関・貿易実務に関するものであり、ビザや移民、市民権に関する規則の変更ではありません。"
+      ],
+      "who": "CBPのPSC電子申告テストプログラムに参加する輸入業者および通関業者が対象で、ビザ申請者や移民には影響しません。",
+      "action": "移民関連の対応は不要です。対象となる輸入業者や通関業者はCBPの新しいACH支払いおよび申告手続きを確認してください。"
+    }
+  },
+  "added": "2026-10-12T21:00Z",
+  "model": "claude-sonnet-5",
+  "agency": "cbp",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "U.S. Customs and Border Protection"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Customs and Border Protection, Department of Homeland Security."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "General notice."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "This document announces modifications and a clarification to U.S. Customs and Border Protection's (CBP) National Customs Automation Program (NCAP) test pertaining to the processing of post-summary corrections (PSCs) and the payment of increases in estimated duties, taxes, and fees resulting from a PSC. Except to the extent expressly announced or modified by this document, all aspects, rules, terms and conditions announced in previous notices regarding the test remain in effect. For ease of reference, the entire test is reproduced, with the changes, in this document."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The modifications announced in this test will become operational and participants must comply with the modifications as of August 5, 2026. The test will continue until concluded by an announcement published in the Federal Register ."
+      },
+      {
+        "t": "h",
+        "x": "ADDRESSES:"
+      },
+      {
+        "t": "p",
+        "x": "Comments concerning this test program may be submitted via email to Kellee Gross at kellee.m.gross@cbp.dhs.gov with a subject line identifier reading, “PSC Test.”"
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "For policy-related questions, contact Kellee Gross, Supervisory Trade Analyst, Office of Trade, at (202) 816-1699 or via email at kellee.m.gross@cbp.dhs.gov. For technical questions related to transmissions using the Automated Broker Interface (ABI), contact your assigned client representative. Interested parties without an assigned client representative should direct their questions to the Client Services Division via email at gmb.clientrepoutreach@cbp.dhs.gov."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "p",
+        "x": "On June 24, 2011, U.S. Customs and Border Protection (CBP) published a notice in the Federal Register that announced a plan to conduct a test allowing importers to electronically correct certain entry summaries prior to liquidation by filing a post-summary correction (PSC) using the Automated Broker Interface (hereinafter, referred to as the “PSC test”).[1] See76 FR 37136 (June 24, 2011). CBP modified and clarified various aspects of the PSC test in five subsequent Federal Register notices published on: November 19, 2013 (78 FR 69434); December 12, 2016 (81 FR 89482); January 9, 2017 (82 FR 2385); November 1, 2017 (82 FR 50656); and August 14, 2019 (84 FR 40430).[2] This document announces three modifications and a clarification to the test, which are discussed below."
+      },
+      {
+        "t": "p",
+        "x": "First, this document announces that test participants must transmit electronic payment of an increase in estimated duties, taxes, and fees resulting from a PSC via Automated Clearinghouse (ACH) starting on August 5, 2026 and will no longer be able to pay such increases via check or cash. However, test participants who are ready to make electronic payments prior to this date may do so. To make electronic payments, test participants must first enroll in either the ACH Debit process or ACH Credit process as described below in Section V. To pay via ACH Debit or ACH Credit, test participants must follow the regular payment process implemented by CBP for ACH payments found at https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach. For any questions regarding the ACH enrollment process, test participants ( printed page 41054) may contact CBP at ACH-CUSTOMS@cbp.dhs.gov."
+      },
+      {
+        "t": "p",
+        "x": "Second, this document announces that test participants may choose to pay the full amount of the increase in estimated duties, taxes, and fees resulting from a PSC prior to liquidation or wait to be billed at liquidation before making a payment. A test participant may not submit a subsequent PSC until the increase in duties, taxes, and fees resulting from a previously filed PSC is paid in full and processed by CBP. In other words, if only a partial payment of increased estimated duties, taxes, and fees resulting from a PSC is made, a test participant will not be able to submit a subsequent PSC."
+      },
+      {
+        "t": "p",
+        "x": "Third, this document modifies the test regarding the timeframe for filing PSCs in the case of suspended liquidations. This modification allows test participants to submit a PSC outside of the regular 300-day timeframe for filing a PSC for entries where liquidation of those entries is suspended beyond 300 days after the date of entry,[3] and the entries have an associated suspension basis (such as Countervailing Duty (CVD) Suspend, Antidumping Duty (ADD) Suspend, AD/CVD Suspend, Subject to Enforce and Protect Act (EAPA), or Subject to Court Injunction [4] ) at the time of PSC filing. CBP will post the allowable suspension bases on CBP.gov."
+      },
+      {
+        "t": "p",
+        "x": "This document further clarifies that interest payment on the increased estimated duties, taxes, and fees resulting from a PSC will not be accepted prior to liquidation. Test participants must pay any interest owed to CBP as a result of the PSC once CBP liquidates the entry and issues a bill, if necessary. This clarification is intended to ensure proper application of payments to open bills and improve enforcement of PSCs by CBP."
+      },
+      {
+        "t": "p",
+        "x": "For ease of reference, this document republishes the PSC test in its entirety, with updates to reflect the modifications and clarification made by this document in Section V below."
+      },
+      {
+        "t": "h",
+        "x": "I. Background on National Customs Automation Program"
+      },
+      {
+        "t": "p",
+        "x": "The National Customs Automation Program (NCAP) was established by Subtitle B of Title VI—Customs Modernization in the North American Free Trade Agreement (NAFTA) Implementation Act (Customs Modernization Act) (Pub. L. 103-182, 107 Stat. 2057, 2170, December 8, 1993) (19 U.S.C. 1411). Through NCAP, the thrust of customs modernization was on trade compliance and the development of ACE as the electronic data interchange (EDI) system authorized by CBP. ACE is an automated and electronic system for commercial trade processing which is intended to streamline business processes, facilitate growth in trade, ensure cargo security, and foster participation in global commerce, while ensuring compliance with U.S. laws and regulations and reducing costs for CBP and all of its communities of interest. The ability to meet these objectives depends on successfully modernizing CBP's business functions and the information technology that supports those functions. CBP's modernization efforts are accomplished through phased releases of ACE component functionality, which update the system and add new functionality."
+      },
+      {
+        "t": "h",
+        "x": "II. Authorization for the Test"
+      },
+      {
+        "t": "p",
+        "x": "The Customs Modernization Act authorizes the Commissioner of CBP to conduct limited test programs or procedures designed to evaluate planned components of the NCAP. Section 101.9(b) of title 19 of the Code of Federal Regulations (19 CFR 101.9(b)) provides for the testing of NCAP components. See T.D. 95-21 (60 FR 14211) (March 16, 1995); see also19 U.S.C. 1411-1413."
+      },
+      {
+        "t": "h",
+        "x": "III. General Description of the Test"
+      },
+      {
+        "t": "p",
+        "x": "Under the post-summary correction test, importers are allowed to file PSCs for certain entry summaries using the Automated Broker Interface (ABI). Importers and brokers are allowed to file a PSC to those pre-liquidation entry summaries that have been accepted by CBP and are fully paid and under CBP control. A PSC transaction contains all the data elements in the original entry summary and constitutes a complete replacement of that entry summary, as well as a complete replacement of any prior PSC that may have been made to the original entry summary, but does not replace the date of entry or the date of entry summary filing.[5]"
+      },
+      {
+        "t": "p",
+        "x": "When a PSC is filed, the filer of the original entry summary will be notified that the entry summary has been fully replaced by a PSC and the original filer will have full access to the new filing. Similarly, if a subsequent PSC is filed, it fully replaces the previously filed PSC, and the filer of the previously filed PSC will be notified that the previously filed PSC has been fully replaced by a new PSC and will have full access to the new filing. All the information in the latest version of the entry summary and all subsequent PSCs will be accessible to all the filers. Under the terms and conditions of this test, importers and filers acknowledge that by filing a PSC, they are making any commercial and confidential business information contained within the PSC available to all the parties described in this test, i.e., the filer of the original entry summary and any filers of a PSC correcting that entry summary. An importer should not file a PSC under the terms and conditions of this test if the importer does not want the original entry summary filer or any PSC filer for the same entry to have full access to all information contained within a subsequent PSC that was filed by a different filer."
+      },
+      {
+        "t": "p",
+        "x": "A PSC may be filed for the following entry types:"
+      },
+      {
+        "t": "li",
+        "x": "01—Consumption—Free and Dutiable"
+      },
+      {
+        "t": "li",
+        "x": "02—Consumption—Quota/Visa"
+      },
+      {
+        "t": "li",
+        "x": "03—Consumption—Antidumping/Countervailing Duty"
+      },
+      {
+        "t": "li",
+        "x": "06—Consumption—Foreign Trade Zone (FTZ)"
+      },
+      {
+        "t": "li",
+        "x": "07—Consumption—Antidumping/Countervailing Duty and Quota/Visa Combination"
+      },
+      {
+        "t": "li",
+        "x": "21—Warehouse"
+      },
+      {
+        "t": "li",
+        "x": "22—Re-Warehouse"
+      },
+      {
+        "t": "li",
+        "x": "23—Temporary Importation Bond (TIB)"
+      },
+      {
+        "t": "li",
+        "x": "31—Warehouse Withdrawal—Consumption"
+      },
+      {
+        "t": "li",
+        "x": "32—Warehouse Withdrawal—Quota"
+      },
+      {
+        "t": "p",
+        "x": "34—Warehouse Withdrawal—Antidumping/Countervailing Duty ( printed page 41055)"
+      },
+      {
+        "t": "li",
+        "x": "38—Warehouse Withdrawal—Antidumping/Countervailing Duty & Quota/Visa Combination"
+      },
+      {
+        "t": "li",
+        "x": "51—Defense Contract Administration Service Region (DCASR)"
+      },
+      {
+        "t": "li",
+        "x": "52—Government—Dutiable"
+      },
+      {
+        "t": "p",
+        "x": "Note that a PSC may be filed to change an entry type 01 to an entry type 03 and vice versa. No other changes to entry type are permitted."
+      },
+      {
+        "t": "h",
+        "x": "IV. Data Elements That Cannot Be Changed Via PSC"
+      },
+      {
+        "t": "p",
+        "x": "Certain data elements cannot be changed via PSC and CBP will reject any PSC submission containing changes to prohibited data elements. The following is a list of data elements that cannot be changed via PSC:"
+      },
+      {
+        "t": "li",
+        "x": "Importer of record"
+      },
+      {
+        "t": "li",
+        "x": "Date of entry"
+      },
+      {
+        "t": "li",
+        "x": "Date of entry summary"
+      },
+      {
+        "t": "li",
+        "x": "Bond"
+      },
+      {
+        "t": "li",
+        "x": "Surety code"
+      },
+      {
+        "t": "li",
+        "x": "Consolidated summary indicator"
+      },
+      {
+        "t": "li",
+        "x": "Data elements, such as classification of an article, that change an entry type 23 (TIB) to another entry type and vice versa"
+      },
+      {
+        "t": "li",
+        "x": "Port of entry"
+      },
+      {
+        "t": "li",
+        "x": "Cargo release certification request indicator (this includes Department of"
+      },
+      {
+        "t": "p",
+        "x": "Transportation (DOT) grouping; Food and Drug Administration (FDA) grouping; and Partner Government Agency (PGA) grouping)"
+      },
+      {
+        "t": "li",
+        "x": "Live entry indicator"
+      },
+      {
+        "t": "li",
+        "x": "Trade Agreement (19 U.S.C. 1520(d)) indicator for specific special programs"
+      },
+      {
+        "t": "li",
+        "x": "Reconciliation issue code"
+      },
+      {
+        "t": "li",
+        "x": "Preliminary statement print date"
+      },
+      {
+        "t": "li",
+        "x": "Periodic monthly statement"
+      },
+      {
+        "t": "li",
+        "x": "Statement client branch identifier"
+      },
+      {
+        "t": "li",
+        "x": "Location of goods code"
+      },
+      {
+        "t": "li",
+        "x": "Any release detail"
+      },
+      {
+        "t": "h",
+        "x": "V. Criteria and Rules for Filing a PSC"
+      },
+      {
+        "t": "p",
+        "x": "To file a PSC on an existing entry, the original entry summary or previously filed PSC must satisfy the following requirements:"
+      },
+      {
+        "t": "li",
+        "x": "The entry summary or previously filed PSC cannot be liquidated."
+      },
+      {
+        "t": "li",
+        "x": "The entry summary or previously filed PSC must be fully paid or revenue free, meaning no additional estimated duties, taxes, or fees are owed as a result of the PSC submission."
+      },
+      {
+        "t": "li",
+        "x": "The entry summary or previously filed PSC must be in “accepted” status.[6]"
+      },
+      {
+        "t": "li",
+        "x": "The entry summary or previously filed PSC cannot be under CBP review.[7] The filer will receive a message indicating “PSC not allowed under CBP Review” if a PSC is submitted and the entry summary or previously filed PSC is in CBP review."
+      },
+      {
+        "t": "li",
+        "x": "An entry summary or previously filed PSC that has been flagged for reconciliation may only be corrected by a PSC that does not affect the flagged issue."
+      },
+      {
+        "t": "li",
+        "x": "A PSC cannot be made on entries that are associated with a protest."
+      },
+      {
+        "t": "li",
+        "x": "When a PSC is filed that increases the test participant's estimated liability for duties, taxes, and fees, the test participant must submit electronic payment of those additional duties, taxes, and fees via ACH. CBP offers two ACH payment options, ACH Debit and ACH Credit. Importers wishing to participate in the PSC test must enroll in either the ACH Debit process or ACH Credit process by submitting the respective information to CBP.[8] Test participants must pay the increase in estimated duties, taxes, and fees, in full, prior to submitting another PSC. If no other PSC is filed, the test participant may choose to pay the full amount of the increase resulting from the PSC, other than AD/CVD, prior to liquidation or wait until CBP issues a bill at liquidation before making payment.[9] Test participants will not be able to file a subsequent PSC until the increase in estimated duties, taxes, and fees resulting from the previously filed PSC is paid in full and processed by CBP. In other words, if only a partial payment of increased estimated duties, taxes, and fees resulting from a PSC is made, a test participant will not be able to submit a subsequent PSC."
+      },
+      {
+        "t": "li",
+        "x": "When a PSC is filed that increases the test participant's liability for AD/CVD, the test participant must submit electronic payment of the additional AD/CVD via ACH within three business days of submitting the PSC. CBP offers two ACH payment options, ACH Debit and ACH Credit, as discussed above."
+      },
+      {
+        "t": "li",
+        "x": "Interest payments on a PSC made before liquidation will not be accepted. Test participants must pay any interest owed once CBP liquidates the entry and issues a bill, if necessary, for any interest that is due, consistent with19 CFR 24.3a."
+      },
+      {
+        "t": "li",
+        "x": "The PSC filing must be transmitted within 300 days of the date of entry or up to 15 days prior to the scheduled liquidation date, whichever date is earlier. However, if a test participant requests and is granted an extension of time for liquidation pursuant to19 CFR 159.12, a PSC must be transmitted up to 15 days prior to the scheduled liquidation date. A test participant also may submit a PSC outside of the 300-day timeframe for filing a PSC for entries where liquidation of those entries is suspended beyond 300 days after the date of entry, and the entries have an associated suspension basis (such as CVD Suspend, ADD Suspend, AD/CVD Suspend, Subject to EAPA, or Subject to Court Injunction) at the time of the PSC filing. CBP will post the allowable suspension bases on CBP.gov."
+      },
+      {
+        "t": "li",
+        "x": "A text explanation and at least one reason code (both to be submitted electronically with the PSC entry summary) are required for each PSC submission."
+      },
+      {
+        "t": "li",
+        "x": "There is no limitation on the number of PSCs that can be submitted for any one entry, so long as the PSC meets all criteria, rules, and requirements of the PSC test."
+      },
+      {
+        "t": "h",
+        "x": "VI. Bonding and PSC Filing"
+      },
+      {
+        "t": "p",
+        "x": "For purposes of the test, the same bond and surety remain obligated on an entry for which a PSC is filed. The following guidelines apply:"
+      },
+      {
+        "t": "li",
+        "x": "If, prior to a PSC filing, a superseding bond is filed pursuant to19 CFR 142.4(b) or 19 CFR 141.20 (as authorized by 19 U.S.C. 1485(d)), that bond will continue to be obligated for the entry. All obligations vesting under the original entry, prior to the filing of a PSC, remain vested and are not obviated by a subsequent PSC filing."
+      },
+      {
+        "t": "li",
+        "x": "If a PSC is filed and accepted by CBP, the bond obligated at the time of entry, as well as any subsequent superseding bonds, remain obligated accordingly for the original entry and the entry summary against which the PSC was filed."
+      },
+      {
+        "t": "li",
+        "x": "New bond data will not be accepted through a PSC."
+      },
+      {
+        "t": "h",
+        "x": "VII. Rejection of a PSC"
+      },
+      {
+        "t": "p",
+        "x": "CBP retains the authority to reject any PSC that may be found to be incomplete ( printed page 41056) or not in compliance with the requirements described in this test. A PSC which has been rejected in ACE back to the filer may be re-transmitted within two (2) business days of the rejection. If there is no timely re-transmission, CBP will correct the entry summary and set the entry summary for immediate liquidation, unless the liquidation of such previously accepted entry summary has been suspended pursuant to statute or court order."
+      },
+      {
+        "t": "h",
+        "x": "VIII. Deemed Liquidation"
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to 19 U.S.C. 1504(a), consumption entries that are “deemed liquidated” must be liquidated at the rate of duty, value, quantity and amount of duties asserted by the importer of record. For purposes of this test, when a PSC has been properly filed, CBP interprets the statutory phrase “deemed liquidated” to mean liquidation at the rate of duty, value, quantity and amount of duties asserted by the importer of record at the time of CBP's acceptance of the most recently accepted PSC."
+      },
+      {
+        "t": "h",
+        "x": "IX. Misconduct Under the Test"
+      },
+      {
+        "t": "p",
+        "x": "A test participant may be subject to civil and criminal penalties, administrative sanctions, liquidated damages, and/or suspension from this test for any of the following:"
+      },
+      {
+        "t": "li",
+        "x": "Failure to follow the terms and conditions of this test."
+      },
+      {
+        "t": "li",
+        "x": "Failure to exercise reasonable care in the execution of participant obligations."
+      },
+      {
+        "t": "li",
+        "x": "Failure to abide by applicable laws and regulations."
+      },
+      {
+        "t": "li",
+        "x": "Failure to timely deposit estimated duties, taxes, and fees, including any applicable AD/CVD cash deposits."
+      },
+      {
+        "t": "li",
+        "x": "Misuse of the ACE Portal."
+      },
+      {
+        "t": "li",
+        "x": "Engagement in any unauthorized disclosure."
+      },
+      {
+        "t": "li",
+        "x": "Engagement in any unauthorized access to the ACE Portal."
+      },
+      {
+        "t": "p",
+        "x": "Suspensions for misconduct will be administered by the Executive Director, Trade Programs, Office of Trade. A written notice proposing suspension will be issued to the participant that apprises the participant of the facts or conduct warranting a suspension, informs the participant of the date the suspension will begin, and provides an opportunity to demonstrate or achieve compliance with all lawful requirements. Any decision proposing a suspension of a participant may be appealed in writing to the Executive Assistant Commissioner, Office of Trade, within 15 calendar days of the notification date. An appeal of a proposed suspension must address the facts or conduct charges contained in the notice and state how compliance will be achieved. In cases of willful misconduct or where public health interests or safety are concerned, a suspension may be effective immediately."
+      },
+      {
+        "t": "h",
+        "x": "X. Confidentiality"
+      },
+      {
+        "t": "p",
+        "x": "Data submitted and entered into ACE may include confidential commercial or financial information which may be protected under the Trade Secrets Act (18 U.S.C. 1905), and the Privacy Act (5 U.S.C. 552a). However, participation in this or any of the previous ACE tests is not confidential and, therefore, upon receipt of a written Freedom of Information Act request, the name(s) of an approved participant(s) will be disclosed by CBP in accordance with 5 U.S.C. 552."
+      },
+      {
+        "t": "h",
+        "x": "XI. Paperwork Reduction Act"
+      },
+      {
+        "t": "p",
+        "x": "The Paperwork Reduction Act (PRA) of 1995 (44 U.S.C. 3507(d)) requires that CBP consider the impact of paperwork and other information collection burdens imposed on the public. An agency may not conduct or sponsor, and an individual is not required to respond to, a collection of information unless the collection of information displays a valid Office of Management and Budget (OMB) control number assigned by OMB. This PSC test modification does not involve any material change to an existing approved information collection. The PRA does not apply to banking account information required as part of the ACH Debit enrollment for the PSC test."
+      },
+      {
+        "t": "h",
+        "x": "XII. Suspension of Regulations"
+      },
+      {
+        "t": "p",
+        "x": "For purposes of this test, any provision in title 19 of the CFR including, but not limited to, the provisions found in parts 141, 142, 143 and 151 thereof relating to entry summary filing and processing that are inconsistent with the requirements set forth in this notice are waived for test participants for the duration of the test. See19 CFR 101.9(b). This document does not waive any recordkeeping requirements found in 19 CFR part 163 and the Appendix to part 163 (commonly known as the “(a)(1)(A) list”)."
+      },
+      {
+        "t": "p",
+        "x": "Susan S. Thomas,"
+      },
+      {
+        "t": "p",
+        "x": "Executive Assistant Commissioner, Office of Trade."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. For information regarding the PSC test, see https://www.cbp.gov/​trade/​programs-administration/​entry-summary/​post-summary-correction."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2. See 82 FR 4901 (January 17, 2017); 82 FR 26699 (June 8, 2017); 82 FR 29910 (June 30, 2017) (announcing delayed effective date for test modifications announced on December 12, 2016, and January 9, 2017)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3. In practice, CBP has permitted PSCs outside of the 300-day timeframe for entries for which liquidation is suspended beyond 300 days after date of entry since 2022, as reflected on the CBP web page (CBP.gov) and in the Automated Commercial Environment (ACE) Entry Summary Business Rules and Processes document ( https://www.cbp.gov/​document/​guides/​ace-entry-summary-business-process). This Federal Register notice formalizes this modification."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4. Each suspension basis, identified by a specific code in ACE, indicates the reason for a suspension of the entry summary liquidation. See CBP, ACE CATAIR Entry Summary Query (v26), available at https://www.cbp.gov/​document/​guidance/​ace-catair-entry-summary-query (last modified May 11, 2026)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "5. The phrase “complete replacement” means the replacement of all data elements in an original entry summary filed in ACE with new data elements found in a superseding PSC. A complete replacement does not mean that the replaced data is null and void. Any obligations that vested under the original entry or entry summary remain valid. Obligations that vest subsequent to the replacement are attributable to the PSC. For example, when an entry summary is filed outside the 10 working days after cargo release, and liquidated damages are incurred, the filing of a PSC on that entry summary is deemed to “replace” the entry summary data elements but does not cancel the liquidated damages that were incurred. The date of entry and date of entry summary filing, and all legal obligations flowing therefrom, remain unchanged. CBP updated the definition of “complete or full replacement” (originally issued in a Federal Register notice published on November 19, 2013 (78 FR 69434)) in this notice for clarity."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "6. “Accepted” status is defined as an entry summary or previously filed PSC that has passed through all technical edits and validations. The entry summary or previously filed PSC must be in “CBP control,” accepted and fully paid, and not in “trade control.” The entry summary or previously filed PSC is in “trade control” when it is successfully accepted in the system and not on a statement. The entry summary or previously filed PSC is in “CBP control” when it is placed on a statement. See 76 FR 37136 (June 24, 2011)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "7. The term “under U.S. Customs and Border Protection (CBP) review” means the period of time when CBP is reviewing the data elements and supporting documents of either an original entry summary or PSC prior to CBP's disposition of the original entry summary or PSC. See 78 FR 69434 (Nov. 19, 2013)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "8. Instructions on how to apply and make payments via ACH may be found at https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "9. In accordance with 19 U.S.C. 1505 and 19 CFR 24.3a, the interest for any underpayment will be assessed upon liquidation, accruing from the date the importer of record is required to deposit estimated duties, taxes, fees until the date on which full payment is made (if the payment is made prior to liquidation), or otherwise until the date of the liquidation with the associated bill."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-13574 Filed 7-2-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-14-P"
+      }
+    ],
+    "fetched": "2026-10-12T21:00Z",
+    "from": "federalregister.gov",
+    "chars": 23360
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 편 번호 및 각 부(part)의 번호",
+      "기관 도켓 번호/기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국토안보부(Department of Homeland Security)",
+      "미국 세관국경보호청(U.S. Customs and Border Protection)",
+      "기관:",
+      "미국 세관국경보호청(CBP), 국토안보부(DHS).",
+      "조치:",
+      "일반 공고.",
+      "요약:",
+      "이 문서는 사후 신고서 정정(post-summary correction, 이하 “PSC”)의 처리 및 PSC로 인해 증가한 추정 관세, 세금 및 수수료의 납부와 관련된 미국 세관국경보호청(CBP)의 국가 세관 자동화 프로그램(National Customs Automation Program, NCAP) 테스트에 대한 수정 사항 및 명확화 사항을 공고합니다. 이 문서에서 명시적으로 공고되거나 수정된 범위를 제외하고는, 해당 테스트에 관하여 이전 공고에서 발표된 모든 측면, 규칙, 조건 및 요건은 계속하여 효력을 유지합니다. 참조의 편의를 위하여, 변경 사항을 반영한 전체 테스트 내용을 이 문서에 다시 수록합니다.",
+      "일자:",
+      "이 테스트에서 공고된 수정 사항은 2026년 8월 5일부터 시행되며, 참가자는 해당 날짜부터 수정 사항을 준수하여야 합니다. 이 테스트는 연방관보(Federal Register)에 공고가 게재되어 종료될 때까지 계속됩니다.",
+      "주소:",
+      "본 테스트 프로그램에 관한 의견은 Kellee Gross에게 이메일(kellee.m.gross@cbp.dhs.gov)로 제출할 수 있으며, 제목란에는 “PSC Test”라고 기재하여야 합니다.",
+      "추가 정보 문의처:",
+      "정책 관련 문의 사항은 무역국(Office of Trade) 감독 무역분석관(Supervisory Trade Analyst) Kellee Gross에게 전화 (202) 816-1699 또는 이메일 kellee.m.gross@cbp.dhs.gov로 문의하시기 바랍니다. 자동화된 중개인 인터페이스(Automated Broker Interface, ABI)를 이용한 전송과 관련된 기술적인 문의 사항은 담당 고객 담당자(client representative)에게 문의하시기 바랍니다. 담당 고객 담당자가 지정되어 있지 않은 이해관계자는 고객 서비스과(Client Services Division)에 이메일 gmb.clientrepoutreach@cbp.dhs.gov로 문의하시기 바랍니다.",
+      "보충 정보:",
+      "2011년 6월 24일, 미국 세관국경보호청(CBP)은 연방관보에 공고를 게재하여, 수입자가 자동화된 중개인 인터페이스(ABI)를 이용하여 사후 신고서 정정(post-summary correction, PSC)을 신고함으로써 청산(liquidation) 이전에 특정 신고 요약서를 전자적으로 정정할 수 있도록 허용하는 테스트를 실시할 계획을 공고하였습니다(이하 “PSC 테스트”라 함).[1] 76 FR 37136(2011년 6월 24일) 참조. CBP는 이후 다음과 같이 다섯 차례에 걸쳐 연방관보 공고를 통하여 PSC 테스트의 여러 측면을 수정하고 명확히 하였습니다. 2013년 11월 19일(78 FR 69434), 2016년 12월 12일(81 FR 89482), 2017년 1월 9일(82 FR 2385), 2017년 11월 1일(82 FR 50656), 그리고 2019년 8월 14일(84 FR 40430).[2] 이 문서는 아래에서 논의하는 바와 같이 해당 테스트에 대한 세 가지 수정 사항과 한 가지 명확화 사항을 공고합니다.",
+      "첫째, 이 문서는 테스트 참가자가 2026년 8월 5일부터 PSC로 인하여 증가한 추정 관세, 세금 및 수수료를 자동결제시스템(Automated Clearinghouse, ACH)을 통하여 전자적으로 납부하여야 하며, 더 이상 수표 또는 현금으로 해당 증가분을 납부할 수 없다는 것을 공고합니다. 다만, 해당 날짜 이전에 전자 납부를 할 준비가 된 테스트 참가자는 그렇게 할 수 있습니다. 전자 납부를 하기 위하여, 테스트 참가자는 먼저 아래 제V절에서 설명하는 ACH 차변(Debit) 절차 또는 ACH 대변(Credit) 절차 중 하나에 등록하여야 합니다. ACH 차변 또는 ACH 대변을 통하여 납부하려면, 테스트 참가자는 https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach 에 게시된 CBP가 시행하는 ACH 납부에 관한 일반 납부 절차를 따라야 합니다. ACH 등록 절차에 관한 문의 사항이 있는 테스트 참가자는(인쇄본 41054면) CBP에 ACH-CUSTOMS@cbp.dhs.gov로 문의할 수 있습니다.",
+      "둘째, 이 문서는 테스트 참가자가 PSC로 인하여 증가한 추정 관세, 세금 및 수수료의 전액을 청산 이전에 납부하는 방식을 선택하거나, 청산 시 청구서를 받을 때까지 기다렸다가 납부하는 방식을 선택할 수 있음을 공고합니다. 테스트 참가자는 이전에 신고한 PSC로 인하여 증가한 관세, 세금 및 수수료가 전액 납부되고 CBP에 의하여 처리되기 전까지는 후속 PSC를 신고할 수 없습니다. 다시 말해, PSC로 인하여 증가한 추정 관세, 세금 및 수수료의 일부만 납부된 경우, 테스트 참가자는 후속 PSC를 신고할 수 없습니다.",
+      "셋째, 본 문서는 청산이 유예된 경우 PSC 제출 기한에 관한 테스트를 수정합니다. 이 수정 사항은 반입일로부터 300일을 초과하여 해당 반입 건의 청산이 유예되고,[3] PSC 제출 당시 해당 반입 건이 유예 사유(예: 상계관세(CVD) 유예, 반덤핑관세(ADD) 유예, AD/CVD 유예, 집행보호법(EAPA) 적용 대상 또는 법원 금지명령[4] 적용 대상 등)와 연관되어 있는 경우, 테스트 참가자가 통상적인 PSC 제출 기한인 300일을 초과하여 PSC를 제출할 수 있도록 허용합니다. 세관국경보호청(CBP)은 허용 가능한 유예 사유를 CBP.gov에 게시할 예정입니다.",
+      "본 문서는 또한 PSC로 인하여 증가한 추정 관세, 세금 및 수수료에 대한 이자 납부는 청산 이전에는 접수되지 않는다는 점을 명확히 합니다. 테스트 참가자는 CBP가 해당 반입 건을 청산하고 필요한 경우 청구서를 발급한 이후에 PSC로 인하여 CBP에 납부하여야 할 모든 이자를 납부하여야 합니다. 이러한 명확화는 미결 청구서에 대한 납부의 적절한 적용을 보장하고 CBP의 PSC 집행을 개선하기 위한 것입니다.",
+      "참고의 편의를 위하여, 본 문서는 아래 제V절에서 본 문서에 의한 수정 및 명확화 사항을 반영하여 PSC 테스트 전문을 재공표합니다.",
+      "I. 국가관세자동화프로그램에 관한 배경",
+      "국가관세자동화프로그램(NCAP)은 북미자유무역협정(NAFTA) 이행법(관세현대화법)(공법 제103-182호, 107 Stat. 2057, 2170, 1993년 12월 8일) (19 U.S.C. 1411)의 제VI편, 소편제B호(관세현대화)에 의하여 설립되었습니다. NCAP를 통하여 관세현대화의 중점은 무역준수 및 CBP가 승인한 전자데이터교환(EDI) 시스템인 자동상업환경(ACE)의 개발에 두어졌습니다. ACE는 상업무역처리를 위한 자동화된 전자시스템으로서, 업무 절차를 간소화하고, 무역 성장을 촉진하며, 화물 보안을 확보하고, 미국 법률 및 규정의 준수를 보장하는 동시에 CBP 및 그 모든 이해관계자 공동체의 비용을 절감하면서 세계무역에의 참여를 증진하기 위한 것입니다. 이러한 목표 달성 능력은 CBP의 업무 기능 및 그러한 기능을 지원하는 정보기술을 성공적으로 현대화하는 것에 달려 있습니다. CBP의 현대화 노력은 시스템을 갱신하고 새로운 기능을 추가하는 ACE 구성요소 기능의 단계적 출시를 통하여 이루어집니다.",
+      "II. 테스트에 대한 승인",
+      "관세현대화법은 CBP 청장이 NCAP의 계획된 구성요소를 평가하기 위하여 설계된 제한적 테스트 프로그램 또는 절차를 시행하도록 승인하고 있습니다. 연방규정집(CFR) 제19편 제101.9조(b)항(19 CFR 101.9(b))은 NCAP 구성요소의 테스트에 관하여 규정하고 있습니다. T.D. 95-21(60 FR 14211)(1995년 3월 16일) 참조. 또한 19 U.S.C. 1411-1413 참조.",
+      "III. 테스트에 대한 일반적 설명",
+      "사후 세관신고 정정(PSC) 테스트에 따라, 수입업자는 자동브로커인터페이스(ABI)를 이용하여 특정 반입신고서에 대하여 PSC를 제출할 수 있습니다. 수입업자 및 브로커는 CBP에 의하여 접수되고, 전액 납부가 완료되었으며, CBP의 관리하에 있는 청산 이전 반입신고서에 대하여 PSC를 제출할 수 있습니다. PSC 거래는 원래의 반입신고서에 포함된 모든 데이터 요소를 포함하며, 해당 원래의 반입신고서를 완전히 대체하고, 그 원래의 반입신고서에 대하여 이전에 이루어진 PSC가 있는 경우 이를 완전히 대체하지만, 반입일 또는 반입신고서 제출일은 대체하지 아니합니다.[5]",
+      "PSC가 제출되면, 원래 신고요약서(entry summary)의 제출자는 해당 신고요약서가 PSC로 완전히 대체되었다는 통지를 받게 되며, 원래 제출자는 새로운 제출 내용에 대하여 전체 접근 권한을 가지게 됩니다. 마찬가지로, 후속 PSC가 제출되는 경우, 이는 이전에 제출된 PSC를 완전히 대체하게 되며, 이전에 제출된 PSC의 제출자는 해당 PSC가 새로운 PSC로 완전히 대체되었다는 통지를 받게 되며 새로운 제출 내용에 대하여 전체 접근 권한을 가지게 됩니다. 신고요약서의 최신 버전 및 모든 후속 PSC에 포함된 모든 정보는 모든 제출자가 접근할 수 있습니다. 본 시험 프로그램의 조건에 따라, 수입업자 및 제출자는 PSC를 제출함으로써 해당 PSC에 포함된 모든 상업적 및 기밀 영업 정보를 본 시험 프로그램에서 설명된 모든 당사자, 즉 원래 신고요약서의 제출자 및 해당 신고요약서를 정정하는 PSC의 모든 제출자가 이용할 수 있도록 하는 것에 동의하는 것임을 인지하여야 합니다. 수입업자가 다른 제출자가 제출한 후속 PSC에 포함된 모든 정보에 대하여 원래 신고요약서 제출자 또는 동일한 신고에 대한 다른 PSC 제출자가 전체 접근 권한을 가지는 것을 원하지 않는 경우, 해당 수입업자는 본 시험 프로그램의 조건에 따라 PSC를 제출해서는 안 됩니다.",
+      "PSC는 다음의 신고유형에 대하여 제출될 수 있습니다.",
+      "01, 소비, 면세 및 과세",
+      "02, 소비, 쿼터/비자",
+      "03, 소비, 반덤핑/상계관세",
+      "06, 소비, 자유무역지대(FTZ)",
+      "07, 소비, 반덤핑/상계관세 및 쿼터/비자 결합",
+      "21, 창고",
+      "22, 재창고",
+      "23, 임시수입보증(TIB)",
+      "31, 창고인출, 소비",
+      "32, 창고인출, 쿼터",
+      "34, 창고인출, 반덤핑/상계관세 ( 인쇄페이지 41055)",
+      "38, 창고인출, 반덤핑/상계관세 및 쿼터/비자 결합",
+      "51, 국방계약관리청 지역(DCASR)",
+      "52, 정부, 과세",
+      "PSC는 신고유형 01을 신고유형 03으로 변경하거나 그 반대로 변경하기 위하여 제출될 수 있다는 점에 유의하시기 바랍니다. 그 외의 신고유형 변경은 허용되지 않습니다.",
+      "IV. PSC를 통하여 변경할 수 없는 데이터 항목",
+      "특정 데이터 항목은 PSC를 통하여 변경할 수 없으며, 세관국경보호청(CBP)은 금지된 데이터 항목에 대한 변경 사항을 포함하는 PSC 제출을 거부합니다. 다음은 PSC를 통하여 변경할 수 없는 데이터 항목의 목록입니다.",
+      "신고인(Importer of record)",
+      "신고일자",
+      "신고요약서 작성일자",
+      "보증서",
+      "보증인 코드",
+      "통합 요약 지표",
+      "물품의 분류 등 신고 유형 23(TIB)을 다른 신고 유형으로 변경하거나 그 반대로 변경시키는 데이터 요소",
+      "입국항",
+      "화물 반출 증명 요청 표시기(이는 교통부(DOT) 그룹, 식품의약국(FDA) 그룹 및 정부기관 협력(PGA) 그룹을 포함합니다)",
+      "운송수단 교통부(DOT) 그룹, 식품의약국(FDA) 그룹 및 정부기관 협력(PGA) 그룹",
+      "실시간 입국신고 표시기",
+      "특정 특별 프로그램에 대한 무역협정(19 U.S.C. 1520(d)) 표시기",
+      "조정 쟁점 코드",
+      "예비 명세서 인쇄일자",
+      "정기 월간 명세서",
+      "명세서 고객 지점 식별자",
+      "물품 소재지 코드",
+      "반출 상세 내역",
+      "V. PSC 제출을 위한 기준 및 규정",
+      "기존 신고 건에 대해 PSC를 제출하려면 원본 신고 명세서 또는 이전에 제출된 PSC가 다음 요건을 충족해야 합니다.",
+      "신고 명세서 또는 이전에 제출된 PSC는 청산(liquidation)되지 않은 상태여야 합니다.",
+      "신고 명세서 또는 이전에 제출된 PSC는 완납되었거나 세수 부담이 없는 상태여야 하며, 이는 PSC 제출 결과로 추가로 납부해야 할 추정 관세, 세금 또는 수수료가 없음을 의미합니다.",
+      "신고 명세서 또는 이전에 제출된 PSC는 \"승인됨(accepted)\" 상태여야 합니다.[6]",
+      "신고 명세서 또는 이전에 제출된 PSC는 세관국경보호청(CBP)의 심사 대상이 아니어야 합니다.[7] PSC가 제출되었을 때 해당 신고 명세서 또는 이전에 제출된 PSC가 CBP 심사 중인 경우, 신고인은 \"CBP 심사 중에는 PSC가 허용되지 않음\"이라는 메시지를 받게 됩니다.",
+      "조정(reconciliation)을 위해 플래그가 지정된 신고 명세서 또는 이전에 제출된 PSC는 해당 플래그 지정 사항에 영향을 미치지 않는 PSC에 한하여 정정할 수 있습니다.",
+      "이의신청(protest)과 관련된 신고 건에 대해서는 PSC를 작성할 수 없습니다.",
+      "시험 참여자의 관세, 세금 및 수수료에 대한 추정 책임을 증가시키는 PSC가 제출되는 경우, 시험 참여자는 ACH를 통하여 해당 추가 관세, 세금 및 수수료에 대한 전자 결제를 제출하여야 합니다. 세관국경보호청(CBP)은 ACH 직불(ACH Debit)과 ACH 신용(ACH Credit)이라는 두 가지 ACH 결제 방식을 제공합니다. PSC 시험에 참여하고자 하는 수입업자는 해당 정보를 CBP에 제출함으로써 ACH 직불 절차 또는 ACH 신용 절차 중 하나에 등록하여야 합니다.[8] 시험 참여자는 다른 PSC를 제출하기 전에 증가된 추정 관세, 세금 및 수수료 전액을 납부하여야 합니다. 다른 PSC가 제출되지 아니하는 경우, 시험 참여자는 반덤핑관세/상계관세(AD/CVD)를 제외한 PSC로 인한 증가분 전액을 청산 전에 납부하거나, 청산 시 CBP가 청구서를 발급할 때까지 납부를 기다리는 것 중에서 선택할 수 있습니다.[9] 시험 참여자는 이전에 제출된 PSC로 인한 추정 관세, 세금 및 수수료의 증가분이 전액 납부되어 CBP에 의하여 처리될 때까지 후속 PSC를 제출할 수 없습니다. 다시 말하면, PSC로 인한 증가된 추정 관세, 세금 및 수수료의 일부만 납부된 경우, 시험 참여자는 후속 PSC를 제출할 수 없습니다.",
+      "시험 참여자의 AD/CVD에 대한 책임을 증가시키는 PSC가 제출되는 경우, 시험 참여자는 PSC 제출 후 3영업일 이내에 ACH를 통하여 추가 AD/CVD에 대한 전자 결제를 제출하여야 합니다. 앞서 설명한 바와 같이 CBP는 ACH 직불과 ACH 신용이라는 두 가지 ACH 결제 방식을 제공합니다.",
+      "청산 전에 이루어지는 PSC에 대한 이자 납부는 수리되지 아니합니다. 시험 참여자는 19 CFR 24.3a에 따라, CBP가 해당 수입신고건을 청산하고 필요한 경우 미납 이자에 대한 청구서를 발급한 후, 납부하여야 할 이자가 있다면 이를 납부하여야 합니다.",
+      "PSC 제출은 수입신고일로부터 300일 이내, 또는 예정된 청산일 15일 전까지 중 더 이른 날짜까지 전송되어야 합니다. 다만, 시험 참여자가 19 CFR 159.12에 따라 청산 기한 연장을 요청하여 승인받은 경우, PSC는 예정된 청산일 15일 전까지 전송되어야 합니다. 시험 참여자는 또한 수입신고일로부터 300일을 초과하여 청산이 보류된 수입신고건으로서, PSC 제출 당시 관련 보류 사유(예: CVD 보류, ADD 보류, AD/CVD 보류, EAPA 대상, 또는 법원 금지명령 대상 등)가 있는 수입신고건에 대하여는 300일의 PSC 제출 기한 외에도 PSC를 제출할 수 있습니다. CBP는 허용되는 보류 사유를 CBP.gov에 게시할 것입니다.",
+      "각 PSC 제출에는 텍스트 설명과 최소 하나 이상의 사유 코드(둘 다 PSC 수입신고서와 함께 전자적으로 제출되어야 함)가 요구됩니다.",
+      "PSC가 PSC 시험의 모든 기준, 규칙 및 요건을 충족하는 한, 하나의 수입신고건에 대하여 제출할 수 있는 PSC의 수에는 제한이 없습니다.",
+      "VI. 보증(Bonding)과 PSC 제출",
+      "본 시험의 목적상, PSC가 제출된 수입신고건에 대하여는 동일한 보증서 및 보증인이 계속하여 의무를 부담합니다. 다음의 지침이 적용됩니다.",
+      "PSC 제출 전에 19 CFR 142.4(b) 또는 19 CFR 141.20(19 U.S.C. 1485(d)에 의하여 허용됨)에 따라 대체 보증서가 제출된 경우, 해당 보증서는 해당 수입신고건에 대하여 계속 의무를 부담합니다. PSC 제출 전에 원 수입신고에 따라 발생한 모든 의무는 그대로 유지되며, 후속 PSC 제출에 의하여 소멸되지 아니합니다.",
+      "PSC가 제출되어 CBP에 의하여 수리된 경우, 수입신고 당시에 의무를 부담한 보증서 및 그 이후의 모든 대체 보증서는 PSC가 제출된 원 수입신고건 및 수입신고서에 대하여 계속하여 그에 상응하는 의무를 부담합니다.",
+      "새로운 보증서 데이터는 PSC를 통하여 수리되지 아니합니다.",
+      "VII. PSC의 거부",
+      "CBP는 불완전하다고 판단되거나(출력 페이지 41056) 본 시험에서 규정된 요건을 준수하지 아니한다고 판단되는 PSC를 거부할 권한을 보유합니다. ACE를 통하여 제출자에게 거부된 PSC는 거부일로부터 2영업일 이내에 재전송될 수 있습니다. 적시에 재전송이 이루어지지 아니하는 경우, 이미 수리된 수입신고서의 청산이 법령 또는 법원 명령에 따라 보류된 경우가 아닌 한, CBP는 해당 수입신고서를 정정하고 즉시 청산되도록 조치할 것입니다.",
+      "VIII. 간주 청산(Deemed Liquidation)",
+      "19 U.S.C. 1504(a)에 따라, “청산된 것으로 간주되는” 소비 신고(consumption entries)는 수입업자(importer of record)가 주장한 관세율, 가격, 수량 및 관세액으로 청산되어야 합니다. 이 테스트의 목적상, PSC가 적법하게 제출된 경우, CBP는 “청산된 것으로 간주된다”는 법령상의 문구를, 가장 최근에 접수된 PSC를 CBP가 수리한 시점에 수입업자가 주장한 관세율, 가격, 수량 및 관세액으로 청산되는 것을 의미하는 것으로 해석합니다.",
+      "IX. 테스트 하에서의 위법행위",
+      "테스트 참가자는 다음 각 호의 어느 하나에 해당하는 경우 민사 및 형사 처벌, 행정 제재, 손해배상 예정액(liquidated damages) 및/또는 본 테스트로부터의 정지 처분의 대상이 될 수 있습니다.",
+      "본 테스트의 조건 및 조건을 준수하지 않는 경우.",
+      "참가자 의무 이행에 있어서 합리적인 주의를 기울이지 않는 경우.",
+      "해당 법령 및 규정을 준수하지 않는 경우.",
+      "해당 반덤핑/상계관세(AD/CVD) 현금 예치금을 포함하여, 추정 관세, 세금 및 수수료를 적시에 예치하지 않는 경우.",
+      "ACE 포털을 오용하는 경우.",
+      "무단 공개 행위에 관여하는 경우.",
+      "ACE 포털에 대한 무단 접근 행위에 관여하는 경우.",
+      "위법행위에 대한 정지 처분은 무역국(Office of Trade) 무역프로그램 담당 상무이사(Executive Director, Trade Programs)가 관리합니다. 정지 처분을 제안하는 서면 통지서가 참가자에게 발급되며, 이 통지서에는 정지 처분의 사유가 되는 사실 또는 행위가 명시되고, 정지 처분의 개시일이 통지되며, 모든 적법한 요건의 준수를 입증하거나 달성할 수 있는 기회가 제공됩니다. 참가자에 대한 정지 처분을 제안하는 결정에 대해서는 통지일로부터 15일(역일) 이내에 무역국 행정보좌관(Executive Assistant Commissioner, Office of Trade)에게 서면으로 이의신청을 할 수 있습니다. 정지 처분 제안에 대한 이의신청서에는 통지서에 포함된 사실 또는 행위상의 혐의를 다루어야 하며, 어떻게 준수를 달성할 것인지를 명시하여야 합니다. 고의적인 위법행위의 경우 또는 공중보건상의 이익이나 안전이 관련된 경우에는, 정지 처분이 즉시 효력을 발생할 수 있습니다.",
+      "X. 비밀유지",
+      "ACE에 제출 및 입력되는 데이터에는 영업비밀보호법(Trade Secrets Act, 18 U.S.C. 1905) 및 프라이버시법(Privacy Act, 5 U.S.C. 552a)에 따라 보호될 수 있는 기밀 상업 정보 또는 금융 정보가 포함될 수 있습니다. 다만, 본 테스트 또는 기존의 ACE 테스트에 참가하는 것 자체는 비밀 사항이 아니므로, 정보자유법(Freedom of Information Act)에 따른 서면 요청을 접수하는 경우, 승인된 참가자의 명칭은 5 U.S.C. 552에 따라 CBP가 공개합니다.",
+      "XI. 문서업무감축법",
+      "1995년 문서업무감축법(Paperwork Reduction Act, PRA)(44 U.S.C. 3507(d))은 CBP가 공중에게 부과되는 문서업무 및 기타 정보수집 부담의 영향을 고려할 것을 요구하고 있습니다. 관리예산국(Office of Management and Budget, OMB)이 부여한 유효한 관리예산국 통제번호가 표시되지 않는 한, 행정기관은 정보수집을 실시하거나 후원할 수 없으며, 개인은 이에 응할 의무가 없습니다. 이번 PSC 테스트 수정은 기존에 승인된 정보수집에 대한 실질적인 변경을 수반하지 않습니다. PRA는 PSC 테스트를 위한 ACH 차변 등록(ACH Debit enrollment)의 일환으로 요구되는 은행 계좌 정보에는 적용되지 않습니다.",
+      "XII. 규정의 적용 정지",
+      "본 테스트의 목적상, 연방규정집(CFR) 제19편 중, 신고명세서(entry summary) 제출 및 처리에 관한 제141부, 제142부, 제143부 및 제151부에 수록된 규정을 포함하되 이에 한정되지 않는 규정으로서, 본 통지에서 정한 요건과 상충되는 규정은 테스트 기간 동안 테스트 참가자에 대하여 적용이 면제됩니다. 19 CFR 101.9(b)를 참조하시기 바랍니다. 본 문서는 19 CFR 제163부 및 제163부의 부속서(통상 “(a)(1)(A) 목록”이라 함)에 규정된 기록보관 요건을 면제하지 않습니다.",
+      "Susan S. Thomas,",
+      "무역국 행정보좌관(Executive Assistant Commissioner, Office of Trade)",
+      "각주",
+      "1. PSC 테스트에 관한 정보는 https://www.cbp.gov/​trade/​programs-administration/​entry-summary/​post-summary-correction 를 참조하시기 바랍니다.",
+      "인용 위치로 돌아가기",
+      "2. 82 FR 4901(2017년 1월 17일); 82 FR 26699(2017년 6월 8일); 82 FR 29910(2017년 6월 30일)(2016년 12월 12일 및 2017년 1월 9일에 발표된 테스트 수정 사항에 대한 발효일 연기를 공지함) 참조.",
+      "인용 위치로 돌아가기",
+      "3. 실무상, CBP는 2022년 이래로 입국일로부터 300일을 초과하여 청산이 보류된 입국 건에 대하여, CBP 웹페이지(CBP.gov) 및 자동통관환경(Automated Commercial Environment, ACE) 입국신고 업무규칙 및 절차 문서(https://www.cbp.gov/document/guides/ace-entry-summary-business-process)에 반영된 바와 같이, 300일의 기한을 벗어난 사후정정신고서(PSC)를 허용해 왔습니다. 본 연방관보 고시는 이러한 변경사항을 공식화합니다.",
+      "인용으로 돌아가기",
+      "4. ACE에서 특정 코드로 식별되는 각 보류 사유는 입국신고서 청산 보류의 사유를 나타냅니다. CBP, ACE CATAIR 입국신고서 조회(제26판), https://www.cbp.gov/document/guidance/ace-catair-entry-summary-query (최종 수정일 2026년 5월 11일) 참조.",
+      "인용으로 돌아가기",
+      "5. \"완전한 대체\"라는 문구는 ACE에 제출된 원래 입국신고서의 모든 데이터 요소를 대체하는 사후정정신고서(PSC)에 포함된 새로운 데이터 요소로 대체하는 것을 의미합니다. 완전한 대체는 대체된 데이터가 무효가 된다는 것을 의미하지 않습니다. 원래의 입국 또는 입국신고서에 따라 확정된 모든 의무는 유효하게 유지됩니다. 대체 이후에 확정되는 의무는 사후정정신고서(PSC)에 귀속됩니다. 예를 들어, 화물 반출 후 10근무일을 초과하여 입국신고서가 제출되어 청산손해배상금이 발생한 경우, 해당 입국신고서에 대한 사후정정신고서(PSC)의 제출은 입국신고서 데이터 요소를 \"대체\"하는 것으로 간주되나, 이미 발생한 청산손해배상금을 취소하지는 않습니다. 입국일 및 입국신고서 제출일, 그리고 이로부터 발생하는 모든 법적 의무는 변경되지 않은 채로 유지됩니다. CBP는 명확성을 위하여 2013년 11월 19일에 발행된 연방관보 고시(78 FR 69434)에서 최초로 공표된 \"완전한 또는 전체적인 대체\"의 정의를 본 고시에서 갱신하였습니다.",
+      "인용으로 돌아가기",
+      "6. \"수리됨\" 상태란 모든 기술적 검토 및 유효성 검증을 통과한 입국신고서 또는 이전에 제출된 사후정정신고서(PSC)를 의미합니다. 입국신고서 또는 이전에 제출된 사후정정신고서(PSC)는 \"CBP 관리\" 상태에 있어야 하며, 수리되고 전액 납부되어야 하며, \"무역 관리\" 상태에 있지 않아야 합니다. 입국신고서 또는 이전에 제출된 사후정정신고서(PSC)는 시스템에서 성공적으로 수리되었으나 명세서에 등재되지 않은 경우 \"무역 관리\" 상태에 있습니다. 입국신고서 또는 이전에 제출된 사후정정신고서(PSC)는 명세서에 등재된 경우 \"CBP 관리\" 상태에 있습니다. 76 FR 37136 (2011년 6월 24일) 참조.",
+      "인용으로 돌아가기",
+      "7. \"미국 세관국경보호청(CBP) 검토 중\"이라는 용어는, CBP가 원래의 입국신고서 또는 사후정정신고서(PSC)의 처분을 결정하기 이전에 해당 입국신고서 또는 사후정정신고서(PSC)의 데이터 요소 및 증빙서류를 검토하는 기간을 의미합니다. 78 FR 69434 (2013년 11월 19일) 참조.",
+      "인용으로 돌아가기",
+      "8. 자동청산소(ACH)를 통한 신청 및 결제 방법에 관한 안내는 https://www.cbp.gov/trade/basic-import-export/automated-clearinghouse-ach 에서 확인할 수 있습니다.",
+      "인용으로 돌아가기",
+      "9. 19 U.S.C. 1505 및 19 CFR 24.3a에 따라, 과소납부에 대한 이자는 청산 시점에 부과되며, 수입기록자가 추정 관세, 조세, 수수료를 예치하도록 요구되는 날짜부터, 전액 납부가 이루어진 날짜까지(청산 이전에 납부가 이루어진 경우), 그렇지 않은 경우에는 관련 청구서가 발부되는 청산일까지 누적됩니다.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-13574 Filed 7-2-26; 8:45 am]",
+      "BILLING CODE 9111-14-P"
+    ],
+    "es": [
+      "Encabezados de los Documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para obtener más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Oficina de Aduanas y Protección Fronteriza de los Estados Unidos",
+      "AGENCIA:",
+      "Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP), Departamento de Seguridad Nacional (DHS).",
+      "ACCIÓN:",
+      "Aviso general.",
+      "RESUMEN:",
+      "Este documento anuncia modificaciones y una aclaración a la prueba del Programa Nacional de Automatización Aduanera (NCAP) de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) relacionada con el procesamiento de correcciones posteriores al resumen (post-summary corrections, PSC) y el pago de los aumentos en los derechos, impuestos y tasas estimados que resulten de una PSC. Salvo en la medida en que se anuncie o modifique expresamente mediante este documento, todos los aspectos, reglas, términos y condiciones anunciados en los avisos anteriores relativos a la prueba permanecen vigentes. Para facilitar su consulta, se reproduce la totalidad de la prueba, con los cambios, en este documento.",
+      "FECHAS:",
+      "Las modificaciones anunciadas en esta prueba entrarán en vigor y los participantes deberán cumplir con dichas modificaciones a partir del 5 de agosto de 2026. La prueba continuará hasta que concluya mediante un anuncio publicado en el Federal Register.",
+      "DIRECCIONES:",
+      "Los comentarios relativos a este programa de prueba pueden enviarse por correo electrónico a Kellee Gross a kellee.m.gross@cbp.dhs.gov con un identificador en la línea de asunto que diga, “PSC Test.”",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON:",
+      "Para preguntas relacionadas con políticas, comuníquese con Kellee Gross, Analista Supervisora de Comercio, Oficina de Comercio, al (202) 816-1699 o por correo electrónico a kellee.m.gross@cbp.dhs.gov. Para preguntas técnicas relacionadas con las transmisiones mediante la Interfaz Automatizada de Corredores (Automated Broker Interface, ABI), comuníquese con su representante de cliente asignado. Las partes interesadas que no cuenten con un representante de cliente asignado deben dirigir sus preguntas a la División de Servicios al Cliente por correo electrónico a gmb.clientrepoutreach@cbp.dhs.gov.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "El 24 de junio de 2011, la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) publicó un aviso en el Federal Register que anunciaba un plan para llevar a cabo una prueba que permitiera a los importadores corregir electrónicamente ciertos resúmenes de entrada antes de la liquidación, mediante la presentación de una corrección posterior al resumen (post-summary correction, PSC) utilizando la Interfaz Automatizada de Corredores (Automated Broker Interface) (en adelante, denominada la “prueba de PSC”).[1] Véase 76 FR 37136 (24 de junio de 2011). CBP modificó y aclaró varios aspectos de la prueba de PSC en cinco avisos posteriores publicados en el Federal Register el: 19 de noviembre de 2013 (78 FR 69434); 12 de diciembre de 2016 (81 FR 89482); 9 de enero de 2017 (82 FR 2385); 1 de noviembre de 2017 (82 FR 50656); y 14 de agosto de 2019 (84 FR 40430).[2] Este documento anuncia tres modificaciones y una aclaración a la prueba, las cuales se analizan a continuación.",
+      "En primer lugar, este documento anuncia que los participantes de la prueba deberán transmitir el pago electrónico de cualquier aumento en los derechos, impuestos y tasas estimados que resulte de una PSC mediante la Cámara de Compensación Automatizada (Automated Clearinghouse, ACH) a partir del 5 de agosto de 2026, y ya no podrán pagar dichos aumentos mediante cheque o efectivo. Sin embargo, los participantes de la prueba que estén listos para realizar pagos electrónicos antes de esta fecha podrán hacerlo. Para realizar pagos electrónicos, los participantes de la prueba deberán inscribirse primero en el proceso de ACH Débito o en el proceso de ACH Crédito, según se describe más adelante en la Sección V. Para pagar mediante ACH Débito o ACH Crédito, los participantes de la prueba deberán seguir el proceso de pago habitual implementado por CBP para los pagos mediante ACH, que se encuentra en https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach. Para cualquier pregunta relacionada con el proceso de inscripción en ACH, los participantes de la prueba (página impresa 41054) pueden comunicarse con CBP a ACH-CUSTOMS@cbp.dhs.gov.",
+      "En segundo lugar, este documento anuncia que los participantes de la prueba podrán optar por pagar el monto total del aumento en los derechos, impuestos y tasas estimados que resulte de una PSC antes de la liquidación, o esperar a recibir la facturación en el momento de la liquidación antes de realizar el pago. Un participante de la prueba no podrá presentar una PSC posterior hasta que el aumento en los derechos, impuestos y tasas que resulte de una PSC presentada previamente haya sido pagado en su totalidad y procesado por CBP. En otras palabras, si solo se realiza un pago parcial del aumento en los derechos, impuestos y tasas estimados que resulte de una PSC, el participante de la prueba no podrá presentar una PSC posterior.",
+      "En tercer lugar, este documento modifica la prueba relativa al plazo para presentar PSC en el caso de liquidaciones suspendidas. Esta modificación permite a los participantes de la prueba presentar una PSC fuera del plazo regular de 300 días para presentar una PSC para entradas cuya liquidación esté suspendida más allá de 300 días posteriores a la fecha de entrada,[3] y las entradas tengan una base de suspensión asociada (como Suspensión de Derecho Compensatorio (CVD), Suspensión de Derecho Antidumping (ADD), Suspensión AD/CVD, Sujeto a la Ley de Ejecución y Protección (EAPA), o Sujeto a Mandato Judicial [4]) al momento de la presentación de la PSC. CBP publicará las bases de suspensión permitidas en CBP.gov.",
+      "Este documento además aclara que no se aceptará el pago de intereses sobre el aumento de los derechos, impuestos y tarifas estimados resultantes de una PSC antes de la liquidación. Los participantes de la prueba deben pagar a CBP cualquier interés adeudado como resultado de la PSC una vez que CBP liquide la entrada y emita una factura, de ser necesario. Esta aclaración tiene como objetivo garantizar la aplicación correcta de los pagos a facturas pendientes y mejorar la aplicación de las PSC por parte de CBP.",
+      "Para facilitar la referencia, este documento vuelve a publicar la prueba de PSC en su totalidad, con actualizaciones que reflejan las modificaciones y la aclaración realizadas por este documento en la Sección V a continuación.",
+      "I. Antecedentes del Programa Nacional de Automatización Aduanera",
+      "El Programa Nacional de Automatización Aduanera (NCAP, por sus siglas en inglés) fue establecido por el Subtítulo B del Título VI, Modernización Aduanera, de la Ley de Implementación del Tratado de Libre Comercio de América del Norte (TLCAN) (Ley de Modernización Aduanera) (Pub. L. 103-182, 107 Stat. 2057, 2170, 8 de diciembre de 1993) (19 U.S.C. 1411). A través del NCAP, el enfoque de la modernización aduanera se centró en el cumplimiento comercial y en el desarrollo de ACE como el sistema de intercambio electrónico de datos (EDI) autorizado por CBP. ACE es un sistema automatizado y electrónico para el procesamiento del comercio comercial, cuyo propósito es agilizar los procesos comerciales, facilitar el crecimiento del comercio, garantizar la seguridad de la carga y fomentar la participación en el comercio mundial, al tiempo que garantiza el cumplimiento de las leyes y reglamentos de los Estados Unidos y reduce los costos para CBP y todas sus comunidades de interés. La capacidad de cumplir con estos objetivos depende del éxito en la modernización de las funciones comerciales de CBP y de la tecnología de la información que respalda dichas funciones. Los esfuerzos de modernización de CBP se llevan a cabo mediante versiones escalonadas de la funcionalidad de los componentes de ACE, que actualizan el sistema y agregan nuevas funcionalidades.",
+      "II. Autorización para la Prueba",
+      "La Ley de Modernización Aduanera autoriza al Comisionado de CBP a llevar a cabo programas o procedimientos de prueba limitados diseñados para evaluar componentes planificados del NCAP. La Sección 101.9(b) del Título 19 del Código de Regulaciones Federales (19 CFR 101.9(b)) prevé la realización de pruebas de los componentes del NCAP. Véase T.D. 95-21 (60 FR 14211) (16 de marzo de 1995); véase también 19 U.S.C. 1411-1413.",
+      "III. Descripción General de la Prueba",
+      "Bajo la prueba de corrección posterior al resumen, se permite a los importadores presentar PSC para ciertos resúmenes de entrada utilizando la Interfaz Automatizada de Corredores (ABI). Se permite a los importadores y corredores presentar una PSC para aquellos resúmenes de entrada previos a la liquidación que hayan sido aceptados por CBP y que estén totalmente pagados y bajo el control de CBP. Una transacción de PSC contiene todos los elementos de datos del resumen de entrada original y constituye un reemplazo completo de ese resumen de entrada, así como un reemplazo completo de cualquier PSC anterior que se haya realizado al resumen de entrada original, pero no reemplaza la fecha de entrada ni la fecha de presentación del resumen de entrada.[5]",
+      "Cuando se presenta una PSC, se notificará al declarante del resumen de entrada original que el resumen de entrada ha sido completamente reemplazado por una PSC y el declarante original tendrá acceso completo a la nueva presentación. De manera similar, si se presenta una PSC subsiguiente, esta reemplaza completamente a la PSC presentada anteriormente, y se notificará al declarante de la PSC presentada anteriormente que dicha PSC ha sido completamente reemplazada por una nueva PSC y tendrá acceso completo a la nueva presentación. Toda la información contenida en la versión más reciente del resumen de entrada y en todas las PSC subsiguientes será accesible para todos los declarantes. Conforme a los términos y condiciones de esta prueba, los importadores y declarantes reconocen que, al presentar una PSC, están poniendo a disposición de todas las partes descritas en esta prueba cualquier información comercial y empresarial confidencial contenida dentro de la PSC, es decir, el declarante del resumen de entrada original y cualquier declarante de una PSC que corrija ese resumen de entrada. Un importador no debe presentar una PSC conforme a los términos y condiciones de esta prueba si no desea que el declarante original del resumen de entrada o cualquier declarante de una PSC para la misma entrada tenga acceso completo a toda la información contenida en una PSC subsiguiente presentada por un declarante diferente.",
+      "Se puede presentar una PSC para los siguientes tipos de entrada:",
+      "01, Consumo, Libre de Derechos y Sujeto a Derechos",
+      "02, Consumo, Cuota/Visa",
+      "03, Consumo, Derechos Antidumping/Compensatorios",
+      "06, Consumo, Zona de Comercio Exterior (FTZ)",
+      "07, Consumo, Combinación de Derechos Antidumping/Compensatorios y Cuota/Visa",
+      "21, Depósito",
+      "22, Redepósito",
+      "23, Bono de Importación Temporal (TIB)",
+      "31, Retiro de Depósito, Consumo",
+      "32, Retiro de Depósito, Cuota",
+      "34, Retiro de Depósito, Derechos Antidumping/Compensatorios (página impresa 41055)",
+      "38, Retiro de Depósito, Combinación de Derechos Antidumping/Compensatorios y Cuota/Visa",
+      "51, Región de Servicio de Administración de Contratos de Defensa (DCASR)",
+      "52, Gubernamental, Sujeto a Derechos",
+      "Cabe señalar que se puede presentar una PSC para cambiar un tipo de entrada 01 a un tipo de entrada 03 y viceversa. No se permiten otros cambios al tipo de entrada.",
+      "IV. Elementos de Datos que No Pueden Modificarse Mediante una PSC",
+      "Ciertos elementos de datos no pueden modificarse mediante una PSC y la Oficina de Aduanas y Protección Fronteriza (CBP) rechazará cualquier presentación de PSC que contenga cambios a elementos de datos prohibidos. A continuación se presenta una lista de los elementos de datos que no pueden modificarse mediante una PSC:",
+      "Importador de registro",
+      "Fecha de entrada",
+      "Fecha del resumen de entrada",
+      "Bono",
+      "Código de fiador",
+      "Indicador de resumen consolidado",
+      "Elementos de datos, tales como la clasificación de un artículo, que cambien un tipo de entrada 23 (TIB) a otro tipo de entrada y viceversa",
+      "Puerto de entrada",
+      "Indicador de solicitud de certificación de liberación de carga (esto incluye la agrupación del Departamento de",
+      "Transporte (DOT); la agrupación de la Administración de Alimentos y Medicamentos (FDA); y la agrupación de Agencias Gubernamentales Asociadas (PGA)",
+      "Indicador de entrada en vivo",
+      "Indicador de Acuerdo Comercial (19 U.S.C. 1520(d)) para programas especiales específicos",
+      "Código de incidencia de reconciliación",
+      "Fecha de impresión de la declaración preliminar",
+      "Declaración mensual periódica",
+      "Identificador de sucursal del cliente de la declaración",
+      "Código de ubicación de las mercancías",
+      "Cualquier detalle de liberación",
+      "V. Criterios y Reglas para la Presentación de una PSC",
+      "Para presentar una PSC sobre una entrada existente, el resumen de entrada original o la PSC previamente presentada debe cumplir con los siguientes requisitos:",
+      "El resumen de entrada o la PSC previamente presentada no puede estar liquidada.",
+      "El resumen de entrada o la PSC previamente presentada debe estar totalmente pagada o libre de ingresos, lo que significa que no se adeudan derechos, impuestos o tarifas estimados adicionales como resultado de la presentación de la PSC.",
+      "El resumen de entrada o la PSC previamente presentada debe encontrarse en estado de “aceptado”.[6]",
+      "El resumen de entrada o la PSC previamente presentada no puede estar bajo revisión de la CBP.[7] El declarante recibirá un mensaje que indica “PSC no permitida bajo revisión de la CBP” si se presenta una PSC y el resumen de entrada o la PSC previamente presentada se encuentra en revisión por parte de la CBP.",
+      "Un resumen de entrada o una PSC previamente presentada que haya sido señalada para reconciliación solo podrá corregirse mediante una PSC que no afecte el asunto señalado.",
+      "No se puede presentar una PSC sobre entradas que estén asociadas con una protesta.",
+      "Cuando se presenta una PSC que incrementa la responsabilidad estimada del participante de la prueba por concepto de derechos, impuestos y tarifas, el participante de la prueba debe someter el pago electrónico de esos derechos, impuestos y tarifas adicionales mediante ACH. La Oficina de Aduanas y Protección Fronteriza (CBP) ofrece dos opciones de pago ACH, ACH Debit y ACH Credit. Los importadores que deseen participar en la prueba de PSC deben inscribirse en el proceso de ACH Debit o en el proceso de ACH Credit mediante la presentación de la información respectiva a CBP.[8] Los participantes de la prueba deben pagar el incremento en los derechos, impuestos y tarifas estimados, en su totalidad, antes de someter otra PSC. Si no se presenta otra PSC, el participante de la prueba puede optar por pagar el monto total del incremento resultante de la PSC, distinto de AD/CVD, antes de la liquidación, o esperar hasta que CBP emita una factura en el momento de la liquidación antes de efectuar el pago.[9] Los participantes de la prueba no podrán presentar una PSC subsiguiente hasta que el incremento en los derechos, impuestos y tarifas estimados resultante de la PSC presentada anteriormente sea pagado en su totalidad y procesado por CBP. En otras palabras, si solo se realiza un pago parcial del incremento en los derechos, impuestos y tarifas estimados resultante de una PSC, el participante de la prueba no podrá someter una PSC subsiguiente.",
+      "Cuando se presenta una PSC que incrementa la responsabilidad del participante de la prueba por concepto de AD/CVD, el participante de la prueba debe someter el pago electrónico del AD/CVD adicional mediante ACH dentro de los tres días hábiles siguientes a la presentación de la PSC. CBP ofrece dos opciones de pago ACH, ACH Debit y ACH Credit, como se explicó anteriormente.",
+      "No se aceptarán pagos de intereses sobre una PSC realizados antes de la liquidación. Los participantes de la prueba deben pagar cualquier interés adeudado una vez que CBP liquide la entrada y emita una factura, de ser necesario, por cualquier interés que se adeude, de conformidad con 19 CFR 24.3a.",
+      "La presentación de la PSC debe transmitirse dentro de los 300 días siguientes a la fecha de entrada o hasta 15 días antes de la fecha de liquidación programada, lo que ocurra primero. Sin embargo, si un participante de la prueba solicita y se le concede una prórroga del plazo para la liquidación conforme a 19 CFR 159.12, la PSC debe transmitirse hasta 15 días antes de la fecha de liquidación programada. Un participante de la prueba también puede someter una PSC fuera del plazo de 300 días para la presentación de una PSC respecto de entradas cuya liquidación esté suspendida más allá de los 300 días posteriores a la fecha de entrada, y las entradas tengan un fundamento de suspensión asociado (como CVD Suspend, ADD Suspend, AD/CVD Suspend, Subject to EAPA, o Subject to Court Injunction) al momento de la presentación de la PSC. CBP publicará los fundamentos de suspensión permitidos en CBP.gov.",
+      "Se requiere una explicación textual y al menos un código de razón (ambos deben someterse electrónicamente junto con el resumen de entrada de la PSC) para cada presentación de PSC.",
+      "No existe límite en cuanto al número de PSC que pueden someterse para una misma entrada, siempre que la PSC cumpla con todos los criterios, reglas y requisitos de la prueba de PSC.",
+      "VI. Fianzas y presentación de PSC",
+      "Para los fines de la prueba, la misma fianza y el mismo fiador permanecen obligados respecto de una entrada para la cual se presenta una PSC. Se aplican las siguientes directrices:",
+      "Si, antes de la presentación de una PSC, se presenta una fianza sustitutoria conforme a 19 CFR 142.4(b) o 19 CFR 141.20 (según lo autorizado por 19 U.S.C. 1485(d)), esa fianza continuará obligada respecto de la entrada. Todas las obligaciones que se hayan consolidado bajo la entrada original, antes de la presentación de una PSC, permanecen consolidadas y no quedan sin efecto por una presentación posterior de una PSC.",
+      "Si se presenta una PSC y es aceptada por CBP, la fianza que estaba obligada al momento de la entrada, así como cualquier fianza sustitutoria posterior, permanecen obligadas en consecuencia respecto de la entrada original y el resumen de entrada contra el cual se presentó la PSC.",
+      "No se aceptarán nuevos datos de fianza mediante una PSC.",
+      "VII. Rechazo de una PSC",
+      "CBP conserva la facultad de rechazar cualquier PSC que se determine que está incompleta ( página impresa 41056) o que no cumple con los requisitos descritos en esta prueba. Una PSC que haya sido rechazada en ACE y devuelta al presentador puede retransmitirse dentro de los dos (2) días hábiles siguientes al rechazo. Si no se produce una retransmisión oportuna, CBP corregirá el resumen de entrada y establecerá el resumen de entrada para liquidación inmediata, a menos que la liquidación de dicho resumen de entrada previamente aceptado haya sido suspendida conforme a una ley o una orden judicial.",
+      "VIII. Liquidación tácita",
+      "De conformidad con el artículo 1504(a) del Título 19 del Código de los Estados Unidos (U.S.C.), las entradas de consumo que se \"consideran liquidadas\" deben liquidarse a la tasa de derechos, valor, cantidad e importe de los derechos declarados por el importador de registro. Para los fines de esta prueba, cuando se haya presentado debidamente una PSC, la Oficina de Aduanas y Protección Fronteriza (CBP) interpreta la frase legal \"consideradas liquidadas\" en el sentido de la liquidación a la tasa de derechos, valor, cantidad e importe de los derechos declarados por el importador de registro al momento de la aceptación por parte de CBP de la PSC aceptada más recientemente.",
+      "IX. Conducta indebida en el marco de la prueba",
+      "Un participante de la prueba podrá estar sujeto a sanciones civiles y penales, sanciones administrativas, daños liquidados y/o suspensión de esta prueba por cualquiera de los siguientes motivos:",
+      "Incumplimiento de los términos y condiciones de esta prueba.",
+      "No ejercer el debido cuidado en el cumplimiento de las obligaciones del participante.",
+      "Incumplimiento de las leyes y reglamentos aplicables.",
+      "No depositar oportunamente los derechos, impuestos y tarifas estimados, incluidos los depósitos en efectivo aplicables de derechos antidumping/compensatorios (AD/CVD).",
+      "Uso indebido del Portal ACE.",
+      "Incurrir en cualquier divulgación no autorizada.",
+      "Incurrir en cualquier acceso no autorizado al Portal ACE.",
+      "Las suspensiones por conducta indebida serán administradas por el Director Ejecutivo de Programas Comerciales, Oficina de Comercio. Se emitirá un aviso por escrito en el que se proponga la suspensión al participante, en el que se le informe de los hechos o la conducta que justifican la suspensión, se le notifique la fecha en que comenzará la suspensión y se le brinde la oportunidad de demostrar o lograr el cumplimiento de todos los requisitos legales. Cualquier decisión que proponga la suspensión de un participante podrá apelarse por escrito ante el Comisionado Asistente Ejecutivo, Oficina de Comercio, dentro de los 15 días calendario siguientes a la fecha de notificación. Una apelación de una propuesta de suspensión debe abordar los hechos o cargos de conducta contenidos en el aviso e indicar cómo se logrará el cumplimiento. En casos de conducta indebida intencional o cuando estén en juego intereses de salud pública o seguridad, una suspensión podrá entrar en vigor de inmediato.",
+      "X. Confidencialidad",
+      "Los datos presentados e ingresados en ACE pueden incluir información comercial o financiera confidencial que puede estar protegida en virtud de la Ley de Secretos Comerciales (18 U.S.C. 1905) y la Ley de Privacidad (5 U.S.C. 552a). Sin embargo, la participación en esta o en cualquiera de las pruebas anteriores de ACE no es confidencial y, por lo tanto, al recibir una solicitud escrita en virtud de la Ley de Libertad de Información, CBP divulgará el nombre o los nombres de los participantes aprobados de conformidad con el 5 U.S.C. 552.",
+      "XI. Ley de Reducción de Trámites",
+      "La Ley de Reducción de Trámites (PRA) de 1995 (44 U.S.C. 3507(d)) exige que CBP considere el impacto de los trámites y otras cargas de recopilación de información impuestas al público. Una agencia no puede realizar ni patrocinar, y una persona no está obligada a responder a, una recopilación de información a menos que dicha recopilación de información muestre un número de control válido de la Oficina de Administración y Presupuesto (OMB) asignado por la OMB. Esta modificación de la prueba PSC no implica ningún cambio sustancial a una recopilación de información existente ya aprobada. La PRA no se aplica a la información de cuentas bancarias requerida como parte de la inscripción en el Débito ACH para la prueba PSC.",
+      "XII. Suspensión de reglamentos",
+      "Para los fines de esta prueba, se exime a los participantes de la prueba, durante la duración de esta, de cualquier disposición del Título 19 del CFR, incluidas, entre otras, las disposiciones que se encuentran en las partes 141, 142, 143 y 151 de dicho título relacionadas con la presentación y el procesamiento del resumen de entrada que sean incompatibles con los requisitos establecidos en este aviso. Véase 19 CFR 101.9(b). Este documento no exime de ningún requisito de mantenimiento de registros que se encuentre en el 19 CFR parte 163 y el Apéndice de la parte 163 (comúnmente conocido como la \"lista (a)(1)(A)\").",
+      "Susan S. Thomas,",
+      "Comisionada Asistente Ejecutiva, Oficina de Comercio.",
+      "Notas al pie",
+      "1. Para obtener información sobre la prueba PSC, véase https://www.cbp.gov/​trade/​programs-administration/​entry-summary/​post-summary-correction.",
+      "Volver a la cita",
+      "2. Véase 82 FR 4901 (17 de enero de 2017); 82 FR 26699 (8 de junio de 2017); 82 FR 29910 (30 de junio de 2017) (en el que se anuncia la fecha de entrada en vigor diferida para las modificaciones de la prueba anunciadas el 12 de diciembre de 2016 y el 9 de enero de 2017).",
+      "Volver a la cita",
+      "3. En la práctica, la Oficina de Aduanas y Protección Fronteriza (CBP) ha permitido PSC fuera del plazo de 300 días para las entradas cuya liquidación se suspende más allá de 300 días después de la fecha de entrada desde 2022, tal como se refleja en la página web de CBP (CBP.gov) y en el documento de Reglas y Procesos Comerciales del Resumen de Entrada del Entorno Comercial Automatizado (ACE) (https://www.cbp.gov/​document/​guides/​ace-entry-summary-business-process). Este aviso del Registro Federal formaliza esta modificación.",
+      "Volver a la cita",
+      "4. Cada fundamento de suspensión, identificado mediante un código específico en ACE, indica el motivo de una suspensión de la liquidación del resumen de entrada. Véase CBP, Consulta de Resumen de Entrada ACE CATAIR (v26), disponible en https://www.cbp.gov/​document/​guidance/​ace-catair-entry-summary-query (última modificación el 11 de mayo de 2026).",
+      "Volver a la cita",
+      "5. La frase “reemplazo completo” significa el reemplazo de todos los elementos de datos de un resumen de entrada original presentado en ACE con nuevos elementos de datos que se encuentran en un PSC sustitutivo. Un reemplazo completo no significa que los datos reemplazados sean nulos y sin efecto. Cualquier obligación que se haya consolidado bajo la entrada o el resumen de entrada original permanece válida. Las obligaciones que se consolidan con posterioridad al reemplazo son atribuibles al PSC. Por ejemplo, cuando un resumen de entrada se presenta fuera de los 10 días hábiles posteriores a la liberación de la carga y se incurre en daños liquidados, la presentación de un PSC sobre ese resumen de entrada se considera que “reemplaza” los elementos de datos del resumen de entrada, pero no cancela los daños liquidados en los que se incurrió. La fecha de entrada y la fecha de presentación del resumen de entrada, y todas las obligaciones legales que de ellas se derivan, permanecen sin cambios. CBP actualizó la definición de “reemplazo completo o total” (emitida originalmente en un aviso del Registro Federal publicado el 19 de noviembre de 2013 (78 FR 69434)) en este aviso para mayor claridad.",
+      "Volver a la cita",
+      "6. El estado “aceptado” se define como un resumen de entrada o un PSC presentado previamente que ha pasado por todas las ediciones y validaciones técnicas. El resumen de entrada o el PSC presentado previamente debe estar bajo “control de CBP”, aceptado y totalmente pagado, y no estar bajo “control comercial”. El resumen de entrada o el PSC presentado previamente está bajo “control comercial” cuando se acepta correctamente en el sistema y no figura en un estado de cuenta. El resumen de entrada o el PSC presentado previamente está bajo “control de CBP” cuando se coloca en un estado de cuenta. Véase 76 FR 37136 (24 de junio de 2011).",
+      "Volver a la cita",
+      "7. El término “bajo revisión de la Oficina de Aduanas y Protección Fronteriza (CBP)” significa el período durante el cual CBP está revisando los elementos de datos y los documentos de respaldo de un resumen de entrada original o de un PSC antes de que CBP disponga del resumen de entrada original o del PSC. Véase 78 FR 69434 (19 de noviembre de 2013).",
+      "Volver a la cita",
+      "8. Las instrucciones sobre cómo solicitar y realizar pagos mediante ACH se pueden encontrar en https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach.",
+      "Volver a la cita",
+      "9. De conformidad con 19 U.S.C. 1505 y 19 CFR 24.3a, los intereses por cualquier pago insuficiente se evaluarán en el momento de la liquidación, devengándose desde la fecha en que se exige al importador de registro depositar los derechos, impuestos y tarifas estimados hasta la fecha en que se realice el pago completo (si el pago se efectúa antes de la liquidación), o en su defecto hasta la fecha de la liquidación con la factura correspondiente.",
+      "Volver a la cita",
+      "[FR Doc. 2026-13574 Presentado el 7-2-26; 8:45 a. m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-14-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "发布并签署文件的机构",
+      "文件所修订、拟修订或直接相关的《联邦法规汇编》(CFR)篇名编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "监管信息号(RIN),用于标识《联邦监管与放松监管行动统一议程》中列出的各项监管行动",
+      "有关更多详情,请参阅《文件起草手册》。",
+      "美国国土安全部",
+      "美国海关及边境保护局",
+      "机构:",
+      "美国海关及边境保护局,美国国土安全部。",
+      "行动:",
+      "一般通知。",
+      "摘要:",
+      "本文件宣布对美国海关及边境保护局(CBP)国家海关自动化计划(NCAP)测试项目进行修改和澄清,该测试项目涉及汇总后更正(PSC)的处理以及因PSC而产生的预估关税、税费增加部分的支付。除本文件明确宣布或修改的内容外,此前通知中宣布的有关该测试项目的所有方面、规则、条款和条件仍然有效。为便于参考,本文件完整转载了该测试项目的全部内容,并包含相关修改。",
+      "日期:",
+      "本测试宣布的修改将于2026年8月5日起正式生效,参与方须自该日起遵守相关修改规定。该测试将持续进行,直至通过在《联邦公报》上发布通知予以结束。",
+      "地址:",
+      "有关本测试项目的意见,可通过电子邮件发送至Kellee Gross,邮箱地址为kellee.m.gross@cbp.dhs.gov,邮件主题须注明“PSC Test”(PSC测试)。",
+      "如需更多信息,请联系:",
+      "有关政策方面的问题,请联系贸易办公室监督贸易分析师Kellee Gross,电话(202) 816-1699,或发送电子邮件至kellee.m.gross@cbp.dhs.gov。有关使用自动化经纪人接口(ABI)进行传输的技术问题,请联系您指定的客户代表。没有指定客户代表的相关方,应通过电子邮件gmb.clientrepoutreach@cbp.dhs.gov联系客户服务部门咨询。",
+      "补充信息:",
+      "2011年6月24日,美国海关及边境保护局(CBP)在《联邦公报》上发布通知,宣布一项测试计划,允许进口商在清关结算前,通过自动化经纪人接口(ABI)提交汇总后更正(PSC),以电子方式更正某些报关单(以下简称“PSC测试”)。[1] 参见76 FR 37136(2011年6月24日)。此后,CBP又通过五份先后发布于《联邦公报》的通知,对PSC测试的各方面内容进行了修改和澄清,具体日期为:2013年11月19日(78 FR 69434);2016年12月12日(81 FR 89482);2017年1月9日(82 FR 2385);2017年11月1日(82 FR 50656);以及2019年8月14日(84 FR 40430)。[2] 本文件宣布对该测试进行三项修改并作一项澄清,具体内容如下文所述。",
+      "第一,本文件宣布,自2026年8月5日起,测试参与方必须通过自动清算所(ACH)以电子方式支付因PSC而产生的预估关税、税费增加部分,将不再可以通过支票或现金方式支付此类增加款项。但是,如测试参与方在此日期之前已准备好进行电子支付,则可提前采用电子支付方式。为进行电子支付,测试参与方必须首先按照下文第五节所述,注册ACH借记流程或ACH贷记流程。如需通过ACH借记或ACH贷记方式付款,测试参与方须遵循CBP为ACH付款所制定的常规付款流程,具体可参见https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach。如对ACH注册流程有任何疑问,测试参与方(印刷页第41054页)可通过电子邮件ACH-CUSTOMS@cbp.dhs.gov联系CBP。",
+      "第二,本文件宣布,测试参与方可选择在清关结算前全额支付因PSC产生的预估关税、税费增加部分,也可选择等待清关结算时收到账单后再行支付。在先前提交的PSC所产生的关税、税费增加部分未全额支付并经CBP处理完毕之前,测试参与方不得提交后续的PSC。换言之,若因PSC产生的预估关税、税费增加部分仅作部分支付,测试参与方将无法提交后续的PSC。",
+      "第三,本文件修改了针对暂停清关(liquidation)情形下提交事后概要更正(PSC)的时限测试。该修改允许测试参与者针对以下报关单(entries)在常规300天期限之外提交PSC:该报关单的清关在报关单入境之日后300天以上被暂停[3],且在提交PSC时该报关单附有相关暂停事由(例如反补贴税(CVD)暂停、反倾销税(ADD)暂停、反倾销税/反补贴税(AD/CVD)暂停、受《强制执行与保护法》(EAPA)约束,或受法院禁令约束[4])。美国海关与边境保护局(CBP)将在CBP.gov上公布可允许的暂停事由。",
+      "本文件进一步明确,就PSC产生的预估关税、税款及费用增加部分所应支付的利息,在清关(liquidation)完成之前不予受理。测试参与者必须在CBP对该报关单完成清关并(如有必要)开具账单后,支付因PSC而欠付CBP的任何利息。此项明确旨在确保款项被正确适用于未结清账单,并改进CBP对PSC的执法。",
+      "为便于查阅,本文件将PSC测试全文重新公布,并在下文第五节中反映本文件所作的修改和明确说明的更新内容。",
+      "一、国家海关自动化计划背景",
+      "国家海关自动化计划(NCAP)由《北美自由贸易协定(NAFTA)实施法案》(《海关现代化法案》)(公法第103-182号,107 Stat. 2057, 2170,1993年12月8日)(《美国法典》第19编第1411条)第六章海关现代化部分B分章设立。通过NCAP,海关现代化的重点在于贸易合规,以及发展作为CBP授权的电子数据交换(EDI)系统的自动化商业环境(ACE)。ACE是用于商业贸易处理的自动化电子系统,旨在简化业务流程、促进贸易增长、确保货物安全并促进参与全球商业活动,同时确保遵守美国法律法规并降低CBP及其所有利益相关方的成本。实现这些目标的能力取决于能否成功实现CBP业务职能的现代化及支持这些职能的信息技术的现代化。CBP的现代化工作通过分阶段发布ACE组件功能来完成,这些发布会更新系统并增加新功能。",
+      "二、测试授权依据",
+      "《海关现代化法案》授权CBP关长开展有限的测试计划或程序,以评估NCAP的规划组件。《美国联邦法规》第19编第101.9(b)条(19 CFR 101.9(b))规定了对NCAP组件的测试。参见T.D. 95-21(60 FR 14211)(1995年3月16日)。另见《美国法典》第19编第1411条至第1413条。",
+      "三、测试概述",
+      "根据事后概要更正测试,进口商可使用自动化经纪人接口(ABI)针对某些报关单概要(entry summaries)提交PSC。进口商和报关经纪人可对已被CBP受理、已全额付款且处于CBP管控之下的清关前(pre-liquidation)报关单概要提交PSC。PSC交易包含原报关单概要中的所有数据要素,构成对该报关单概要的完整替代,也构成对该原报关单概要可能已作出的任何先前PSC的完整替代,但不替代入境日期或报关单概要提交日期。[5]",
+      "当提交PSC(进口后修正)时,原始报关单摘要的申报人将收到通知,告知该报关单摘要已被PSC完全替代,且原申报人将对新申报拥有完全访问权限。同样地,如果提交了后续PSC,它将完全替代先前提交的PSC,先前提交PSC的申报人将收到通知,告知先前提交的PSC已被新的PSC完全替代,并将对新申报拥有完全访问权限。最新版本的报关单摘要以及所有后续PSC中的全部信息将可供所有申报人访问。根据本测试的条款和条件,进口商和申报人确认,通过提交PSC,他们正在使PSC中包含的任何商业和机密商业信息可供本测试中所述的所有当事方访问,即原始报关单摘要的申报人以及对该报关单摘要进行更正的任何PSC申报人。如果进口商不希望原始报关单摘要申报人或同一报关单的任何PSC申报人对由不同申报人提交的后续PSC中包含的全部信息拥有完全访问权限,则该进口商不应根据本测试的条款和条件提交PSC。",
+      "PSC可针对以下报关单类型提交:",
+      "01, , 消费型, , 免税和应税",
+      "02, , 消费型, , 配额/签证",
+      "03, , 消费型, , 反倾销/反补贴税",
+      "06, , 消费型, , 对外贸易区(FTZ)",
+      "07, , 消费型, , 反倾销/反补贴税和配额/签证组合",
+      "21, , 仓库",
+      "22, , 再仓库",
+      "23, , 临时进口保税(TIB)",
+      "31, , 仓库提取, , 消费",
+      "32, , 仓库提取, , 配额",
+      "34, , 仓库提取, , 反倾销/反补贴税(打印页41055)",
+      "38, , 仓库提取, , 反倾销/反补贴税和配额/签证组合",
+      "51, , 国防合同管理局地区(DCASR)",
+      "52, , 政府, , 应税",
+      "请注意,PSC可用于将报关单类型01变更为报关单类型03,反之亦然。不允许对报关单类型进行其他变更。",
+      "四、不可通过PSC变更的数据要素",
+      "某些数据要素不可通过PSC变更,美国海关及边境保护局(CBP)将拒绝任何包含对禁止数据要素进行变更的PSC提交。以下是不可通过PSC变更的数据要素清单:",
+      "报关进口商",
+      "报关单日期",
+      "报关单摘要日期",
+      "保证金",
+      "担保人代码",
+      "合并摘要标识",
+      "数据要素,例如货物分类,该要素会使23类(TIB)入境单据变更为其他入境类型,反之亦然",
+      "入境口岸",
+      "货物放行认证请求标识(包括运输部",
+      "(DOT)分组;食品药品监督管理局(FDA)分组;以及合作政府机构(PGA)分组)",
+      "实时入境标识",
+      "特定特殊项目的贸易协定(《美国法典》第19编第1520(d)节)标识",
+      "对账问题代码",
+      "初步报表打印日期",
+      "定期月结单",
+      "结单客户分支机构标识码",
+      "货物所在地代码",
+      "放行详情（如有）",
+      "五、提交售后更正（PSC）的标准和规则",
+      "如需对现有报关单提交售后更正（PSC），原报关单汇总表或此前提交的售后更正（PSC）必须符合以下要求：",
+      "该报关单汇总表或此前提交的售后更正（PSC）不得已清关结关。",
+      "该报关单汇总表或此前提交的售后更正（PSC）必须已全额缴付或无需缴纳税费，即提交售后更正（PSC）后不会产生任何额外应缴的预估关税、税款或规费。",
+      "该报关单汇总表或此前提交的售后更正（PSC）必须处于“已接受”状态。[6]",
+      "该报关单汇总表或此前提交的售后更正（PSC）不得正处于美国海关及边境保护局（CBP）审查之中。[7] 如果在报关单汇总表或此前提交的售后更正（PSC）处于CBP审查状态时提交售后更正（PSC），申报人将收到提示信息“CBP审查期间不允许提交售后更正（PSC not allowed under CBP Review）”。",
+      "已被标记为需进行对账（reconciliation）的报关单汇总表或此前提交的售后更正（PSC），只能通过不影响该标记事项的售后更正（PSC）进行更正。",
+      "对于涉及抗辩（protest）的报关单，不得提交售后更正（PSC）。",
+      "当提交的售后更正(PSC)会增加测试参与者对关税、税款和费用的预估责任时,测试参与者必须通过自动清算所(ACH)提交该等额外关税、税款和费用的电子付款。美国海关及边境保护局(CBP)提供两种ACH付款方式,即ACH借记和ACH贷记。希望参与PSC测试的进口商必须通过向CBP提交相应信息,注册ACH借记流程或ACH贷记流程。[8] 测试参与者必须在提交另一份PSC之前,全额支付预估关税、税款和费用的增加部分。如果未提交其他PSC,测试参与者可以选择在清算之前支付因PSC产生的增加金额全款(反倾销税/反补贴税(AD/CVD)除外),或等待CBP在清算时开具账单后再付款。[9] 在先前提交的PSC所产生的预估关税、税款和费用增加部分全额支付并经CBP处理完毕之前,测试参与者将无法提交后续的PSC。换言之,如果仅部分支付了因PSC产生的预估关税、税款和费用增加部分,测试参与者将无法提交后续的PSC。",
+      "当提交的PSC会增加测试参与者对反倾销税/反补贴税(AD/CVD)的责任时,测试参与者必须在提交PSC后三个工作日内,通过ACH提交该等额外反倾销税/反补贴税的电子付款。如上文所述,CBP提供两种ACH付款方式,即ACH借记和ACH贷记。",
+      "清算前就PSC支付的利息将不被接受。测试参与者必须在CBP对该报关单进行清算并在必要时开具账单后,按照19 CFR 24.3a的规定,支付所欠的任何利息。",
+      "PSC申报必须在进口之日起300天内,或在预定清算日期前最多15天内(以较早者为准)传输提交。但是,如果测试参与者根据19 CFR 159.12的规定请求并获准延长清算时间,则PSC必须在预定清算日期前最多15天内传输提交。对于清算被暂停至进口之日起300天以后的报关单,且该等报关单在提交PSC时具有相关暂停依据(例如反补贴税暂停、反倾销税暂停、反倾销税/反补贴税暂停、受《执法与保护法案》(EAPA)约束,或受法院禁令约束)的情形,测试参与者也可以在300天的PSC申报期限之外提交PSC。CBP将在CBP.gov网站上公布可适用的暂停依据。",
+      "每份PSC提交均须包含文字说明和至少一个原因代码(两者均须随PSC报关单摘要以电子方式提交)。",
+      "只要PSC符合PSC测试的所有标准、规则和要求,对任何一份报关单可提交的PSC数量没有限制。",
+      "六、担保和PSC申报",
+      "就本测试而言,针对已提交PSC的报关单,原担保及担保人的责任保持不变。以下准则适用:",
+      "如果在提交PSC之前,已根据19 CFR 142.4(b)条或19 CFR 141.20条(经19 U.S.C. 1485(d)授权)提交了替代担保,则该担保将继续对该报关单承担责任。在提交PSC之前,根据原始报关单产生的所有既定责任,均继续有效,不因随后提交PSC而消除。",
+      "如果PSC经提交并被CBP接受,则进口时承担责任的担保,以及任何后续的替代担保,将相应地继续对原始报关单及提交PSC所针对的报关单摘要承担责任。",
+      "通过PSC不得提交新的担保数据。",
+      "七、PSC的驳回",
+      "CBP保留驳回任何被认定为不完整(第41056页)或不符合本测试所述要求的PSC的权力。在自动商业环境系统(ACE)中被驳回并退回申报人的PSC,可在驳回后两(2)个工作日内重新传输提交。如果未能及时重新传输,CBP将更正该报关单摘要,并将其设定为立即清算,除非该先前已被接受的报关单摘要的清算已根据法规或法院命令而被暂停。",
+      "八、视为清算",
+      "根据《美国法典》第19编第1504(a)条(19 U.S.C. 1504(a)), 被“视为已清关”的消费报关单必须按照进口记录人所主张的税率、价值、数量和税款金额予以清关。就本测试而言,当已适当提交报关单后更正(PSC)时,美国海关及边境保护局(CBP)将制定法规中“视为已清关”这一表述解释为,按照CBP接受最近一次被接受的报关单后更正(PSC)时进口记录人所主张的税率、价值、数量和税款金额进行清关。",
+      "九、测试项下的不当行为",
+      "测试参与者如有下列任一行为,可能面临民事和刑事处罚、行政制裁、违约金,和/或被暂停参加本测试资格:",
+      "未能遵守本测试的条款和条件。",
+      "未能在履行参与者义务时尽到合理注意义务。",
+      "未能遵守适用的法律法规。",
+      "未能及时缴存预估关税、税款和费用,包括任何适用的反倾销/反补贴税(AD/CVD)现金保证金。",
+      "滥用ACE门户系统。",
+      "进行任何未经授权的披露。",
+      "进行任何未经授权访问ACE门户系统的行为。",
+      "因不当行为而导致的暂停,将由贸易项目执行主任(贸易办公室)负责管理。将向参与者发出书面暂停提议通知,告知参与者构成暂停理由的事实或行为,告知参与者暂停开始日期,并提供证明或实现遵守所有合法要求的机会。任何提议暂停参与者资格的决定,均可在通知之日起15个日历日内,以书面形式向贸易办公室执行助理专员提出上诉。对拟议暂停的上诉必须针对通知中所载的事实或行为指控,并说明将如何实现合规。在存在故意不当行为,或涉及公共健康利益或安全问题的情况下,暂停可立即生效。",
+      "十、保密性",
+      "提交并录入ACE系统的数据可能包含机密商业或财务信息,该等信息可能受《商业秘密法》(《美国法典》第18编第1905条, 18 U.S.C. 1905)及《隐私法》(《美国法典》第5编第552a条, 5 U.S.C. 552a)保护。但是,参与本测试或此前任何ACE测试的情况并非保密信息,因此,在收到书面《信息自由法》请求后,CBP将依照《美国法典》第5编第552条(5 U.S.C. 552)的规定披露已获批准参与者的名称。",
+      "十一、文书削减法",
+      "1995年《文书削减法》(PRA)(《美国法典》第44编第3507(d)条, 44 U.S.C. 3507(d))要求CBP考虑对公众造成的文书工作及其他信息收集负担的影响。除非某项信息收集已显示由管理和预算办公室(OMB)分配的有效OMB控制编号,否则任何机构不得开展或资助该信息收集活动,个人亦无义务对其作出回应。本次报关单后更正(PSC)测试修改不涉及对现有已批准信息收集的任何实质性变更。PRA不适用于作为PSC测试ACH借记登记一部分所需提供的银行账户信息。",
+      "十二、法规暂停适用",
+      "就本测试而言,《美国联邦法规》第19编(CFR)中任何与本通知所列要求不一致的规定,包括但不限于第141、142、143和151部分中有关报关单汇总提交及处理的规定,在测试期间对测试参与者予以豁免。参见19 CFR 101.9(b)。本文件并不豁免19 CFR第163部分及第163部分附录(通常称为“(a)(1)(A)清单”)中规定的任何记录保存要求。",
+      "苏珊·S·托马斯,",
+      "贸易办公室执行助理专员。",
+      "脚注",
+      "1. 有关PSC测试的信息,请参见https://www.cbp.gov/​trade/​programs-administration/​entry-summary/​post-summary-correction。",
+      "返回引文处",
+      "2. 参见82 FR 4901(2017年1月17日);82 FR 26699(2017年6月8日);82 FR 29910(2017年6月30日)(宣布2016年12月12日和2017年1月9日公布的测试修改延迟生效日期)。",
+      "返回引文处",
+      "3. 在实践中,自2022年以来,对于清关后300天以上暂停结关的进口项,美国海关及边境保护局(CBP)已允许在300天期限之外提交PSC,这一做法已反映在CBP网页(CBP.gov)以及自动化商业环境(ACE)《报关单业务规则与流程》文件中(https://www.cbp.gov/​document/​guides/​ace-entry-summary-business-process)。本联邦公报通知将此项修改予以正式确立。",
+      "返回引文",
+      "4. 每一项暂停依据均由ACE中的特定代码标识,表明暂停报关单结关的原因。参见CBP,《ACE CATAIR报关单查询》(第26版),可查阅网址为https://www.cbp.gov/​document/​guidance/​ace-catair-entry-summary-query(最后修订于2026年5月11日)。",
+      "返回引文",
+      "5. “完全替换”一词是指以ACE中提交的新数据要素替换原报关单中全部数据要素的后续PSC中的新数据所取代。完全替换并不意味着被替换的数据无效或作废。根据原始进口项或报关单已经产生的任何义务仍然有效。替换之后产生的义务则归属于该PSC。例如,当报关单在货物放行后超过10个工作日提交,并因此产生清算性赔偿金时,就该报关单提交PSC被视为“替换”该报关单的数据要素,但并不取消已经产生的清算性赔偿金。进口日期和报关单提交日期,以及由此产生的一切法律义务,均保持不变。CBP在本通知中更新了“完全或全部替换”的定义(该定义最初发布于2013年11月19日的联邦公报通知,78 FR 69434),以便更加清晰。",
+      "返回引文",
+      "6. “已接受”状态是指已通过所有技术编辑和验证的报关单或先前提交的PSC。该报关单或先前提交的PSC必须处于“CBP控制”状态,已被接受并已全额付款,且不处于“贸易控制”状态。当报关单或先前提交的PSC在系统中成功被接受但未列入对账单时,即处于“贸易控制”状态。当该报关单或先前提交的PSC被列入对账单时,即处于“CBP控制”状态。参见76 FR 37136(2011年6月24日)。",
+      "返回引文",
+      "7. “美国海关及边境保护局(CBP)审查中”一词是指CBP在对原始报关单或PSC作出处理决定之前,对其数据要素及辅助文件进行审查的期间。参见78 FR 69434(2013年11月19日)。",
+      "返回引文",
+      "8. 有关如何通过自动清算所(ACH)申请及付款的说明,可查阅网址https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach。",
+      "返回引文",
+      "9. 根据19 U.S.C. 1505和19 CFR 24.3a的规定,任何少缴款项的利息将在结关时予以评定,自进口记录人须缴纳预估关税、税费之日起计算,至全额付款之日止(如付款在结关前完成),否则计算至随附账单的结关之日止。",
+      "返回引文",
+      "[联邦公报文件编号2026-13574,存档日期:26年7月2日上午8:45]",
+      "计费代码 9111-14-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の事項を含むことがある。",
+      "文書を発出し署名した機関又は機関群",
+      "文書が改正し、改正を提案し、又は直接関連する連邦規則集(CFR)の編番号及び各部の番号",
+      "機関の文書番号／機関内部のファイル番号",
+      "連邦規制及び規制緩和行動統一アジェンダに掲載される各規制措置を識別するRIN(規則識別番号)",
+      "詳細については文書起草ハンドブックを参照のこと。",
+      "国土安全保障省",
+      "米国税関国境警備局",
+      "機関:",
+      "米国税関国境警備局、国土安全保障省。",
+      "措置:",
+      "一般通知。",
+      "概要:",
+      "本文書は、サマリー事後修正(PSC)の処理及びPSCに起因する関税、税及び手数料の見積り増加額の支払いに関する米国税関国境警備局(CBP)の全国税関自動化プログラム(NCAP)テストについて、変更及び明確化を公表するものである。本文書により明示的に公表又は変更される範囲を除き、本テストに関して従前の通知において公表されたすべての側面、規則、条件及び条項は引き続き効力を有する。参照の便宜のため、変更点を含むテスト全体を本文書に再掲する。",
+      "日付:",
+      "本テストにおいて公表される変更は、2026年8月5日付けで運用が開始され、参加者は同日以降、当該変更を遵守しなければならない。本テストは、連邦官報に公表される告知によって終了が宣言されるまで継続する。",
+      "住所:",
+      "本テストプログラムに関する意見は、件名欄に「PSC Test」と記載の上、電子メールによりKellee Gross宛て(kellee.m.gross@cbp.dhs.gov)に提出することができる。",
+      "問い合わせ先:",
+      "政策に関する質問については、貿易局(Office of Trade)監督貿易分析官Kellee Grossまで、電話(202) 816-1699又は電子メールkellee.m.gross@cbp.dhs.govにて連絡すること。自動通関仲介業者インターフェース(ABI)を用いた送信に関する技術的な質問については、担当のクライアント代表者に連絡すること。担当のクライアント代表者が割り当てられていない関係者は、クライアントサービス部門(Client Services Division)宛てに電子メールgmb.clientrepoutreach@cbp.dhs.govにて問い合わせること。",
+      "補足情報:",
+      "2011年6月24日、米国税関国境警備局(CBP)は連邦官報に通知を公表し、輸入者が清算前に自動通関仲介業者インターフェース(ABI)を用いてサマリー事後修正(PSC)を提出することにより、特定のエントリーサマリーを電子的に修正することを認めるテスト(以下「PSCテスト」という。)を実施する計画を公表した。[1] 76 FR 37136(2011年6月24日)参照。CBPは、その後、2013年11月19日(78 FR 69434)、2016年12月12日(81 FR 89482)、2017年1月9日(82 FR 2385)、2017年11月1日(82 FR 50656)及び2019年8月14日(84 FR 40430)に公表された5件の連邦官報通知において、PSCテストの各種側面について変更及び明確化を行った。[2] 本文書は、以下で論じる3件の変更及び1件の明確化をテストについて公表するものである。",
+      "第一に、本文書は、テスト参加者が2026年8月5日以降、PSCに起因する関税、税及び手数料の見積り増加額の電子的支払いを自動決済機関(ACH)を通じて送信しなければならず、小切手又は現金による当該増加額の支払いはできなくなることを公表する。ただし、この日付より前に電子的支払いの準備が整っているテスト参加者は、当該日より前に電子的支払いを行うことができる。電子的支払いを行うためには、テスト参加者は、まず以下の第V節に記載するACHデビット方式又はACHクレジット方式のいずれかに登録しなければならない。ACHデビット又はACHクレジットによる支払いを行うためには、テスト参加者は、https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach に掲載されている、CBPが実施する通常のACH支払いの手続に従わなければならない。ACH登録手続に関する質問については、テスト参加者は(印刷ページ41054)CBPにACH-CUSTOMS@cbp.dhs.govまで連絡することができる。",
+      "第二に、本文書は、テスト参加者が、PSCに起因する関税、税及び手数料の見積り増加額の全額を清算前に支払うことを選択することもできれば、清算時に請求を受けてから支払うまで待つことを選択することもできることを公表する。テスト参加者は、既に提出されたPSCに起因する関税、税及び手数料の増加額が全額支払われ、CBPによって処理されるまでは、後続のPSCを提出することができない。言い換えれば、PSCに起因する見積り関税、税及び手数料の増加額の一部のみが支払われた場合、テスト参加者は後続のPSCを提出することができない。",
+      "第三に、本文書は清算停止の場合におけるPSC申請の期限に関するテストを修正する。この修正により、テスト参加者は、当該輸入申告の清算が入国日から300日を超えて停止されており[3]、かつPSC申請時点で当該輸入申告に関連する停止事由(相殺関税(CVD)停止、アンチダンピング関税(ADD)停止、AD/CVD停止、執行及び保護法(EAPA)対象、又は裁判所差止命令対象[4]等)が存在する輸入申告について、通常の300日間の期限外でPSCを提出することが可能となる。CBPは、許容される停止事由をCBP.govに掲載する。",
+      "本文書はさらに、PSCの結果として生じる推定関税、税及び手数料の増加分に対する利息の支払いは、清算前には受理されないことを明確化する。テスト参加者は、CBPが当該輸入申告を清算し、必要に応じて請求書を発行した後に、PSCの結果としてCBPに対し支払うべき利息を支払わなければならない。この明確化は、未決済請求書への支払いの適正な充当を確保し、CBPによるPSCの執行を改善することを目的とするものである。",
+      "参照の便宜のため、本文書は以下の第V節において本文書による修正及び明確化を反映させた更新を加えた上で、PSCテストの全文を再度公表する。",
+      "I. 全国税関自動化プログラムの背景",
+      "全国税関自動化プログラム(NCAP)は、北米自由貿易協定(NAFTA)実施法(税関近代化法)(Pub. L. 103-182, 107 Stat. 2057, 2170, 1993年12月8日)(19 U.S.C. 1411)の第VI編サブタイトルB「税関近代化」により設立された。NCAPを通じて、税関近代化の主眼は、貿易コンプライアンス及びCBPが認可する電子データ交換(EDI)システムとしてのACEの開発に置かれた。ACEは、商業貿易処理のための自動化及び電子化されたシステムであり、米国の法令遵守を確保しつつ、ビジネスプロセスを合理化し、貿易の成長を促進し、貨物の安全を確保し、世界貿易への参加を促進するとともに、CBP及びその関係者すべてのコストを削減することを意図している。これらの目的を達成できるかどうかは、CBPの業務機能及びそれを支える情報技術の近代化を成功させることにかかっている。CBPの近代化の取組みは、ACEの構成要素となる機能の段階的なリリースを通じて達成され、これによりシステムが更新され、新たな機能が追加される。",
+      "II. テストの権限根拠",
+      "税関近代化法は、CBP長官に対し、NCAPの計画されている構成要素を評価するために設計された限定的なテストプログラム又は手続を実施する権限を付与している。連邦規則集第19編第101.9条(b)(19 CFR 101.9(b))は、NCAP構成要素のテストについて規定している。T.D. 95-21(60 FR 14211)(1995年3月16日)を参照。また19 U.S.C. 1411から1413も参照のこと。",
+      "III. テストの概要",
+      "事後申告訂正(PSC)テストの下では、輸入者は自動ブローカーインターフェース(ABI)を使用して特定の輸入申告書についてPSCを申請することが認められる。輸入者及びブローカーは、CBPにより受理され、全額納付済みでCBPの管理下にある清算前の輸入申告書に対してPSCを申請することが認められる。PSC取引には原輸入申告書のすべてのデータ要素が含まれ、当該輸入申告書を完全に置き換えるものであり、また当該原輸入申告書に対して行われた可能性のある以前のPSCも完全に置き換えるものであるが、入国日又は輸入申告書提出日を置き換えるものではない。[5]",
+      "PSC(事後修正申告)が提出された場合、原申告書の提出者には、当該申告書がPSCによって完全に置き換えられた旨が通知され、原申告書の提出者は新たな申告書の内容に全面的にアクセスできるものとする。同様に、後続のPSCが提出された場合、当該PSCは従前に提出されたPSCを完全に置き換えるものとし、従前のPSCの提出者には、従前のPSCが新たなPSCによって完全に置き換えられた旨が通知され、当該提出者は新たな申告書の内容に全面的にアクセスできるものとする。申告書の最新版及びそれ以降のすべてのPSCに含まれる情報は、すべての提出者がアクセスできるものとする。本試験プログラムの諸条件の下では、輸入者及び提出者は、PSCを提出することにより、当該PSCに含まれる商業上及び営業上の機密情報を本試験プログラムに記載されたすべての当事者、すなわち原申告書の提出者及び当該申告書を修正する当該PSCの提出者に利用可能とすることに同意するものとする。輸入者は、他の提出者によって提出された後続のPSCに含まれるすべての情報について、原申告書の提出者又は同一申告に係る他のPSC提出者が全面的にアクセスすることを望まない場合には、本試験プログラムの諸条件の下でPSCを提出すべきではない。",
+      "PSCは、以下の申告種別について提出することができる。",
+      "01, 消費, 無税及び有税",
+      "02, 消費, 数量割当・査証",
+      "03, 消費, アンチダンピング関税・相殺関税",
+      "06, 消費, 対外貿易地域(FTZ)",
+      "07, 消費, アンチダンピング関税・相殺関税及び数量割当・査証の組合せ",
+      "21, 保税倉庫",
+      "22, 再保税倉庫",
+      "23, 一時輸入保証(TIB)",
+      "31, 保税倉庫引取, 消費",
+      "32, 保税倉庫引取, 数量割当",
+      "34, 保税倉庫引取, アンチダンピング関税・相殺関税(印刷ページ41055)",
+      "38, 保税倉庫引取, アンチダンピング関税・相殺関税及び数量割当・査証の組合せ",
+      "51, 国防契約管理サービス地域(DCASR)",
+      "52, 政府, 有税",
+      "なお、PSCは申告種別01を申告種別03に変更する場合、及びその逆の場合に提出することができる。それ以外の申告種別の変更は認められない。",
+      "IV. PSCによって変更することができないデータ項目",
+      "特定のデータ項目はPSCによって変更することができず、CBP(税関国境警備局)は禁止されたデータ項目の変更を含むPSCの提出をすべて却下する。PSCによって変更することができないデータ項目は次のとおりである。",
+      "記録輸入者",
+      "輸入日",
+      "申告書提出日",
+      "保証金(ボンド)",
+      "保証人コード",
+      "統合サマリー指標",
+      "物品の分類など、入国タイプ23(TIB)を他の入国タイプに変更する、またはその逆を行うデータ項目",
+      "入港地",
+      "貨物引取認証要求指標(これには運輸省(DOT)グループ、食品医薬品局(FDA)グループ、及び関係政府機関(PGA)グループが含まれる)",
+      "輸送省(DOT)グループ、食品医薬品局(FDA)グループ、及び関係政府機関(PGA)グループ",
+      "生貨物引取指標",
+      "特定の特別プログラムに関する貿易協定(合衆国法典第19編第1520条(d))指標",
+      "調整問題コード",
+      "予備報告書印刷日",
+      "月次定期申告書",
+      "申告書クライアント支店識別子",
+      "貨物所在地コード",
+      "リリース詳細情報",
+      "V. 事後申告修正（PSC）提出の基準及び規則",
+      "既存のエントリーに対してPSCを提出するためには、原申告書（エントリーサマリー）又は従前に提出されたPSCが以下の要件を満たさなければならない。",
+      "当該エントリーサマリー又は従前に提出されたPSCが既に清算（リキデーション）されていないこと。",
+      "当該エントリーサマリー又は従前に提出されたPSCが完全に支払済みであるか、又は追加の関税、税金若しくは手数料が発生しない状態、すなわちPSCの提出の結果として追加の見積関税、税金又は手数料が課されないものであること。",
+      "当該エントリーサマリー又は従前に提出されたPSCが「受理済み（accepted）」のステータスにあること。[6]",
+      "当該エントリーサマリー又は従前に提出されたPSCが、税関・国境警備局（CBP）の審査中でないこと。[7] PSCが提出され、かつ当該エントリーサマリー又は従前に提出されたPSCがCBP審査中である場合、申告者には「PSC not allowed under CBP Review（CBP審査中のためPSCは許可されません）」というメッセージが表示される。",
+      "リコンサイルのためにフラグが付されたエントリーサマリー又は従前に提出されたPSCについては、当該フラグが付された事項に影響を与えないPSCによってのみ修正することができる。",
+      "抗議（プロテスト）に関連するエントリーについては、PSCを行うことはできない。",
+      "参加予定者(テスト参加者)の関税、税金及び手数料に係る見積負債を増加させるPSCが提出された場合、テスト参加者は当該追加の関税、税金及び手数料についてACHを通じた電子的な支払いを行わなければならない。CBP(米国税関国境警備局)はACHデビット及びACHクレジットという2つのACH支払いオプションを提供している。PSCテストへの参加を希望する輸入者は、CBPにそれぞれの情報を提出することにより、ACHデビット方式又はACHクレジット方式のいずれかに登録しなければならない。[8] テスト参加者は、別のPSCを提出する前に、見積関税、税金及び手数料の増加分を全額支払わなければならない。他のPSCが提出されない場合、テスト参加者は、AD/CVDを除き、当該PSCにより生じた増加分の全額を清算(liquidation)前に支払うか、又は清算時にCBPが請求書を発行するまで支払いを待つかを選択することができる。[9] テスト参加者は、以前に提出されたPSCにより生じた見積関税、税金及び手数料の増加分が全額支払われ、CBPによって処理されるまで、その後のPSCを提出することができない。言い換えれば、PSCにより生じた見積関税、税金及び手数料の増加分について一部のみの支払いがなされた場合、テスト参加者はその後のPSCを提出することができない。",
+      "テスト参加者のAD/CVDに係る負債を増加させるPSCが提出された場合、テスト参加者は、PSCの提出から3営業日以内に、追加のAD/CVDについてACHを通じた電子的な支払いを行わなければならない。CBPは、上記のとおり、ACHデビット及びACHクレジットという2つのACH支払いオプションを提供している。",
+      "清算前に行われるPSCに係る利息の支払いは受け付けられない。テスト参加者は、CBPが当該エントリーを清算し、必要に応じて未払利息について請求書を発行した後に、19 CFR 24.3aに整合する形で、未払いの利息を支払わなければならない。",
+      "PSCの提出は、入国(エントリー)の日から300日以内、又は予定されている清算日の15日前までのいずれか早い日までに送信されなければならない。ただし、テスト参加者が19 CFR 159.12に基づき清算の期限延長を申請し、これが認められた場合には、PSCは予定されている清算日の15日前までに送信されなければならない。また、テスト参加者は、当該エントリーの清算が入国の日から300日を超えて停止されており、かつ、PSC提出時点において当該エントリーに関連する停止事由(CVD停止、ADD停止、AD/CVD停止、EAPA対象、又は裁判所の差止命令対象等)が存在する場合には、300日の提出期限外であってもPSCを提出することができる。CBPは、許容される停止事由をCBP.govに掲載する。",
+      "各PSC提出につき、テキストによる説明及び少なくとも1つの理由コード(いずれもPSCエントリーサマリーとともに電子的に提出されるもの)が必要である。",
+      "PSCがPSCテストのすべての基準、規則及び要件を満たしている限り、1つのエントリーについて提出できるPSCの数に制限はない。",
+      "VI. ボンド及びPSCの提出",
+      "本テストの目的上、PSCが提出されたエントリーについては、同一のボンド及び保証人が引き続き義務を負う。以下のガイドラインが適用される。",
+      "PSCの提出に先立ち、19 CFR 142.4(b)又は19 CFR 141.20(19 U.S.C. 1485(d)により認められるもの)に基づき差し替えボンドが提出された場合、当該ボンドは引き続き当該エントリーについて義務を負うものとする。PSCの提出以前に、原エントリーのもとで発生したすべての義務は、引き続き確定しており、その後のPSCの提出によって無効とされることはない。",
+      "PSCが提出され、CBPにより受理された場合、入国時に義務を負っていたボンド及びその後のいかなる差し替えボンドも、原エントリー及びPSCが提出されたエントリーサマリーについて、引き続きそれぞれ義務を負う。",
+      "新たなボンド情報は、PSCを通じては受け付けられない。",
+      "VII. PSCの却下",
+      "CBPは、不完全であると認められるPSC(原文41056ページ)、又は本テストに記載される要件に適合しないと認められるPSCを却下する権限を保持する。ACEにおいて提出者に却下されたPSCは、却下から2営業日以内に再送信することができる。期限内に再送信が行われない場合、CBPはエントリーサマリーを修正し、当該エントリーサマリーを即時清算の対象とする。ただし、当該以前に受理されたエントリーサマリーの清算が、制定法又は裁判所命令に基づき停止されている場合を除く。",
+      "VIII. みなし清算",
+      "19 U.S.C. 1504(a)に基づき、「清算されたものとみなされる」消費エントリーは、輸入者本人が主張する税率、価格、数量及び関税額で清算されなければならない。本テストの目的上、PSCが適正に提出された場合、CBPは、「清算されたものとみなされる」という法令上の文言を、直近に受理されたPSCをCBPが受理した時点において輸入者本人が主張する税率、価格、数量及び関税額による清算を意味するものと解釈する。",
+      "IX. 本テストにおける違反行為",
+      "テスト参加者は、以下のいずれかに該当する場合、民事及び刑事上の罰則、行政制裁、清算損害賠償、及び/又は本テストからの停止の対象となることがある。",
+      "本テストの諸条件を遵守しなかった場合。",
+      "参加者の義務の履行において相当の注意を払わなかった場合。",
+      "適用される法令及び規則を遵守しなかった場合。",
+      "適用されるAD/CVD現金預託を含む、見積関税、租税及び手数料を適時に預託しなかった場合。",
+      "ACEポータルを不正に使用した場合。",
+      "無許可の開示を行った場合。",
+      "ACEポータルへの無許可のアクセスを行った場合。",
+      "違反行為に対する停止処分は、貿易プログラム局、貿易局執行局長が実施する。参加者に対しては、停止を正当化する事実又は行為を知らせ、停止の開始日を通知し、かつすべての適法な要件への遵守を証明又は達成する機会を与える、停止処分を提案する書面による通知が発行される。参加者に対する停止処分を提案する決定については、通知日から15暦日以内に、貿易局事務次官補に対し書面により不服申立てを行うことができる。停止処分の提案に対する不服申立ては、通知に記載された事実又は行為の内容に対応し、どのように遵守を達成するかを記載しなければならない。故意の違反行為の場合、又は公衆衛生上の利益若しくは安全が関係する場合には、停止処分は直ちに発効することがある。",
+      "X. 秘密保持",
+      "ACEに提出及び入力されたデータには、営業秘密法(18 U.S.C. 1905)及びプライバシー法(5 U.S.C. 552a)の下で保護され得る秘密の商業上又は財務上の情報が含まれる場合がある。ただし、本テスト又はこれまでのACEテストへの参加自体は秘密ではないため、情報公開法に基づく書面による請求を受領した場合、承認された参加者の氏名は、5 U.S.C. 552に従いCBPにより開示される。",
+      "XI. 文書削減法",
+      "1995年文書削減法(PRA)(44 U.S.C. 3507(d))は、CBPが公衆に課す文書及びその他の情報収集の負担による影響を考慮することを求めている。行政管理予算局(OMB)により付与された有効なOMB管理番号が表示されていない限り、行政機関は情報の収集を実施又は後援してはならず、また、何人も当該情報収集に応答することを要しない。本PSCテストの修正は、既存の承認済み情報収集に対する実質的な変更を伴うものではない。PRAは、PSCテストのためのACH引落登録の一環として必要とされる銀行口座情報には適用されない。",
+      "XII. 規則の適用停止",
+      "本テストの目的上、連邦規則集(CFR)第19編の規定のうち、特に第141部、第142部、第143部及び第151部に見られるエントリーサマリーの提出及び処理に関する規定であって、本通知に定める要件と矛盾するものは、本テストの期間中、テスト参加者について適用が除外される。19 CFR 101.9(b)参照。本文書は、19 CFR第163部及び第163部の付録(いわゆる「(a)(1)(A)リスト」)に定める記録保持要件を免除するものではない。",
+      "スーザン・S・トーマス",
+      "貿易局事務次官補",
+      "脚注",
+      "1. PSCテストに関する情報については、https://www.cbp.gov/​trade/​programs-administration/​entry-summary/​post-summary-correction を参照のこと。",
+      "引用元に戻る",
+      "2. 82 FR 4901(2017年1月17日)、82 FR 26699(2017年6月8日)、82 FR 29910(2017年6月30日)(2016年12月12日及び2017年1月9日に発表されたテスト修正について、発効日の延期を発表するもの)を参照のこと。",
+      "引用元に戻る",
+      "3. 実務上、CBPは、2022年以降CBP.govのCBPウェブページ及び自動商取引環境(ACE)のEntry Summary Business Rules and Processes文書(https://www.cbp.gov/​document/​guides/​ace-entry-summary-business-process)に反映されているとおり、入国日から300日を超えて清算が停止されている入国分について、300日という期間の枠外でのPSCを認めてきた。本連邦官報告示は、この修正を正式なものとするものである。",
+      "本文に戻る",
+      "4. 各停止事由は、ACEにおいて特定のコードによって識別され、入国申告書清算の停止理由を示すものである。CBP、ACE CATAIR Entry Summary Query(v26)、https://www.cbp.gov/​document/​guidance/​ace-catair-entry-summary-query(2026年5月11日最終改訂)を参照。",
+      "本文に戻る",
+      "5. 「完全な置換」という語句は、ACEにおいて申告された原入国申告書のすべてのデータ要素を、後続のPSCにおいて見出される新たなデータ要素に置き換えることを意味する。完全な置換は、置換されたデータが無効かつ効力を失うことを意味するものではない。原入国又は入国申告書の下で発生した義務は、引き続き有効である。置換後に発生する義務は、PSCに帰属する。例えば、貨物引取り後10就業日を超えて入国申告書が申告され、違約金が発生した場合、当該入国申告書に関するPSCの申告は、入国申告書のデータ要素を「置換」するものとみなされるが、既に発生した違約金を取り消すものではない。入国日及び入国申告書申告日、並びにそこから生じるすべての法的義務は、変更されないままである。CBPは、本告示において、明確化のため、2013年11月19日付連邦官報告示(78 FR 69434)において当初公布された「完全な又は全部の置換」の定義を更新した。",
+      "本文に戻る",
+      "6. 「受理済み」の地位とは、すべての技術的審査及び検証を経た入国申告書又は以前に申告されたPSCをいうものと定義される。入国申告書又は以前に申告されたPSCは、「CBP管理下」にあり、受理されかつ全額支払済みであって、「貿易管理下」にないものでなければならない。入国申告書又は以前に申告されたPSCは、システムにおいて正常に受理され、かつ明細書に記載されていない場合、「貿易管理下」にあるものとする。入国申告書又は以前に申告されたPSCは、明細書に記載された場合、「CBP管理下」にあるものとする。76 FR 37136(2011年6月24日)を参照。",
+      "本文に戻る",
+      "7. 「アメリカ合衆国税関国境警備局(CBP)の審査中」という語句は、原入国申告書又はPSCについてのCBPによる処分前に、CBPが原入国申告書又はPSCのデータ要素及び裏付け書類を審査している期間をいう。78 FR 69434(2013年11月19日)を参照。",
+      "本文に戻る",
+      "8. ACHを通じた申請及び支払の方法に関する案内は、https://www.cbp.gov/​trade/​basic-import-export/​automated-clearinghouse-ach において閲覧することができる。",
+      "本文に戻る",
+      "9. 19 U.S.C. 1505及び19 CFR 24.3aに従い、過少支払に対する利息は、清算時に賦課され、記録上の輸入者が見積関税、租税及び手数料を預託することを要求される日から、全額支払がなされる日(清算前に支払がなされる場合)まで、又はそれ以外の場合には関連する請求書を伴う清算の日まで発生するものとする。",
+      "本文に戻る",
+      "[FR Doc. 2026-13574 Filed 7-2-26; 8:45 am]",
+      "請求コード 9111-14-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

@@ -1,0 +1,622 @@
+{
+  "id": "1403aa57999a",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13098/crewmember-access-point",
+  "original_title": "Crewmember Access Point",
+  "published": "2026-06-30",
+  "effective_date": "2027-01-01",
+  "importance": "low",
+  "category": "fees",
+  "tags": [
+    "TSA",
+    "Airport Security",
+    "Fees"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "TSA, 승무원 전용 보안검색 프로그램 CMAP 수수료 신설",
+      "summary": "미국 교통안전청(TSA)이 항공사 승무원 대상 신속 보안검색 프로그램인 Crewmember Access Point(CMAP)의 연간 수수료를 승무원 1인당 19달러로 책정했습니다. 이 수수료는 2027년 1월 1일부터 시행되며, 해당 프로그램은 기존 Known Crew Member(KCM) 프로그램을 대체합니다.",
+      "points": [
+        "CMAP는 TSA가 규제하는 항공사의 승무원에게 공항 보안구역 신속 통과를 제공하는 프로그램입니다.",
+        "참여를 선택한 항공사는 승무원 1인당 연간 19달러의 수수료를 TSA에 납부해야 합니다.",
+        "이 수수료는 2027년 1월 1일부터 발효되며, CMAP 시행 자체는 2026년 여름부터 단계적으로 시작됩니다.",
+        "이 프로그램은 미국 비자나 출입국 신청자와는 관련이 없으며, 항공사 승무원의 공항 보안절차에 관한 사항입니다."
+      ],
+      "who": "미국 내 항공기 운영사와 그 소속 승무원이 영향을 받습니다.",
+      "action": "해당 사항은 일반 비자 신청자나 이민 신청자에게는 적용되지 않으므로 별도 조치가 필요하지 않습니다."
+    },
+    "en": {
+      "title": "TSA Sets Fee for New Crewmember Access Point (CMAP) Security Program",
+      "summary": "The Transportation Security Administration has set a fee of $19.00 per crewmember per year for aircraft operators that choose to join the new Crewmember Access Point (CMAP) program. CMAP replaces the Known Crew Member program and provides expedited screening access for eligible airline crewmembers.",
+      "points": [
+        "CMAP provides expedited sterile area access to eligible crewmembers of TSA-regulated aircraft operators.",
+        "Participating aircraft operators will be charged $19.00 per crewmember per year.",
+        "The fee takes effect on January 1, 2027, though CMAP access points will roll out starting summer 2026.",
+        "This notice concerns airline crew security screening and does not affect visa applicants or general immigration processes."
+      ],
+      "who": "U.S.-regulated aircraft operators and their enrolled crewmembers are affected.",
+      "action": "No action is needed for visa applicants or the general public, as this notice applies only to participating aircraft operators."
+    },
+    "es": {
+      "title": "TSA establece tarifa para el nuevo programa de seguridad CMAP para tripulantes",
+      "summary": "La Administración de Seguridad en el Transporte (TSA) fijó una tarifa de 19.00 dólares por tripulante al año para los operadores de aeronaves que participen en el nuevo programa Crewmember Access Point (CMAP). El programa sustituye al antiguo Known Crew Member (KCM) y ofrece acceso expedito a zonas estériles de ciertos aeropuertos.",
+      "points": [
+        "El programa CMAP ofrece control de seguridad expedito a tripulantes elegibles de operadores regulados por TSA.",
+        "Los operadores participantes deberán pagar 19.00 dólares por tripulante al año.",
+        "La tarifa entra en vigor el 1 de enero de 2027, aunque los puntos de acceso CMAP comenzarán a implementarse desde el verano de 2026.",
+        "Este aviso se refiere a la seguridad de tripulaciones aéreas y no afecta a solicitantes de visa ni a procesos migratorios generales."
+      ],
+      "who": "Afecta a los operadores de aeronaves regulados por TSA y a sus tripulantes inscritos.",
+      "action": "No se requiere ninguna acción por parte de solicitantes de visa, ya que el aviso aplica solo a los operadores aéreos participantes."
+    },
+    "zh": {
+      "title": "TSA为新的机组人员通道项目(CMAP)设定费用",
+      "summary": "美国运输安全管理局(TSA)宣布,参与新机组人员通道项目(Crewmember Access Point, CMAP)的航空公司运营商须为每名机组人员每年支付19美元费用。该项目取代原有的“已知机组人员”(KCM)项目,为符合资格的机组人员提供快速安检通道。",
+      "points": [
+        "CMAP项目为受TSA监管航空公司的合资格机组人员提供安检快速通道。",
+        "参与该项目的航空公司须为每名机组人员每年支付19美元。",
+        "该费用将于2027年1月1日起生效,但CMAP安检点将从2026年夏季起分阶段启用。",
+        "此通知涉及机组人员安检事务,与签证申请人或一般移民程序无关。"
+      ],
+      "who": "受影响的是受TSA监管的航空公司及其注册机组人员。",
+      "action": "签证申请人或公众无需采取任何行动,该通知仅适用于参与该项目的航空公司。"
+    },
+    "ja": {
+      "title": "TSA、新しい乗務員アクセス制度CMAPの手数料を設定",
+      "summary": "米運輸保安庁(TSA)は、新しい乗務員アクセスポイント(Crewmember Access Point、CMAP)制度に参加する航空運航者に対し、乗務員1人当たり年間19ドルの手数料を設定しました。CMAPは従来のKnown Crew Member(KCM)制度を引き継ぎ、対象となる航空会社の乗務員に空港の保安検査を迅速に通過できる仕組みを提供します。",
+      "points": [
+        "CMAPはTSAの規制対象となる航空運航者の適格な乗務員に、保安検査の迅速通過を提供する制度です。",
+        "参加する航空運航者は乗務員1人当たり年間19ドルの手数料を支払う必要があります。",
+        "手数料は2027年1月1日から適用されますが、CMAPのアクセスポイント自体は2026年夏から順次導入されます。",
+        "この通知は航空乗務員の保安検査に関するものであり、ビザ申請者や一般の移民手続きには関係しません。"
+      ],
+      "who": "TSAの規制対象となる航空運航者とその登録乗務員が対象です。",
+      "action": "ビザ申請者や一般の人々は特に対応の必要はありません。この通知は参加航空運航者にのみ適用されます。"
+    }
+  },
+  "added": "2026-10-12T21:21Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "Transportation Security Administration"
+      },
+      {
+        "t": "p",
+        "x": "( printed page 39630)"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Transportation Security Administration, DHS."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "This notice sets the fee for aircraft operators that choose to participate in the Crewmember Access Point (CMAPTM) program at $19.00 per employee, per year. The CMAP program, formerly known as the Known Crew Member (KCMTM) program, provides expedited screening access to sterile areas at certain U.S. airports for eligible crewmembers of TSA-regulated aircraft operators. TSA will provide instructions for joining the program and submitting fees to interested aircraft operators."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "The fee announced in this notice becomes effective on January 1, 2027."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Jamie A. Simon, Program Implementation Branch, Trusted Traveler and Credentialing, TSA-10, Transportation Security Administration, 6595 Springfield Center Drive, Springfield, VA 20598; telephone (202) 306-0344; email at CMAPOps@tsa.dhs.gov."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "h",
+        "x": "I. Description of the Program"
+      },
+      {
+        "t": "p",
+        "x": "In 2011, TSA worked with aircraft operators and industry associations to implement the KCM program to satisfy the statutory requirement to provide authorized crewmembers of eligible aircraft operators expedited access to sterile areas.[1] Currently, the Airlines for America (A4A) [2] manages the KCM program through its own information technology hardware and software, data collection methods, and identity verification.[3]"
+      },
+      {
+        "t": "p",
+        "x": "Eligible aircraft operators [4] subscribe to the KCM program through A4A. To be authorized to use KCM, the aircraft operators must enroll their eligible employees, and such individuals must be an on-duty crewmember, a crewmember on a repositioning flight, or an off-duty crewmember traveling domestically. The term “crewmember” includes Captains, Pilots-in-Command, First Officers or Co-Pilots, Flight Attendants, Flight Engineers, Flight Navigators and Full All-Cargo Load Masters."
+      },
+      {
+        "t": "p",
+        "x": "Crewmembers present their aircraft operator-issued identification and acceptable forms of identification at specially designated KCM access locations that are staffed by TSA. TSA personnel scan the crewmember's assigned KCM barcode to retrieve information from the A4A database of eligible crewmembers. If there is a match between the crewmember's identification and information retrieved from A4A, the crewmember receives expedited access to sterile areas at certain U.S. airports."
+      },
+      {
+        "t": "p",
+        "x": "In agreement with and on the initiative of, A4A, TSA will assume responsibility for the administration of KCM functions by the end of calendar year 2026. At that time, TSA is renaming the program as CMAP. TSA will use crewmember information that it receives from aircraft operators as part of the Master Crew List (MCL) and Master Personnel List (MPL) programs.[5] The MCL is composed of crewmembers who are authorized to fly to, from, or over the U.S. and its territories following TSA vetting and are determined do not pose a security threat. Both passenger and all-cargo operators regulated under 49 CFR part 1544 that have international flights are required to submit MCLs to TSA. The MPL is a list TSA created for use by certain aircraft operators that includes crewmembers who fly only within the U.S. Both the MCL and MPL include key biographic information, such as name, sex, and date and place of birth, that TSA leverages for CMAP."
+      },
+      {
+        "t": "p",
+        "x": "As part of their MPL or MCL submissions, aircraft operators participating in CMAP must indicate the crewmembers who have consented to participate in the program. TSA will use this information to build a list of crewmembers who are enrolled by an eligible aircraft operator and who have consented to participate in the CMAP program. Although not a component of the CMAP program, crewmembers are separately required under provisions of 49 CFR 1542.209, 1544.229, 1544.230, and associated Security Directives (SDs) to successfully complete a security threat assessment (STA) that includes criminal history, immigration, and terrorism checks. As a result, individuals who are identified by their aircraft operator via special crew codes on the MCL or MPL are pre-vetted and determined to be eligible to receive expedited screening."
+      },
+      {
+        "t": "p",
+        "x": "At certain U.S. airports, TSA will establish and designate CMAP access points. TSA will take a digital photograph of each crewmember who arrives at one of the designated locations. TSA's system will compare this photograph to the individual's photograph in Federal databases. If there is a biometric match, the crewmember will be eligible for expedited access to the sterile area. If there is not a match (or if the crewmember has been randomly selected for unpredictable screening procedures), the crewmember will be directed to a TSA passenger checkpoint for screening."
+      },
+      {
+        "t": "p",
+        "x": "Moving operation of the program from A4A to TSA will improve cybersecurity of the data and systems that hold crewmember information, strengthen identity verification, and enable TSA to better leverage crewmember information as part of its aviation security oversight responsibilities. Crewmembers traveling on official business or domestically for personal reasons will qualify for this expedited access, allowing TSA to focus its limited screening resources to the highest risk passengers, while expediting the crewmember's travel. TSA may suspend CMAP program privileges temporarily or permanently for violations of TSA's regulatory requirements in 49 CFR 1540.103 through 1540.111, or other applicable Federal requirements.[6] Egregious acts, criminal activity, or intelligence information may also lead to CMAP program disqualification, whether or not there is a regulatory violation associated with the disqualifying behavior or information."
+      },
+      {
+        "t": "p",
+        "x": "TSA plans to implement CMAP access points on a rolling basis across the country beginning in the summer of 2026, as KCM access points are sunsetted. This gradual transition will permit ongoing operational testing and equipment deployment that is consistent with budgetary needs. However, the CMAP fee will not become ( printed page 39631) effective until January 1, 2027. As of January 1, 2027, aircraft operators must pay the CMAP fee for any crewmember who uses the CMAP access point."
+      },
+      {
+        "t": "h",
+        "x": "II. CMAP Program Fee"
+      },
+      {
+        "t": "p",
+        "x": "In 2006, Congress directed TSA to collect a fee to cover the costs of any registered traveler program.[7] This provision requires TSA to “impose a fee for any registered traveler program undertaken by the Department of Homeland Security by notice in the Federal Register ” provided that “such fees shall not exceed the aggregate costs associated with the program.” [8] TSA is also permitted to modify the fee through notice published in the Federal Register .[9]"
+      },
+      {
+        "t": "p",
+        "x": "Programs funded under the registered traveler fee authority leverage voluntary participation in additional pre-vetting and/or enhanced identity verification to provide enhanced security and expedite the screening experience.[10] TSA has determined that the CMAP program is a registered traveler program because it permits consenting crewmembers to facilitate their identity verification, and the resulting match to vetting results, by providing TSA access to their biographic and/or biometric data. As noted above, this program facilitates the dedication of TSA's limited screening resources to higher risk passengers, while expediting the crewmembers' travel."
+      },
+      {
+        "t": "p",
+        "x": "TSA developed the cost estimates for the CMAP program in accordance with applicable statutory and policy standards.[11] TSA developed models with projected costs and user population to establish a fee recovering the cost of the CMAP program over a 5-year period. To achieve revenue collections to fully recover CMAP program costs, TSA will impose an annual fee on each participating aircraft operator of $19.00 per crewmember.[12] TSA will invoice aircraft operators annually based on the number of their crewmembers participating in the CMAP program. If an aircraft operator fails to remit the required fees to TSA within 30 days of the invoice date, its crewmembers may be removed from the CMAP program and ineligible for expedited screening. Participating aircraft operators must provide TSA with a tax identification number and a financial point of contact (name, mailing address, phone number and email address) who TSA will use for billing and other financial matters."
+      },
+      {
+        "t": "p",
+        "x": "TSA will review this fee at least once every two years to ensure the fee aligns with TSA's costs to operate the program. TSA will provide notice to the public if it is necessary to modify the fee amount in the future."
+      },
+      {
+        "t": "p",
+        "x": "Dated: June 25, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Susan Tashiro,"
+      },
+      {
+        "t": "p",
+        "x": "Acting Executive Assistant Administrator, Technology & Systems, Transportation Security Administration."
+      },
+      {
+        "t": "h",
+        "x": "Footnotes"
+      },
+      {
+        "t": "p",
+        "x": "1. See Implementing Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53, title XVI, sec. 1614, 121 Stat. 266, 486 (2007) (9/11 Act) (stating that TSA must “institute a sterile area access system or method that will enhance security by properly identifying authorized airline flight deck and cabin crew members at screening checkpoints and granting them expedited access through screening checkpoints”)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "2. A4A is an association of aircraft operators. See Who We Are, Airlines for America®, https://www.airlines.org/​who-we-are/​ (last visited Apr. 16, 2026). Its current members are Alaska Airlines, American Airlines, Atlas Air, Delta Air Lines, FedEx, JetBlue, Southwest Airlines, United Airlines, and UPS. Id."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "3. See https://www.knowncrewmember.org/​about-us/​ for general program information."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "4. This expedited access program is limited to domestic aircraft operators covered under 49 CFR part 1544 and is not available to foreign air carriers covered under 49 CFR part 1546."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "5. See 19 CFR 122.49c, 49 U.S.C. 114, and related Security Directives, which are Sensitive Security Information."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "6. See 49 U.S.C. Chapter 465 and 49 U.S.C. 46302."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "7. Department of Homeland Security Appropriations Act, 2006, Public Law 109-90, sec. 540, 119 Stat. 2064, 2088-89 (2005) (codified at 49 U.S.C. 114 note)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "8. Id."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "9. Id."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "10. See Registered Traveler Interoperability Pilot Program, 73 FR 44275, 44276 (July 20, 2008). See also TSA PreCheck Application Program, 78 FR 72922 (Dec. 4, 2013);) TSA Modernized Alternative Identity Verification User Fee 90 FR 52427 (Nov. 20, 2025; TSA Confirm.ID User Fee, 90 FR 55754 (Dec. 3, 2025)."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "11. See Office of Management and Budget Circular A-25."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "12. Detailed cost, population and fee calculation information is provided in the TSA Crewmember Access Point Program Fee Development Report at www.tsa.gov/​ADDRESS."
+      },
+      {
+        "t": "p",
+        "x": "Back to Citation"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-13098 Filed 6-29-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9110-05-P"
+      }
+    ],
+    "fetched": "2026-10-12T21:21Z",
+    "from": "federalregister.gov",
+    "chars": 11280
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접 관련된 CFR 편(title) 번호 및 각 부(part) 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국토안보부(DHS)",
+      "교통보안청(TSA)",
+      "(인쇄본 39630쪽)",
+      "기관:",
+      "교통보안청(TSA), 국토안보부(DHS).",
+      "조치:",
+      "통지.",
+      "요약:",
+      "본 통지는 승무원 접근 지점(Crewmember Access Point, CMAPTM) 프로그램에 참여하기로 선택한 항공기 운영자에 대한 수수료를 직원 1인당 연간 19.00달러로 정합니다. 이전에 공인 승무원(Known Crew Member, KCMTM) 프로그램으로 알려졌던 CMAP 프로그램은 TSA의 규제를 받는 항공기 운영자의 적격 승무원에게 미국 내 특정 공항의 보안구역에 대한 신속 검색 접근을 제공합니다. TSA는 관심 있는 항공기 운영자에게 프로그램 가입 및 수수료 납부 방법에 대한 안내를 제공할 예정입니다.",
+      "일자:",
+      "본 통지에서 발표하는 수수료는 2027년 1월 1일부터 발효됩니다.",
+      "추가 정보 문의처:",
+      "Jamie A. Simon, Program Implementation Branch, Trusted Traveler and Credentialing, TSA-10, Transportation Security Administration, 6595 Springfield Center Drive, Springfield, VA 20598; 전화 (202) 306-0344; 이메일 CMAPOps@tsa.dhs.gov.",
+      "보충 정보:",
+      "I. 프로그램 개요",
+      "2011년, TSA는 적격 항공기 운영자의 공인 승무원에게 보안구역에 대한 신속한 접근을 제공하도록 하는 법적 요건을 충족하기 위하여 항공기 운영자 및 업계 협회와 협력하여 KCM 프로그램을 시행하였습니다.[1] 현재, 미국항공사협회(Airlines for America, A4A)[2]는 자체 정보기술 하드웨어 및 소프트웨어, 데이터 수집 방법, 신원 확인을 통하여 KCM 프로그램을 관리하고 있습니다.[3]",
+      "적격 항공기 운영자[4]는 A4A를 통하여 KCM 프로그램에 가입합니다. KCM 사용을 인가받기 위하여, 항공기 운영자는 자사의 적격 직원을 등록하여야 하며, 해당 개인은 근무 중인 승무원, 재배치 비행 중인 승무원, 또는 국내를 여행하는 비번 승무원이어야 합니다. “승무원”이라는 용어에는 기장, 책임조종사, 부조종사, 객실승무원, 비행기관사, 항법사 및 전체 화물 적재감독관이 포함됩니다.",
+      "승무원은 TSA 직원이 배치되어 있는 특별히 지정된 KCM 접근 장소에서 항공기 운영자가 발급한 신분증 및 인정되는 형태의 신분증을 제시합니다. TSA 직원은 승무원에게 배정된 KCM 바코드를 스캔하여 A4A의 적격 승무원 데이터베이스에서 정보를 조회합니다. 승무원의 신분증과 A4A로부터 조회된 정보가 일치하는 경우, 해당 승무원은 미국 내 특정 공항의 보안구역에 대한 신속 접근 권한을 받게 됩니다.",
+      "A4A와의 합의 및 A4A의 주도에 따라, TSA는 2026년 역년 말까지 KCM 기능의 관리 책임을 인수할 예정입니다. 그 시점에, TSA는 해당 프로그램의 명칭을 CMAP으로 변경합니다. TSA는 항공기 운영자로부터 수령하는 승무원 정보를 마스터 승무원 명단(Master Crew List, MCL) 및 마스터 인원 명단(Master Personnel List, MPL) 프로그램의 일환으로 활용할 것입니다.[5] MCL은 미국 및 미국령으로, 미국 및 미국령에서, 또는 미국 및 미국령 상공을 비행하도록 인가된 승무원들로 구성되며, 이들은 TSA의 심사를 거쳐 보안 위협이 되지 않는 것으로 판정된 자들입니다. 49 CFR part 1544에 따라 규제되는 여객 및 전체 화물 운영자로서 국제선을 운항하는 경우에는 TSA에 MCL을 제출하여야 합니다. MPL은 미국 국내에서만 비행하는 승무원을 포함하여 특정 항공기 운영자가 사용하도록 TSA가 작성한 명단입니다. MCL과 MPL은 모두 성명, 성별, 생년월일 및 출생지와 같은 주요 신원 정보를 포함하며, TSA는 이를 CMAP에 활용합니다.",
+      "CMAP(승무원 회원 접근 프로그램)에 참여하는 항공기 운영자는 MPL 또는 MCL 제출의 일환으로, 본 프로그램에 참여하기로 동의한 승무원을 명시해야 합니다. 교통보안청(TSA)은 이 정보를 활용하여 적격 항공기 운영자에 의해 등록되고 CMAP 프로그램 참여에 동의한 승무원 명단을 작성합니다. CMAP 프로그램의 구성 요소는 아니지만, 승무원은 49 CFR 1542.209, 1544.229, 1544.230 및 관련 보안지침(Security Directives, SD)의 규정에 따라 범죄 기록, 이민, 테러 관련 조회를 포함하는 보안위협평가(STA)를 별도로 성공적으로 완료해야 합니다. 그 결과, MCL 또는 MPL에 특별 승무원 코드로 표시되어 항공기 운영자에 의해 식별된 개인은 사전 심사를 거쳐 신속 검색을 받을 자격이 있는 것으로 결정됩니다.",
+      "일부 미국 공항에서는 TSA가 CMAP 접근 지점을 설치하고 지정합니다. TSA는 지정된 장소에 도착하는 각 승무원의 디지털 사진을 촬영합니다. TSA의 시스템은 이 사진을 연방 데이터베이스에 있는 해당 개인의 사진과 대조합니다. 생체 인식이 일치하는 경우, 해당 승무원은 청정구역에 대한 신속 접근 자격을 얻게 됩니다. 일치하지 않는 경우(또는 해당 승무원이 예측 불가능한 검색 절차를 위해 무작위로 선정된 경우), 해당 승무원은 TSA 승객 검색대로 안내되어 검색을 받게 됩니다.",
+      "프로그램 운영을 A4A에서 TSA로 이관하면 승무원 정보를 보유한 데이터 및 시스템의 사이버 보안이 개선되고, 신원 확인이 강화되며, TSA가 항공 보안 감독 책임의 일환으로 승무원 정보를 더 효과적으로 활용할 수 있게 됩니다. 공무로 또는 개인적인 사유로 국내를 여행하는 승무원은 이러한 신속 접근 자격을 얻게 되며, 이를 통해 TSA는 제한된 검색 자원을 최고 위험 승객에게 집중할 수 있고, 동시에 승무원의 여행을 신속하게 처리할 수 있습니다. TSA는 49 CFR 1540.103부터 1540.111까지의 규정 요건 또는 기타 적용 가능한 연방 요건을 위반한 경우, CMAP 프로그램 특권을 일시적으로 또는 영구적으로 정지시킬 수 있습니다.[6] 중대한 위반 행위, 범죄 행위 또는 정보기관 정보 또한, 해당 자격 박탈 행위나 정보와 관련된 규정 위반 여부와 관계없이, CMAP 프로그램 자격 박탈로 이어질 수 있습니다.",
+      "TSA는 2026년 여름부터 전국적으로 순차적으로 CMAP 접근 지점을 시행할 계획이며, 이와 함께 KCM 접근 지점은 단계적으로 폐지될 예정입니다. 이러한 점진적 전환을 통해 예산 수요에 부합하는 지속적인 운영 시험과 장비 배치가 가능해집니다. 다만, CMAP 수수료는 2027년 1월 1일까지는 (인쇄면 39631페이지) 발효되지 않습니다. 2027년 1월 1일부터, 항공기 운영자는 CMAP 접근 지점을 이용하는 모든 승무원에 대해 CMAP 수수료를 납부해야 합니다.",
+      "II. CMAP 프로그램 수수료",
+      "2006년, 의회는 TSA에 등록 여행자 프로그램의 비용을 충당하기 위한 수수료를 징수하도록 지시했습니다.[7] 이 조항은 TSA가 “국토안보부(DHS)가 시행하는 모든 등록 여행자 프로그램에 대하여 연방관보(Federal Register) 고시를 통해 수수료를 부과”하도록 요구하되, “해당 수수료는 해당 프로그램과 관련된 총 비용을 초과해서는 안 된다”고 규정하고 있습니다.[8] TSA는 또한 연방관보에 게재되는 고시를 통해 수수료를 변경할 수 있습니다.[9]",
+      "등록 여행자 수수료 권한에 따라 자금이 지원되는 프로그램은 자발적 참여를 통한 추가 사전 심사 및/또는 강화된 신원 확인을 활용하여 보안을 강화하고 검색 경험을 신속하게 처리합니다.[10] TSA는 CMAP 프로그램이, 동의한 승무원이 자신의 인적 사항 및/또는 생체 정보에 대한 TSA의 접근을 허용함으로써 신원 확인 및 그에 따른 심사 결과와의 대조를 용이하게 한다는 점에서, 등록 여행자 프로그램에 해당한다고 결정하였습니다. 위에서 언급한 바와 같이, 본 프로그램은 TSA의 제한된 검색 자원을 고위험 승객에게 집중시키는 동시에 승무원의 여행을 신속하게 처리할 수 있도록 합니다.",
+      "TSA(교통안전청)는 관련 법령 및 정책 기준에 따라 CMAP 프로그램에 대한 비용 추정치를 개발하였습니다.[11] TSA는 5년 기간에 걸쳐 CMAP 프로그램 비용을 회수하는 수수료를 책정하기 위하여 예상 비용 및 이용자 수를 반영한 모델을 개발하였습니다. CMAP 프로그램 비용을 완전히 회수하기 위한 수입 징수를 달성하기 위하여, TSA는 참여하는 각 항공기 운영자에게 승무원 1인당 연간 19.00달러의 수수료를 부과할 것입니다.[12] TSA는 항공기 운영자에게 CMAP 프로그램에 참여하는 승무원 수를 기준으로 매년 청구서를 발부할 것입니다. 항공기 운영자가 청구서 발부일로부터 30일 이내에 필요한 수수료를 TSA에 납부하지 아니하는 경우, 해당 승무원은 CMAP 프로그램에서 제외되어 신속 검색 대상에서 제외될 수 있습니다. 참여하는 항공기 운영자는 TSA에 납세자 식별번호 및 재무 담당 연락처(성명, 우편 주소, 전화번호 및 이메일 주소)를 제공하여야 하며, TSA는 이를 청구 및 기타 재무 관련 사항에 사용할 것입니다.",
+      "TSA는 수수료가 프로그램 운영에 소요되는 TSA의 비용과 부합하는지 확인하기 위하여 최소 2년에 한 번씩 이 수수료를 검토할 것입니다. TSA는 향후 수수료 금액을 변경할 필요가 있는 경우 이를 공중에 공지할 것입니다.",
+      "일자: 2026년 6월 25일.",
+      "수잔 타시로(Susan Tashiro),",
+      "교통안전청 기술 및 시스템 담당 부청장 대행(Acting Executive Assistant Administrator, Technology & Systems, Transportation Security Administration).",
+      "각주",
+      "1. 2007년 9/11 위원회 권고사항 이행법(Implementing Recommendations of the 9/11 Commission Act of 2007), 공법 제110-53호, 제XVI편, 제1614조, 121 Stat. 266, 486 (2007년) (9/11법) 참조 (TSA가 “검색 검문소에서 권한을 부여받은 항공사 조종실 및 객실 승무원을 적절히 식별하고 이들에게 검색 검문소를 신속히 통과할 수 있도록 허용함으로써 보안을 강화하는 멸균구역 출입 시스템 또는 방식을 마련하여야 한다”고 명시함).",
+      "인용으로 돌아가기",
+      "2. A4A는 항공기 운영자들의 협회입니다. Who We Are, Airlines for America®, https://www.airlines.org/​who-we-are/​ (2026년 4월 16일 최종 방문) 참조. 현재 회원사는 알래스카 항공(Alaska Airlines), 아메리칸 항공(American Airlines), 아틀라스 에어(Atlas Air), 델타 항공(Delta Air Lines), 페덱스(FedEx), 제트블루(JetBlue), 사우스웨스트 항공(Southwest Airlines), 유나이티드 항공(United Airlines), 그리고 UPS입니다. 위 자료.",
+      "인용으로 돌아가기",
+      "3. 프로그램에 관한 일반 정보는 https://www.knowncrewmember.org/​about-us/​ 를 참조하십시오.",
+      "인용으로 돌아가기",
+      "4. 이 신속 통과 프로그램은 49 CFR part 1544의 적용을 받는 국내 항공기 운영자에게만 적용되며, 49 CFR part 1546의 적용을 받는 외국 항공사에는 적용되지 아니합니다.",
+      "인용으로 돌아가기",
+      "5. 19 CFR 122.49c, 49 U.S.C. 114 및 이와 관련된, 민감보안정보(Sensitive Security Information)에 해당하는 보안지침(Security Directives)을 참조하십시오.",
+      "인용으로 돌아가기",
+      "6. 49 U.S.C. Chapter 465 및 49 U.S.C. 46302 참조.",
+      "인용으로 돌아가기",
+      "7. 2006년도 국토안보부세출법(Department of Homeland Security Appropriations Act, 2006), 공법 109-90호, 제540조, 119 Stat. 2064, 2088-89(2005)(49 U.S.C. 114 note로 성문화됨).",
+      "인용으로 돌아가기",
+      "8. 위와 같음.",
+      "인용으로 돌아가기",
+      "9. 위와 같음.",
+      "인용으로 돌아가기",
+      "10. 등록 여행자 상호운용성 시범 프로그램(Registered Traveler Interoperability Pilot Program), 73 FR 44275, 44276(2008년 7월 20일) 참조. 또한 TSA PreCheck 신청 프로그램, 78 FR 72922(2013년 12월 4일); TSA 현대화 대체 신원확인 이용료, 90 FR 52427(2025년 11월 20일); TSA Confirm.ID 이용료, 90 FR 55754(2025년 12월 3일)도 참조.",
+      "인용으로 돌아가기",
+      "11. 관리예산실(Office of Management and Budget) 회람 A-25 참조.",
+      "인용으로 돌아가기",
+      "12. 상세한 비용, 대상 인원 및 수수료 산정 정보는 www.tsa.gov/ADDRESS에 게재된 TSA 승무원 출입지점 프로그램 수수료 개발 보고서(TSA Crewmember Access Point Program Fee Development Report)에 제공되어 있습니다.",
+      "인용으로 돌아가기",
+      "[FR Doc. 2026-13098 Filed 6-29-26; 8:45 am]",
+      "BILLING CODE 9110-05-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar, o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Administración de Seguridad en el Transporte",
+      "(página impresa 39630)",
+      "AGENCIA:",
+      "Administración de Seguridad en el Transporte (TSA), DHS.",
+      "ACCIÓN:",
+      "Aviso.",
+      "RESUMEN:",
+      "Este aviso establece la tarifa para los operadores de aeronaves que opten por participar en el programa de Punto de Acceso para Tripulantes (Crewmember Access Point, CMAPTM) en $19.00 por empleado, por año. El programa CMAP, anteriormente conocido como el programa de Miembro de Tripulación Conocido (Known Crew Member, KCMTM), proporciona acceso de inspección expedita a las áreas estériles en ciertos aeropuertos de los Estados Unidos para los tripulantes elegibles de los operadores de aeronaves regulados por la TSA. La TSA proporcionará instrucciones para unirse al programa y para el pago de las tarifas a los operadores de aeronaves interesados.",
+      "FECHAS:",
+      "La tarifa anunciada en este aviso entra en vigor el 1 de enero de 2027.",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON:",
+      "Jamie A. Simon, Rama de Implementación de Programas, Viajero de Confianza y Credencialización, TSA-10, Administración de Seguridad en el Transporte, 6595 Springfield Center Drive, Springfield, VA 20598; teléfono (202) 306-0344; correo electrónico CMAPOps@tsa.dhs.gov.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "I. Descripción del Programa",
+      "En 2011, la TSA trabajó con los operadores de aeronaves y las asociaciones de la industria para implementar el programa KCM con el fin de cumplir el requisito legal de proporcionar a los tripulantes autorizados de los operadores de aeronaves elegibles acceso expedito a las áreas estériles.[1] Actualmente, Airlines for America (A4A) [2] administra el programa KCM mediante su propio hardware y software de tecnología de la información, métodos de recopilación de datos, y verificación de identidad.[3]",
+      "Los operadores de aeronaves elegibles [4] se suscriben al programa KCM a través de A4A. Para estar autorizados a usar KCM, los operadores de aeronaves deben inscribir a sus empleados elegibles, y dichas personas deben ser un tripulante en servicio, un tripulante en un vuelo de reposicionamiento, o un tripulante fuera de servicio que viaje dentro del territorio nacional. El término “tripulante” incluye a Capitanes, Pilotos al Mando, Primeros Oficiales o Copilotos, Sobrecargos, Ingenieros de Vuelo, Navegantes de Vuelo y Jefes de Carga de Operaciones de Carga Completa.",
+      "Los tripulantes presentan su identificación emitida por el operador de aeronaves y formas de identificación aceptables en ubicaciones de acceso KCM especialmente designadas que cuentan con personal de la TSA. El personal de la TSA escanea el código de barras KCM asignado al tripulante para recuperar información de la base de datos de tripulantes elegibles de A4A. Si existe una coincidencia entre la identificación del tripulante y la información recuperada de A4A, el tripulante recibe acceso expedito a las áreas estériles en ciertos aeropuertos de los Estados Unidos.",
+      "De común acuerdo con A4A, y por iniciativa de esta, la TSA asumirá la responsabilidad de la administración de las funciones de KCM para fines del año calendario 2026. En ese momento, la TSA renombrará el programa como CMAP. La TSA utilizará la información de los tripulantes que reciba de los operadores de aeronaves como parte de los programas de Lista Maestra de Tripulación (Master Crew List, MCL) y Lista Maestra de Personal (Master Personnel List, MPL).[5] La MCL está compuesta por los tripulantes que están autorizados para volar hacia, desde, o sobre los Estados Unidos y sus territorios, tras la verificación de antecedentes de la TSA, y que se determina que no representan una amenaza para la seguridad. Tanto los operadores de pasajeros como los de carga completa regulados conforme a la parte 1544 del título 49 del CFR que tengan vuelos internacionales están obligados a presentar las MCL a la TSA. La MPL es una lista que la TSA creó para uso de ciertos operadores de aeronaves, que incluye a los tripulantes que vuelan únicamente dentro de los Estados Unidos. Tanto la MCL como la MPL incluyen información biográfica clave, como el nombre, sexo, y fecha y lugar de nacimiento, que la TSA utiliza para el CMAP.",
+      "Como parte de sus envíos de MPL o MCL, los operadores de aeronaves que participan en el CMAP deben indicar los miembros de la tripulación que han consentido participar en el programa. La Administración de Seguridad en el Transporte (TSA) utilizará esta información para elaborar una lista de miembros de la tripulación que están inscritos por un operador de aeronaves elegible y que han consentido participar en el programa CMAP. Aunque no es un componente del programa CMAP, se exige por separado a los miembros de la tripulación, en virtud de las disposiciones de 49 CFR 1542.209, 1544.229, 1544.230 y las Directivas de Seguridad (SD) asociadas, que completen satisfactoriamente una evaluación de amenaza a la seguridad (STA, por sus siglas en inglés) que incluye verificaciones de antecedentes penales, de inmigración y de terrorismo. Como resultado, las personas que son identificadas por su operador de aeronaves mediante códigos especiales de tripulación en el MCL o el MPL han sido examinadas previamente y determinadas como elegibles para recibir inspección expedita.",
+      "En determinados aeropuertos de los Estados Unidos, la TSA establecerá y designará puntos de acceso del CMAP. La TSA tomará una fotografía digital de cada miembro de la tripulación que llegue a uno de los lugares designados. El sistema de la TSA comparará esta fotografía con la fotografía de la persona que figure en las bases de datos federales. Si hay una coincidencia biométrica, el miembro de la tripulación será elegible para el acceso expedito al área estéril. Si no hay una coincidencia (o si el miembro de la tripulación ha sido seleccionado aleatoriamente para procedimientos de inspección impredecibles), se le dirigirá a un punto de control de pasajeros de la TSA para su inspección.",
+      "Trasladar la operación del programa de A4A a la TSA mejorará la ciberseguridad de los datos y sistemas que contienen la información de los miembros de la tripulación, fortalecerá la verificación de identidad y permitirá a la TSA aprovechar mejor la información de los miembros de la tripulación como parte de sus responsabilidades de supervisión de la seguridad de la aviación. Los miembros de la tripulación que viajen en misión oficial o de manera nacional por razones personales calificarán para este acceso expedito, lo que permitirá a la TSA enfocar sus limitados recursos de inspección en los pasajeros de mayor riesgo, al mismo tiempo que se agiliza el viaje del miembro de la tripulación. La TSA podrá suspender los privilegios del programa CMAP de manera temporal o permanente por infracciones de los requisitos reglamentarios de la TSA establecidos en 49 CFR 1540.103 a 1540.111, u otros requisitos federales aplicables.[6] Los actos atroces, la actividad delictiva o la información de inteligencia también pueden dar lugar a la descalificación del programa CMAP, independientemente de que exista o no una infracción reglamentaria asociada con la conducta o la información descalificante.",
+      "La TSA planea implementar los puntos de acceso del CMAP de manera progresiva en todo el país a partir del verano de 2026, a medida que se eliminen gradualmente los puntos de acceso del KCM. Esta transición gradual permitirá realizar pruebas operativas continuas y el despliegue de equipos de manera consistente con las necesidades presupuestarias. Sin embargo, la tarifa del CMAP no entrará en vigor ( página impresa 39631) hasta el 1 de enero de 2027. A partir del 1 de enero de 2027, los operadores de aeronaves deberán pagar la tarifa del CMAP por cualquier miembro de la tripulación que utilice el punto de acceso del CMAP.",
+      "II. Tarifa del programa CMAP",
+      "En 2006, el Congreso ordenó a la TSA que cobrara una tarifa para cubrir los costos de cualquier programa de viajero registrado.[7] Esta disposición exige que la TSA “imponga una tarifa para cualquier programa de viajero registrado emprendido por el Departamento de Seguridad Nacional (DHS) mediante notificación publicada en el Federal Register”, siempre que “dichas tarifas no excedan los costos agregados asociados con el programa”. [8] También se permite a la TSA modificar la tarifa mediante notificación publicada en el Federal Register .[9]",
+      "Los programas financiados bajo la autoridad de la tarifa de viajero registrado aprovechan la participación voluntaria en exámenes previos adicionales y/o la verificación mejorada de identidad para proporcionar mayor seguridad y agilizar la experiencia de inspección.[10] La TSA ha determinado que el programa CMAP es un programa de viajero registrado porque permite que los miembros de la tripulación que consienten faciliten la verificación de su identidad, y la correspondiente coincidencia con los resultados del examen previo, al proporcionar a la TSA acceso a sus datos biográficos y/o biométricos. Como se señaló anteriormente, este programa facilita que la TSA dedique sus limitados recursos de inspección a los pasajeros de mayor riesgo, al mismo tiempo que agiliza el viaje de los miembros de la tripulación.",
+      "La TSA desarrolló las estimaciones de costos para el programa CMAP de conformidad con las normas legales y de política aplicables.[11] La TSA desarrolló modelos con costos proyectados y población de usuarios para establecer una tarifa que recupere el costo del programa CMAP durante un período de 5 años. Para lograr la recaudación de ingresos que recupere por completo los costos del programa CMAP, la TSA impondrá una tarifa anual a cada operador de aeronaves participante de $19.00 por tripulante.[12] La TSA facturará anualmente a los operadores de aeronaves en función del número de sus tripulantes que participan en el programa CMAP. Si un operador de aeronaves no remite las tarifas requeridas a la TSA dentro de los 30 días posteriores a la fecha de la factura, sus tripulantes podrán ser retirados del programa CMAP y quedar inelegibles para la inspección acelerada. Los operadores de aeronaves participantes deben proporcionar a la TSA un número de identificación fiscal y un punto de contacto financiero (nombre, dirección postal, número de teléfono y dirección de correo electrónico) que la TSA utilizará para asuntos de facturación y otros asuntos financieros.",
+      "La TSA revisará esta tarifa al menos una vez cada dos años para asegurar que la tarifa se ajuste a los costos de la TSA para operar el programa. La TSA notificará al público si en el futuro es necesario modificar el monto de la tarifa.",
+      "Fechado: 25 de junio de 2026.",
+      "Susan Tashiro,",
+      "Administradora Ejecutiva Asistente Interina, Tecnología y Sistemas, Administración de Seguridad en el Transporte.",
+      "Notas al pie",
+      "1. Véase la Ley de Implementación de las Recomendaciones de la Comisión del 11 de Septiembre de 2007 (Implementing Recommendations of the 9/11 Commission Act of 2007), Ley Pública 110-53, título XVI, sec. 1614, 121 Stat. 266, 486 (2007) (Ley del 11 de Septiembre) (que establece que la TSA debe “instituir un sistema o método de acceso a áreas estériles que mejore la seguridad mediante la identificación adecuada de los miembros autorizados de la tripulación de vuelo y de cabina de las aerolíneas en los puntos de control de inspección, y otorgándoles acceso acelerado a través de los puntos de control de inspección”).",
+      "Volver a la cita",
+      "2. A4A es una asociación de operadores de aeronaves. Véase Who We Are, Airlines for America®, https://www.airlines.org/​who-we-are/​ (visitado por última vez el 16 de abril de 2026). Sus miembros actuales son Alaska Airlines, American Airlines, Atlas Air, Delta Air Lines, FedEx, JetBlue, Southwest Airlines, United Airlines y UPS. Id.",
+      "Volver a la cita",
+      "3. Véase https://www.knowncrewmember.org/​about-us/​ para obtener información general del programa.",
+      "Volver a la cita",
+      "4. Este programa de acceso acelerado se limita a los operadores de aeronaves nacionales cubiertos por 49 CFR parte 1544 y no está disponible para los transportistas aéreos extranjeros cubiertos por 49 CFR parte 1546.",
+      "Volver a la cita",
+      "5. Véase 19 CFR 122.49c, 49 U.S.C. 114, y las Directivas de Seguridad relacionadas, que son Información Sensible de Seguridad.",
+      "Volver a la cita",
+      "6. Véase 49 U.S.C. Capítulo 465 y 49 U.S.C. 46302.",
+      "Volver a la cita",
+      "7. Ley de Asignaciones del Departamento de Seguridad Nacional, 2006 (Department of Homeland Security Appropriations Act, 2006), Ley Pública 109-90, sec. 540, 119 Stat. 2064, 2088-89 (2005) (codificada en 49 U.S.C. 114 nota).",
+      "Volver a la cita",
+      "8. Id.",
+      "Volver a la cita",
+      "9. Id.",
+      "Volver a la cita",
+      "10. Véase Registered Traveler Interoperability Pilot Program, 73 FR 44275, 44276 (20 de julio de 2008). Véase también TSA PreCheck Application Program, 78 FR 72922 (4 de diciembre de 2013); TSA Modernized Alternative Identity Verification User Fee, 90 FR 52427 (20 de noviembre de 2025); TSA Confirm.ID User Fee, 90 FR 55754 (3 de diciembre de 2025).",
+      "Volver a la cita",
+      "11. Véase la Circular A-25 de la Oficina de Administración y Presupuesto (Office of Management and Budget).",
+      "Volver a la cita",
+      "12. La información detallada sobre los cálculos de costos, población y tarifas se proporciona en el Informe de Desarrollo de Tarifas del Programa de Punto de Acceso para Tripulantes de la TSA (TSA Crewmember Access Point Program Fee Development Report) en www.tsa.gov/​ADDRESS.",
+      "Volver a la cita",
+      "[FR Doc. 2026-13098 Presentado 6-29-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 9110-05-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署文件的机构或多个机构",
+      "文件修订、拟修订或与之直接相关的《联邦法规汇编》(CFR)标题编号及各部分编号",
+      "机构案卷编号/机构内部档案编号",
+      "RIN,用于识别《联邦监管与放松监管行动统一议程》中列出的每项监管行动",
+      "详情参见《文件起草手册》。",
+      "美国国土安全部",
+      "运输安全管理局",
+      "(印刷页第39630页)",
+      "机构:",
+      "美国国土安全部运输安全管理局。",
+      "行动:",
+      "通知。",
+      "摘要:",
+      "本通知将选择参加机组人员通道(CMAPTM)项目的航空器运营人的费用设定为每名雇员每年19.00美元。CMAP项目原名“已知机组人员”(Known Crew MemberTM,简称KCMTM)项目,为受运输安全管理局(TSA)监管的航空器运营人的合格机组人员提供在美国部分机场进入隔离区的快速安检通道。TSA将向有意参加该项目的航空器运营人提供加入项目及缴纳费用的说明。",
+      "日期:",
+      "本通知公布的费用自2027年1月1日起生效。",
+      "联系方式:",
+      "Jamie A. Simon,项目实施处,可信旅客与身份认证司,TSA-10,美国运输安全管理局,地址:6595 Springfield Center Drive, Springfield, VA 20598;电话:(202) 306-0344;电子邮箱:CMAPOps@tsa.dhs.gov。",
+      "补充信息:",
+      "一、项目说明",
+      "2011年,TSA与航空器运营人及行业协会合作实施KCM项目,以满足法定要求,即为合格航空器运营人的授权机组人员提供进入隔离区的快速通道。[1] 目前,美国航空公司协会(Airlines for America,简称A4A)[2]通过其自有的信息技术硬件和软件、数据收集方法及身份验证手段管理KCM项目。[3]",
+      "合格航空器运营人[4]通过A4A加入KCM项目。为获得使用KCM的授权,航空器运营人必须为其合格雇员办理注册,且此类人员必须是执勤机组人员、执行调机飞行的机组人员,或从事国内旅行的非执勤机组人员。“机组人员”一词包括机长、责任机长、副驾驶或协驾、空乘人员、飞行工程师、领航员及全货运装载长。",
+      "机组人员须在由TSA配备人员的专门指定KCM通道处出示由航空器运营人签发的身份证件及可接受的身份证明文件。TSA工作人员扫描机组人员的指定KCM条形码,以从A4A合格机组人员数据库中检索信息。如机组人员的身份证件信息与从A4A检索到的信息匹配,该机组人员即可在美国部分机场获得进入隔离区的快速通道。",
+      "经A4A同意并应其提议,TSA将于2026年年底前承担KCM职能的管理责任。届时,TSA将把该项目更名为CMAP。TSA将使用其作为主要机组人员名单(MCL)和主要人员名单(MPL)项目[5]的一部分,从航空器运营人处获得的机组人员信息。MCL由经TSA审查并确定不构成安全威胁、获授权飞往、飞离美国及其领土或飞越其上空的机组人员组成。根据49 CFR第1544部分受监管且有国际航班的客运和全货运运营人均须向TSA提交MCL。MPL是TSA为某些仅在美国境内飞行的航空器运营人创建的名单,其中包括相关机组人员。MCL和MPL均包含关键的个人基本信息,如姓名、性别及出生日期和出生地,TSA将这些信息用于CMAP项目。",
+      "作为其MPL或MCL提交内容的一部分,参与机组人员机场通道计划(CMAP)的航空器运营人必须注明已同意参与该计划的机组人员。运输安全管理局(TSA)将使用此信息建立一份名单,列明由合格航空器运营人登记且已同意参与CMAP计划的机组人员。尽管并非CMAP计划的组成部分,但根据49 CFR 1542.209、1544.229、1544.230及相关安全指令(SD)的规定,机组人员另需成功完成安全威胁评估(STA),该评估包括犯罪记录、移民身份及恐怖主义相关审查。因此,经其航空器运营人通过MCL或MPL上的特殊机组代码识别的个人,均已预先经过审查,并被确定为有资格获得快速安检服务。",
+      "在某些美国机场,TSA将设立并指定CMAP通道点。TSA将为每位抵达指定地点的机组人员拍摄数码照片。TSA的系统将把该照片与联邦数据库中该个人的照片进行比对。如生物特征匹配成功,该机组人员将有资格获得进入无菌区的快速通道。如未匹配成功(或该机组人员被随机抽中接受不可预测的安检程序),该机组人员将被引导至TSA旅客检查站接受安检。",
+      "将该计划的运营从美国航空公司协会(A4A)转移至TSA,将提升存储机组人员信息的数据和系统的网络安全性,加强身份验证,并使TSA能够更好地利用机组人员信息来履行其航空安全监督职责。因公出差或因个人事务在国内旅行的机组人员均符合获得此快速通道的资格,这使TSA能够将有限的安检资源集中用于高风险旅客,同时加快机组人员的通行速度。对于违反TSA在49 CFR 1540.103至1540.111中规定的监管要求或其他适用联邦要求的行为,TSA可暂时或永久暂停其CMAP计划权限。[6] 严重不当行为、犯罪活动或情报信息也可能导致取消CMAP计划资格,无论该失格行为或信息是否伴随有监管违规行为。",
+      "TSA计划自2026年夏季起,随着KCM通道点的逐步停用,在全国范围内分批实施CMAP通道点。这种渐进式过渡将允许进行持续的运营测试和设备部署,以符合预算需求。但是,CMAP费用要到2027年1月1日才生效。(印刷页第39631页)自2027年1月1日起,航空器运营人必须为任何使用CMAP通道点的机组人员支付CMAP费用。",
+      "二、CMAP计划费用",
+      "2006年,国会指示TSA征收费用,以支付任何注册旅客计划的成本。[7] 该规定要求TSA“通过在《联邦公报》上发布通知,对国土安全部实施的任何注册旅客计划征收费用”,前提是“此类费用不得超过与该计划相关的总成本”。[8] TSA还被允许通过在《联邦公报》上发布通知来调整该费用。[9]",
+      "根据注册旅客费用授权获得资助的计划,利用自愿参与额外的预先审查和/或加强身份验证,以提供增强的安全保障并加快安检体验。[10] TSA已确定CMAP计划属于注册旅客计划,因为该计划允许同意参与的机组人员通过向TSA提供其生物信息和/或生物特征数据,来协助其身份验证以及与审查结果的匹配。如上所述,该计划有助于将TSA有限的安检资源集中用于更高风险的旅客,同时加快机组人员的通行速度。",
+      "运输安全管理局(TSA)根据适用的法定和政策标准制定了机组人员访问计划(CMAP)的成本估算。[11] TSA制定了预计成本和用户数量的模型,以确定在5年期间内收回CMAP计划成本的费用。为实现全额收回CMAP计划成本的收入征集,TSA将对每个参与的航空器运营人按每名机组成员19.00美元征收年费。[12] TSA将根据航空器运营人参与CMAP计划的机组人员数量按年向其开具发票。如果航空器运营人未能在发票日期后30天内向TSA缴纳所需费用,其机组人员可能被从CMAP计划中移除,并丧失快速安检资格。参与的航空器运营人必须向TSA提供纳税人识别号以及一名财务联系人(姓名、邮寄地址、电话号码和电子邮件地址),TSA将使用该联系人处理账单及其他财务事宜。",
+      "TSA将至少每两年审查一次该费用,以确保费用与TSA运营该计划的成本相符。如果将来有必要调整费用金额,TSA将向公众发布通知。",
+      "日期:2026年6月25日。",
+      "Susan Tashiro,",
+      "代理执行助理局长,技术与系统部,运输安全管理局。",
+      "脚注",
+      "1. 见《落实9/11委员会建议法》(Implementing Recommendations of the 9/11 Commission Act of 2007),公法110-53号,第十六章第1614条,121 Stat. 266, 486 (2007年)(9/11法案)(规定TSA必须“建立一种无菌区域访问系统或方法,通过在安检站妥善识别获授权的航空公司飞行机组和客舱机组成员并准予其快速通过安检站,从而加强安全”)。",
+      "返回引文",
+      "2. A4A是航空器运营人的协会。参见《我们是谁》,Airlines for America®,https://www.airlines.org/​who-we-are/​(最后访问日期:2026年4月16日)。其现任成员包括阿拉斯加航空公司、美国航空公司、阿特拉斯航空公司、达美航空公司、联邦快递公司、捷蓝航空公司、西南航空公司、联合航空公司和UPS公司。同上。",
+      "返回引文",
+      "3. 有关该计划的一般信息,请参见https://www.knowncrewmember.org/​about-us/​。",
+      "返回引文",
+      "4. 该快速通行计划仅限于受49 CFR第1544部分管辖的国内航空器运营人,不适用于受49 CFR第1546部分管辖的外国航空承运人。",
+      "返回引文",
+      "5. 参见19 CFR 122.49c、49 U.S.C. 114以及相关的安全指令,这些指令属于敏感安全信息。",
+      "返回引文",
+      "6. 参见49 U.S.C.第465章和49 U.S.C. 46302条。",
+      "返回引文",
+      "7. 《2006财年国土安全部拨款法》,公法109-90号,第540条,119 Stat. 2064, 2088-89(2005年)(编入49 U.S.C. 114注)。",
+      "返回引文",
+      "8. 同上。",
+      "返回引文",
+      "9. 同上。",
+      "返回引文",
+      "10. 参见《注册旅客互操作性试点计划》,73 FR 44275, 44276(2008年7月20日)。另见《TSA PreCheck申请计划》,78 FR 72922(2013年12月4日);《TSA现代化替代身份验证用户费》,90 FR 52427(2025年11月20日);《TSA Confirm.ID用户费》,90 FR 55754(2025年12月3日)。",
+      "返回引文",
+      "11. 参见行政管理和预算局通告A-25号。",
+      "返回引文",
+      "12. 详细的成本、人口和费用计算信息载于TSA机组人员访问点计划费用制定报告,网址为www.tsa.gov/​ADDRESS。",
+      "返回引文",
+      "[FR Doc. 2026-13098 Filed 6-29-26; 8:45 am]",
+      "编号代码 9110-05-P"
+    ],
+    "ja": [
+      "文書見出し",
+      "文書見出しは文書の種類によって異なるが、以下の事項を含む場合がある。",
+      "文書を発出し署名した一又は複数の機関",
+      "当該文書が改正し、改正を提案し、又は直接関係する連邦規則集(CFR)のタイトル番号及び各編の番号",
+      "機関の整理番号又は機関内部のファイル番号",
+      "連邦規制及び規制緩和行動統一アジェンダに掲載される各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブックを参照のこと。",
+      "国土安全保障省",
+      "運輸保安庁",
+      "(印刷ページ39630)",
+      "機関:",
+      "運輸保安庁、国土安全保障省。",
+      "措置:",
+      "告示。",
+      "概要:",
+      "本告示は、乗務員アクセスポイント(CMAPTM)プログラムへの参加を選択する航空機運航者に対する手数料を、従業員一人当たり年額19.00ドルと定めるものである。CMAPプログラムは、従前は既知乗務員(KCMTM)プログラムと呼ばれていたものであり、特定の米国内空港における保安区域への迅速な審査通過を、運輸保安庁(TSA)の規制対象となる航空機運航者の適格な乗務員に提供するものである。運輸保安庁は、関心を有する航空機運航者に対し、本プログラムへの参加方法及び手数料の納付方法に関する案内を提供する。",
+      "日付:",
+      "本告示により公表される手数料は、2027年1月1日に発効する。",
+      "問い合わせ先:",
+      "ジェイミー・A・サイモン、プログラム実施課、信頼済み旅行者及び資格認証部門、TSA-10、運輸保安庁、6595 Springfield Center Drive, Springfield, VA 20598、電話(202) 306-0344、電子メールCMAPOps@tsa.dhs.gov。",
+      "補足情報:",
+      "I. プログラムの概要",
+      "2011年、運輸保安庁(TSA)は、適格な航空機運航者の正規の乗務員に対し保安区域への迅速なアクセスを提供するという法定要件を満たすため、航空機運航者及び業界団体と協力してKCMプログラムを実施した。[1]現在、Airlines for America(A4A)[2]が、独自の情報技術のハードウェア及びソフトウェア、データ収集方法並びに本人確認手段を通じてKCMプログラムを管理している。[3]",
+      "適格な航空機運航者[4]は、A4Aを通じてKCMプログラムに加入する。KCMを利用する権限を得るためには、航空機運航者は適格な従業員を登録しなければならず、当該個人は、勤務中の乗務員、回送便の乗務員、又は国内を移動する非番の乗務員のいずれかでなければならない。「乗務員」という用語には、機長、操縦士、副操縦士又はコーパイロット、客室乗務員、航空機関士、航法士及び全貨物便の積荷責任者が含まれる。",
+      "乗務員は、特別に指定されたKCMアクセス地点において、航空機運航者発行の身分証明書及び許容される本人確認書類を提示する。当該地点にはTSA職員が配置されている。TSA職員は、乗務員に割り当てられたKCMバーコードを読み取り、適格な乗務員に関するA4Aのデータベースから情報を取得する。乗務員の身分証明書とA4Aから取得した情報とが一致した場合、当該乗務員は特定の米国内空港における保安区域への迅速なアクセスを受けることができる。",
+      "A4Aとの合意に基づき、かつA4Aの発意により、運輸保安庁(TSA)は2026暦年末までにKCM機能の管理運営に関する責任を引き継ぐこととなる。その時点において、TSAは本プログラムの名称をCMAPに変更する。TSAは、マスター乗務員リスト(MCL)及びマスター要員リスト(MPL)プログラム[5]の一環として航空機運航者から受領する乗務員情報を使用する。MCLは、TSAによる審査を経て、米国及びその領域への、から、又は上空を飛行することを許可され、保安上の脅威とならないと判断された乗務員で構成される。49 CFR第1544部の規制を受ける旅客機及び全貨物機の運航者のうち、国際便を運航するものは、MCLをTSAに提出することが義務付けられている。MPLは、米国内のみを飛行する乗務員を含む、特定の航空機運航者が使用するためにTSAが作成したリストである。MCL及びMPLはいずれも、氏名、性別、生年月日及び出生地等の主要な身元情報を含んでおり、TSAはこれをCMAPのために活用する。",
+      "TSAが運営するMPLまたはMCLの提出の一環として、CMAPに参加する航空機運航者は、本プログラムへの参加に同意した乗務員を明示しなければならない。運輸保安庁(TSA)は、この情報を用いて、適格な航空機運航者により登録され、かつCMAPプログラムへの参加に同意した乗務員の一覧を作成する。CMAPプログラムの構成要素ではないものの、乗務員は49 CFR 1542.209、1544.229、1544.230及び関連する保安指令(SD)の規定に基づき、別途、犯罪歴、移民関係及びテロリズム関係の確認を含む保安脅威評価(STA)を正常に完了することが義務付けられている。その結果、MCLまたはMPLにおいて航空機運航者により特別乗務員コードを通じて識別された個人は、事前審査済みであり、迅速審査を受ける資格があると判定される。",
+      "特定の米国内空港において、TSAはCMAPアクセスポイントを設置及び指定する。TSAは、指定された場所に到着した各乗務員のデジタル写真を撮影する。TSAのシステムは、この写真を連邦データベース内の当該個人の写真と照合する。生体認証による一致が確認された場合、当該乗務員は無菌区域への迅速なアクセスを受ける資格を得る。一致が確認されない場合(または当該乗務員が予測不可能な審査手続のために無作為に選定された場合)、当該乗務員はTSAの旅客検問所に案内され、審査を受けることとなる。",
+      "本プログラムの運用をA4AからTSAへ移管することにより、乗務員情報を保持するデータ及びシステムのサイバーセキュリティが向上し、本人確認が強化され、TSAが航空保安監督責任の一環として乗務員情報をより有効に活用できるようになる。公務での渡航又は私的な理由による国内渡航を行う乗務員は、この迅速なアクセスの対象となる資格を有し、これによりTSAは限られた審査資源を最もリスクの高い旅客に集中させることが可能となり、同時に乗務員の渡航を迅速化することができる。TSAは、49 CFR 1540.103から1540.111までに定めるTSAの規制上の要件、またはその他の適用される連邦要件[6]への違反について、CMAPプログラムの特典を一時的または恒久的に停止することができる。悪質な行為、犯罪行為、または情報機関情報も、当該失格行為または情報に関連する規制違反の有無にかかわらず、CMAPプログラムからの失格につながる可能性がある。",
+      "TSAは、2026年夏からKCMアクセスポイントが段階的に廃止されるのに伴い、全国で順次CMAPアクセスポイントを導入する計画である。この段階的な移行により、予算上の必要性に合致した継続的な運用試験及び機器の配備が可能となる。ただし、CMAP手数料は2027年1月1日まで発効しない(印刷ページ39631)。2027年1月1日以降、航空機運航者は、CMAPアクセスポイントを利用する乗務員について、CMAP手数料を支払わなければならない。",
+      "II. CMAPプログラム手数料",
+      "2006年、連邦議会はTSAに対し、あらゆる登録旅行者プログラムの費用を賄うための手数料を徴収するよう指示した。[7]この規定は、「かかる手数料は当該プログラムに関連する総費用を超えてはならない」ことを条件として、TSAに「国土安全保障省が実施する登録旅行者プログラムについて、連邦官報における告示により手数料を課す」ことを義務付けている。[8]TSAはまた、連邦官報に告示を公表することにより、当該手数料を改定することが認められている。[9]",
+      "登録旅行者手数料の権限の下で資金提供されるプログラムは、任意の参加による追加的な事前審査及び/または強化された本人確認を活用し、保安の強化及び審査手続の迅速化を提供するものである。[10]TSAは、CMAPプログラムが、同意した乗務員がTSAに自己の生体情報及び/または生体認証データへのアクセスを提供することにより本人確認及びその結果としての審査結果との照合を容易にすることを可能にするものであることから、登録旅行者プログラムに該当すると判断した。上記のとおり、本プログラムは、TSAの限られた審査資源をよりリスクの高い旅客に優先的に充てることを可能にすると同時に、乗務員の渡航を迅速化するものである。",
+      "TSAは、適用される法定及び政策上の基準に従い、CMAPプログラムの費用見積りを策定した。[11] TSAは、CMAPプログラムの費用を5年間にわたって回収する手数料を設定するため、予測費用及び利用者数に関するモデルを策定した。CMAPプログラムの費用を完全に回収するための歳入を得るため、TSAは参加する各航空機運航者に対し、乗務員1人当たり年額19.00ドルの手数料を課す。[12] TSAは、CMAPプログラムに参加する乗務員の人数に基づき、航空機運航者に対して毎年請求書を発行する。航空機運航者が請求書発行日から30日以内にTSAに対して必要な手数料を納付しない場合、その乗務員はCMAPプログラムから除外され、迅速審査の対象外となることがある。参加する航空機運航者は、TSAに対し、納税者番号及び財務上の連絡先(氏名、郵送先住所、電話番号及び電子メールアドレス)を提供しなければならず、TSAはこれを請求その他の財務上の事項に使用する。",
+      "TSAは、この手数料がプログラム運営費用と整合していることを確認するため、少なくとも2年に1回、本手数料を見直す。TSAは、将来手数料額を変更する必要が生じた場合には、その旨を公衆に通知する。",
+      "日付:2026年6月25日。",
+      "スーザン・タシロ",
+      "運輸保安庁(TSA)技術・システム担当次席執行補佐局長代理。",
+      "脚注",
+      "1. 2007年9/11委員会勧告実施法(Public Law 110-53、第XVI編、第1614条、121 Stat. 266, 486(2007年))(9/11法)を参照のこと。同法は、TSAが「保安検査場において、権限を有する航空会社の操縦室及び客室乗務員を適切に識別し、保安検査場を通じた迅速な通過を許可することにより保安を強化する無菌区域アクセス制度又は方式を制定しなければならない」と定めている。",
+      "引用元に戻る",
+      "2. A4Aは航空機運航者の団体である。Who We Are, Airlines for America®, https://www.airlines.org/​who-we-are/​ (2026年4月16日最終閲覧)を参照のこと。現在の会員は、アラスカ航空、アメリカン航空、アトラス航空、デルタ航空、フェデックス、ジェットブルー、サウスウエスト航空、ユナイテッド航空及びUPSである。同上。",
+      "引用元に戻る",
+      "3. プログラムの一般情報については、https://www.knowncrewmember.org/​about-us/​ を参照のこと。",
+      "引用元に戻る",
+      "4. この迅速アクセスプログラムは、49 CFR第1544部の対象となる国内航空機運航者に限定されており、49 CFR第1546部の対象となる外国航空会社には適用されない。",
+      "引用元に戻る",
+      "5. 19 CFR 122.49c、49 U.S.C. 114及び関連する保安指令(機密保安情報に該当する)を参照のこと。",
+      "引用元に戻る",
+      "6. 49 U.S.C. 第465章及び49 U.S.C. 46302を参照のこと。",
+      "引用元に戻る",
+      "7. 2006年国土安全保障省歳出法(Public Law 109-90、第540条、119 Stat. 2064, 2088-89(2005年))(49 U.S.C. 114の注釈として成文化)。",
+      "引用元に戻る",
+      "8. 同上。",
+      "引用元に戻る",
+      "9. 同上。",
+      "引用元に戻る",
+      "10. 登録旅行者相互運用性試験プログラム、73 FR 44275, 44276(2008年7月20日)を参照のこと。あわせて、TSA PreCheck申込プログラム、78 FR 72922(2013年12月4日)、TSA近代化代替本人確認利用者手数料、90 FR 52427(2025年11月20日)、TSA Confirm.ID利用者手数料、90 FR 55754(2025年12月3日)も参照のこと。",
+      "引用元に戻る",
+      "11. 行政管理予算局通達A-25を参照のこと。",
+      "引用元に戻る",
+      "12. 費用、対象人口及び手数料算定に関する詳細な情報は、TSA乗務員アクセスポイントプログラム手数料策定報告書(www.tsa.gov/​ADDRESS)に記載されている。",
+      "引用元に戻る",
+      "[FR Doc. 2026-13098 Filed 6-29-26; 8:45 am]",
+      "請求コード 9110-05-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
