@@ -89,5 +89,151 @@
   "topics": [
     "fees"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/30/2026"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services has issued a Federal Register notice that will increase certain H.R. 1 immigration-related fees for fiscal year 2027. These fee adjustments are minor and account for inflation from July 2025 through July 2026."
+      },
+      {
+        "t": "p",
+        "x": "On July 22, 2025, USCIS published a Federal Register notice announcing the implementation of these H.R. 1 immigration-related fees. Beginning in FY 2026, and continuing for each subsequent fiscal year, the Department of Homeland Security will adjust some of these fees for inflation, as specified in H.R. 1."
+      },
+      {
+        "t": "p",
+        "x": "The new inflation-adjusted fees are effective on Oct. 16, 2026. If you submit a request postmarked on or after Oct. 16, 2026, for a benefit that requires one of these fees, you must include the new fee for the specific benefit you are requesting. Any request postmarked on or after Oct. 16, 2026 without the proper filing fee will be rejected."
+      },
+      {
+        "t": "p",
+        "x": "The table below outlines all the fee changes in the Federal Register notice."
+      },
+      {
+        "t": "tr",
+        "x": "Form Type | Previous Fee | New Fee"
+      },
+      {
+        "t": "tr",
+        "x": "Annual Asylum Application Fee | $102 | $105"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-131, Application for Travel Documents, Parole Documents, and Arrival/Departure Records, Immigration Parole Fee | $1,020 | $1,050"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-765, Application for Employment Authorization, if you are applying for an initial:"
+      },
+      {
+        "t": "li",
+        "x": "Asylum applicant Employment Authorization Document (EAD)"
+      },
+      {
+        "t": "li",
+        "x": "Parole EAD"
+      },
+      {
+        "t": "li",
+        "x": "Temporary Protected Status EAD"
+      },
+      {
+        "t": "p",
+        "x": "$560 | $570"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-821, Application for Temporary Protected Status | $510 | $520"
+      },
+      {
+        "t": "p",
+        "x": "09/30/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:40Z",
+    "from": "page",
+    "chars": 1485
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 9월 30일",
+      "미국 시민권 이민국(USCIS)은 2027회계연도에 적용될 일부 H.R. 1 이민 관련 수수료를 인상하는 연방관보 공고를 발표하였습니다. 이러한 수수료 조정은 경미한 수준이며 2025년 7월부터 2026년 7월까지의 물가상승률을 반영한 것입니다.",
+      "2025년 7월 22일, USCIS는 이러한 H.R. 1 이민 관련 수수료의 시행을 발표하는 연방관보 공고를 게재하였습니다. 2026회계연도부터 시작하여 이후 각 회계연도마다, 국토안보부(DHS)는 H.R. 1에 명시된 바에 따라 이러한 수수료 중 일부를 물가상승률에 맞추어 조정할 것입니다.",
+      "새로 물가상승률이 반영된 수수료는 2026년 10월 16일부터 발효됩니다. 2026년 10월 16일 또는 그 이후의 소인이 찍힌 신청서로 이러한 수수료 중 하나가 요구되는 혜택을 신청하는 경우, 신청하려는 특정 혜택에 해당하는 새로운 수수료를 포함하여야 합니다. 2026년 10월 16일 또는 그 이후의 소인이 찍힌 신청서로서 올바른 접수 수수료가 포함되지 않은 경우는 반려됩니다.",
+      "아래 표는 연방관보 공고에 명시된 모든 수수료 변경 사항을 정리한 것입니다.",
+      "서식 종류 | 기존 수수료 | 신규 수수료",
+      "연간 망명 신청 수수료 | 102달러 | 105달러",
+      "Form I-131, 여행증명서, 가석방 증명서 및 출입국 기록 신청서(Application for Travel Documents, Parole Documents, and Arrival/Departure Records), 이민 가석방 수수료 | 1,020달러 | 1,050달러",
+      "Form I-765, 고용허가 신청서(Application for Employment Authorization), 다음에 대한 최초 신청인 경우:",
+      "망명 신청자 고용허가서(EAD)",
+      "가석방 고용허가서(EAD)",
+      "임시보호신분(TPS) 고용허가서(EAD)",
+      "560달러 | 570달러",
+      "Form I-821, 임시보호신분 신청서(Application for Temporary Protected Status) | 510달러 | 520달러",
+      "2026년 9월 30일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "30/09/2026",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) ha emitido un aviso en el Registro Federal que aumentará ciertas tarifas relacionadas con inmigración de la H.R. 1 para el año fiscal 2027. Estos ajustes de tarifas son menores y reflejan la inflación desde julio de 2025 hasta julio de 2026.",
+      "El 22 de julio de 2025, USCIS publicó un aviso en el Registro Federal anunciando la implementación de estas tarifas relacionadas con inmigración de la H.R. 1. A partir del año fiscal 2026, y continuando en cada año fiscal subsiguiente, el Departamento de Seguridad Nacional (DHS) ajustará algunas de estas tarifas por inflación, según lo especificado en la H.R. 1.",
+      "Las nuevas tarifas ajustadas por inflación entrarán en vigencia el 16 de octubre de 2026. Si usted presenta una solicitud con matasellos del 16 de octubre de 2026 o posterior, para un beneficio que requiera una de estas tarifas, debe incluir la nueva tarifa correspondiente al beneficio específico que está solicitando. Cualquier solicitud con matasellos del 16 de octubre de 2026 o posterior que no incluya la tarifa de presentación correcta será rechazada.",
+      "La siguiente tabla describe todos los cambios de tarifas incluidos en el aviso del Registro Federal.",
+      "Tipo de formulario | Tarifa anterior | Nueva tarifa",
+      "Tarifa anual de solicitud de asilo | $102 | $105",
+      "Formulario I-131, Solicitud de Documentos de Viaje, Documentos de Libertad Condicional y Registros de Llegada/Salida, Tarifa de Libertad Condicional de Inmigración | $1,020 | $1,050",
+      "Formulario I-765, Solicitud de Autorización de Empleo, si usted está solicitando una autorización inicial de:",
+      "Documento de Autorización de Empleo (EAD) para solicitante de asilo",
+      "EAD de libertad condicional",
+      "EAD de Estatus de Protección Temporal",
+      "$560 | $570",
+      "Formulario I-821, Solicitud de Estatus de Protección Temporal | $510 | $520",
+      "30/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年09月30日",
+      "美国公民及移民服务局（USCIS）已发布一份联邦公报通知，将在2027财年提高某些与《H.R. 1法案》相关的移民费用。这些费用调整幅度较小，用以反映2025年7月至2026年7月期间的通货膨胀情况。",
+      "2025年7月22日，美国公民及移民服务局（USCIS）发布了一份联邦公报通知，宣布实施这些与《H.R. 1法案》相关的移民费用。自2026财年起，并延续至此后每个财政年度，美国国土安全部（DHS）将根据《H.R. 1法案》的规定，对其中部分费用进行通货膨胀调整。",
+      "新的经通胀调整的费用将于2026年10月16日起生效。如果您提交的申请邮戳日期为2026年10月16日或之后，且该申请涉及需缴纳上述费用之一的福利项目，您必须缴纳所申请特定福利项目对应的新费用。凡邮戳日期为2026年10月16日或之后且未缴纳正确申请费用的申请，将被退回。",
+      "下表列出了该联邦公报通知中所有费用变更情况。",
+      "表格类型 | 原费用 | 新费用",
+      "年度庇护申请费 | 102美元 | 105美元",
+      "I-131表，旅行证件、假释证件及出入境记录申请表，移民假释费 | 1,020美元 | 1,050美元",
+      "I-765表，就业授权申请表，如您申请初次：",
+      "庇护申请人就业授权文件（EAD）",
+      "假释就业授权文件（EAD）",
+      "临时保护身份就业授权文件（EAD）",
+      "560美元 | 570美元",
+      "I-821表，临时保护身份申请表 | 510美元 | 520美元",
+      "2026年09月30日"
+    ],
+    "ja": [
+      "公開日",
+      "2026年9月30日",
+      "米国市民権・移民局(USCIS)は、2027会計年度における特定のH.R. 1関連の移民手数料を引き上げる連邦官報告示を発表しました。これらの手数料調整は小幅なものであり、2025年7月から2026年7月までのインフレーションを反映したものです。",
+      "2025年7月22日、USCISはH.R. 1関連の移民手数料の実施を発表する連邦官報告示を公表しました。2026会計年度以降、国土安全保障省(DHS)は、H.R. 1に規定されているとおり、毎会計年度これらの手数料の一部をインフレーションに応じて調整します。",
+      "新たにインフレーション調整された手数料は、2026年10月16日に発効します。2026年10月16日以降の消印がある申請でこれらの手数料のいずれかを必要とする便益を申請する場合は、申請する特定の便益に対する新しい手数料を含める必要があります。2026年10月16日以降の消印がある申請で適切な申請手数料が含まれていないものは却下されます。",
+      "以下の表は、連邦官報告示におけるすべての手数料変更の概要を示しています。",
+      "様式種別 | 以前の手数料 | 新しい手数料",
+      "年次亡命申請手数料 | $102 | $105",
+      "フォームI-131(渡航証明書、仮放免証明書及び出入国記録申請書)、移民仮放免手数料 | $1,020 | $1,050",
+      "フォームI-765(就労許可申請書)について、次の初回申請を行う場合:",
+      "亡命申請者就労許可証(EAD)",
+      "仮放免EAD",
+      "一時保護資格(TPS)EAD",
+      "$560 | $570",
+      "フォームI-821(一時保護資格申請書) | $510 | $520",
+      "2026年9月30日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }

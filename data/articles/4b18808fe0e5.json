@@ -92,5 +92,127 @@
   "topics": [
     "enforcement"
   ],
-  "classified_by": "manual"
+  "classified_by": "manual",
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "09/28/2026"
+      },
+      {
+        "t": "p",
+        "x": "TAMPA, Fla. — U.S. Citizenship and Immigration Services played a critical role in the investigation that led to the conviction of Lazaro Alain Cabrera-Rodriguez, 28, of Hialeah, Florida, for his role in an international alien smuggling and money laundering conspiracy. According to court documents and evidence presented at trial, Cabrera-Rodriguez, a Cuban alien, conspired with others to operate an alien smuggling organization that facilitated the unlawful entry of thousands of Cuban aliens into the United States through the southern border. The organization charged between $1,500 and $40,000 for its smuggling services, and co-conspirators sometimes chartered private planes to transport groups of aliens. The U.S. Attorney’s Office for the Middle District of Florida announced the conviction."
+      },
+      {
+        "t": "p",
+        "x": "The defendants often used fraudulent Electronic System for Travel Authorization visa waivers and advertised their smuggling and bogus visa services on multiple social media platforms. Through these efforts, they solicited Cuban nationals and other aliens to try to illegally enter the country and fraudulently obtain lawful immigration status in the United States. Financial records show that, over the course of the conspiracy, more than $20 million passed through at least 57 bank accounts controlled by the defendant and his co-conspirators."
+      },
+      {
+        "t": "p",
+        "x": "The alien smuggling organization advertised services that included helping Cubans make false claims of European citizenship to enter the United States on a European tourist visa waiver or ESTA. The organization also filed hundreds of fraudulent ESTA applications with U.S. Customs and Border Protection using fake addresses. Cuban nationals are not eligible for the ESTA program. The defendants falsely represented that the applicants had not been in Cuba since 2011, despite knowing the applicants were in Cuba when the ESTA applications were submitted. Cabrera-Rodriguez furthered the conspiracy by helping transport aliens from their countries of origin, including Cuba, into the United States. This included purchasing international and domestic flights to transport aliens into and throughout the United States."
+      },
+      {
+        "t": "p",
+        "x": "Cabrera-Rodriguez and his co-defendants also conspired to regularly move funds to companies outside of the United States. Between 2021 and 2024, Cabrera-Rodriguez and his co-conspirators transmitted more than $600,000 from the United States to purchase flights for aliens to unlawfully enter the United States."
+      },
+      {
+        "t": "p",
+        "x": "A jury convicted Cabrera-Rodriguez of conspiracy to commit alien smuggling for financial gain, conspiracy to commit international money laundering, and conspiracy to commit money laundering concealment. He is scheduled to be sentenced Dec. 17 and faces a maximum penalty of 20 years in prison. A federal district court judge will determine any sentence after considering the U.S. Sentencing Guidelines and other statutory factors."
+      },
+      {
+        "t": "p",
+        "x": "Twelve individuals were charged in a superseding indictment for their roles in the conspiracy. Liannys Yaiselys Vega-Perez, 31; Miguel Alejandro Martinez Vasconcelos, 31; Layra Libertad Treto Santos, 30; Emanuel Martinez Gonzalez, 29; Walbis Pozo-Dutel, 31; Luis Emmanuel Escalona-Marrero, 32; and Gisleivy Peralta Consuegra, 41, have all pleaded guilty and are awaiting sentencing. Erik Ventura-Castro, 24, pleaded guilty on May 7 and was sentenced on July 29 to 30 months in prison."
+      },
+      {
+        "t": "p",
+        "x": "U.S. Immigration and Customs Enforcement’s Homeland Security Investigations Tampa, U.S. Border Patrol Miami Sector, and USCIS’ Fraud Detection and National Security Directorate led U.S. investigative efforts, with substantial assistance from HSI’s Human Smuggling Unit in Washington, D.C., and CBP’s National Targeting Center International Interdiction Task Force. The Justice Department’s Office of International Affairs and authorities in the Cayman Islands provided valuable assistance."
+      },
+      {
+        "t": "p",
+        "x": "Trial Attorney Amanda Brown of the Criminal Division’s Human Rights and Special Prosecutions Section and Assistant U.S. Attorney Courtney Derry for the Middle District of Florida are prosecuting the case."
+      },
+      {
+        "t": "p",
+        "x": "To report suspected immigration benefit fraud or abuse to USCIS, please use the USCIS Tip Form."
+      },
+      {
+        "t": "p",
+        "x": "For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "09/28/2026"
+      }
+    ],
+    "fetched": "2026-10-12T17:42Z",
+    "from": "page",
+    "chars": 4336
+  },
+  "full": {
+    "ko": [
+      "배포일",
+      "2026년 9월 28일",
+      "탬파, 플로리다, 미국 시민권 이민국(USCIS)은 플로리다주 히알리아 거주 라자로 알라인 카브레라 로드리게스(28세)가 국제 외국인 밀입국 및 자금세탁 공모 혐의로 유죄 판결을 받은 수사에서 핵심적인 역할을 수행했습니다. 법원 문서와 재판에서 제시된 증거에 따르면, 쿠바 국적 외국인인 카브레라 로드리게스는 다른 공모자들과 함께 수천 명의 쿠바 국적 외국인이 남부 국경을 통해 미국에 불법 입국하도록 돕는 밀입국 조직을 운영하기로 공모했습니다. 이 조직은 밀입국 서비스 대가로 1,500달러에서 40,000달러를 청구했으며, 공모자들은 때때로 외국인 그룹을 이송하기 위해 전세기를 이용하기도 했습니다. 플로리다 중부지구 연방검찰청이 이번 유죄 판결을 발표했습니다.",
+      "피고인들은 종종 부정한 전자여행허가제(ESTA) 비자 면제를 이용했으며, 여러 소셜 미디어 플랫폼을 통해 밀입국 및 허위 비자 서비스를 광고했습니다. 이러한 활동을 통해 그들은 쿠바 국적자 및 기타 외국인들에게 불법 입국을 시도하고 미국에서 부정하게 합법적인 이민 신분을 취득하도록 권유했습니다. 재무 기록에 따르면, 공모 기간 동안 피고인과 공모자들이 관리하는 최소 57개 은행 계좌를 통해 2천만 달러 이상이 이동한 것으로 나타났습니다.",
+      "이 외국인 밀입국 조직은 쿠바인들이 유럽 시민권을 허위로 주장하여 유럽 관광 비자 면제 또는 ESTA를 통해 미국에 입국하도록 돕는 서비스를 광고했습니다. 이 조직은 또한 가짜 주소를 사용하여 미국 세관국경보호청(CBP)에 수백 건의 부정한 ESTA 신청서를 제출했습니다. 쿠바 국적자는 ESTA 프로그램 대상이 아닙니다. 피고인들은 신청자들이 ESTA 신청서를 제출할 당시 쿠바에 있었다는 사실을 알고 있었음에도 불구하고, 신청자들이 2011년 이후 쿠바에 간 적이 없다고 허위로 진술했습니다. 카브레라 로드리게스는 쿠바를 포함한 출신국에서 외국인들을 미국으로 이송하는 것을 도와 공모를 촉진했습니다. 여기에는 외국인들을 미국으로 그리고 미국 내에서 이송하기 위해 국제선 및 국내선 항공편을 구매하는 행위도 포함되었습니다.",
+      "카브레라 로드리게스와 그의 공동피고인들은 또한 자금을 정기적으로 미국 외 국가의 회사로 이체하기로 공모했습니다. 2021년부터 2024년까지 카브레라 로드리게스와 공모자들은 외국인들이 미국에 불법 입국하기 위한 항공편을 구매하는 데 사용할 60만 달러 이상의 자금을 미국에서 송금했습니다.",
+      "배심원단은 카브레라 로드리게스에게 금전적 이득을 위한 외국인 밀입국 공모, 국제 자금세탁 공모, 자금세탁 은닉 공모 혐의로 유죄 평결을 내렸습니다. 그는 12월 17일에 선고를 받을 예정이며 최고 20년의 징역형에 처해질 수 있습니다. 연방 지방법원 판사는 미국 양형 가이드라인과 기타 법정 요소들을 고려한 후 형량을 결정할 것입니다.",
+      "12명이 이번 공모 혐의와 관련하여 대체 기소장에 의해 기소되었습니다. 리아니스 야이셀리스 베가 페레스(31세), 미겔 알레한드로 마르티네스 바스콘셀로스(31세), 라이라 리베르타드 트레토 산토스(30세), 에마누엘 마르티네스 곤잘레스(29세), 월비스 포소 두텔(31세), 루이스 에마누엘 에스칼로나 마레로(32세), 히슬레이비 페랄타 콘수에그라(41세)는 모두 유죄를 인정했으며 선고를 기다리고 있습니다. 에릭 벤투라 카스트로(24세)는 5월 7일에 유죄를 인정했으며 7월 29일에 30개월 징역형을 선고받았습니다.",
+      "미국 이민세관단속국(ICE) 국토안보수사국(HSI) 탬파 지부, 미국 국경순찰대 마이애미 구역, 그리고 USCIS 사기 탐지 및 국가안보국이 미국 측 수사를 주도했으며, 워싱턴 D.C. 소재 HSI 인신밀입국 단속반과 CBP 국가표적센터 국제차단합동태스크포스의 상당한 지원을 받았습니다. 법무부 국제업무국과 케이맨 제도 당국도 귀중한 협조를 제공했습니다.",
+      "형사국 인권 및 특별기소과 소속 아만다 브라운 재판 검사와 플로리다 중부지구 연방검찰청 소속 코트니 데리 보조검사가 이 사건을 기소하고 있습니다.",
+      "USCIS에 의심되는 이민 혜택 사기 또는 남용 사례를 신고하려면 USCIS 제보 양식을 이용하시기 바랍니다.",
+      "USCIS 및 그 프로그램에 관한 자세한 정보는 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook, LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 9월 28일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "28/09/2026",
+      "TAMPA, Florida. Los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) desempeñaron un papel fundamental en la investigación que condujo a la condena de Lazaro Alain Cabrera-Rodriguez, de 28 años, de Hialeah, Florida, por su participación en una conspiración internacional de contrabando de extranjeros y lavado de dinero. Según los documentos judiciales y las pruebas presentadas en el juicio, Cabrera-Rodriguez, un extranjero cubano, conspiró con otras personas para operar una organización de contrabando de extranjeros que facilitó el ingreso ilegal de miles de extranjeros cubanos a los Estados Unidos a través de la frontera sur. La organización cobraba entre $1,500 y $40,000 por sus servicios de contrabando, y los coconspiradores en ocasiones fletaban aviones privados para transportar a grupos de extranjeros. La Fiscalía Federal de los Estados Unidos para el Distrito Medio de Florida anunció la condena.",
+      "Los acusados a menudo utilizaban exenciones de visa fraudulentas del Sistema Electrónico para la Autorización de Viaje (ESTA) y anunciaban sus servicios de contrabando y de visas falsas en múltiples plataformas de redes sociales. A través de estos esfuerzos, solicitaban a ciudadanos cubanos y a otros extranjeros que intentaran ingresar ilegalmente al país y obtener fraudulentamente un estatus migratorio legal en los Estados Unidos. Los registros financieros muestran que, en el transcurso de la conspiración, más de $20 millones pasaron a través de al menos 57 cuentas bancarias controladas por el acusado y sus coconspiradores.",
+      "La organización de contrabando de extranjeros anunciaba servicios que incluían ayudar a los cubanos a hacer declaraciones falsas de ciudadanía europea para ingresar a los Estados Unidos con una exención de visa de turista europea o ESTA. La organización también presentó cientos de solicitudes fraudulentas de ESTA ante la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) utilizando direcciones falsas. Los ciudadanos cubanos no son elegibles para el programa ESTA. Los acusados declararon falsamente que los solicitantes no habían estado en Cuba desde 2011, a pesar de saber que los solicitantes se encontraban en Cuba cuando se presentaron las solicitudes de ESTA. Cabrera-Rodriguez contribuyó a la conspiración ayudando a transportar extranjeros desde sus países de origen, incluida Cuba, hacia los Estados Unidos. Esto incluyó la compra de vuelos internacionales y nacionales para transportar a extranjeros hacia y dentro de los Estados Unidos.",
+      "Cabrera-Rodriguez y sus coacusados también conspiraron para trasladar fondos regularmente a empresas fuera de los Estados Unidos. Entre 2021 y 2024, Cabrera-Rodriguez y sus coconspiradores transmitieron más de $600,000 desde los Estados Unidos para comprar vuelos destinados a que extranjeros ingresaran ilegalmente a los Estados Unidos.",
+      "Un jurado declaró a Cabrera-Rodriguez culpable de conspiración para cometer contrabando de extranjeros con fines de lucro, conspiración para cometer lavado de dinero internacional y conspiración para cometer ocultamiento de lavado de dinero. Está programado para ser sentenciado el 17 de diciembre y enfrenta una pena máxima de 20 años de prisión. Un juez de un tribunal federal de distrito determinará cualquier sentencia después de considerar las Pautas de Sentencia Federales de los Estados Unidos y otros factores establecidos por la ley.",
+      "Doce personas fueron acusadas en una acusación formal sustitutiva por su participación en la conspiración. Liannys Yaiselys Vega-Perez, de 31 años; Miguel Alejandro Martinez Vasconcelos, de 31 años; Layra Libertad Treto Santos, de 30 años; Emanuel Martinez Gonzalez, de 29 años; Walbis Pozo-Dutel, de 31 años; Luis Emmanuel Escalona-Marrero, de 32 años; y Gisleivy Peralta Consuegra, de 41 años, se han declarado culpables y están a la espera de sentencia. Erik Ventura-Castro, de 24 años, se declaró culpable el 7 de mayo y fue sentenciado el 29 de julio a 30 meses de prisión.",
+      "La Oficina de Investigaciones de Seguridad Nacional de Tampa, del Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE), el Sector Miami de la Patrulla Fronteriza de los Estados Unidos, y la Dirección de Detección de Fraude y Seguridad Nacional de USCIS lideraron los esfuerzos de investigación en los Estados Unidos, con la asistencia sustancial de la Unidad de Contrabando de Personas de HSI en Washington, D.C., y el Grupo de Trabajo de Interdicción Internacional del Centro Nacional de Focalización de CBP. La Oficina de Asuntos Internacionales del Departamento de Justicia y las autoridades de las Islas Caimán brindaron una valiosa asistencia.",
+      "La fiscal de juicio Amanda Brown, de la Sección de Derechos Humanos y Enjuiciamientos Especiales de la División Criminal, y la fiscal federal auxiliar Courtney Derry, del Distrito Medio de Florida, están a cargo del procesamiento del caso.",
+      "Para reportar a USCIS sospechas de fraude o abuso de beneficios migratorios, utilice el Formulario de Denuncias de USCIS (USCIS Tip Form).",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "28/09/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年9月28日",
+      "佛罗里达州坦帕报道。美国公民及移民服务局(USCIS)在一项调查中发挥了关键作用,该调查最终导致28岁的佛罗里达州海厄利亚市居民拉萨罗·阿兰·卡夫雷拉罗德里格斯(Lazaro Alain Cabrera-Rodriguez)因参与一起国际偷运外国人及洗钱共谋案而被定罪。根据法庭文件及审判中出示的证据,卡夫雷拉罗德里格斯是一名古巴籍外国人,他与他人共谋经营一个偷运外国人组织,协助数千名古巴外国人经由南部边境非法进入美国。该组织的偷运服务收费介于1500美元至40000美元之间,共谋者有时还包租私人飞机运送成批的外国人。佛罗里达州中区美国联邦检察官办公室宣布了此定罪结果。",
+      "被告人经常使用伪造的旅行许可电子系统(ESTA)签证豁免,并在多个社交媒体平台上宣传其偷运及虚假签证服务。通过这些手段,他们招揽古巴国民及其他外国人,企图非法入境并在美国以欺诈方式获得合法移民身份。财务记录显示,在共谋期间,超过2000万美元通过被告及其共谋者控制的至少57个银行账户流转。",
+      "该偷运外国人组织所宣传的服务包括协助古巴人虚假声称拥有欧洲国籍,以便凭欧洲旅游签证豁免或ESTA进入美国。该组织还使用虚假地址,向美国海关及边境保护局(CBP)提交了数百份欺诈性ESTA申请。古巴国民不具备参加ESTA项目的资格。被告人虚假陈述称申请人自2011年以来未曾前往古巴,但实际上他们明知申请人在提交ESTA申请时正身处古巴。卡夫雷拉罗德里格斯通过协助将外国人从其原籍国(包括古巴)运送至美国,进一步推动了该共谋行为。这包括购买国际及国内航班机票,将外国人运送至美国境内及境内各地。",
+      "卡夫雷拉罗德里格斯及其共同被告还共谋定期将资金转移至美国境外的公司。2021年至2024年间,卡夫雷拉罗德里格斯及其共谋者从美国汇出超过600000美元,用于为外国人非法进入美国购买机票。",
+      "陪审团裁定卡夫雷拉罗德里格斯犯有共谋为谋取经济利益而偷运外国人罪、共谋实施国际洗钱罪及共谋实施洗钱隐匿罪。他定于12月17日接受量刑,最高可面临20年监禁。联邦地区法院法官将在参考美国量刑指南及其他法定因素后,确定最终判决。",
+      "在补充起诉书中,共有十二人因参与该共谋而被起诉。利安尼斯·雅伊塞利斯·维加佩雷斯(Liannys Yaiselys Vega-Perez),31岁;米格尔·亚历杭德罗·马丁内斯·瓦斯孔塞洛斯(Miguel Alejandro Martinez Vasconcelos),31岁;莱拉·利贝塔德·特雷托·桑托斯(Layra Libertad Treto Santos),30岁;埃曼纽尔·马丁内斯·冈萨雷斯(Emanuel Martinez Gonzalez),29岁;瓦尔比斯·波索杜特尔(Walbis Pozo-Dutel),31岁;路易斯·埃马努埃尔·埃斯卡洛纳马雷罗(Luis Emmanuel Escalona-Marrero),32岁;以及吉斯莱维·佩拉尔塔·孔苏埃格拉(Gisleivy Peralta Consuegra),41岁,均已认罪,正等待量刑。埃里克·文图拉卡斯特罗(Erik Ventura-Castro),24岁,已于5月7日认罪,并于7月29日被判处30个月监禁。",
+      "美国移民及海关执法局(ICE)国土安全调查局坦帕办公室、美国边境巡逻队迈阿密区以及USCIS欺诈检测与国家安全局牵头了美国的调查工作,并获得位于华盛顿特区的国土安全调查局人口偷运科以及CBP国家目标中心国际拦截特别工作组的大力协助。美国司法部国际事务办公室及开曼群岛当局也提供了宝贵的协助。",
+      "本案由司法部刑事司人权与特别检控科审判律师阿曼达·布朗(Amanda Brown)以及佛罗里达州中区助理联邦检察官考特尼·德里(Courtney Derry)负责起诉。",
+      "如需向USCIS举报涉嫌移民福利欺诈或滥用行为,请使用USCIS举报表格(USCIS Tip Form)。",
+      "欲了解有关USCIS及其各项项目的更多信息,请访问uscis.gov,或在X、Instagram、YouTube、Facebook及LinkedIn上关注我们。",
+      "2026年9月28日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年09月28日",
+      "フロリダ州タンパ発。米国市民権・移民局(USCIS)は、フロリダ州ハイアリア在住のラザロ・アラン・カブレラ・ロドリゲス容疑者(28歳)が国際的な外国人密入国及びマネーロンダリング共謀事件において果たした役割をめぐる有罪判決につながった捜査において、重要な役割を果たした。裁判記録及び公判で提示された証拠によれば、キューバ人であるカブレラ・ロドリゲスは、他の者と共謀し、何千人ものキューバ人を南部国境経由で米国へ不法入国させることを助長する外国人密入国組織を運営していた。同組織は密入国サービスの対価として1,500ドルから40,000ドルを請求しており、共謀者らは時に外国人集団を輸送するために民間機をチャーターしていた。この有罪判決はフロリダ州中部地区連邦検事局により発表された。",
+      "被告人らは、しばしば不正な電子渡航認証システム(ESTA)の査証免除を利用し、複数のソーシャルメディアプラットフォームで密入国及び虚偽の査証サービスを宣伝していた。これらの活動を通じて、被告人らはキューバ国民及びその他の外国人に対し、不法入国を試みること、及び米国において不正に合法的な移民資格を取得することを勧誘した。財務記録によれば、共謀期間を通じて、被告人及びその共謀者らが管理する少なくとも57の銀行口座を通じて2,000万ドル以上が流通していた。",
+      "この外国人密入国組織は、キューバ人がヨーロッパ市民権を虚偽に主張し、ヨーロッパの観光査証免除又はESTAを利用して米国に入国する手助けをするサービスを宣伝していた。同組織はまた、虚偽の住所を用いて、数百件の不正なESTA申請を米国税関国境警備局(CBP)に提出した。キューバ国民はESTAプログラムの対象外である。被告人らは、申請者が2011年以降キューバに滞在していないと虚偽の説明を行っていたが、実際にはESTA申請提出時点で申請者がキューバに滞在していたことを認識していた。カブレラ・ロドリゲスは、キューバを含む出身国から米国への外国人の輸送を手助けすることにより、共謀を助長した。これには、米国内外への外国人輸送のための国際線及び国内線航空券の購入が含まれていた。",
+      "カブレラ・ロドリゲス及びその共同被告人らはまた、定期的に資金を米国外の企業へ移動させることを共謀した。2021年から2024年にかけて、カブレラ・ロドリゲス及びその共謀者らは、外国人が米国へ不法に入国するための航空券を購入するため、60万ドル以上を米国から送金した。",
+      "陪審は、カブレラ・ロドリゲスを、金銭的利益を目的とした外国人密入国の共謀、国際マネーロンダリングの共謀、及びマネーロンダリング隠匿の共謀について有罪と評決した。同被告人は12月17日に判決を言い渡される予定であり、最高で禁錮20年の刑に処される可能性がある。連邦地方裁判所判事は、米国量刑ガイドライン及びその他の法定要素を考慮した上で、量刑を決定する。",
+      "この共謀における役割について、12名の個人が追起訴状において起訴された。リアンニス・ヤイセリス・ベガ・ペレス(31歳)、ミゲル・アレハンドロ・マルティネス・バスコンセロス(31歳)、ライラ・リベルタド・トレト・サントス(30歳)、エマニュエル・マルティネス・ゴンザレス(29歳)、ワルビス・ポソ・デュテル(31歳)、ルイス・エマニュエル・エスカロナ・マレロ(32歳)、及びヒスレイビー・ペラルタ・コンスエグラ(41歳)は、いずれも有罪答弁を行い、判決を待っている状態である。エリック・ベントゥーラ・カストロ(24歳)は5月7日に有罪答弁を行い、7月29日に禁錮30か月の判決を言い渡された。",
+      "米国移民税関捜査局(ICE)国土安全保障捜査部タンパ支局、米国国境警備隊マイアミ管区、及びUSCISの詐欺防止・国家安全保障局が米国側の捜査を主導し、ワシントンD.C.にあるHSIの人身密輸対策部門、並びにCBPの国家標的センター国際阻止タスクフォースから多大な支援を受けた。司法省国際問題局及びケイマン諸島当局も貴重な支援を提供した。",
+      "刑事局人権及び特別訴追部のアマンダ・ブラウン主任検察官、及びフロリダ州中部地区連邦検事局のコートニー・デリー連邦検事補が本件の訴追を担当している。",
+      "USCISに対して移民給付に関する不正又は不正利用の疑いを報告するには、USCIS通報フォームをご利用ください。",
+      "USCIS及びそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook及びLinkedInにて当局をフォローしてください。",
+      "2026年09月28日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
 }
