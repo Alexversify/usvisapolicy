@@ -21,6 +21,66 @@
     "added": "2026-10-10T13:02Z"
   },
   {
+    "id": "0636e9837095",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/12/dhs-highlights-victims-illegal-alien-crime-sanctuary-new-york",
+    "published": "2026-10-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Sanctuary Policy",
+      "ICE Detainers",
+      "DHS Statement"
+    ],
+    "added": "2026-10-12T15:27Z"
+  },
+  {
+    "id": "ff3476f7c920",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/08/statement-from-assistant-secretary-dylan-johnson-on-revoking-visa-from-iraqi-national-on-fbi-terror-watchlist-given-award-by-previous-administration/",
+    "published": "2026-10-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "Visa Revocation",
+      "Terrorism",
+      "Travel"
+    ],
+    "added": "2026-10-12T15:26Z"
+  },
+  {
+    "id": "45b440e65d30",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/protecting-the-sanctity-of-u-s-citizenshipa-new-visa-restriction-policy-for-those-who-engage-in-or-facilitate-birth-tourism/",
+    "published": "2026-10-12",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "citizenship",
+      "family"
+    ],
+    "tags": [
+      "Birth Tourism",
+      "Visa Restriction",
+      "Citizenship"
+    ],
+    "added": "2026-10-12T15:21Z"
+  },
+  {
     "id": "8d26f82a3075",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/09/worst-worst-ice-arrests-murderers-pedophiles-and-rapists",
@@ -799,6 +859,52 @@
     ]
   },
   {
+    "id": "ea488255bd4d",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/new-visa-restriction-policy-to-promptly-resolve-international-parental-child-abduction-cases/",
+    "published": "2026-09-28",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Visa Restrictions",
+      "Child Abduction",
+      "INA 212(a)(3)(C)"
+    ],
+    "added": "2026-10-12T15:18Z"
+  },
+  {
+    "id": "4b1dd9b1de44",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/visa-restrictions-for-foreign-nationals-undermining-democratically-elected-governments-in-western-hemisphere-countries/",
+    "published": "2026-09-28",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "Visa Restrictions",
+      "Bolivia",
+      "Colombia",
+      "Ecuador",
+      "Peru",
+      "Corruption",
+      "Section 212(a)(3)(C)"
+    ],
+    "added": "2026-10-12T15:17Z"
+  },
+  {
     "id": "4b18808fe0e5",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-convicted-for-international-alien-smuggling-and-money-laundering-conspiracy",
@@ -1011,6 +1117,26 @@
     ]
   },
   {
+    "id": "51149ab54d7a",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/bosnian-prisoner-abuser-charged-with-lying-to-get-us-citizenship",
+    "published": "2026-09-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "War Crimes",
+      "Enforcement"
+    ],
+    "added": "2026-10-12T15:29Z"
+  },
+  {
     "id": "06f0bdf2490f",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/chinese-aliens-indicted-on-naturalization-and-firearms-charges",
@@ -1031,6 +1157,27 @@
       "enforcement",
       "citizenship"
     ]
+  },
+  {
+    "id": "2122471b454f",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/announcing-steps-to-impose-visa-restrictions-on-32-individuals-connected-to-prince-group-tco-others-scamming-americans/",
+    "published": "2026-09-21",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Visa Restrictions",
+      "Cybercrime",
+      "Prince Group",
+      "Section 212(a)(3)(C)"
+    ],
+    "added": "2026-10-12T15:24Z"
   },
   {
     "id": "32d1b4bb80a5",
@@ -1075,6 +1222,48 @@
     "topics": [
       "other"
     ]
+  },
+  {
+    "id": "fd35d6d7486c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/five-defendants-charged-with-defrauding-and-exploiting-h-2a-visa-program-to-smuggle-aliens-into-the",
+    "published": "2026-09-18",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "H-2A",
+      "Visa Fraud",
+      "Human Smuggling",
+      "Indictment"
+    ],
+    "added": "2026-10-12T15:30Z"
+  },
+  {
+    "id": "2272e0c769a5",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/immigration-attorney-arrested-in-alleged-fraud-scheme",
+    "published": "2026-09-17",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "Fraud",
+      "Attorney",
+      "Work Visa",
+      "Indictment"
+    ],
+    "added": "2026-10-12T15:31Z"
   },
   {
     "id": "cbbf60354298",
@@ -1137,6 +1326,27 @@
     ]
   },
   {
+    "id": "592db69f42b6",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/peruvian-alien-indicted-for-illegally-voting",
+    "published": "2026-09-14",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Voter Fraud",
+      "False Claim to Citizenship",
+      "Indictment",
+      "ICE HSI"
+    ],
+    "added": "2026-10-12T15:32Z"
+  },
+  {
     "id": "d662d94985b1",
     "source": "uscis_policy_manual",
     "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260914-RevocationReferrals.pdf",
@@ -1155,6 +1365,28 @@
       "Policy Manual"
     ],
     "added": "2026-10-09T08:22Z"
+  },
+  {
+    "id": "c5eb3f729eab",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/department-of-justice-removes-alien-terrorist-in-first-use-of-united-states-alien-terrorist-removal",
+    "published": "2026-09-11",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "ATRC",
+      "Terrorism",
+      "Removal",
+      "Afghanistan",
+      "National Security"
+    ],
+    "added": "2026-10-12T15:34Z"
   },
   {
     "id": "8c9b9e4e1eba",
@@ -1349,6 +1581,47 @@
     ]
   },
   {
+    "id": "32ce4210f9e1",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/illegal-alien-indicted-in-marriage-related-immigration-fraud",
+    "published": "2026-09-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Immigration Fraud",
+      "Indictment",
+      "USCIS"
+    ],
+    "added": "2026-10-12T15:36Z"
+  },
+  {
+    "id": "208a694390df",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/naturalized-us-citizen-indicted-for-lying-to-obtain-us-citizenship-after-committing-felonies",
+    "published": "2026-09-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "N-400",
+      "Denaturalization"
+    ],
+    "added": "2026-10-12T15:35Z"
+  },
+  {
     "id": "c857c586cef3",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-new-international-field-office-in-ethiopia-to-support-fraud-prevention",
@@ -1368,6 +1641,28 @@
       "enforcement",
       "humanitarian"
     ]
+  },
+  {
+    "id": "e02065e8c005",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/aunt-and-us-airman-nephew-arrested-in-immigration-fraud-scheme",
+    "published": "2026-09-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship",
+      "family"
+    ],
+    "tags": [
+      "Immigration Fraud",
+      "Naturalization",
+      "Denaturalization",
+      "Form I-130"
+    ],
+    "added": "2026-10-12T15:37Z"
   },
   {
     "id": "4b74e7b0465d",

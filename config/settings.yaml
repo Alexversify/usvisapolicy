@@ -144,3 +144,29 @@ sources:
     # 비자·입국 관련 대통령 포고문과 행정명령 (Federal Register 게재분)
     types: [PRESDOCU]
     term: "visa | immigrants | aliens | nonimmigrant"
+
+# 과거 글 채우기. backfill 워크플로(BACKFILL=1)에서만 씁니다. 정기 실행은 위 backfill_days 기준 그대로입니다.
+backfill:
+  since: 2026-01-01
+  # 목록을 몇 페이지까지 볼지. 0이면 과거 글을 채우지 않습니다.
+  pages:
+    uscis_news: 30
+    state_press: 20
+    dhs_news: 0
+  page_fmt:
+    state_press: "{u}page/{n}/"
+  # 연방관보는 100건씩 몇 페이지까지 볼지
+  fr_max_pages: 20
+
+# 공식 원문 전문 보관과 전문 번역 (src/fulltext.py)
+fulltext:
+  enabled: true
+  # 이보다 긴 문서는 앞부분만 번역하고 나머지는 원문으로 보여줍니다. 원문 보관은 전체.
+  max_chars: 300000
+  chunk_chars: 4500
+  workers: 8
+  # 정기 실행에서 기존 기사를 몇 건까지, 몇 분까지 채울지
+  backfill_per_run: 6
+  budget_min: 8
+  # 한 실행의 전체 시간 한도(분). 넘으면 하던 것까지 저장하고 다음 실행에 넘깁니다. backfill 워크플로는 RUN_DEADLINE_MIN 으로 따로 정합니다.
+  deadline_min: 18
