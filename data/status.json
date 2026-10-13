@@ -37,10 +37,10 @@
       "alert": true
     },
     "state_press": {
-      "ok": true,
-      "items": 0,
-      "error": null,
-      "fail_streak": 0,
+      "ok": false,
+      "items": 7,
+      "error": "https://www.state.gov/press-releases/: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.state.gov/press-releases/\", waiting until \"domcontentloaded\"\n",
+      "fail_streak": 1,
       "alert": true
     },
     "federal_register": {
@@ -73,7 +73,7 @@
     }
   },
   "translate": {
-    "done": 0,
+    "done": 7,
     "failed": 0,
     "key": true,
     "fail_streak": 0
