@@ -1,8 +1,9 @@
 """Claude 호출 공용 함수.
 
-API 키(ANTHROPIC_API_KEY)를 쓰지 않습니다. Claude Code CLI(`claude -p`)를 구독 토큰
-(CLAUDE_CODE_OAUTH_TOKEN, `claude setup-token` 으로 발급)으로 실행해 Max 플랜 사용량 안에서 처리합니다.
-API 키가 환경에 있어도 하위 프로세스에는 넘기지 않습니다 (CLI는 API 키를 우선하기 때문).
+순서: API 크레딧(ANTHROPIC_API_KEY) → 부족하면 Max 구독(CLAUDE_CODE_OAUTH_TOKEN) → 둘 다 소진되면 중단.
+두 경우 모두 Claude Code CLI(`claude -p`)로 실행합니다. CLI는 API 키가 있으면 그걸 먼저 쓰므로,
+구독으로 돌릴 때는 하위 프로세스 환경에서 API 키를 뺍니다.
+크레딧이 바닥나도 카드 결제로 넘어가지 않게 하려면 Anthropic 콘솔에서 자동 충전(Auto-reload)을 꺼 두세요.
 """
 from __future__ import annotations
 
@@ -18,29 +19,34 @@ class LLMError(RuntimeError):
 
 
 class UsageLimit(LLMError):
-    """구독 사용량 한도에 걸림. 이번 실행은 번역을 멈추고 다음 실행에 넘깁니다."""
+    """크레딧과 구독 사용량이 모두 소진됨. 이번 실행은 멈추고 다음 실행에 넘깁니다."""
 
 
-_LIMIT_HINTS = ("usage limit", "rate limit", "limit reached", "429", "overloaded", "quota")
-_blocked = False
+_LIMIT_HINTS = ("usage limit", "rate limit", "limit reached", "429", "overloaded", "quota",
+                "credit balance", "insufficient", "billing", "402", "invalid x-api-key", "authentication")
+_api_blocked = False   # 이번 실행에서 API 크레딧이 바닥났거나 키가 거부됨
+_max_blocked = False   # 이번 실행에서 구독 사용량 한도에 걸림
+
+
+def _has_api() -> bool:
+    return bool(os.environ.get("ANTHROPIC_API_KEY"))
+
+
+def _has_max() -> bool:
+    return bool(os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"))
 
 
 def enabled() -> bool:
-    return bool(os.environ.get("CLAUDE_CODE_OAUTH_TOKEN")) and shutil.which("claude") is not None
+    return (_has_api() or _has_max()) and shutil.which("claude") is not None
 
 
 def blocked() -> bool:
-    return _blocked
+    return (_api_blocked or not _has_api()) and (_max_blocked or not _has_max())
 
 
-def complete(system: str, user: str, model: str, timeout: int = 600) -> str:
-    """system/user 한 번 주고 텍스트 답을 받습니다. 도구·CLAUDE.md·MCP 없이 순수 생성만 합니다."""
-    global _blocked
-    if _blocked:
-        raise UsageLimit("이번 실행에서 이미 사용량 한도에 걸렸습니다")
-    if not enabled():
-        raise LLMError("CLAUDE_CODE_OAUTH_TOKEN 또는 claude CLI 없음")
-    env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
+def _run(system: str, user: str, model: str, timeout: int, use_api: bool) -> str:
+    drop = ("CLAUDE_CODE_OAUTH_TOKEN", "ANTHROPIC_AUTH_TOKEN") if use_api else ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")
+    env = {k: v for k, v in os.environ.items() if k not in drop}
     with tempfile.TemporaryDirectory() as tmp:
         sp = os.path.join(tmp, "system.txt")
         with open(sp, "w", encoding="utf-8") as f:
@@ -69,7 +75,26 @@ def complete(system: str, user: str, model: str, timeout: int = 600) -> str:
     if proc.returncode != 0 or data.get("is_error") or not isinstance(text, str):
         detail = (text or proc.stderr or out or "").strip()[:300]
         if any(h in detail.lower() for h in _LIMIT_HINTS):
-            _blocked = True
             raise UsageLimit(detail)
         raise LLMError(f"claude CLI 실패 (code {proc.returncode}): {detail}")
     return text
+
+
+def complete(system: str, user: str, model: str, timeout: int = 600) -> str:
+    """system/user 한 번 주고 텍스트 답을 받습니다. 도구·CLAUDE.md·MCP 없이 순수 생성만 합니다."""
+    global _api_blocked, _max_blocked
+    if not enabled():
+        raise LLMError("ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN 또는 claude CLI 없음")
+    if _has_api() and not _api_blocked:
+        try:
+            return _run(system, user, model, timeout, use_api=True)
+        except UsageLimit as exc:
+            _api_blocked = True
+            print(f"[llm] API 크레딧 사용 불가, Max 구독으로 전환: {str(exc)[:120]}", flush=True)
+    if _has_max() and not _max_blocked:
+        try:
+            return _run(system, user, model, timeout, use_api=False)
+        except UsageLimit:
+            _max_blocked = True
+            raise
+    raise UsageLimit("API 크레딧과 Max 구독 사용량이 모두 소진되어 이번 실행을 멈춥니다")

@@ -21,8 +21,9 @@ jobs:
       - id: c
         env:
           T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          K: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          if [ -n "$T" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "::notice::CLAUDE_CODE_OAUTH_TOKEN 시크릿이 없어 건너뜁니다"; echo "ok=false" >> "$GITHUB_OUTPUT"; fi
+          if [ -n "$T" ] || [ -n "$K" ]; then echo "ok=true" >> "$GITHUB_OUTPUT"; else echo "::notice::ANTHROPIC_API_KEY, CLAUDE_CODE_OAUTH_TOKEN 시크릿이 모두 없어 건너뜁니다"; echo "ok=false" >> "$GITHUB_OUTPUT"; fi
 
   collect:
     needs: gate
@@ -50,7 +51,8 @@ jobs:
 
       - name: 수집, 번역, 사이트 생성
         env:
-          # API 키가 아니라 Claude 구독(Max) 토큰으로 번역합니다. API 비용이 나가지 않습니다.
+          # API 크레딧 먼저, 부족하면 Max 구독, 둘 다 소진되면 번역을 멈춤 (src/llm.py)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           HEADFUL: "1"
           PYTHONUNBUFFERED: "1"
