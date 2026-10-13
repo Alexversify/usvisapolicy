@@ -3577,6 +3577,26 @@
     "added": "2026-10-12T23:26Z"
   },
   {
+    "id": "aa5f4963010d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10704/extension-of-lebanon-designation-for-temporary-protected-status",
+    "published": "2026-05-29",
+    "effective_date": "2026-05-28",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "TPS",
+      "Lebanon",
+      "EAD"
+    ],
+    "added": "2026-10-12T23:55Z"
+  },
+  {
     "id": "380778ffe156",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10817/regulation-for-federal-financial-assistance",
@@ -3594,5 +3614,293 @@
       "Federal Financial Assistance"
     ],
     "added": "2026-10-12T23:27Z"
+  },
+  {
+    "id": "25b2bc4ec4ac",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/dhs-automatically-extends-temporary-protected-status-for-lebanon",
+    "published": "2026-05-28",
+    "effective_date": "2026-05-28",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "TPS",
+      "Lebanon",
+      "EAD"
+    ],
+    "added": "2026-10-12T23:58Z"
+  },
+  {
+    "id": "6cc0f5d776a6",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10598/emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2026",
+    "published": "2026-05-27",
+    "effective_date": "2026-05-21",
+    "importance": "high",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "humanitarian",
+      "travel"
+    ],
+    "tags": [
+      "Refugees",
+      "Afrikaners",
+      "Refugee Ceiling",
+      "South Africa"
+    ],
+    "added": "2026-10-12T23:59Z"
+  },
+  {
+    "id": "a2b1acbfb3df",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system",
+    "published": "2026-05-22",
+    "effective_date": "2026-05-19",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "enforcement",
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Banking",
+      "Immigration Enforcement",
+      "Financial Regulation"
+    ],
+    "added": "2026-10-13T00:02Z"
+  },
+  {
+    "id": "afdc755ce3ed",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary",
+    "published": "2026-05-22",
+    "effective_date": "2026-05-22",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "family",
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "Adjustment of Status",
+      "Green Card",
+      "Consular Processing"
+    ],
+    "added": "2026-10-13T00:01Z"
+  },
+  {
+    "id": "a81c067991cc",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10082/increasing-the-fee-for-certain-aliens-ordered-removed-in-absentia-as-established-by-the-hr-1",
+    "published": "2026-05-20",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "fees",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "fees"
+    ],
+    "tags": [
+      "Fees",
+      "Removal",
+      "ICE",
+      "In Absentia",
+      "HR-1"
+    ],
+    "added": "2026-10-13T00:04Z"
+  },
+  {
+    "id": "612635f445ee",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-federal-partners-in-arrest-of-ms-13-gang-member",
+    "published": "2026-05-19",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "family"
+    ],
+    "tags": [
+      "MS-13",
+      "SIJ",
+      "ICE",
+      "Enforcement"
+    ],
+    "added": "2026-10-13T00:08Z"
+  },
+  {
+    "id": "1e5ed7327a1a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09752/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-05-15",
+    "effective_date": "2026-05-15",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Border Security"
+    ],
+    "added": "2026-10-13T00:10Z"
+  },
+  {
+    "id": "6326e5131e2c",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09779/peace-officers-memorial-day-and-police-week-2026",
+    "published": "2026-05-14",
+    "effective_date": "2026-05-15",
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Proclamation",
+      "Police Week"
+    ],
+    "added": "2026-10-13T00:14Z"
+  },
+  {
+    "id": "303231daa6c1",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-and-doj-take-steps-to-denaturalize-12-individuals-for-concealing-terrorist-support-war-crimes",
+    "published": "2026-05-14",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Naturalization Fraud",
+      "DOJ"
+    ],
+    "added": "2026-10-13T00:13Z"
+  },
+  {
+    "id": "fe36b5d6376d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/suburban-chicago-man-sentenced-to-nine-years-in-prison-for-immigration-fraud-possession-of-child",
+    "published": "2026-05-14",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "Immigration Fraud",
+      "Asylum",
+      "Enforcement"
+    ],
+    "added": "2026-10-13T00:11Z"
+  },
+  {
+    "id": "4762872f35c4",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests",
+    "published": "2026-05-11",
+    "effective_date": "2026-07-10",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "other",
+      "fees"
+    ],
+    "tags": [
+      "Signatures",
+      "USCIS",
+      "Interim Final Rule",
+      "Fees",
+      "8 CFR 103.2"
+    ],
+    "added": "2026-10-13T00:16Z"
+  },
+  {
+    "id": "39079363761c",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20260508-DeferredAction.pdf",
+    "published": "2026-05-08",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "Deferred Action",
+      "Policy Manual",
+      "Prosecutorial Discretion"
+    ],
+    "added": "2026-10-13T00:21Z"
+  },
+  {
+    "id": "84619c0a21e6",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09007/fee-adjustment-for-us-immigration-and-customs-enforcement-form-i-246-application-for-a-stay-of",
+    "published": "2026-05-07",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "fees",
+    "agency": "ice",
+    "topics": [
+      "fees",
+      "enforcement"
+    ],
+    "tags": [
+      "I-246",
+      "Stay of Removal",
+      "ICE",
+      "Fees",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-13T00:24Z"
+  },
+  {
+    "id": "51c37e23f447",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09098/delegation-of-authority-614-1",
+    "published": "2026-05-07",
+    "effective_date": "2026-02-10",
+    "importance": "low",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "travel"
+    ],
+    "tags": [
+      "Travel Ban",
+      "Delegation of Authority",
+      "Presidential Proclamation"
+    ],
+    "added": "2026-10-13T00:23Z"
   }
 ]
