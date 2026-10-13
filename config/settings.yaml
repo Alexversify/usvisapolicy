@@ -166,7 +166,7 @@ fulltext:
   chunk_chars: 4500
   workers: 8
   # 정기 실행에서 기존 기사를 몇 건까지, 몇 분까지 채울지
-  backfill_per_run: 6
+  backfill_per_run: 2
   budget_min: 8
   # 한 실행의 전체 시간 한도(분). 넘으면 하던 것까지 저장하고 다음 실행에 넘깁니다. backfill 워크플로는 RUN_DEADLINE_MIN 으로 따로 정합니다.
   deadline_min: 18
