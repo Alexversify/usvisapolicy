@@ -6,7 +6,7 @@ name: backfill
 
 on:
   schedule:
-    - cron: "52 * * * *"
+    - cron: "52 */2 * * *"
   workflow_dispatch:
     inputs:
       max_new:
@@ -36,6 +36,9 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      - name: Claude Code CLI 설치
+        run: npm install -g @anthropic-ai/claude-code
+
       - name: 의존성 설치
         run: |
           pip install -r requirements.txt
@@ -50,7 +53,8 @@ jobs:
         timeout-minutes: 80
         continue-on-error: true
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # API 키가 아니라 Claude 구독(Max) 토큰으로 번역합니다. API 비용이 나가지 않습니다.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           HEADFUL: "1"
           PYTHONUNBUFFERED: "1"
           BACKFILL: "1"
@@ -95,6 +99,10 @@ jobs:
         run: |
           if ! grep -q "사이트 생성" /tmp/run.log 2>/dev/null; then
             echo "실행이 끝까지 가지 못했습니다. 반복 실패를 막기 위해 예약하지 않습니다 (cron 이 다시 시도)."
+            exit 0
+          fi
+          if grep -q "USAGE_LIMIT" /tmp/run.log; then
+            echo "Claude 구독 사용량 한도에 닿았습니다. 이어달리기를 멈추고 다음 cron 에서 다시 시도합니다."
             exit 0
           fi
           if grep -q "새 글 0건" /tmp/run.log && grep -q "남은 기사 0건" /tmp/run.log; then

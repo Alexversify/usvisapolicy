@@ -40,6 +40,9 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      - name: Claude Code CLI 설치
+        run: npm install -g @anthropic-ai/claude-code
+
       - name: 의존성 설치
         run: |
           pip install -r requirements.txt
@@ -47,7 +50,8 @@ jobs:
 
       - name: 수집, 번역, 사이트 생성
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # API 키가 아니라 Claude 구독(Max) 토큰으로 번역합니다. API 비용이 나가지 않습니다.
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           HEADFUL: "1"
           PYTHONUNBUFFERED: "1"
         run: xvfb-run -a python -m src.main

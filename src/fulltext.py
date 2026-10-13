@@ -331,26 +331,14 @@ def _clean(s: str, lang: str) -> str:
     return s
 
 
-_CLIENT: Any = None
-
-
-def _client() -> Any:
-    global _CLIENT
-    if _CLIENT is None:
-        import anthropic
-
-        _CLIENT = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"], max_retries=6)
-    return _CLIENT
-
-
 def _call(texts: list[str], lang: str, model: str) -> list[str] | None:
-    msg = _client().messages.create(
-        model=model,
-        max_tokens=16000,
-        system=FULL_SYSTEM.format(lang=LANG_NAMES[lang], extra=EXTRA.get(lang, "")),
-        messages=[{"role": "user", "content": json.dumps(texts, ensure_ascii=False)}],
-    )
-    raw = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text").strip()
+    from . import llm
+
+    raw = llm.complete(
+        FULL_SYSTEM.format(lang=LANG_NAMES[lang], extra=EXTRA.get(lang, "")),
+        json.dumps(texts, ensure_ascii=False),
+        model,
+    ).strip()
     raw = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw)
     try:
         out = json.loads(raw)
@@ -370,6 +358,10 @@ def _translate(texts: list[str], lang: str, model: str) -> list[str | None]:
             if out is not None:
                 return list(out)
         except Exception as exc:  # noqa: BLE001
+            from . import llm
+
+            if llm.blocked():
+                return [None] * len(texts)
             print(f"    ! 전문 번역 오류 ({lang}): {type(exc).__name__}: {str(exc)[:120]}")
             time.sleep(3)
     if len(texts) == 1:

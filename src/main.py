@@ -172,7 +172,7 @@ def run(cfg: dict[str, Any]) -> None:
 
         print("[2/3] 번역")
         if not translate.enabled():
-            print("  ! ANTHROPIC_API_KEY 없음. 번역을 건너뜁니다.")
+            print("  ! CLAUDE_CODE_OAUTH_TOKEN 없음(또는 사용량 한도). 번역을 건너뜁니다.")
             queue = []
         labels = {k: v.get("label", k) for k, v in cfg["sources"].items()}
         new_started = __import__("time").time()
@@ -191,6 +191,10 @@ def run(cfg: dict[str, Any]) -> None:
                 seen[it["id"]] = f"old {published} {it['url']}"
                 continue
             data = translate.build({**it, "published": published}, text, langs, cfg["model"], labels[it["source"]])
+            if not data and not translate.enabled():
+                # 구독 사용량 한도. 실패로 세지 않고 다음 실행에 넘깁니다.
+                print("  - Claude 사용량 한도에 닿아 나머지 새 글은 다음 실행에서 처리")
+                break
             if not data:
                 tr["failed"] += 1
                 tr_failed.append(it)
@@ -302,6 +306,10 @@ def main() -> int:
     cfg = load_cfg()
     if not args.render_only:
         run(cfg)
+    from . import llm
+
+    if llm.blocked():
+        print("  ! Claude 사용량 한도 도달 (USAGE_LIMIT). 남은 번역은 다음 실행에서 이어갑니다.")
     print("[3/3] 사이트 생성")
     out = render.render_all(cfg)
     print(f"  - {out}")

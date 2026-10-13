@@ -83,14 +83,10 @@ immigration in passing). Still fill every other field.
 """
 
 
-def _client():
-    import anthropic
-
-    return anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-
-
 def enabled() -> bool:
-    return bool(os.environ.get("ANTHROPIC_API_KEY"))
+    from . import llm
+
+    return llm.enabled() and not llm.blocked()
 
 
 def build(item: dict[str, Any], text: str, langs: list[str], model: str, source_label: str) -> dict[str, Any] | None:
@@ -104,17 +100,13 @@ def build(item: dict[str, Any], text: str, langs: list[str], model: str, source_
         f"Listed date: {item.get('published') or 'unknown'}\n\n"
         f"--- SOURCE TEXT ---\n{text[:16000]}"
     )
+    from . import llm
+
     try:
-        msg = _client().messages.create(
-            model=model,
-            max_tokens=8000,
-            system=SYSTEM,
-            messages=[{"role": "user", "content": user}],
-        )
+        raw = llm.complete(SYSTEM, user, model)
     except Exception as exc:  # noqa: BLE001
-        print(f"    ! API 오류: {exc}")
+        print(f"    ! Claude 오류: {exc}")
         return None
-    raw = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
     raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.M).strip()
     try:
         data = json.loads(raw)
@@ -155,14 +147,10 @@ def classify(items: list[dict[str, str]], model: str) -> dict[str, str]:
     """카테고리가 없는 기존 기사를 한 번에 분류합니다. items: [{id, title, summary}]"""
     if not items:
         return {}
+    from . import llm
+
     try:
-        msg = _client().messages.create(
-            model=model,
-            max_tokens=2000,
-            system=CLASSIFY_SYSTEM,
-            messages=[{"role": "user", "content": json.dumps(items, ensure_ascii=False)}],
-        )
-        raw = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
+        raw = llm.complete(CLASSIFY_SYSTEM, json.dumps(items, ensure_ascii=False), model)
         m = re.search(r"\{.*\}", raw, re.S)
         data = json.loads(m.group(0)) if m else {}
     except Exception as exc:  # noqa: BLE001

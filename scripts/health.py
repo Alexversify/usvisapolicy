@@ -26,8 +26,8 @@ def main() -> int:
             problems.append(f"{key}: {r['fail_streak']}회 연속 수집 실패. {(r.get('error') or '')[:200]}")
     t = st.get("translate") or {}
     if t.get("fail_streak", 0) >= 4:
-        problems.append("번역 4회 연속 실패" + ("" if t.get("key", True) else " (ANTHROPIC_API_KEY 없음)")
-                        + ". API 키, 크레딧, settings.yaml 의 model 을 확인하세요.")
+        problems.append("번역 4회 연속 실패" + ("" if t.get("key", True) else " (CLAUDE_CODE_OAUTH_TOKEN 없음)")
+                        + ". 구독 토큰(claude setup-token), 사용량 한도, settings.yaml 의 model 을 확인하세요.")
     for p in problems:
         print(f"::error title=usvisapolicy 점검::{p}")
     if not problems:
