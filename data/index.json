@@ -5282,5 +5282,72 @@
       "USCIS"
     ],
     "added": "2026-10-13T04:58Z"
+  },
+  {
+    "id": "b3a9e1a5f17a",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-launches-landmark-uscis-fraud-investigation-in-minnesota",
+    "published": "2026-01-09",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "Refugee Fraud",
+      "Operation PARRIS",
+      "Minnesota",
+      "ICE Referral"
+    ],
+    "added": "2026-10-13T05:26Z"
+  },
+  {
+    "id": "93cacfd88556",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-increase-premium-processing-fees",
+    "published": "2026-01-09",
+    "effective_date": "2026-03-01",
+    "importance": "high",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "fees",
+      "employment",
+      "h1b"
+    ],
+    "tags": [
+      "Premium Processing",
+      "Fees",
+      "Form I-907",
+      "Form I-129",
+      "Form I-140",
+      "Form I-539",
+      "Form I-765"
+    ],
+    "added": "2026-10-13T05:25Z"
+  },
+  {
+    "id": "4022c9e88b7f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00118/departure-notification-record",
+    "published": "2026-01-08",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "ICE",
+      "Paperwork Reduction Act",
+      "CBP Home",
+      "Voluntary Departure"
+    ],
+    "added": "2026-10-13T05:27Z"
   }
 ]
