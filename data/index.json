@@ -4677,5 +4677,300 @@
       "Proposed Rule"
     ],
     "added": "2026-10-13T02:39Z"
+  },
+  {
+    "id": "b758d9dbb1ce",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-proposes-rule-to-prioritize-americans-safety-by-strengthening-screening-of-asylum-seekers",
+    "published": "2026-02-20",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Asylum",
+      "Work Permit",
+      "EAD",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-13T03:46Z"
+  },
+  {
+    "id": "6d7b70e802b4",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-plays-key-role-in-denaturalization-process-to-begin-for-former-mayor-of-the-city-of-north",
+    "published": "2026-02-20",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Naturalization Fraud",
+      "Citizenship"
+    ],
+    "added": "2026-10-13T03:45Z"
+  },
+  {
+    "id": "712f0c101919",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/serial-immigration-fraudster-working-as-a-minnesota-corrections-officer-arrested",
+    "published": "2026-02-18",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship",
+      "humanitarian"
+    ],
+    "tags": [
+      "Operation Twin Shield",
+      "Immigration Fraud",
+      "Naturalization",
+      "False Citizenship Claim",
+      "ICE"
+    ],
+    "added": "2026-10-13T03:47Z"
+  },
+  {
+    "id": "89f2d8cff071",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/17/2026-02994/determination-pursuant-to-section-102-of-the-illegal-immigration-reform-and-immigrant-responsibility",
+    "published": "2026-02-17",
+    "effective_date": "2026-02-17",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Border Wall",
+      "IIRIRA",
+      "Texas Border"
+    ],
+    "added": "2026-10-13T03:50Z"
+  },
+  {
+    "id": "60565893b841",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03028/restoration-of-statutory-terms-in-tsa-regulations-use-of-alien-technical-amendments",
+    "published": "2026-02-17",
+    "effective_date": "2026-02-17",
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "TSA",
+      "Technical Amendment",
+      "Terminology"
+    ],
+    "added": "2026-10-13T03:49Z"
+  },
+  {
+    "id": "e6ff7966c925",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-terminates-temporary-protected-status-for-yemen",
+    "published": "2026-02-13",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "TPS",
+      "Yemen",
+      "DHS"
+    ],
+    "added": "2026-10-13T03:52Z"
+  },
+  {
+    "id": "e0c0eac9c135",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/cap-reached-for-first-allocation-of-returning-worker-h-2b-visas-fy-2026",
+    "published": "2026-02-13",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "employment"
+    ],
+    "tags": [
+      "H-2B",
+      "Cap",
+      "Returning Worker",
+      "Lottery"
+    ],
+    "added": "2026-10-13T03:51Z"
+  },
+  {
+    "id": "140304f8c786",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/02/11/2026-02819/protecting-the-national-security-and-welfare-of-the-united-states-and-its-citizens-from-criminal",
+    "published": "2026-02-11",
+    "effective_date": "2026-02-06",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "travel",
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Visa Waiver Program",
+      "Information Sharing",
+      "Criminal History"
+    ],
+    "added": "2026-10-13T03:53Z"
+  },
+  {
+    "id": "0144002292d6",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-in-marriage-fraud-conspiracy-investigation-resulting-in-11-indictments",
+    "published": "2026-02-10",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Indictment",
+      "Green Card",
+      "USCIS"
+    ],
+    "added": "2026-10-13T03:54Z"
+  },
+  {
+    "id": "0ff467791cc8",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/06/2026-02326/appellate-procedures-for-the-board-of-immigration-appeals",
+    "published": "2026-02-06",
+    "effective_date": "2026-03-09",
+    "importance": "high",
+    "category": "policy",
+    "agency": "doj",
+    "topics": [
+      "humanitarian",
+      "family",
+      "other"
+    ],
+    "tags": [
+      "BIA",
+      "Immigration Court",
+      "Appeals",
+      "EOIR",
+      "Removal Proceedings"
+    ],
+    "added": "2026-10-13T03:56Z"
+  },
+  {
+    "id": "416dc62496b4",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/03/2026-02131/exercise-of-time-limited-authority-to-increase-the-fiscal-year-2026-numerical-limitation-for-the",
+    "published": "2026-02-03",
+    "effective_date": "2026-01-30",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "H-2B",
+      "Supplemental Cap",
+      "Temporary Workers",
+      "DOL"
+    ],
+    "added": "2026-10-13T04:02Z"
+  },
+  {
+    "id": "a4ef637a906a",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/ms-13-gang-member-who-confessed-to-5-murders-arrested-just-weeks-before-spanberger-ended-ice",
+    "published": "2026-02-03",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "ICE",
+      "USCIS",
+      "MS-13",
+      "Asylum",
+      "Virginia"
+    ],
+    "added": "2026-10-13T04:01Z"
+  },
+  {
+    "id": "03b48807c66f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01868/establishing-the-gordie-howe-international-bridge-as-a-port-of-entry-in-detroit-mi",
+    "published": "2026-01-30",
+    "effective_date": "2026-03-02",
+    "importance": "low",
+    "category": "processing",
+    "agency": "cbp",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Port of Entry",
+      "CBP",
+      "Gordie Howe Bridge"
+    ],
+    "added": "2026-10-13T04:13Z"
+  },
+  {
+    "id": "dfe5f4944b0a",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/fy-2027-h-1b-cap-initial-registration-period-opens-on-march-4",
+    "published": "2026-01-30",
+    "effective_date": "2026-03-04",
+    "importance": "high",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "h1b",
+      "fees",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "Cap Registration",
+      "Fees",
+      "Selection Process"
+    ],
+    "added": "2026-10-13T04:12Z"
   }
 ]
