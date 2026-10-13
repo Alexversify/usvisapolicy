@@ -1,0 +1,213 @@
+{
+  "id": "6326e5131e2c",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09779/peace-officers-memorial-day-and-police-week-2026",
+  "original_title": "Peace Officers Memorial Day and Police Week, 2026",
+  "published": "2026-05-14",
+  "effective_date": "2026-05-15",
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Proclamation",
+    "Police Week"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "2026년 순직 경찰관 추모의 날 및 경찰 주간 선포",
+      "summary": "백악관이 2026년 5월 15일을 순직 경찰관 추모의 날로, 5월 10일부터 16일까지를 경찰 주간으로 선포했습니다. 이 포고문은 법 집행관의 희생을 기리는 상징적 선언으로 이민 관련 내용은 포함하지 않습니다.",
+      "points": [
+        "대통령이 2026년 5월 15일을 순직 경찰관 추모의 날로 선포했습니다.",
+        "2026년 5월 10일부터 16일까지를 경찰 주간으로 지정했습니다.",
+        "선포문은 법 집행관의 희생과 공로를 기리는 상징적 내용을 담고 있습니다.",
+        "이민 정책이나 비자 제도에 대한 구체적 변경 사항은 포함되어 있지 않습니다."
+      ],
+      "who": "이 선포는 미국 전역의 법 집행 공무원과 그 가족, 지역사회에 관한 상징적 기념 행사입니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "White House Proclaims Peace Officers Memorial Day and Police Week 2026",
+      "summary": "The President proclaimed May 15, 2026 as Peace Officers Memorial Day and May 10 through 16, 2026 as Police Week. The proclamation is a commemorative statement honoring law enforcement officers and does not contain immigration policy changes.",
+      "points": [
+        "May 15, 2026 is proclaimed Peace Officers Memorial Day.",
+        "May 10 through May 16, 2026 is designated as Police Week.",
+        "The proclamation honors fallen and injured law enforcement officers and their families.",
+        "The document references past administration actions on crime and bail policy but does not establish new immigration rules."
+      ],
+      "who": "This proclamation concerns law enforcement officers, their families and communities across the United States.",
+      "action": ""
+    },
+    "es": {
+      "title": "La Casa Blanca proclama el Dia Nacional de los Oficiales de Paz y la Semana de la Policia 2026",
+      "summary": "El Presidente proclamo el 15 de mayo de 2026 como el Dia Nacional de los Oficiales de Paz y del 10 al 16 de mayo de 2026 como la Semana de la Policia. La proclamacion es un reconocimiento simbolico a los agentes del orden y no contiene cambios en materia migratoria.",
+      "points": [
+        "El 15 de mayo de 2026 se proclama como el Dia Nacional de los Oficiales de Paz.",
+        "Del 10 al 16 de mayo de 2026 se designa como la Semana de la Policia.",
+        "La proclamacion honra a los oficiales caidos y heridos en cumplimiento del deber y a sus familias.",
+        "El documento no establece nuevas reglas de inmigracion ni afecta visas o tramites migratorios."
+      ],
+      "who": "Esta proclamacion concierne a los agentes del orden publico, sus familias y las comunidades en Estados Unidos.",
+      "action": ""
+    },
+    "zh": {
+      "title": "白宫宣布2026年警察纪念日及警察周",
+      "summary": "总统宣布2026年5月15日为警察纪念日,5月10日至16日为警察周。该公告是对执法人员的纪念性声明,不涉及移民政策的变动。",
+      "points": [
+        "2026年5月15日被宣布为警察纪念日。",
+        "2026年5月10日至16日被定为警察周。",
+        "公告旨在纪念因公殉职和受伤的执法人员及其家属。",
+        "文件未涉及任何移民或签证政策的新规定。"
+      ],
+      "who": "此公告涉及美国各地的执法人员及其家属和社区。",
+      "action": ""
+    },
+    "ja": {
+      "title": "ホワイトハウスが2026年警察官追悼記念日および警察週間を宣言",
+      "summary": "大統領は2026年5月15日を警察官追悼記念日、5月10日から16日までを警察週間と宣言しました。この布告は法執行官への追悼を目的とした象徴的な声明であり、移民政策の変更は含まれていません。",
+      "points": [
+        "2026年5月15日が警察官追悼記念日と宣言されました。",
+        "2026年5月10日から16日までが警察週間に指定されました。",
+        "殉職および負傷した警察官とその家族への敬意が述べられています。",
+        "文書には移民政策やビザ制度に関する新たな規定は含まれていません。"
+      ],
+      "who": "この布告は米国全土の法執行官とその家族、地域社会に関するものです。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-13T00:14Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Proclamation 11029 of May 11, 2026"
+      },
+      {
+        "t": "h",
+        "x": "Peace Officers Memorial Day and Police Week, 2026"
+      },
+      {
+        "t": "p",
+        "x": "A Proclamation"
+      },
+      {
+        "t": "p",
+        "x": "On this Peace Officers Memorial Day, observed during our Nation's time-honored Police Week, we pay tribute to the men and women of law enforcement who have devoted their lives to safeguarding our families and communities. Our grateful country joins them in honoring the memory of the fallen officers who gave their lives protecting their fellow citizens, and we stand resolutely beside the families they left behind. We also recognize those who have been injured in the line of duty and the families who have stood faithfully by their side through hardship and recovery, and we pledge our steadfast support to those who continue to wear the badge."
+      },
+      {
+        "t": "p",
+        "x": "Before I took office, America was gripped by a left-wing-fueled lawlessness that shook the very foundations of our society. Through soft-on-crime policies, rampant illegal immigration, and reckless cashless bail programs, crime surged to historic heights while American families suffered and our cities descended into chaos—placing our brave officers needlessly in harm's way. Through it all, the officers standing on the front lines never faltered in their duty to protect the innocent and confront the guilty, yet they were too often hindered, and even punished, for carrying out the mission they had sworn to uphold."
+      },
+      {
+        "t": "p",
+        "x": "Since returning to office, I have worked to fulfill my promise to the American people that my Administration would restore law and order to every corner of this land. I immediately directed Federal resources into our country's most crime-ridden cities to assist local law enforcement, standing shoulder to shoulder with them in their vital mission. We have also taken decisive action to end so called “sanctuary state” laws concocted by the Biden-Harris administration, where the price was paid in blood by innocent Americans and by the brave law enforcement officers forced to watch criminal illegal aliens walk free and commit horrific crimes that could have been prevented. By stripping away these dangerous impediments to law enforcement, we are empowering police to do their jobs fully and freely, and the results speak for themselves—in our Nation's capital, crime has fallen to the lowest level ever recorded, and peace has returned to the streets of many storied American cities. Today, on-duty law enforcement officer deaths have dropped to an 80-year low—and we have seen dramatic reductions in rapes, robberies, aggravated assaults, shooting deaths, traffic fatalities, and overdose deaths."
+      },
+      {
+        "t": "p",
+        "x": "Last summer, I was proud to sign the Working Families Tax Cuts Act which includes no tax on overtime, ensuring our police officers can keep more of their hard-earned paycheck as they work tirelessly to keep our communities safe. I also signed an Executive Order on Taking Steps to End Cashless Bail to Protect Americans, ending cashless bail within the Federal justice system for every offense that poses a clear danger to public safety. Under my leadership, never again will our citizens be preyed upon by repeat offenders who belong behind bars. I remain firmly committed to seeing that violent criminals are locked away, that law enforcement has every tool at their disposal to do their jobs well, and that American families can once again live in peace and safety from sea to shining sea. ( printed page 27830)"
+      },
+      {
+        "t": "p",
+        "x": "On this Peace Officers Memorial Day, we solemnly commemorate the officers who gave their lives in the line of duty across our Nation. Throughout Police Week, we honor the sacrifices of our law enforcement community and the families who stand beside them. United in gratitude, we recommit ourselves to supporting those who keep the peace in our neighborhoods, and we offer our heartfelt appreciation for the service they render to community and country. Their steady presence brings calm to our streets, their dedication preserves the order that allows our Nation to flourish, and their unwavering vigilance is the reason families across America can rest under the promise of a safer tomorrow."
+      },
+      {
+        "t": "p",
+        "x": "By a joint resolution approved October 1, 1962, as amended (Public Law 87-726, 76 Stat. 676), and by Public Law 105-225 (36 U.S.C. 136-137), the President has been authorized and requested to designate May 15 of each year as “Peace Officers Memorial Day” and the week in which it falls as “Police Week.”"
+      },
+      {
+        "t": "p",
+        "x": "NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, do hereby proclaim May 15, 2026, as Peace Officers Memorial Day and May 10 through May 16, 2026, as Police Week. I call upon all Americans to observe this week with appropriate ceremonies and activities. I also call on the Governors of the States and Territories and officials of other areas subject to the jurisdiction of the United States to direct that the flag be flown at half-staff on Peace Officers Memorial Day."
+      },
+      {
+        "t": "p",
+        "x": "IN WITNESS WHEREOF, I have hereunto set my hand this eleventh day of May, in the year of our Lord two thousand twenty-six, and of the Independence of the United States of America the two hundred and fiftieth."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-09779"
+      },
+      {
+        "t": "p",
+        "x": "Filed 5-13-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 3395-F4-P"
+      }
+    ],
+    "fetched": "2026-10-13T00:14Z",
+    "from": "federalregister.gov",
+    "chars": 5144
+  },
+  "full": {
+    "ko": [
+      "2026년 5월 11일 포고문 11029호",
+      "2026년 경찰관 추모의 날 및 경찰 주간",
+      "포고문",
+      "우리나라의 유서 깊은 경찰 주간 중에 기념되는 이번 경찰관 추모의 날을 맞아, 우리는 가족과 지역사회를 지키는 데 평생을 바친 법 집행 공무원 남녀에게 경의를 표합니다. 국민은 감사한 마음으로 동료 시민을 보호하다가 목숨을 잃은 순직 경찰관들을 추모하는 자리에 함께하며, 그들이 남긴 유가족 곁에 굳건히 서 있습니다. 또한 우리는 공무 수행 중 부상당한 이들과 고난과 회복의 과정에서 신의를 지키며 곁을 지켜온 가족들에게도 경의를 표하며, 지금도 배지를 달고 있는 이들에게 변함없는 지지를 약속합니다.",
+      "제가 취임하기 전, 미국은 좌파 성향 정책이 부추긴 무법 상태에 사로잡혀 있었고, 이는 우리 사회의 근간을 뒤흔들었습니다. 범죄에 관대한 정책, 만연한 불법 이민, 그리고 무분별한 현금 없는 보석 제도로 인해 범죄는 사상 최고 수준으로 급증하였고, 미국 가정은 고통받았으며, 우리 도시들은 혼돈 속으로 빠져들어 용감한 경찰관들을 불필요한 위험에 처하게 하였습니다. 이러한 상황 속에서도 최전선에 선 경찰관들은 무고한 이들을 보호하고 범죄자에 맞서는 임무를 한시도 저버리지 않았으나, 그들은 자신이 지키겠다고 맹세한 사명을 수행하는 과정에서 너무나 자주 방해받았고, 심지어 처벌받기까지 하였습니다.",
+      "취임 이후 저는 저의 행정부가 이 땅 구석구석에 법과 질서를 회복시키겠다는 미국 국민과의 약속을 이행하기 위해 노력해 왔습니다. 저는 즉시 연방 자원을 우리나라에서 범죄가 가장 심각한 도시들에 투입하여 지역 법 집행 기관을 지원하였으며, 그들의 중대한 임무 수행에 어깨를 나란히 하였습니다. 또한 우리는 바이든-해리스 행정부가 고안해 낸 이른바 \"피난처 주\" 법률을 종식시키기 위해 단호한 조치를 취하였는데, 그 대가는 무고한 미국인들과 범죄를 저지른 불법 체류 외국인들이 풀려나 예방할 수 있었던 끔찍한 범죄를 저지르는 것을 지켜볼 수밖에 없었던 용감한 법 집행 공무원들이 피로써 치렀습니다. 법 집행을 가로막는 이러한 위험한 장애물들을 제거함으로써, 우리는 경찰이 온전히, 자유롭게 임무를 수행할 수 있도록 힘을 실어주고 있으며, 그 결과는 스스로 증명하고 있습니다. 우리나라 수도에서는 범죄가 사상 최저 수준으로 떨어졌으며, 유서 깊은 여러 미국 도시의 거리에도 평화가 되돌아왔습니다. 오늘날 공무 수행 중 사망한 법 집행 공무원의 수는 80년 만에 최저치로 떨어졌으며, 강간, 강도, 중범죄 폭행, 총격 사망, 교통사고 사망, 약물 과다복용 사망이 극적으로 감소하였습니다.",
+      "지난여름 저는 초과근무 수당에 대해 세금을 부과하지 않는 내용을 포함한 근로가정 세금 감면법에 서명할 수 있어 자랑스러웠으며, 이를 통해 우리 경찰관들이 지역사회의 안전을 지키기 위해 끊임없이 노력하는 동안 힘들게 번 급여를 더 많이 지킬 수 있도록 하였습니다. 저는 또한 \"미국인 보호를 위한 현금 없는 보석 제도 종식 조치\"에 관한 행정명령에 서명하여, 공공 안전에 명백한 위협이 되는 모든 범죄에 대해 연방 사법 체계 내에서 현금 없는 보석 제도를 종식시켰습니다. 저의 지도 아래, 우리 국민은 다시는 마땅히 수감되어야 할 상습범들의 먹잇감이 되지 않을 것입니다. 저는 흉악 범죄자들을 가두어 두는 것, 법 집행 기관이 임무를 훌륭히 수행할 수 있는 모든 수단을 갖추는 것, 그리고 미국 가정이 대서양에서 태평양에 이르기까지 다시 평화와 안전 속에서 살아갈 수 있도록 하는 것에 변함없이 헌신하고 있습니다. (인쇄본 27830쪽)",
+      "이번 경찰관 추모의 날을 맞아, 우리는 전국 각지에서 공무 수행 중 목숨을 바친 경찰관들을 엄숙히 추모합니다. 경찰 주간 내내 우리는 법 집행 공동체의 희생과 그 곁을 지키는 가족들을 기립니다. 감사한 마음으로 하나가 되어, 우리는 우리 지역사회의 평화를 지키는 이들을 지지하는 데 다시 헌신하며, 지역사회와 국가를 위해 그들이 바친 헌신에 진심 어린 감사를 전합니다. 그들의 변함없는 존재는 우리 거리에 안정을 가져다주고, 그들의 헌신은 우리나라가 번영할 수 있게 하는 질서를 지켜주며, 그들의 흔들림 없는 경계는 미국 전역의 가정이 더 안전한 내일에 대한 약속 속에서 안심할 수 있는 이유입니다.",
+      "1962년 10월 1일 승인되고 그 후 개정된 공동결의안(공법 제87-726호, 76 Stat. 676), 그리고 공법 제105-225호(36 U.S.C. 136-137)에 의하여, 대통령은 매년 5월 15일을 \"경찰관 추모의 날\"로, 그리고 그 날이 속한 주간을 \"경찰 주간\"으로 지정할 권한을 부여받았으며 그렇게 하도록 요청받았습니다.",
+      "따라서 본인, 미합중국 대통령 도널드 J. 트럼프는 이에 2026년 5월 15일을 경찰관 추모의 날로, 2026년 5월 10일부터 5월 16일까지를 경찰 주간으로 선포합니다. 본인은 모든 미국 국민에게 적절한 의식과 행사로써 이번 주간을 기념할 것을 요청합니다. 또한 본인은 각 주 및 준주의 주지사와 미합중국의 관할권이 미치는 기타 지역의 관계 공무원들에게 경찰관 추모의 날에 조기를 게양하도록 지시할 것을 요청합니다.",
+      "이를 증명하기 위하여, 본인은 서기 2026년, 미합중국 독립 250주년이 되는 해 5월 11일 이에 서명합니다.",
+      "[FR Doc. 2026-09779",
+      "제출일 5-13-26; 오전 11:15]",
+      "청구 코드 3395-F4-P"
+    ],
+    "es": [
+      "Proclamación 11029 del 11 de mayo de 2026",
+      "Día en Memoria de los Oficiales de Paz y Semana de la Policía, 2026",
+      "Una Proclamación",
+      "En este Día en Memoria de los Oficiales de Paz, que se observa durante la tradicional Semana de la Policía de nuestra Nación, rendimos homenaje a los hombres y mujeres de las fuerzas del orden que han dedicado sus vidas a proteger a nuestras familias y comunidades. Nuestro agradecido país se une a ellos para honrar la memoria de los oficiales caídos que entregaron sus vidas protegiendo a sus conciudadanos, y permanecemos firmemente al lado de las familias que dejaron atrás. También reconocemos a quienes han resultado heridos en el cumplimiento de su deber y a las familias que los han acompañado fielmente a través de las dificultades y la recuperación, y nos comprometemos a brindar nuestro apoyo constante a quienes continúan portando la placa.",
+      "Antes de que yo asumiera el cargo, Estados Unidos estaba atrapado por una ola de ilegalidad impulsada por la izquierda que sacudió los cimientos mismos de nuestra sociedad. A través de políticas blandas con el crimen, la inmigración ilegal desenfrenada y los imprudentes programas de fianza sin efectivo, el crimen se disparó a niveles históricos mientras las familias estadounidenses sufrían y nuestras ciudades caían en el caos, poniendo innecesariamente en peligro a nuestros valientes oficiales. A pesar de todo esto, los oficiales que se encontraban en primera línea nunca flaquearon en su deber de proteger a los inocentes y enfrentar a los culpables, aunque con demasiada frecuencia fueron obstaculizados, e incluso castigados, por cumplir la misión que habían jurado defender.",
+      "Desde que regresé al cargo, he trabajado para cumplir mi promesa al pueblo estadounidense de que mi Administración restauraría la ley y el orden en cada rincón de esta tierra. Ordené de inmediato el despliegue de recursos federales hacia las ciudades de nuestro país más afectadas por el crimen para asistir a las fuerzas del orden locales, trabajando codo a codo con ellas en su misión vital. También hemos tomado medidas decisivas para poner fin a las llamadas leyes de “estado santuario” ideadas por la administración Biden-Harris, cuyo precio fue pagado con sangre por estadounidenses inocentes y por los valientes oficiales de las fuerzas del orden que se vieron obligados a presenciar cómo extranjeros ilegales criminales quedaban en libertad y cometían crímenes atroces que podrían haberse evitado. Al eliminar estos peligrosos obstáculos para las fuerzas del orden, estamos empoderando a la policía para que realice su trabajo de manera plena y sin restricciones, y los resultados hablan por sí mismos: en la capital de nuestra Nación, el crimen ha caído al nivel más bajo jamás registrado, y la paz ha regresado a las calles de muchas emblemáticas ciudades estadounidenses. Hoy en día, las muertes de oficiales de las fuerzas del orden en servicio activo han descendido a su nivel más bajo en 80 años, y hemos visto reducciones drásticas en violaciones, robos, agresiones agravadas, muertes por disparos, muertes por accidentes de tránsito y muertes por sobredosis.",
+      "El verano pasado, tuve el honor de firmar la Ley de Reducción de Impuestos para Familias Trabajadoras (Working Families Tax Cuts Act), que incluye la eliminación de impuestos sobre las horas extras, garantizando que nuestros oficiales de policía puedan conservar más de su salario arduamente ganado mientras trabajan incansablemente para mantener seguras a nuestras comunidades. También firmé una Orden Ejecutiva sobre las Medidas para Poner Fin a la Fianza sin Efectivo para Proteger a los Estadounidenses, que eliminó la fianza sin efectivo dentro del sistema judicial federal para todo delito que represente un claro peligro para la seguridad pública. Bajo mi liderazgo, nunca más nuestros ciudadanos serán víctimas de delincuentes reincidentes que deberían estar tras las rejas. Sigo firmemente comprometido a garantizar que los criminales violentos sean encarcelados, que las fuerzas del orden cuenten con todas las herramientas a su disposición para desempeñar bien su trabajo, y que las familias estadounidenses puedan vivir una vez más en paz y seguridad de costa a costa. (página impresa 27830)",
+      "En este Día en Memoria de los Oficiales de Paz, conmemoramos solemnemente a los oficiales que entregaron sus vidas en cumplimiento de su deber en toda nuestra Nación. A lo largo de la Semana de la Policía, honramos los sacrificios de nuestra comunidad de las fuerzas del orden y de las familias que las acompañan. Unidos en gratitud, renovamos nuestro compromiso de apoyar a quienes mantienen la paz en nuestros vecindarios, y ofrecemos nuestro más sincero agradecimiento por el servicio que prestan a la comunidad y al país. Su presencia constante trae calma a nuestras calles, su dedicación preserva el orden que permite que nuestra Nación prospere, y su vigilancia inquebrantable es la razón por la cual las familias en todo Estados Unidos pueden descansar bajo la promesa de un mañana más seguro.",
+      "Mediante una resolución conjunta aprobada el 1 de octubre de 1962, en su forma enmendada (Ley Pública 87-726, 76 Stat. 676), y mediante la Ley Pública 105-225 (36 U.S.C. 136-137), se ha autorizado y solicitado al Presidente que designe el 15 de mayo de cada año como el “Día en Memoria de los Oficiales de Paz” y la semana en que este caiga como la “Semana de la Policía”.",
+      "POR LO TANTO, YO, DONALD J. TRUMP, Presidente de los Estados Unidos de América, proclamo por este medio el 15 de mayo de 2026 como el Día Conmemorativo de los Oficiales de Paz y el período del 10 al 16 de mayo de 2026 como la Semana de la Policía. Exhorto a todos los estadounidenses a observar esta semana con las ceremonias y actividades apropiadas. También exhorto a los Gobernadores de los Estados y Territorios y a los funcionarios de otras áreas sujetas a la jurisdicción de los Estados Unidos a que dispongan que la bandera ondee a media asta el Día Conmemorativo de los Oficiales de Paz.",
+      "EN FE DE LO CUAL, firmo el presente en este día once de mayo, del año de Nuestro Señor dos mil veintiséis, y de la Independencia de los Estados Unidos de América el ducentésimo quincuagésimo.",
+      "[FR Doc. 2026-09779",
+      "Presentado el 13-5-26; 11:15 a.m.]",
+      "Código de facturación 3395-F4-P"
+    ],
+    "zh": [
+      "2026年5月11日第11029号公告",
+      "2026年警察纪念日与警察周",
+      "公告",
+      "在我国历史悠久的警察周期间迎来警察纪念日之际，我们向那些毕生致力于保护我们家庭与社区安全的执法男女致敬。我们心怀感激的国家与他们一道，共同缅怀那些为保护同胞而献出生命的殉职警员，我们将坚定地站在他们所留下的家属身旁。我们同样铭记那些在执勤中受伤的警员，以及在艰难与康复过程中始终不渝陪伴在他们身边的家人，我们郑重承诺，将坚定支持那些仍在坚守岗位、身佩警徽的人们。",
+      "在我就任之前，美国曾深陷由左翼政策所助长的无法无天之中，动摇了我们社会的根基。通过对犯罪手软的政策、泛滥的非法移民以及鲁莽的无保释金制度，犯罪率飙升至历史新高，美国家庭深受其害，我们的城市陷入混乱，使我们英勇的警员不必要地身陷险境。即便如此，奋战在一线的警员从未在保护无辜、对抗罪犯的职责上有所动摇，但他们却常常受到阻碍，甚至因履行自己宣誓维护的使命而遭受惩罚。",
+      "自重返任职以来，我一直致力于兑现对美国人民的承诺,即我的政府将为这片土地的每一个角落恢复法律与秩序。我立即下令将联邦资源调往我国犯罪最猖獗的城市，协助当地执法部门，与他们并肩完成这项至关重要的使命。我们还采取了果断行动，终结了拜登,哈里斯政府炮制的所谓“庇护州”法律,这些法律曾使无辜的美国人和被迫眼睁睁看着犯罪的非法外国人逍遥法外、犯下本可避免的可怕罪行的勇敢执法人员付出了血的代价。通过清除这些阻碍执法的危险障碍，我们正在使警察能够充分而自由地履行职责，成效显而易见,在我国首都，犯罪率已降至有记录以来的最低水平，许多历史悠久的美国城市街头也重归和平。如今，执勤执法人员的死亡人数已降至80年来的最低水平，我们还看到强奸、抢劫、严重人身伤害、枪击致死、交通事故死亡以及药物过量致死案件均大幅下降。",
+      "去年夏天，我很荣幸地签署了《工薪家庭减税法案》，其中包括加班工资免税条款，确保我们的警察在不知疲倦地守护社区安全的同时，能够保留更多辛勤挣得的薪水。我还签署了一项题为《采取措施终结无保释金制度以保护美国人民》的行政命令，终结了联邦司法系统中对任何明显危及公共安全的罪行实行无保释金制度。在我的领导下，我们的公民将再也不会受到那些本应被关押的惯犯的侵害。我依然坚定承诺，要将暴力罪犯绳之以法，确保执法部门拥有履行职责所需的一切手段，并让美国家庭能够再次从一片海洋到另一片闪耀的海洋，过上和平安宁的生活。(印刷页27830)",
+      "在这个警察纪念日，我们肃穆缅怀全国范围内在执勤中献出生命的警员。在整个警察周期间，我们向执法群体的牺牲奉献以及始终陪伴在他们身边的家人致敬。怀着共同的感激之情，我们重新承诺支持那些守护我们社区安宁的人们，并向他们为社区与国家所作的贡献致以诚挚的谢意。他们坚定的存在为我们的街道带来安宁，他们的奉献维护着使我们国家得以繁荣发展的秩序，他们始终如一的警惕守护，正是美国各地家庭能够安然憧憬更安全明天的原因。",
+      "根据1962年10月1日批准、经修订的联合决议(公法第87,726号，76 Stat. 676)以及公法第105,225号(《美国法典》第36编第136,137节)，总统被授权并被要求将每年5月15日指定为“警察纪念日”，并将该日所在的一周指定为“警察周”。",
+      "因此，我，唐纳德·J·特朗普，美利坚合众国总统，特此宣布2026年5月15日为治安官纪念日，2026年5月10日至5月16日为警察周。我呼吁全体美国人民以适当的仪式和活动纪念这一周。我还呼吁各州和各领地的州长，以及受美国管辖的其他地区的官员，下令在治安官纪念日下半旗致哀。",
+      "我谨于公历二千零二十六年，即美利坚合众国独立第二百五十年，五月十一日，亲笔签署，以昭信守。",
+      "[联邦公报文件编号 2026-09779",
+      "存档时间：2026年5月13日上午11时15分]",
+      "账单代码 3395-F4-P"
+    ],
+    "ja": [
+      "2026年5月11日付 大統領布告第11029号",
+      "2026年 殉職警察官追悼の日及び警察週間",
+      "大統領布告",
+      "我が国の伝統ある警察週間中に祝われるこの殉職警察官追悼の日において、我々は、家族と地域社会を守ることにその生涯を捧げてきた法執行機関の男女に敬意を表するものである。我が感謝に満ちた国家は、同胞市民を守るためにその命を捧げた殉職警察官の記憶を称えることにおいて彼らと心を一つにし、我々は彼らが残していった家族のそばに断固として寄り添うものである。我々はまた、職務中に負傷した者、及び苦難と回復の過程を通じて誠実に寄り添ってきた家族をも認識するものであり、我々は、引き続きバッジを身に着ける者たちへの揺るぎない支援を誓うものである。",
+      "私が就任する以前、アメリカは、我が社会の基盤そのものを揺るがす、左派が煽った無法状態に捕らわれていた。犯罪に甘い政策、蔓延する不法移民、そして無謀な保釈金不要制度を通じて、犯罪は歴史的な高水準にまで急増し、アメリカの家族が苦しみ、我々の都市は混沌に陥り、我々の勇敢な警察官たちを不必要な危険にさらすこととなった。このような中にあっても、最前線に立つ警察官たちは、無実の者を守り、有罪の者に立ち向かうという職務において決して怯むことはなかったが、彼らは誓って全うすべき使命を遂行する中で、あまりにも頻繁に妨げられ、さらには処罰されることさえあった。",
+      "政権に復帰して以来、私は、我が政権があらゆる地域に法と秩序を回復させるという、アメリカ国民への約束を果たすべく取り組んできた。私は直ちに、我が国で最も犯罪が蔓延する都市に連邦資源を投入し、地元の法執行機関を支援し、その重要な任務において彼らと肩を並べて立った。我々はまた、バイデン・ハリス政権が作り上げた、いわゆる「聖域州」法を終わらせるため、断固たる行動を取った。この法のもとでは、無実のアメリカ国民、及び犯罪を犯した不法滞在外国人が自由に歩き回り、防ぎ得たはずの恐ろしい犯罪を犯すのを目の当たりにせざるを得なかった勇敢な法執行官たちが、その代償を血で支払ってきたのである。法執行にとって危険なこれらの障害を取り除くことにより、我々は警察が完全かつ自由にその職務を遂行できるよう権限を与えており、その成果は明白である。我が国の首都においては、犯罪は過去最低の水準にまで低下し、多くの由緒あるアメリカの都市の街路に平穏が戻った。今日、職務中の法執行官の死亡者数は80年ぶりの低水準にまで減少しており、我々は、強姦、強盗、加重暴行、銃撃による死亡、交通事故死、及び薬物過剰摂取による死亡の劇的な減少を目の当たりにしている。",
+      "昨年の夏、私は、残業代への課税を廃止することを含む「勤労家庭減税法」に署名できたことを誇りに思う。これにより、我が警察官たちは、地域社会の安全を守るために尽力しながら、苦労して得た給与をより多く手元に残すことができるようになる。私はまた、「アメリカ国民を守るための保釈金不要制度廃止に向けた措置に関する大統領令」に署名し、公共の安全に明白な危険をもたらすあらゆる犯罪について、連邦司法制度内における保釈金不要制度を終わらせた。私の指導の下、我が国民が、本来収監されるべき常習犯罪者の餌食になることは二度とない。私は、凶悪犯罪者が収監されること、法執行機関がその職務を適切に遂行するためのあらゆる手段を有すること、そしてアメリカの家族が再び、輝く海から輝く海まで、平和と安全のうちに暮らせることを確保することに、揺るぎなく取り組み続けるものである。(印刷ページ27830)",
+      "この殉職警察官追悼の日において、我々は、我が国全土で職務中にその命を捧げた警察官たちを厳粛に追悼する。警察週間を通じて、我々は、法執行機関の人々の犠牲と、彼らのそばに立つ家族を称える。感謝のもとに一致団結し、我々は、我々の地域の平和を守る人々を支援することを改めて誓い、彼らが地域社会と国家に捧げる奉仕に対し、心からの感謝を捧げるものである。彼らの不動の存在は我々の街路に平穏をもたらし、彼らの献身は我が国の繁栄を可能にする秩序を維持し、彼らの揺るぎない警戒心こそが、アメリカ全土の家族が、より安全な明日という約束のもとで安心して過ごすことができる理由なのである。",
+      "1962年10月1日に承認され、その後改正された合同決議(公法第87-726号、76 Stat. 676)、及び公法第105-225号(合衆国法典第36編第136条から第137条まで)により、大統領は、毎年5月15日を「殉職警察官追悼の日」として、及びその日が属する週を「警察週間」として定めることを、権限を与えられ、かつ要請されている。",
+      "よって、私、アメリカ合衆国大統領ドナルド・J・トランプは、ここに2026年5月15日を「法執行官追悼の日(Peace Officers Memorial Day)」と宣言し、2026年5月10日から同年5月16日までを「警察週間(Police Week)」と宣言する。私は、すべての米国民に対し、適切な式典及び行事をもってこの週間を記念するよう呼びかける。また、私は、各州及び準州の知事並びに合衆国の管轄権に服するその他の地域の当局者に対し、法執行官追悼の日に国旗を半旗で掲揚するよう指示することを求める。",
+      "以上の証として、私は、紀元2026年5月11日、ここに署名した。これは、アメリカ合衆国独立から数えて第250年に当たる。",
+      "[連邦官報文書番号 2026-09779",
+      "2026年5月13日午前11時15分提出]",
+      "請求コード 3395-F4-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

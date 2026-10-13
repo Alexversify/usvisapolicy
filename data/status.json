@@ -3,7 +3,7 @@
   "sources": {
     "uscis_news": {
       "ok": true,
-      "items": 17,
+      "items": 320,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -45,7 +45,7 @@
     },
     "federal_register": {
       "ok": true,
-      "items": 20,
+      "items": 101,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -66,14 +66,14 @@
     },
     "presidential": {
       "ok": true,
-      "items": 5,
+      "items": 22,
       "error": null,
       "fail_streak": 0,
       "alert": true
     }
   },
   "translate": {
-    "done": 0,
+    "done": 15,
     "failed": 0,
     "key": true,
     "fail_streak": 0

@@ -1,0 +1,379 @@
+{
+  "id": "a2b1acbfb3df",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system",
+  "original_title": "Restoring Integrity to America's Financial System",
+  "published": "2026-05-22",
+  "effective_date": "2026-05-19",
+  "importance": "medium",
+  "category": "policy",
+  "tags": [
+    "Executive Order",
+    "Banking",
+    "Immigration Enforcement",
+    "Financial Regulation"
+  ],
+  "relevant": true,
+  "langs": {
+    "en": {
+      "title": "Executive Order Directs Financial Regulators to Target Banking Access for Unauthorized Immigrants",
+      "summary": "President signed Executive Order 14406 on May 19, 2026, titled 'Restoring Integrity to America's Financial System.' It directs the Treasury Department and federal banking regulators to issue guidance and consider rule changes addressing financial services provided to individuals without lawful immigration status or work authorization.",
+      "points": [
+        "Within 60 days, Treasury must issue an advisory to financial institutions describing red flags linked to non-work authorized individuals and their employers, including payroll tax evasion and misuse of ITINs.",
+        "Within 90 days, Treasury and banking regulators must propose changes to Bank Secrecy Act customer due diligence rules, potentially allowing banks to request information on immigration and work authorization status.",
+        "Within 180 days, regulators will consider changes to customer identification requirements, including treatment of foreign consular identification cards.",
+        "Within 60 days, the Consumer Financial Protection Bureau is to consider clarifying that deportation risk and potential wage loss may be factored into ability-to-repay credit assessments.",
+        "Federal banking regulators are also directed to issue guidance on managing credit risks tied to non-work authorized borrowers.",
+        "The order itself took effect on signing, but the regulatory and rule changes it directs are not yet final and will follow separate agency processes."
+      ],
+      "who": "Banks and other financial institutions, and individuals without lawful immigration status or work authorization who hold U.S. bank accounts, credit, or loans.",
+      "action": "Financial institutions should watch for forthcoming Treasury advisories and proposed rule changes; affected individuals should monitor whether new verification requirements apply to existing or new accounts and credit products."
+    },
+    "ko": {
+      "title": "백악관, 미등록 이민자 금융 접근 제한 겨냥한 행정명령 서명",
+      "summary": "대통령은 2026년 5월 19일 '미국 금융 시스템의 청렴성 회복'이라는 제목의 행정명령 14406호에 서명했습니다. 이 명령은 재무부와 연방 금융 규제기관들이 합법적 체류 신분이나 취업 허가가 없는 사람들에게 제공되는 금융 서비스와 관련된 지침 및 규정 변경을 마련하도록 지시합니다.",
+      "points": [
+        "재무부는 60일 이내에 금융기관을 대상으로 미취업 허가자 및 그 고용주와 관련된 위험 신호를 설명하는 권고문을 발표해야 합니다. 여기에는 급여세 탈루와 ITIN 오용 사례가 포함됩니다.",
+        "재무부와 금융 규제기관들은 90일 이내에 은행비밀법상 고객 실사 규정 개정안을 마련해야 하며, 이를 통해 은행이 이민 신분과 취업 허가 정보를 요구할 수 있도록 할 수 있습니다.",
+        "규제기관들은 180일 이내에 외국 영사 신분증 처리 방식을 포함한 고객 확인 요건 변경을 검토합니다.",
+        "소비자금융보호국은 60일 이내에 추방 위험과 임금 손실 가능성을 신용 상환능력 평가에 반영할 수 있는지 명확히 할 것을 검토합니다.",
+        "연방 금융 규제기관들은 미취업 허가 차입자와 관련된 신용 위험 관리 지침도 발표하도록 지시받았습니다.",
+        "이 행정명령 자체는 서명 즉시 효력이 발생했지만, 명령이 지시하는 구체적인 규정 개정은 아직 확정되지 않았으며 별도의 행정 절차를 거쳐야 합니다."
+      ],
+      "who": "은행 등 금융기관, 그리고 합법적 체류 신분이나 취업 허가가 없는 상태로 미국 내 계좌, 신용카드, 대출을 보유한 개인들입니다.",
+      "action": "금융기관은 향후 발표될 재무부 권고문과 규정 개정안을 주시해야 하며, 영향을 받는 개인은 기존 계좌나 신용 상품에 새로운 신원 확인 요건이 적용되는지 확인해야 합니다."
+    },
+    "es": {
+      "title": "Orden ejecutiva dirige a reguladores financieros a examinar el acceso bancario de inmigrantes indocumentados",
+      "summary": "El presidente firmó la Orden Ejecutiva 14406 el 19 de mayo de 2026, titulada 'Restaurando la Integridad del Sistema Financiero de Estados Unidos'. La orden instruye al Departamento del Tesoro y a los reguladores bancarios federales a emitir orientación y considerar cambios normativos relacionados con los servicios financieros otorgados a personas sin estatus migratorio legal o autorización de trabajo.",
+      "points": [
+        "En un plazo de 60 días, el Tesoro debe emitir un aviso a las instituciones financieras sobre señales de alerta vinculadas a personas sin autorización de trabajo y sus empleadores, incluida la evasión de impuestos sobre nómina y el uso indebido de ITIN.",
+        "En un plazo de 90 días, el Tesoro y los reguladores bancarios deben proponer cambios a las reglas de debida diligencia del cliente bajo la Ley de Secreto Bancario, lo que podría permitir a los bancos solicitar información sobre estatus migratorio y autorización laboral.",
+        "En un plazo de 180 días, los reguladores considerarán cambios en los requisitos de identificación de clientes, incluido el tratamiento de las tarjetas consulares de identificación extranjera.",
+        "En un plazo de 60 días, la Oficina de Protección Financiera del Consumidor evaluará aclarar que el riesgo de deportación y la posible pérdida de ingresos pueden considerarse en las evaluaciones de capacidad de pago.",
+        "Los reguladores financieros federales también deben emitir orientación sobre el manejo de riesgos crediticios vinculados a prestatarios sin autorización de trabajo.",
+        "La orden entró en vigor al momento de su firma, pero los cambios normativos específicos que ordena aún no son definitivos y deberán seguir procesos administrativos separados."
+      ],
+      "who": "Bancos y otras instituciones financieras, y personas sin estatus migratorio legal o autorización de trabajo que posean cuentas bancarias, créditos o préstamos en Estados Unidos.",
+      "action": "Las instituciones financieras deben estar atentas a los próximos avisos del Tesoro y a las propuestas de cambios normativos; las personas afectadas deben verificar si nuevos requisitos de verificación se aplicarán a sus cuentas o productos de crédito existentes."
+    },
+    "zh": {
+      "title": "白宫签署行政命令,指示金融监管机构审查无身份移民的银行服务",
+      "summary": "总统于2026年5月19日签署了题为《恢复美国金融系统廉正》的第14406号行政命令。该命令指示财政部和联邦银行监管机构就向无合法移民身份或工作许可人士提供的金融服务发布指导意见,并考虑修改相关法规。",
+      "points": [
+        "财政部须在60天内向金融机构发布通报,说明与无工作授权人员及其雇主相关的可疑迹象,包括工资税逃漏和ITIN滥用。",
+        "财政部与银行监管机构须在90天内提出修改《银行保密法》客户尽职调查规定的方案,可能允许银行询问移民身份和工作授权信息。",
+        "监管机构将在180天内考虑修改客户身份识别要求,包括如何处理外国领事身份证。",
+        "消费者金融保护局须在60天内考虑明确,驱逐风险和潜在工资损失可被纳入还款能力评估。",
+        "联邦银行监管机构还须就如何管理与无工作授权借款人相关的信贷风险发布指导。",
+        "该行政命令本身在签署后立即生效,但其所指示的具体法规修改尚未最终确定,需经过各机构单独的程序。"
+      ],
+      "who": "银行等金融机构,以及在美国持有银行账户、信用卡或贷款、但没有合法移民身份或工作授权的个人。",
+      "action": "金融机构应关注财政部即将发布的通报和拟议法规修改;受影响人员应留意新的身份核实要求是否适用于其现有账户或信贷产品。"
+    },
+    "ja": {
+      "title": "ホワイトハウス、不法滞在者の銀行利用を標的とする大統領令に署名",
+      "summary": "大統領は2026年5月19日、「米国金融システムの健全性回復」と題する大統領令第14406号に署名しました。この命令は財務省と連邦銀行規制当局に対し、適法な在留資格や就労許可を持たない個人への金融サービス提供に関する指針の発表や規則改正の検討を指示しています。",
+      "points": [
+        "財務省は60日以内に、就労未許可者とその雇用主に関連する不審な兆候を説明する勧告を金融機関向けに発表しなければなりません。賃金税の脱税やITINの不正使用が含まれます。",
+        "財務省と銀行規制当局は90日以内に、銀行秘密法上の顧客確認義務の改正案を提出し、銀行が在留資格や就労許可情報を求められるようにする可能性があります。",
+        "規制当局は180日以内に、外国領事発行の身分証明書の扱いを含む顧客確認要件の変更を検討します。",
+        "消費者金融保護局は60日以内に、強制送還のリスクや賃金喪失の可能性を返済能力審査に考慮できるかを明確化する検討を行います。",
+        "連邦銀行規制当局は、就労未許可の借り手に関連する信用リスク管理についての指針も発表するよう指示されています。",
+        "この大統領令自体は署名と同時に発効していますが、命令が指示する具体的な規則改正はまだ確定しておらず、各機関による別途の手続きを経る必要があります。"
+      ],
+      "who": "銀行などの金融機関、および適法な在留資格や就労許可を持たずに米国内で銀行口座、クレジット、ローンを利用している個人。",
+      "action": "金融機関は今後発表される財務省の勧告や規則改正案に注意する必要があり、該当する個人は既存の口座や信用商品に新たな本人確認要件が適用されるかを確認すべきです。"
+    }
+  },
+  "added": "2026-10-13T00:02Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "enforcement",
+    "employment",
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "( printed page 30479)"
+      },
+      {
+        "t": "p",
+        "x": "Executive Order 14406 of May 19, 2026"
+      },
+      {
+        "t": "h",
+        "x": "Restoring Integrity to America's Financial System"
+      },
+      {
+        "t": "p",
+        "x": "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:"
+      },
+      {
+        "t": "p",
+        "x": "Section 1 . Purpose. America's financial institutions serve a critical role in safeguarding the American people against financial fraud and abuse. My Administration has taken significant steps to lower the costs of providing financial services for Americans and reduce unnecessary and burdensome Federal regulations that restrain economic growth and hamper the competitiveness of financial service providers nationwide. However, it has long been the policy of the United States to adopt tailored measures to safeguard our financial system from illicit use and promote safe and sound lending and other practices by financial institutions. My Administration will not tolerate national security and public safety risks caused by illicit cross-border financial activity, nor will it permit risks to our financial system posed by the extension of credit or financial services to the inadmissible and removable alien population."
+      },
+      {
+        "t": "p",
+        "x": "Even the provision of the most basic financial services, absent proper know-your-customer practices, can be abused to facilitate the funding of activities that pose significant threats to national security and public safety. Low-dollar cross-border funds transfers have been used to facilitate or commit terrorist financing, narcotics trafficking, human trafficking, and other illegal activity. Financial trend analyses have uncovered hubs of deadly fentanyl-related financial activity in the United States related to Mexico-based cartels. A recent analysis of Chinese money laundering networks identified how foreign passport holders have used United States-based accounts to facilitate the laundering of over $312 billion for criminal organizations, with human trafficking highlighted among the activities associated with the transfers. Robust customer identification programs and enhanced due diligence measures are necessary to mitigate these risks."
+      },
+      {
+        "t": "p",
+        "x": "Banks and other financial institutions should also be attentive to the credit risks posed by the extension of mortgage and auto loans, credit cards, and other consumer credit to the inadmissible and removable alien population. Many of those borrowers face the possibility of the loss of wages due to removal or their employers' decisions to comply with immigration law. Lending to aliens without legal work authorization or who face a substantial loss-of-wage risk creates a structural “ability to repay” deficiency that undermines the safety and soundness of the national banking system. Additionally, employers who violate immigration law may underreport wages, use mismatched or invalid Social Security numbers and taxpayer identification numbers, or fail to properly withhold or remit payroll taxes. Such schemes can create vulnerabilities within our financial system by obscuring income sources, distorting credit underwriting, and facilitating underground economic activity."
+      },
+      {
+        "t": "p",
+        "x": "It is the policy of my Administration to restore integrity to America's financial system, safeguard financial institutions against structural risks, and deter fraud and abuse."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 2 . Definition. The term “Federal functional financial regulator” means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration. ( printed page 30480)"
+      },
+      {
+        "t": "p",
+        "x": "Sec. 3 . Safeguarding Against Fraud and Abuse. (a) Within 60 days of the date of this order, the Secretary of the Treasury shall issue a formal Advisory to financial institutions regarding the risks associated with the exploitation of the United States financial system by non-work authorized populations and their employers. This Advisory shall describe specific red flags and typologies associated with the following categories of suspicious activity:"
+      },
+      {
+        "t": "p",
+        "x": "(i) evidentiary patterns of payroll tax evasion by employers or labor brokers, including the systematic failure to withhold or remit Federal employment taxes for non-work authorized individuals;"
+      },
+      {
+        "t": "p",
+        "x": "(ii) the utilization of certain foreign-identity documents, nominee accounts, shell companies, or complex “funnel” structures designed to obfuscate the identity of the ultimate beneficial owners or conceal the true nature of payroll disbursements;"
+      },
+      {
+        "t": "p",
+        "x": "(iii) the strategic use of unregistered money services businesses, third-party payment processors, or peer-to-peer platforms to facilitate “off-the-books” wage payments intended to bypass Bank Secrecy Act reporting thresholds or tax obligations;"
+      },
+      {
+        "t": "p",
+        "x": "(iv) patterns of repetitive, sub-threshold cash withdrawals or deposits that correlate with payroll cycles conducted outside of regulated payroll processing systems, also known as “structuring and micro-structuring”;"
+      },
+      {
+        "t": "p",
+        "x": "(v) financial activity indicative of labor trafficking or forced labor (as defined in 18 U.S.C. 1589), where proceeds are commingled with legitimate business revenue or transferred to foreign jurisdictions; and"
+      },
+      {
+        "t": "p",
+        "x": "(vi) the use of an individual taxpayer identification number (ITIN) to obtain credit products or open depository accounts where the applicant lacks verified lawful immigration status. Although an ITIN facilitates tax compliance, its use in lieu of a Social Security number or valid work-authorized visa may be identified as a risk factor requiring enhanced due diligence to ensure the account is not being utilized to facilitate the unlawful employment of unauthorized aliens."
+      },
+      {
+        "t": "p",
+        "x": "(b) Within 90 days of the date of this order, the Secretary of the Treasury shall, in consultation with the appropriate Federal functional financial regulators, propose changes to applicable implementing regulations of the Bank Secrecy Act to strengthen risk-based customer due diligence requirements for covered financial institutions. Such changes should ensure that:"
+      },
+      {
+        "t": "p",
+        "x": "(i) institutions collect and verify sufficient customer identity information to reasonably identify the nominal and beneficial owners of accounts in order to assess risks related to illicit finance, sanctions evasion, fraud, or other unlawful activity; and"
+      },
+      {
+        "t": "p",
+        "x": "(ii) institutions maintain the authority, where warranted by other risk indicators or supervisory concerns, to obtain additional information necessary to resolve material compliance concerns, including information relevant to whether account holders possess lawful immigration status and employment authorization in the United States when such information is relevant to assessing risks associated with fraud, identity misrepresentation, sanctions evasion, or other illicit financial activity, as part of a risk-based customer due diligence program."
+      },
+      {
+        "t": "p",
+        "x": "(c) Within 180 days of the date of this order, the Secretary of the Treasury and the appropriate Federal functional financial regulators shall consider changes to applicable implementing regulations of the Bank Secrecy Act to strengthen risk-based customer identification program requirements for covered financial institutions. Any changes considered should account for the risks foreign consular identification cards pose to the integrity of the United States financial system."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 4 . Addressing Structural Credit Risks. (a) Within 60 days of the date of this order, the Consumer Financial Protection Bureau shall consider clarifying that potential deportation and loss of wages are factors that could adversely affect a non-work authorized borrower's ability to repay an extension of credit under the “ability-to-repay” standards in 12 CFR Part 1026 ( printed page 30481) and its appendices and supplements, and that lenders may consider such factors as part of a reasonable and good-faith underwriting determination."
+      },
+      {
+        "t": "p",
+        "x": "(b) Within 60 days of the date of this order, each appropriate Federal functional financial regulator shall issue guidance regarding the management of the potential credit risks posed by the non-work authorized population."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 5 . General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:"
+      },
+      {
+        "t": "p",
+        "x": "(i) the authority granted by law to an executive department or agency, or the head thereof; or"
+      },
+      {
+        "t": "p",
+        "x": "(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals."
+      },
+      {
+        "t": "p",
+        "x": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+      },
+      {
+        "t": "p",
+        "x": "(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
+      },
+      {
+        "t": "p",
+        "x": "(d) The costs for publication of this order shall be borne by the Department of the Treasury."
+      },
+      {
+        "t": "p",
+        "x": "THE WHITE HOUSE,"
+      },
+      {
+        "t": "p",
+        "x": "May 19, 2026."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-10400"
+      },
+      {
+        "t": "p",
+        "x": "Filed 5-21-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 4810-25-P"
+      }
+    ],
+    "fetched": "2026-10-13T00:02Z",
+    "from": "federalregister.gov",
+    "chars": 8926
+  },
+  "full": {
+    "ko": [
+      "(인쇄본 페이지 30479)",
+      "2026년 5월 19일 대통령행정명령 14406호",
+      "미국 금융 시스템의 완전성 회복",
+      "미합중국 헌법 및 법률에 의하여 대통령으로서 나에게 부여된 권한에 따라 다음과 같이 명령한다.",
+      "제1절. 목적. 미국의 금융기관은 금융 사기 및 남용으로부터 미국 국민을 보호하는 데 있어 중대한 역할을 수행합니다. 본 행정부는 미국 국민에게 금융서비스를 제공하는 데 드는 비용을 낮추고, 경제성장을 저해하고 전국적으로 금융서비스 제공자들의 경쟁력을 약화시키는 불필요하고 부담스러운 연방규제를 축소하기 위한 중요한 조치를 취해 왔습니다. 그러나 우리의 금융 시스템을 불법적인 이용으로부터 보호하고, 금융기관의 안전하고 건전한 대출 및 기타 관행을 증진하기 위하여 맞춤형 조치를 채택하는 것은 오랫동안 미합중국의 정책이었습니다. 본 행정부는 불법적인 국경 간 금융 활동으로 인한 국가안보 및 공공안전에 대한 위험을 용인하지 않을 것이며, 입국금지 및 추방대상 외국인 집단에 대한 신용공여 또는 금융서비스 제공으로 인하여 우리의 금융 시스템에 제기되는 위험 또한 용인하지 않을 것입니다.",
+      "적절한 고객확인 관행이 결여된 경우, 가장 기본적인 금융서비스의 제공조차도 국가안보와 공공안전에 중대한 위협을 가하는 활동의 자금조달을 용이하게 하는 데 악용될 수 있습니다. 소액의 국경 간 자금이체는 테러자금조달, 마약밀매, 인신매매 및 기타 불법행위를 용이하게 하거나 이를 실행하는 데 사용되어 왔습니다. 금융 동향 분석 결과, 멕시코를 기반으로 하는 카르텔과 관련된 치명적인 펜타닐 관련 금융활동의 거점이 미국 내에서 발견되었습니다. 최근 중국의 자금세탁 네트워크에 관한 분석에서는 외국 여권 소지자들이 미국 소재 계좌를 이용하여 범죄조직을 위하여 3,120억 달러가 넘는 자금을 세탁하는 것을 용이하게 하였음이 확인되었으며, 이러한 송금과 관련된 활동 중에는 인신매매도 포함되어 있는 것으로 드러났습니다. 이러한 위험을 완화하기 위해서는 강력한 고객확인 프로그램과 강화된 실사 조치가 필요합니다.",
+      "은행 및 기타 금융기관은 또한 입국 불허 대상자 및 추방 대상 외국인 집단에 대한 주택담보대출, 자동차대출, 신용카드 및 기타 소비자 신용의 제공으로 인하여 발생하는 신용 위험에도 유의하여야 합니다. 이러한 차용인들 중 다수는 추방 또는 고용주의 이민법 준수 결정으로 인하여 임금을 상실할 가능성에 직면하고 있습니다. 합법적인 취업 허가가 없는 외국인 또는 상당한 임금 상실 위험에 직면한 외국인에 대한 대출은 상환 능력에 있어서 구조적인 결함을 야기하며, 이는 국가 은행 제도의 안전성과 건전성을 저해합니다. 또한 이민법을 위반하는 고용주는 임금을 과소 신고하거나, 불일치하거나 유효하지 않은 사회보장번호 및 납세자식별번호를 사용하거나, 급여세를 적절히 원천징수하거나 납부하지 아니할 수 있습니다. 이러한 수법은 소득 출처를 은폐하고, 신용 심사를 왜곡하며, 지하 경제 활동을 조장함으로써 우리의 금융 시스템 내에 취약성을 초래할 수 있습니다.",
+      "미국 금융 시스템의 건전성을 회복하고, 금융기관을 구조적 위험으로부터 보호하며, 사기 및 남용을 억제하는 것이 본 행정부의 정책입니다.",
+      "제2조. 정의. “연방 기능별 금융 규제기관”이라 함은 연방준비제도이사회(Board of Governors of the Federal Reserve System), 통화감독청(Office of the Comptroller of the Currency), 연방예금보험공사(Federal Deposit Insurance Corporation) 및 국가신용조합청(National Credit Union Administration)을 말합니다. (인쇄본 제30480면)",
+      "제3조. 사기 및 남용으로부터의 보호. (a) 본 행정명령일로부터 60일 이내에, 재무부 장관은 취업 미허가 인구 및 그 고용주에 의한 미국 금융 시스템 악용과 관련된 위험에 관하여 금융기관에 대한 공식 권고(Advisory)를 발표하여야 합니다. 이 권고는 다음 범주의 의심스러운 활동과 관련된 구체적인 경고 신호 및 유형을 기술하여야 합니다.",
+      "(i) 취업 미허가 개인에 대한 연방 고용세의 체계적인 원천징수 또는 납부 불이행을 포함하여, 고용주 또는 인력 중개업자에 의한 급여세 탈루의 증거적 양태.",
+      "(ii) 최종 실소유자의 신원을 모호하게 하거나 급여 지급의 실제 성격을 은폐하기 위하여 고안된 특정 외국 신분 증명서, 명의인 계좌, 페이퍼컴퍼니 또는 복잡한 ‘자금 경로형(funnel)’ 구조의 활용.",
+      "(iii) 비밀리에 등록되지 않은 자금서비스업체, 제3자 결제처리업체 또는 개인 간(P2P) 플랫폼을 전략적으로 이용하여 은행비밀법(Bank Secrecy Act)의 신고 기준을 회피하거나 세금 의무를 우회할 목적의 \"장부 외\" 임금 지급을 용이하게 하는 행위,",
+      "(iv) 규제 대상 급여처리 시스템 밖에서 이루어지는 급여 주기와 상관관계가 있는, 반복적이고 신고 기준 이하의 현금 인출 또는 입금 양상으로서, \"구조화(structuring)\" 및 \"미세 구조화(micro-structuring)\"라고도 알려진 행위, 그리고",
+      "(v) 수익금이 합법적인 사업 수익과 혼합되거나 외국 관할권으로 이전되는 경우로서, 노동 인신매매 또는 강제노동(18 U.S.C. 1589에 정의됨)을 나타내는 금융 활동, 그리고",
+      "(vi) 신청인이 검증된 합법적 이민 신분을 보유하지 아니한 상태에서 신용상품을 취득하거나 예금계좌를 개설하기 위하여 개인 납세자 식별번호(ITIN)를 사용하는 행위. ITIN은 세금 납부 의무 이행을 용이하게 하는 수단이지만, 사회보장번호 또는 유효한 취업허가 비자 대신 이를 사용하는 것은 해당 계좌가 불법체류 외국인의 불법 고용을 용이하게 하는 데 이용되고 있지 않은지를 확인하기 위한 강화된 실사(due diligence)가 요구되는 위험 요소로 식별될 수 있습니다.",
+      "(b) 이 행정명령일로부터 90일 이내에, 재무부 장관은 관련 연방 금융기능 규제기관과 협의하여, 적용대상 금융기관에 대한 위험기반 고객실사 요건을 강화하기 위하여 은행비밀법의 해당 시행규정에 대한 개정을 제안하여야 합니다. 그러한 개정은 다음 사항을 보장하여야 합니다.",
+      "(i) 금융기관이 불법 자금조달, 제재 회피, 사기 또는 기타 불법 행위와 관련된 위험을 평가하기 위하여 계좌의 명의인 및 실질소유자를 합리적으로 식별할 수 있도록 충분한 고객 신원정보를 수집하고 검증할 것, 그리고",
+      "(ii) 금융기관이 다른 위험 지표 또는 감독상의 우려에 의하여 정당화되는 경우, 위험기반 고객실사 프로그램의 일환으로서, 사기, 신원 허위 진술, 제재 회피 또는 기타 불법 금융 활동과 관련된 위험을 평가하는 데 관련이 있는 경우 계좌 명의인이 미국 내 합법적 이민 신분 및 취업허가를 보유하고 있는지 여부에 관한 정보를 포함하여, 중대한 컴플라이언스 우려사항을 해결하는 데 필요한 추가 정보를 취득할 수 있는 권한을 유지할 것.",
+      "(c) 이 행정명령일로부터 180일 이내에, 재무부 장관과 관련 연방 금융기능 규제기관은 적용대상 금융기관에 대한 위험기반 고객확인 프로그램 요건을 강화하기 위하여 은행비밀법의 해당 시행규정에 대한 개정을 검토하여야 합니다. 검토되는 모든 개정사항은 외국 영사신분증이 미국 금융시스템의 건전성에 제기하는 위험을 고려하여야 합니다.",
+      "제4조. 구조적 신용위험 대응. (가) 이 행정명령일로부터 60일 이내에, 소비자금융보호국(Consumer Financial Protection Bureau)은 12 CFR 제1026편(인쇄본 페이지 30481) 및 그 부록 및 보칙에 규정된 \"상환능력\" 기준 하에서, 잠재적 강제추방 및 임금 상실이 취업허가를 받지 않은 차주의 신용 연장 상환 능력에 부정적인 영향을 미칠 수 있는 요소라는 점, 그리고 대출기관이 합리적이고 신의성실한 인수심사 결정의 일환으로 그러한 요소를 고려할 수 있다는 점을 명확히 하는 방안을 검토하여야 합니다.",
+      "(나) 이 행정명령일로부터 60일 이내에, 각 관련 연방 금융기능 규제기관은 취업허가를 받지 않은 인구가 초래하는 잠재적 신용위험의 관리에 관한 지침을 발표하여야 합니다.",
+      "제5조. 일반 규정. (가) 이 행정명령의 어떠한 내용도 다음 사항을 제한하거나 달리 영향을 미치는 것으로 해석되어서는 아니 됩니다.",
+      "(i) 행정부처 또는 기관, 또는 그 장(長)에게 법률에 의하여 부여된 권한, 또는",
+      "(ii) 예산, 행정 또는 입법 제안과 관련된 관리예산실(Office of Management and Budget) 실장의 기능.",
+      "(나) 이 행정명령은 관계 법령에 부합하게, 그리고 예산의 가용성을 조건으로 이행되어야 합니다.",
+      "(다) 이 행정명령은 미국, 그 부처, 기관 또는 단체, 그 공무원, 직원 또는 대리인, 또는 그 밖의 어떠한 당사자를 상대로 법률상 또는 형평법상 집행 가능한 실체적 또는 절차적 권리나 이익을 창설하려는 의도가 없으며, 실제로 창설하지도 아니합니다.",
+      "(라) 이 행정명령의 공고 비용은 재무부가 부담합니다.",
+      "백악관,",
+      "2026년 5월 19일.",
+      "[연방관보 문서 2026-10400",
+      "2026년 5월 21일 오전 11시 15분 제출]",
+      "청구 코드 4810-25-P"
+    ],
+    "es": [
+      "(página impresa 30479)",
+      "Orden Ejecutiva 14406 del 19 de mayo de 2026",
+      "Restauración de la Integridad del Sistema Financiero de Estados Unidos",
+      "En virtud de la autoridad que me confieren la Constitución y las leyes de los Estados Unidos de América, por la presente se ordena lo siguiente:",
+      "Sección 1 . Propósito. Las instituciones financieras de Estados Unidos desempeñan un papel fundamental en la protección del pueblo estadounidense contra el fraude y el abuso financieros. Mi Administración ha tomado medidas significativas para reducir los costos de la prestación de servicios financieros para los estadounidenses y disminuir las regulaciones federales innecesarias y onerosas que restringen el crecimiento económico y obstaculizan la competitividad de los proveedores de servicios financieros en todo el país. Sin embargo, ha sido durante mucho tiempo la política de Estados Unidos adoptar medidas específicas para proteger nuestro sistema financiero del uso ilícito y promover prácticas de préstamo y otras prácticas seguras y sólidas por parte de las instituciones financieras. Mi Administración no tolerará los riesgos a la seguridad nacional y a la seguridad pública causados por actividades financieras transfronterizas ilícitas, ni permitirá los riesgos para nuestro sistema financiero derivados de la extensión de crédito o servicios financieros a la población de extranjeros inadmisibles y removibles.",
+      "Incluso la prestación de los servicios financieros más básicos, en ausencia de prácticas adecuadas de conocimiento del cliente, puede ser objeto de abuso para facilitar el financiamiento de actividades que representan amenazas significativas para la seguridad nacional y la seguridad pública. Las transferencias de fondos transfronterizas de bajo monto se han utilizado para facilitar o cometer el financiamiento del terrorismo, el tráfico de narcóticos, la trata de personas y otras actividades ilegales. Los análisis de tendencias financieras han descubierto centros de actividad financiera relacionada con el fentanilo mortal en Estados Unidos, vinculados a cárteles con base en México. Un análisis reciente de redes de lavado de dinero chinas identificó cómo titulares de pasaportes extranjeros han utilizado cuentas con sede en Estados Unidos para facilitar el lavado de más de 312,000 millones de dólares para organizaciones criminales, destacándose la trata de personas entre las actividades asociadas con las transferencias. Se requieren programas sólidos de identificación de clientes y medidas de debida diligencia reforzada para mitigar estos riesgos.",
+      "Los bancos y otras instituciones financieras también deben prestar atención a los riesgos crediticios que representa la extensión de préstamos hipotecarios y de automóviles, tarjetas de crédito y otros créditos al consumo a la población de extranjeros inadmisibles y removibles. Muchos de esos prestatarios enfrentan la posibilidad de perder sus salarios debido a la remoción o a decisiones de sus empleadores de cumplir con la ley de inmigración. Otorgar préstamos a extranjeros sin autorización legal de trabajo o que enfrentan un riesgo sustancial de pérdida de salario crea una deficiencia estructural en la \"capacidad de pago\" que socava la seguridad y solidez del sistema bancario nacional. Además, los empleadores que violan la ley de inmigración pueden subdeclarar salarios, usar números de Seguro Social y números de identificación fiscal no coincidentes o inválidos, o no retener o remitir correctamente los impuestos sobre la nómina. Dichos esquemas pueden crear vulnerabilidades dentro de nuestro sistema financiero al ocultar las fuentes de ingresos, distorsionar la evaluación crediticia y facilitar la actividad económica clandestina.",
+      "Es política de mi Administración restaurar la integridad del sistema financiero de Estados Unidos, proteger a las instituciones financieras contra riesgos estructurales y disuadir el fraude y el abuso.",
+      "Sec. 2 . Definición. El término \"regulador financiero funcional federal\" significa la Junta de Gobernadores del Sistema de la Reserva Federal, la Oficina del Contralor de la Moneda, la Corporación Federal de Seguro de Depósitos y la Administración Nacional de Cooperativas de Crédito. (página impresa 30480)",
+      "Sec. 3 . Protección Contra el Fraude y el Abuso. (a) Dentro de los 60 días siguientes a la fecha de esta orden, el Secretario del Tesoro emitirá un Aviso formal a las instituciones financieras sobre los riesgos asociados con la explotación del sistema financiero de Estados Unidos por parte de poblaciones no autorizadas para trabajar y sus empleadores. Este Aviso describirá las señales de alerta y las tipologías específicas asociadas con las siguientes categorías de actividad sospechosa:",
+      "(i) patrones probatorios de evasión de impuestos sobre la nómina por parte de empleadores o intermediarios laborales, incluyendo el incumplimiento sistemático de retener o remitir los impuestos federales sobre el empleo correspondientes a personas no autorizadas para trabajar;",
+      "(ii) la utilización de ciertos documentos de identidad extranjeros, cuentas a nombre de terceros, empresas fantasma o estructuras complejas de \"embudo\" diseñadas para ocultar la identidad de los beneficiarios finales reales o encubrir la verdadera naturaleza de los desembolsos de nómina;",
+      "(iii) el uso estratégico de empresas de servicios monetarios no registradas, procesadores de pagos de terceros o plataformas entre pares para facilitar pagos de salarios \"extraoficiales\" destinados a eludir los umbrales de notificación de la Ley de Secreto Bancario u obligaciones tributarias;",
+      "(iv) patrones de retiros o depósitos de efectivo repetitivos y por debajo del umbral establecido que se correlacionan con los ciclos de nómina, realizados fuera de los sistemas regulados de procesamiento de nómina, también conocidos como \"fraccionamiento y microfraccionamiento\" (structuring y micro-structuring);",
+      "(v) actividad financiera indicativa de trata de personas con fines laborales o trabajo forzado (según se define en 18 U.S.C. 1589), en la que las ganancias se mezclan con los ingresos legítimos de la empresa o se transfieren a jurisdicciones extranjeras; y",
+      "(vi) el uso de un número de identificación personal del contribuyente (ITIN) para obtener productos de crédito o abrir cuentas de depósito cuando el solicitante carece de un estatus migratorio legal verificado. Aunque el ITIN facilita el cumplimiento tributario, su uso en lugar de un número de Seguro Social o una visa válida con autorización de trabajo puede identificarse como un factor de riesgo que requiere una debida diligencia reforzada para garantizar que la cuenta no se esté utilizando para facilitar el empleo ilegal de extranjeros no autorizados.",
+      "(b) Dentro de los 90 días siguientes a la fecha de esta orden, el Secretario del Tesoro, en consulta con los reguladores financieros funcionales federales apropiados, propondrá cambios a los reglamentos de implementación aplicables de la Ley de Secreto Bancario a fin de fortalecer los requisitos de debida diligencia del cliente basados en el riesgo para las instituciones financieras cubiertas. Dichos cambios deberán asegurar que:",
+      "(i) las instituciones recopilen y verifiquen información suficiente sobre la identidad del cliente para identificar razonablemente a los propietarios nominales y beneficiarios reales de las cuentas, con el fin de evaluar los riesgos relacionados con finanzas ilícitas, evasión de sanciones, fraude u otra actividad ilegal; y",
+      "(ii) las instituciones mantengan la facultad, cuando lo justifiquen otros indicadores de riesgo o preocupaciones de supervisión, de obtener información adicional necesaria para resolver inquietudes de cumplimiento sustanciales, incluida información relevante sobre si los titulares de cuentas poseen estatus migratorio legal y autorización de empleo en los Estados Unidos, cuando dicha información sea pertinente para evaluar los riesgos asociados con el fraude, la suplantación de identidad, la evasión de sanciones u otra actividad financiera ilícita, como parte de un programa de debida diligencia del cliente basado en el riesgo.",
+      "(c) Dentro de los 180 días siguientes a la fecha de esta orden, el Secretario del Tesoro y los reguladores financieros funcionales federales apropiados considerarán cambios a los reglamentos de implementación aplicables de la Ley de Secreto Bancario a fin de fortalecer los requisitos del programa de identificación de clientes basado en el riesgo para las instituciones financieras cubiertas. Cualquier cambio que se considere deberá tener en cuenta los riesgos que las tarjetas de identificación consular extranjeras representan para la integridad del sistema financiero de los Estados Unidos.",
+      "Sec. 4. Atención a los Riesgos Crediticios Estructurales. (a) Dentro de los 60 días siguientes a la fecha de esta orden, la Oficina de Protección Financiera del Consumidor considerará aclarar que la posible deportación y la pérdida de salarios son factores que podrían afectar negativamente la capacidad de un prestatario sin autorización de trabajo para pagar una extensión de crédito conforme a las normas de \"capacidad de pago\" establecidas en el 12 CFR Parte 1026 (página impresa 30481) y sus apéndices y suplementos, y que los prestamistas pueden considerar dichos factores como parte de una determinación de suscripción razonable y de buena fe.",
+      "(b) Dentro de los 60 días siguientes a la fecha de esta orden, cada regulador financiero funcional federal apropiado emitirá orientación relativa a la gestión de los posibles riesgos crediticios que plantea la población sin autorización de trabajo.",
+      "Sec. 5. Disposiciones Generales. (a) Nada en esta orden se interpretará de manera que menoscabe o afecte de otro modo:",
+      "(i) la facultad conferida por la ley a un departamento o agencia ejecutiva, o a su titular; o",
+      "(ii) las funciones del Director de la Oficina de Administración y Presupuesto relacionadas con propuestas presupuestarias, administrativas o legislativas.",
+      "(b) Esta orden se implementará de conformidad con la ley aplicable y sujeta a la disponibilidad de asignaciones presupuestarias.",
+      "(c) Esta orden no tiene por objeto, ni crea, ningún derecho o beneficio, sustantivo o procesal, exigible por ley o en equidad por cualquier parte contra los Estados Unidos, sus departamentos, agencias o entidades, sus funcionarios, empleados o agentes, o cualquier otra persona.",
+      "(d) Los costos de publicación de esta orden serán sufragados por el Departamento del Tesoro.",
+      "LA CASA BLANCA,",
+      "19 de mayo de 2026.",
+      "[FR Doc. 2026-10400",
+      "Presentado el 21-5-26; 11:15 am]",
+      "Código de facturación 4810-25-P"
+    ],
+    "zh": [
+      "（印刷页第30479页）",
+      "2026年5月19日第14406号行政命令",
+      "恢复美国金融体系的廉正",
+      "兹以宪法及美利坚合众国法律授予本总统之权力，特此命令如下：",
+      "第1条。目的。美国的金融机构在保护美国人民免受金融欺诈和滥用方面发挥着至关重要的作用。本届政府已采取重大举措，降低为美国人提供金融服务的成本，并减少限制经济增长、妨碍全国金融服务提供商竞争力的不必要和繁重的联邦法规。然而，长期以来，美国的政策一直是采取有针对性的措施，保护我国金融体系免遭非法利用，并促进金融机构采取安全稳健的放贷等做法。本届政府不会容忍非法跨境金融活动所造成的国家安全和公共安全风险，也不会允许向不可入境和应被遣返的外国人群体提供信贷或金融服务所带来的我国金融体系风险。",
+      "即使是最基本的金融服务，如果缺乏适当的了解客户做法，也可能被滥用，从而为严重威胁国家安全和公共安全的活动提供资金。低额跨境资金转账已被用于协助或实施恐怖主义融资、毒品贩运、人口贩运及其他非法活动。金融趋势分析已发现美国境内与墨西哥贩毒集团相关的致命芬太尼相关金融活动的集散地。最近一项针对中国洗钱网络的分析发现，外国护照持有人如何利用美国境内账户协助为犯罪组织洗钱逾3120亿美元，其中人口贩运被列为与这些转账相关的活动之一。强有力的客户身份识别计划和加强的尽职调查措施对于缓解这些风险是必要的。",
+      "银行及其他金融机构也应关注向不可入境和应被遣返的外国人群体提供抵押贷款、汽车贷款、信用卡及其他消费信贷所带来的信用风险。许多此类借款人面临因被遣返或其雇主为遵守移民法而作出决定而失去工资的可能性。向没有合法工作授权或面临重大工资损失风险的外国人放贷，造成了结构性的“偿还能力”缺陷，从而损害了国家银行体系的安全稳健性。此外，违反移民法的雇主可能少报工资、使用不匹配或无效的社会安全号码和纳税人识别号码，或未能适当代扣代缴工资税。此类计划可能通过掩盖收入来源、扭曲信贷核保以及助长地下经济活动，在我国金融体系中造成脆弱性。",
+      "本届政府的政策是恢复美国金融体系的廉正，保护金融机构免受结构性风险的影响，并遏制欺诈和滥用行为。",
+      "第2条。定义。“联邦职能金融监管机构”一词是指联邦储备系统理事会、货币监理署、联邦存款保险公司和国家信用合作社管理局。（印刷页第30480页）",
+      "第3条。防范欺诈和滥用行为。（a）自本命令发布之日起60日内，财政部长应就无工作授权人群及其雇主对美国金融体系的利用所带来的风险，向金融机构发布一份正式《咨询函》。该《咨询函》应描述与以下可疑活动类别相关的具体警示信号和典型模式：",
+      "（一）雇主或劳务中介逃避工资税的证据性模式，包括系统性未能为无工作授权人员代扣或代缴联邦就业税；",
+      "（二）使用某些外国身份证件、挂名账户、空壳公司或复杂的“漏斗式”结构，旨在掩盖最终受益所有人的身份或隐瞒工资发放的真实性质；",
+      "(三) 战略性使用未注册的货币服务业务、第三方支付处理机构或点对点平台,以便利旨在规避《银行保密法》报告门槛或纳税义务的“账外”工资支付;",
+      "(四) 与薪资发放周期相关联、在受监管薪资处理系统之外进行的、反复性低于申报门槛的现金提取或存款模式,又称“化整为零”和“微型化整为零”;",
+      "(五) 表明存在人口贩运劳动或强迫劳动(定义见《美国法典》第18编第1589条)的金融活动,其所得与合法商业收入混同或转移至外国司法管辖区的;以及",
+      "(六) 在申请人缺乏经核实的合法移民身份的情况下,使用个人纳税人识别号(ITIN)获取信贷产品或开立存款账户的行为。尽管ITIN便于纳税合规,但以其替代社会安全号码或有效的工作授权签证使用,可能被识别为需要加强尽职调查的风险因素,以确保该账户未被用于便利非法雇用无合法身份的外国人。",
+      "(b) 自本命令发布之日起90天内,财政部长应会同适当的联邦职能金融监管机构,就《银行保密法》相关实施法规提出修改建议,以加强对受监管金融机构基于风险的客户尽职调查要求。此类修改应确保:",
+      "(一) 机构收集并核实充分的客户身份信息,以合理识别账户的名义所有人和受益所有人,从而评估与非法金融活动、规避制裁、欺诈或其他违法活动相关的风险;以及",
+      "(二) 在其他风险指标或监管关切表明有必要时,机构保留获取解决重大合规问题所需的额外信息的权力,包括在与评估欺诈、身份虚假陈述、规避制裁或其他非法金融活动相关风险有关时,涉及账户持有人是否在美国拥有合法移民身份和工作授权的信息,作为基于风险的客户尽职调查计划的一部分。",
+      "(c) 自本命令发布之日起180天内,财政部长及适当的联邦职能金融监管机构应考虑修改《银行保密法》相关实施法规,以加强对受监管金融机构基于风险的客户识别计划要求。任何拟议修改均应考虑外国领事身份证件对美国金融体系完整性构成的风险。",
+      "第4条 。应对结构性信贷风险。(a) 自本命令发布之日起60天内,消费者金融保护局应考虑予以澄清:根据12 CFR第1026部分(印刷版第30481页)及其附录和补编中的“偿还能力”标准,潜在的递解出境和工资损失是可能对无工作授权借款人偿还信贷延期能力产生不利影响的因素,贷款人可以将此类因素作为合理、善意承保决定的一部分予以考虑。",
+      "(b) 自本命令发布之日起60天内,各适当的联邦职能金融监管机构应就管理无工作授权人群所带来的潜在信贷风险发布指导意见。",
+      "第5条 。一般规定。(a) 本命令中的任何内容不得被解释为损害或以其他方式影响:",
+      "(一) 法律授予行政部门或机构或其负责人的权力;或",
+      "(二) 行政管理和预算局局长在预算、行政或立法提案方面的职能。",
+      "(b) 本命令的实施应符合适用法律,并以拨款可用性为前提。",
+      "(c) 本命令无意且不创设任何可由任何一方针对美国、其各部门、机构或实体,其官员、雇员或代理人,或任何其他人,在法律上或衡平法上予以强制执行的权利或利益,无论是实体性的还是程序性的。",
+      "(d) 本命令的刊印费用应由财政部承担。",
+      "白宫,",
+      "2026年5月19日。",
+      "[联邦纪事文件编号 2026-10400",
+      "存档日期:2026年5月21日下午11:15]",
+      "计费代码 4810-25-P"
+    ],
+    "ja": [
+      "(印刷ページ 30479)",
+      "2026年5月19日付大統領令14406号",
+      "米国金融システムの健全性の回復",
+      "私に合衆国憲法及び合衆国法律により大統領として付与された権限に基づき、ここに以下の通り命令する。",
+      "第1条。目的。米国の金融機関は、米国国民を金融詐欺及び不正行為から保護する上で重要な役割を果たしている。私の政権は、米国国民に対する金融サービス提供の費用を引き下げ、経済成長を阻害し全国の金融サービス提供者の競争力を妨げる不要かつ過度に負担の大きい連邦規制を削減するため、重要な措置を講じてきた。しかしながら、我が国の金融システムを不正利用から守り、金融機関による安全かつ健全な貸付その他の慣行を促進するために的を絞った措置を講じることは、長年にわたり合衆国の方針であった。私の政権は、不正な国境を越えた金融活動によって生じる国家安全保障及び公共の安全に対するリスクを容認せず、また、入国不許可及び退去強制の対象となる外国人人口に対する信用供与又は金融サービスの提供によって我が国の金融システムにもたらされるリスクも許容しない。",
+      "適切な顧客確認(ノウ・ユア・カスタマー)慣行が欠如している場合、最も基本的な金融サービスの提供でさえ、国家安全保障及び公共の安全に重大な脅威をもたらす活動への資金供与を助長するために悪用され得る。少額の国境を越えた資金移転は、テロ資金供与、麻薬密売、人身売買その他の違法行為を助長し、又は実行するために利用されてきた。金融動向分析により、メキシコを拠点とするカルテルに関連する、致死的なフェンタニル関連の金融活動の拠点が米国内に存在することが明らかになっている。最近の中国マネーロンダリング・ネットワークに関する分析では、外国旅券保持者が米国内の口座を利用して、犯罪組織のために3,120億ドルを超える資金洗浄を助長していたことが判明しており、これらの資金移転に関連する活動の中には人身売買が含まれることが強調されている。これらのリスクを低減するためには、強固な顧客識別プログラム及び強化された デュー・ディリジェンス措置が必要である。",
+      "銀行その他の金融機関はまた、入国不許可及び退去強制の対象となる外国人人口に対する住宅ローン及び自動車ローン、クレジットカードその他の消費者信用の供与によってもたらされる信用リスクにも注意を払うべきである。これらの借り手の多くは、退去強制又は雇用主の移民法遵守の決定により、賃金を失う可能性に直面している。適法な就労許可を有しない、又は賃金喪失の重大なリスクに直面している外国人への貸付は、構造的な「返済能力」の欠陥を生じさせ、国の銀行システムの安全性及び健全性を損なうものである。さらに、移民法に違反する雇用主は、賃金を過少申告し、不一致又は無効な社会保障番号及び納税者識別番号を使用し、又は給与税を適切に源泉徴収若しくは納付しない場合がある。such schemes can create vulnerabilities within our financial system by obscuring income sources, distorting credit underwriting, and facilitating underground economic activity.",
+      "私の政権の方針は、米国の金融システムの健全性を回復し、構造的リスクから金融機関を保護し、詐欺及び不正行為を抑止することである。",
+      "第2条。定義。「連邦機能別金融規制機関」とは、連邦準備制度理事会、通貨監督庁、連邦預金保険公社及び全米信用組合管理機構をいう。(印刷ページ 30480)",
+      "第3条。詐欺及び不正行為からの保護。(a)本命令の日付から60日以内に、財務長官は、非就労許可人口及びその雇用主による米国金融システムの悪用に関連するリスクについて、金融機関に対する正式な勧告(アドバイザリー)を発出するものとする。この勧告は、以下の不審な活動の各区分に関連する具体的な危険信号及び類型を記載するものとする。",
+      "(i)雇用主又は労働ブローカーによる給与税脱税の証拠パターン。これには、非就労許可個人に係る連邦雇用税の源泉徴収又は納付の組織的な不履行を含む。",
+      "(ii)最終的な実質的所有者の身元を隠蔽し、又は給与支払の真の性質を隠すために設計された、特定の外国身分証明書、名義人口座、ペーパーカンパニー若しくは複雑な「ファネル」構造の利用。",
+      "(iii) バンク・シークレシー法の報告基準額又は納税義務を回避することを目的とした「簿外」賃金支払いを助長するため、未登録の資金サービス業者、第三者決済処理業者又はピア・ツー・ピア・プラットフォームを戦略的に利用すること。",
+      "(iv) 規制された給与計算処理システム外で実施される、給与支払サイクルと相関する反復的かつ基準額未満の現金引出し又は預入れのパターン。これは「ストラクチャリング及びマイクロストラクチャリング」としても知られる。",
+      "(v) 収益が正当な事業収入と混合され、又は外国の法域に送金される場合における、労働者取引若しくは強制労働(合衆国法典第18編第1589条に定義される)を示す金融活動。及び",
+      "(vi) 申請者が合法的な移民身分を検証されていない場合において、個人納税者番号(ITIN)を使用して信用供与商品を取得し、又は預金口座を開設すること。ITINは納税義務の履行を容易にするものであるが、社会保障番号又は有効な就労許可ビザに代えてこれを使用することは、口座が不法就労外国人の違法就労を助長するために利用されていないことを確保するための強化されたデューデリジェンスを要するリスク要因として特定される場合がある。",
+      "(b) 本命令の日付から90日以内に、財務長官は、適切な連邦機能別金融規制当局と協議の上、対象金融機関に対するリスクベースの顧客デューデリジェンス要件を強化するため、バンク・シークレシー法の適用施行規則の改正を提案するものとする。かかる改正は、次の事項を確保するものとする。",
+      "(i) 金融機関が、不法金融、制裁回避、詐欺又はその他の違法行為に関連するリスクを評価するため、口座の名目上及び実質的な所有者を合理的に特定するために十分な顧客身元確認情報を収集し、検証すること。及び",
+      "(ii) 金融機関が、他のリスク指標又は監督上の懸念により正当化される場合、重大なコンプライアンス上の懸念を解決するために必要な追加情報を取得する権限を保持すること。これには、口座保有者が合衆国における合法的な移民身分及び就労許可を有しているかどうかに関する情報を含み、当該情報が、詐欺、身元の虚偽表示、制裁回避又はその他の違法な金融活動に関連するリスクの評価に関連する場合、リスクベースの顧客デューデリジェンスプログラムの一環として取得するものとする。",
+      "(c) 本命令の日付から180日以内に、財務長官及び適切な連邦機能別金融規制当局は、対象金融機関に対するリスクベースの顧客確認プログラム要件を強化するため、バンク・シークレシー法の適用施行規則の改正を検討するものとする。検討される改正は、外国領事識別カードが合衆国金融システムの健全性に及ぼすリスクを考慮するものとする。",
+      "第4条 構造的信用リスクへの対応。(a) 本命令の日付から60日以内に、消費者金融保護局は、強制送還の可能性及び賃金の喪失が、12 CFR第1026部(印刷ページ30481)及びその附属書並びに補遺における「返済能力」基準の下で就労許可を有しない借主の信用供与の返済能力に悪影響を及ぼし得る要因であることを明確化すること、並びに貸主が合理的かつ誠実な引受判断の一環として当該要因を考慮し得ることを検討するものとする。",
+      "(b) 本命令の日付から60日以内に、各適切な連邦機能別金融規制当局は、就労許可を有しない人口が提起する潜在的な信用リスクの管理に関する指針を発出するものとする。",
+      "第5条 一般規定。(a) 本命令のいかなる規定も、次の事項を損ない、又はその他の方法で影響を及ぼすものと解釈してはならない。",
+      "(i) 法律により行政各省庁又はその長に付与された権限。又は",
+      "(ii) 予算、行政又は立法提案に関する行政管理予算局長の職務。",
+      "(b) 本命令は、適用法令に適合し、かつ、予算の配賦の可能性に従って実施されるものとする。",
+      "(c) 本命令は、合衆国、その省庁若しくは機関、その職員、被用者若しくは代理人、又はその他の者に対して、いずれかの当事者が法律上又は衡平法上行使し得る実体的若しくは手続的な権利又は利益を創設することを意図するものではなく、また、創設するものでもない。",
+      "(d) 本命令の公表費用は、財務省が負担するものとする。",
+      "ホワイトハウス",
+      "2026年5月19日",
+      "[連邦官報文書番号 2026-10400",
+      "2026年5月21日午前11時15分提出]",
+      "請求コード 4810-25-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
