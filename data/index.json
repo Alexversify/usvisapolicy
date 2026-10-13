@@ -4972,5 +4972,315 @@
       "Selection Process"
     ],
     "added": "2026-10-13T04:12Z"
+  },
+  {
+    "id": "6b11f73556b2",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01572/national-day-of-patriotic-devotion-2026",
+    "published": "2026-01-26",
+    "effective_date": "2026-01-20",
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Proclamation",
+      "Ceremonial"
+    ],
+    "added": "2026-10-13T04:30Z"
+  },
+  {
+    "id": "6d96c625dddf",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/21/2026-01012/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2026",
+    "published": "2026-01-21",
+    "effective_date": "2026-02-01",
+    "importance": "high",
+    "category": "fees",
+    "agency": "doj",
+    "topics": [
+      "fees",
+      "humanitarian",
+      "family"
+    ],
+    "tags": [
+      "EOIR",
+      "OBBBA",
+      "Fees",
+      "Immigration Court",
+      "Asylum",
+      "TPS",
+      "BIA"
+    ],
+    "added": "2026-10-13T04:32Z"
+  },
+  {
+    "id": "d18111d64ce0",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/20/2026-00906/labor-certification-process-for-the-temporary-employment-of-foreign-workers-in-agriculture-in-the",
+    "published": "2026-01-20",
+    "effective_date": "2026-02-03",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "employment"
+    ],
+    "tags": [
+      "H-2A",
+      "AEWR",
+      "Wage Rate",
+      "Agriculture"
+    ],
+    "added": "2026-10-13T04:33Z"
+  },
+  {
+    "id": "0cb6149de816",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/16/2026-00830/improving-continuity-for-religious-organizations-and-their-employees",
+    "published": "2026-01-16",
+    "effective_date": "2026-01-16",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "R-1",
+      "Religious Workers",
+      "Interim Final Rule",
+      "USCIS"
+    ],
+    "added": "2026-10-13T04:35Z"
+  },
+  {
+    "id": "7d14c395e63a",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00831/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people",
+    "published": "2026-01-15",
+    "effective_date": "2026-01-09",
+    "importance": "low",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Venezuela",
+      "Sanctions"
+    ],
+    "added": "2026-10-13T04:43Z"
+  },
+  {
+    "id": "ea58b04cc413",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/15/2026-00724/intent-to-request-revision-from-omb-of-one-current-public-collection-of-information-tsa-precheck",
+    "published": "2026-01-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "travel"
+    ],
+    "tags": [
+      "TSA PreCheck",
+      "Paperwork Reduction Act",
+      "Trusted Traveler"
+    ],
+    "added": "2026-10-13T04:42Z"
+  },
+  {
+    "id": "fe9fa6691a5c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/two-pakistanis-in-new-jersey-indicted-for-fraudulent-voting-in-a-federal-election-and-lying-on",
+    "published": "2026-01-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "Voter Fraud",
+      "Indictment",
+      "N-400"
+    ],
+    "added": "2026-10-13T04:41Z"
+  },
+  {
+    "id": "17342a6505d0",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00731/continuation-of-the-national-emergencies-with-respect-to-the-southern-border-of-the-united-states",
+    "published": "2026-01-14",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "enforcement",
+      "travel",
+      "humanitarian"
+    ],
+    "tags": [
+      "National Emergency",
+      "Southern Border",
+      "Cartels",
+      "Executive Order"
+    ],
+    "added": "2026-10-13T04:56Z"
+  },
+  {
+    "id": "b425c144e43e",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00513/request-for-information-for-the-2026-trafficking-in-persons-report",
+    "published": "2026-01-14",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "Trafficking in Persons",
+      "TIP Report"
+    ],
+    "added": "2026-10-13T04:54Z"
+  },
+  {
+    "id": "b37487b60c07",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00573/foreign-terrorist-organization-designation-of-lebanese-muslim-brotherhood",
+    "published": "2026-01-14",
+    "effective_date": "2026-01-14",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "FTO Designation",
+      "Terrorism",
+      "Visa Ineligibility"
+    ],
+    "added": "2026-10-13T04:53Z"
+  },
+  {
+    "id": "2e34d71486df",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00593/departure-notification-record-correction",
+    "published": "2026-01-14",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "ice",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "ICE",
+      "Correction",
+      "Information Collection"
+    ],
+    "added": "2026-10-13T04:52Z"
+  },
+  {
+    "id": "ab3ca4c5a38d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/14/2026-00596/termination-of-the-designation-of-somalia-for-temporary-protected-status",
+    "published": "2026-01-14",
+    "effective_date": "2026-03-17",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "TPS",
+      "Somalia",
+      "DHS",
+      "Termination",
+      "EAD"
+    ],
+    "added": "2026-10-13T04:48Z"
+  },
+  {
+    "id": "6bac7ebe9a88",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-reduces-wait-times-for-thousands-of-religious-workers-abroad",
+    "published": "2026-01-14",
+    "effective_date": "2026-01-14",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "employment",
+      "visa_bulletin",
+      "other"
+    ],
+    "tags": [
+      "R-1",
+      "Religious Workers",
+      "EB-4",
+      "Interim Final Rule"
+    ],
+    "added": "2026-10-13T04:47Z"
+  },
+  {
+    "id": "14a0681c0108",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/homeland-security-terminates-somalias-temporary-protected-status-designation",
+    "published": "2026-01-13",
+    "effective_date": "2026-03-17",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian",
+      "travel"
+    ],
+    "tags": [
+      "TPS",
+      "Somalia",
+      "DHS"
+    ],
+    "added": "2026-10-13T04:57Z"
+  },
+  {
+    "id": "b32c30356453",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/12/2026-00321/adjustment-to-premium-processing-fees",
+    "published": "2026-01-12",
+    "effective_date": "2026-03-01",
+    "importance": "high",
+    "category": "fees",
+    "agency": "dhs",
+    "topics": [
+      "fees",
+      "employment",
+      "h1b"
+    ],
+    "tags": [
+      "Premium Processing",
+      "Fees",
+      "I-907",
+      "USCIS"
+    ],
+    "added": "2026-10-13T04:58Z"
   }
 ]
