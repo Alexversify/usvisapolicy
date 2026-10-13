@@ -4475,5 +4475,207 @@
       "FATCA"
     ],
     "added": "2026-10-13T01:59Z"
+  },
+  {
+    "id": "12f4ff3a86c0",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04826/combating-cybercrime-fraud-and-predatory-schemes-against-american-citizens",
+    "published": "2026-03-11",
+    "effective_date": "2026-03-06",
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "president",
+    "topics": [
+      "enforcement",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Cybercrime",
+      "Fraud",
+      "Visa Restrictions"
+    ],
+    "added": "2026-10-13T02:24Z"
+  },
+  {
+    "id": "02f71ced6cfb",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/11/2026-04737/visas-enhancing-vetting-and-combatting-fraud-in-the-diversity-immigrant-visa-program",
+    "published": "2026-03-11",
+    "effective_date": "2026-04-10",
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "family",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Diversity Visa",
+      "DV Lottery",
+      "Fraud Prevention",
+      "DS-5501"
+    ],
+    "added": "2026-10-13T02:21Z"
+  },
+  {
+    "id": "57ffe31aa488",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status",
+    "published": "2026-03-03",
+    "effective_date": "2026-05-04",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "TPS",
+      "Yemen"
+    ],
+    "added": "2026-10-13T02:26Z"
+  },
+  {
+    "id": "f950c0a95938",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/02/2026-04136/office-of-the-chief-administrative-hearing-officer-electronic-filing",
+    "published": "2026-03-02",
+    "effective_date": "2026-03-02",
+    "importance": "low",
+    "category": "processing",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "OCAHO",
+      "EOIR",
+      "Electronic Filing"
+    ],
+    "added": "2026-10-13T02:31Z"
+  },
+  {
+    "id": "cc6158a55787",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/dhs-terminates-temporary-protected-status-for-yemen-0",
+    "published": "2026-03-02",
+    "effective_date": "2026-05-04",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "humanitarian"
+    ],
+    "tags": [
+      "TPS",
+      "Yemen"
+    ],
+    "added": "2026-10-13T02:30Z"
+  },
+  {
+    "id": "a853d349a00a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/27/2026-03932/appellate-procedures-for-the-board-of-immigration-appeals-extension-of-comment-period",
+    "published": "2026-02-27",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "notice",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "BIA",
+      "EOIR",
+      "Comment Period",
+      "Immigration Appeals"
+    ],
+    "added": "2026-10-13T02:34Z"
+  },
+  {
+    "id": "faad392bd634",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/02/26/2026-03947/national-angel-family-day-2026",
+    "published": "2026-02-26",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "president",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Proclamation",
+      "Commemorative"
+    ],
+    "added": "2026-10-13T02:36Z"
+  },
+  {
+    "id": "023430fd2332",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-helps-in-immigration-fraud-investigation-resulting-in-indictments-and-arrests-in-new-york-city",
+    "published": "2026-02-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "Immigration Fraud",
+      "Impersonation",
+      "Arrest",
+      "USCIS"
+    ],
+    "added": "2026-10-13T02:35Z"
+  },
+  {
+    "id": "a0a4773fa226",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/salvadoran-child-molester-in-north-carolina-denaturalized-and-ordered-deported",
+    "published": "2026-02-24",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Operation False Haven",
+      "Naturalization Fraud"
+    ],
+    "added": "2026-10-13T02:38Z"
+  },
+  {
+    "id": "d2f36a699c38",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants",
+    "published": "2026-02-23",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Asylum",
+      "EAD",
+      "Employment Authorization",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-13T02:39Z"
   }
 ]
