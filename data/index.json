@@ -3863,6 +3863,29 @@
     "added": "2026-10-13T00:21Z"
   },
   {
+    "id": "804b26e430bf",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
+    "published": "2026-05-07",
+    "effective_date": "2026-05-01",
+    "importance": "high",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "travel",
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "Cuba",
+      "Sanctions",
+      "Travel Ban",
+      "Executive Order",
+      "IEEPA"
+    ],
+    "added": "2026-10-13T00:42Z"
+  },
+  {
     "id": "84619c0a21e6",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09007/fee-adjustment-for-us-immigration-and-customs-enforcement-form-i-246-application-for-a-stay-of",
@@ -3902,5 +3925,296 @@
       "Presidential Proclamation"
     ],
     "added": "2026-10-13T00:23Z"
+  },
+  {
+    "id": "46d64c659f56",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08981/intent-to-request-extension-from-omb-of-one-current-public-collection-of-information-security-threat",
+    "published": "2026-05-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "TSA",
+      "Paperwork Reduction Act",
+      "Commercial Driver's License"
+    ],
+    "added": "2026-10-13T00:45Z"
+  },
+  {
+    "id": "95d7eb70fd8b",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
+    "published": "2026-04-29",
+    "effective_date": "2026-05-29",
+    "importance": "high",
+    "category": "fees",
+    "agency": "uscis",
+    "topics": [
+      "fees",
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Fees",
+      "Asylum",
+      "TPS",
+      "Form I-94",
+      "Form I-589",
+      "H.R.1"
+    ],
+    "added": "2026-10-13T00:48Z"
+  },
+  {
+    "id": "c188f9f1de89",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/cap-reached-for-second-allocation-of-returning-worker-h-2b-visas-for-fiscal-year-2026",
+    "published": "2026-04-29",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "employment"
+    ],
+    "tags": [
+      "H-2B",
+      "Cap",
+      "Seasonal Workers"
+    ],
+    "added": "2026-10-13T00:46Z"
+  },
+  {
+    "id": "7506e7046a99",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-efforts-lead-to-two-guilty-pleas-in-h-1b-fraud-conspiracy-case",
+    "published": "2026-04-23",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "h1b",
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "Fraud",
+      "Guilty Plea",
+      "USCIS"
+    ],
+    "added": "2026-10-13T00:55Z"
+  },
+  {
+    "id": "cd4249235052",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07670/united-states-passports-moving-to-single-sized-passport-book",
+    "published": "2026-04-20",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Passport",
+      "Travel Document"
+    ],
+    "added": "2026-10-13T00:57Z"
+  },
+  {
+    "id": "84e9246137ec",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/belizean-woman-found-guilty-of-naturalization-fraud",
+    "published": "2026-04-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "Denaturalization",
+      "Fraud"
+    ],
+    "added": "2026-10-13T00:56Z"
+  },
+  {
+    "id": "15bff114b2da",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-files-case-to-revoke-us-citizenship-of-mastermind-behind-multimillion-dollar-tax",
+    "published": "2026-04-13",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Fraud",
+      "Citizenship"
+    ],
+    "added": "2026-10-13T00:58Z"
+  },
+  {
+    "id": "5f0125dd1f13",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/ten-indian-nationals-indicted-for-visa-fraud-conspiracy",
+    "published": "2026-04-10",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "Visa Fraud",
+      "U Visa",
+      "Indictment",
+      "USCIS"
+    ],
+    "added": "2026-10-13T01:03Z"
+  },
+  {
+    "id": "6bbcea2674e6",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/connecticut-woman-sentenced-to-prison-for-fraudulently-obtaining-citizenship-after-committing",
+    "published": "2026-04-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Naturalization Fraud",
+      "War Crimes",
+      "Denaturalization"
+    ],
+    "added": "2026-10-13T01:01Z"
+  },
+  {
+    "id": "28d2d3d4c85e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-fraud-probe-in-la-leads-to-arrest-of-criminal-alien",
+    "published": "2026-04-10",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Fraud",
+      "Green Card",
+      "Medical Exam",
+      "Enforcement"
+    ],
+    "added": "2026-10-13T01:00Z"
+  },
+  {
+    "id": "92645e9d6f4a",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-in-arrest-of-illegal-alien-charged-in-fatal-truck-crash",
+    "published": "2026-04-08",
+    "effective_date": "2026-03-16",
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Enforcement",
+      "ICE",
+      "CDL",
+      "TPS",
+      "DACA",
+      "Asylum"
+    ],
+    "added": "2026-10-13T01:04Z"
+  },
+  {
+    "id": "e3b398a30394",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06694/labor-certification-process-for-the-temporary-employment-of-h-2a-and-h-2b-foreign-workers-in-the",
+    "published": "2026-04-07",
+    "effective_date": "2026-04-07",
+    "importance": "medium",
+    "category": "fees",
+    "agency": "dol",
+    "topics": [
+      "employment",
+      "fees"
+    ],
+    "tags": [
+      "H-2A",
+      "H-2B",
+      "Fees",
+      "Subsistence",
+      "Labor Certification"
+    ],
+    "added": "2026-10-13T01:06Z"
+  },
+  {
+    "id": "83e0a0b203ca",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06601/ensuring-citizenship-verification-and-integrity-in-federal-elections",
+    "published": "2026-04-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "policy",
+    "agency": "president",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Elections",
+      "SAVE Program"
+    ],
+    "added": "2026-10-13T01:09Z"
+  },
+  {
+    "id": "2778f9f82fb8",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06564/implementing-first-responders-passport-act-to-exempt-certain-first-responders-from-passport-fees",
+    "published": "2026-04-03",
+    "effective_date": "2026-04-03",
+    "importance": "low",
+    "category": "fees",
+    "agency": "state",
+    "topics": [
+      "fees",
+      "travel"
+    ],
+    "tags": [
+      "Passports",
+      "Fees",
+      "First Responders"
+    ],
+    "added": "2026-10-13T01:08Z"
   }
 ]
