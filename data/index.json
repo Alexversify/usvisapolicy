@@ -4216,5 +4216,264 @@
       "First Responders"
     ],
     "added": "2026-10-13T01:08Z"
+  },
+  {
+    "id": "9b34c8da2275",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06164/addition-of-preclearance-facility-at-billy-bishop-toronto-city-airport",
+    "published": "2026-03-31",
+    "effective_date": "2026-03-10",
+    "importance": "low",
+    "category": "notice",
+    "agency": "cbp",
+    "topics": [
+      "travel"
+    ],
+    "tags": [
+      "Preclearance",
+      "CBP",
+      "Toronto",
+      "Travel"
+    ],
+    "added": "2026-10-13T01:32Z"
+  },
+  {
+    "id": "8c82cea4f079",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/fy-2027-h-1b-initial-registration-selection-process-completed",
+    "published": "2026-03-31",
+    "effective_date": "2026-04-01",
+    "importance": "high",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "h1b",
+      "employment",
+      "fees"
+    ],
+    "tags": [
+      "H-1B",
+      "Form I-129",
+      "Cap Season",
+      "$100,000 Fee"
+    ],
+    "added": "2026-10-13T01:31Z"
+  },
+  {
+    "id": "ecaf28fac2fc",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/update-on-uscis-strengthened-screening-and-vetting",
+    "published": "2026-03-30",
+    "effective_date": "2026-06-11",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "travel",
+      "family"
+    ],
+    "tags": [
+      "Court Order",
+      "Travel Ban",
+      "Asylum",
+      "Diversity Visa",
+      "Vetting"
+    ],
+    "added": "2026-10-13T01:34Z"
+  },
+  {
+    "id": "945a293d0891",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/27/2026-05942/notice-of-approval-of-new-credentialing-organization-for-health-care-workers-for-certain-immigration",
+    "published": "2026-03-27",
+    "effective_date": "2026-03-27",
+    "importance": "low",
+    "category": "notice",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "Health Care Workers",
+      "Credentialing",
+      "Nurses",
+      "I-905"
+    ],
+    "added": "2026-10-13T01:48Z"
+  },
+  {
+    "id": "9de9e26c5a32",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals",
+    "published": "2026-03-27",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "h1b",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "PERM",
+      "Prevailing Wage",
+      "NPRM",
+      "E-3",
+      "H-1B1",
+      "LCA"
+    ],
+    "added": "2026-10-13T01:36Z"
+  },
+  {
+    "id": "32088c8241f5",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05854/finding-of-mass-influx-of-aliens",
+    "published": "2026-03-26",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel",
+      "humanitarian"
+    ],
+    "tags": [
+      "Mass Influx",
+      "Border Enforcement",
+      "DHS Notice",
+      "Southwest Border"
+    ],
+    "added": "2026-10-13T01:49Z"
+  },
+  {
+    "id": "d3b320207dbc",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/25/2026-05753/global-magnitsky-human-rights-accountability-act-annual-report",
+    "published": "2026-03-25",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Global Magnitsky",
+      "Sanctions",
+      "Visa Restrictions",
+      "Entry Ban"
+    ],
+    "added": "2026-10-13T01:52Z"
+  },
+  {
+    "id": "ec7da24a6ea5",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-second-half-of-fy-2026-and-filing-dates-now-available-for-supplemental",
+    "published": "2026-03-20",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "other"
+    ],
+    "tags": [
+      "H-2B",
+      "Visa Cap",
+      "Supplemental Visas"
+    ],
+    "added": "2026-10-13T01:53Z"
+  },
+  {
+    "id": "bc83eb4c9648",
+    "source": "presidential",
+    "url": "https://www.federalregister.gov/documents/2026/03/19/2026-05497/establishing-the-task-force-to-eliminate-fraud",
+    "published": "2026-03-19",
+    "effective_date": "2026-03-16",
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "president",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "Executive Order",
+      "Benefits Fraud",
+      "Task Force",
+      "Public Benefits",
+      "Immigration Enforcement"
+    ],
+    "added": "2026-10-13T01:56Z"
+  },
+  {
+    "id": "faa1c5eb8c2c",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/convicted-child-sex-offender-in-texas-denaturalized-with-help-from-uscis",
+    "published": "2026-03-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Naturalization Fraud",
+      "USCIS"
+    ],
+    "added": "2026-10-13T01:55Z"
+  },
+  {
+    "id": "412da4f4122d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05072/foreign-terrorist-organization-designation-of-sudanese-muslim-brotherhood",
+    "published": "2026-03-16",
+    "effective_date": "2026-03-16",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel",
+      "humanitarian"
+    ],
+    "tags": [
+      "Foreign Terrorist Organization",
+      "Sudan",
+      "Inadmissibility",
+      "INA 219"
+    ],
+    "added": "2026-10-13T01:58Z"
+  },
+  {
+    "id": "957235bc9a2d",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04931/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
+    "published": "2026-03-13",
+    "effective_date": "2026-04-13",
+    "importance": "medium",
+    "category": "fees",
+    "agency": "state",
+    "topics": [
+      "citizenship",
+      "fees"
+    ],
+    "tags": [
+      "Certificate of Loss of Nationality",
+      "Renunciation",
+      "Consular Fees",
+      "FATCA"
+    ],
+    "added": "2026-10-13T01:59Z"
   }
 ]
