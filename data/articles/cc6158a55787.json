@@ -1,0 +1,162 @@
+{
+  "id": "cc6158a55787",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/news-releases/dhs-terminates-temporary-protected-status-for-yemen-0",
+  "original_title": "DHS Terminates Temporary Protected Status for Yemen",
+  "published": "2026-03-02",
+  "effective_date": "2026-05-04",
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "TPS",
+    "Yemen"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "DHS, 예멘에 대한 임시보호신분(TPS) 종료 결정",
+      "summary": "국토안보부(DHS)가 예멘에 대한 임시보호신분(TPS) 지정을 종료한다고 발표했습니다. 국토안보부 장관 크리스티 노엠은 예멘이 더 이상 TPS 지정 요건을 충족하지 않는다고 판단했습니다. 이번 종료는 연방관보(Federal Register) 공고일로부터 60일 후인 2026년 5월 4일부터 효력이 발생합니다.",
+      "points": [
+        "DHS가 연방관보에 예멘에 대한 TPS 종료 공고를 게재했습니다.",
+        "노엠 장관은 국가 상황 검토와 관계 기관 협의를 거쳐 2026년 2월 13일 종료 결정을 발표했습니다.",
+        "예멘의 TPS 지정은 공고 게재일로부터 60일 후인 2026년 5월 4일 종료됩니다.",
+        "신분 종료 시 대상자는 CBP Home 앱을 통해 자진 출국 사실을 신고할 수 있습니다.",
+        "자세한 내용은 uscis.gov/tps에서 확인할 수 있습니다."
+      ],
+      "who": "미국 내에서 예멘 국적으로 TPS 신분을 보유한 사람들이 영향을 받습니다.",
+      "action": "TPS 자격이 종료되는 2026년 5월 4일 이전에 체류 자격 변경 가능성이나 출국 계획을 확인하고, 필요시 이민 전문 변호사와 상담하는 것이 좋습니다."
+    },
+    "en": {
+      "title": "DHS Terminates Temporary Protected Status for Yemen",
+      "summary": "The Department of Homeland Security has published a Federal Register notice terminating Temporary Protected Status (TPS) for Yemen. Secretary Kristi Noem determined Yemen no longer meets the statutory requirements for TPS designation. The termination takes effect May 4, 2026, 60 days after publication of the notice.",
+      "points": [
+        "DHS posted a Federal Register notice terminating TPS for Yemen.",
+        "Secretary Noem announced the decision on Feb. 13, 2026, after reviewing country conditions.",
+        "Yemen's TPS designation ends on May 4, 2026, 60 days after the notice's publication.",
+        "Affected individuals can use the CBP Home app to report voluntary departure once status ends.",
+        "More information is available at uscis.gov/tps."
+      ],
+      "who": "Yemeni nationals currently holding TPS status in the United States are affected.",
+      "action": "Affected individuals should review their options before May 4, 2026, and may consult uscis.gov/tps or an immigration attorney."
+    },
+    "es": {
+      "title": "DHS pone fin al Estatus de Protección Temporal (TPS) para Yemen",
+      "summary": "El Departamento de Seguridad Nacional (DHS) publicó un aviso en el Registro Federal que pone fin al Estatus de Protección Temporal (TPS) para Yemen. La secretaria Kristi Noem determinó que Yemen ya no cumple con los requisitos legales para la designación de TPS. La terminación entra en vigor el 4 de mayo de 2026, 60 días después de la publicación del aviso.",
+      "points": [
+        "DHS publicó un aviso en el Registro Federal que termina el TPS para Yemen.",
+        "La secretaria Noem anunció la decisión el 13 de febrero de 2026, tras revisar las condiciones del país.",
+        "La designación de TPS de Yemen finaliza el 4 de mayo de 2026, 60 días después de la publicación del aviso.",
+        "Las personas afectadas pueden usar la aplicación CBP Home para reportar su salida voluntaria del país una vez que termine su estatus.",
+        "Hay más información disponible en uscis.gov/tps."
+      ],
+      "who": "Afecta a los ciudadanos de Yemen que actualmente tienen estatus TPS en Estados Unidos.",
+      "action": "Las personas afectadas deben revisar sus opciones antes del 4 de mayo de 2026 y pueden consultar uscis.gov/tps o a un abogado de inmigración."
+    },
+    "zh": {
+      "title": "美国国土安全部终止也门临时保护身份（TPS）",
+      "summary": "美国国土安全部（DHS）在联邦公报上发布公告，宣布终止也门的临时保护身份（TPS）指定。国土安全部长克里斯蒂·诺姆认定也门已不再符合TPS指定的法定条件。该终止决定将于2026年5月4日生效，即公告发布之日起60天后。",
+      "points": [
+        "DHS在联邦公报上发布公告，终止也门的TPS指定。",
+        "诺姆部长在审查该国情况后，于2026年2月13日宣布此决定。",
+        "也门的TPS指定将于2026年5月4日终止，即公告发布60天后生效。",
+        "身份终止后，相关人员可使用CBP Home应用程序报告自愿离境。",
+        "更多信息可查阅uscis.gov/tps。"
+      ],
+      "who": "目前持有也门TPS身份的人士将受到影响。",
+      "action": "受影响人士应在2026年5月4日之前核实自身选择，并可查询uscis.gov/tps或咨询移民律师。"
+    },
+    "ja": {
+      "title": "DHS、イエメンの一時保護資格（TPS）を終了",
+      "summary": "米国国土安全保障省（DHS）は、イエメンの一時保護資格（TPS）の指定を終了する連邦官報公告を発表しました。クリスティ・ノーム長官は、イエメンがTPS指定の法的要件をもはや満たしていないと判断しました。終了は公告発表から60日後の2026年5月4日に発効します。",
+      "points": [
+        "DHSは連邦官報にイエメンのTPS終了に関する公告を掲載しました。",
+        "ノーム長官は国内情勢を審査した上で、2026年2月13日に終了の決定を発表しました。",
+        "イエメンのTPS指定は、公告発表から60日後の2026年5月4日に終了します。",
+        "資格終了後、対象者はCBP Homeアプリを通じて自主出国を報告できます。",
+        "詳細はuscis.gov/tpsで確認できます。"
+      ],
+      "who": "現在米国でイエメン国籍のTPS資格を保持している人々が対象です。",
+      "action": "対象者は2026年5月4日までに自身の選択肢を確認し、uscis.gov/tpsや移民弁護士へ相談することが推奨されます。"
+    }
+  },
+  "added": "2026-10-13T02:30Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "humanitarian"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "03/02/2026"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security has posted a Federal Register notice regarding the termination of Temporary Protected Status (TPS) for Yemen."
+      },
+      {
+        "t": "p",
+        "x": "After reviewing country conditions and consulting with the appropriate U.S. government agencies, Secretary of Homeland Security Kristi Noem determined that Yemen no longer meets the statutory requirements for designation for TPS and announced her decision to terminate TPS for Yemen on Feb. 13, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Yemen’s designation for TPS will terminate on May 4, 2026, 60 days after publication of the Federal Register notice. Aliens can use the CBP Home app to report their voluntary departure from the United States when their status terminates."
+      },
+      {
+        "t": "p",
+        "x": "Find more information about TPS at uscis.gov/tps. For more information on USCIS and its programs, please visit uscis.gov or follow us on X, Instagram, YouTube, Facebook and LinkedIn."
+      },
+      {
+        "t": "p",
+        "x": "03/02/2026"
+      }
+    ],
+    "fetched": "2026-10-13T02:30Z",
+    "from": "page",
+    "chars": 896
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 3월 2일",
+      "국토안보부(DHS)는 예멘에 대한 임시보호지위(TPS) 종료에 관한 연방관보(Federal Register) 공고를 게시했습니다.",
+      "국가 상황을 검토하고 관계 미국 정부 기관과 협의한 후, 크리스티 노엠(Kristi Noem) 국토안보부 장관은 예멘이 더 이상 TPS 지정을 위한 법정 요건을 충족하지 못한다고 판단하고, 2026년 2월 13일 예멘에 대한 TPS를 종료하기로 한 결정을 발표했습니다.",
+      "예멘에 대한 TPS 지정은 연방관보 공고 게재일로부터 60일 후인 2026년 5월 4일에 종료됩니다. 외국인은 자신의 신분이 종료될 때 CBP Home 앱을 사용하여 미국으로부터의 자진 출국을 신고할 수 있습니다.",
+      "TPS에 관한 자세한 정보는 uscis.gov/tps에서 확인하실 수 있습니다. USCIS와 그 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, Instagram, YouTube, Facebook, LinkedIn에서 저희를 팔로우하시기 바랍니다.",
+      "2026년 3월 2일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "02/03/2026",
+      "El Departamento de Seguridad Nacional ha publicado un aviso en el Registro Federal sobre la terminación del Estatus de Protección Temporal (TPS) para Yemen.",
+      "Tras revisar las condiciones del país y consultar con las agencias correspondientes del gobierno de los Estados Unidos, la Secretaria de Seguridad Nacional, Kristi Noem, determinó que Yemen ya no cumple con los requisitos legales para la designación de TPS y anunció su decisión de terminar el TPS para Yemen el 13 de febrero de 2026.",
+      "La designación de Yemen para el TPS terminará el 4 de mayo de 2026, 60 días después de la publicación del aviso en el Registro Federal. Los extranjeros pueden usar la aplicación CBP Home para reportar su salida voluntaria de los Estados Unidos cuando su estatus termine.",
+      "Encuentre más información sobre el TPS en uscis.gov/tps. Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn.",
+      "02/03/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年3月2日",
+      "美国国土安全部（Department of Homeland Security，DHS）已发布一份《联邦公报》通知，内容涉及终止也门的临时保护身份（TPS）。",
+      "在审查了该国的国家状况并与相关美国政府机构协商后，国土安全部部长克里斯蒂·诺姆（Kristi Noem）确定也门不再符合指定临时保护身份的法定条件，并于2026年2月13日宣布其终止也门临时保护身份的决定。",
+      "也门的临时保护身份指定将于2026年5月4日终止，即《联邦公报》通知发布后60天。外国人可在其身份终止时使用CBP Home应用程序报告其自愿离开美国的情况。",
+      "欲了解有关临时保护身份（TPS）的更多信息，请访问uscis.gov/tps。欲了解有关美国公民及移民服务局（USCIS）及其项目的更多信息，请访问uscis.gov，或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们。",
+      "2026年3月2日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年3月2日",
+      "国土安全保障省(DHS)は、イエメンに対する一時的保護在留資格(TPS)の終了に関する連邦官報告示を公示しました。",
+      "国の状況を検討し、適切な米国政府機関と協議した結果、クリスティ・ノーム国土安全保障長官は、イエメンがもはやTPS指定の法定要件を満たしていないと判断し、2026年2月13日にイエメンに対するTPSを終了する決定を発表しました。",
+      "イエメンのTPS指定は、連邦官報告示の公示から60日後の2026年5月4日に終了します。外国人は、在留資格が終了する際に、CBP Homeアプリを使用して米国からの自主的な出国を報告することができます。",
+      "TPSに関する詳細情報は、uscis.gov/tpsでご覧いただけます。USCISおよびそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook、LinkedInでフォローしてください。",
+      "2026年3月2日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
