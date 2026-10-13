@@ -1,0 +1,433 @@
+{
+  "id": "4022c9e88b7f",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00118/departure-notification-record",
+  "original_title": "Departure Notification Record",
+  "published": "2026-01-08",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "ICE",
+    "Paperwork Reduction Act",
+    "CBP Home",
+    "Voluntary Departure"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "ICE, '출국 통지 기록' 정보수집 연장 위해 60일간 의견 수렴",
+      "summary": "미국 이민세관단속국(ICE)이 자진 출국을 원하는 외국인의 정보를 수집하는 '출국 통지 기록(DNR)' 제도의 연장을 위해 관리예산국(OMB)에 제출할 예정이며, 이에 앞서 공중 의견을 수렴합니다. 이 수집 제도는 2025년 12월 22일 재승인되었으며, 현재 CBP Home 모바일 앱을 통해 운영되고 있습니다.",
+      "points": [
+        "OMB 통제번호 1653-0057인 '출국 통지 기록(DNR)' 수집 제도의 연장을 위한 60일 공고입니다.",
+        "ICE와 CBP는 미국 내에서 자진 출국을 원하는 외국인의 생체정보 및 인적사항을 CBP Home 앱을 통해 수집합니다.",
+        "연간 예상 응답 건수는 1,680만 건이며, 응답 1건당 평균 5분이 소요되고 총 139만 4,400시간의 부담이 발생할 것으로 추정됩니다.",
+        "이번 공고는 정보수집 절차에 관한 것으로 새로운 법적 의무나 자격 요건을 만들지 않습니다.",
+        "의견 제출 마감일은 2026년 3월 9일입니다."
+      ],
+      "who": "자진 출국을 고려 중인 미국 내 외국인 및 관련 정책에 의견을 제출하려는 일반 공중입니다.",
+      "action": "이 정보수집 절차에 의견이 있는 경우 2026년 3월 9일까지 regulations.gov를 통해 OMB 통제번호 1653-0057과 함께 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "ICE Seeks Comment on Extending Departure Notification Record Data Collection",
+      "summary": "U.S. Immigration and Customs Enforcement (ICE) is requesting public comment before submitting a Paperwork Reduction Act request to extend the Departure Notification Record (DNR) information collection, OMB Control Number 1653-0057. The collection, reinstated on December 22, 2025, gathers data from aliens who wish to voluntarily depart the United States through the CBP Home mobile application.",
+      "points": [
+        "This is a 60-day notice to extend, without change, the previously approved DNR information collection.",
+        "DHS, including CBP and ICE, uses the collection to identify aliens in the United States who want to voluntarily depart and assist them in doing so.",
+        "Respondents provide biographic and biometric data and departure details through the CBP Home mobile app.",
+        "ICE estimates 16,800,000 responses annually at 5 minutes each, totaling 1,394,400 burden hours.",
+        "This notice concerns a data collection procedure, not a new eligibility rule.",
+        "Comments are due by March 9, 2026."
+      ],
+      "who": "Aliens in the United States considering voluntary departure and members of the public who wish to comment on this federal data collection.",
+      "action": "Submit comments referencing OMB Control Number 1653-0057 through regulations.gov by March 9, 2026."
+    },
+    "es": {
+      "title": "ICE solicita comentarios para extender la recoleccion de datos del Registro de Notificacion de Salida",
+      "summary": "El Servicio de Inmigracion y Control de Aduanas de Estados Unidos (ICE) solicita comentarios publicos antes de pedir a la Oficina de Administracion y Presupuesto (OMB) la extension de la recoleccion de informacion del Registro de Notificacion de Salida (DNR), numero de control OMB 1653-0057. Esta recoleccion, reinstaurada el 22 de diciembre de 2025, reune datos de extranjeros que desean salir voluntariamente de Estados Unidos a traves de la aplicacion movil CBP Home.",
+      "points": [
+        "Se trata de un aviso de 60 dias para extender, sin cambios, la recoleccion de informacion del DNR ya aprobada anteriormente.",
+        "DHS, incluyendo a CBP e ICE, usa esta recoleccion para identificar a extranjeros en Estados Unidos que desean salir voluntariamente y ayudarlos en el proceso.",
+        "Los participantes proporcionan datos biograficos, biometricos y detalles de su salida mediante la aplicacion CBP Home.",
+        "ICE estima 16,800,000 respuestas anuales, de 5 minutos cada una, con un total de 1,394,400 horas de carga.",
+        "Este aviso trata sobre un procedimiento de recoleccion de datos, no sobre una nueva regla de elegibilidad migratoria.",
+        "El plazo para comentarios vence el 9 de marzo de 2026."
+      ],
+      "who": "Extranjeros en Estados Unidos que consideran la salida voluntaria y el publico interesado en comentar sobre esta recoleccion federal de datos.",
+      "action": "Enviar comentarios indicando el numero de control OMB 1653-0057 a traves de regulations.gov antes del 9 de marzo de 2026."
+    },
+    "zh": {
+      "title": "ICE就延长《离境通知记录》信息收集征求公众意见",
+      "summary": "美国移民及海关执法局（ICE）在向管理和预算办公室（OMB）提交延期申请前，就延长《离境通知记录》（DNR）信息收集（OMB控制编号1653-0057）征求公众意见。该信息收集已于2025年12月22日恢复，用于通过CBP Home手机应用程序收集希望自愿离境的外国人信息。",
+      "points": [
+        "这是一项为期60天的公告，拟延长此前已获批准的DNR信息收集，内容不作改变。",
+        "DHS（包括CBP和ICE）利用该收集识别美国境内希望自愿离境的外国人并协助其离境。",
+        "受访者需通过CBP Home应用程序提供生物特征数据、个人信息及离境详情。",
+        "ICE预计每年约有1680万份回应，每份耗时5分钟，总计139万4400工时。",
+        "此公告仅涉及数据收集程序，不涉及新的资格规定。",
+        "意见提交截止日期为2026年3月9日。"
+      ],
+      "who": "正在考虑自愿离境的在美外国人,以及希望就此联邦数据收集提出意见的公众。",
+      "action": "可在2026年3月9日前通过regulations.gov提交意见，并注明OMB控制编号1653-0057。"
+    },
+    "ja": {
+      "title": "ICE、「出国通知記録」情報収集の延長についてパブリックコメントを募集",
+      "summary": "米国移民税関捜査局（ICE）は、管理予算局（OMB）に提出する「出国通知記録（DNR）」情報収集（OMB管理番号1653-0057）の延長申請に先立ち、パブリックコメントを募集しています。この情報収集は2025年12月22日に再承認されたもので、CBP Homeアプリを通じて自主的な出国を希望する外国人の情報を収集します。",
+      "points": [
+        "これは既存のDNR情報収集を変更なしで延長するための60日間の公告です。",
+        "DHS（CBPおよびICEを含む）は、米国内で自主出国を希望する外国人を特定し、その出国を支援するためにこの情報を利用します。",
+        "回答者はCBP Homeアプリを通じて生体情報や個人情報、出国に関する詳細を提供します。",
+        "ICEは年間約1680万件の回答があり、1件あたり平均5分、合計139万4400時間の負担が発生すると見込んでいます。",
+        "この公告はデータ収集手続きに関するものであり、新たな資格要件を定めるものではありません。",
+        "コメント提出期限は2026年3月9日です。"
+      ],
+      "who": "自主的な出国を検討している在米外国人、およびこの連邦データ収集について意見を述べたい一般の人々が対象です。",
+      "action": "OMB管理番号1653-0057を明記のうえ、2026年3月9日までにregulations.govを通じてコメントを提出できます。"
+    }
+  },
+  "added": "2026-10-13T05:27Z",
+  "model": "claude-sonnet-5",
+  "agency": "ice",
+  "topics": [
+    "enforcement",
+    "travel"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "U.S. Immigration and Customs Enforcement"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Immigration and Customs Enforcement."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "60-Day notice."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "The information collection Departure Notification Record (DNR), OMB Control Number 1653-0057, was reinstated on December 22, 2025. In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department of Homeland Security (DHS), U.S. Immigration and Customs Enforcement (ICE) will submit the following Information Collection Request (ICR) to the Office of Management and Budget (OMB) to extend this currently approved collection. DHS is soliciting comments for this collection."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "Comments are encouraged and must be submitted March 9, 2026 to be assured of consideration."
+      },
+      {
+        "t": "h",
+        "x": "ADDRESSES:"
+      },
+      {
+        "t": "p",
+        "x": "All submissions received must include the OMB Control Number 1653-0057 in the body of the correspondence, the agency name and Docket ID ICEB-XXXX-XXXX. All comments received will be posted without change to http://www.regulations.gov, including any personal information provided. Submit comments via the Federal eRulemaking Portal website at http://www.regulations.gov under e-Docket ID number ICEB XXXX-XXXX."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "If you have questions related to this collection please contact: Omar Charris, 202-200-1988, Omar.A.Charris@ice.dhs.gov, U.S. Immigration and Customs Enforcement. (This is not a toll-free number. Comments are not accepted via telephone message.)"
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION: ( printed page 718)"
+      },
+      {
+        "t": "h",
+        "x": "Comment"
+      },
+      {
+        "t": "p",
+        "x": "You may access the information collection instrument with instructions or additional information by visiting the Federal eRulemaking Portal site at: https://www.regulations.gov and entering ICEB-XXXX-XXXX in the search box. All submissions will be posted, without change, to the Federal eRulemaking Portal at https://www.regulations.gov, and will include any personal information you provide. Therefore, submitting this information makes it public. You may wish to consider limiting the amount of personal information that you provide in any voluntary submission you make. DHS may withhold information provided in comments from public viewing that it determines may impact the privacy of an individual or is offensive. For additional information, please read the Privacy Act notice that is available via the link in the footer of https://www.regulations.gov."
+      },
+      {
+        "t": "p",
+        "x": "Written comments and suggestions from the public and affected agencies concerning the proposed collection of information should address one or more of the following four points:"
+      },
+      {
+        "t": "p",
+        "x": "1. Evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information will have practical utility;"
+      },
+      {
+        "t": "p",
+        "x": "2. Evaluate the accuracy of the agency's estimate of the burden of the proposed collection of information, including the validity of the methodology and assumptions used;"
+      },
+      {
+        "t": "p",
+        "x": "3. Enhance the quality, utility, and clarity of the information to be collected; and"
+      },
+      {
+        "t": "p",
+        "x": "4. Minimize the burden of the collection of information on those who are to respond, including through the use of appropriate automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submissions of responses."
+      },
+      {
+        "t": "h",
+        "x": "Overview of This Information Collection"
+      },
+      {
+        "t": "p",
+        "x": "1. Type of Information Collection: Extension without Change of a Previously Approved Collection."
+      },
+      {
+        "t": "p",
+        "x": "2. Title of Form/Collection: Departure Notification Record."
+      },
+      {
+        "t": "p",
+        "x": "3. Agency form number, if any, and the applicable component of the Department of Homeland Security sponsoring the collection: N/A, U.S. Immigration and Customs Enforcement."
+      },
+      {
+        "t": "p",
+        "x": "4. Affected public who will be asked or required to respond, as well as a brief abstract: Individuals. DHS, including CBP and ICE, will use this information to identify those aliens geographically located in the United States who want to voluntarily depart the United States. Those aliens will be able to report biographic data and biometric data, as well as information about their intended departure. With this information, DHS can assist aliens to depart from the United States to their destination country. DHS will use a mobile application, currently CBP Home, to collect this information."
+      },
+      {
+        "t": "p",
+        "x": "5. An estimate of the total number of respondents and the amount of time estimated for an average respondent to respond: 16,800,000 responses at 5 minutes per response."
+      },
+      {
+        "t": "p",
+        "x": "6. An estimate of the total public burden (in hours) associated with the collection: 1,394,400 annual burden hours."
+      },
+      {
+        "t": "p",
+        "x": "Sharon Hageman,"
+      },
+      {
+        "t": "p",
+        "x": "Deputy Assistant Director, Office of Regulatory Affairs and Policy, U.S. Immigration and Customs Enforcement."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-00118 Filed 1-7-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-28-P"
+      }
+    ],
+    "fetched": "2026-10-13T05:27Z",
+    "from": "federalregister.gov",
+    "chars": 5185
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "해당 문서를 발행하고 서명한 기관 또는 기관들",
+      "해당 문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 편 번호 및 각 부의 번호",
+      "기관 접수번호/기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 편람(Document Drafting Handbook)을 참조하십시오.",
+      "국토안보부(Department of Homeland Security)",
+      "미국 이민세관집행국(U.S. Immigration and Customs Enforcement)",
+      "기관:",
+      "미국 이민세관집행국(ICE).",
+      "조치:",
+      "60일 공고.",
+      "요약:",
+      "정보 수집 항목인 출국통지기록(Departure Notification Record, DNR), OMB 통제번호 1653-0057은 2025년 12월 22일자로 재승인되었습니다. 1995년 문서업무감축법(Paperwork Reduction Act, PRA)에 따라, 국토안보부(DHS) 산하 미국 이민세관집행국(ICE)은 현재 승인된 이 정보 수집을 연장하기 위하여 다음의 정보수집요청서(ICR)를 관리예산실(Office of Management and Budget, OMB)에 제출할 예정입니다. DHS는 이 정보 수집에 대한 의견을 요청합니다.",
+      "일자:",
+      "의견은 고려 대상이 되기 위하여 2026년 3월 9일까지 제출하는 것을 권장하며, 반드시 이 기한까지 제출되어야 합니다.",
+      "주소:",
+      "접수되는 모든 제출물에는 서신 본문에 OMB 통제번호 1653-0057, 기관명 및 접수번호 ICEB-XXXX-XXXX를 포함하여야 합니다. 접수된 모든 의견은 제공된 개인정보를 포함하여 변경 없이 http://www.regulations.gov에 게시됩니다. 의견은 연방규칙제정포털(Federal eRulemaking Portal) 웹사이트 http://www.regulations.gov에서 전자접수번호 ICEB XXXX-XXXX를 통해 제출하십시오.",
+      "추가 문의처:",
+      "본 정보 수집과 관련하여 문의사항이 있으신 경우 다음으로 연락하시기 바랍니다. Omar Charris, 202-200-1988, Omar.A.Charris@ice.dhs.gov, 미국 이민세관집행국. (이는 수신자 부담 전화번호가 아닙니다. 음성 메시지를 통한 의견 접수는 되지 않습니다.)",
+      "보충 정보: (인쇄본 718쪽)",
+      "의견",
+      "안내사항 또는 추가 정보가 포함된 정보 수집 문서는 연방규칙제정포털 사이트 https://www.regulations.gov에 접속하여 검색창에 ICEB-XXXX-XXXX를 입력하시면 열람하실 수 있습니다. 모든 제출물은 귀하가 제공한 개인정보를 포함하여 변경 없이 연방규칙제정포털 https://www.regulations.gov에 게시됩니다. 따라서 이 정보를 제출하는 것은 이를 공개하는 것이 됩니다. 자발적으로 제출하는 내용에 포함되는 개인정보의 양을 제한하는 것을 고려하시기 바랍니다. DHS는 개인의 사생활에 영향을 미치거나 불쾌감을 줄 수 있다고 판단되는, 의견에 포함된 정보를 공개 열람 대상에서 제외할 수 있습니다. 추가 정보는 https://www.regulations.gov 하단의 링크를 통해 이용 가능한 개인정보보호법(Privacy Act) 고지문을 참조하시기 바랍니다.",
+      "제안된 정보 수집과 관련하여 대중 및 영향을 받는 기관으로부터의 서면 의견 및 제안은 다음 네 가지 사항 중 하나 이상을 다루어야 합니다.",
+      "1. 제안된 정보 수집이 해당 기관의 기능을 적절히 수행하는 데 필요한지 여부를 평가하되, 해당 정보가 실질적인 효용을 가지는지 여부를 포함할 것.",
+      "2. 사용된 방법론 및 가정의 타당성을 포함하여, 제안된 정보 수집에 따른 부담에 대한 기관의 추정치의 정확성을 평가할 것.",
+      "3. 수집될 정보의 품질, 효용 및 명확성을 향상시킬 것. 그리고",
+      "4. 응답자가 전자적 방식으로 응답을 제출할 수 있도록 허용하는 것과 같이, 적절한 자동화, 전자, 기계 또는 기타 기술적 수집 기법이나 그 밖의 정보기술 형태의 활용을 포함하여, 응답 대상자에 대한 정보 수집 부담을 최소화할 것.",
+      "본 정보 수집 개요",
+      "1. 정보 수집의 유형: 기존에 승인된 수집의 변경 없는 연장.",
+      "2. 양식/수집명: 출국통지기록.",
+      "3. 기관 양식 번호(있는 경우) 및 해당 수집을 주관하는 국토안보부 산하 부서: 해당 없음, 미국 이민세관집행국.",
+      "4. 응답하도록 요청받거나 요구받을 영향받는 공중 및 간략한 개요: 개인. 세관국경보호청(CBP)과 이민세관집행청(ICE)을 포함한 국토안보부(DHS)는 이 정보를 이용하여 미국 내에 지리적으로 소재하며 미국에서 자발적으로 출국하고자 하는 외국인을 식별할 것입니다. 해당 외국인은 인적사항 자료 및 생체정보, 그리고 출국 예정에 관한 정보를 제출할 수 있게 됩니다. 이 정보를 통해 국토안보부는 외국인이 미국을 떠나 목적지 국가로 출국하도록 지원할 수 있습니다. 국토안보부는 현재 CBP Home이라는 모바일 애플리케이션을 사용하여 이 정보를 수집할 것입니다.",
+      "5. 응답자의 총 추정 수 및 평균 응답자가 응답하는 데 소요되는 추정 시간: 응답 1건당 5분씩 총 16,800,000건의 응답.",
+      "6. 이 수집과 관련된 총 공중 부담(시간 단위) 추정치: 연간 부담 시간 1,394,400시간.",
+      "샤론 헤이지먼(Sharon Hageman),",
+      "규제업무정책국 부차관보, 미국 이민세관집행청(ICE).",
+      "[연방관보 문서 2026-00118호, 2026년 1월 7일 오전 8시 45분 게재]",
+      "청구 코드 9111-28-P"
+    ],
+    "es": [
+      "Encabezados de documentos",
+      "Los encabezados de documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento enmienda, propone enmendar, o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Seguridad Nacional",
+      "Servicio de Inmigración y Control de Aduanas de los Estados Unidos",
+      "AGENCIA:",
+      "Servicio de Inmigración y Control de Aduanas de los Estados Unidos.",
+      "ACCIÓN:",
+      "Aviso de 60 días.",
+      "RESUMEN:",
+      "La recopilación de información Registro de Notificación de Salida (DNR, por sus siglas en inglés), Número de Control de OMB 1653-0057, fue reinstaurada el 22 de diciembre de 2025. De conformidad con la Ley de Reducción de Trámites (PRA, por sus siglas en inglés) de 1995, el Departamento de Seguridad Nacional (DHS), el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) presentará la siguiente Solicitud de Recopilación de Información (ICR, por sus siglas en inglés) ante la Oficina de Administración y Presupuesto (OMB) para extender esta recopilación actualmente aprobada. El DHS está solicitando comentarios sobre esta recopilación.",
+      "FECHAS:",
+      "Se recomienda enviar comentarios, los cuales deben presentarse a más tardar el 9 de marzo de 2026 para asegurar su consideración.",
+      "DIRECCIONES:",
+      "Todas las presentaciones recibidas deben incluir el Número de Control de OMB 1653-0057 en el cuerpo de la correspondencia, el nombre de la agencia y el Número de Expediente ICEB-XXXX-XXXX. Todos los comentarios recibidos se publicarán sin cambios en http://www.regulations.gov, incluyendo cualquier información personal proporcionada. Envíe los comentarios a través del sitio web del Portal Federal de Reglamentación Electrónica (Federal eRulemaking Portal) en http://www.regulations.gov bajo el número de Expediente Electrónico ICEB XXXX-XXXX.",
+      "PARA MÁS INFORMACIÓN, CONTACTE A:",
+      "Si tiene preguntas relacionadas con esta recopilación, por favor contacte a: Omar Charris, 202-200-1988, Omar.A.Charris@ice.dhs.gov, Servicio de Inmigración y Control de Aduanas de los Estados Unidos. (Este no es un número gratuito. No se aceptan comentarios mediante mensajes telefónicos.)",
+      "INFORMACIÓN COMPLEMENTARIA: (página impresa 718)",
+      "Comentario",
+      "Puede acceder al instrumento de recopilación de información con instrucciones o información adicional visitando el sitio del Portal Federal de Reglamentación Electrónica en: https://www.regulations.gov e ingresando ICEB-XXXX-XXXX en el cuadro de búsqueda. Todas las presentaciones se publicarán, sin cambios, en el Portal Federal de Reglamentación Electrónica en https://www.regulations.gov, e incluirán cualquier información personal que usted proporcione. Por lo tanto, enviar esta información la hace pública. Es posible que desee considerar limitar la cantidad de información personal que proporcione en cualquier presentación voluntaria que realice. El DHS puede retener de la visualización pública la información proporcionada en los comentarios que determine que puede afectar la privacidad de una persona o que sea ofensiva. Para información adicional, por favor lea el aviso de la Ley de Privacidad (Privacy Act) disponible a través del enlace en el pie de página de https://www.regulations.gov.",
+      "Los comentarios y sugerencias escritos del público y de las agencias afectadas relacionados con la recopilación de información propuesta deben abordar uno o más de los siguientes cuatro puntos:",
+      "1. Evaluar si la recopilación de información propuesta es necesaria para el desempeño adecuado de las funciones de la agencia, incluyendo si la información tendrá utilidad práctica;",
+      "2. Evaluar la exactitud de la estimación de la agencia sobre la carga de la recopilación de información propuesta, incluyendo la validez de la metodología y los supuestos utilizados;",
+      "3. Mejorar la calidad, utilidad y claridad de la información que se va a recopilar; y",
+      "4. Minimizar la carga de la recopilación de información sobre quienes deben responder, incluso mediante el uso de técnicas de recopilación automatizadas, electrónicas, mecánicas o de otra naturaleza tecnológica, u otras formas de tecnología de la información, por ejemplo, permitir la presentación electrónica de las respuestas.",
+      "Resumen General de esta Recopilación de Información",
+      "1. Tipo de Recopilación de Información: Extensión sin Cambios de una Recopilación Previamente Aprobada.",
+      "2. Título del Formulario/Recopilación: Registro de Notificación de Salida.",
+      "3. Número de formulario de la agencia, si corresponde, y el componente aplicable del Departamento de Seguridad Nacional que patrocina la recopilación: N/A, Servicio de Inmigración y Control de Aduanas de los Estados Unidos.",
+      "4. Público afectado al que se le pedirá o se le exigirá responder, así como un breve resumen: Personas físicas. El DHS, incluidos el CBP y el ICE, utilizará esta información para identificar a aquellos extranjeros ubicados geográficamente en los Estados Unidos que deseen salir voluntariamente de los Estados Unidos. Dichos extranjeros podrán reportar datos biográficos y datos biométricos, así como información sobre su salida prevista. Con esta información, el DHS podrá ayudar a los extranjeros a salir de los Estados Unidos hacia su país de destino. El DHS utilizará una aplicación móvil, actualmente CBP Home, para recopilar esta información.",
+      "5. Una estimación del número total de encuestados y del tiempo estimado para que un encuestado promedio responda: 16,800,000 respuestas a razón de 5 minutos por respuesta.",
+      "6. Una estimación de la carga pública total (en horas) asociada con la recopilación: 1,394,400 horas de carga anual.",
+      "Sharon Hageman,",
+      "Subdirectora Adjunta, Oficina de Asuntos Regulatorios y Políticas, Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE).",
+      "[FR Doc. 2026-00118 Presentado el 1-7-26; 8:45 a. m.]",
+      "CÓDIGO DE FACTURACIÓN 9111-28-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容:",
+      "签发并签署文件的一个或多个机构",
+      "文件修订、拟议修订或直接相关的联邦法规汇编(CFR)标题编号及各部分编号",
+      "机构档案编号/机构内部文件编号",
+      "监管信息识别号(RIN),用于识别《联邦监管与放松监管行动统一议程》中列出的各项监管行动",
+      "详情请参阅《文件起草手册》。",
+      "美国国土安全部",
+      "美国移民及海关执法局",
+      "机构:",
+      "美国移民及海关执法局。",
+      "行动:",
+      "60天通知。",
+      "摘要:",
+      "信息收集项目“离境通知记录”(DNR),行政管理和预算局(OMB)控制编号1653-0057,已于2025年12月22日重新获批。根据1995年《文书削减法》(PRA)的规定,美国国土安全部(DHS)所属美国移民及海关执法局(ICE)将向行政管理和预算局(OMB)提交以下信息收集请求(ICR),以延长该现已获批的信息收集项目。国土安全部现就此项信息收集征求意见。",
+      "日期:",
+      "鼓励提交意见,相关意见必须于2026年3月9日之前提交,方可确保获得考虑。",
+      "地址:",
+      "所有提交的意见必须在信函正文中注明OMB控制编号1653-0057、机构名称及案卷编号ICEB-XXXX-XXXX。收到的所有意见将原文不加修改地发布于http://www.regulations.gov网站,包括所提供的任何个人信息。请通过联邦电子规则制定门户网站http://www.regulations.gov提交意见,电子案卷编号为ICEB XXXX-XXXX。",
+      "如需更多信息请联系:",
+      "如您对本信息收集项目有任何疑问,请联系:Omar Charris,电话202-200-1988,电子邮箱Omar.A.Charris@ice.dhs.gov,美国移民及海关执法局。(此号码非免费电话。意见不接受以电话留言方式提交。)",
+      "补充信息:(印刷版第718页)",
+      "意见",
+      "您可通过访问联邦电子规则制定门户网站https://www.regulations.gov,并在搜索框中输入ICEB-XXXX-XXXX,查阅本信息收集文书及其说明或其他附加信息。所有提交内容将原文不加修改地发布于联邦电子规则制定门户网站https://www.regulations.gov,并将包含您所提供的任何个人信息。因此,提交此类信息即意味着将其公开。您可能需要考虑在自愿提交的内容中限制所提供个人信息的数量。对于国土安全部认定可能影响个人隐私或具有冒犯性的意见内容,国土安全部可不予公开展示。有关更多信息,请参阅https://www.regulations.gov页脚链接中提供的《隐私法》通知。",
+      "公众及受影响机构就拟议信息收集提出的书面意见和建议,应针对以下四点中的一点或多点予以说明:",
+      "1. 评估拟议的信息收集对于该机构妥善履行职能是否必要,包括该信息是否具有实际效用;",
+      "2. 评估该机构对拟议信息收集所需工作量估计的准确性,包括所用方法和假设的有效性;",
+      "3. 提高拟收集信息的质量、实用性和清晰度;以及",
+      "4. 尽量减少应答者在信息收集方面的负担,包括采用适当的自动化、电子、机械或其他技术手段进行信息收集,或采用其他形式的信息技术,例如允许以电子方式提交答复。",
+      "本信息收集概述",
+      "1. 信息收集类型:延长此前已获批准的信息收集项目,内容不变。",
+      "2. 表格/收集项目名称:离境通知记录。",
+      "3. 机构表格编号(如有)及负责该信息收集的国土安全部所属具体部门:不适用,美国移民及海关执法局。",
+      "4. 将被要求或需要作答的受影响公众群体,以及简要摘要:个人。国土安全部(DHS),包括美国海关与边境保护局(CBP)和美国移民及海关执法局(ICE),将利用此信息识别那些在地理位置上处于美国境内且希望自愿离境的外国人。这些外国人将能够报告生物身份数据和生物特征数据,以及有关其预定离境的信息。凭借此信息,国土安全部可以协助外国人从美国前往其目的地国家。国土安全部将使用一款移动应用程序,目前为CBP Home,来收集此信息。",
+      "5. 受访者总数的估计数以及一般受访者作答所需时间的估计数:每次回复耗时5分钟,共16,800,000次回复。",
+      "6. 与此信息收集相关的公众总负担(以小时计)的估计数:每年负担1,394,400小时。",
+      "Sharon Hageman,",
+      "美国移民及海关执法局(ICE)法规事务与政策办公室副助理主任。",
+      "[联邦公报文件编号 2026-00118,存档日期:26年1月7日;公布时间:上午8:45]",
+      "账单代码 9111-28-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発行し署名した機関又は複数の機関",
+      "文書が改正し、改正を提案し、又は直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関のドケット番号/機関内部ファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダに記載された各規制措置を識別するRIN",
+      "詳細については、文書起草ハンドブックを参照のこと。",
+      "国土安全保障省",
+      "米国移民税関捜査局",
+      "機関:",
+      "米国移民税関捜査局。",
+      "措置:",
+      "60日間の通知。",
+      "概要:",
+      "情報収集「出国通知記録(DNR)」、OMB管理番号1653-0057は、2025年12月22日に再承認された。1995年のペーパーワーク削減法(PRA)に従い、国土安全保障省(DHS)、米国移民税関捜査局(ICE)は、この現在承認されている収集の延長のため、以下の情報収集要求(ICR)を行政管理予算局(OMB)に提出する。DHSは本収集に関する意見を募集している。",
+      "日付:",
+      "意見は歓迎されており、確実に考慮されるためには2026年3月9日までに提出されなければならない。",
+      "宛先:",
+      "提出されるすべての意見には、通信文の本文中にOMB管理番号1653-0057、機関名及びドケットID ICEB-XXXX-XXXXを含めなければならない。受領したすべての意見は、提供された個人情報を含め、変更を加えずにhttp://www.regulations.govに掲載される。意見は、連邦電子規則制定ポータルウェブサイトhttp://www.regulations.govにおいて、電子ドケットID番号ICEB XXXX-XXXXの下で提出すること。",
+      "問い合わせ先:",
+      "本収集に関して質問がある場合は、米国移民税関捜査局のOmar Charris、202-200-1988、Omar.A.Charris@ice.dhs.govまで連絡すること。(これはフリーダイヤルではない。電話による伝言での意見受付は行っていない。)",
+      "補足情報:(印刷ページ718)",
+      "意見",
+      "情報収集文書及びその指示又は追加情報は、連邦電子規則制定ポータルサイトhttps://www.regulations.govにアクセスし、検索ボックスにICEB-XXXX-XXXXを入力することで閲覧できる。提出されたすべての意見は、変更を加えずに連邦電子規則制定ポータルhttps://www.regulations.govに掲載され、提供された個人情報も含まれる。したがって、この情報を提出することにより、それが公開されることになる。任意で提出する情報に含める個人情報の量を制限することを検討することが望ましい。DHSは、個人のプライバシーに影響を与える可能性がある、又は不快感を与えると判断した意見に含まれる情報については、一般公開から除外する場合がある。追加情報については、https://www.regulations.govのフッターにあるリンクから利用可能なプライバシー法通知を参照されたい。",
+      "一般市民及び影響を受ける機関からの提案された情報収集に関する書面による意見及び提案は、以下の4点のうち1つ以上について述べるべきである。",
+      "1.提案された情報収集が、当該情報が実用性を有するか否かを含め、当該機関の機能の適正な遂行のために必要であるかどうかを評価すること。",
+      "2.使用された方法論及び前提の妥当性を含め、提案された情報収集の負担に関する当該機関の見積りの正確性を評価すること。",
+      "3.収集される情報の質、有用性及び明確性を高めること。",
+      "4.回答すべき者に対する情報収集の負担を最小化すること。これには、適切な自動化、電子、機械その他の技術的収集技術、又はその他の形態の情報技術の利用を通じたもの、例えば電子的な回答の提出を可能にすることを含む。",
+      "本情報収集の概要",
+      "1.情報収集の種類:以前に承認された収集の変更を伴わない延長。",
+      "2.様式/収集の名称:出国通知記録。",
+      "3.機関様式番号(該当する場合)及び当該収集を所管する国土安全保障省の該当部門:該当なし、米国移民税関捜査局。",
+      "4. 回答を求められる、または回答が義務付けられる影響を受ける対象、及び概要の簡潔な説明: 個人。国土安全保障省(DHS)は、CBP及びICEを含め、この情報を用いて、米国内に地理的に所在し、米国から自主的に出国することを希望する外国人を特定する。これらの外国人は、生体情報及び生体測定情報、並びに出国予定に関する情報を報告することができるようになる。この情報により、DHSは外国人が米国から目的国へ出国する際の支援を行うことができる。DHSは、現在CBPホームと呼ばれるモバイルアプリケーションを使用して、この情報を収集する。",
+      "5. 回答者の総数の推定及び平均的な回答者が回答するために要すると見積もられる時間: 1回答あたり5分で、1,680万件の回答。",
+      "6. この情報収集に伴う公衆の総負担時間(時間単位)の見積もり: 年間負担時間139万4,400時間。",
+      "シャロン・ヘイグマン",
+      "規制問題及び政策局副次官補、米国移民・関税執行局(ICE)",
+      "[連邦官報文書番号 2026-00118、2026年1月7日午前8時45分提出]",
+      "請求コード 9111-28-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

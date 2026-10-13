@@ -1,0 +1,270 @@
+{
+  "id": "93cacfd88556",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-increase-premium-processing-fees",
+  "original_title": "USCIS to Increase Premium Processing Fees",
+  "published": "2026-01-09",
+  "effective_date": "2026-03-01",
+  "importance": "high",
+  "category": "fees",
+  "tags": [
+    "Premium Processing",
+    "Fees",
+    "Form I-907",
+    "Form I-129",
+    "Form I-140",
+    "Form I-539",
+    "Form I-765"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "DHS, 신속처리(프리미엄 프로세싱) 수수료 인상 확정, 2026년 3월 1일 시행",
+      "summary": "국토안보부(DHS)가 USCIS 신속처리 수수료를 2023년 6월부터 2025년 6월까지의 물가상승률을 반영해 인상하는 최종 규칙을 발표했습니다. 이번 인상은 2026년 3월 1일부터 시행되며, 그 날 이후 소인된 신속처리 신청서에는 인상된 수수료가 적용됩니다.",
+      "points": [
+        "USCIS Stabilization Act에 따라 DHS는 2년마다 물가상승률을 반영해 신속처리 수수료를 조정할 수 있습니다.",
+        "Form I-129 중 H-2B, R-1 신분 신청은 1,685달러에서 1,780달러로 인상됩니다.",
+        "Form I-129의 E-1, E-2, E-3, H-1B, L-1A, L-1B, O-1 등 그 외 분류와 Form I-140 고용 기반 분류는 2,805달러에서 2,965달러로 인상됩니다.",
+        "F-1, F-2, J-1, J-2, M-1, M-2 신분 변경/연장을 신청하는 Form I-539는 1,965달러에서 2,075달러로 인상됩니다.",
+        "OPT 및 STEM OPT 관련 Form I-765 신속처리는 1,685달러에서 1,780달러로 인상됩니다.",
+        "2026년 3월 1일 이후 소인된 Form I-907 신청서에는 반드시 인상된 신규 수수료를 납부해야 합니다."
+      ],
+      "who": "Form I-129, I-140, I-539, I-765를 통해 신속처리를 신청하는 고용주와 비이민, 이민 비자 신청자가 영향을 받습니다.",
+      "action": "2026년 3월 1일 이후 신속처리 신청서를 제출할 경우 해당 양식의 신규 수수료를 확인하고 정확한 금액으로 Form I-907을 작성해 제출해야 합니다."
+    },
+    "en": {
+      "title": "USCIS to Raise Premium Processing Fees Starting March 1, 2026",
+      "summary": "DHS is publishing a final rule increasing USCIS premium processing fees to reflect inflation from June 2023 through June 2025. The new fees take effect March 1, 2026, and apply to requests postmarked on or after that date.",
+      "points": [
+        "The USCIS Stabilization Act allows DHS to adjust premium processing fees every two years for inflation.",
+        "Form I-129 for H-2B or R-1 status rises from $1,685 to $1,780.",
+        "Form I-129 for other classifications (including H-1B, L-1A/B, O-1, E-1/2/3) and Form I-140 employment-based classifications rise from $2,805 to $2,965.",
+        "Form I-539 for F-1, F-2, J-1, J-2, M-1, or M-2 status rises from $1,965 to $2,075.",
+        "Form I-765 premium processing for OPT and STEM OPT applications rises from $1,685 to $1,780.",
+        "Requests must include the new fee if postmarked on or after March 1, 2026, and must be filed on Form I-907."
+      ],
+      "who": "Employers and applicants requesting premium processing on Forms I-129, I-140, I-539, or I-765.",
+      "action": "Confirm the correct new fee for the benefit requested and submit Form I-907 with the updated amount if filing on or after March 1, 2026."
+    },
+    "es": {
+      "title": "USCIS aumentará las tarifas de procesamiento premium a partir del 1 de marzo de 2026",
+      "summary": "El DHS publicó una regla final que aumenta las tarifas de procesamiento premium de USCIS para reflejar la inflación de junio de 2023 a junio de 2025. Las nuevas tarifas entran en vigor el 1 de marzo de 2026 y se aplican a las solicitudes con matasellos a partir de esa fecha.",
+      "points": [
+        "La USCIS Stabilization Act permite al DHS ajustar las tarifas de procesamiento premium cada dos años por inflación.",
+        "El Formulario I-129 para estatus H-2B o R-1 sube de $1,685 a $1,780.",
+        "El Formulario I-129 para otras clasificaciones (incluyendo H-1B, L-1A/B, O-1, E-1/2/3) y el Formulario I-140 para categorías basadas en empleo suben de $2,805 a $2,965.",
+        "El Formulario I-539 para estatus F-1, F-2, J-1, J-2, M-1 o M-2 sube de $1,965 a $2,075.",
+        "El procesamiento premium del Formulario I-765 para OPT y STEM OPT sube de $1,685 a $1,780.",
+        "Las solicitudes con matasellos a partir del 1 de marzo de 2026 deben incluir la nueva tarifa y presentarse mediante el Formulario I-907."
+      ],
+      "who": "Empleadores y solicitantes que soliciten procesamiento premium en los Formularios I-129, I-140, I-539 o I-765.",
+      "action": "Verificar la nueva tarifa correspondiente al beneficio solicitado y presentar el Formulario I-907 con el monto actualizado si la solicitud se envía a partir del 1 de marzo de 2026."
+    },
+    "zh": {
+      "title": "USCIS将自2026年3月1日起上调加急处理费用",
+      "summary": "国土安全部(DHS)发布最终规则,上调USCIS加急处理(Premium Processing)费用,以反映2023年6月至2025年6月的通货膨胀。新费用将于2026年3月1日生效,适用于该日期或之后邮戳的申请。",
+      "points": [
+        "根据USCIS Stabilization Act,DHS可每两年根据通胀调整加急处理费用。",
+        "Form I-129中H-2B或R-1身份的费用从1,685美元上涨至1,780美元。",
+        "Form I-129其他类别(包括H-1B、L-1A/B、O-1、E-1/2/3等)及Form I-140就业类别费用从2,805美元上涨至2,965美元。",
+        "申请F-1、F-2、J-1、J-2、M-1或M-2身份变更/延期的Form I-539费用从1,965美元上涨至2,075美元。",
+        "OPT及STEM OPT相关的Form I-765加急处理费用从1,685美元上涨至1,780美元。",
+        "2026年3月1日或之后邮戳的加急处理申请须使用Form I-907并缴纳新费用。"
+      ],
+      "who": "通过Form I-129、I-140、I-539或I-765申请加急处理的雇主及申请人将受到影响。",
+      "action": "如在2026年3月1日之后提交加急处理申请,应确认对应福利类别的新费用并使用更新金额填写Form I-907。"
+    },
+    "ja": {
+      "title": "USCIS、2026年3月1日からプレミアム処理手数料を引き上げへ",
+      "summary": "DHSは2023年6月から2025年6月までのインフレ率を反映し、USCISのプレミアム処理手数料を引き上げる最終規則を公表しました。新料金は2026年3月1日に発効し、同日以降の消印がある申請に適用されます。",
+      "points": [
+        "USCIS Stabilization Actに基づき、DHSは2年ごとにインフレを反映してプレミアム処理手数料を調整できます。",
+        "Form I-129のH-2BまたはR-1ステータスは1,685ドルから1,780ドルに値上げされます。",
+        "Form I-129のその他の区分(H-1B、L-1A/B、O-1、E-1/2/3など)およびForm I-140の雇用ベース区分は2,805ドルから2,965ドルに値上げされます。",
+        "F-1、F-2、J-1、J-2、M-1、M-2ステータスの変更・延長を申請するForm I-539は1,965ドルから2,075ドルに値上げされます。",
+        "OPTおよびSTEM OPT対象のForm I-765のプレミアム処理手数料は1,685ドルから1,780ドルに値上げされます。",
+        "2026年3月1日以降に消印される申請には新料金を含め、Form I-907を使用して申請する必要があります。"
+      ],
+      "who": "Form I-129、I-140、I-539、I-765でプレミアム処理を申請する雇用主および申請者が対象です。",
+      "action": "2026年3月1日以降に申請する場合は、該当する区分の新料金を確認し、更新された金額でForm I-907を提出してください。"
+    }
+  },
+  "added": "2026-10-13T05:25Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "fees",
+    "employment",
+    "h1b"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "01/09/2026"
+      },
+      {
+        "t": "p",
+        "x": "The Department of Homeland Security (DHS) is publishing a final rule that will increase USCIS fees for premium processing to reflect the amount of inflation from June 2023 through June 2025."
+      },
+      {
+        "t": "p",
+        "x": "The USCIS Stabilization Act established the authority for DHS to adjust premium processing fees every two years to account for inflation. Fees will continue to be adjusted agencywide to account for inflation and protect the real dollar value of the premium processing service we provide. The revenue generated by this fee increase will be used to provide premium processing services; make improvements to adjudication processes; respond to adjudication demands, including processing backlogs; and otherwise fund USCIS adjudication and naturalization services."
+      },
+      {
+        "t": "p",
+        "x": "This rule is effective on March 1, 2026. If you submit a request for premium processing postmarked on or after March 1, 2026, you must include the new fee for the specific benefit you are requesting. The new fees are listed in the table below. To request premium processing, you must submit Form I-907, Request for Premium Processing, and follow the form instructions."
+      },
+      {
+        "t": "tr",
+        "x": "Form | Previous Fee | New Fee"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-129, Petition for a Nonimmigrant Worker, H-2B or R-1 nonimmigrant status | $1,685 | $1,780"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-129, Petition for a Nonimmigrant Worker, all other available Form I-129 classifications:"
+      },
+      {
+        "t": "p",
+        "x": "E-1\nE-2\nE-3\nH-1B\nH-3\nL-1A\nL-1B\nLZ\nO-1\nO-2\nP-1\nP-1S\nP-2\nP-2S\nP-3\nP-3S\nQ-1\nTN-1\nTN-2"
+      },
+      {
+        "t": "p",
+        "x": "$2,805 | $2,965"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-140, Immigrant Petition for Alien Worker, employment-based classifications:"
+      },
+      {
+        "t": "p",
+        "x": "E11\nE12\nE13\nE21 (NIW and non-NIW)\nE31\nE32\nEW3"
+      },
+      {
+        "t": "p",
+        "x": "$2,805 | $2,965"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-539, Application to Extend/Change Nonimmigrant Status, requesting:"
+      },
+      {
+        "t": "p",
+        "x": "F-1\nF-2\nJ-1\nJ-2\nM-1\nM-2"
+      },
+      {
+        "t": "p",
+        "x": "$1,965 | $2,075"
+      },
+      {
+        "t": "tr",
+        "x": "Form I-765, Application for Employment Authorization, for certain eligible applications (OPT and STEM-OPT Classifications) | $1,685 | $1,780"
+      },
+      {
+        "t": "p",
+        "x": "You may only request premium processing for a benefit if announced premium processing is available for that benefit."
+      },
+      {
+        "t": "p",
+        "x": "01/09/2026"
+      }
+    ],
+    "fetched": "2026-10-13T05:25Z",
+    "from": "page",
+    "chars": 1976
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 1월 9일",
+      "국토안보부(DHS)는 2023년 6월부터 2025년 6월까지의 인플레이션 금액을 반영하여 USCIS 신속처리(premium processing) 수수료를 인상하는 최종 규칙을 공표합니다.",
+      "USCIS 안정화법(USCIS Stabilization Act)은 DHS가 인플레이션을 반영하여 2년마다 신속처리 수수료를 조정할 수 있는 권한을 규정하였습니다. 수수료는 인플레이션을 반영하고 당청이 제공하는 신속처리 서비스의 실질 달러 가치를 보호하기 위하여 계속하여 기관 전체에 걸쳐 조정될 것입니다. 이번 수수료 인상으로 발생하는 수입은 신속처리 서비스 제공, 심사 절차 개선, 처리 적체를 포함한 심사 수요 대응, 그 밖에 USCIS의 심사 및 귀화 서비스 재원 마련에 사용될 것입니다.",
+      "이 규칙은 2026년 3월 1일에 발효됩니다. 2026년 3월 1일 이후 소인이 찍힌 신속처리 신청서를 제출하는 경우, 신청하려는 특정 혜택에 해당하는 새로운 수수료를 포함해야 합니다. 새로운 수수료는 아래 표에 열거되어 있습니다. 신속처리를 신청하려면 양식 I-907(신속처리 신청서, Request for Premium Processing)을 제출하고 양식 지침을 따라야 합니다.",
+      "양식 | 기존 수수료 | 새 수수료",
+      "양식 I-129(비이민 근로자 청원서, Petition for a Nonimmigrant Worker), H-2B 또는 R-1 비이민 신분 | $1,685 | $1,780",
+      "양식 I-129(비이민 근로자 청원서, Petition for a Nonimmigrant Worker), 그 밖의 모든 양식 I-129 신청 가능 분류:",
+      "E-1\nE-2\nE-3\nH-1B\nH-3\nL-1A\nL-1B\nLZ\nO-1\nO-2\nP-1\nP-1S\nP-2\nP-2S\nP-3\nP-3S\nQ-1\nTN-1\nTN-2",
+      "$2,805 | $2,965",
+      "양식 I-140(외국인 근로자 이민 청원서, Immigrant Petition for Alien Worker), 고용 기반 분류:",
+      "E11\nE12\nE13\nE21 (NIW 및 비NIW)\nE31\nE32\nEW3",
+      "$2,805 | $2,965",
+      "양식 I-539(비이민 신분 연장/변경 신청서, Application to Extend/Change Nonimmigrant Status), 신청 대상:",
+      "F-1\nF-2\nJ-1\nJ-2\nM-1\nM-2",
+      "$1,965 | $2,075",
+      "양식 I-765(취업허가 신청서, Application for Employment Authorization), 특정 적격 신청(OPT 및 STEM-OPT 분류) | $1,685 | $1,780",
+      "해당 혜택에 대하여 신속처리가 공지된 경우에만 그 혜택에 대한 신속처리를 신청할 수 있습니다.",
+      "2026년 1월 9일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "09/01/2026",
+      "El Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) está publicando una regla final que aumentará las tarifas de USCIS para el procesamiento premium a fin de reflejar el monto de la inflación de junio de 2023 a junio de 2025.",
+      "La Ley de Estabilización de USCIS (USCIS Stabilization Act) estableció la autoridad para que el DHS ajuste las tarifas de procesamiento premium cada dos años para tener en cuenta la inflación. Las tarifas continuarán ajustándose en toda la agencia para tener en cuenta la inflación y proteger el valor real en dólares del servicio de procesamiento premium que brindamos. Los ingresos generados por este aumento de tarifa se utilizarán para brindar servicios de procesamiento premium; realizar mejoras a los procesos de adjudicación; responder a las demandas de adjudicación, incluido el procesamiento de casos atrasados; y de otra manera financiar los servicios de adjudicación y naturalización de USCIS.",
+      "Esta regla entra en vigencia el 1 de marzo de 2026. Si usted presenta una solicitud de procesamiento premium con matasellos del 1 de marzo de 2026 en adelante, debe incluir la nueva tarifa correspondiente al beneficio específico que está solicitando. Las nuevas tarifas se enumeran en la tabla a continuación. Para solicitar el procesamiento premium, debe presentar el Formulario I-907, Solicitud de Procesamiento Premium (Request for Premium Processing), y seguir las instrucciones del formulario.",
+      "Formulario | Tarifa anterior | Nueva tarifa",
+      "Formulario I-129, Petición de Trabajador No Inmigrante, estatus de no inmigrante H-2B o R-1 | $1,685 | $1,780",
+      "Formulario I-129, Petición de Trabajador No Inmigrante, todas las demás clasificaciones disponibles del Formulario I-129:",
+      "E-1\nE-2\nE-3\nH-1B\nH-3\nL-1A\nL-1B\nLZ\nO-1\nO-2\nP-1\nP-1S\nP-2\nP-2S\nP-3\nP-3S\nQ-1\nTN-1\nTN-2",
+      "$2,805 | $2,965",
+      "Formulario I-140, Petición de Inmigrante para Trabajador Extranjero, clasificaciones basadas en empleo:",
+      "E11\nE12\nE13\nE21 (NIW y no NIW)\nE31\nE32\nEW3",
+      "$2,805 | $2,965",
+      "Formulario I-539, Solicitud para Extender/Cambiar el Estatus de No Inmigrante, solicitando:",
+      "F-1\nF-2\nJ-1\nJ-2\nM-1\nM-2",
+      "$1,965 | $2,075",
+      "Formulario I-765, Solicitud de Autorización de Empleo, para ciertas solicitudes elegibles (clasificaciones OPT y STEM-OPT) | $1,685 | $1,780",
+      "Usted solo puede solicitar el procesamiento premium para un beneficio si el procesamiento premium anunciado está disponible para ese beneficio.",
+      "09/01/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年1月9日",
+      "美国国土安全部(DHS)正在发布一项最终规则,该规则将提高移民局加急处理服务费,以反映2023年6月至2025年6月期间的通货膨胀幅度。",
+      "《美国公民及移民服务局稳定法案》确立了国土安全部每两年调整一次加急处理费以应对通货膨胀的权限。费用将继续在全局范围内进行调整,以应对通货膨胀并保护我们所提供的加急处理服务的实际货币价值。此次费用上调所产生的收入将用于提供加急处理服务;改善裁决流程;应对裁决需求,包括处理积压案件;以及为移民局的裁决和入籍服务提供资金。",
+      "本规则自2026年3月1日起生效。如果您提交的加急处理申请的邮戳日期为2026年3月1日或之后,您必须缴纳您所申请的具体福利对应的新费用。新费用列于下表中。如需申请加急处理,您必须提交I-907表格《加急处理申请表》,并按照表格说明进行操作。",
+      "表格 | 原费用 | 新费用",
+      "I-129表格,《非移民工人请愿书》,H-2B或R-1非移民身份 | 1,685美元 | 1,780美元",
+      "I-129表格,《非移民工人请愿书》,所有其他可用的I-129表格分类:",
+      "E-1\nE-2\nE-3\nH-1B\nH-3\nL-1A\nL-1B\nLZ\nO-1\nO-2\nP-1\nP-1S\nP-2\nP-2S\nP-3\nP-3S\nQ-1\nTN-1\nTN-2",
+      "2,805美元 | 2,965美元",
+      "I-140表格,《外籍工人移民请愿书》,职业类别:",
+      "E11\nE12\nE13\nE21(国家利益豁免及非国家利益豁免)\nE31\nE32\nEW3",
+      "2,805美元 | 2,965美元",
+      "I-539表格,《延长/变更非移民身份申请表》,申请以下身份:",
+      "F-1\nF-2\nJ-1\nJ-2\nM-1\nM-2",
+      "1,965美元 | 2,075美元",
+      "I-765表格,《就业授权申请表》,适用于某些符合条件的申请(OPT和STEM-OPT类别) | 1,685美元 | 1,780美元",
+      "您只能在已宣布某项福利可提供加急处理服务时,才可为该福利申请加急处理。",
+      "2026年1月9日"
+    ],
+    "ja": [
+      "発表日",
+      "2026年1月9日",
+      "国土安全保障省(DHS)は、2023年6月から2025年6月までのインフレ率を反映させるため、USCISのプレミアム処理手数料を引き上げる最終規則を公布する。",
+      "USCIS安定化法は、インフレを考慮してDHSが2年ごとにプレミアム処理手数料を調整する権限を定めている。手数料は、引き続き機関全体でインフレを考慮して調整され、当局が提供するプレミアム処理サービスの実質的な価値を保護するものである。この手数料引き上げによって生じる収入は、プレミアム処理サービスの提供、審査手続の改善、未処理案件の滞留を含む審査需要への対応、その他USCISの審査及び帰化サービスの財源として使用される。",
+      "本規則は2026年3月1日に発効する。2026年3月1日以降の消印があるプレミアム処理の申請を提出する場合は、申請する特定の便益に対応する新しい手数料を含める必要がある。新しい手数料は以下の表に記載されている。プレミアム処理を申請するには、Form I-907(プレミアム処理申請書)を提出し、当該様式の指示に従う必要がある。",
+      "様式 | 旧手数料 | 新手数料",
+      "Form I-129(非移民労働者申請書)、H-2BまたはR-1非移民資格 | 1,685ドル | 1,780ドル",
+      "Form I-129(非移民労働者申請書)、その他全ての利用可能なForm I-129分類:",
+      "E-1\nE-2\nE-3\nH-1B\nH-3\nL-1A\nL-1B\nLZ\nO-1\nO-2\nP-1\nP-1S\nP-2\nP-2S\nP-3\nP-3S\nQ-1\nTN-1\nTN-2",
+      "2,805ドル | 2,965ドル",
+      "Form I-140(外国人労働者移民申請書)、雇用ベースの分類:",
+      "E11\nE12\nE13\nE21(NIW及び非NIW)\nE31\nE32\nEW3",
+      "2,805ドル | 2,965ドル",
+      "Form I-539(非移民資格の延長・変更申請書)、以下を申請する場合:",
+      "F-1\nF-2\nJ-1\nJ-2\nM-1\nM-2",
+      "1,965ドル | 2,075ドル",
+      "Form I-765(就労許可申請書)、特定の対象となる申請(OPT及びSTEM-OPT分類)の場合 | 1,685ドル | 1,780ドル",
+      "プレミアム処理は、当該便益についてプレミアム処理が利用可能であると公表されている場合に限り、申請することができる。",
+      "2026年1月9日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
