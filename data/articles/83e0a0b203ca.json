@@ -1,0 +1,382 @@
+{
+  "id": "83e0a0b203ca",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06601/ensuring-citizenship-verification-and-integrity-in-federal-elections",
+  "original_title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+  "published": "2026-04-03",
+  "effective_date": null,
+  "importance": "low",
+  "category": "policy",
+  "tags": [
+    "Executive Order",
+    "Elections",
+    "SAVE Program"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "백악관, 연방 선거 시민권 확인 강화 행정명령 발표",
+      "summary": "이 행정명령은 연방 선거에서 투표권이 시민에게만 있음을 확인하기 위해 DHS와 SSA의 데이터를 활용한 주별 시민권 명단 작성, 우편투표 봉투의 고유 식별 표시 도입 등을 지시합니다. 미국 이민 비자나 체류 자격에는 직접적인 영향을 미치지 않습니다.",
+      "points": [
+        "DHS 산하 USCIS가 SSA 및 SAVE 프로그램 데이터를 활용해 각 주에 '주 시민권 명단'을 제공하도록 지시했습니다.",
+        "우편국(USPS)은 우편투표 봉투에 고유 바코드 등 식별 표시를 의무화하는 규칙 제정을 60일 내 시작해야 합니다.",
+        "법무부는 선거관리 공무원이나 단체가 자격 없는 개인에게 투표용지를 발급할 경우 수사 및 기소를 우선시하도록 했습니다.",
+        "이 명령은 미국 시민권자의 투표 자격 확인에 초점을 맞춘 것으로, 이민 비자나 영주권, 시민권 신청 절차 자체를 변경하지 않습니다."
+      ],
+      "who": "미국 선거관리 당국, USPS, DHS, SSA 등 관련 연방 및 주 기관이 대상이며, 일반 이민 신청자나 비자 소지자와는 직접 관련이 없습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "White House Executive Order Targets Citizenship Verification in Federal Elections",
+      "summary": "The executive order directs DHS, through USCIS and in coordination with SSA, to compile state citizenship lists to help verify voter eligibility for federal elections. It also directs USPS to begin rulemaking on unique identifiers for mail-in ballot envelopes, but it does not change immigration visa or citizenship application rules.",
+      "points": [
+        "DHS, via USCIS, must compile and transmit 'State Citizenship Lists' to state election officials using SSA and SAVE program data.",
+        "USPS must start a rulemaking within 60 days to require unique barcodes and official markings on mail-in ballot envelopes.",
+        "DOJ is directed to prioritize investigation and prosecution of election officials or entities issuing ballots to ineligible individuals.",
+        "The order addresses election administration and voter eligibility verification, not immigration benefits, visas, or naturalization procedures themselves."
+      ],
+      "who": "State and federal election officials, USPS, DHS and SSA are affected; the order does not directly affect visa applicants or immigration benefit seekers.",
+      "action": ""
+    },
+    "es": {
+      "title": "Casa Blanca emite orden ejecutiva sobre verificacion de ciudadania en elecciones federales",
+      "summary": "La orden ejecutiva instruye al DHS, a traves de USCIS y en coordinacion con la SSA, a elaborar listas estatales de ciudadania para ayudar a verificar la elegibilidad de los votantes en elecciones federales. Tambien ordena al Servicio Postal (USPS) iniciar un proceso normativo sobre identificadores unicos en sobres de voto por correo, pero no modifica reglas de visas ni de ciudadania migratoria.",
+      "points": [
+        "El DHS, a traves de USCIS, debe compilar y enviar 'Listas Estatales de Ciudadania' a los funcionarios electorales estatales usando datos de la SSA y el programa SAVE.",
+        "El USPS debe iniciar en 60 dias un proceso normativo para exigir codigos de barras unicos y marcas oficiales en los sobres de voto por correo.",
+        "El Departamento de Justicia debe priorizar la investigacion y, en su caso, el enjuiciamiento de funcionarios o entidades que entreguen boletas a personas no elegibles.",
+        "La orden se centra en la administracion electoral y la verificacion de elegibilidad de votantes, no en beneficios migratorios, visas o tramites de naturalizacion."
+      ],
+      "who": "Afecta a funcionarios electorales estatales y federales, al USPS, al DHS y a la SSA, pero no tiene efecto directo sobre solicitantes de visa o de beneficios migratorios.",
+      "action": ""
+    },
+    "zh": {
+      "title": "白宫发布行政令 加强联邦选举中的公民身份核实",
+      "summary": "该行政令要求国土安全部通过移民局并与社会保障署协调,编制各州公民身份清单,以协助核实联邦选举中的投票资格。该令还要求美国邮政总局启动规则制定程序,为邮寄选票信封加装唯一识别码,但不涉及移民签证或入籍申请规则的变化。",
+      "points": [
+        "国土安全部须通过移民局,利用社会保障署和SAVE系统数据,向各州选举官员提供公民身份清单。",
+        "美国邮政总局须在60天内启动规则制定,要求邮寄选票信封加印官方标识及唯一条形码。",
+        "司法部须优先调查并视情况起诉向不合资格人员发放选票的选举官员或相关实体。",
+        "该行政令重点在于选举管理和投票资格核实,并不改变移民签证、入籍或绿卡申请程序本身。"
+      ],
+      "who": "主要影响各州及联邦选举官员、美国邮政总局、国土安全部和社会保障署,对签证申请人或移民福利申请人没有直接影响。",
+      "action": ""
+    },
+    "ja": {
+      "title": "ホワイトハウス、連邦選挙における市民権確認強化の大統領令を発表",
+      "summary": "この大統領令は、国土安全保障省がUSCISを通じて社会保障庁と連携し、連邦選挙における投票資格確認のため各州の市民権リストを作成するよう指示しています。また、郵便投票用封筒に固有識別コードを導入する規則制定を米国郵政公社に命じていますが、移民ビザや市民権申請手続き自体には変更はありません。",
+      "points": [
+        "国土安全保障省はUSCISを通じ、社会保障庁とSAVEプログラムのデータを用いて各州選挙当局に「州市民権リスト」を提供する必要があります。",
+        "米国郵政公社は60日以内に、郵便投票用封筒への固有バーコードおよび公式表示の義務化に関する規則制定を開始しなければなりません。",
+        "司法省は、資格のない人物に投票用紙を発行した選挙管理者や団体の捜査および訴追を優先するよう指示されています。",
+        "この命令は選挙運営と投票資格確認に焦点を当てたものであり、移民ビザ、在留資格、帰化手続きそのものを変更するものではありません。"
+      ],
+      "who": "主に各州および連邦の選挙当局、米国郵政公社、国土安全保障省、社会保障庁が対象であり、ビザ申請者や移民関連の利益を求める個人には直接影響しません。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-13T01:09Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Executive Order 14399 of March 31, 2026"
+      },
+      {
+        "t": "h",
+        "x": "Ensuring Citizenship Verification and Integrity in Federal Elections"
+      },
+      {
+        "t": "p",
+        "x": "By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Help America Vote Act of 2002 (52 U.S.C. 20901 et seq.), the National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.), and the Federal Government's constitutional obligation to guarantee a republican form of Government to every State in the Union, U.S. Const. Art. IV, Sec. 4, it is hereby ordered:"
+      },
+      {
+        "t": "p",
+        "x": "Section 1 . Purpose and Policy. The right to vote in Federal elections is reserved exclusively for citizens of the United States under the Constitution and Federal law. Federal statutes explicitly prohibit non-citizens from registering to vote or voting in Federal elections and impose criminal penalties for violations. (18 U.S.C. 241; 18 U.S.C. 611; 18 U.S.C. 1015; and 52 U.S.C. 20511). The Social Security Administration (SSA) maintains records that, in conjunction with the Department of Homeland Security's (DHS) Systematic Alien Verification for Entitlements (SAVE) program under 42 U.S.C. 1320b-7, can assist in verifying identity and Federal election voter eligibility."
+      },
+      {
+        "t": "p",
+        "x": "The Federal Government has an unavoidable duty under Article II of the Constitution of the United States to enforce Federal law, which includes preventing violations of Federal criminal law and maintaining public confidence in election outcomes. To enhance election integrity via the United States Mail, additional measures are necessary. Secure ballot envelope identifiers provide a reliable, auditable mechanism to enforce Federal law without unduly burdening or infringing on the rights of eligible voters. Unique ballot envelope identifiers, such as bar codes, enable confirmation that only citizens receive and cast ballots, reducing the risk of fraud and protecting the integrity of Federal elections."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 2 . Establishment and Transmission of State Citizenship Lists and Prioritization of Investigations and Prosecutions Related to Election Fraud. (a) To the extent feasible and consistent with applicable law, including but not limited to the Privacy Act of 1974 (5 U.S.C. 552a), the Secretary of Homeland Security, through the Director of United States Citizenship and Immigration Services and in coordination with the Commissioner of SSA, shall take appropriate action to compile and transmit to the chief election official of each State a list of individuals confirmed to be United States citizens who will be above the age of 18 at the time of an upcoming Federal election and who maintain a residence in the subject State (State Citizenship List). The State Citizenship List shall be derived from Federal citizenship and naturalization records, SSA records, SAVE data, and other relevant Federal databases. The State Citizenship List shall be updated and transmitted to State election officials no fewer than 60 days before each regularly scheduled Federal election, or promptly upon request by a State in connection with any special Federal election. The Secretary of Homeland Security shall establish procedures to (i) allow individuals to access their individual records as well as to update or correct them in advance of elections; and (ii) enable States to routinely supplement and provide suggested modifications or amendments to the State Citizenship List transmitted thereto. An individual's identification on the State Citizenship List does not indicate that the individual has been properly registered to vote in the State. State and Federal laws and State procedures must still be followed ( printed page 17126) for an individual to be registered to vote. There may be State laws, not reflected in the State Citizenship List, that preclude voter registration, or the individual may choose not to be registered."
+      },
+      {
+        "t": "p",
+        "x": "(b) For purposes of this order, an individual is “eligible to vote in a Federal election” if the individual is a citizen of the United States, 18 years of age or older by the date of the upcoming election, and otherwise qualified under the laws of his or her State. The Attorney General shall prioritize the investigation and, as appropriate, the prosecution of State and local officials or any others involved in the administration of Federal elections who issue Federal ballots to individuals not eligible to vote in a Federal election, including under 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307, and 52 U.S.C. 20511. Similarly, the Attorney General shall prioritize the investigation and, as appropriate, the prosecution of individuals and public or private entities engaged in, or aiding and abetting, the printing, production, shipment, or distribution of ballots to individuals who are not eligible to vote in a Federal election."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 3 . United States Postal Service Rulemaking on Mail-In and Absentee Ballots. (a) The unlawful use of the mail in connection with elections is prohibited by various Federal statutes, including 18 U.S.C. 1341, 18 U.S.C. 1708, 52 U.S.C. 10307, and 52 U.S.C. 20511."
+      },
+      {
+        "t": "p",
+        "x": "(b) To ensure the faithful execution of Federal law, protect the integrity of the mail as a medium for transmitting Federal election ballots and establish uniform standards for mail-in or absentee ballot services implemented through the United States Postal Service (USPS), the Postmaster General is hereby directed to initiate a proposed rulemaking pursuant to 39 U.S.C. 401 and other applicable authority within 60 days of the date of this order. The notice of proposed rulemaking shall include, at minimum, the following:"
+      },
+      {
+        "t": "p",
+        "x": "(i) Proposed provisions specifying that all outbound ballot mail must be mailed in an envelope that:"
+      },
+      {
+        "t": "p",
+        "x": "(A) is marked as Official Election Mail, including through designated markings provided by USPS for this purpose, such as the Official Election Mail logo, as necessary and appropriate;"
+      },
+      {
+        "t": "p",
+        "x": "(B) is automation-compatible and bears a unique Intelligent Mail barcode, or successor USPS technology, that facilitates tracking and is consistent with the other requirements of this section; and"
+      },
+      {
+        "t": "p",
+        "x": "(C) has undergone a mail envelope design review by the USPS to ensure compliance with USPS mailing standards, including barcode placement."
+      },
+      {
+        "t": "p",
+        "x": "(ii) Proposed provisions specifying that, no fewer than 90 days prior to a Federal election, any State may choose to notify the USPS if it intends to allow for mail-in or absentee ballots to be transmitted by the USPS. As part of that notification, any notifying State should further indicate whether it intends to submit to the USPS, no fewer than 60 days before the election, a list of voters eligible to vote in a Federal election in such State to whom the State intends to provide a mail-in or absentee ballot to be transmitted via the USPS."
+      },
+      {
+        "t": "p",
+        "x": "(iii) Proposed provisions specifying that the USPS shall not transmit mail-in or absentee ballots from any individual unless those individuals have been enrolled on a State-specific list described in subsection (b)(iv) of this section with the USPS pursuant to this subsection."
+      },
+      {
+        "t": "p",
+        "x": "(iv) Proposed provisions specifying that the USPS shall provide each State with a list of individuals (Mail-In and Absentee Participation List) who are enrolled with the USPS, pursuant to a process specified in the rulemaking directed by this subsection, for mail-in or absentee ballots provided by such State, along with unique ballot envelope identifiers, such as bar codes, for mail-in or absentee ballots provided to such individuals. The preparation and transmission of each State-specific Mail-In and Absentee Participation List shall comply with the Privacy Act and all applicable use agreements. ( printed page 17127)"
+      },
+      {
+        "t": "p",
+        "x": "(v) Proposed procedures enabling each State to routinely supplement and provide suggested modifications or amendments to the State's Mail-In and Absentee Participation List in advance of any Federal election, consistent with applicable State law."
+      },
+      {
+        "t": "p",
+        "x": "(c) The USPS shall coordinate with the USPS Office of Inspector General and the Department of Justice for investigation of suspected unlawful use of the mail involving Federal election materials."
+      },
+      {
+        "t": "p",
+        "x": "(d) Any final rule pursuant to this section shall be issued no later than 120 days from the date of this order."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 4 . Implementation. (a) The Secretary of Homeland Security, the Commissioner of SSA, and the Postmaster General shall coordinate with the Secretary of Commerce in effectuating all relevant aspects of the implementation of this order."
+      },
+      {
+        "t": "p",
+        "x": "(b) The Attorney General shall enforce compliance with the applicable Federal statutes referenced herein and provide guidance to election officials, including any instrumentalities thereof; contractors; individuals involved in the administration of Federal elections; or public or private entities engaged in the printing, production, shipment, or distribution of ballots."
+      },
+      {
+        "t": "p",
+        "x": "(c) The Secretary of Homeland Security shall, within 90 days of the date of this order, establish the infrastructure necessary to compile, maintain, and transmit the State Citizenship List described in section 2(a) of this order, and shall designate a point of contact within DHS to receive and process requests from individuals and State election officials regarding the relevant State Citizenship List. The Commissioner of SSA shall provide all necessary citizenship and identity data to the Secretary of Homeland Security in support of this requirement, consistent with applicable law, the Privacy Act, and all applicable use agreements."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 5 . Enforcement. The Attorney General and the heads of executive departments and agencies (agencies) with relevant authority shall take all lawful steps to deter and address noncompliance with Federal law, including withholding Federal funds from noncompliant States and localities where such withholding is authorized by law. Evidence of violations of existing Federal laws by State or local election officials; States or localities, including any instrumentalities thereof; contractors; individuals involved in the administration of Federal elections; or public or private entities engaged in the printing, production, shipment, or distribution of ballots may be referred to the Department of Justice for consideration of investigation or charges under 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307, and 52 U.S.C. 20511. States and localities should preserve, for a 5-year period, all records and materials—excluding ballots cast—evidencing voter participation in any Federal election ( e.g., ballot envelopes, regardless of carrier)."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 6 . Severability. If any provision of this order, or the application of any provision to any agency, person, or circumstance, is held to be invalid, the remainder of this order and the application of its provisions to any other agencies, persons, or circumstances shall not be affected thereby."
+      },
+      {
+        "t": "p",
+        "x": "Sec. 7 . General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:"
+      },
+      {
+        "t": "p",
+        "x": "(i) the authority granted by law to an executive department or agency, or the head thereof; or"
+      },
+      {
+        "t": "p",
+        "x": "(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals."
+      },
+      {
+        "t": "p",
+        "x": "(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 17128)"
+      },
+      {
+        "t": "p",
+        "x": "(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
+      },
+      {
+        "t": "p",
+        "x": "THE WHITE HOUSE,"
+      },
+      {
+        "t": "p",
+        "x": "March 31, 2026."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-06601"
+      },
+      {
+        "t": "p",
+        "x": "Filed 4-2-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 3395-F4-P"
+      }
+    ],
+    "fetched": "2026-10-13T01:09Z",
+    "from": "federalregister.gov",
+    "chars": 11758
+  },
+  "full": {
+    "ko": [
+      "2026년 3월 31일자 행정명령 14399호",
+      "연방 선거에서의 시민권 확인 및 선거 무결성 보장",
+      "미국 헌법 및 법률에 의하여 본인에게 부여된 대통령으로서의 권한, 그중에서도 2002년 미국투표지원법(Help America Vote Act of 2002, 52 U.S.C. 20901 이하), 1993년 전국유권자등록법(National Voter Registration Act of 1993, 52 U.S.C. 20501 이하), 그리고 연방 내 모든 주에 공화정체 형태의 정부를 보장할 연방정부의 헌법상 의무(미국 헌법 제4조 제4항)에 의거하여, 이에 다음과 같이 명한다.",
+      "제1조. 목적 및 정책. 연방 선거에서의 투표권은 헌법 및 연방법에 따라 오로지 미합중국 시민에게만 부여된다. 연방 법령은 비시민권자가 연방 선거에서 유권자로 등록하거나 투표하는 것을 명시적으로 금지하고 있으며, 이를 위반할 경우 형사 처벌을 부과한다(18 U.S.C. 241, 18 U.S.C. 611, 18 U.S.C. 1015, 및 52 U.S.C. 20511). 사회보장청(Social Security Administration, SSA)은 42 U.S.C. 1320b-7에 따른 국토안보부(Department of Homeland Security, DHS)의 수급자격 체계적 외국인 검증(Systematic Alien Verification for Entitlements, SAVE) 프로그램과 함께 신원 확인 및 연방 선거 유권자 자격 확인을 지원할 수 있는 기록을 보유하고 있다.",
+      "연방정부는 미국 헌법 제2조에 따라 연방법을 집행할 불가피한 의무를 지니며, 이는 연방 형법 위반을 방지하고 선거 결과에 대한 공공의 신뢰를 유지하는 것을 포함한다. 미국 우편을 통한 선거의 무결성을 강화하기 위하여 추가적인 조치가 필요하다. 보안 투표 봉투 식별자는 적격 유권자의 권리를 부당하게 저해하거나 침해하지 아니하면서 연방법을 집행할 수 있는 신뢰성 있고 감사 가능한 수단을 제공한다. 바코드와 같은 고유 투표 봉투 식별자는 오직 시민만이 투표용지를 수령하고 투표할 수 있도록 확인함으로써 부정행위의 위험을 줄이고 연방 선거의 무결성을 보호한다.",
+      "제2조. 주 시민권 명부의 작성 및 전달, 그리고 선거 부정 관련 수사 및 기소의 우선순위화. (가) 실행 가능한 범위 내에서 그리고 1974년 프라이버시법(Privacy Act of 1974, 5 U.S.C. 552a)을 포함하되 이에 국한되지 아니하는 관계 법령에 부합하는 범위 내에서, 국토안보부 장관은 미국 시민권·이민국(United States Citizenship and Immigration Services) 국장을 통하여 그리고 사회보장청장과 협력하여, 다가오는 연방 선거 당시 18세를 초과하게 되며 해당 주에 거주지를 유지하고 있는 것으로 확인된 미합중국 시민 명단(주 시민권 명부)을 작성하여 각 주의 수석 선거 관리에게 전달하기 위한 적절한 조치를 취하여야 한다. 주 시민권 명부는 연방 시민권 및 귀화 기록, 사회보장청 기록, SAVE 데이터 및 기타 관련 연방 데이터베이스로부터 도출되어야 한다. 주 시민권 명부는 정기적으로 예정된 연방 선거일 최소 60일 전에 갱신되어 주 선거 관리에게 전달되어야 하며, 특별 연방 선거와 관련하여 주의 요청이 있는 경우에는 신속히 전달되어야 한다. 국토안보부 장관은 다음을 위한 절차를 수립하여야 한다. (i) 개인이 선거 전에 자신의 개별 기록에 접근하고 이를 갱신하거나 정정할 수 있도록 허용하는 것, 그리고 (ii) 주가 자신에게 전달된 주 시민권 명부에 대하여 통상적으로 보완하고 수정 또는 개정을 제안할 수 있도록 하는 것. 개인이 주 시민권 명부에 등재되어 있다는 사실이 그 개인이 해당 주에서 적법하게 유권자로 등록되었음을 의미하지는 아니한다. 개인이 유권자로 등록되기 위하여는 (인쇄본 17126면) 주 및 연방 법률과 주의 절차가 여전히 준수되어야 한다. 주 시민권 명부에 반영되지 아니한 주법으로서 유권자 등록을 금지하는 법이 존재할 수 있으며, 또는 해당 개인이 등록을 원하지 아니할 수도 있다.",
+      "(b) 본 행정명령의 목적상, 개인이 미합중국 시민이고, 다가오는 선거일 기준으로 18세 이상이며, 그 밖에 자신이 속한 주의 법률상 자격을 갖춘 경우, 해당 개인은 연방 선거에서 투표할 자격이 있는 것으로 본다. 법무장관은 연방 선거 관리에 관여하는 주 및 지방 공무원 또는 그 밖의 자가 연방 선거에서 투표할 자격이 없는 개인에게 연방 투표용지를 발급하는 행위에 대하여, 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307 및 52 U.S.C. 20511을 포함하여, 수사 및 적절한 경우 기소를 우선적으로 수행하여야 한다. 이와 마찬가지로, 법무장관은 연방 선거에서 투표할 자격이 없는 개인에게 투표용지를 인쇄, 제작, 발송 또는 배포하거나 이를 방조한 개인 및 공공 또는 민간 단체에 대한 수사 및 적절한 경우 기소를 우선적으로 수행하여야 한다.",
+      "제3조. 우편투표 및 부재자투표에 관한 미국우정공사(United States Postal Service, USPS)의 규칙 제정. (a) 선거와 관련된 우편의 불법적인 사용은 18 U.S.C. 1341, 18 U.S.C. 1708, 52 U.S.C. 10307 및 52 U.S.C. 20511을 포함한 다양한 연방 법률에 의하여 금지된다.",
+      "(b) 연방법의 성실한 집행을 보장하고, 연방 선거 투표용지를 전달하는 수단으로서 우편의 완전성을 보호하며, 미국우정공사(USPS)를 통하여 시행되는 우편투표 또는 부재자투표 서비스에 관한 통일된 기준을 수립하기 위하여, 우정공사 총재(Postmaster General)는 본 행정명령일로부터 60일 이내에 39 U.S.C. 401 및 그 밖의 적용 가능한 권한에 따라 규칙 제정안을 개시하도록 이에 지시한다. 규칙 제정 예고안에는 최소한 다음 사항이 포함되어야 한다.",
+      "(i) 모든 발송용 투표용지 우편물은 다음 요건을 충족하는 봉투에 넣어 발송하여야 한다는 점을 명시하는 제안 규정.",
+      "(A) 필요하고 적절한 경우, 미국우정공사가 이 목적을 위하여 제공하는 공식 선거 우편 로고 등 지정된 표시를 포함하여 공식 선거 우편물(Official Election Mail)로 표시되어야 한다.",
+      "(B) 자동화 처리가 가능하여야 하며, 추적을 용이하게 하고 본 조의 그 밖의 요건에 부합하는 고유한 지능형 우편 바코드(Intelligent Mail barcode) 또는 이를 대체하는 미국우정공사의 기술을 부착하여야 한다. 그리고",
+      "(C) 바코드 배치를 포함하여 미국우정공사의 우편 기준 준수 여부를 확인하기 위하여 미국우정공사의 우편봉투 디자인 검토를 거쳐야 한다.",
+      "(ii) 연방 선거일로부터 최소 90일 전에, 각 주는 미국우정공사를 통하여 우편투표 또는 부재자투표가 전달되도록 허용할 의사가 있는지 여부를 미국우정공사에 통지할 수 있다는 점을 명시하는 제안 규정. 이러한 통지를 하는 각 주는 또한, 선거일로부터 최소 60일 전에, 해당 주에서 연방 선거에 투표할 자격이 있는 유권자로서 미국우정공사를 통하여 전달되는 우편투표 또는 부재자투표를 해당 주가 제공하고자 하는 자들의 명단을 미국우정공사에 제출할 의사가 있는지 여부를 나타내야 한다.",
+      "(iii) 미국우정공사는 본 항에 따라 미국우정공사에 등록된, 본 조 (b)(iv)항에서 기술된 주별 명단에 등재되지 아니한 개인으로부터의 우편투표 또는 부재자투표를 전달하여서는 아니 된다는 점을 명시하는 제안 규정.",
+      "(iv) 미국우정공사는 본 항에 의하여 지시된 규칙 제정에서 명시된 절차에 따라, 해당 주가 제공하는 우편투표 또는 부재자투표를 위하여 미국우정공사에 등록된 개인들의 명단(우편 및 부재자 참여 명단, Mail-In and Absentee Participation List)을, 해당 개인들에게 제공되는 우편투표 또는 부재자투표용 바코드 등 고유한 투표용지 봉투 식별자와 함께 각 주에 제공하여야 한다는 점을 명시하는 제안 규정. 각 주별 우편 및 부재자 참여 명단의 작성 및 전달은 프라이버시법(Privacy Act) 및 모든 적용 가능한 사용 협약을 준수하여야 한다. (인쇄본 17127페이지)",
+      "(v) 각 주가 적용 가능한 주법에 부합하는 방식으로, 연방 선거에 앞서 해당 주의 우편 및 부재자 참여 명단을 정기적으로 보완하고 수정 또는 변경을 제안할 수 있도록 하는 제안 절차.",
+      "(c) 미국우정공사는 연방 선거 자료와 관련된 우편의 불법적 사용이 의심되는 사건의 수사를 위하여 미국우정공사 감찰관실(USPS Office of Inspector General) 및 법무부와 협력하여야 한다.",
+      "(d) 본 조에 따른 최종 규칙은 본 행정명령일로부터 120일을 넘기지 아니하는 범위 내에 공표되어야 한다.",
+      "제4조. 시행. (가) 국토안보부 장관, 사회보장청(SSA) 청장 및 체신청장은 상무부 장관과 협력하여 본 행정명령 시행의 모든 관련 사항을 이행하여야 한다.",
+      "(나) 법무부 장관은 본 명령에서 언급된 관련 연방 법령의 준수를 집행하며, 선거관리관, 이와 관련된 모든 기관을 포함하여, 계약업체, 연방 선거 관리에 관여하는 개인, 또는 투표용지의 인쇄, 제작, 운송 또는 배포에 종사하는 공공 또는 민간 단체에 대하여 지침을 제공하여야 한다.",
+      "(다) 국토안보부 장관은 본 명령일로부터 90일 이내에 본 명령 제2조(가)항에서 설명한 주(州) 시민권 명부를 작성, 유지 및 전송하는 데 필요한 기반 체계를 구축하여야 하며, 개인 및 주 선거관리관으로부터 관련 주 시민권 명부에 관한 요청을 접수하여 처리할 국토안보부(DHS) 내 담당 연락 창구를 지정하여야 한다. 사회보장청 청장은 적용 법령, 개인정보보호법(Privacy Act) 및 모든 해당 사용 협정에 부합하는 범위 내에서, 이러한 요건을 지원하기 위하여 필요한 모든 시민권 및 신원 관련 자료를 국토안보부 장관에게 제공하여야 한다.",
+      "제5조. 집행. 법무부 장관 및 관련 권한을 보유한 행정부처 및 기관(이하 기관)의 장은 연방법 위반을 억제하고 이에 대응하기 위하여 모든 합법적인 조치를 취하여야 하며, 이에는 법률상 허용되는 경우 위반 주 및 지방자치단체에 대한 연방 자금 지원 보류가 포함된다. 주 또는 지방 선거관리관, 주 또는 지방자치단체, 이와 관련된 모든 기관을 포함하여, 계약업체, 연방 선거 관리에 관여하는 개인, 또는 투표용지의 인쇄, 제작, 운송 또는 배포에 종사하는 공공 또는 민간 단체에 의한 기존 연방법 위반의 증거는 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307 및 52 U.S.C. 20511에 따른 수사 또는 기소 여부 검토를 위하여 법무부에 회부될 수 있다. 주 및 지방자치단체는 투표된 투표용지를 제외하고, 연방 선거에서의 유권자 참여를 입증하는 모든 기록 및 자료(예: 운송 수단과 관계없이 투표용지 봉투)를 5년의 기간 동안 보존하여야 한다.",
+      "제6조. 가분성. 본 명령의 어떠한 조항 또는 그 조항을 특정 기관, 개인 또는 상황에 적용하는 것이 무효로 판정되는 경우에도, 본 명령의 나머지 부분 및 그 조항을 다른 기관, 개인 또는 상황에 적용하는 것에는 영향을 미치지 아니한다.",
+      "제7조. 일반 조항. (가) 본 명령의 어떠한 내용도 다음 사항을 침해하거나 달리 영향을 미치는 것으로 해석되어서는 아니 된다.",
+      "(i) 행정부처나 기관 또는 그 장에게 법률로 부여된 권한, 또는",
+      "(ii) 예산, 행정 또는 입법 제안과 관련된 관리예산실(Office of Management and Budget) 실장의 기능.",
+      "(나) 본 명령은 적용 법령에 부합하는 범위 내에서 그리고 세출예산의 가용성을 조건으로 시행된다.",
+      "(인쇄본 17128면)",
+      "(다) 본 명령은 미합중국, 그 부처, 기관 또는 단체, 그 공무원, 직원 또는 대리인, 또는 그 밖의 모든 당사자에 대하여 법률상 또는 형평법상 집행 가능한 실체적 또는 절차적 권리나 이익을 창설하려는 것이 아니며, 또한 창설하지 아니한다.",
+      "백악관,",
+      "2026년 3월 31일.",
+      "[연방관보 문서 2026-06601",
+      "접수 2026년 4월 2일 오전 11시 15분]",
+      "청구 코드 3395-F4-P"
+    ],
+    "es": [
+      "Orden Ejecutiva 14399 del 31 de marzo de 2026",
+      "Garantía de Verificación de Ciudadanía e Integridad en las Elecciones Federales",
+      "En virtud de la autoridad que me confiere la Constitución y las leyes de los Estados Unidos de América como Presidente, incluyendo la Ley de Ayuda América a Votar de 2002 (Help America Vote Act) (52 U.S.C. 20901 y siguientes), la Ley Nacional de Registro de Votantes de 1993 (National Voter Registration Act) (52 U.S.C. 20501 y siguientes), y la obligación constitucional del Gobierno Federal de garantizar una forma republicana de Gobierno a cada Estado de la Unión, Const. de EE. UU., Art. IV, Secc. 4, por la presente se ordena lo siguiente:",
+      "Sección 1. Propósito y Política. El derecho al voto en las elecciones federales está reservado exclusivamente a los ciudadanos de los Estados Unidos conforme a la Constitución y la legislación federal. Las leyes federales prohíben explícitamente que los no ciudadanos se registren para votar o voten en elecciones federales e imponen sanciones penales por infracciones. (18 U.S.C. 241; 18 U.S.C. 611; 18 U.S.C. 1015; y 52 U.S.C. 20511). La Administración del Seguro Social (SSA, por sus siglas en inglés) mantiene registros que, en conjunto con el programa de Verificación Sistemática de la Condición Migratoria para Prestaciones (SAVE, por sus siglas en inglés) del Departamento de Seguridad Nacional (DHS, por sus siglas en inglés) conforme al 42 U.S.C. 1320b-7, pueden ayudar a verificar la identidad y la elegibilidad de los votantes en las elecciones federales.",
+      "El Gobierno Federal tiene el deber ineludible, conforme al Artículo II de la Constitución de los Estados Unidos, de hacer cumplir la legislación federal, lo cual incluye prevenir infracciones del derecho penal federal y mantener la confianza pública en los resultados electorales. Para fortalecer la integridad electoral a través del Servicio Postal de los Estados Unidos, son necesarias medidas adicionales. Los identificadores seguros en los sobres de boletas proporcionan un mecanismo confiable y auditable para hacer cumplir la legislación federal sin imponer una carga indebida ni infringir los derechos de los votantes elegibles. Los identificadores únicos en los sobres de boletas, tales como códigos de barras, permiten confirmar que solo los ciudadanos reciban y emitan boletas, reduciendo el riesgo de fraude y protegiendo la integridad de las elecciones federales.",
+      "Secc. 2. Establecimiento y Transmisión de las Listas Estatales de Ciudadanía y Priorización de Investigaciones y Procesamientos Relacionados con el Fraude Electoral. (a) En la medida en que sea viable y conforme a la legislación aplicable, incluyendo entre otras la Ley de Privacidad de 1974 (Privacy Act) (5 U.S.C. 552a), el Secretario de Seguridad Nacional, a través del Director de los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) y en coordinación con el Comisionado de la SSA, tomará las medidas pertinentes para compilar y transmitir al funcionario electoral principal de cada Estado una lista de personas confirmadas como ciudadanos de los Estados Unidos que tendrán más de 18 años de edad al momento de una próxima elección federal y que mantengan residencia en el Estado correspondiente (Lista Estatal de Ciudadanía). La Lista Estatal de Ciudadanía se derivará de los registros federales de ciudadanía y naturalización, los registros de la SSA, los datos del programa SAVE y otras bases de datos federales pertinentes. La Lista Estatal de Ciudadanía se actualizará y transmitirá a los funcionarios electorales estatales con no menos de 60 días de anticipación a cada elección federal programada regularmente, o de manera expedita a solicitud de un Estado en relación con cualquier elección federal especial. El Secretario de Seguridad Nacional establecerá procedimientos para (i) permitir que las personas accedan a sus registros individuales, así como actualizarlos o corregirlos con anticipación a las elecciones; y (ii) permitir que los Estados complementen de manera rutinaria y proporcionen sugerencias de modificaciones o enmiendas a la Lista Estatal de Ciudadanía que se les transmita. La inclusión de una persona en la Lista Estatal de Ciudadanía no indica que dicha persona haya sido debidamente registrada para votar en el Estado. Las leyes estatales y federales, así como los procedimientos estatales, deben seguirse aún (página impresa 17126) para que una persona sea registrada para votar. Puede haber leyes estatales, no reflejadas en la Lista Estatal de Ciudadanía, que impidan el registro de votantes, o la persona puede optar por no registrarse.",
+      "(b) Para los fines de esta orden, una persona es “elegible para votar en una elección federal” si dicha persona es ciudadana de los Estados Unidos, tiene 18 años de edad o más a la fecha de la próxima elección y, por lo demás, cumple con los requisitos conforme a las leyes de su Estado. El Fiscal General deberá priorizar la investigación y, según corresponda, el enjuiciamiento de funcionarios estatales y locales, o de cualquier otra persona involucrada en la administración de elecciones federales, que emitan boletas federales a personas que no sean elegibles para votar en una elección federal, incluso conforme a 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307 y 52 U.S.C. 20511. De igual manera, el Fiscal General deberá priorizar la investigación y, según corresponda, el enjuiciamiento de personas y entidades públicas o privadas que participen, o que ayuden e instiguen, en la impresión, producción, envío o distribución de boletas a personas que no sean elegibles para votar en una elección federal.",
+      "Sec. 3. Elaboración de Normas del Servicio Postal de los Estados Unidos sobre Boletas por Correo y de Voto en Ausencia. (a) El uso ilícito del correo en relación con las elecciones está prohibido por diversos estatutos federales, incluidos 18 U.S.C. 1341, 18 U.S.C. 1708, 52 U.S.C. 10307 y 52 U.S.C. 20511.",
+      "(b) Para garantizar la ejecución fiel de la ley federal, proteger la integridad del correo como medio para transmitir boletas de elecciones federales y establecer normas uniformes para los servicios de voto por correo o en ausencia implementados a través del Servicio Postal de los Estados Unidos (USPS, por sus siglas en inglés), se ordena por la presente al Director General de Correos que inicie un proceso de elaboración de normas propuestas conforme a 39 U.S.C. 401 y otra autoridad aplicable, dentro de los 60 días siguientes a la fecha de esta orden. El aviso de propuesta de elaboración de normas deberá incluir, como mínimo, lo siguiente:",
+      "(i) Disposiciones propuestas que especifiquen que todo correo de boletas saliente debe enviarse en un sobre que:",
+      "(A) esté marcado como Correo Electoral Oficial, incluso mediante las marcas designadas que el USPS proporcione para este fin, tales como el logotipo de Correo Electoral Oficial, según sea necesario y apropiado;",
+      "(B) sea compatible con la automatización y lleve un código de barras de Correo Inteligente único, o la tecnología sucesora del USPS, que facilite el rastreo y sea coherente con los demás requisitos de esta sección; y",
+      "(C) haya sido sometido a una revisión de diseño de sobres de correo por parte del USPS para garantizar el cumplimiento de las normas de envío postal del USPS, incluida la ubicación del código de barras.",
+      "(ii) Disposiciones propuestas que especifiquen que, con no menos de 90 días de anticipación a una elección federal, cualquier Estado podrá optar por notificar al USPS si tiene la intención de permitir que las boletas de voto por correo o en ausencia sean transmitidas por el USPS. Como parte de dicha notificación, el Estado notificante deberá además indicar si tiene la intención de presentar al USPS, con no menos de 60 días de anticipación a la elección, una lista de votantes elegibles para votar en una elección federal en dicho Estado a quienes el Estado tiene la intención de proporcionar una boleta de voto por correo o en ausencia que será transmitida a través del USPS.",
+      "(iii) Disposiciones propuestas que especifiquen que el USPS no deberá transmitir boletas de voto por correo o en ausencia de ninguna persona a menos que dichas personas hayan sido inscritas en una lista específica del Estado, conforme a lo descrito en la subsección (b)(iv) de esta sección, ante el USPS de conformidad con esta subsección.",
+      "(iv) Disposiciones propuestas que especifiquen que el USPS deberá proporcionar a cada Estado una lista de personas (Lista de Participación en Voto por Correo y en Ausencia) que estén inscritas ante el USPS, conforme a un proceso especificado en la elaboración de normas ordenada por esta subsección, para las boletas de voto por correo o en ausencia proporcionadas por dicho Estado, junto con identificadores únicos de sobres de boleta, tales como códigos de barras, para las boletas de voto por correo o en ausencia proporcionadas a dichas personas. La preparación y transmisión de cada Lista de Participación en Voto por Correo y en Ausencia específica de cada Estado deberá cumplir con la Ley de Privacidad (Privacy Act) y todos los acuerdos de uso aplicables. (página impresa 17127)",
+      "(v) Procedimientos propuestos que permitan a cada Estado complementar de manera rutinaria y proporcionar modificaciones o enmiendas sugeridas a la Lista de Participación en Voto por Correo y en Ausencia del Estado, con antelación a cualquier elección federal, de conformidad con la ley estatal aplicable.",
+      "(c) El USPS deberá coordinarse con la Oficina del Inspector General del USPS y con el Departamento de Justicia para la investigación de sospechas de uso ilícito del correo relacionado con materiales de elecciones federales.",
+      "(d) Toda norma definitiva emitida conforme a esta sección deberá publicarse a más tardar 120 días después de la fecha de esta orden.",
+      "Sec. 4 . Implementación. (a) El Secretario de Seguridad Nacional, el Comisionado de la Administración del Seguro Social (SSA) y el Director General de Correos coordinarán con el Secretario de Comercio la ejecución de todos los aspectos pertinentes de la implementación de esta orden.",
+      "(b) El Procurador General hará cumplir las leyes federales aplicables mencionadas en este documento y proporcionará orientación a los funcionarios electorales, incluidas cualesquiera de sus instrumentalidades; contratistas; personas involucradas en la administración de elecciones federales; o entidades públicas o privadas dedicadas a la impresión, producción, envío o distribución de boletas electorales.",
+      "(c) El Secretario de Seguridad Nacional, dentro de los 90 días siguientes a la fecha de esta orden, establecerá la infraestructura necesaria para compilar, mantener y transmitir la Lista de Ciudadanía Estatal descrita en la sección 2(a) de esta orden, y designará un punto de contacto dentro del Departamento de Seguridad Nacional (DHS) para recibir y procesar solicitudes de personas y funcionarios electorales estatales relacionadas con la Lista de Ciudadanía Estatal correspondiente. El Comisionado de la SSA proporcionará todos los datos de ciudadanía e identidad necesarios al Secretario de Seguridad Nacional para respaldar este requisito, de conformidad con la ley aplicable, la Ley de Privacidad y todos los acuerdos de uso aplicables.",
+      "Sec. 5 . Aplicación. El Procurador General y los jefes de los departamentos y agencias ejecutivos (agencias) con autoridad pertinente tomarán todas las medidas legales necesarias para disuadir y abordar el incumplimiento de la ley federal, incluida la retención de fondos federales a los estados y localidades que incumplan, en los casos en que dicha retención esté autorizada por la ley. La evidencia de violaciones de las leyes federales vigentes por parte de funcionarios electorales estatales o locales; estados o localidades, incluidas cualesquiera de sus instrumentalidades; contratistas; personas involucradas en la administración de elecciones federales; o entidades públicas o privadas dedicadas a la impresión, producción, envío o distribución de boletas electorales, podrá remitirse al Departamento de Justicia para que se considere su investigación o el inicio de cargos conforme a 18 U.S.C. 2(a), 18 U.S.C. 241, 18 U.S.C. 371, 18 U.S.C. 611(a), 18 U.S.C. 1001, 18 U.S.C. 1015, 52 U.S.C. 10307 y 52 U.S.C. 20511. Los estados y localidades deberán conservar, durante un período de 5 años, todos los registros y materiales (con excepción de las boletas emitidas) que acrediten la participación de los votantes en cualquier elección federal (por ejemplo, los sobres de las boletas, independientemente del transportista).",
+      "Sec. 6 . Separabilidad. Si alguna disposición de esta orden, o la aplicación de alguna disposición a cualquier agencia, persona o circunstancia, se considerara inválida, el resto de esta orden y la aplicación de sus disposiciones a cualesquiera otras agencias, personas o circunstancias no se verán afectadas por ello.",
+      "Sec. 7 . Disposiciones Generales. (a) Nada en esta orden se interpretará en el sentido de menoscabar o afectar de otro modo:",
+      "(i) la autoridad otorgada por ley a un departamento o agencia ejecutivo, o a su titular; ni",
+      "(ii) las funciones del Director de la Oficina de Administración y Presupuesto relacionadas con propuestas presupuestarias, administrativas o legislativas.",
+      "(b) Esta orden se implementará de conformidad con la ley aplicable y sujeta a la disponibilidad de asignaciones presupuestarias.",
+      "(página impresa 17128)",
+      "(c) Esta orden no pretende crear, ni crea, ningún derecho o beneficio, sustantivo o procesal, exigible por ley o en equidad por cualquier parte en contra de los Estados Unidos, sus departamentos, agencias o entidades, sus funcionarios, empleados o agentes, ni ninguna otra persona.",
+      "LA CASA BLANCA,",
+      "31 de marzo de 2026.",
+      "[Doc. del FR 2026-06601",
+      "Presentado el 2-4-26; 11:15 a.m.]",
+      "Código de facturación 3395-F4-P"
+    ],
+    "zh": [
+      "2026年3月31日第14399号行政命令",
+      "确保联邦选举中的公民身份核实与完整性",
+      "本人依据美利坚合众国宪法和法律授予总统的职权,包括《2002年美国投票便利法》(Help America Vote Act of 2002,52 U.S.C. 20901及其后条款)、《1993年全国选民登记法》(National Voter Registration Act of 1993,52 U.S.C. 20501及其后条款),以及联邦政府依据《宪法》第四条第四款(U.S. Const. Art. IV, Sec. 4)向联邦内每一州保障共和政体的宪法义务,特此命令如下:",
+      "第一节 . 目的与政策。根据宪法和联邦法律,联邦选举投票权专属于美利坚合众国公民。联邦法律明确禁止非公民登记投票或在联邦选举中投票,并对违反者处以刑事处罚。(18 U.S.C. 241;18 U.S.C. 611;18 U.S.C. 1015;以及52 U.S.C. 20511)。社会保障总署(Social Security Administration, SSA)保存的记录,结合国土安全部(Department of Homeland Security, DHS)依据42 U.S.C. 1320b-7设立的权益系统性外国人核实计划(Systematic Alien Verification for Entitlements, SAVE),可协助核实身份和联邦选举投票资格。",
+      "根据美利坚合众国宪法第二条,联邦政府负有不可推卸的执行联邦法律的责任,其中包括防止违反联邦刑事法律以及维护公众对选举结果的信心。为通过美国邮政系统加强选举完整性,有必要采取额外措施。安全选票信封标识符提供了一种可靠、可审计的机制,用以执行联邦法律,同时不会对合格选民造成不当负担或侵犯其权利。独特的选票信封标识符,例如条形码,能够确认只有公民收到并投出选票,从而降低欺诈风险,保护联邦选举的完整性。",
+      "第二节 . 建立和传输各州公民身份名单并优先处理与选举欺诈相关的调查和起诉。(a) 在可行范围内,并在符合适用法律的前提下,包括但不限于《1974年隐私法》(Privacy Act of 1974,5 U.S.C. 552a),国土安全部部长应通过美国公民及移民服务局(United States Citizenship and Immigration Services)局长,并与社会保障总署署长协调,采取适当行动,汇编并向各州首席选举官员传输一份名单,列明已确认为美利坚合众国公民、在即将举行的联邦选举时将年满18岁且在该州保有住所的个人(州公民身份名单)。州公民身份名单应来源于联邦公民身份和入籍记录、社会保障总署记录、SAVE数据以及其他相关联邦数据库。州公民身份名单应在每次定期举行的联邦选举前不少于60天更新并传输给州选举官员,或在州就任何特别联邦选举提出请求后及时传输。国土安全部部长应制定程序,以便(i)允许个人在选举前查阅其个人记录以及更新或更正记录;以及(ii)使各州能够经常性地补充并提供对传输给其的州公民身份名单的建议修改或修正意见。个人被列入州公民身份名单并不表示该个人已在该州正式完成选民登记。个人要完成选民登记,仍必须遵循(印刷页第17126页)州和联邦法律以及州程序。可能存在州公民身份名单中未反映的州法律,阻止选民登记,或者该个人可能选择不进行登记。",
+      "(b)就本行政令而言,如果个人是美国公民,在即将举行的选举之日年满18周岁或以上,并且根据其所在州的法律符合其他资格条件,则该个人“具备参加联邦选举投票的资格”。司法部长应优先调查并酌情起诉参与联邦选举管理的州和地方官员或任何其他人员,这些人员向不具备联邦选举投票资格的个人签发联邦选票,包括违反《美国法典》第18编第2(a)条、第241条、第371条、第611(a)条、第1001条、第1015条,以及《美国法典》第52编第10307条和第20511条的行为。同样,司法部长应优先调查并酌情起诉从事或协助、教唆向不具备联邦选举投票资格的个人印刷、制作、运送或分发选票的个人以及公共或私人实体。",
+      "第3节 美国邮政管理局关于邮寄选票和缺席选票的规则制定。(a)与选举有关的邮件非法使用行为受多项联邦法规禁止,包括《美国法典》第18编第1341条、第1708条,以及《美国法典》第52编第10307条和第20511条。",
+      "(b)为确保联邦法律得到忠实执行,保护邮件作为传递联邦选举选票媒介的完整性,并为通过美国邮政管理局(USPS)实施的邮寄或缺席选票服务建立统一标准,现指示邮政总局局长根据《美国法典》第39编第401条及其他适用授权,在本行政令发布之日起60日内启动拟议规则制定程序。拟议规则制定通知至少应包括以下内容:",
+      "(i)规定所有寄出的选票邮件必须装入符合以下条件的信封的拟议条款:",
+      "(A)标有“官方选举邮件”字样,包括视需要和适当情况使用美国邮政管理局为此目的提供的指定标识,例如官方选举邮件标志;",
+      "(B)具备自动化兼容性,并带有便于追踪的唯一智能邮件条形码或美国邮政管理局的后续技术,且符合本节其他要求;以及",
+      "(C)已经过美国邮政管理局的邮件信封设计审查,以确保符合美国邮政管理局的邮寄标准,包括条形码位置的要求。",
+      "(ii)规定任何州可在联邦选举之日前不少于90天选择通知美国邮政管理局其是否打算允许通过美国邮政管理局传递邮寄或缺席选票的拟议条款。作为该通知的一部分,发出通知的州还应进一步说明其是否打算在选举前不少于60天向美国邮政管理局提交一份该州具备联邦选举投票资格、且该州打算向其提供经美国邮政管理局传递的邮寄或缺席选票的选民名单。",
+      "(iii)规定除非相关个人已根据本款规定在美国邮政管理局就本小节(b)(iv)所述的特定州名单登记注册,否则美国邮政管理局不得传递任何个人的邮寄或缺席选票的拟议条款。",
+      "(iv)规定美国邮政管理局应依照本款所指示的规则制定程序中规定的流程,向每个州提供一份已在美国邮政管理局登记注册、以接收该州所提供的邮寄或缺席选票的个人名单(《邮寄和缺席投票参与名单》),并附上提供给此类个人的邮寄或缺席选票的唯一选票信封标识符,例如条形码。各州专属《邮寄和缺席投票参与名单》的编制和传输应遵守《隐私法》以及所有适用的使用协议的规定。(印刷页第17127页)",
+      "(v)制定程序,使各州能够在任何联邦选举之前,依照适用的州法律,定期补充并提出对该州《邮寄和缺席投票参与名单》的建议修改或修订意见的拟议程序。",
+      "(c)美国邮政管理局应与美国邮政管理局监察长办公室和司法部协调,调查涉及联邦选举材料的可疑邮件非法使用行为。",
+      "(d)依据本节制定的任何最终规则应不迟于本行政令发布之日起120天内发布。",
+      "第4条。实施。(a) 国土安全部部长、社会安全局局长和邮政总局局长应与商务部长协调,落实本令实施的所有相关方面。",
+      "(b) 司法部长应负责执行本令所引用的适用联邦法规的遵守事宜,并向选举官员(包括其任何下属机构)、承包商、参与联邦选举管理的个人,或从事选票印刷、制作、运输或分发的公共或私人实体提供指导。",
+      "(c) 国土安全部部长应在本令发布之日起90日内,建立必要的基础设施,以汇编、维护和传输本令第2(a)条所述的州公民身份名单,并应在国土安全部内指定一名联络人,负责接收和处理个人及州选举官员就相关州公民身份名单提出的请求。社会安全局局长应依照适用法律、《隐私法》及所有适用的使用协议,向国土安全部部长提供支持该要求所需的所有公民身份和身份数据。",
+      "第5条。执法。司法部长及具有相关职权的行政部门和机构(各机构)负责人应采取一切合法措施,制止和处理违反联邦法律的行为,包括在法律授权的情况下,对不遵守规定的州和地方政府暂停联邦资金拨付。对于州或地方选举官员、州或地方政府(包括其任何下属机构)、承包商、参与联邦选举管理的个人,或从事选票印刷、制作、运输或分发的公共或私人实体违反现行联邦法律的证据,可移交司法部,以考虑依据《美国法典》第18编第2(a)条、第241条、第371条、第611(a)条、第1001条、第1015条,以及《美国法典》第52编第10307条和第20511条进行调查或起诉。州和地方政府应将证明选民参与任何联邦选举的所有记录和材料(例如,无论承运方式如何的选票信封),但已投的选票除外,保存5年期间。",
+      "第6条。可分割性。如本令任何条款,或该条款对任何机构、个人或情形的适用被认定无效,本令其余部分及其条款对其他机构、个人或情形的适用不受影响。",
+      "第7条。一般规定。(a) 本令不得被解释为损害或以其他方式影响:",
+      "(i) 法律赋予行政部门或机构,或其负责人的职权;或",
+      "(ii) 管理和预算办公室主任与预算、行政或立法提案相关的职能。",
+      "(b) 本令的实施应符合适用法律,并以拨款可用性为前提。",
+      "(印刷页第17128页)",
+      "(c) 本令无意创设,事实上也不创设任何可由任何一方针对美国及其各部门、机构或实体,其官员、雇员或代理人,或任何其他人,在法律上或衡平法上予以强制执行的权利或利益,无论实体性或程序性。",
+      "白宫,",
+      "2026年3月31日。",
+      "[联邦公报文件编号 2026-06601",
+      "存档日期:2026年4月2日上午11:15]",
+      "账单代码 3395-F4-P"
+    ],
+    "ja": [
+      "2026年3月31日付大統領令第14399号",
+      "連邦選挙における市民権確認及び健全性の確保について",
+      "合衆国憲法及び合衆国の法律、とりわけ2002年投票支援法(Help America Vote Act of 2002、52 U.S.C. 20901以下)、1993年全国有権者登録法(National Voter Registration Act of 1993、52 U.S.C. 20501以下)、並びに合衆国を構成する各州に共和政体を保障する連邦政府の憲法上の義務(合衆国憲法第4条第4節)により大統領としての私に付与された権限に基づき、ここに次のとおり命令する。",
+      "第1節 目的及び政策。連邦選挙における投票権は、憲法及び連邦法の下で合衆国市民にのみ留保されるものである。連邦制定法は、非市民が連邦選挙において有権者登録を行い、又は投票することを明示的に禁止しており、違反に対しては刑事罰を科している(18 U.S.C. 241、18 U.S.C. 611、18 U.S.C. 1015、及び52 U.S.C. 20511)。社会保障庁(SSA)は記録を維持しており、これは42 U.S.C. 1320b-7に基づく国土安全保障省(DHS)の受給資格に関する外国人組織的検証(SAVE)プログラムと併用することにより、本人確認及び連邦選挙における投票資格の確認に資するものである。",
+      "連邦政府は、合衆国憲法第2条の下で連邦法を執行する不可避の義務を負っており、これには連邦刑法違反の防止及び選挙結果に対する国民の信頼の維持が含まれる。合衆国郵便を通じた選挙の健全性を強化するためには、追加的な措置が必要である。安全な投票用封筒識別子は、適格な有権者の権利を不当に負担し又は侵害することなく連邦法を執行するための、信頼性がありかつ監査可能な仕組みを提供するものである。バーコード等の固有の投票用封筒識別子は、市民のみが投票用紙を受領し、かつ投函することを確認できるようにするものであり、不正行為の危険性を低減し、連邦選挙の健全性を保護するものである。",
+      "第2節 州市民権リストの作成及び送付、並びに選挙不正に関連する捜査及び訴追の優先順位付けについて。(a) 1974年プライバシー法(5 U.S.C. 552a)をはじめとする適用法令に合致し、かつ実行可能な範囲において、国土安全保障長官は、合衆国市民権移民局(USCIS)局長を通じ、かつSSA長官と連携の上、今後実施される連邦選挙の時点で18歳を超える年齢に達しており、かつ当該州に居住地を維持する合衆国市民であることが確認された個人のリスト(州市民権リスト)を作成し、各州の選挙管理責任者に送付するため、適切な措置を講じるものとする。州市民権リストは、連邦の市民権及び帰化記録、SSAの記録、SAVEのデータ、並びにその他の関連する連邦データベースから作成されるものとする。州市民権リストは、各定例連邦選挙の少なくとも60日前までに更新の上、州の選挙管理当局に送付されるものとし、特別連邦選挙に関連して州から要請があった場合には速やかにこれを送付するものとする。国土安全保障長官は、(i)個人が選挙に先立って自己の個人記録にアクセスし、並びにこれを更新し又は訂正することを可能にする手続、及び(ii)各州が送付を受けた州市民権リストについて、常時これを補完し、修正又は変更の提案を行うことを可能にする手続を確立するものとする。個人が州市民権リストに記載されていることは、当該個人が当該州において適正に有権者登録を行ったことを示すものではない。個人が有権者登録を行うためには、依然として州法及び連邦法並びに州の手続に従わなければならない(印刷版17126ページ)。州市民権リストには反映されていない、有権者登録を妨げる州法が存在する場合、又は当該個人が登録を望まない場合もあり得る。",
+      "(b) 本大統領令の目的上、個人が「連邦選挙において投票資格を有する」とは、その個人が米国市民であり、来る選挙の日までに18歳以上であり、かつその者の州の法律の下でその他の点において資格を有することをいう。司法長官は、連邦選挙において投票資格を有しない個人に対して連邦投票用紙を発行する州及び地方の職員、又は連邦選挙の管理に関与するその他の者について、18 U.S.C. 2(a)、18 U.S.C. 241、18 U.S.C. 371、18 U.S.C. 611(a)、18 U.S.C. 1001、18 U.S.C. 1015、52 U.S.C. 10307及び52 U.S.C. 20511に基づくものを含め、その捜査、及び適切な場合には訴追を優先するものとする。同様に、司法長官は、連邦選挙において投票資格を有しない個人に対する投票用紙の印刷、製造、発送又は配布に従事し、又はこれを幇助若しくは教唆する個人並びに公的又は私的団体について、その捜査、及び適切な場合には訴追を優先するものとする。",
+      "第3条 郵便投票及び不在者投票に関する合衆国郵便公社の規則制定。(a) 選挙に関連する郵便の不正使用は、18 U.S.C. 1341、18 U.S.C. 1708、52 U.S.C. 10307及び52 U.S.C. 20511を含む種々の連邦法律により禁止されている。",
+      "(b) 連邦法の忠実な執行を確保し、連邦選挙投票用紙を伝達する媒体としての郵便の完全性を保護し、並びに合衆国郵便公社(USPS)を通じて実施される郵便投票又は不在者投票サービスの統一的基準を確立するため、郵政長官は、本大統領令の日付から60日以内に、39 U.S.C. 401及びその他の適用可能な権限に基づき、規則制定案を開始するよう、ここに指示される。当該規則制定案の告示には、少なくとも以下の事項を含めるものとする。",
+      "(i) 発送される全ての投票用紙郵便物が、次の要件を満たす封筒で郵送されなければならない旨を規定する提案条項。",
+      "(A) 必要かつ適切な場合には、USPSがこの目的のために提供する指定表示(公式選挙郵便ロゴなど)を含め、公式選挙郵便物として表示されていること。",
+      "(B) 自動化対応であり、追跡を容易にし、本条のその他の要件と整合する固有のインテリジェント・メール・バーコード、又はこれに代わるUSPSの技術を有すること。",
+      "(C) バーコードの配置を含むUSPSの郵送基準への適合を確保するため、USPSによる郵便封筒デザイン審査を受けていること。",
+      "(ii) 連邦選挙の90日前までに、いずれの州も、USPSによる郵便投票又は不在者投票の送達を許可する意向がある場合には、その旨をUSPSに通知することを選択できる旨を規定する提案条項。その通知の一環として、通知を行う州は、選挙の60日前までに、USPSを通じて送達される郵便投票又は不在者投票を提供する意向のある、当該州における連邦選挙の投票資格を有する有権者の一覧をUSPSに提出する意向があるか否かを、さらに示すものとする。",
+      "(iii) 本条(b)(iv)に規定される州固有の一覧に本項に基づきUSPSに登録されていない限り、USPSはいかなる個人からの郵便投票又は不在者投票も送達してはならない旨を規定する提案条項。",
+      "(iv) USPSは、本項が指示する規則制定において定められる手続に従い、当該州が提供する郵便投票又は不在者投票についてUSPSに登録された個人の一覧(郵便投票及び不在者投票参加者リスト)を、当該個人に提供される郵便投票又は不在者投票の固有の投票用紙封筒識別子(バーコードなど)とともに、各州に提供するものとする旨を規定する提案条項。各州固有の郵便投票及び不在者投票参加者リストの作成及び伝達は、プライバシー法及び全ての適用される使用契約に準拠するものとする。(印刷ページ17127)",
+      "(v) 適用される州法に整合する形で、連邦選挙に先立ち、各州が自州の郵便投票及び不在者投票参加者リストを随時補充し、修正又は改正の提案を行うことを可能にする提案手続。",
+      "(c) USPSは、連邦選挙関係資料に係る郵便の不正使用の疑いについて捜査を行うため、USPS監察総監室及び司法省と連携するものとする。",
+      "(d) 本条に基づく最終規則は、本大統領令の日付から120日以内に発出するものとする。",
+      "第4条 実施。(a) 国土安全保障省長官、社会保障庁(SSA)長官、及び郵政長官は、本命令の実施に関するすべての関連する側面を実施するに当たり、商務長官と調整するものとする。",
+      "(b) 司法長官は、本命令において言及される適用される連邦制定法の遵守を執行するものとし、選挙管理者(その下部機関を含む)、請負業者、連邦選挙の管理に関与する個人、又は投票用紙の印刷、作成、発送若しくは配布に従事する公的若しくは私的団体に対し、指針を提供するものとする。",
+      "(c) 国土安全保障省長官は、本命令の日付から90日以内に、本命令第2条(a)に記載される州市民権リストを編集し、維持し、及び送信するために必要なインフラを構築するものとし、当該州市民権リストに関する個人及び州選挙管理者からの要請を受領し処理するための、国土安全保障省(DHS)内の連絡窓口を指定するものとする。社会保障庁長官は、適用される法律、プライバシー法、及びすべての適用される使用契約に整合する形で、この要件を支援するために必要なすべての市民権及び身元データを国土安全保障省長官に提供するものとする。",
+      "第5条 執行。司法長官及び関連する権限を有する執行部省庁の長(以下「省庁」という)は、連邦法の不遵守を抑止し、これに対処するためにすべての合法的な措置を講じるものとし、これには、かかる差し止めが法律により認められている場合において、不遵守の州及び地方自治体に対する連邦資金の差し止めを含む。州若しくは地方の選挙管理者、州若しくは地方自治体(その下部機関を含む)、請負業者、連邦選挙の管理に関与する個人、又は投票用紙の印刷、作成、発送若しくは配布に従事する公的若しくは私的団体による既存の連邦法違反の証拠は、合衆国法典第18編第2条(a)、第241条、第371条、第611条(a)、第1001条、第1015条、合衆国法典第52編第10307条、及び第20511条に基づく捜査又は起訴の検討のため、司法省に付託されることがある。州及び地方自治体は、連邦選挙における投票参加を証明するすべての記録及び資料(投じられた投票用紙を除く。例えば、運搬業者を問わず投票用紙の封筒)を、5年間保存すべきである。",
+      "第6条 可分性。本命令のいずれかの規定、又はいずれかの省庁、人若しくは状況への当該規定の適用が無効と判断された場合であっても、本命令の残りの部分、及び当該規定の他の省庁、人又は状況への適用は、これによって影響を受けないものとする。",
+      "第7条 一般規定。(a) 本命令のいかなる規定も、以下を損ない、又はその他の方法で影響を及ぼすものと解釈してはならない。",
+      "(i) 法律により執行部省庁又はその長に付与された権限、又は",
+      "(ii) 予算、行政若しくは立法に関する提案に係る行政管理予算局長の機能。",
+      "(b) 本命令は、適用される法律に整合する形で、かつ歳出予算の充当状況に従って実施されるものとする。",
+      "(印刷ページ17128)",
+      "(c) 本命令は、合衆国、その省庁、機関若しくは団体、その職員、従業員若しくは代理人、又はその他いかなる者に対しても、法律上若しくは衡平法上執行可能な実体的又は手続的権利若しくは利益を創設することを意図するものではなく、また創設するものでもない。",
+      "ホワイトハウスにて",
+      "2026年3月31日",
+      "[連邦官報書類番号 2026-06601",
+      "2026年4月2日午前11時15分提出]",
+      "請求コード 3395-F4-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

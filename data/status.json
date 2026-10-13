@@ -38,7 +38,7 @@
     },
     "state_press": {
       "ok": true,
-      "items": 0,
+      "items": 3,
       "error": null,
       "fail_streak": 0,
       "alert": true
