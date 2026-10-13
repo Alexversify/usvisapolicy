@@ -4695,9 +4695,9 @@
       "Asylum",
       "Work Permit",
       "EAD",
-      "NPRM"
+      "Proposed Rule"
     ],
-    "added": "2026-10-13T03:08Z"
+    "added": "2026-10-13T03:46Z"
   },
   {
     "id": "6d7b70e802b4",
@@ -4705,19 +4705,19 @@
     "url": "https://www.uscis.gov/newsroom/news-releases/uscis-plays-key-role-in-denaturalization-process-to-begin-for-former-mayor-of-the-city-of-north",
     "published": "2026-02-20",
     "effective_date": null,
-    "importance": "low",
+    "importance": "medium",
     "category": "enforcement",
     "agency": "uscis",
     "topics": [
-      "enforcement",
-      "citizenship"
+      "citizenship",
+      "enforcement"
     ],
     "tags": [
       "Denaturalization",
       "Naturalization Fraud",
-      "USCIS"
+      "Citizenship"
     ],
-    "added": "2026-10-13T03:07Z"
+    "added": "2026-10-13T03:45Z"
   },
   {
     "id": "712f0c101919",
@@ -4725,7 +4725,7 @@
     "url": "https://www.uscis.gov/newsroom/news-releases/serial-immigration-fraudster-working-as-a-minnesota-corrections-officer-arrested",
     "published": "2026-02-18",
     "effective_date": null,
-    "importance": "low",
+    "importance": "medium",
     "category": "enforcement",
     "agency": "uscis",
     "topics": [
@@ -4734,12 +4734,13 @@
       "humanitarian"
     ],
     "tags": [
-      "Immigration Fraud",
       "Operation Twin Shield",
-      "ICE",
-      "Naturalization Fraud"
+      "Immigration Fraud",
+      "Naturalization",
+      "False Citizenship Claim",
+      "ICE"
     ],
-    "added": "2026-10-13T03:09Z"
+    "added": "2026-10-13T03:47Z"
   },
   {
     "id": "89f2d8cff071",
@@ -4751,15 +4752,15 @@
     "category": "enforcement",
     "agency": "dhs",
     "topics": [
-      "enforcement"
+      "enforcement",
+      "travel"
     ],
     "tags": [
       "Border Wall",
       "IIRIRA",
-      "Texas",
-      "Border Security"
+      "Texas Border"
     ],
-    "added": "2026-10-13T03:12Z"
+    "added": "2026-10-13T03:50Z"
   },
   {
     "id": "60565893b841",
@@ -4778,7 +4779,7 @@
       "Technical Amendment",
       "Terminology"
     ],
-    "added": "2026-10-13T03:11Z"
+    "added": "2026-10-13T03:49Z"
   },
   {
     "id": "e6ff7966c925",
@@ -4791,15 +4792,14 @@
     "agency": "dhs",
     "topics": [
       "humanitarian",
-      "enforcement",
-      "travel"
+      "enforcement"
     ],
     "tags": [
       "TPS",
       "Yemen",
       "DHS"
     ],
-    "added": "2026-10-13T03:14Z"
+    "added": "2026-10-13T03:52Z"
   },
   {
     "id": "e0c0eac9c135",
@@ -4816,32 +4816,32 @@
     "tags": [
       "H-2B",
       "Cap",
-      "Lottery",
-      "Returning Worker"
+      "Returning Worker",
+      "Lottery"
     ],
-    "added": "2026-10-13T03:13Z"
+    "added": "2026-10-13T03:51Z"
   },
   {
     "id": "140304f8c786",
     "source": "presidential",
     "url": "https://www.federalregister.gov/documents/2026/02/11/2026-02819/protecting-the-national-security-and-welfare-of-the-united-states-and-its-citizens-from-criminal",
     "published": "2026-02-11",
-    "effective_date": null,
+    "effective_date": "2026-02-06",
     "importance": "medium",
     "category": "policy",
     "agency": "president",
     "topics": [
+      "travel",
       "enforcement",
-      "travel"
+      "other"
     ],
     "tags": [
       "Executive Order",
-      "Criminal History Records",
       "Visa Waiver Program",
-      "DHS",
-      "Information Sharing"
+      "Information Sharing",
+      "Criminal History"
     ],
-    "added": "2026-10-13T03:15Z"
+    "added": "2026-10-13T03:53Z"
   },
   {
     "id": "0144002292d6",
@@ -4862,7 +4862,7 @@
       "Green Card",
       "USCIS"
     ],
-    "added": "2026-10-13T03:16Z"
+    "added": "2026-10-13T03:54Z"
   },
   {
     "id": "0ff467791cc8",
@@ -4874,18 +4874,18 @@
     "category": "policy",
     "agency": "doj",
     "topics": [
-      "enforcement",
       "humanitarian",
-      "family"
+      "family",
+      "other"
     ],
     "tags": [
       "BIA",
-      "EOIR",
-      "Appeals",
       "Immigration Court",
-      "Interim Final Rule"
+      "Appeals",
+      "EOIR",
+      "Removal Proceedings"
     ],
-    "added": "2026-10-13T03:18Z"
+    "added": "2026-10-13T03:56Z"
   },
   {
     "id": "416dc62496b4",
@@ -4902,11 +4902,11 @@
     ],
     "tags": [
       "H-2B",
-      "Numerical Cap",
+      "Supplemental Cap",
       "Temporary Workers",
       "DOL"
     ],
-    "added": "2026-10-13T03:25Z"
+    "added": "2026-10-13T04:02Z"
   },
   {
     "id": "a4ef637a906a",
@@ -4923,13 +4923,33 @@
       "employment"
     ],
     "tags": [
+      "ICE",
+      "USCIS",
       "MS-13",
-      "ICE Cooperation",
-      "Virginia",
       "Asylum",
-      "Enforcement"
+      "Virginia"
     ],
-    "added": "2026-10-13T03:23Z"
+    "added": "2026-10-13T04:01Z"
+  },
+  {
+    "id": "03b48807c66f",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01868/establishing-the-gordie-howe-international-bridge-as-a-port-of-entry-in-detroit-mi",
+    "published": "2026-01-30",
+    "effective_date": "2026-03-02",
+    "importance": "low",
+    "category": "processing",
+    "agency": "cbp",
+    "topics": [
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Port of Entry",
+      "CBP",
+      "Gordie Howe Bridge"
+    ],
+    "added": "2026-10-13T04:13Z"
   },
   {
     "id": "dfe5f4944b0a",
@@ -4938,7 +4958,7 @@
     "published": "2026-01-30",
     "effective_date": "2026-03-04",
     "importance": "high",
-    "category": "policy",
+    "category": "processing",
     "agency": "uscis",
     "topics": [
       "h1b",
@@ -4947,10 +4967,10 @@
     ],
     "tags": [
       "H-1B",
-      "Registration",
+      "Cap Registration",
       "Fees",
-      "Weighted Selection"
+      "Selection Process"
     ],
-    "added": "2026-10-13T03:36Z"
+    "added": "2026-10-13T04:12Z"
   }
 ]

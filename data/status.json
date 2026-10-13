@@ -38,7 +38,7 @@
     },
     "state_press": {
       "ok": true,
-      "items": 0,
+      "items": 7,
       "error": null,
       "fail_streak": 0,
       "alert": true
@@ -73,7 +73,7 @@
     }
   },
   "translate": {
-    "done": 0,
+    "done": 14,
     "failed": 0,
     "key": true,
     "fail_streak": 0

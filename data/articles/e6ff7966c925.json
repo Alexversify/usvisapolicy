@@ -16,77 +16,81 @@
   "langs": {
     "ko": {
       "title": "DHS, 예멘에 대한 임시보호지위(TPS) 종료 발표",
-      "summary": "국토안보부(DHS)는 예멘에 대한 임시보호지위(TPS) 지정을 종료한다고 발표했습니다. 이번 종료는 연방관보(Federal Register)에 공고가 게재된 날로부터 60일 후 발효됩니다.",
+      "summary": "국토안보부(DHS)는 예멘에 대한 임시보호지위(TPS) 지정을 종료한다고 발표했습니다. 이번 종료는 관련 공고가 연방관보(Federal Register)에 게재된 날로부터 60일 후에 효력이 발생합니다. 예멘은 2015년 9월 3일 TPS로 최초 지정된 이후 여러 차례 연장되어 왔습니다.",
       "points": [
-        "예멘은 2015년 9월 3일 처음 TPS로 지정되었고 이후 여러 차례 연장 또는 재지정되었습니다.",
-        "크리스티 놈 장관은 예멘이 더 이상 법적 TPS 지정 요건을 충족하지 않는다고 판단했습니다.",
-        "다른 합법적 체류 자격이 없는 예멘 국적 TPS 수혜자는 발효 후 60일 이내에 자진 출국해야 합니다.",
-        "DHS는 CBP Home 앱을 통한 자진 출국 신고를 권장하며, 이를 이용하면 항공권 지원과 2,600달러의 출국 지원금이 제공될 수 있다고 밝혔습니다.",
-        "종료 발효일 이후 체류 자격이 없는 예멘 국적자는 체포 및 추방 대상이 될 수 있으며, 강제 추방될 경우 향후 미국 재입국이 제한될 수 있습니다."
+        "크리스티 노엠 국토안보부 장관은 예멘이 더 이상 TPS 지정 요건을 충족하지 않는다고 판단했습니다.",
+        "예멘은 2015년 9월 3일 TPS로 최초 지정되었고 이후 2017, 2018, 2020, 2021, 2023, 2024년에 연장 또는 재지정되었습니다.",
+        "다른 합법적 체류 자격이 없는 예멘 TPS 수혜자는 종료 효력 발생일로부터 60일 이내에 자진 출국해야 합니다.",
+        "DHS는 CBP Home 앱을 통한 자진 출국을 권장하며, 이 앱을 이용하면 항공권 제공과 2,600달러의 출국 장려금을 받을 수 있다고 밝혔습니다.",
+        "종료 효력 발생 이후 체류 자격이 없는 예멘 국적자는 DHS에 의해 체포 및 추방될 수 있습니다.",
+        "강제로 체포 및 추방되는 경우 향후 미국 재입국이 불가능할 수 있습니다."
       ],
-      "who": "현재 TPS를 통해 미국에 체류 중인 예멘 국적자와 그 가족이 영향을 받습니다.",
-      "action": "대상자는 연방관보 공고 게재일과 발효일을 확인하고, 다른 체류 자격 여부와 출국 절차를 변호사와 상담할 것을 권장합니다."
+      "who": "현재 TPS 보호를 받고 있는 예멘 국적자와 그 가족들이 영향을 받습니다.",
+      "action": "다른 합법적 체류 자격이 없는 경우, 공고 게재 후 발생하는 60일의 효력 발생일을 확인하고 이민 변호사와 상담해 체류 옵션을 검토해야 합니다."
     },
     "en": {
       "title": "DHS Terminates Temporary Protected Status for Yemen",
-      "summary": "The Department of Homeland Security announced the termination of Temporary Protected Status (TPS) for Yemen. The termination takes effect 60 days after the notice is published in the Federal Register.",
+      "summary": "The Department of Homeland Security announced the termination of Temporary Protected Status (TPS) for Yemen. The termination takes effect 60 days after the notice is published in the Federal Register. Yemen was first designated for TPS in 2015 and had been extended multiple times since.",
       "points": [
-        "Yemen was first designated for TPS on September 3, 2015, and was later extended or redesignated in 2017, 2018, 2020, 2021, 2023 and 2024.",
-        "Secretary Kristi Noem determined that Yemen no longer meets the statutory requirements for TPS designation.",
-        "TPS Yemen beneficiaries with no other lawful status have 60 days after the effective date to voluntarily depart the United States.",
-        "DHS encourages departing individuals to use the CBP Home app, which it says offers a complimentary plane ticket and a $2,600 exit payment for self-deportation.",
-        "After the termination takes effect, DHS may arrest and remove Yemeni nationals who lack lawful status, and forced removal may bar future reentry to the United States."
+        "Secretary of Homeland Security Kristi Noem determined that Yemen no longer meets the legal requirements for TPS designation.",
+        "Yemen was initially designated for TPS on September 3, 2015, and was extended or redesignated in 2017, 2018, 2020, 2021, 2023, and 2024.",
+        "TPS Yemen beneficiaries with no other lawful immigration status have 60 days from the effective date to voluntarily depart the United States.",
+        "DHS encourages departing individuals to use the CBP Home app, which offers a complimentary plane ticket and a $2,600 exit bonus.",
+        "After the termination takes effect, DHS may arrest and deport Yemeni nationals who lack lawful status.",
+        "Individuals who are forcibly removed may be barred from future lawful return to the United States."
       ],
-      "who": "Yemeni nationals currently holding Temporary Protected Status in the United States and their families.",
-      "action": "Affected individuals should confirm the Federal Register publication date and effective date, and consult an attorney about any other lawful basis to remain or departure options."
+      "who": "Yemeni nationals currently holding TPS status and their family members are affected.",
+      "action": "Affected individuals should confirm the exact effective date once the notice is published in the Federal Register and consult an immigration attorney about other possible lawful status options."
     },
     "es": {
       "title": "DHS pone fin al Estatus de Protección Temporal (TPS) para Yemen",
-      "summary": "El Departamento de Seguridad Nacional (DHS) anunció la terminación del Estatus de Protección Temporal (TPS) para Yemen. La terminación entrará en vigor 60 días después de que el aviso se publique en el Federal Register.",
+      "summary": "El Departamento de Seguridad Nacional (DHS) anunció la terminación del Estatus de Protección Temporal (TPS) para Yemen. La terminación entrará en vigor 60 días después de que el aviso se publique en el Federal Register. Yemen fue designado por primera vez para TPS en 2015 y había sido extendido en varias ocasiones.",
       "points": [
-        "Yemen fue designado por primera vez para TPS el 3 de septiembre de 2015, y luego fue extendido o redesignado en 2017, 2018, 2020, 2021, 2023 y 2024.",
-        "La secretaria Kristi Noem determinó que Yemen ya no cumple con los requisitos legales para la designación de TPS.",
-        "Los beneficiarios de TPS de Yemen que no tengan otra base legal para permanecer tienen 60 días, a partir de la fecha de efectividad, para salir voluntariamente de Estados Unidos.",
-        "DHS recomienda usar la aplicación CBP Home para reportar la salida, que según la agencia incluye un boleto de avión gratuito y un pago de salida de 2,600 dólares.",
-        "Tras la fecha de efectividad, DHS podrá arrestar y deportar a nacionales de Yemen sin estatus legal, y una remoción forzada puede impedir el reingreso futuro a Estados Unidos."
+        "La secretaria de Seguridad Nacional, Kristi Noem, determinó que Yemen ya no cumple los requisitos legales para la designación de TPS.",
+        "Yemen fue designado inicialmente para TPS el 3 de septiembre de 2015 y fue extendido o redesignado en 2017, 2018, 2020, 2021, 2023 y 2024.",
+        "Los beneficiarios de TPS de Yemen sin otro estatus migratorio legal tienen 60 días desde la fecha de vigencia para salir voluntariamente de Estados Unidos.",
+        "DHS recomienda usar la aplicación CBP Home para reportar la salida, la cual ofrece un boleto de avión gratuito y un bono de salida de 2,600 dólares.",
+        "Después de que la terminación entre en vigor, DHS podrá arrestar y deportar a ciudadanos yemeníes que carezcan de estatus legal.",
+        "Quienes sean removidos por la fuerza podrían perder la posibilidad de regresar legalmente a Estados Unidos en el futuro."
       ],
-      "who": "Ciudadanos de Yemen que actualmente tienen TPS en Estados Unidos y sus familias.",
-      "action": "Las personas afectadas deben confirmar la fecha de publicación en el Federal Register y la fecha de efectividad, y consultar con un abogado sobre otras bases legales para permanecer u opciones de salida."
+      "who": "Afecta a los ciudadanos yemeníes que actualmente tienen TPS y a sus familiares.",
+      "action": "Los afectados deben confirmar la fecha exacta de vigencia una vez publicado el aviso en el Federal Register y consultar con un abogado de inmigración sobre otras posibles opciones de estatus legal."
     },
     "zh": {
-      "title": "美国国土安全部终止也门临时保护身份(TPS)",
-      "summary": "美国国土安全部(DHS)宣布终止也门的临时保护身份(TPS)。该终止将在通知在联邦公报(Federal Register)刊登后60天生效。",
+      "title": "美国国土安全部终止也门临时保护身份（TPS）",
+      "summary": "美国国土安全部（DHS）宣布终止对也门的临时保护身份（TPS）指定。该终止将在相关公告在联邦公报（Federal Register）刊登后60天生效。也门于2015年首次获得TPS指定，此后多次获得延期。",
       "points": [
-        "也门于2015年9月3日首次被指定为TPS国家,此后在2017、2018、2020、2021、2023和2024年获得延长或重新指定。",
-        "国土安全部长克里斯蒂·诺姆认定也门不再符合TPS指定的法定要求。",
-        "没有其他合法身份的也门TPS受益人须在生效日起60天内自愿离境。",
-        "DHS鼓励离境者使用CBP Home应用程序报告离境,该机构表示自愿离境者可获得免费机票和2,600美元的离境补贴。",
-        "终止生效后,DHS可能逮捕并驱逐没有合法身份的也门公民,被强制遣返者未来可能被禁止再次入境美国。"
+        "国土安全部部长诺姆（Kristi Noem）认定也门已不再符合TPS指定的法律要求。",
+        "也门于2015年9月3日首次获得TPS指定，并在2017、2018、2020、2021、2023和2024年获得延期或重新指定。",
+        "没有其他合法身份的也门TPS受益人须在终止生效之日起60天内自愿离开美国。",
+        "DHS鼓励离境者使用CBP Home应用程序，该程序提供免费机票以及2,600美元的离境奖励金。",
+        "终止生效后，国土安全部可能逮捕并驱逐没有合法身份的也门公民。",
+        "若被强制遣返，相关人员未来可能被禁止合法返回美国。"
       ],
-      "who": "目前持有TPS身份在美国居留的也门公民及其家属受到影响。",
-      "action": "受影响者应确认联邦公报的刊登日期和生效日期,并就是否存在其他合法居留身份或离境安排咨询律师。"
+      "who": "目前持有TPS身份的也门公民及其家庭成员将受到影响。",
+      "action": "受影响人员应在公告于联邦公报刊登后确认具体生效日期，并咨询移民律师了解其他可能的合法身份选项。"
     },
     "ja": {
-      "title": "DHS、イエメンに対する一時保護資格(TPS)の終了を発表",
-      "summary": "米国土安全保障省(DHS)は、イエメンに対する一時保護資格(TPS)の終了を発表しました。終了は連邦官報(Federal Register)に通知が掲載されてから60日後に発効します。",
+      "title": "DHS、イエメンの一時保護資格（TPS）を終了",
+      "summary": "米国国土安全保障省（DHS）は、イエメンに対する一時保護資格（TPS）の指定を終了すると発表しました。この終了措置は、通知が連邦官報（Federal Register）に掲載されてから60日後に発効します。イエメンは2015年に初めてTPS指定を受け、その後複数回延長されてきました。",
       "points": [
-        "イエメンは2015年9月3日に初めてTPS指定を受け、その後2017年、2018年、2020年、2021年、2023年、2024年に延長または再指定されました。",
-        "クリスティ・ノーム長官は、イエメンがもはやTPS指定の法的要件を満たしていないと判断しました。",
-        "他に合法的な在留資格を持たないイエメン国籍のTPS受給者は、発効日から60日以内に自主的に米国を出国する必要があります。",
-        "DHSは出国の報告にCBP Homeアプリの利用を推奨しており、同省によれば自主出国には無料航空券と2,600ドルの出国手当が提供されるとしています。",
-        "終了発効後、DHSは合法的な在留資格のないイエメン国籍者を逮捕・退去させる可能性があり、強制退去となった場合は将来の米国への再入国が認められなくなることがあります。"
+        "ノーム国土安全保障長官は、イエメンがもはやTPS指定の法的要件を満たしていないと判断しました。",
+        "イエメンは2015年9月3日に初めてTPS指定を受け、2017年、2018年、2020年、2021年、2023年、2024年に延長または再指定されました。",
+        "他に合法的な在留資格を持たないイエメンのTPS受給者は、発効日から60日以内に自主的に米国を出国する必要があります。",
+        "DHSはCBP Homeアプリの利用を推奨しており、同アプリを使うと無料航空券と2,600ドルの出国奨励金が提供されます。",
+        "終了発効後、合法的な在留資格のないイエメン国籍者はDHSにより逮捕および強制送還される可能性があります。",
+        "強制送還された場合、将来的に米国への合法的な再入国が認められなくなる可能性があります。"
       ],
-      "who": "現在TPSにより米国に滞在しているイエメン国籍者とその家族が対象です。",
-      "action": "対象者は連邦官報への掲載日と発効日を確認し、他の合法的な在留資格の有無や出国手続きについて弁護士に相談することが推奨されます。"
+      "who": "現在TPS資格を保持しているイエメン国籍者とその家族が影響を受けます。",
+      "action": "対象者は連邦官報への通知掲載後に正式な発効日を確認し、他の合法的な在留資格の可能性について移民弁護士に相談することが推奨されます。"
     }
   },
-  "added": "2026-10-13T03:14Z",
+  "added": "2026-10-13T03:52Z",
   "model": "claude-sonnet-5",
   "agency": "dhs",
   "topics": [
     "humanitarian",
-    "enforcement",
-    "travel"
+    "enforcement"
   ],
   "original": {
     "blocks": [
@@ -123,49 +127,49 @@
         "x": "02/13/2026"
       }
     ],
-    "fetched": "2026-10-13T03:14Z",
+    "fetched": "2026-10-13T03:52Z",
     "from": "page",
     "chars": 1943
   },
   "full": {
     "ko": [
-      "발행일",
+      "발표일",
       "2026년 2월 13일",
-      "워싱턴, 크리스티 놈(Kristi Noem) 국토안보부 장관은 오늘 예멘에 대한 임시보호지위(Temporary Protected Status, TPS)의 종료를 발표하였습니다. 이번 종료는 연방관보(Federal Register)에 공고가 게재된 후 60일이 경과한 시점부터 효력이 발생합니다.",
-      "예멘은 2015년 9월 3일, 무력 충돌이 진행 중이며 이러한 충돌로 인해 예멘 국민에게 귀국을 요구하는 것이 그들의 신변 안전에 심각한 위협이 된다는 판단에 근거하여 최초로 임시보호지위 대상국으로 지정되었습니다. 최초 지정 이후, 국토안보부(DHS)는 2017년, 2018년, 2020년, 2021년, 2023년, 2024년에 예멘에 대한 임시보호지위를 연장하거나 연장 및 재지정하였습니다.",
-      "놈 장관은 다음과 같이 밝혔습니다. “해당 국가의 상황을 검토하고 관계 미국 정부 기관과 협의한 결과, 본인은 예멘이 더 이상 임시보호지위 지정을 위한 법적 요건을 충족하지 못한다고 판단하였습니다. 예멘 임시보호지위 수혜자들이 미국에 일시적으로 계속 체류하도록 허용하는 것은 우리의 국익에 반합니다. 임시보호지위는 본래 일시적인 제도로 고안되었으며, 본 행정부는 임시보호지위를 그 본래의 일시적인 취지로 되돌리고 있습니다. 우리는 국가 안보 이익을 최우선으로 삼아 미국을 최우선으로 두고 있습니다.”",
-      "미국 내 체류에 대한 다른 합법적 근거가 없는 예멘 임시보호지위 수혜자는 미국을 자발적으로 떠날 수 있는 60일의 기간을 갖습니다. 우리는 미국을 떠나는 외국인들에게 미국 관세국경보호청(CBP)의 CBP Home 애플리케이션을 이용하여 미국 출국 사실을 신고할 것을 권장합니다. 이 애플리케이션은 무료 항공권, 2,600달러의 출국 장려금, 향후 합법적 이민 기회의 가능성을 포함하여 안전하고 확실한 자진 출국 방법을 제공합니다.",
-      "이번 종료의 발효일 이후, 국토안보부는 임시보호지위가 종료된 체류 자격이 없는 예멘 국민을 체포하여 추방할 수 있습니다. 외국인이 국토안보부로 하여금 자신을 체포하여 추방하도록 만드는 경우, 그 외국인은 향후 미국으로의 재입국이 영구히 허용되지 않을 수 있습니다.",
+      "워싱턴 ,  국토안보부(DHS) 장관 크리스티 놈(Kristi Noem)은 오늘 예멘에 대한 임시보호신분(Temporary Protected Status, TPS)의 종료를 발표했습니다. 이번 종료는 연방관보(Federal Register)에 통지문이 게재된 후 60일이 경과한 시점부터 효력을 발생합니다.",
+      "예멘은 2015년 9월 3일 지속적인 무력 충돌이 있으며, 해당 충돌로 인해 예멘 국민에게 귀국을 요구하는 것이 그들의 신변 안전에 심각한 위협이 된다는 판단에 근거하여 최초로 임시보호신분 대상국으로 지정되었습니다. 최초 지정 이후, 국토안보부(DHS)는 2017년, 2018년, 2020년, 2021년, 2023년 및 2024년에 예멘에 대한 TPS를 연장하거나 연장 및 재지정하였습니다.",
+      "놈 장관은 다음과 같이 말했습니다. \"해당 국가의 상황을 검토하고 관계 미국 정부 기관들과 협의한 결과, 본인은 예멘이 더 이상 임시보호신분 지정에 필요한 법적 요건을 충족하지 않는다고 판단하였습니다. TPS 예멘 수혜자들이 미국에 일시적으로 체류하도록 허용하는 것은 우리의 국익에 반합니다. TPS는 본래 일시적인 제도로 설계되었으며, 현 행정부는 TPS를 그 본래의 일시적 취지로 되돌리고 있습니다. 우리는 국가 안보 이익을 최우선으로 삼아 미국을 최우선으로 하는 정책을 추진하고 있습니다.\"",
+      "미국에 체류할 다른 합법적 근거가 없는 TPS 예멘 수혜자들은 미국을 자발적으로 떠날 수 있는 60일의 기간을 갖습니다. 우리는 미국을 떠나는 외국인들이 미국 세관국경보호청(CBP)의 CBP Home 애플리케이션을 이용하여 자신의 출국 사실을 신고할 것을 권장합니다. 이 애플리케이션은 안전하고 확실한 자진 출국 방법을 제공하며, 여기에는 무료 항공권, 2,600달러의 출국 장려금, 그리고 향후 합법적인 이민 기회가 포함될 수 있습니다.",
+      "종료의 효력 발생일 이후, 국토안보부(DHS)는 TPS가 종료된 후 체류 신분이 없는 예멘 국민을 체포하여 추방할 수 있습니다. 만약 외국인이 국토안보부로 하여금 자신을 강제로 체포하고 추방하도록 만든다면, 해당 외국인은 향후 미국으로 재입국이 영구히 허용되지 않을 수 있습니다.",
       "2026년 2월 13일"
     ],
     "es": [
       "Fecha de publicación",
       "13/02/2026",
-      "WASHINGTON, la secretaria de Seguridad Nacional, Kristi Noem, anunció hoy la terminación del Estatus de Protección Temporal para Yemen. La terminación entra en vigor 60 días después de que el aviso sea publicado en el Registro Federal.",
-      "Yemen fue designado inicialmente para el Estatus de Protección Temporal el 3 de septiembre de 2015, con base en una determinación de que existía un conflicto armado en curso y que, debido a dicho conflicto, exigir a los nacionales de Yemen que regresaran representaría una amenaza grave para su seguridad personal. Después de la designación inicial, el Departamento de Seguridad Nacional (DHS) extendió, o extendió y redesignó, a Yemen para el TPS en 2017, 2018, 2020, 2021, 2023 y 2024.",
-      "“Después de revisar las condiciones en el país y de consultar con las agencias correspondientes del gobierno de los Estados Unidos, determiné que Yemen ya no cumple con los requisitos de la ley para ser designado para el Estatus de Protección Temporal”, declaró la secretaria Noem. “Permitir que los beneficiarios del TPS de Yemen permanezcan temporalmente en los Estados Unidos es contrario a nuestro interés nacional. El TPS fue diseñado para ser temporal, y esta administración está devolviendo al TPS su propósito temporal original. Estamos priorizando nuestros intereses de seguridad nacional y poniendo a Estados Unidos primero.”",
-      "Los beneficiarios del TPS de Yemen que no tengan ninguna otra base legal para permanecer en los Estados Unidos tienen 60 días para salir voluntariamente de los Estados Unidos. Alentamos a los extranjeros que salen de los Estados Unidos a utilizar la aplicación CBP Home de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) para reportar su salida de los Estados Unidos. La aplicación ofrece una manera segura y confiable de autodeportarse, que incluye un boleto de avión gratuito, una bonificación de salida de $2,600 y posibles oportunidades futuras de inmigración legal.",
+      "WASHINGTON – La Secretaria de Seguridad Nacional, Kristi Noem, anunció hoy la terminación del Estatus de Protección Temporal para Yemen. La terminación entra en vigor 60 días después de que el aviso sea publicado en el Registro Federal.",
+      "Yemen fue designado inicialmente para el Estatus de Protección Temporal el 3 de septiembre de 2015, con base en una determinación de que existía un conflicto armado en curso y que, debido a ese conflicto, exigir a los nacionales de Yemen que regresaran representaría una amenaza grave para su seguridad personal. Tras la designación inicial, el Departamento de Seguridad Nacional (DHS) extendió, o extendió y redesignó, a Yemen para el TPS en 2017, 2018, 2020, 2021, 2023 y 2024.",
+      "“Tras revisar las condiciones en el país y consultar con las agencias gubernamentales estadounidenses correspondientes, determiné que Yemen ya no cumple con los requisitos legales para ser designado para el Estatus de Protección Temporal,” dijo la Secretaria Noem. “Permitir que los beneficiarios del TPS de Yemen permanezcan temporalmente en los Estados Unidos es contrario a nuestro interés nacional. El TPS fue diseñado para ser temporal, y esta administración está devolviendo al TPS su propósito temporal original. Estamos priorizando nuestros intereses de seguridad nacional y poniendo a Estados Unidos primero.”",
+      "Los beneficiarios del TPS de Yemen que no tengan ninguna otra base legal para permanecer en los Estados Unidos tienen 60 días para salir voluntariamente de los Estados Unidos. Alentamos a los extranjeros que salen de los Estados Unidos a utilizar la aplicación CBP Home de la Oficina de Aduanas y Protección Fronteriza de los Estados Unidos (CBP) para reportar su salida de los Estados Unidos. La aplicación ofrece una manera segura y confiable de autodeportarse, que incluye un boleto de avión gratuito, un bono de salida de $2,600 dólares y posibles oportunidades futuras de inmigración legal.",
       "Después de la fecha de vigencia de la terminación, el Departamento de Seguridad Nacional podrá arrestar y deportar a cualquier nacional yemenita sin estatus una vez que su TPS haya sido terminado. Si un extranjero obliga al DHS a arrestarlo y removerlo, es posible que nunca se le permita regresar a los Estados Unidos.",
       "13/02/2026"
     ],
     "zh": [
       "发布日期",
       "2026年2月13日",
-      "华盛顿, , 美国国土安全部(DHS)部长克里斯蒂·诺姆今日宣布终止对也门的临时保护身份(TPS)。该终止决定将在《联邦公报》刊登通知后60天生效。",
-      "也门最初于2015年9月3日被指定为临时保护身份国家,原因是当时认定也门境内存在持续武装冲突,且由于该冲突,要求也门国民返回其本国将对其人身安全构成严重威胁。在最初指定之后,美国国土安全部曾于2017年、2018年、2020年、2021年、2023年和2024年延长或延长并重新指定也门的临时保护身份。",
-      "诺姆部长表示:“在审查了该国的情况并与美国政府相关机构协商后,我确定也门已不再符合法律规定的被指定为临时保护身份的条件。允许也门临时保护身份受益人继续暂时留在美国不符合我们的国家利益。临时保护身份制度的设计初衷就是临时性的,本届政府正在使临时保护身份回归其最初的临时性本意。我们正将国家安全利益置于优先地位,坚持美国优先。”",
-      "没有其他合法依据留在美国的也门临时保护身份受益人有60天时间自愿离开美国。我们鼓励离开美国的外国人使用美国海关与边境保护局(CBP)的CBP Home应用程序报告其离境情况。该应用程序提供了一种安全、可靠的自行离境方式,其中包括免费机票、2,600美元的离境奖励金,以及未来获得合法移民机会的可能性。",
-      "在终止决定生效之日后,一旦也门国民的临时保护身份被终止,美国国土安全部可对任何无身份的也门国民实施逮捕并将其驱逐出境。如果外国人迫使美国国土安全部对其实施逮捕和遣返,其可能将永远不得再次返回美国。",
+      "华盛顿,国土安全部(DHS)部长克里斯蒂·诺姆今天宣布终止也门的临时保护身份。该终止自本通知在《联邦公报》上发布之日起60天后生效。",
+      "也门最初于2015年9月3日被指定享有临时保护身份,依据是当时认定该国存在持续的武装冲突,并且由于该冲突,要求也门国民返回将对其人身安全构成严重威胁。在初次指定之后,国土安全部于2017年、2018年、2020年、2021年、2023年和2024年延长或延长并重新指定了也门的临时保护身份。",
+      "诺姆部长表示:“在审查该国情况并与相关美国政府机构协商后,我认定也门已不再符合法律规定的被指定享有临时保护身份的条件。允许临时保护身份也门受益人继续暂时留在美国不符合我们的国家利益。临时保护身份的设计初衷就是临时性的,本届政府正在使临时保护身份回归其最初的临时性宗旨。我们正在优先考虑我们的国家安全利益,把美国放在首位。”",
+      "没有其他合法居留依据的临时保护身份也门受益人有60天时间自愿离开美国。我们鼓励离开美国的外国人使用美国海关与边境保护局(CBP)的CBP Home应用程序报告其离境情况。该应用程序提供了一种安全、可靠的自愿离境方式,包括免费机票、2,600美元的离境奖金,以及未来合法移民的潜在机会。",
+      "在终止生效日期之后,国土安全部可以在任何也门国民的临时保护身份被终止后,对其进行逮捕并予以驱逐出境,前提是其已无合法身份。如果外国人迫使国土安全部对其实施逮捕和驱逐,其可能永远不得再返回美国。",
       "2026年2月13日"
     ],
     "ja": [
-      "発表日",
+      "公表日",
       "2026年2月13日",
-      "ワシントン、国土安全保障省（DHS）長官クリスティ・ノーム氏は本日、イエメンに対する一時的保護措置（TPS）の終了を発表した。この終了措置は、連邦官報に通知が掲載されてから60日後に発効する。",
-      "イエメンは2015年9月3日、同国内で武力紛争が継続しており、当該紛争のためイエメン国民の帰国を求めることが彼らの身体の安全に対する深刻な脅威となるとの判断に基づき、最初に一時的保護措置の対象国として指定された。この最初の指定に続き、国土安全保障省は2017年、2018年、2020年、2021年、2023年及び2024年にイエメンに対するTPSの延長、又は延長及び再指定を行った。",
-      "ノーム長官は次のように述べた。「同国の状況を検討し、関係する米国政府機関と協議した結果、私はイエメンがもはや一時的保護措置の指定要件を法律上満たしていないと判断した。TPSイエメンの受益者を米国内に一時的に在留させ続けることは、我が国の国益に反する。TPSはもともと一時的な制度として設計されたものであり、本政権はTPSを本来の一時的な趣旨に立ち返らせている。我々は国家安全保障上の利益を優先し、米国第一主義を実践している。」",
-      "米国内に在留するための他の適法な根拠を有しないTPSイエメンの受益者は、米国から自発的に出国するための60日間の猶予を与えられる。米国を出国する外国人には、米国税関・国境警備局（CBP）の「CBP Home」アプリを利用して出国を報告することを推奨する。このアプリは、安全かつ確実な自主的出国の方法を提供するものであり、無償の航空券、2,600ドルの出国ボーナス、及び将来の適法な移民の機会の可能性を含んでいる。",
-      "終了措置の発効日以降、国土安全保障省は、TPSが終了した後、在留資格を有しないイエメン国民を逮捕し、国外退去させることができる。外国人が国土安全保障省に自らを逮捕及び退去させるよう仕向けた場合、その者は二度と米国への再入国を許可されない可能性がある。",
+      "ワシントン, 国土安全保障省長官クリスティ・ノーム氏は本日、イエメンに対する一時保護措置(TPS)の終了を発表した。この終了措置は、連邦官報(Federal Register)に告示が掲載されてから60日後に発効する。",
+      "イエメンは、武力紛争が継続しており、かつ当該紛争のためにイエメン国民の帰還を求めることが本人の身体の安全に対する重大な脅威となるとの判断に基づき、2015年9月3日に最初に一時保護措置の対象国として指定された。その後、国土安全保障省(DHS)は、2017年、2018年、2020年、2021年、2023年、および2024年にイエメンに対するTPSの延長、または延長及び再指定を行った。",
+      "ノーム長官は次のように述べた。「同国の状況を検討し、関係する米国政府機関と協議した結果、私は、イエメンが一時保護措置の指定要件を満たさなくなったと判断した。イエメンのTPS受益者を米国内に一時的に滞在させ続けることは、我が国の国益に反する。TPSはもともと一時的な制度として設計されたものであり、本政権はTPSを本来の一時的な趣旨に戻すものである。我々は国家安全保障上の利益を優先し、米国第一主義を実践している。」",
+      "米国内に滞在を継続するための他の合法的根拠を有しないイエメンのTPS受益者は、60日以内に米国から自発的に出国しなければならない。米国を出国する外国人の方々には、米国税関・国境警備局(CBP)の「CBP Home」アプリを利用して出国を報告することを推奨する。このアプリは、安全かつ確実な自発的出国の手段を提供するものであり、無料の航空券、2,600ドルの出国奨励金、および将来における合法的移民の機会の可能性を含んでいる。",
+      "終了措置の発効日以降、国土安全保障省は、TPSが終了した後に在留資格を有しないイエメン国民を逮捕及び国外退去させることができる。外国人が国土安全保障省に逮捕及び退去強制を強いた場合、当該外国人は今後米国への再入国を認められないことがある。",
       "2026年2月13日"
     ]
   },

@@ -5,88 +5,89 @@
   "original_title": "Serial Immigration Fraudster Working as a Minnesota Corrections Officer Arrested",
   "published": "2026-02-18",
   "effective_date": null,
-  "importance": "low",
+  "importance": "medium",
   "category": "enforcement",
   "tags": [
-    "Immigration Fraud",
     "Operation Twin Shield",
-    "ICE",
-    "Naturalization Fraud"
+    "Immigration Fraud",
+    "Naturalization",
+    "False Citizenship Claim",
+    "ICE"
   ],
   "relevant": true,
   "langs": {
-    "ko": {
-      "title": "미네소타 교정관으로 근무하던 상습 이민사기범 체포",
-      "summary": "USCIS는 Operation Twin Shield 수사를 통해 미네소타주 교정관으로 근무하며 미국 시민권자 행세를 해온 라이베리아 출신 불법체류자를 체포했다고 발표했습니다. 해당 인물은 학생비자 초과체류, 허위 시민권 주장, 결혼사기 등 다수의 이민법 위반 혐의를 받고 있습니다.",
-      "points": [
-        "45세 라이베리아 국적자 Morris Brown은 1월 15일 미니애폴리스에서 ICE에 의해 체포되었습니다.",
-        "그는 2014년 학생비자로 입국했으나 정규 과정 미등록으로 2015년 비자가 종료되었습니다.",
-        "합법적 신분이 없는 상태에서 펜실베이니아 주방위군에 입대했다가 1년 후 무단이탈했고, 2022년 불명예 제대 처리되었습니다.",
-        "2020년 라이베리아 난민이민공정프로그램(LRIF)으로 영주권을 신청했으나 군 복무 미신고 및 허위 시민권 주장으로 거부되었습니다.",
-        "2024년에는 군 복무 경력을 근거로 시민권 귀화를 신청했으나, 이 과정에서 결혼사기 등 추가 사기 정황이 발견되었습니다.",
-        "USCIS는 그가 미국 시민으로 행세하며 미네소타주 교정관으로 근무한 사실을 확인한 뒤 사건을 ICE에 이첩했으며, 그는 추방절차와 형사기소 가능성에 직면해 있습니다."
-      ],
-      "who": "이민 신분을 허위로 주장하거나 이민 혜택 신청 과정에서 사기를 저지른 개인이 이번 집행조치의 대상입니다.",
-      "action": "이민 관련 사기나 악용 사례를 인지한 경우 USCIS Tip Form을 통해 신고할 수 있습니다."
-    },
     "en": {
-      "title": "Serial Immigration Fraudster Working as Minnesota Corrections Officer Arrested",
-      "summary": "USCIS announced the arrest of a Liberian national who posed as a U.S. citizen while working as a Minnesota corrections officer despite having no legal immigration status. The case was uncovered through Operation Twin Shield, a joint USCIS-ICE enforcement effort targeting suspected immigration fraud in the Minneapolis-St. Paul area.",
+      "title": "USCIS, ICE Arrest Minnesota Corrections Officer in Immigration Fraud Case",
+      "summary": "USCIS and ICE arrested Morris Brown, a 45-year-old Liberian national, on Jan. 15 in Minneapolis as part of Operation Twin Shield, an enforcement initiative targeting suspected immigration fraud. Brown allegedly overstayed a student visa, made false claims to U.S. citizenship, and worked as a Minnesota corrections officer without legal status.",
       "points": [
-        "Morris Brown, 45, a Liberian national, was arrested by ICE on January 15 in Minneapolis.",
-        "He entered the U.S. in 2014 on a student visa that was terminated in 2015 for failing to maintain a full course of study.",
-        "Despite lacking legal status, he joined the Pennsylvania Army National Guard in 2014, went AWOL in 2015, and was discharged under other than honorable conditions in 2022.",
-        "His 2020 green card application under the Liberian Refugee Immigration Fairness program was denied due to misrepresentations, including a false claim to U.S. citizenship.",
-        "In 2024 he applied for naturalization based on his military service, and investigators later found evidence of marriage fraud as well.",
-        "USCIS found he had been working as a Minnesota corrections officer by falsely claiming U.S. citizenship and referred the case to ICE, and he now faces removal proceedings and possible criminal prosecution."
+        "Brown entered the U.S. in 2014 on a student visa that was terminated in 2015 for failing to maintain full-time enrollment.",
+        "He joined the Pennsylvania Army National Guard in 2014 despite lacking legal status, went AWOL in 2015, and was discharged under other than honorable conditions in 2022.",
+        "USCIS denied his 2020 green card application under the Liberian Refugee Immigration Fairness program due to misrepresentations, including failure to disclose military service.",
+        "In 2024, Brown applied to naturalize based on his prior military service, which USCIS investigators say constitutes another instance of fraud.",
+        "USCIS investigators found evidence of marriage fraud and prior false claims to U.S. citizenship, and discovered Brown was working as a Minnesota corrections officer under a false citizenship claim.",
+        "Brown now faces removal proceedings and potential criminal prosecution for immigration fraud and false claims to U.S. citizenship."
       ],
-      "who": "Individuals who misrepresent their immigration status or commit fraud in immigration benefit applications are the focus of this enforcement action.",
-      "action": "Anyone with information about suspected immigration benefit fraud can report it to USCIS using the USCIS Tip Form."
+      "who": "Individuals who may have made false citizenship claims or committed immigration fraud, and employers verifying the status of government employees.",
+      "action": "Those with information about suspected immigration benefit fraud may report it to USCIS using the USCIS Tip Form."
+    },
+    "ko": {
+      "title": "미네소타 교도관으로 근무하던 상습 이민사기범, USCIS와 ICE에 체포",
+      "summary": "USCIS와 ICE는 미니애폴리스 세인트폴 지역의 이민사기를 겨냥한 단속 작전인 Operation Twin Shield의 일환으로 1월 15일 라이베리아 출신 45세 남성 Morris Brown을 체포했습니다. 그는 학생비자 체류기간을 초과하고 미국 시민권을 허위로 주장하면서 합법적인 체류신분 없이 미네소타주 교도관으로 근무해온 것으로 드러났습니다.",
+      "points": [
+        "Brown은 2014년 학생비자로 입국했으나 전일제 학업을 유지하지 못해 2015년 비자가 취소되었습니다.",
+        "그는 합법적인 체류신분이 없는 상태에서 2014년 펜실베이니아 주방위군에 입대했고 2015년 무단이탈했으며 2022년 불명예 제대 처리되었습니다.",
+        "USCIS는 그가 군복무 사실을 누락하는 등 허위 진술을 한 것을 이유로 2020년 라이베리아 난민이민공정법에 따른 영주권 신청을 거부했습니다.",
+        "2024년 Brown은 과거 군복무 경력을 근거로 시민권 신청을 했으며, 수사당국은 이 또한 사기 행위로 보고 있습니다.",
+        "USCIS 수사관들은 혼인사기 정황과 과거 허위 시민권 주장 사례를 발견했으며, 그가 시민권을 허위로 주장하며 미네소타주 교도관으로 근무해온 사실도 확인했습니다.",
+        "Brown은 현재 추방 절차와 이민사기 및 허위 시민권 주장 혐의에 따른 형사기소 가능성에 직면해 있습니다."
+      ],
+      "who": "허위 시민권 주장이나 이민사기와 관련된 개인, 그리고 공공기관 직원의 체류신분을 확인해야 하는 고용주에게 해당하는 사안입니다.",
+      "action": "이민 혜택과 관련된 사기나 부정행위를 알고 있는 경우 USCIS Tip Form을 통해 신고할 수 있습니다."
     },
     "es": {
-      "title": "Arrestan a estafador migratorio reincidente que trabajaba como oficial penitenciario en Minnesota",
-      "summary": "USCIS anunció el arresto de un ciudadano liberiano que se hizo pasar por ciudadano estadounidense mientras trabajaba como oficial penitenciario en Minnesota, a pesar de no tener estatus legal. El caso fue descubierto mediante la Operación Twin Shield, un esfuerzo conjunto de USCIS e ICE contra el fraude migratorio en el área de Minneapolis-St. Paul.",
+      "title": "USCIS e ICE arrestan a oficial penitenciario de Minnesota por fraude migratorio",
+      "summary": "USCIS e ICE arrestaron a Morris Brown, un ciudadano liberiano de 45 años, el 15 de enero en Mineápolis como parte de Operation Twin Shield, una iniciativa de control dirigida al presunto fraude migratorio. Brown presuntamente excedió su estadía con una visa de estudiante, hizo declaraciones falsas sobre su ciudadanía estadounidense y trabajó como oficial penitenciario en Minnesota sin estatus legal.",
       "points": [
-        "Morris Brown, de 45 años, originario de Liberia, fue arrestado por ICE el 15 de enero en Minneapolis.",
-        "Ingresó a Estados Unidos en 2014 con una visa de estudiante que fue terminada en 2015 por no inscribirse en un curso completo de estudios.",
-        "Pese a no tener estatus legal, se unió a la Guardia Nacional del Ejército de Pensilvania en 2014, desertó un año después y fue dado de baja en condiciones deshonrosas en 2022.",
-        "Su solicitud de residencia permanente de 2020 bajo el programa Liberian Refugee Immigration Fairness fue negada por declaraciones falsas, incluyendo una falsa reclamación de ciudadanía estadounidense.",
-        "En 2024 solicitó la naturalización basándose en su servicio militar, y los investigadores también encontraron evidencia de fraude matrimonial.",
-        "USCIS descubrió que trabajaba como oficial penitenciario en Minnesota haciéndose pasar por ciudadano estadounidense y remitió el caso a ICE, por lo que ahora enfrenta un proceso de deportación y posible proceso penal."
+        "Brown ingresó a Estados Unidos en 2014 con una visa de estudiante que fue terminada en 2015 por no mantener una carga académica completa.",
+        "Se unió a la Guardia Nacional del Ejército de Pensilvania en 2014 pese a no tener estatus legal, desertó en 2015 y fue dado de baja en condiciones no honorables en 2022.",
+        "USCIS negó su solicitud de residencia permanente de 2020 bajo el programa Liberian Refugee Immigration Fairness debido a declaraciones falsas, incluyendo no revelar su servicio militar.",
+        "En 2024, Brown solicitó la naturalización basándose en su servicio militar previo, lo cual las autoridades consideran otro acto de fraude.",
+        "Los investigadores de USCIS hallaron evidencia de fraude matrimonial y declaraciones falsas previas de ciudadanía, y descubrieron que trabajaba como oficial penitenciario en Minnesota alegando ser ciudadano estadounidense.",
+        "Brown enfrenta ahora procedimientos de deportación y posible procesamiento penal por fraude migratorio y falsas declaraciones de ciudadanía."
       ],
-      "who": "Personas que falsifican su estatus migratorio o cometen fraude en solicitudes de beneficios migratorios son el objetivo de esta acción de cumplimiento.",
-      "action": "Quien tenga información sobre sospecha de fraude en beneficios migratorios puede reportarlo a USCIS mediante el formulario USCIS Tip Form."
+      "who": "Personas que hayan hecho declaraciones falsas de ciudadanía o cometido fraude migratorio, y empleadores que verifican el estatus de empleados gubernamentales.",
+      "action": "Quienes tengan información sobre presunto fraude en beneficios migratorios pueden reportarlo a USCIS mediante el formulario de denuncias de USCIS."
     },
     "zh": {
-      "title": "在明尼苏达州担任惩教官的惯犯移民诈骗者被捕",
-      "summary": "USCIS宣布逮捕一名利比里亚籍男子,此人在没有合法移民身份的情况下冒充美国公民,并在明尼苏达州担任惩教官。该案件是在USCIS与ICE联合开展的双盾行动中被发现的,该行动针对明尼阿波利斯-圣保罗地区涉嫌移民欺诈的案件。",
+      "title": "USCIS与ICE逮捕在明尼苏达州担任惩教人员的惯犯移民欺诈者",
+      "summary": "作为打击涉嫌移民欺诈的执法行动Operation Twin Shield的一部分,USCIS与ICE于1月15日在明尼阿波利斯逮捕了45岁的利比里亚公民Morris Brown。他涉嫌学生签证逾期居留,虚假声称拥有美国公民身份,并在没有合法身份的情况下在明尼苏达州担任惩教人员。",
       "points": [
-        "45岁的利比里亚籍男子Morris Brown于1月15日在明尼阿波利斯被ICE逮捕。",
-        "他于2014年持学生签证入境,因未按要求完成全日制课程,该签证于2015年被终止。",
-        "在没有合法身份的情况下,他于2014年加入宾夕法尼亚州陆军国民警卫队,次年擅离职守,并于2022年以不光彩条件被开除军籍。",
-        "他于2020年根据利比里亚难民移民公平法案申请绿卡,因隐瞒军事服役经历及虚假宣称美国公民身份而被拒绝。",
-        "2024年,他又以曾服兵役为由申请入籍,调查人员随后还发现其涉嫌婚姻欺诈的证据。",
-        "USCIS发现他冒充美国公民在明尼苏达州担任惩教官,随后将案件移交ICE,他目前面临驱逐程序及可能的刑事起诉。"
+        "Brown于2014年以学生签证入境,因未能保持全日制学业,该签证于2015年被终止。",
+        "他在没有合法身份的情况下于2014年加入宾夕法尼亚州陆军国民警卫队,2015年擅离职守,2022年被以非光荣方式退役。",
+        "由于隐瞒军事服役经历等虚假陈述,USCIS于2020年拒绝了他根据利比里亚难民移民公平法案提出的绿卡申请。",
+        "2024年,Brown以此前的军事服役经历为由申请入籍,调查人员认为这是另一次欺诈行为。",
+        "USCIS调查人员发现婚姻欺诈证据以及此前虚假声称美国公民身份的记录,并查明他曾以虚假公民身份在明尼苏达州担任惩教人员。",
+        "Brown目前面临驱逐程序,并可能因移民欺诈及虚假公民身份声明而被刑事起诉。"
       ],
-      "who": "此次执法行动针对虚假宣称移民身份或在移民福利申请中实施欺诈的人员。",
-      "action": "如发现涉嫌移民福利欺诈行为,可通过USCIS Tip Form向USCIS举报。"
+      "who": "涉及虚假公民身份声明或移民欺诈的个人,以及需核实政府雇员身份的雇主。",
+      "action": "如发现涉嫌移民福利欺诈行为,可通过USCIS举报表格向USCIS举报。"
     },
     "ja": {
-      "title": "ミネソタ州の矯正officerとして勤務していた常習移民詐欺犯を逮捕",
-      "summary": "USCISは、合法的な移民資格を持たないにもかかわらず米国市民になりすまし、ミネソタ州の矯正施設職員として勤務していたリベリア国籍の男を逮捕したと発表しました。この事件は、ミネアポリス・セントポール地域での移民詐欺疑惑を対象としたUSCISとICEの合同作戦「Operation Twin Shield」により発覚しました。",
+      "title": "ミネソタ州の矯正職員、常習的な移民詐欺でUSCISとICEに逮捕される",
+      "summary": "USCISとICEは、ミネアポリス・セントポール地域の移民詐欺を標的とした取締作戦Operation Twin Shieldの一環として、1月15日にリベリア国籍の45歳の男性Morris Brownをミネアポリスで逮捕しました。同容疑者は学生ビザの滞在期限超過や米国市民権の虚偽申告を行い、合法的な在留資格のないままミネソタ州の矯正職員として勤務していたとされています。",
       "points": [
-        "45歳のリベリア国籍の男Morris Brownは1月15日、ミネアポリスでICEにより逮捕されました。",
-        "彼は2014年に学生ビザで入国しましたが、フルタイムの就学要件を満たさなかったため2015年にビザが終了しました。",
-        "合法な在留資格がないにもかかわらず2014年にペンシルベニア州陸軍州兵に入隊し、翌年に無断離隊、2022年に不名誉除隊となりました。",
-        "2020年にリベリア難民移民公正プログラムに基づき永住権を申請しましたが、軍歴の未申告や虚偽の市民権主張により却下されました。",
-        "2024年には軍歴を理由に帰化申請を行いましたが、捜査の過程で婚姻詐欺の証拠も発見されました。",
-        "USCISは彼が米国市民を詐称してミネソタ州の矯正施設職員として勤務していたことを確認し、事件をICEに引き継ぎました。現在、彼は強制送還手続きおよび刑事訴追の可能性に直面しています。"
+        "Brown容疑者は2014年に学生ビザで入国したが、フルタイムの就学を維持できなかったため2015年にビザが取り消されました。",
+        "合法的な在留資格がないまま2014年にペンシルベニア州陸軍州兵に入隊し、2015年に無断離隊、2022年に不名誉除隊となりました。",
+        "USCISは、軍歴を申告しなかったことなどの虚偽申告を理由に、2020年のリベリア難民移民公平化プログラムに基づく永住権申請を却下しました。",
+        "2024年、Brown容疑者は過去の軍歴を根拠に帰化を申請しましたが、捜査当局はこれも新たな詐欺行為とみなしています。",
+        "USCISの捜査官は婚姻詐欺の証拠や過去の虚偽の市民権主張を発見し、同容疑者が虚偽の市民権主張によりミネソタ州の矯正職員として勤務していたことも判明しました。",
+        "Brown容疑者は現在、国外退去手続きに直面しており、移民詐欺および虚偽の市民権主張により刑事訴追される可能性もあります。"
       ],
-      "who": "移民資格を偽ったり、移民関連申請で詐欺行為を行った個人がこの取締の対象です。",
-      "action": "移民給付に関する不正行為の疑いがある場合は、USCIS Tip Formを通じて通報することができます。"
+      "who": "虚偽の市民権主張や移民詐欺に関与した個人、および政府職員の在留資格を確認する雇用主に関係する内容です。",
+      "action": "移民給付に関する不正行為の疑いがある場合は、USCISのTip Formを通じて報告することができます。"
     }
   },
-  "added": "2026-10-13T03:09Z",
+  "added": "2026-10-13T03:47Z",
   "model": "claude-sonnet-5",
   "agency": "uscis",
   "topics": [
@@ -141,61 +142,61 @@
         "x": "02/18/2026"
       }
     ],
-    "fetched": "2026-10-13T03:10Z",
+    "fetched": "2026-10-13T03:47Z",
     "from": "page",
     "chars": 2899
   },
   "full": {
     "ko": [
-      "발표일",
+      "공개일",
       "2026년 2월 18일",
-      "미니애폴리스, 미국 시민권 및 이민국(USCIS)의 '트윈 실드 작전(Operation Twin Shield)'이 미국 내에서 합법적인 신분이 없음에도 미국 시민을 사칭한 미네소타주 교정관이자 무단이탈(AWOL) 주방위군 대원을 체포하는 등 더 많은 성과를 거두고 있습니다. 해당 상습 사기범은 지난 가을 미니애폴리스-세인트폴 지역의 의심되는 이민 사기를 대상으로 한 대규모 단속 작전의 일환으로 신원이 확인되었습니다.",
-      "국토안보부(DHS) 산하 기관인 USCIS와 미국 이민세관단속국(ICE)의 공동 노력을 통해, 라이베리아 출신의 45세 불법체류 외국인인 모리스 브라운(Morris Brown)이 1월 15일 미니애폴리스에서 ICE에 의해 체포되었으며, 학생비자 체류기간 초과 및 미국 시민권 허위 주장을 포함한 다수의 미국 이민법 위반 혐의를 받고 있습니다.",
-      "USCIS 국장 조셉 에들로우(Joseph Edlow)는 \"트윈 실드 작전은 국토안보부가 우리의 이민 제도를 속이려는 자들을 끈질기게 추적하면서 계속해서 성과를 내고 있습니다.\"라고 말했습니다. \"이 외국인은 합법적인 신분을 상실한 후 미국에 남기 위해 온갖 수법을 동원했습니다. 우리는 그가 수많은 법률 위반에 대해 정의의 심판을 받도록 모든 가용 수단을 동원할 것입니다.\"",
-      "브라운은 2014년에 비이민 학생비자로 마지막으로 미국에 입국했으나, 정규 과정 등록에 실패하여 2015년에 비자가 종료되었습니다. 합법적인 신분이 없었음에도 불구하고, 그는 2014년 펜실베이니아 육군 주방위군에 입대했으나 이듬해 무단이탈(AWOL)하였습니다. 그는 결국 체포되었고 2022년에 불명예 전역보다는 경미한 조건부로 군에서 제대 처리되었습니다.",
-      "브라운은 2020년에 라이베리아 난민 이민 공정성 프로그램(Liberian Refugee Immigration Fairness program)에 따라 영주권을 신청했습니다. USCIS는 그가 이전 군 복무 사실을 밝히지 않은 점과 미국 시민권에 대한 허위 주장을 포함한 허위 진술을 이유로 그의 신청을 거부했습니다. 2024년에는 또 다른 사기 행위로서, 그는 이전 군 복무를 근거로 미국 시민으로 귀화를 신청했습니다.",
-      "트윈 실드 작전 기간 중, 브라운의 시민권 신청을 조사하던 USCIS 조사관들은 혼인 사기의 증거와 그가 공식 문서에서 미국 시민임을 허위로 주장한 이전 사례들을 발견했습니다. 또한 그들은 그가 합법적인 이민 신분이 없음에도 불구하고 미국 시민임을 주장하여 미네소타주의 교정관으로 근무하고 있었다는 사실을 알게 되었습니다. USCIS는 그의 사건을 ICE에 회부하였으며, 브라운은 현재 강제퇴거 절차와 이민 사기, 미국 시민권 허위 주장 및 관련 범죄에 대한 형사 기소 가능성에 직면해 있습니다.",
-      "미국 지역사회를 보호하는 것은 USCIS의 우선 과제입니다. 의심되는 이민 혜택 사기 또는 남용을 USCIS에 신고하려면, USCIS 제보 양식을 이용하시기 바랍니다.\n미국인들은 자신의 지역사회에서 체포된 공공 안전 위협 사례를 wow.dhs.gov에서 더 확인하실 수 있습니다.",
-      "USCIS 및 그 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, 인스타그램, 유튜브, 페이스북 및 링크드인에서 저희를 팔로우하시기 바랍니다",
+      "미니애폴리스, 미국 시민권 및 이민서비스국(USCIS)의 작전명 트윈 실드(Operation Twin Shield)가 미국 내 합법적 신분이 전혀 없음에도 미국 시민으로 위장해 온 미네소타주 교정직 공무원이자 무단이탈(AWOL) 주방위군 대원을 체포하는 등 또 다른 성과를 거두고 있습니다. 이 상습 사기범은 지난 가을 미니애폴리스, 세인트폴 지역에서 의심되는 이민 사기를 대상으로 실시된 대규모 단속 작전 과정에서 확인되었습니다.",
+      "국토안보부(DHS) 산하 기관인 USCIS와 미국 이민세관집행국(ICE)의 공동 노력을 통해, 라이베리아 출신의 45세 불법체류 외국인인 모리스 브라운(Morris Brown)이 1월 15일 미니애폴리스에서 ICE에 의해 체포되었습니다. 그는 학생비자 체류기간 초과 및 미국 시민권 허위 주장을 포함한 다수의 미국 이민법 위반 혐의를 받고 있습니다.",
+      "USCIS 국장 조셉 에들로우(Joseph Edlow)는 다음과 같이 밝혔습니다. “작전명 트윈 실드는 국토안보부가 우리 이민제도를 속이려는 자들을 집요하게 추적하는 과정에서 계속해서 성과를 거두고 있습니다. 이 외국인은 합법적 신분을 상실한 이후 미국에 남기 위해 온갖 수법을 동원했습니다. 우리는 그가 자신의 수많은 법 위반 행위에 대해 정의의 심판을 받도록 가용한 모든 수단을 활용할 것입니다.”",
+      "브라운은 2014년 비이민 학생비자로 마지막으로 미국에 입국했으나, 정규 과정에 등록하지 않아 이 비자는 2015년에 종료되었습니다. 합법적 신분이 없었음에도 불구하고 그는 2014년 펜실베이니아 육군 주방위군에 입대하였으나 이듬해 무단이탈(AWOL)하였습니다. 그는 결국 체포되었으며 2022년 불명예 전역(other than honorable conditions)으로 군에서 제대 조치되었습니다.",
+      "브라운은 2020년 라이베리아 난민 이민 공정성(Liberian Refugee Immigration Fairness) 프로그램에 따라 영주권을 신청하였습니다. USCIS는 그가 이전 군 복무 사실을 공개하지 않은 점과 미국 시민권에 대한 허위 주장을 포함한 허위 진술을 이유로 그의 신청을 거부하였습니다. 2024년, 그는 또 다른 사기 행위로서 이전 군 복무를 근거로 미국 시민으로 귀화 신청을 하였습니다.",
+      "작전명 트윈 실드 진행 과정에서, 브라운의 시민권 신청을 조사하던 USCIS 수사관들은 혼인 사기의 증거와 그가 공식 문서에서 허위로 미국 시민임을 주장한 이전 사례들을 발견하였습니다. 또한 그들은 그가 합법적 이민 신분이 전혀 없음에도 불구하고 미국 시민이라고 주장하며 미네소타주의 교정직 공무원으로 근무해 온 사실을 알게 되었습니다. USCIS는 그의 사건을 ICE에 회부하였으며, 브라운은 현재 추방 절차와 이민 사기, 미국 시민권 허위 주장 및 관련 범죄에 대한 형사 기소 가능성에 직면해 있습니다.",
+      "미국 내 지역사회를 보호하는 것은 USCIS의 우선 과제입니다. 이민 혜택과 관련된 사기나 남용이 의심되는 경우 USCIS 제보 양식(USCIS Tip Form)을 통해 신고해 주시기 바랍니다.\n미국 국민은 wow.dhs.gov에서 각 지역사회에서 체포된 공공안전 위협 인물에 대한 더 많은 정보를 확인하실 수 있습니다.",
+      "USCIS와 그 프로그램에 대한 자세한 정보는 uscis.gov를 방문하시거나 X, 인스타그램, 유튜브, 페이스북, 링크드인에서 저희를 팔로우해 주시기 바랍니다",
       "2026년 2월 18일"
     ],
     "es": [
       "Fecha de publicación",
       "18/02/2026",
-      "MINNEAPOLIS ,  La Operación Twin Shield de los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está arrojando aún más resultados con el arresto de un oficial correccional de Minnesota y miembro de la Guardia Nacional en estatus de ausente sin permiso (AWOL) que se hacía pasar por ciudadano estadounidense a pesar de no tener estatus legal en los Estados Unidos. El reincidente en fraude fue identificado como parte de la importante operación de cumplimiento de la ley que tuvo como objetivo el presunto fraude migratorio en el área de Minneapolis-St. Paul el otoño pasado.",
-      "A través de los esfuerzos conjuntos de las agencias del Departamento de Seguridad Nacional (DHS), USCIS y el Servicio de Control de Inmigración y Aduanas de los Estados Unidos (ICE), Morris Brown, un extranjero ilegal de 45 años originario de Liberia, fue arrestado el 15 de enero en Minneapolis por el ICE por múltiples violaciones de la ley de inmigración de los Estados Unidos, incluyendo haber permanecido en el país después del vencimiento de su visa de estudiante y haber hecho declaraciones falsas de ciudadanía estadounidense.",
-      "“La Operación Twin Shield continúa arrojando resultados mientras el Departamento de Seguridad Nacional persigue incansablemente a quienes buscan engañar a nuestro sistema de inmigración”, dijo el Director de USCIS, Joseph Edlow. “Este extranjero intentó todos los trucos posibles para permanecer en los Estados Unidos después de perder su estatus legal. Utilizaremos todas las herramientas a nuestra disposición para asegurar que enfrente la justicia por sus numerosas violaciones de la ley”.",
-      "Brown ingresó por última vez a los Estados Unidos en 2014 con una visa de estudiante no inmigrante que fue terminada en 2015 porque no se inscribió en un curso de estudio a tiempo completo. A pesar de no tener estatus legal, se unió a la Guardia Nacional del Ejército de Pensilvania en 2014, pero desertó (estuvo ausente sin permiso) al año siguiente. Finalmente fue aprehendido y dado de baja del servicio militar bajo condiciones distintas a honorables en 2022.",
-      "Brown solicitó una tarjeta de residencia permanente (Green Card) en 2020 bajo el programa de Equidad Migratoria para Refugiados Liberianos (Liberian Refugee Immigration Fairness). USCIS denegó su solicitud debido a declaraciones falsas, incluyendo su omisión de revelar su servicio militar previo y su falsa declaración de ciudadanía estadounidense. En 2024, en otra comisión de fraude, solicitó la naturalización como ciudadano estadounidense basándose en su servicio militar previo.",
-      "Durante la Operación Twin Shield, los investigadores de USCIS que examinaban la solicitud de ciudadanía de Brown encontraron evidencia de fraude matrimonial y casos previos en los que declaró falsamente ser ciudadano estadounidense en documentos oficiales. También descubrieron que estaba trabajando como oficial correccional para el estado de Minnesota, a pesar de no tener estatus migratorio legal, al declararse ciudadano estadounidense. USCIS remitió su caso al ICE, y Brown ahora enfrenta procedimientos de deportación y una posible acusación penal por fraude migratorio, declaraciones falsas de ciudadanía estadounidense y delitos relacionados.",
+      "MINNEAPOLIS ,  La Operación Twin Shield de los Servicios de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está arrojando aún más resultados con el arresto de un oficial correccional de Minnesota y miembro de la Guardia Nacional en estado de deserción (AWOL) que se hacía pasar por ciudadano estadounidense a pesar de no tener estatus legal en los Estados Unidos. El reincidente defraudador fue identificado como parte de la importante operación de cumplimiento que tuvo como objetivo presunto fraude migratorio en el área de Minneapolis-St. Paul el otoño pasado.",
+      "Mediante los esfuerzos conjuntos de las agencias del Departamento de Seguridad Nacional (DHS), USCIS y el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE), Morris Brown, un extranjero ilegal de 45 años de edad proveniente de Liberia, fue arrestado el 15 de enero en Minneapolis por el ICE por múltiples violaciones de la ley migratoria estadounidense, incluyendo exceder el tiempo permitido de su visa de estudiante y realizar declaraciones falsas de ciudadanía estadounidense.",
+      "“La Operación Twin Shield continúa arrojando resultados mientras el Departamento de Seguridad Nacional persigue incansablemente a quienes buscan engañar a nuestro sistema migratorio”, declaró el Director de USCIS, Joseph Edlow. “Este extranjero intentó cada truco posible para permanecer en los Estados Unidos después de perder su estatus legal. Utilizaremos todas las herramientas a nuestra disposición para garantizar que enfrente la justicia por sus numerosas violaciones de la ley.”",
+      "Brown ingresó por última vez a los Estados Unidos en 2014 con una visa de estudiante no inmigrante que fue terminada en 2015 debido a que no se inscribió en un curso de estudios a tiempo completo. A pesar de no tener estatus legal, se unió a la Guardia Nacional del Ejército de Pensilvania en 2014, pero desertó (AWOL) al año siguiente. Finalmente fue aprehendido y dado de baja del servicio militar bajo condiciones distintas a honorables en 2022.",
+      "Brown solicitó una tarjeta de residencia permanente (Green Card) en 2020 bajo el programa de Equidad Migratoria para Refugiados Liberianos (Liberian Refugee Immigration Fairness). USCIS denegó su solicitud debido a tergiversaciones, incluyendo su falta de divulgación de servicio militar previo y su declaración falsa de ciudadanía estadounidense. En 2024, en otra comisión de fraude, solicitó la naturalización como ciudadano estadounidense basándose en su servicio militar previo.",
+      "Durante la Operación Twin Shield, los investigadores de USCIS que examinaban la solicitud de ciudadanía de Brown encontraron evidencia de fraude matrimonial e instancias previas en las que declaró falsamente ser ciudadano estadounidense en documentos oficiales. También se enteraron de que trabajaba como oficial correccional para el estado de Minnesota, a pesar de no tener estatus migratorio legal, al declarar ser ciudadano estadounidense. USCIS remitió su caso al ICE, y Brown ahora enfrenta procedimientos de remoción y posible procesamiento penal por fraude migratorio, declaraciones falsas de ciudadanía estadounidense y delitos relacionados.",
       "Proteger a las comunidades estadounidenses es una prioridad para USCIS. Para reportar sospechas de fraude o abuso de beneficios migratorios a USCIS, por favor utilice el Formulario de Denuncias de USCIS (USCIS Tip Form).\nLos estadounidenses pueden ver más amenazas a la seguridad pública arrestadas en sus comunidades en wow.dhs.gov.",
-      "Para más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn",
+      "Para obtener más información sobre USCIS y sus programas, visite uscis.gov o síganos en X, Instagram, YouTube, Facebook y LinkedIn",
       "18/02/2026"
     ],
     "zh": [
       "发布日期",
       "2026年02月18日",
-      "明尼阿波利斯讯，美国公民及移民服务局(USCIS)“双盾行动”再获战果，一名明尼苏达州矫正官员兼擅离职守的国民警卫队成员落网，此人在美国没有任何合法身份的情况下冒充美国公民。该惯犯是去年秋季在明尼阿波利斯，圣保罗地区开展的重大执法行动中被查获的，该行动旨在打击涉嫌移民欺诈行为。",
-      "通过美国国土安全部(DHS)下属机构美国公民及移民服务局(USCIS)与美国移民及海关执法局(ICE)的联合努力，来自利比里亚的45岁非法外国人莫里斯·布朗(Morris Brown)于1月15日在明尼阿波利斯被美国移民及海关执法局逮捕，罪名是多项违反美国移民法的行为，包括学生签证逾期滞留以及谎称美国公民身份。",
-      "美国公民及移民服务局局长约瑟夫·埃德洛(Joseph Edlow)表示：“随着国土安全部坚持不懈地追查企图欺骗我国移民体系的人员,‘双盾行动’持续取得成效。这名外国人在丧失合法身份后,想方设法企图继续留在美国。我们将动用一切可用手段,确保他为其多项违法行为接受法律的制裁。”",
-      "布朗最近一次入境美国是在2014年,当时持非移民学生签证入境,但该签证于2015年因其未能注册全日制课程学习而被终止。尽管没有合法身份,他仍于2014年加入宾夕法尼亚州陆军国民警卫队,但次年即擅离职守。他最终于2022年被抓获,并以非光荣条件从军队退役。",
-      "布朗于2020年根据《利比里亚难民移民公平法》(Liberian Refugee Immigration Fairness)项目申请绿卡。美国公民及移民服务局以其存在虚假陈述为由驳回了该申请，包括未披露此前的服役经历以及谎称美国公民身份。2024年，他再次实施欺诈行为，以此前的服役经历为由申请加入美国国籍。",
-      "在“双盾行动”期间，美国公民及移民服务局调查人员在审查布朗的入籍申请时，发现了婚姻欺诈的证据，以及此前他在官方文件中谎称美国公民身份的多起情况。调查人员还发现，尽管他没有合法移民身份，他却谎称自己是美国公民，并以此身份在明尼苏达州担任矫正官员。美国公民及移民服务局已将此案移交移民及海关执法局处理，布朗目前面临驱逐出境程序，并可能因移民欺诈、谎称美国公民身份及相关罪行而被刑事起诉。",
-      "保护美国社区安全是美国公民及移民服务局的优先事项。如需向美国公民及移民服务局举报涉嫌移民福利欺诈或滥用行为，请使用美国公民及移民服务局举报表(USCIS Tip Form)。\n美国民众可访问wow.dhs.gov，查看更多在其社区内被捕的公共安全威胁人员信息。",
-      "欲了解有关美国公民及移民服务局及其项目的更多信息，请访问uscis.gov，或在X、Instagram、YouTube、Facebook和LinkedIn上关注我们",
+      "明尼阿波利斯,美国公民及移民服务局(USCIS)开展的“双盾行动”再次取得成果,一名明尼苏达州矫正官员兼擅离职守的国民警卫队成员因在没有合法身份的情况下冒充美国公民而被捕。这名惯犯是在去年秋季针对明尼阿波利斯,圣保罗地区涉嫌移民欺诈行为的重大执法行动中被查明身份的。",
+      "通过美国国土安全部(DHS)下属机构美国公民及移民服务局(USCIS)与美国移民及海关执法局(ICE)的联合努力,来自利比里亚的45岁非法外国人莫里斯·布朗(Morris Brown)于1月15日在明尼阿波利斯被ICE逮捕,罪名涉及多项违反美国移民法的行为,包括学生签证逾期居留以及虚假宣称拥有美国公民身份。",
+      "美国公民及移民服务局局长约瑟夫·埃德洛(Joseph Edlow)表示:“随着国土安全部坚持不懈地追捕那些企图欺骗我们移民制度的人,'双盾行动'持续取得成效。这名外国人在失去合法身份后,用尽了各种手段企图继续留在美国。我们将动用我们所拥有的一切手段,确保他为其众多违法行为接受法律制裁。”",
+      "布朗最近一次入境美国是在2014年,持非移民学生签证入境,该签证于2015年因他未能完成全日制学业而被终止。尽管没有合法身份,他仍于2014年加入宾夕法尼亚州陆军国民警卫队,但次年便擅离职守。他最终被抓获,并于2022年以除光荣退役以外的条件被军方除名。",
+      "布朗于2020年根据“利比里亚难民移民公平计划”申请绿卡。美国公民及移民服务局因其存在虚假陈述而驳回了该申请,其中包括未披露此前的服役经历以及虚假宣称拥有美国公民身份。2024年,他再次实施欺诈行为,以此前的服役经历为由申请加入美国国籍。",
+      "在“双盾行动”期间,美国公民及移民服务局调查人员在审查布朗的入籍申请时,发现了婚姻欺诈的证据,以及他此前在官方文件中虚假宣称拥有美国公民身份的多项记录。调查人员还发现,他在没有合法移民身份的情况下,通过冒充美国公民的方式,在明尼苏达州担任矫正官员。美国公民及移民服务局已将此案移交移民及海关执法局处理,布朗目前面临驱逐出境程序,并可能因移民欺诈、虚假宣称美国公民身份及相关罪行而遭受刑事起诉。",
+      "保护美国社区安全是美国公民及移民服务局的一项优先事项。如需向美国公民及移民服务局举报涉嫌移民福利欺诈或滥用行为,请使用美国公民及移民服务局举报表(USCIS Tip Form)。\n美国民众可在wow.dhs.gov网站上查看更多在其社区内被逮捕的公共安全威胁人员信息。",
+      "欲了解有关美国公民及移民服务局及其项目的更多信息,请访问uscis.gov,或在X、Instagram、YouTube、Facebook及LinkedIn上关注我们",
       "2026年02月18日"
     ],
     "ja": [
       "発表日",
       "2026年2月18日",
-      "ミネアポリス発。米国市民権・移民局(USCIS)の「オペレーション・ツイン・シールド」は、米国内で合法的な身分を一切有していないにもかかわらず米国市民になりすましていたミネソタ州の矯正施設職員であり、かつ無断離隊中の州兵隊員を逮捕するという、さらなる成果をもたらしている。この常習的な詐欺行為者は、昨秋ミネアポリス・セントポール地域において実施された、移民詐欺の疑いを標的とした大規模な法執行作戦の一環として特定された。",
-      "国土安全保障省(DHS)傘下機関であるUSCISと米国移民税関捜査局(ICE)の共同の取り組みにより、リベリア出身の45歳の不法滞在外国人であるモリス・ブラウン容疑者は、学生ビザの期限超過滞在や米国市民であるとの虚偽の主張を含む、米国移民法の複数の違反行為により、1月15日にミネアポリスにおいてICEにより逮捕された。",
-      "USCIS局長ジョセフ・エドロウ氏は次のように述べた。「オペレーション・ツイン・シールドは、国土安全保障省が我が国の移民制度を欺こうとする者たちを容赦なく追及する中、引き続き成果をあげている。この外国人は、合法的な身分を失った後も米国に留まるため、あらゆる手段を試みた。我々は、同人が自らの数々の法律違反について裁きを受けるよう、利用可能なあらゆる手段を行使する。」",
-      "ブラウン容疑者が米国に最後に入国したのは2014年であり、その際は非移民学生ビザによるものであったが、本人が全日制の課程に登録しなかったため、同ビザは2015年に取り消された。合法的な身分を有していなかったにもかかわらず、同人は2014年にペンシルベニア州陸軍州兵に入隊したが、翌年には無断離隊した。最終的に身柄を拘束され、2022年に不名誉に次ぐ条件の下で軍から除隊となった。",
-      "ブラウン容疑者は、2020年にリベリア難民移民公正プログラムに基づきグリーンカードを申請した。USCISは、過去の軍務歴を申告しなかったことや米国市民であるとの虚偽の主張を含む虚偽申告を理由に、同申請を却下した。2024年には、さらなる詐欺行為として、過去の軍務歴を根拠に米国市民として帰化申請を行った。",
-      "オペレーション・ツイン・シールドの実施中、ブラウン容疑者の帰化申請を調査していたUSCIS捜査官は、婚姻詐欺の証拠や、公的文書において米国市民であると虚偽に主張していた過去の事例を発見した。また、同人が合法的な移民身分を一切有していないにもかかわらず、米国市民であると偽ってミネソタ州の矯正施設職員として勤務していたことも判明した。USCISは本件をICEに送致し、ブラウン容疑者は現在、退去強制手続き、ならびに移民詐欺、米国市民であるとの虚偽の主張およびこれらに関連する犯罪行為による刑事訴追の可能性に直面している。",
-      "米国社会を保護することはUSCISにとって優先事項である。移民給付に関する詐欺または不正利用の疑いをUSCISに通報するには、USCIS通報フォームをご利用いただきたい。\n米国市民は、wow.dhs.govにおいて、各自の地域で逮捕された公共の安全に対するその他の脅威についても確認することができる。",
-      "USCISおよびそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook、LinkedInの各種公式アカウントをフォローされたい。",
+      "ミネアポリス、米国市民権・移民局(USCIS)の「オペレーション・ツイン・シールド」は、米国内で合法的な地位を有していないにもかかわらず米国市民になりすましていたミネソタ州矯正職員兼無断欠勤中の州兵隊員の逮捕という、さらなる成果を上げている。この常習的な詐欺行為者は、昨秋ミネアポリス・セントポール地域で行われた、移民詐欺の疑いを標的とした大規模な取締作戦の一環として特定された。",
+      "国土安全保障省(DHS)傘下の機関であるUSCISと米国移民税関捜査局(ICE)の共同の取り組みにより、リベリア出身の45歳の不法滞在外国人であるモリス・ブラウンは、1月15日、学生ビザの期限超過および米国市民であるとの虚偽の主張を含む複数の米国移民法違反により、ICEによってミネアポリスで逮捕された。",
+      "USCIS局長ジョセフ・エドロウは次のように述べた。「オペレーション・ツイン・シールドは、国土安全保障省が我が国の移民制度を欺こうとする者たちを executes容赦なく追及する中で、引き続き成果をもたらしています。この外国人は、合法的な地位を失った後、米国に留まるためにあらゆる手段を試みました。私たちは、彼が多数の法律違反について裁きを受けるよう、利用可能なあらゆる手段を講じます。」",
+      "ブラウンは2014年に非移民学生ビザで最後に米国に入国したが、このビザは彼がフルタイムの課程に登録しなかったため2015年に取り消された。合法的な地位を有していなかったにもかかわらず、彼は2014年にペンシルベニア州陸軍州兵に入隊したが、翌年に無断欠勤となった。彼は最終的に逮捕され、2022年に名誉以外の条件で軍から除隊となった。",
+      "ブラウンは2020年、リベリア難民移民公正プログラムに基づきグリーンカードを申請した。USCISは、過去の軍務歴の不開示および米国市民であるとの虚偽の主張を含む虚偽の申告を理由に、彼の申請を却下した。2024年、彼は別の詐欺行為として、過去の軍務歴に基づき米国市民としての帰化を申請した。",
+      "オペレーション・ツイン・シールドの期間中、ブラウンの帰化申請を調査していたUSCISの捜査官は、婚姻詐欺の証拠、および過去に公式文書において米国市民であると虚偽の主張をしていた事例の証拠を発見した。また、彼が合法的な移民としての地位を有していないにもかかわらず、米国市民であると偽ってミネソタ州の矯正職員として勤務していたことも判明した。USCISは本件をICEに照会し、ブラウンは現在、強制送還手続きの対象となっているほか、移民詐欺、米国市民であるとの虚偽の主張、および関連する犯罪について刑事訴追を受ける可能性がある。",
+      "米国社会を保護することは、USCISにとっての優先事項である。移民給付詐欺または不正利用の疑いをUSCISに報告するには、USCISティップフォームをご利用ください。\n米国民は、自らの地域社会で逮捕された公共の安全に対するその他の脅威事例について、wow.dhs.govで確認することができる。",
+      "USCISおよびそのプログラムに関する詳細情報については、uscis.govをご覧いただくか、X、Instagram、YouTube、Facebook、LinkedInで私たちをフォローしてください。",
       "2026年2月18日"
     ]
   },
