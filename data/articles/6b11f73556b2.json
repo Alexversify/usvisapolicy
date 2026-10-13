@@ -1,0 +1,261 @@
+{
+  "id": "6b11f73556b2",
+  "source": "presidential",
+  "url": "https://www.federalregister.gov/documents/2026/01/26/2026-01572/national-day-of-patriotic-devotion-2026",
+  "original_title": "National Day of Patriotic Devotion, 2026",
+  "published": "2026-01-26",
+  "effective_date": "2026-01-20",
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Proclamation",
+    "Ceremonial"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "백악관, '2026년 애국 헌신의 날' 선포",
+      "summary": "백악관은 2026년 1월 20일을 '애국 헌신의 날'로 선포하는 대통령 포고문을 발표했습니다. 이 문서는 지난 1년간의 국정 성과를 기념하는 상징적, 의례적 성격의 선언으로 이민 정책이나 비자 제도와는 직접적인 관련이 없습니다.",
+      "points": [
+        "이 포고문은 연방관보에 2026년 1월 26일 게재되었습니다.",
+        "문서는 국경 정책, 경제, 외교 등 행정부의 전반적 업적을 홍보하는 내용입니다.",
+        "비자 신청자나 이민 신청 절차에 영향을 주는 구체적인 규정 변경 사항은 포함되어 있지 않습니다.",
+        "이 선포는 법적 효력이 있는 규칙이 아니라 상징적인 기념일 지정입니다."
+      ],
+      "who": "이 발표는 일반 대중을 대상으로 한 상징적 선언으로, 비자나 이민 신청자에게 직접적인 영향을 미치지 않습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "White House Proclaims 'National Day of Patriotic Devotion' for 2026",
+      "summary": "The White House issued a proclamation declaring January 20, 2026 as the National Day of Patriotic Devotion. The document is a ceremonial statement reviewing the administration's first year in office and does not establish or change any immigration or visa rule.",
+      "points": [
+        "The proclamation was published in the Federal Register on January 26, 2026.",
+        "It summarizes the administration's border, economic and foreign policy actions over the past year.",
+        "The document contains no new eligibility rules, fees, or procedural changes for visa or immigration applicants.",
+        "This is a symbolic proclamation, not a binding regulation or policy change."
+      ],
+      "who": "This announcement does not directly affect visa applicants, employers or immigration case processing.",
+      "action": ""
+    },
+    "es": {
+      "title": "La Casa Blanca proclama el 'Día Nacional de Devoción Patriótica' de 2026",
+      "summary": "La Casa Blanca emitió una proclamación declarando el 20 de enero de 2026 como el Día Nacional de Devoción Patriótica. El documento es una declaración ceremonial que resume el primer año de gobierno y no establece ni modifica ninguna norma migratoria o de visas.",
+      "points": [
+        "La proclamación se publicó en el Federal Register el 26 de enero de 2026.",
+        "Resume las acciones del gobierno en materia fronteriza, económica y de política exterior durante el último año.",
+        "El documento no contiene nuevas reglas de elegibilidad, tarifas ni cambios de procedimiento para solicitantes de visas o inmigración.",
+        "Se trata de una proclamación simbólica, no de una regulación vinculante ni un cambio de política."
+      ],
+      "who": "Este anuncio no afecta directamente a solicitantes de visas, empleadores ni al procesamiento de casos migratorios.",
+      "action": ""
+    },
+    "zh": {
+      "title": "白宫宣布2026年“爱国奉献日”",
+      "summary": "白宫发布公告,宣布2026年1月20日为“全国爱国奉献日”。该文件是回顾政府执政一年成果的礼仪性声明,不涉及任何移民或签证规则的设立或修改。",
+      "points": [
+        "该公告于2026年1月26日刊登在联邦公报上。",
+        "文件总结了政府在边境、经济和外交政策方面的工作。",
+        "文件未包含任何针对签证或移民申请人的新资格规定、费用或程序变化。",
+        "这是一项象征性公告,并非具有约束力的法规或政策变更。"
+      ],
+      "who": "此公告不直接影响签证申请人、雇主或移民案件处理流程。",
+      "action": ""
+    },
+    "ja": {
+      "title": "ホワイトハウス、2026年「愛国献身の日」を宣言",
+      "summary": "ホワイトハウスは2026年1月20日を「愛国献身の日」と宣言する大統領布告を発表しました。この文書は政権1年目の実績を振り返る儀礼的な声明であり、移民やビザ制度に関する新たな規則は含まれていません。",
+      "points": [
+        "この布告は2026年1月26日に連邦官報に掲載されました。",
+        "国境政策、経済政策、外交政策など政権の実績をまとめた内容です。",
+        "ビザや移民申請者に関する新たな資格要件、手数料、手続きの変更は含まれていません。",
+        "これは法的拘束力を持つ規則ではなく、象徴的な記念日の宣言です。"
+      ],
+      "who": "この発表はビザ申請者、雇用主、移民手続きに直接影響を与えるものではありません。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-13T04:30Z",
+  "model": "claude-sonnet-5",
+  "agency": "president",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Proclamation 11005 of January 20, 2026"
+      },
+      {
+        "t": "h",
+        "x": "National Day of Patriotic Devotion, 2026"
+      },
+      {
+        "t": "p",
+        "x": "A Proclamation"
+      },
+      {
+        "t": "p",
+        "x": "One year ago today, I stood in the majestic rotunda of our Nation's Capitol and pledged to the American people that we would reclaim our national sovereignty, restore our safety, rebalance the scales of justice, and rebuild a country that is proud, prosperous, and free. Over the last 12 months, my Administration has swiftly delivered on these promises in epic fashion, ushering in a new era of peace, prosperity, and strength, and reclaiming the values and way of life that have made our Republic the envy of the world for 250 years. On this National Day of Patriotic Devotion, we unite as one people to honor our most sacred American ideals, celebrate our victories, and reaffirm our solemn mission to make our country greater than ever before."
+      },
+      {
+        "t": "p",
+        "x": "When I took office 1 year ago, our country was in a state of chaos and decline. Our borders were wide open, allowing criminals, drug dealers, and violent gang members to pour in and poison our communities. Crime was surging, law enforcement was under siege, and Christians, conservatives, and other innocent Americans were being viciously persecuted. Inflation was crushing families, wages were stagnant, and the cost of living was out of control. American democracy had been undermined by lawlessness, government abuse, and a collapse of accountability at the highest levels. Men were competing in women's sports and invading women's locker rooms. Extremist left-wing ideologies were being forced into classrooms. The worst trade deals in our history had hollowed out American industry, and our leaders were undermining our strength on the world stage."
+      },
+      {
+        "t": "p",
+        "x": "On day one, I immediately began working to fight for the law-abiding, hardworking men and women who built our Nation, who defend our Nation, and who make our Nation run."
+      },
+      {
+        "t": "p",
+        "x": "One of my most urgent duties was to confront the worst border crisis in American history. Shortly after I took the oath of office, I declared a national emergency at the southern border, designated cartels as Foreign Terrorist Organizations and Specially Designated Global Terrorists, resumed border wall construction, reinstated the Remain in Mexico policy, halted the practice of catch-and-release, ended asylum for illegal border crossers, deployed thousands of American soldiers to defend and protect our southern border, and began carrying out the largest deportation operation in the history of our country."
+      },
+      {
+        "t": "p",
+        "x": "In just a few short months, we turned the worst border crisis into the most secure border ever recorded. The flood of illegal aliens entering our country has come to a screeching halt. Illegal border crossings over the year have plummeted by 92 percent, and U.S. Customs and Border Patrol seized more than half a million pounds of drugs."
+      },
+      {
+        "t": "p",
+        "x": "I have also spared no time in rebuilding our economy. On the first day of my Administration, I signed a Presidential Memorandum to secure emergency price relief for families—ordering Federal departments to free the American economy from regulatory restraints, restore affordability, and lower the cost of living. I have further taken action to restore American dominance in energy production, and deliver energy abundance that brought down ( printed page 3316) the cost of gas and electricity prices to levels not seen in decades. As a result, inflation is down 70 percent from its peak rate during the previous administration, the affordability gap is swiftly closing, real wages are soaring, and housing costs are falling."
+      },
+      {
+        "t": "p",
+        "x": "Additionally, my Administration has rebuilt American manufacturing and put an end to the policies that forced our workers and businesses to compete against foreign nations that exploit our markets. We have secured historic investment, infrastructure, and technology deals that strengthen our supply chains, protect American innovation, and ensure the future is built by American hands and proud American hearts."
+      },
+      {
+        "t": "p",
+        "x": "Less than 6 months into my term, we passed the historic One Big Beautiful Bill—one of the greatest legislative triumphs in American history—which made the largest tax cuts ever enacted permanent; delivered no tax on tips, no tax on Social Security, and no tax on overtime; increased the child tax credit; invested in American infrastructure; lowered energy costs; and permanently secures the border."
+      },
+      {
+        "t": "p",
+        "x": "I have also moved swiftly to reassert American strength on the world stage. On my first day back in office, I signed an Executive Order directing the Secretary of State to ensure that all policies, programs, personnel, and operations at the Department of State defend America's interests and champion the needs of the American people. I have also rebuilt the most powerful and capable military anywhere in the world. Guided by a foreign policy of peace through strength, my Administration has already secured major peace agreements between nations torn by decades of fighting—including in the Middle East—and we will continue to pursue peaceful resolutions that put America first, protect our citizens, and promote stability and prosperity both at home and abroad. The full might of the American spirit is being fully restored, and our work is only just beginning."
+      },
+      {
+        "t": "p",
+        "x": "As President, I have worked to restore the enduring American values that bind us together as one Nation under God: Equal justice under the law, freedom of speech, merit over the sinister “DEI” agenda, and reverence for our heritage, history, and heroes. My Administration has ended the era of government weaponization, strengthened the integrity of our elections, and reaffirmed that the law applies equally to every citizen. Most importantly, we are renewing our civic culture. Under my leadership, children are once again being taught to love their country and always respect our great American flag."
+      },
+      {
+        "t": "p",
+        "x": "January 20, 2025, will forever be remembered as the day our Nation was restored to its full greatness and glory. Never again will America surrender her sovereignty, silence her people, apologize for her strength, or suppress the rights and God-given potential of her citizens. This National Day of Patriotic Devotion, as we celebrate 250 years since our Nation's founding, we stand renewed, resolute, and unafraid, carrying forward the same defiant spirit of July 4, 1776, that forged our Republic and will secure our future for generations to come."
+      },
+      {
+        "t": "p",
+        "x": "NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim January 20, 2026, as National Day of Patriotic Devotion, in order to strengthen our bonds to each other and to our country, and to renew the duties of Government to the people."
+      },
+      {
+        "t": "p",
+        "x": "( printed page 3317)"
+      },
+      {
+        "t": "p",
+        "x": "IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of January, in the year of our Lord two thousand twenty-six, and of the Independence of the United States of America the two hundred and fiftieth."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-01572"
+      },
+      {
+        "t": "p",
+        "x": "Filed 1-23-26; 11:15 am]"
+      },
+      {
+        "t": "p",
+        "x": "Billing code 3395-F4-P"
+      }
+    ],
+    "fetched": "2026-10-13T04:30Z",
+    "from": "federalregister.gov",
+    "chars": 7027
+  },
+  "full": {
+    "ko": [
+      "2026년 1월 20일 포고 11005호",
+      "2026년 애국 헌신의 날",
+      "포고문",
+      "1년 전 오늘, 본인은 우리 국가 수도의 장엄한 로툰다에 서서 미국 국민에게 우리의 국가 주권을 되찾고, 우리의 안전을 회복하며, 정의의 저울을 재조정하고, 자랑스럽고 번영하며 자유로운 국가를 재건할 것을 서약하였습니다. 지난 12개월 동안, 본인의 행정부는 이러한 약속을 신속하고도 획기적인 방식으로 이행하여 평화와 번영과 힘의 새로운 시대를 열었으며, 250년 동안 우리 공화국을 전 세계가 부러워하게 만든 가치와 삶의 방식을 되찾았습니다. 이 애국 헌신의 날을 맞아, 우리는 하나의 국민으로 단결하여 가장 신성한 미국의 이상을 기리고, 우리의 승리를 축하하며, 우리 나라를 그 어느 때보다 위대하게 만들겠다는 엄숙한 사명을 재확인합니다.",
+      "본인이 1년 전 취임하였을 때, 우리 나라는 혼란과 쇠퇴의 상태에 있었습니다. 국경은 활짝 열려 있어 범죄자, 마약 밀매자, 폭력적인 갱단원들이 쏟아져 들어와 우리의 지역사회를 병들게 하였습니다. 범죄는 급증하였고, 법 집행기관은 포위당하였으며, 기독교인, 보수주의자, 그리고 그 밖의 무고한 미국인들이 악랄하게 박해받고 있었습니다. 인플레이션은 가정을 짓누르고 있었고, 임금은 정체되었으며, 생활비는 통제 불능 상태였습니다. 미국의 민주주의는 무법 상태, 정부의 권력 남용, 그리고 최고위층에서의 책임성 붕괴로 인해 훼손되어 있었습니다. 남성들이 여성 스포츠에 참가하고 여성 탈의실에 침입하고 있었습니다. 극단적인 좌파 이념이 교실에 강제로 주입되고 있었습니다. 우리 역사상 최악의 무역협정들이 미국 산업을 공동화시켰고, 우리 지도자들은 세계 무대에서 우리의 힘을 훼손하고 있었습니다.",
+      "취임 첫날부터, 본인은 우리 나라를 건설하고, 우리 나라를 수호하며, 우리 나라를 움직이는 준법적이고 근면한 남녀를 위해 즉각 싸우기 시작하였습니다.",
+      "본인의 가장 시급한 임무 중 하나는 미국 역사상 최악의 국경 위기에 맞서는 것이었습니다. 본인은 취임 선서 직후 남부 국경에 국가 비상사태를 선포하였고, 카르텔들을 외국 테러 조직 및 특별 지정 국제 테러리스트로 지정하였으며, 국경 장벽 건설을 재개하였고, 멕시코 잔류 정책을 재시행하였으며, 체포 후 석방 관행을 중단하였고, 불법 국경 통과자에 대한 망명을 종료하였으며, 남부 국경을 방어하고 보호하기 위해 수천 명의 미군을 배치하였고, 우리 나라 역사상 가장 대규모의 추방 작전을 개시하였습니다.",
+      "불과 몇 달 만에, 우리는 최악의 국경 위기를 역대 가장 안전한 국경으로 전환시켰습니다. 우리 나라로 유입되던 불법 외국인의 물결은 급격히 멈추었습니다. 올 한 해 동안 불법 국경 통과는 92퍼센트 급감하였으며, 미국 세관국경보호청(CBP)은 50만 파운드 이상의 마약을 압수하였습니다.",
+      "본인은 또한 우리 경제를 재건하는 데에도 한순간도 지체하지 않았습니다. 본인 행정부 첫날, 본인은 가정을 위한 긴급 물가 안정을 확보하기 위한 대통령 각서에 서명하여, 연방 각 부처에 미국 경제를 규제 제약으로부터 해방시키고, 물가 적정성을 회복하며, 생활비를 낮출 것을 지시하였습니다. 본인은 더 나아가 에너지 생산에서 미국의 우위를 회복하고, 수십 년 만에 볼 수 없었던 수준으로 가스 및 전기 요금을 낮춘 에너지 풍요를 실현하기 위한 조치를 취하였습니다.(원문 3316쪽) 그 결과, 인플레이션은 전임 행정부 시절 최고치 대비 70퍼센트 감소하였고, 물가 적정성 격차는 빠르게 좁혀지고 있으며, 실질 임금은 급상승하고 있고, 주거 비용은 하락하고 있습니다.",
+      ", 본인의 행정부는 미국 제조업을 재건하였고, 우리 노동자와 기업들이 우리 시장을 착취하는 외국과 경쟁하도록 강요했던 정책들을 종식시켰습니다. 우리는 우리의 공급망을 강화하고, 미국의 혁신을 보호하며, 미래가 미국인의 손과 자랑스러운 미국인의 마음으로 건설되도록 보장하는 역사적인 투자, 인프라, 기술 협정을 확보하였습니다.",
+      "임기 6개월이 채 되지 않아, 우리는 미국 역사상 가장 위대한 입법적 승리 중 하나인 역사적인 '하나의 크고 아름다운 법안(One Big Beautiful Bill)'을 통과시켰으며, 이는 역대 최대 규모의 감세를 영구화하였고, 팁에 대한 비과세, 사회보장급여에 대한 비과세, 초과근무수당에 대한 비과세를 실현하였으며, 자녀세액공제를 확대하였고, 미국 인프라에 투자하였으며, 에너지 비용을 낮추었고, 국경을 영구적으로 확보하였습니다.",
+      "저는 또한 세계 무대에서 미국의 힘을 재천명하기 위하여 신속하게 움직였습니다. 복귀 첫날, 저는 국무장관에게 국무부의 모든 정책, 프로그램, 인력, 운영이 미국의 이익을 수호하고 미국 국민의 요구를 옹호하도록 지시하는 행정명령에 서명하였습니다. 저는 또한 세계 어느 곳에서도 가장 강력하고 유능한 군대를 재건하였습니다. 힘을 통한 평화라는 외교 정책에 따라, 저의 행정부는 이미 중동을 포함하여 수십 년간 전쟁으로 분열된 국가들 사이에 주요 평화 협정을 확보하였으며, 우리는 미국을 최우선으로 하고 우리 국민을 보호하며 국내외의 안정과 번영을 증진하는 평화적 해결을 계속 추구할 것입니다. 미국 정신의 완전한 힘이 완전히 회복되고 있으며, 우리의 과업은 이제 막 시작되었을 뿐입니다.",
+      "대통령으로서 저는 하나님 아래 하나의 국가로서 우리를 하나로 묶는 지속적인 미국적 가치, 즉 법 앞의 평등한 정의, 언론의 자유, 사악한 \"DEI\" 의제보다 우선하는 실력주의, 그리고 우리의 유산과 역사와 영웅들에 대한 경외심을 회복하기 위하여 노력해 왔습니다. 저의 행정부는 정부의 무기화 시대를 종식시켰고, 우리 선거의 진실성을 강화하였으며, 법이 모든 시민에게 평등하게 적용된다는 것을 재확인하였습니다. 가장 중요한 것은, 우리가 우리의 시민 문화를 새롭게 하고 있다는 것입니다. 저의 지도 아래, 아이들은 다시 한번 자신의 나라를 사랑하고 우리의 위대한 성조기를 항상 존중하도록 교육받고 있습니다.",
+      "2026년 1월 20일은 우리 국가가 완전한 위대함과 영광으로 회복된 날로 영원히 기억될 것입니다. 미국은 다시는 그녀의 주권을 넘겨주지 않을 것이며, 그녀의 국민을 침묵시키지 않을 것이며, 그녀의 힘에 대해 사과하지 않을 것이며, 그녀의 시민들의 권리와 하나님이 주신 잠재력을 억압하지 않을 것입니다. 우리 국가 건국 250주년을 기념하는 이 애국 헌신의 날에, 우리는 1776년 7월 4일의 그 불굴의 정신, 즉 우리 공화국을 세우고 앞으로 여러 세대 동안 우리의 미래를 지켜낼 그 정신을 이어받아, 새롭게 되고 단호하며 두려움 없이 서 있습니다.",
+      "그러므로 이제, 본인 도널드 제이 트럼프는 미합중국 대통령으로서, 합중국 헌법과 법률이 본인에게 부여한 권한에 의거하여, 우리 서로간의 유대와 우리나라에 대한 유대를 강화하고 국민에 대한 정부의 의무를 새롭게 하기 위하여, 이에 2026년 1월 20일을 애국 헌신의 날로 선포합니다.",
+      "(인쇄본 3317페이지)",
+      "이를 증명하기 위하여, 본인은 서기 2026년 1월 20일, 미합중국 독립 제250년에 이에 서명합니다.",
+      "[연방관보 문서번호 2026-01572",
+      "제출일 2026년 1월 23일 오전 11시 15분]",
+      "청구 코드 3395-F4-P"
+    ],
+    "es": [
+      "Proclamación 11005 del 20 de enero de 2026",
+      "Día Nacional de Devoción Patriótica, 2026",
+      "Una Proclamación",
+      "Hace un año, me paré en la majestuosa rotonda del Capitolio de nuestra Nación y le prometí al pueblo estadounidense que recuperaríamos nuestra soberanía nacional, restableceríamos nuestra seguridad, reequilibraríamos la balanza de la justicia y reconstruiríamos un país orgulloso, próspero y libre. Durante los últimos 12 meses, mi Administración ha cumplido rápidamente estas promesas de manera extraordinaria, dando paso a una nueva era de paz, prosperidad y fortaleza, y recuperando los valores y el modo de vida que han hecho de nuestra República la envidia del mundo durante 250 años. En este Día Nacional de Devoción Patriótica, nos unimos como un solo pueblo para honrar nuestros ideales estadounidenses más sagrados, celebrar nuestras victorias y reafirmar nuestra solemne misión de hacer que nuestro país sea más grande que nunca.",
+      "Cuando asumí el cargo hace 1 año, nuestro país se encontraba en un estado de caos y decadencia. Nuestras fronteras estaban completamente abiertas, lo que permitía que criminales, narcotraficantes y violentos miembros de pandillas entraran en masa y envenenaran nuestras comunidades. La delincuencia iba en aumento, las fuerzas del orden estaban asediadas, y los cristianos, conservadores y otros estadounidenses inocentes estaban siendo perseguidos ferozmente. La inflación estaba asfixiando a las familias, los salarios estaban estancados y el costo de vida estaba fuera de control. La democracia estadounidense había sido socavada por la ilegalidad, el abuso de poder gubernamental y el colapso de la rendición de cuentas en los niveles más altos. Los hombres competían en deportes femeninos e invadían los vestidores de las mujeres. Se imponían ideologías extremistas de izquierda en las aulas. Los peores acuerdos comerciales de nuestra historia habían vaciado la industria estadounidense, y nuestros líderes estaban debilitando nuestra fortaleza en el escenario mundial.",
+      "Desde el primer día, comencé de inmediato a trabajar en favor de los hombres y mujeres respetuosos de la ley y trabajadores que construyeron nuestra Nación, que defienden nuestra Nación y que hacen que nuestra Nación funcione.",
+      "Uno de mis deberes más urgentes fue enfrentar la peor crisis fronteriza en la historia de Estados Unidos. Poco después de prestar juramento, declaré una emergencia nacional en la frontera sur, designé a los cárteles como Organizaciones Terroristas Extranjeras y Terroristas Globales Especialmente Designados, reanudé la construcción del muro fronterizo, restablecí la política de Permanecer en México, puse fin a la práctica de captura y liberación, eliminé el asilo para quienes cruzan ilegalmente la frontera, desplegué a miles de soldados estadounidenses para defender y proteger nuestra frontera sur, y comencé a llevar a cabo la operación de deportación más grande en la historia de nuestro país.",
+      "En tan solo unos pocos meses, convertimos la peor crisis fronteriza en la frontera más segura jamás registrada. El torrente de extranjeros ilegales que ingresaban a nuestro país se ha detenido abruptamente. Los cruces fronterizos ilegales durante el año se han desplomado en un 92 por ciento, y la Oficina de Aduanas y Protección Fronteriza de Estados Unidos (CBP) incautó más de medio millón de libras de drogas.",
+      "Asimismo, no he perdido tiempo en reconstruir nuestra economía. El primer día de mi Administración, firmé un Memorando Presidencial para asegurar un alivio de emergencia en los precios para las familias, ordenando a los departamentos federales liberar a la economía estadounidense de restricciones regulatorias, restablecer la asequibilidad y reducir el costo de vida. Además, he tomado medidas para restaurar el dominio estadounidense en la producción de energía y lograr una abundancia energética que redujo (página impresa 3316) el costo del gas y la electricidad a niveles no vistos en décadas. Como resultado, la inflación ha disminuido un 70 por ciento desde su tasa máxima durante la administración anterior, la brecha de asequibilidad se está cerrando rápidamente, los salarios reales están aumentando considerablemente y los costos de vivienda están disminuyendo.",
+      "Además, mi Administración ha reconstruido la manufactura estadounidense y ha puesto fin a las políticas que obligaban a nuestros trabajadores y empresas a competir contra naciones extranjeras que explotan nuestros mercados. Hemos conseguido inversiones históricas, así como acuerdos de infraestructura y tecnología que fortalecen nuestras cadenas de suministro, protegen la innovación estadounidense y aseguran que el futuro sea construido por manos estadounidenses y corazones orgullosamente estadounidenses.",
+      "A menos de 6 meses de mi mandato, aprobamos la histórica One Big Beautiful Bill (Una Gran y Hermosa Ley), uno de los mayores triunfos legislativos en la historia de Estados Unidos, que hizo permanentes los recortes de impuestos más grandes jamás promulgados; eliminó los impuestos sobre las propinas, sobre el Seguro Social y sobre las horas extras; aumentó el crédito tributario por hijos; invirtió en infraestructura estadounidense; redujo los costos de energía; y asegura de manera permanente la frontera.",
+      "También he actuado con rapidez para reafirmar la fortaleza estadounidense en el escenario mundial. En mi primer día de regreso en el cargo, firmé una Orden Ejecutiva que ordena al Secretario de Estado garantizar que todas las políticas, programas, personal y operaciones del Departamento de Estado defiendan los intereses de Estados Unidos y defiendan las necesidades del pueblo estadounidense. También he reconstruido las fuerzas armadas más poderosas y capaces de todo el mundo. Guiada por una política exterior de paz mediante la fortaleza, mi Administración ya ha logrado importantes acuerdos de paz entre naciones desgarradas por décadas de enfrentamientos, incluyendo en el Medio Oriente, y continuaremos buscando resoluciones pacíficas que pongan a Estados Unidos primero, protejan a nuestros ciudadanos y promuevan la estabilidad y la prosperidad tanto en el país como en el extranjero. Se está restaurando por completo toda la fuerza del espíritu estadounidense, y nuestro trabajo apenas comienza.",
+      "Como Presidente, he trabajado para restaurar los valores estadounidenses perdurables que nos unen como una Nación bajo Dios: la justicia igualitaria ante la ley, la libertad de expresión, el mérito por encima de la siniestra agenda de \"DEI\", y la reverencia por nuestra herencia, nuestra historia y nuestros héroes. Mi Administración ha puesto fin a la era de la utilización del gobierno como arma política, ha fortalecido la integridad de nuestras elecciones y ha reafirmado que la ley se aplica por igual a todos los ciudadanos. Lo más importante es que estamos renovando nuestra cultura cívica. Bajo mi liderazgo, una vez más se enseña a los niños a amar a su país y a respetar siempre nuestra gran bandera estadounidense.",
+      "El 20 de enero de 2025 será recordado para siempre como el día en que nuestra Nación fue restaurada a toda su grandeza y gloria. Nunca más Estados Unidos entregará su soberanía, silenciará a su pueblo, pedirá disculpas por su fortaleza, ni suprimirá los derechos y el potencial otorgado por Dios a sus ciudadanos. En este Día Nacional de Devoción Patriótica, mientras celebramos 250 años desde la fundación de nuestra Nación, permanecemos renovados, resueltos e impávidos, llevando adelante el mismo espíritu desafiante del 4 de julio de 1776 que forjó nuestra República y asegurará nuestro futuro para las generaciones venideras.",
+      "POR LO TANTO, YO, DONALD J. TRUMP, Presidente de los Estados Unidos de América, en virtud de la autoridad que me confieren la Constitución y las leyes de los Estados Unidos, proclamo por la presente el 20 de enero de 2026 como el Día Nacional de Devoción Patriótica, con el fin de fortalecer nuestros lazos mutuos y con nuestro país, y de renovar los deberes del Gobierno para con el pueblo.",
+      "(página impresa 3317)",
+      "EN TESTIMONIO DE LO CUAL, he puesto mi firma el día veinte de enero, del año de nuestro Señor dos mil veintiséis, y de la Independencia de los Estados Unidos de América el ducentésimo quincuagésimo.",
+      "[FR Doc. 2026-01572",
+      "Presentado el 23-1-26; 11:15 am]",
+      "Código de facturación 3395-F4-P"
+    ],
+    "zh": [
+      "2026年1月20日第11005号公告",
+      "2026年全国爱国奉献日",
+      "总统公告",
+      "一年前的今天,我站在我国首都雄伟的圆形大厅内,向美国人民承诺,我们将收复国家主权,恢复我们的安全,重新平衡正义的天平,重建一个自豪、繁荣、自由的国家。在过去的12个月中,我的政府以史诗般的方式迅速兑现了这些承诺,开启了和平、繁荣与强大的新时代,重新找回了使我们的共和国在250年间令世界各国艳羡的价值观与生活方式。在这个全国爱国奉献日,我们作为一个整体的人民团结一致,共同尊崇我们最神圣的美国理想,庆祝我们取得的胜利,并重申我们让国家比以往任何时候都更加伟大的庄严使命。",
+      "一年前我上任之时,我国正处于混乱与衰退的状态。我们的边境大开,使得罪犯、毒贩和暴力黑帮成员得以大量涌入,毒害我们的社区。犯罪率飙升,执法部门受到围攻,基督徒、保守派人士及其他无辜的美国人遭到恶毒迫害。通货膨胀使家庭不堪重负,工资停滞不前,生活成本失控。美国的民主制度因无法无天、政府滥权以及最高层问责制的崩溃而遭到破坏。男性运动员参与女子体育项目并侵入女性更衣室。极端左翼意识形态被强行灌输进课堂。历史上最糟糕的贸易协定掏空了美国的产业,我们的领导人在世界舞台上削弱着我们的实力。",
+      "就职首日,我立即着手为那些建设我们国家、保卫我们国家、让我们国家正常运转的守法、勤劳的男女民众而奋斗。",
+      "我最紧迫的职责之一,便是应对美国历史上最严重的边境危机。在我宣誓就职后不久,我便宣布南部边境进入国家紧急状态,将贩毒集团指定为外国恐怖组织和特别指定全球恐怖分子,恢复边境墙建设,重新实施“留在墨西哥”政策,终止“抓了就放”做法,终止非法越境者的庇护资格,部署数千名美国军人保卫南部边境,并开始实施我国历史上规模最大的驱逐出境行动。",
+      "短短几个月内,我们便将最严重的边境危机转变为有史以来最安全的边境。涌入我国的非法移民潮已戛然而止。全年非法越境人数骤降了92%,美国海关与边境保护局(CBP)缴获了超过五十万磅毒品。",
+      "我也毫不耽搁地着手重建我们的经济。就职首日,我便签署了一份总统备忘录,以确保家庭获得紧急价格纾困,责令联邦各部门摆脱监管束缚,恢复经济承受能力,降低生活成本。我进一步采取行动,恢复美国在能源生产领域的主导地位,实现能源富足,将汽油和电价降至数十年来未见的水平(印刷页第3316页)。因此,通货膨胀率已较上届政府执政期间的峰值下降了70%,可负担性差距正迅速缩小,实际工资大幅攀升,住房成本持续下降。",
+      "此外,我的政府重建了美国制造业,终结了那些迫使我国工人和企业与利用我国市场的外国进行竞争的政策。我们已促成了具有历史意义的投资、基础设施和技术协议,这些协议强化了我们的供应链,保护了美国的创新能力,并确保未来由美国人的双手和自豪的美国人之心所缔造。",
+      "在我任期不到六个月之时,我们便通过了具有历史意义的《一个伟大美丽法案》,这是美国历史上最伟大的立法成就之一,该法案将有史以来规模最大的减税永久化;实现了小费免税、社会保障金免税、加班费免税;提高了儿童税收抵免;投资于美国基础设施;降低了能源成本;并永久确保了边境安全。",
+      "我还迅速采取行动,重新确立美国在世界舞台上的实力。在我重返总统职位的第一天,我签署了一项行政命令,指示国务卿确保国务院的所有政策、项目、人员和行动都维护美国的利益,并捍卫美国人民的需求。我还重建了世界上最强大、最有能力的军队。在以实力求和平的外交政策指导下,我的政府已经促成了几十年来饱受战争蹂躏的国家之间达成重大和平协议,包括在中东地区,我们将继续寻求把美国利益放在首位、保护我国公民、促进国内外稳定与繁荣的和平解决方案。美国精神的全部力量正在得到全面恢复,我们的工作才刚刚开始。",
+      "作为总统,我一直致力于恢复将我们作为蒙上帝庇佑的一个国家团结在一起的持久美国价值观:法律面前人人平等、言论自由、以才能为重而非邪恶的“多元、公平与包容(DEI)”议程,以及对我们的传统、历史和英雄的崇敬。我的政府已经结束了政府武器化的时代,加强了我们选举的公正性,并重申法律面前人人平等适用于每一位公民。最重要的是,我们正在革新我们的公民文化。在我的领导下,孩子们再次被教导要热爱自己的国家,并始终尊重我们伟大的美国国旗。",
+      "2025年1月20日将被永远铭记为我们国家恢复其全部伟大与荣耀的日子。美国绝不会再放弃其主权、压制其人民的声音、为其实力道歉,或压制其公民的权利和上天赋予的潜能。值此爱国奉献全国日之际,值此我们庆祝建国250周年之际,我们以焕然一新、坚定不移、无所畏惧的姿态,承继1776年7月4日那种缔造我们共和国、并将为子孙后代保障我们未来的不屈不挠的精神。",
+      "因此,我,唐纳德·J·特朗普,美利坚合众国总统,依据宪法和美利坚合众国法律赋予我的权力,特此宣布2026年1月20日为爱国奉献全国日,以加强我们彼此之间以及与我们国家之间的联系,并重申政府对人民的责任。",
+      "(印刷页第3317页)",
+      "我谨于公历二千零二十六年,即美利坚合众国独立第二百五十年,一月二十日,亲笔签署,以昭信守。",
+      "[联邦公报文件编号 2026-01572",
+      "于2026年1月23日上午11:15提交存档]",
+      "账单代码 3395-F4-P"
+    ],
+    "ja": [
+      "2026年1月20日付大統領布告第11005号",
+      "2026年愛国的献身の国民の日",
+      "大統領布告",
+      "1年前の本日、私は我が国の首都の壮麗な円形議事堂に立ち、米国民に対し、我々が国家主権を取り戻し、安全を回復し、正義の天秤を再び均衡させ、誇り高く、繁栄し、自由な国を再建することを誓約いたしました。過去12か月間、私の政権はこれらの約束を驚異的な形で迅速に実現し、平和、繁栄、そして強さの新時代をもたらし、250年にわたり我が共和国を世界の羨望の的としてきた価値観と生活様式を取り戻しました。この愛国的献身の国民の日に、我々は一つの国民として団結し、我々の最も神聖な米国の理想を称え、我々の勝利を祝い、我が国をかつてないほど偉大にするという厳粛な使命を再確認いたします。",
+      "私が1年前に就任したとき、我が国は混乱と衰退の状態にありました。我が国境は大きく開かれ、犯罪者、麻薬密売人、凶悪なギャングの構成員が流入し、我々の地域社会を蝕むことを許していました。犯罪は急増し、法執行機関は包囲され、キリスト教徒、保守派、その他の罪のない米国民が容赦なく迫害されていました。インフレは家族の生活を圧迫し、賃金は停滞し、生活費は制御不能となっていました。米国の民主主義は、無法状態、政府の濫用、そして最高レベルにおける説明責任の崩壊によって損なわれていました。男性が女性スポーツに出場し、女性の更衣室に侵入していました。過激な左翼思想が教室に押し付けられていました。我が国史上最悪の貿易協定が米国の産業を空洞化させ、我が国の指導者たちは世界の舞台における我々の強さを損なっていました。",
+      "就任初日から、私は我が国を築き、我が国を守り、我が国を動かしている、法を遵守し勤勉な男女のために戦うべく、直ちに取り組みを開始いたしました。",
+      "私の最も緊急な責務の一つは、米国史上最悪の国境危機に立ち向かうことでした。就任宣誓の直後、私は南部国境において国家非常事態を宣言し、カルテルを外国テロ組織および特別指定国際テロリストに指定し、国境の壁の建設を再開し、「メキシコにとどまる」政策を復活させ、キャッチアンドリリースの慣行を停止し、不法に国境を越えた者への亡命を終了させ、南部国境の防衛と保護のために数千人の米国兵士を配備し、我が国史上最大規模の国外退去強制作戦の実施を開始いたしました。",
+      "わずか数か月のうちに、我々は最悪の国境危機を史上最も安全な国境へと転換いたしました。我が国に流入する不法入国者の洪水は急停止いたしました。年間を通じた不法越境は92パーセント急減し、米国税関国境警備局は50万ポンドを超える麻薬を押収いたしました。",
+      "私はまた、我が国の経済再建にも一刻の猶予も惜しまず取り組んでまいりました。政権発足初日に、私は家庭への緊急物価対策を確保するための大統領覚書に署名し、連邦各省庁に対し、米国経済を規制の束縛から解放し、物価の手頃さを回復し、生活費を引き下げるよう命じました。さらに私は、エネルギー生産における米国の優位性を回復させ、豊富なエネルギーをもたらす行動をとり、ガソリンおよび電気料金の価格を(印刷ページ3316)数十年ぶりの水準にまで引き下げました。その結果、インフレ率は前政権下でのピーク時から70パーセント低下し、物価の手頃さの格差は急速に縮小し、実質賃金は急上昇し、住宅費は下落しております。",
+      "さらに、私の政権は米国の製造業を再建し、我が国の労働者および企業に対し、我が国の市場を食い物にする外国と競争することを強いてきた政策に終止符を打ちました。我々は、サプライチェーンを強化し、米国の技術革新を保護し、未来が米国人の手と誇り高い米国人の心によって築かれることを確実にする、歴史的な投資、インフラ、および技術に関する取引を確保いたしました。",
+      "就任からわずか6か月足らずで、我々は米国史上最大の減税を恒久化し、チップへの非課税、社会保障への非課税、残業代への非課税を実現し、児童税額控除を拡大し、米国のインフラに投資し、エネルギー費用を引き下げ、国境を恒久的に確保する、米国史上最大の立法上の勝利の一つである、歴史的な「ワン・ビッグ・ビューティフル法案」を可決いたしました。",
+      "私はまた、世界の舞台においてアメリカの強さを再主張するため、迅速に行動してまいりました。大統領再任初日に、私は国務長官に対し、国務省のすべての政策、計画、人員及び活動がアメリカの利益を守り、アメリカ国民の必要を擁護することを確保するよう指示する大統領令に署名いたしました。私はまた、世界で最も強力かつ有能な軍隊を再建いたしました。力による平和という外交政策に導かれ、私の政権は既に、中東を含む数十年にわたる戦闘によって引き裂かれた国家間において主要な和平合意を確保しており、私たちは引き続き、アメリカを第一に考え、国民を保護し、国内外における安定と繁栄を促進する平和的解決を追求してまいります。アメリカの精神の総力は完全に回復されつつあり、私たちの仕事はまだ始まったばかりです。",
+      "大統領として、私は、唯一神のもとに一つの国民として私たちを結びつける永続的なアメリカの価値観、すなわち法の下の平等な正義、言論の自由、邪悪な「DEI」政策に代わる実力主義、そして私たちの遺産、歴史、英雄への畏敬の念を回復するために尽力してまいりました。私の政権は、政府の武器化の時代を終わらせ、選挙の公正性を強化し、法はすべての国民に平等に適用されることを再確認いたしました。最も重要なことは、私たちが市民文化を刷新しているということです。私の指導のもと、子供たちは再び自国を愛し、偉大なアメリカ国旗を常に尊重するよう教えられています。",
+      "2025年1月20日は、私たちの国が完全な偉大さと栄光を取り戻した日として永遠に記憶されるでしょう。アメリカが二度と、その主権を放棄し、国民の声を封じ、その強さを謝罪し、国民の権利と神から授かった可能性を抑圧することはありません。この愛国的献身の国民の日に、建国250周年を祝うにあたり、私たちは1776年7月4日に私たちの共和国を築き、今後何世代にもわたって私たちの未来を確保するであろうあの反骨の精神を引き継ぎながら、刷新され、決意に満ち、恐れることなく立っています。",
+      "それゆえ、私、アメリカ合衆国大統領ドナルド・J・トランプは、合衆国憲法及び法律により私に与えられた権限に基づき、互いの、そして国との絆を強化し、国民に対する政府の責務を再確認するため、ここに2026年1月20日を愛国的献身の国民の日と布告する。",
+      "(印刷ページ3317)",
+      "以上の証として、私は、西暦2026年1月、すなわち主の年2026年の1月20日、及びアメリカ合衆国独立250周年にあたり、ここに自らの署名をいたしました。",
+      "[連邦官報文書番号 2026-01572",
+      "提出日 2026年1月23日 午前11時15分]",
+      "請求コード 3395-F4-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
