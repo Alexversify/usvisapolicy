@@ -1,5 +1,26 @@
 [
   {
+    "id": "c3b5f3604ba6",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+    "published": "2026-10-13",
+    "effective_date": "2026-10-14",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "humanitarian"
+    ],
+    "tags": [
+      "EAD",
+      "Form I-765",
+      "Automatic Extension",
+      "Final Rule"
+    ],
+    "added": "2026-10-13T19:23Z"
+  },
+  {
     "id": "1d61b8280c46",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
