@@ -1,0 +1,348 @@
+{
+  "id": "ecaf28fac2fc",
+  "source": "uscis_news",
+  "url": "https://www.uscis.gov/newsroom/alerts/update-on-uscis-strengthened-screening-and-vetting",
+  "original_title": "Update on USCIS’ Strengthened Screening and Vetting",
+  "published": "2026-03-30",
+  "effective_date": "2026-06-11",
+  "importance": "high",
+  "category": "policy",
+  "tags": [
+    "Court Order",
+    "Travel Ban",
+    "Asylum",
+    "Diversity Visa",
+    "Vetting"
+  ],
+  "relevant": true,
+  "langs": {
+    "en": {
+      "title": "Federal Court Vacates USCIS Hold Policies on Asylum and High-Risk Country Applications",
+      "summary": "A federal court in Rhode Island vacated three USCIS policy documents that had placed holds on asylum applications and benefit requests from certain high-risk countries. USCIS says it disagrees with the ruling but will comply while updated instructions are prepared, and the agency continues broader screening and vetting efforts tied to recent travel-restriction proclamations.",
+      "points": [
+        "On June 11, 2026, final judgment was entered in Dorcas International Institute of Rhode Island v. USCIS (D.R.I.), vacating Policy Memoranda PM 602-0192 and PM 602-0194 and Policy Alert PA 2025-26.",
+        "These documents had placed holds on asylum applications and benefit requests from applicants in countries designated as high-risk under recent presidential proclamations.",
+        "The order took effect immediately upon entry of final judgment and applies agency-wide; USCIS says the vacated memos should be treated as not in effect.",
+        "The source does not state that Policy Memorandum PM 602-0193, which held diversity visa adjustment of status applications, was vacated.",
+        "USCIS says it disagrees with the court's order but will follow it while litigation continues, and will issue updated instructions.",
+        "USCIS separately describes ongoing enhanced vetting measures, including shorter validity periods for some Employment Authorization Documents, increased social media and financial vetting, and Operation PARRIS background reviews."
+      ],
+      "who": "Applicants for asylum, naturalization, or other USCIS benefits whose cases were held under PM 602-0192 or PM 602-0194 because of a high-risk country designation.",
+      "action": "Affected applicants should monitor USCIS announcements for updated processing instructions and may consult an immigration attorney about the status of their held case."
+    },
+    "ko": {
+      "title": "연방법원, USCIS의 고위험국가 신청 보류 정책 무효화 판결",
+      "summary": "로드아일랜드 연방지방법원이 USCIS가 특정 고위험국가 출신 신청자들의 망명 및 혜택 신청을 보류시켰던 정책 메모 세 건을 무효화하는 판결을 내렸습니다. USCIS는 이 판결에 동의하지 않지만 이를 준수하겠다고 밝혔으며, 최근 입국제한 포고령에 따른 심사 강화 조치는 계속 진행 중이라고 설명했습니다.",
+      "points": [
+        "2026년 6월 11일 로드아일랜드 연방지방법원은 Dorcas International Institute of Rhode Island 대 USCIS 소송에서 최종판결을 내려 정책메모 PM 602-0192, PM 602-0194와 정책경고 PA 2025-26을 무효화했습니다.",
+        "이 세 문서는 최근 대통령 포고령에 따라 고위험국가로 지정된 국가 출신 신청자들의 망명 신청과 혜택 신청을 보류시킨 근거였습니다.",
+        "이번 법원 명령은 최종판결과 동시에 즉시 발효되며 USCIS 전체에 적용되고, USCIS는 해당 메모들을 더 이상 유효하지 않은 것으로 처리한다고 밝혔습니다.",
+        "다양성이민비자(DV) 신분조정 신청을 보류시켰던 정책메모 PM 602-0193이 함께 무효화되었다는 내용은 자료에 나와 있지 않습니다.",
+        "USCIS는 법원 판결에 강하게 반대한다고 밝혔지만 추가 소송 진행 중에는 이를 준수하며 조만간 업데이트된 지침을 발표할 예정입니다.",
+        "USCIS는 별도로 취업허가서(EAD) 유효기간 단축, 소셜미디어 및 재정 심사 강화, Operation PARRIS를 통한 난민 재심사 등 심사 강화 조치를 계속 추진하고 있다고 설명했습니다."
+      ],
+      "who": "고위험국가 지정으로 인해 PM 602-0192 또는 PM 602-0194에 따라 신청이 보류되었던 망명 신청자, 귀화 신청자 등 USCIS 혜택 신청자들입니다.",
+      "action": "영향을 받는 신청자는 USCIS의 업데이트된 처리 안내를 주시하고, 보류된 사건의 상태에 대해 이민 전문 변호사와 상담하는 것이 좋습니다."
+    },
+    "es": {
+      "title": "Tribunal federal anula políticas de USCIS que suspendían solicitudes de asilo y de países de alto riesgo",
+      "summary": "Un tribunal federal de Rhode Island anuló tres documentos de política de USCIS que habían puesto en espera solicitudes de asilo y de beneficios de solicitantes de ciertos países designados de alto riesgo. USCIS afirma que no está de acuerdo con el fallo pero lo cumplirá mientras prepara nuevas instrucciones, y continúa con sus esfuerzos más amplios de verificación vinculados a proclamaciones recientes sobre restricciones de viaje.",
+      "points": [
+        "El 11 de junio de 2026 se dictó sentencia final en el caso Dorcas International Institute of Rhode Island contra USCIS (D.R.I.), anulando los Memorandos de Política PM 602-0192 y PM 602-0194 y la Alerta de Política PA 2025-26.",
+        "Estos documentos habían puesto en espera solicitudes de asilo y de beneficios de personas de países designados como de alto riesgo bajo proclamaciones presidenciales recientes.",
+        "La orden entró en vigor de inmediato con la sentencia final y se aplica a toda la agencia; USCIS indica que los memorandos anulados deben tratarse como si no estuvieran vigentes.",
+        "La fuente no indica que el Memorando de Política PM 602-0193, que ponía en espera las solicitudes de ajuste de estatus de la visa de diversidad, haya sido anulado.",
+        "USCIS declara que está en desacuerdo con la orden del tribunal pero la seguirá mientras continúe el litigio, y emitirá instrucciones actualizadas.",
+        "Por separado, USCIS describe medidas de verificación reforzada en curso, como periodos de validez más cortos para algunos Documentos de Autorización de Empleo, mayor verificación en redes sociales y finanzas, y revisiones de antecedentes bajo la Operación PARRIS."
+      ],
+      "who": "Solicitantes de asilo, naturalización u otros beneficios de USCIS cuyos casos fueron puestos en espera bajo PM 602-0192 o PM 602-0194 por estar relacionados con un país designado de alto riesgo.",
+      "action": "Las personas afectadas deben revisar los anuncios de USCIS para conocer instrucciones actualizadas de procesamiento y pueden consultar a un abogado de inmigración sobre el estado de su caso en espera."
+    },
+    "zh": {
+      "title": "联邦法院撤销USCIS对庇护及高风险国家申请的冻结政策",
+      "summary": "罗德岛州联邦地区法院撤销了USCIS三份政策文件,此前这些文件暂停处理来自某些被列为高风险国家申请人的庇护申请和其他福利申请。USCIS表示不认同该裁决,但在等待进一步司法审查期间将予以遵守,并继续推进与近期旅行限制公告相关的更严格审查措施。",
+      "points": [
+        "2026年6月11日,罗德岛联邦地区法院在Dorcas International Institute of Rhode Island诉USCIS案中作出最终判决,撤销政策备忘录PM 602-0192、PM 602-0194以及政策警示PA 2025-26。",
+        "这三份文件此前依据近期总统公告将某些国家列为高风险国家,并据此暂停这些国家申请人的庇护申请及福利申请。",
+        "该命令在最终判决作出后立即生效,适用于整个USCIS机构,USCIS表示应将被撤销的备忘录视为已失效。",
+        "资料中未提及曾暂停多样化移民签证身份调整申请的政策备忘录PM 602-0193也被撤销。",
+        "USCIS表示强烈不认同法院裁决,但在诉讼进一步进展期间将遵守该裁决,并将发布更新指引。",
+        "USCIS另行说明其持续推进的加强审查措施,包括缩短部分工作许可文件(EAD)的有效期、加强社交媒体和财务审查,以及通过PARRIS行动对难民申请进行背景复查。"
+      ],
+      "who": "因所属国家被列为高风险国家而依据PM 602-0192或PM 602-0194被暂停处理的庇护申请人、入籍申请人及其他USCIS福利申请人。",
+      "action": "受影响的申请人应关注USCIS发布的最新处理指引,并可就其被暂停案件的状态咨询移民律师。"
+    },
+    "ja": {
+      "title": "連邦裁判所、庇護申請および高リスク国申請の保留政策を無効と判断",
+      "summary": "ロードアイランド州連邦地方裁判所は、特定の高リスク国出身者による庇護申請や各種申請を保留していたUSCISの3つの政策文書を無効とする判決を下しました。USCISはこの判決に同意しないとしながらも、さらなる司法審査を待つ間はこれに従うとしており、最近の入国制限に関する大統領布告に基づく審査強化の取り組みは継続すると説明しています。",
+      "points": [
+        "2026年6月11日、Dorcas International Institute of Rhode Island対USCIS訴訟(ロードアイランド州連邦地方裁判所)において最終判決が下され、政策メモPM 602-0192およびPM 602-0194、政策アラートPA 2025-26が無効とされました。",
+        "これらの文書は、最近の大統領布告により高リスク国に指定された国の出身者による庇護申請やその他の申請を保留する根拠となっていました。",
+        "この命令は最終判決とともに直ちに発効し、USCIS全体に適用され、USCISは無効とされたメモを効力のないものとして扱うとしています。",
+        "多様性移民ビザの身分調整申請を保留していた政策メモPM 602-0193が無効とされたとは資料に記載されていません。",
+        "USCISは裁判所の命令に強く反対するとしながらも、訴訟が続く間はこれに従い、更新された指示を発行するとしています。",
+        "USCISは別途、一部の就労許可証(EAD)の有効期間短縮、ソーシャルメディアおよび財務審査の強化、Operation PARRISによる難民申請の背景再調査など、審査強化策を継続していると説明しています。"
+      ],
+      "who": "高リスク国指定を理由にPM 602-0192またはPM 602-0194に基づき申請が保留されていた庇護申請者、帰化申請者、その他のUSCIS申請者です。",
+      "action": "影響を受ける申請者はUSCISが発表する最新の処理指示を注視し、保留中の案件の状況について移民専門弁護士に相談することが望まれます。"
+    }
+  },
+  "added": "2026-10-13T01:34Z",
+  "model": "claude-sonnet-5",
+  "agency": "uscis",
+  "topics": [
+    "humanitarian",
+    "travel",
+    "family"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Release Date"
+      },
+      {
+        "t": "p",
+        "x": "03/30/2026"
+      },
+      {
+        "t": "p",
+        "x": "Alert Type info"
+      },
+      {
+        "t": "p",
+        "x": "ALERT: Court Order on Hold Policies"
+      },
+      {
+        "t": "p",
+        "x": "On June 5, 2026, the U.S. District Court for the District of Rhode Island issued an order in Dorcas International Institute of Rhode Island, et al. v. United States Citizenship and Immigration Services, et al., 26-cv-00132-JJM-PAS (D.RI.), vacating PM 602-0192, PM 602-0194, and PA 2025-26. The Court entered its final judgment on June 11, 2026. In this case, the plaintiffs are non-governmental organizations and labor unions who represent millions of individuals who filed immigration applications."
+      },
+      {
+        "t": "p",
+        "x": "USCIS strongly disagrees with the Court’s order but will follow its terms pending possible further judicial review."
+      },
+      {
+        "t": "p",
+        "x": "The Policy Memoranda and the Policy Alert were issued based on Presidential Proclamation 10949, Restricting the Entry of Foreign Nationals To Protect the United States From Foreign Terrorists and Other National Security and Public Safety Threats, June 4, 2025, and Presidential Proclamation (PP) 10998, Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States, December 16, 2025, and to address the lack of screening, vetting, and the threat to national security and public safety."
+      },
+      {
+        "t": "p",
+        "x": "With entry of final judgment this order is effective immediately, and pursuant to the court-ordered vacatur, applies agency-wide. Thus, the vacatur applies to PM 602-0192, PM 602-0194, and PA 2025-26, which should be treated as if they are not in effect."
+      },
+      {
+        "t": "p",
+        "x": "USCIS will issue updated instructions pending further litigation developments."
+      },
+      {
+        "t": "p",
+        "x": "Since taking office, President Trump has prioritized national security and public safety by implementing a series of executive orders and proclamations that mandate strict screening and vetting of foreign nationals seeking entry or immigration benefits."
+      },
+      {
+        "t": "p",
+        "x": "Executive Order 14161, Protecting the United States from Foreign Terrorist and Other National Security and Public Safety Threats, directed agencies to vet and screen aliens to the maximum degree possible – particularly those aliens coming from regions or nations with identified security risks. Presidential Proclamation 10949, Restricting the Entry of Foreign Nationals To Protect the United States From Foreign Terrorists and Other National Security and Public Safety Threats, and Presidential Proclamation 10998, Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States, together restricted entry from 39 countries lacking adequate screening and vetting information. Collectively, these actions represent a renewed commitment to the national interest in immigration."
+      },
+      {
+        "t": "p",
+        "x": "U.S. Citizenship and Immigration Services (USCIS) is committed to the integrity of the immigration system, national security, and public safety. Our top priority is ensuring that all individuals seeking immigration benefits are properly vetted, particularly those from identified high-risk countries. This alert provides the public with a detailed account of what we have found, what we are doing, and what we will continue to do to protect national security, public safety, and root out fraud."
+      },
+      {
+        "t": "p",
+        "x": "What We Found\nThrough an ongoing comprehensive review of pending workloads and benefit applications, USCIS ascertained that prior screening and vetting measures were wholly inadequate. Many applicants for naturalization and lawful permanent residence were not sufficiently vetted. As a result, applications were approved and individuals were naturalized who should not have been. These gaps expose the United States to significant national security and public safety risks and compromise the integrity of the immigration system."
+      },
+      {
+        "t": "p",
+        "x": "What We Are Doing\nIn accordance with relevant executive orders and presidential proclamations, USCIS issued Policy Memorandum, Hold and Review of all Pending Asylum Applications and all USCIS Benefit Applications Filed by Aliens from High-Risk Countries (PM-602-0192); Policy Memorandum, Hold and Review of Pending USCIS Adjustment of Status Applications Filed by Aliens Under the Diversity Immigrant Visa Program (PM-602-0193); and Policy Memorandum, Hold and Review of USCIS Benefit Application Filed by Aliens from Additional High-Risk Countries (PM-602-0194). These memoranda placed on hold asylum applications, benefit requests from high-risk countries, and diversity visa adjustment of status applications, among other provisions."
+      },
+      {
+        "t": "p",
+        "x": "USCIS has implemented a series of robust actions after issuance of those policy memoranda:"
+      },
+      {
+        "t": "li",
+        "x": "Enhanced Screening and Vetting Practices\nOver the past several months, USCIS has reviewed and updated screening and vetting practices, including:"
+      },
+      {
+        "t": "li",
+        "x": "Shortening validity periods for certain Employment Authorization Documents to require more frequent security checks;"
+      },
+      {
+        "t": "li",
+        "x": "Updating photograph reuse policies to strengthen identity verification, including biometric identity verification when reusing fingerprints;"
+      },
+      {
+        "t": "li",
+        "x": "Increasing social media and financial vetting and community interviews;"
+      },
+      {
+        "t": "li",
+        "x": "Launching Operation PARRIS to conduct additional background checks, re-interviews, and merit reviews of refugee claims, led by the USCIS Vetting Center;"
+      },
+      {
+        "t": "li",
+        "x": "Developing system connectivity for automatic notifications of biometric matches and new criminal information; and"
+      },
+      {
+        "t": "li",
+        "x": "Requiring final arrest encounter reviews and Department of State Consular Consolidated Database checks before final adjudication."
+      },
+      {
+        "t": "li",
+        "x": "Internal Review Process\nUSCIS established an internal process for lifting holds on individual or group cases, requiring comprehensive review by multiple offices. Holds have been lifted for aliens vetted through Operation PARRIS, certain petitions filed by U.S. citizens, intercountry adoption forms, certain rescheduled oath ceremonies, statutory and regulatory decision issuance, refugee registrations for South African citizens/nationals, certain special immigrant visa petitions, certain employment authorization documents, and asylum applications from non high-risk countries, and applications associated with medical physicians. We continue to review all application types and lift holds for both individual and group cases as appropriate."
+      },
+      {
+        "t": "li",
+        "x": "Country-Specific Risk Analysis\nUSCIS compiled information on each country listed in the travel ban proclamations and is working with the Department of State to identify risk factors, including indicators of fraud, public safety, or national security risks. USCIS is comparing these to existing screening practices to recommend improvements."
+      },
+      {
+        "t": "li",
+        "x": "Enhanced Vetting Plan Development\nUSCIS is developing a layered vetting plan, incorporating classified and unclassified information, as well as expanded criminal history checks, identity verification, and ad hoc security checks to close security gaps."
+      },
+      {
+        "t": "li",
+        "x": "Guidance for Adjudicators\nUSCIS is developing guidance to help adjudicators align interview resources to specific risks identified for each country, including document reliability concerns and designated Foreign Terrorist Organizations (FTOs)."
+      },
+      {
+        "t": "p",
+        "x": "What We Will Continue to Do\nUSCIS will continue to strengthen our screening and vetting procedures to ensure maximum protection for national security and public safety, and to root out fraud in the immigration system. Our ongoing efforts are designed to ensure that only eligible and vetted individuals are granted immigration benefits."
+      },
+      {
+        "t": "p",
+        "x": "Our Commitment\nThese actions reflect the Trump administration’s commitment to making America safe again. USCIS will remain vigilant and proactive in protecting the United States from foreign terrorists, criminal aliens, those who commit fraud, and other threats. We are dedicated to maintaining the integrity of America’s immigration system and keeping the public informed about our progress."
+      },
+      {
+        "t": "p",
+        "x": "06/12/2026"
+      }
+    ],
+    "fetched": "2026-10-13T01:34Z",
+    "from": "page",
+    "chars": 7640
+  },
+  "full": {
+    "ko": [
+      "발행일",
+      "2026년 3월 30일",
+      "알림 유형: 정보",
+      "알림: 보류 정책에 관한 법원 명령",
+      "2026년 6월 5일, 로드아일랜드 지구 연방지방법원(U.S. District Court for the District of Rhode Island)은 Dorcas International Institute of Rhode Island, et al. v. United States Citizenship and Immigration Services, et al., 26-cv-00132-JJM-PAS (D.RI.) 사건에서 PM 602-0192, PM 602-0194 및 PA 2025-26을 무효화하는 명령을 내렸습니다. 법원은 2026년 6월 11일에 최종 판결을 내렸습니다. 이 사건에서 원고는 수백만 명의 이민 신청서를 제출한 개인들을 대표하는 비정부기구 및 노동조합입니다.",
+      "미국 시민권 및 이민서비스국(USCIS)은 법원의 명령에 강력히 동의하지 않으나, 추가적인 사법 심사가 이루어질 때까지 그 조건을 준수할 것입니다.",
+      "해당 정책 메모 및 정책 경보는 2025년 6월 4일자 대통령 포고문 10949호, 「외국 테러리스트 및 기타 국가안보·공공안전 위협으로부터 미국을 보호하기 위한 외국인 입국 제한」, 그리고 2025년 12월 16일자 대통령 포고문(PP) 10998호, 「미국의 안보를 보호하기 위한 외국인 입국 제한 및 한정」에 근거하여, 심사 및 검증의 부족과 국가안보 및 공공안전에 대한 위협에 대응하기 위해 발령되었습니다.",
+      "최종 판결의 선고와 함께 이 명령은 즉시 효력을 발생하며, 법원이 명령한 무효화에 따라 기관 전체에 적용됩니다. 따라서 이 무효화는 PM 602-0192, PM 602-0194 및 PA 2025-26에 적용되며, 이들은 효력이 없는 것으로 취급되어야 합니다.",
+      "USCIS는 추가 소송 진행 상황에 따라 갱신된 지침을 발표할 예정입니다.",
+      "트럼프 대통령은 취임 이후, 입국 또는 이민 혜택을 신청하는 외국인에 대한 엄격한 심사 및 검증을 의무화하는 일련의 행정명령 및 포고문을 시행함으로써 국가안보와 공공안전을 최우선 과제로 삼아 왔습니다.",
+      "행정명령 14161호, 「외국 테러리스트 및 기타 국가안보·공공안전 위협으로부터 미국을 보호하기 위한 조치」는 각 기관으로 하여금 외국인, 특히 안보 위험이 확인된 지역 또는 국가 출신 외국인을 최대한 심사하고 검증하도록 지시하였습니다. 대통령 포고문 10949호, 「외국 테러리스트 및 기타 국가안보·공공안전 위협으로부터 미국을 보호하기 위한 외국인 입국 제한」과 대통령 포고문 10998호, 「미국의 안보를 보호하기 위한 외국인 입국 제한 및 한정」은 함께 심사 및 검증 정보가 충분하지 아니한 39개국으로부터의 입국을 제한하였습니다. 이러한 조치들은 종합적으로 이민에 관한 국익 수호에 대한 새로운 의지를 보여줍니다.",
+      "미국 시민권 및 이민서비스국(USCIS)은 이민제도의 완전성, 국가안보 및 공공안전을 확보하는 데 전념하고 있습니다. 우리의 최우선 과제는 이민 혜택을 신청하는 모든 개인, 특히 고위험 국가로 확인된 국가 출신자에 대한 적절한 검증을 보장하는 것입니다. 이 알림은 국가안보와 공공안전을 보호하고 부정행위를 근절하기 위해 우리가 확인한 사항, 현재 시행 중인 조치, 그리고 앞으로 계속 시행할 조치에 관한 상세한 내용을 국민에게 제공합니다.",
+      "확인된 사항\n진행 중인 업무량 및 혜택 신청서에 대한 포괄적인 검토를 통해 USCIS는 기존의 심사 및 검증 조치가 전적으로 불충분하였음을 확인하였습니다. 귀화 및 합법적 영주권 신청자 다수가 충분히 검증되지 아니하였습니다. 그 결과, 승인되어서는 안 되었을 신청서가 승인되었고, 귀화되어서는 안 되었을 개인이 귀화하였습니다. 이러한 공백은 미국을 심각한 국가안보 및 공공안전 위험에 노출시키며 이민제도의 완전성을 훼손합니다.",
+      "현재 시행 중인 조치\n관련 행정명령 및 대통령 포고문에 따라, USCIS는 정책 메모 「고위험 국가 출신 외국인이 제출한 모든 계류 중인 망명 신청 및 모든 USCIS 혜택 신청의 보류 및 재검토」(PM-602-0192), 정책 메모 「다양성 이민 비자 프로그램에 따라 외국인이 제출한 계류 중인 USCIS 신분조정 신청의 보류 및 재검토」(PM-602-0193), 정책 메모 「추가 고위험 국가 출신 외국인이 제출한 USCIS 혜택 신청의 보류 및 재검토」(PM-602-0194)를 발령하였습니다. 이 메모들은 망명 신청, 고위험 국가로부터의 혜택 신청, 다양성 비자 신분조정 신청 등을 보류하는 내용을 포함한 여러 조항을 담고 있습니다.",
+      "USCIS는 이러한 정책 메모의 발령 이후 다음과 같은 일련의 강력한 조치를 시행하였습니다:",
+      "강화된 심사 및 검증 관행\n지난 수개월 동안 미국 시민권 및 이민국(USCIS)은 다음을 포함하여 심사 및 검증 관행을 검토하고 개선했습니다.",
+      "더 빈번한 보안 검사를 요구하기 위해 특정 취업허가서(Employment Authorization Document)의 유효기간을 단축함.",
+      "지문을 재사용하는 경우의 생체인식 신원 확인을 포함하여, 신원 확인을 강화하기 위한 사진 재사용 정책을 개선함.",
+      "소셜 미디어 및 재정 검증과 지역사회 인터뷰를 확대함.",
+      "USCIS 검증 센터(Vetting Center)가 주도하는 난민 신청에 대한 추가 신원조회, 재인터뷰 및 실질심사를 수행하기 위해 작전명 PARRIS(Operation PARRIS)를 개시함.",
+      "생체인식 일치 및 새로운 범죄 정보에 대한 자동 통지를 위한 시스템 연계를 개발함. 그리고",
+      "최종 심사 전 최종 체포 접촉 검토 및 국무부 영사통합데이터베이스(Consular Consolidated Database) 조회를 요구함.",
+      "내부 검토 절차\nUSCIS는 개별 사건 또는 집단 사건에 대한 보류 해제를 위한 내부 절차를 마련했으며, 이는 여러 부서에 의한 종합적인 검토를 요구합니다. 보류는 작전명 PARRIS를 통해 검증된 외국인, 미국 시민이 제출한 특정 청원서, 국제입양 양식, 재조정된 특정 선서식, 법정 및 규정에 따른 결정 발급, 남아프리카공화국 시민/국민에 대한 난민 등록, 특정 특별이민비자 청원서, 특정 취업허가서, 고위험국가가 아닌 국가 출신자의 망명 신청, 그리고 의사와 관련된 신청서에 대해 해제되었습니다. 우리는 모든 신청 유형을 계속 검토하고 있으며, 적절한 경우 개별 사건과 집단 사건 모두에 대해 보류를 해제하고 있습니다.",
+      "국가별 위험 분석\nUSCIS는 여행금지 포고령에 명시된 각 국가에 대한 정보를 수집했으며, 사기, 공공안전 또는 국가안보 위험의 징후를 포함한 위험 요소를 파악하기 위해 국무부와 협력하고 있습니다. USCIS는 이러한 요소를 기존 심사 관행과 비교하여 개선 사항을 권고하고 있습니다.",
+      "강화된 검증 계획 수립\nUSCIS는 기밀 및 비기밀 정보를 통합하고, 확대된 범죄 이력 조회, 신원 확인 및 보안 공백을 해소하기 위한 임시 보안 검사를 포함하는 다층적 검증 계획을 수립하고 있습니다.",
+      "심사관을 위한 지침\nUSCIS는 문서 신뢰성 문제와 지정된 외국인테러조직(Foreign Terrorist Organizations, FTOs)을 포함하여 각 국가별로 파악된 특정 위험에 맞추어 심사관이 인터뷰 자원을 배분할 수 있도록 돕는 지침을 마련하고 있습니다.",
+      "앞으로 계속할 일\nUSCIS는 국가안보와 공공안전의 최대한의 보호를 보장하고 이민 제도 내 사기를 근절하기 위해 심사 및 검증 절차를 계속 강화할 것입니다. 우리의 지속적인 노력은 자격을 갖추고 검증된 개인만이 이민 혜택을 받을 수 있도록 보장하기 위해 설계되었습니다.",
+      "우리의 다짐\n이러한 조치는 미국을 다시 안전하게 만들겠다는 트럼프 행정부의 의지를 반영합니다. USCIS는 외국 테러리스트, 범죄를 저지른 외국인, 사기를 저지르는 자 및 기타 위협으로부터 미국을 보호하는 데 있어 경계를 늦추지 않고 적극적으로 대응할 것입니다. 우리는 미국 이민 제도의 완전성을 유지하고 우리의 진행 상황을 국민에게 계속 알리는 데 최선을 다하고 있습니다.",
+      "2026년 6월 12일"
+    ],
+    "es": [
+      "Fecha de publicación",
+      "03/30/2026",
+      "Tipo de alerta: información",
+      "ALERTA: Orden judicial sobre las políticas de retención",
+      "El 5 de junio de 2026, el Tribunal de Distrito de los Estados Unidos para el Distrito de Rhode Island emitió una orden en el caso Dorcas International Institute of Rhode Island, et al. v. United States Citizenship and Immigration Services, et al., 26-cv-00132-JJM-PAS (D.RI.), mediante la cual se anularon el PM 602-0192, el PM 602-0194 y el PA 2025-26. El Tribunal dictó su sentencia definitiva el 11 de junio de 2026. En este caso, los demandantes son organizaciones no gubernamentales y sindicatos que representan a millones de personas que presentaron solicitudes de inmigración.",
+      "USCIS está en fuerte desacuerdo con la orden del Tribunal, pero cumplirá con sus términos mientras se encuentre pendiente una posible revisión judicial adicional.",
+      "Los Memorandos de Política y la Alerta de Política fueron emitidos con base en la Proclamación Presidencial 10949, Restricting the Entry of Foreign Nationals To Protect the United States From Foreign Terrorists and Other National Security and Public Safety Threats (Restricción de la entrada de nacionales extranjeros para proteger a los Estados Unidos de terroristas extranjeros y otras amenazas a la seguridad nacional y la seguridad pública), del 4 de junio de 2025, y la Proclamación Presidencial (PP) 10998, Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States (Restricción y limitación de la entrada de nacionales extranjeros para proteger la seguridad de los Estados Unidos), del 16 de diciembre de 2025, y con el fin de abordar la falta de detección, verificación, y la amenaza a la seguridad nacional y la seguridad pública.",
+      "Con la entrada de la sentencia definitiva, esta orden entra en vigor de inmediato y, conforme a la anulación ordenada por el tribunal, se aplica en toda la agencia. Por lo tanto, la anulación se aplica al PM 602-0192, al PM 602-0194 y al PA 2025-26, los cuales deben tratarse como si no estuvieran vigentes.",
+      "USCIS emitirá instrucciones actualizadas en espera de los nuevos acontecimientos en el litigio.",
+      "Desde que asumió el cargo, el presidente Trump ha priorizado la seguridad nacional y la seguridad pública mediante la implementación de una serie de órdenes ejecutivas y proclamaciones que exigen una detección y verificación estrictas de los nacionales extranjeros que buscan ingresar al país u obtener beneficios migratorios.",
+      "La Orden Ejecutiva 14161, Protecting the United States from Foreign Terrorist and Other National Security and Public Safety Threats (Protección de los Estados Unidos frente a terroristas extranjeros y otras amenazas a la seguridad nacional y la seguridad pública), ordenó a las agencias verificar y examinar a los extranjeros en la mayor medida posible, en particular a aquellos provenientes de regiones o naciones con riesgos de seguridad identificados. La Proclamación Presidencial 10949, Restricting the Entry of Foreign Nationals To Protect the United States From Foreign Terrorists and Other National Security and Public Safety Threats, y la Proclamación Presidencial 10998, Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States, en conjunto restringieron la entrada desde 39 países que carecían de información adecuada de detección y verificación. En conjunto, estas acciones representan un compromiso renovado con el interés nacional en materia de inmigración.",
+      "El Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) está comprometido con la integridad del sistema migratorio, la seguridad nacional y la seguridad pública. Nuestra principal prioridad es garantizar que todas las personas que buscan beneficios migratorios sean debidamente verificadas, en particular aquellas provenientes de países identificados como de alto riesgo. Esta alerta proporciona al público un relato detallado de lo que hemos encontrado, lo que estamos haciendo y lo que continuaremos haciendo para proteger la seguridad nacional, la seguridad pública, y erradicar el fraude.",
+      "Lo que encontramos\nA través de una revisión integral y continua de las cargas de trabajo pendientes y las solicitudes de beneficios, USCIS determinó que las medidas de detección y verificación previas eran totalmente inadecuadas. Muchos solicitantes de naturalización y residencia permanente legal no fueron suficientemente verificados. Como resultado, se aprobaron solicitudes y se naturalizó a personas que no deberían haberlo sido. Estas deficiencias exponen a los Estados Unidos a riesgos significativos para la seguridad nacional y la seguridad pública, y comprometen la integridad del sistema migratorio.",
+      "Lo que estamos haciendo\nDe conformidad con las órdenes ejecutivas y proclamaciones presidenciales pertinentes, USCIS emitió el Memorando de Política, Hold and Review of all Pending Asylum Applications and all USCIS Benefit Applications Filed by Aliens from High-Risk Countries (Retención y revisión de todas las solicitudes de asilo pendientes y todas las solicitudes de beneficios de USCIS presentadas por extranjeros de países de alto riesgo) (PM-602-0192); el Memorando de Política, Hold and Review of Pending USCIS Adjustment of Status Applications Filed by Aliens Under the Diversity Immigrant Visa Program (Retención y revisión de las solicitudes pendientes de ajuste de estatus de USCIS presentadas por extranjeros bajo el Programa de Visas de Inmigrante de Diversidad) (PM-602-0193); y el Memorando de Política, Hold and Review of USCIS Benefit Application Filed by Aliens from Additional High-Risk Countries (Retención y revisión de solicitudes de beneficios de USCIS presentadas por extranjeros de países adicionales de alto riesgo) (PM-602-0194). Estos memorandos pusieron en espera las solicitudes de asilo, las solicitudes de beneficios de países de alto riesgo, y las solicitudes de ajuste de estatus del programa de visas de diversidad, entre otras disposiciones.",
+      "USCIS ha implementado una serie de medidas contundentes tras la emisión de esos memorandos de política:",
+      "Prácticas Mejoradas de Detección y Verificación\nDurante los últimos meses, el Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS) ha revisado y actualizado las prácticas de detección y verificación, incluyendo:",
+      "Reducir los períodos de validez de ciertos Documentos de Autorización de Empleo para requerir verificaciones de seguridad más frecuentes;",
+      "Actualizar las políticas de reutilización de fotografías para fortalecer la verificación de identidad, incluyendo la verificación biométrica de identidad al reutilizar huellas dactilares;",
+      "Aumentar la verificación en redes sociales y finanzas, así como las entrevistas comunitarias;",
+      "Poner en marcha la Operación PARRIS para realizar verificaciones de antecedentes adicionales, nuevas entrevistas y revisiones de méritos de las solicitudes de refugiados, dirigida por el Centro de Verificación de USCIS;",
+      "Desarrollar la conectividad de sistemas para notificaciones automáticas de coincidencias biométricas y nueva información criminal; y",
+      "Exigir revisiones finales de encuentros con arrestos y verificaciones en la Base de Datos Consular Consolidada del Departamento de Estado antes de la adjudicación final.",
+      "Proceso de Revisión Interna\nUSCIS estableció un proceso interno para levantar las suspensiones en casos individuales o grupales, lo cual requiere una revisión integral por parte de múltiples oficinas. Se han levantado las suspensiones para extranjeros verificados mediante la Operación PARRIS, ciertas peticiones presentadas por ciudadanos estadounidenses, formularios de adopción internacional, ciertas ceremonias de juramentación reprogramadas, la emisión de decisiones estatutarias y reglamentarias, los registros de refugiados para ciudadanos/nacionales sudafricanos, ciertas peticiones de visa de inmigrante especial, ciertos documentos de autorización de empleo, y solicitudes de asilo de países que no son de alto riesgo, así como solicitudes asociadas con médicos. Continuamos revisando todos los tipos de solicitudes y levantando las suspensiones tanto para casos individuales como grupales, según corresponda.",
+      "Análisis de Riesgo Específico por País\nUSCIS recopiló información sobre cada país incluido en las proclamaciones de prohibición de viaje y está trabajando con el Departamento de Estado para identificar factores de riesgo, incluyendo indicadores de fraude, riesgos para la seguridad pública o la seguridad nacional. USCIS está comparando estos factores con las prácticas de detección existentes para recomendar mejoras.",
+      "Desarrollo del Plan de Verificación Mejorada\nUSCIS está desarrollando un plan de verificación en capas, que incorpora información clasificada y no clasificada, así como verificaciones ampliadas de antecedentes penales, verificación de identidad y verificaciones de seguridad ad hoc para cerrar brechas de seguridad.",
+      "Orientación para los Adjudicadores\nUSCIS está desarrollando orientación para ayudar a los adjudicadores a alinear los recursos de entrevistas con los riesgos específicos identificados para cada país, incluyendo las preocupaciones sobre la confiabilidad de los documentos y las Organizaciones Terroristas Extranjeras (FTO, por sus siglas en inglés) designadas.",
+      "Lo Que Continuaremos Haciendo\nUSCIS continuará fortaleciendo nuestros procedimientos de detección y verificación para garantizar la máxima protección de la seguridad nacional y la seguridad pública, y para erradicar el fraude en el sistema de inmigración. Nuestros esfuerzos continuos están diseñados para garantizar que solo se otorguen beneficios migratorios a personas elegibles y verificadas.",
+      "Nuestro Compromiso\nEstas acciones reflejan el compromiso de la administración Trump de hacer que Estados Unidos sea seguro nuevamente. USCIS se mantendrá vigilante y proactivo en la protección de los Estados Unidos contra terroristas extranjeros, extranjeros criminales, aquellos que cometen fraude y otras amenazas. Estamos dedicados a mantener la integridad del sistema de inmigración de Estados Unidos y a mantener informado al público sobre nuestro progreso.",
+      "12/06/2026"
+    ],
+    "zh": [
+      "发布日期",
+      "2026年3月30日",
+      "提醒类型信息",
+      "提醒:关于暂停政策的法院命令",
+      "2026年6月5日,美国罗德岛州地区法院在Dorcas International Institute of Rhode Island等诉美国公民及移民服务局(USCIS)等案,案号26-cv-00132-JJM-PAS(D.RI.)中发布命令,撤销了PM 602-0192号、PM 602-0194号政策备忘录以及PA 2025-26号政策提醒。法院于2026年6月11日作出最终判决。本案原告为代表数百万名提交移民申请人士的非政府组织及工会。",
+      "美国公民及移民服务局强烈不同意法院的命令,但在可能的进一步司法审查结果出来之前,将遵照该命令的条款执行。",
+      "上述政策备忘录及政策提醒系依据2025年6月4日第10949号总统公告《限制外国国民入境以保护美国免受外国恐怖分子及其他国家安全和公共安全威胁》,以及2025年12月16日第10998号总统公告(PP)《限制和约束外国国民入境以保护美国安全》发布,旨在应对审查、审核不足以及对国家安全和公共安全构成的威胁问题。",
+      "随着最终判决的作出,该命令立即生效,并依据法院命令的撤销裁定,在全机构范围内适用。因此,该撤销裁定适用于PM 602-0192号、PM 602-0194号政策备忘录以及PA 2025-26号政策提醒,上述文件应视为未生效。",
+      "在诉讼进一步进展之前,美国公民及移民服务局将发布更新指示。",
+      "特朗普总统就职以来,通过实施一系列行政命令和公告,优先考虑国家安全和公共安全,要求对寻求入境或移民福利的外国国民进行严格审查和审核。",
+      "第14161号行政命令《保护美国免受外国恐怖分子及其他国家安全和公共安全威胁》指示各机构对外国人实施最大限度的审核和审查,特别是来自已识别存在安全风险地区或国家的外国人。第10949号总统公告《限制外国国民入境以保护美国免受外国恐怖分子及其他国家安全和公共安全威胁》与第10998号总统公告《限制和约束外国国民入境以保护美国安全》共同限制了来自39个缺乏充分审查和审核信息国家的人员入境。总体而言,这些行动体现了对移民领域国家利益的再次重申。",
+      "美国公民及移民服务局(USCIS)致力于维护移民制度的完整性、国家安全和公共安全。我们的首要任务是确保所有申请移民福利的人员都得到适当审查,尤其是来自已识别高风险国家的人员。本提醒向公众详细说明我们的发现、我们正在采取的措施,以及我们将继续采取哪些措施以保护国家安全、公共安全并杜绝欺诈行为。",
+      "我们的发现\n通过对待处理工作量和福利申请进行持续全面审查,美国公民及移民服务局确认,此前的审查和审核措施完全不足。许多入籍申请人和申请获得合法永久居留身份的人员未得到充分审核。因此,一些本不应被批准的申请获得批准,一些本不应入籍的人员获得了入籍。这些漏洞使美国面临重大的国家安全和公共安全风险,并损害了移民制度的完整性。",
+      "我们正在采取的措施\n根据相关行政命令和总统公告,美国公民及移民服务局发布了政策备忘录《暂停并审查来自高风险国家外国人提交的所有待处理庇护申请及所有USCIS福利申请》(PM-602-0192);政策备忘录《暂停并审查依据多元化移民签证计划提交的待处理调整身份申请》(PM-602-0193);以及政策备忘录《暂停并审查来自其他高风险国家外国人提交的USCIS福利申请》(PM-602-0194)。这些备忘录暂停了庇护申请、来自高风险国家的福利请求以及多元化签证调整身份申请等各项事务的处理。",
+      "在发布上述政策备忘录后,美国公民及移民服务局实施了一系列强有力的措施:",
+      "强化审查与审核措施\n在过去数月中，美国公民及移民服务局(USCIS)已对审查与审核措施进行了审查和更新，包括：",
+      "缩短某些就业授权文件的有效期，以要求更频繁的安全检查；",
+      "更新照片重复使用政策以加强身份验证，包括在重复使用指纹时进行生物识别身份验证；",
+      "加强社交媒体和财务审核以及社区访谈；",
+      "启动“PARRIS行动”，在USCIS审核中心的领导下，对难民申请进行额外的背景调查、重新面谈和实质审查；",
+      "开发系统连接功能，以便在生物识别匹配和新的犯罪信息出现时自动发出通知；以及",
+      "要求在最终裁决前进行最终被捕遭遇审查以及美国国务院领事综合数据库核查。",
+      "内部审查流程\nUSCIS建立了一套内部流程，用于解除对个案或群体案件的暂停处理，要求由多个办公室进行全面审查。以下情况的暂停处理已被解除：通过“PARRIS行动”审核的外国人、由美国公民提交的某些申请、跨国收养表格、某些重新安排的宣誓入籍仪式、依法依规作出决定的签发、南非公民/国民的难民登记、某些特殊移民签证申请、某些就业授权文件，以及来自非高风险国家的庇护申请，还有与医师相关的申请。我们将继续审查所有申请类型，并酌情解除个案和群体案件的暂停处理。",
+      "针对特定国家的风险分析\nUSCIS已汇编了旅行禁令公告中所列每个国家的信息，并正与美国国务院合作，以识别风险因素，包括欺诈、公共安全或国家安全风险的指标。USCIS正将这些信息与现有的审查做法进行比较，以提出改进建议。",
+      "强化审核计划的制定\nUSCIS正在制定一项分层审核计划，纳入保密与非保密信息，以及扩大的犯罪记录核查、身份验证和临时安全检查，以填补安全漏洞。",
+      "裁决官指导\nUSCIS正在制定指导方针，以帮助裁决官根据针对每个国家确定的特定风险调配面谈资源，包括文件可靠性方面的担忧以及被指定的外国恐怖组织(FTOs)。",
+      "我们将继续开展的工作\nUSCIS将继续加强我们的审查与审核程序，以确保对国家安全和公共安全的最大保护，并根除移民系统中的欺诈行为。我们正在进行的各项工作旨在确保只有符合资格且经过审核的个人才能获得移民福利。",
+      "我们的承诺\n这些行动体现了特朗普政府致力于使美国重新恢复安全的承诺。USCIS将继续保持警惕并采取积极主动的措施，以保护美国免受外国恐怖分子、犯罪外国人、实施欺诈者及其他威胁的侵害。我们致力于维护美国移民制度的完整性，并让公众及时了解我们的工作进展。",
+      "2026年06月12日"
+    ],
+    "ja": [
+      "公開日",
+      "2026年3月30日",
+      "警告の種類 情報",
+      "警告:保留政策に関する裁判所命令",
+      "2026年6月5日、ロードアイランド地区連邦地方裁判所は、Dorcas International Institute of Rhode Island他対米国市民権・移民局(USCIS)他、事件番号26-cv-00132-JJM-PAS(ロードアイランド地区連邦地方裁判所)において、PM 602-0192、PM 602-0194、及びPA 2025-26を無効とする命令を下した。裁判所は2026年6月11日に最終判決を下した。本件において、原告は移民申請を提出した数百万人の個人を代表する非政府組織及び労働組合である。",
+      "USCISは裁判所の命令に強く反対するが、さらなる司法審査が行われる可能性がある間、その条件に従う。",
+      "これらの政策覚書及び政策警告は、2025年6月4日付の大統領布告10949「外国人テロリスト及びその他の国家安全保障及び公共の安全上の脅威から米国を保護するための外国人の入国制限について」、並びに2025年12月16日付の大統領布告(PP)10998「米国の安全を保護するための外国人の入国の制限及び限定について」に基づき、審査及び審査の欠如、並びに国家安全保障及び公共の安全に対する脅威に対応するために発出されたものである。",
+      "最終判決の言渡しをもって、本命令は直ちに効力を生じ、裁判所命令による無効化に従い、機関全体に適用される。したがって、本無効化はPM 602-0192、PM 602-0194、及びPA 2025-26に適用され、これらは効力を有しないものとして扱われるべきである。",
+      "USCISは、今後の訴訟の進展を踏まえ、更新された指示を発出する予定である。",
+      "トランプ大統領は就任以来、外国人の入国又は移民上の利益を求める者に対する厳格な審査及び調査を義務付ける一連の大統領令及び布告を実施することにより、国家安全保障及び公共の安全を優先してきた。",
+      "大統領令14161「外国人テロリスト及びその他の国家安全保障及び公共の安全上の脅威から米国を保護することについて」は、各機関に対し、特に安全保障上のリスクが特定されている地域又は国から来る外国人について、可能な限り最大限の調査及び審査を行うよう指示した。大統領布告10949「外国人テロリスト及びその他の国家安全保障及び公共の安全上の脅威から米国を保護するための外国人の入国制限について」、及び大統領布告10998「米国の安全を保護するための外国人の入国の制限及び限定について」は、合わせて、適切な審査及び調査情報を欠く39か国からの入国を制限した。これらの措置は全体として、移民に関する国益への新たな取り組みを表すものである。",
+      "米国市民権・移民局(USCIS)は、移民制度の健全性、国家安全保障、及び公共の安全の確保に取り組んでいる。我々の最優先事項は、移民上の利益を求めるすべての者、特に特定された高リスク国出身の者が適切に審査されることを確保することである。本警告は、我々が発見した事項、現在実施している対応、及び国家安全保障、公共の安全を保護し、不正行為を根絶するために今後も継続して行う対応について、一般市民に詳細な説明を提供するものである。",
+      "我々が発見した事項\n未処理の業務量及び利益申請に関する継続的かつ包括的な見直しを通じて、USCISは、従前の審査及び調査措置が全く不十分であったことを確認した。帰化及び永住権の申請者の多くが十分に審査されていなかった。その結果、本来承認されるべきでなかった申請が承認され、本来帰化すべきでなかった個人が帰化していた。これらの不備は、米国を重大な国家安全保障上及び公共の安全上のリスクにさらし、移民制度の健全性を損なうものである。",
+      "我々が実施している対応\n関連する大統領令及び大統領布告に従い、USCISは、政策覚書「高リスク国出身の外国人による保留中のすべての亡命申請及びすべてのUSCIS利益申請の保留及び見直しについて」(PM-602-0192)、政策覚書「多様性移民ビザ制度に基づき外国人が提出した保留中のUSCIS地位調整申請の保留及び見直しについて」(PM-602-0193)、並びに政策覚書「追加の高リスク国出身の外国人によるUSCIS利益申請の保留及び見直しについて」(PM-602-0194)を発出した。これらの覚書は、とりわけ、亡命申請、高リスク国からの利益申請、及び多様性ビザの地位調整申請を保留とした。",
+      "USCISは、これらの政策覚書の発出後、一連の強力な措置を実施してきた。",
+      "強化されたスクリーニング及び審査慣行\n過去数カ月間、米国市民権・移民局(USCIS)は以下を含むスクリーニング及び審査の実務を見直し、更新した。",
+      "特定の就労許可証(Employment Authorization Document)の有効期間を短縮し、より頻繁なセキュリティチェックを義務付けること。",
+      "写真の再利用方針を更新し、指紋を再利用する際の生体認証による本人確認を含め、本人確認を強化すること。",
+      "ソーシャルメディア及び財務に関する審査並びにコミュニティ面接を増加させること。",
+      "USCIS審査センター(Vetting Center)が主導する、難民申請に関する追加の身元調査、再面接及びメリット審査を実施するオペレーション・パリス(Operation PARRIS)を開始すること。",
+      "生体認証の一致及び新たな犯罪情報の自動通知のためのシステム連携を開発すること。及び",
+      "最終的な裁定を行う前に、最終的な逮捕対応の確認及び国務省領事統合データベース(Consular Consolidated Database)の確認を義務付けること。",
+      "内部審査プロセス\nUSCISは、個別又は集団の案件に対する保留措置を解除するための内部プロセスを確立しており、これには複数の部署による包括的な審査が必要とされる。保留措置は、オペレーション・パリスを通じて審査された外国人、米国市民によって提出された特定の申請、国際養子縁組に関する書式、特定の延期された宣誓式典、法令及び規則に基づく決定の発行、南アフリカ共和国の市民・国民に対する難民登録、特定の特別移民ビザ申請、特定の就労許可証、並びに高リスク国以外からの亡命申請、及び医師に関連する申請について解除されている。我々は引き続きすべての申請類型を審査し、個別及び集団の案件の双方について、適切な場合には保留措置を解除していく。",
+      "国別リスク分析\nUSCISは、渡航禁止令に記載された各国に関する情報を取りまとめ、詐欺、公共の安全、又は国家安全保障上のリスクの兆候を含むリスク要因を特定するため、国務省と協力している。USCISは、これらを既存のスクリーニング慣行と比較し、改善点を提言する作業を進めている。",
+      "強化された審査計画の策定\nUSCISは、機密情報及び非機密情報を組み込むとともに、犯罪歴確認の拡充、本人確認、及びセキュリティ上の隙間を埋めるための臨時のセキュリティチェックを含む、多層的な審査計画を策定している。",
+      "裁定官向けガイダンス\nUSCISは、文書の信頼性に関する懸念及び指定された外国テロ組織(Foreign Terrorist Organizations、FTO)を含め、各国について特定されたリスクに応じて面接資源を配分できるよう、裁定官を支援するガイダンスを策定している。",
+      "今後も継続すること\nUSCISは、国家安全保障及び公共の安全を最大限に保護し、移民制度における不正行為を根絶するため、スクリーニング及び審査の手続を引き続き強化していく。我々の継続的な取り組みは、適格であり、かつ審査を経た者のみが移民上の利益を付与されることを確保するために設計されている。",
+      "我々の決意\nこれらの措置は、トランプ政権によるアメリカを再び安全にするという決意を反映するものである。USCISは、外国のテロリスト、犯罪歴を有する外国人、不正行為を行う者、及びその他の脅威から米国を守るため、引き続き警戒を怠らず、積極的に行動していく。我々は、米国の移民制度の健全性を維持し、我々の進捗状況について国民に周知し続けることに尽力している。",
+      "2026年6月12日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
