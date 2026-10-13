@@ -1,5 +1,85 @@
 [
   {
+    "id": "16082f5d1f90",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/13/hsi-arrests-alien-charged-illegally-voting-pennsylvania",
+    "published": "2026-10-13",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "HSI",
+      "Voter Fraud",
+      "Lawful Permanent Resident",
+      "ICE"
+    ],
+    "added": "2026-10-13T20:19Z"
+  },
+  {
+    "id": "c68cf2fb1ef4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/13/worst-worst-over-columbus-day-weekend-ice-arrests-murderers-pedophiles-rapists-drug",
+    "published": "2026-10-13",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-13T20:17Z"
+  },
+  {
+    "id": "e51213114e01",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/13/illegal-alien-bonnie-and-clyde-ice-arrests-illegal-alien-couple-after-multi-state",
+    "published": "2026-10-13",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Sanctuary Policy"
+    ],
+    "added": "2026-10-13T20:15Z"
+  },
+  {
+    "id": "fb207424b8f2",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-20956/removing-30-day-refugee-termination-notice",
+    "published": "2026-10-13",
+    "effective_date": "2026-10-14",
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "enforcement"
+    ],
+    "tags": [
+      "Refugees",
+      "Interim Final Rule",
+      "Refugee Status Termination",
+      "8 CFR 207"
+    ],
+    "added": "2026-10-13T20:06Z"
+  },
+  {
     "id": "c3b5f3604ba6",
     "source": "fr_public_inspection",
     "url": "https://www.federalregister.gov/public-inspection/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
