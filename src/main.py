@@ -117,6 +117,9 @@ def run(cfg: dict[str, Any]) -> None:
     tr = {"done": 0, "failed": 0, "key": translate.enabled()}
 
     tr_failed: list[dict[str, Any]] = []
+    added: list[dict[str, str]] = []
+    queue: list[dict[str, Any]] = []
+    report: dict[str, Any] = {}
 
     def give_up(it: dict[str, Any], why: str) -> None:
         """같은 글이 매 실행마다 실패하며 비용과 시간을 쓰지 않도록, 일정 횟수 실패하면 접고 seen 에 남깁니다."""
@@ -152,7 +155,7 @@ def run(cfg: dict[str, Any]) -> None:
 
     with browser_cm as browser:
         print("[1/3] 수집")
-        report: dict[str, Any] = {}
+        report = {}
         found = collect(cfg, browser, since, report)
 
         fresh: dict[str, dict[str, Any]] = {}
@@ -226,6 +229,7 @@ def run(cfg: dict[str, Any]) -> None:
             # 공식 원문 전문을 보관하고 4개 언어로 전문 번역합니다.
             fulltext.ensure(article, browser, cfg, item=it)
             store.save_article(it["id"], article)
+            added.append({"id": it["id"], "source": it["source"], "title": (data["langs"].get("ko") or {}).get("title") or it["title"]})
             sources.archive_save(it["url"].split("?")[0])
             index.append({k: article[k] for k in ("id", "source", "url", "published", "effective_date", "importance", "category", "agency", "topics", "tags", "added")})
 
@@ -254,6 +258,29 @@ def run(cfg: dict[str, Any]) -> None:
         "translate": tr,
         "retries": retries,
     })
+    write_runlog(added, tr_failed, queue, report)
+
+
+def write_runlog(added: list[dict[str, str]], failed: list[dict[str, Any]], queue: list[dict[str, Any]], report: dict[str, Any]) -> None:
+    """관리 페이지용 실행 기록. 실패해도 실행을 멈추지 않습니다."""
+    try:
+        from . import llm
+
+        server, repo, rid = os.environ.get("GITHUB_SERVER_URL"), os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_RUN_ID")
+        store.append_runlog({
+            "t": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "kind": "backfill" if os.environ.get("BACKFILL") else ("manual" if os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch" else "news"),
+            "run": f"{server}/{repo}/actions/runs/{rid}" if server and repo and rid else "",
+            "found": len(queue),
+            "added": added,
+            "failed": [{"source": x["source"], "title": x["title"][:160], "url": x["url"]} for x in failed],
+            "fulltext": dict(fulltext.STATS),
+            "cost": round(llm.spent_usd(), 4) if hasattr(llm, "spent_usd") else None,
+            "limited": llm.blocked(),
+            "errors": {k: str(v.get("error"))[:240] for k, v in report.items() if not v.get("ok")},
+        })
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ! 실행 기록 저장 실패: {type(exc).__name__}: {exc}")
 
 
 def promote_published(index: list[dict[str, Any]], it: dict[str, Any]) -> None:

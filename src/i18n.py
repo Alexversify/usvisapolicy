@@ -52,6 +52,7 @@ T: dict[str, dict[str, str]] = {
         "ja": "本サイトの内容は一般的な情報提供であり、法的助言ではありません。個別の案件は弁護士にご相談ください。",
     },
     "consult": {"ko": "이 변경이 내 케이스에 미치는 영향 상담하기", "en": "Ask how this affects your case", "es": "Consulte cómo afecta a su caso", "zh": "咨询此变化对您案件的影响", "ja": "ご自身のケースへの影響を相談する"},
+    "contact": {"ko": "문의·건의", "en": "Contact & feedback", "es": "Contacto y sugerencias", "zh": "联系与建议", "ja": "お問い合わせ・ご意見"},
     "operated_by": {"ko": "운영", "en": "Operated by", "es": "Operado por", "zh": "运营方", "ja": "運営"},
     "updated": {"ko": "마지막 갱신", "en": "Last updated", "es": "Última actualización", "zh": "最后更新", "ja": "最終更新"},
     "feedback": {"ko": "피드백", "en": "Feedback", "es": "Comentarios", "zh": "反馈", "ja": "フィードバック"},

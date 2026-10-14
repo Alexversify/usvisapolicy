@@ -122,11 +122,10 @@ def feedback(sc: dict[str, Any], lang: str) -> str:
 def footer(sc: dict[str, Any], lang: str, up: str, updated: str) -> str:
     site = sc.get("site") or {}
     mail = site.get("contact_email")
-    contact = f' · <a href="mailto:{e(mail)}">{e(mail)}</a>' if mail else ""
+    contact = f"<p>{e(t('contact', lang))}: <a href=\"mailto:{e(mail)}\">{e(mail)}</a></p>\n" if mail else ""
     return f"""<footer><div class="wrap">
 <p>{e(t('disclaimer', lang))}</p>
-<p>{e(t('operated_by', lang))}: {e(site.get('operator', ''))}{contact}</p>
-<p>{e(t('updated', lang))}: {e(updated)} · <a href="{up}{lang}/rss.xml">RSS</a></p>
+{contact}<p>{e(t('updated', lang))}: {e(updated)} · <a href="{up}{lang}/rss.xml">RSS</a></p>
 </div></footer>
 {feedback(sc, lang)}
 <script src="{up}assets/site.js?v={VER}" defer></script>
@@ -278,7 +277,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
         "@context": "https://schema.org", "@type": "NewsArticle", "headline": L["title"][:110],
         "datePublished": a.get("published"), "dateModified": a.get("added", "")[:10] or a.get("published"),
         "inLanguage": HTML_LANG[lang], "isBasedOn": a["url"],
-        "publisher": {"@type": "Organization", "name": site.get("operator", "")},
+        "publisher": {"@type": "Organization", "name": site.get("operator") or site.get("title", "")},
     }, ensure_ascii=False).replace("</", "<\\/")
     out.append(f"""<main class="wrap">
 <a class="backlink" href="../">← {e(t('back', lang))}</a>
@@ -413,6 +412,6 @@ def render_all(cfg: dict[str, Any]) -> str:
     if domain:
         (DOCS / "CNAME").write_text(domain + "\n", encoding="utf-8")
         (DOCS / "sitemap.xml").write_text(sitemap(sc, langs, arts), encoding="utf-8")
-        (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: https://{domain}/sitemap.xml\n", encoding="utf-8")
+        (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /admin\nSitemap: https://{domain}/sitemap.xml\n", encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     return f"docs/ 생성 완료: 기사 {len(arts)}건 x {len(langs)}개 언어"

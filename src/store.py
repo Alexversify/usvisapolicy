@@ -20,6 +20,7 @@ ARTICLES = DATA / "articles"
 INDEX = DATA / "index.json"
 SEEN = DATA / "seen.json"
 STATUS = DATA / "status.json"
+RUNLOG = DATA / "runlog.json"
 
 
 def _read(p: Path, default: Any) -> Any:
@@ -64,3 +65,11 @@ def load_status() -> dict[str, Any]:
 
 def save_status(data: dict[str, Any]) -> None:
     _write(STATUS, data)
+
+
+def append_runlog(entry: dict[str, Any], keep: int = 400) -> None:
+    """실행 기록을 앞에 쌓습니다 (최신이 먼저). 관리 페이지가 읽습니다."""
+    log = _read(RUNLOG, [])
+    if not isinstance(log, list):
+        log = []
+    _write(RUNLOG, [entry] + log[: keep - 1])

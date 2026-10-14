@@ -478,11 +478,16 @@ def ensure(a: dict[str, Any], browser: Any, cfg: dict[str, Any], item: dict[str,
     return changed
 
 
+# 이번 실행의 기존 기사 전문 채우기 결과. main 이 실행 기록에 남깁니다.
+STATS: dict[str, int] = {}
+
+
 def backfill(index: list[dict[str, Any]], browser: Any, cfg: dict[str, Any]) -> None:
     """이미 올린 기사 중 원문 보관이나 전문 번역이 빠진 것을 채웁니다. 최신 기사부터, 실행 시간 안에서만."""
     fcfg = cfg.get("fulltext") or {}
     if fcfg.get("enabled") is False:
         return
+    STATS.clear()
     limit = int(os.environ.get("FULLTEXT_BACKFILL") or fcfg.get("backfill_per_run", 6))
     budget = float(os.environ.get("FULLTEXT_BUDGET_MIN") or fcfg.get("budget_min", 8)) * 60
     start = time.time()
@@ -503,6 +508,7 @@ def backfill(index: list[dict[str, Any]], browser: Any, cfg: dict[str, Any]) -> 
         x = store.load_article(r["id"])
         if x and needs_work(x, langs, fcfg):
             left += 1
+    STATS.update({"done": done, "left": left})
     print(f"  - 전문 처리 {done}건, 남은 기사 {left}건")
 
 
