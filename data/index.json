@@ -1,5 +1,27 @@
 [
   {
+    "id": "e65f8ec6036b",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-citizenship-from-40-criminals-in-largest-single-period-filing",
+    "published": "2026-10-13",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "citizenship",
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Naturalization",
+      "Citizenship Fraud",
+      "DOJ"
+    ],
+    "added": "2026-10-14T00:24Z"
+  },
+  {
     "id": "16082f5d1f90",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/13/hsi-arrests-alien-charged-illegally-voting-pennsylvania",
