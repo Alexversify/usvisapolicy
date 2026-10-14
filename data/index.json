@@ -1,5 +1,27 @@
 [
   {
+    "id": "28c212996917",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility",
+    "published": "2026-10-14",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "h1b",
+      "employment"
+    ],
+    "tags": [
+      "H-1B",
+      "I-129",
+      "Deference Policy",
+      "Nonimmigrant Workers",
+      "Proposed Rule"
+    ],
+    "added": "2026-10-14T06:56Z"
+  },
+  {
     "id": "e65f8ec6036b",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-moves-to-strip-citizenship-from-40-criminals-in-largest-single-period-filing",
@@ -83,7 +105,7 @@
   {
     "id": "fb207424b8f2",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-20956/removing-30-day-refugee-termination-notice",
+    "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
     "published": "2026-10-13",
     "effective_date": "2026-10-14",
     "importance": "high",
@@ -104,7 +126,7 @@
   {
     "id": "c3b5f3604ba6",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+    "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
     "published": "2026-10-13",
     "effective_date": "2026-10-14",
     "importance": "high",
@@ -328,7 +350,7 @@
   {
     "id": "6417e40a6f10",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
+    "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
     "published": "2026-10-09",
     "effective_date": "2026-10-14",
     "importance": "high",
