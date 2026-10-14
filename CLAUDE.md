@@ -2,7 +2,7 @@
 
 usvisapolicy.com. USCIS, 국무부, 연방관보, 대통령령의 이민 정책 업데이트를 수집해
 Claude로 한국어·영어·스페인어·중국어(간체)·일본어 기사로 만들어 게시하는 정적 사이트.
-운영 법무법인 한미. 구조는 visacal(fee-watch)과 같다. Python이 docs/를 생성하고 GitHub Pages가 게시한다.
+구조는 visacal(fee-watch)과 같다. Python이 docs/를 생성하고 GitHub Pages가 게시한다.
 
 ## 구조
 

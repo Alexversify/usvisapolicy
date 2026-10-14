@@ -121,5 +121,5 @@ PR을 머지하면 Pages가 바로 반영합니다. 폰에서 GitHub 앱으로 �
 - 번역이 실패한 글은 다음 실행에서 다시 시도합니다. 오래된 글(45일 초과)은 `data/seen.json`에 기록하고 건너뜁니다.
 - 특정 기사를 다시 번역하려면 `data/index.json`에서 해당 항목과 `data/articles/<id>.json`을 지우고 `news`를 실행합니다.
 - Actions 로그에 `uscis_news: ok (0건)`이 반복되면 USCIS 페이지 구조가 바뀐 것입니다. `settings.yaml`의 `link_pattern`을 점검합니다.
-- 기사마다 원문 링크와 "AI 요약·번역, 법적 효력은 원문" 고지가 붙습니다. 하단 상담 버튼은 `site.yaml`의 `cta.consult_url`, 비면 alex@lawhanmi.com 메일로 연결됩니다.
+- 기사마다 원문 링크와 "AI 요약·번역, 법적 효력은 원문" 고지가 붙습니다. 하단 상담 버튼은 `site.yaml`의 `cta.consult_url`, 비면 `site.contact_email`(info@usvisapolicy.com) 메일로 연결됩니다.
 - 광고, GA4는 `site.yaml` 값을 채우면 붙습니다. 비어 있으면 태그 자체가 출력되지 않습니다.
