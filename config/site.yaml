@@ -3,8 +3,10 @@
 site:
   domain: usvisapolicy.com
   title: US Visa Policy
-  operator: 법무법인 한미 (Hanmi Law Firm)
-  contact_email: alex@lawhanmi.com
+  # 운영 주체는 화면에 표시하지 않습니다. 비워 두면 구조화 데이터(publisher)에 사이트 이름을 씁니다.
+  operator: ""
+  # 문의·건의 메일. 하단, 상담 버튼, 피드백 대체 메일에 씁니다.
+  contact_email: info@usvisapolicy.com
 
 analytics:
   ga4_id: ""
