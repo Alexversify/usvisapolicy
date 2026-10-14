@@ -56,6 +56,8 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           HEADFUL: "1"
           PYTHONUNBUFFERED: "1"
+          # 실행당 Claude 비용 한도(달러). 넘으면 멈추고 남은 일은 다음 실행으로 넘깁니다.
+          LLM_MAX_USD_PER_RUN: "1.5"
         run: xvfb-run -a python -m src.main
 
       - name: 결과 커밋
