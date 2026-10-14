@@ -26,6 +26,22 @@ _LIMIT_HINTS = ("usage limit", "rate limit", "limit reached", "429", "overloaded
                 "credit balance", "insufficient", "billing", "402", "invalid x-api-key", "authentication")
 _api_blocked = False   # 이번 실행에서 API 크레딧이 바닥났거나 키가 거부됨
 _max_blocked = False   # 이번 실행에서 구독 사용량 한도에 걸림
+_spent_usd = 0.0       # 이번 실행에서 쓴 금액(달러, CLI 가 보고한 값)
+
+
+def _cap_usd() -> float | None:
+    """실행당 비용 한도(달러). 워크플로의 LLM_MAX_USD_PER_RUN. 없으면 한도 없음."""
+    v = os.environ.get("LLM_MAX_USD_PER_RUN")
+    return float(v) if v else None
+
+
+def spent_usd() -> float:
+    return _spent_usd
+
+
+def _over_cap() -> bool:
+    cap = _cap_usd()
+    return cap is not None and _spent_usd >= cap
 
 
 def _has_api() -> bool:
@@ -41,10 +57,11 @@ def enabled() -> bool:
 
 
 def blocked() -> bool:
-    return (_api_blocked or not _has_api()) and (_max_blocked or not _has_max())
+    return ((_api_blocked or not _has_api()) and (_max_blocked or not _has_max())) or _over_cap()
 
 
 def _run(system: str, user: str, model: str, timeout: int, use_api: bool) -> str:
+    global _spent_usd
     drop = ("CLAUDE_CODE_OAUTH_TOKEN", "ANTHROPIC_AUTH_TOKEN") if use_api else ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")
     env = {k: v for k, v in os.environ.items() if k not in drop}
     with tempfile.TemporaryDirectory() as tmp:
@@ -71,6 +88,11 @@ def _run(system: str, user: str, model: str, timeout: int, use_api: bool) -> str
         data = json.loads(out.splitlines()[-1]) if out else {}
     except json.JSONDecodeError:
         data = {}
+    if isinstance(data, dict):
+        try:
+            _spent_usd += float(data.get("total_cost_usd") or 0)
+        except (TypeError, ValueError):
+            pass
     text = data.get("result") if isinstance(data, dict) else None
     if proc.returncode != 0 or data.get("is_error") or not isinstance(text, str):
         detail = (text or proc.stderr or out or "").strip()[:300]
@@ -85,6 +107,8 @@ def complete(system: str, user: str, model: str, timeout: int = 600) -> str:
     global _api_blocked, _max_blocked
     if not enabled():
         raise LLMError("ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN 또는 claude CLI 없음")
+    if _over_cap():
+        raise UsageLimit(f"이번 실행 비용 한도 ${_cap_usd():.2f} 도달 (사용 ${_spent_usd:.2f}), 나머지는 다음 실행에서")
     if _has_api() and not _api_blocked:
         try:
             return _run(system, user, model, timeout, use_api=True)
