@@ -1,5 +1,46 @@
 [
   {
+    "id": "c9f820e0d944",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/15/hsi-arrests-naturalized-citizen-illegally-voting-new-jersey-prior-naturalization",
+    "published": "2026-10-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Illegal Voting",
+      "HSI",
+      "ICE"
+    ],
+    "added": "2026-10-15T17:10Z"
+  },
+  {
+    "id": "360867acfe9e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/liberian-child-rapist-convicted-of-naturalization-fraud-denaturalized-and-judicially-ordered-removed",
+    "published": "2026-10-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Denaturalization",
+      "Naturalization Fraud",
+      "Operation False Haven"
+    ],
+    "added": "2026-10-15T17:08Z"
+  },
+  {
     "id": "d837a2e2c58c",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/14/ice-hsi-arrests-cuban-alien-illegally-voting-past-elections-missouri",
