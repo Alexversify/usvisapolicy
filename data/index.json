@@ -1,5 +1,63 @@
 [
   {
+    "id": "70161e56a8f1",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/15/hsi-investigation-leads-arrest-sex-offender-illegal-alien-released-oregon-sanctuary",
+    "published": "2026-10-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "HSI",
+      "Sanctuary Jurisdiction",
+      "Enforcement"
+    ],
+    "added": "2026-10-15T21:34Z"
+  },
+  {
+    "id": "7c5a85403a45",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/15/worst-worst-ice-arrests-killers-pedophiles-and-violent-assailants",
+    "published": "2026-10-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-15T21:32Z"
+  },
+  {
+    "id": "55590a9ac25b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/15/ice-arrests-five-time-deported-felon-during-traffic-stop-california",
+    "published": "2026-10-15",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Removal",
+      "Criminal Alien"
+    ],
+    "added": "2026-10-15T21:30Z"
+  },
+  {
     "id": "c9f820e0d944",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/15/hsi-arrests-naturalized-citizen-illegally-voting-new-jersey-prior-naturalization",

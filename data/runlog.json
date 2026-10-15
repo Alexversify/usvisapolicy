@@ -1,5 +1,39 @@
 [
   {
+    "t": "2026-10-15T21:34:54Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38809830050",
+    "found": 3,
+    "added": [
+      {
+        "id": "55590a9ac25b",
+        "source": "dhs_news",
+        "title": "ICE, 캘리포니아 교통 검문에서 다섯 차례 추방 전력 있는 중범죄자 체포"
+      },
+      {
+        "id": "7c5a85403a45",
+        "source": "dhs_news",
+        "title": "ICE, 중범죄 전력 불법체류자 5명 체포 발표"
+      },
+      {
+        "id": "70161e56a8f1",
+        "source": "dhs_news",
+        "title": "오리건 생추어리 정책 속 성범죄 전과 불법체류자, HSI 수사로 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6412,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 1개, 예시 [('https://www.cloudflare.com/5xx-error-landing', 'Cloudflare')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-15T17:10:45Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38774265705",
