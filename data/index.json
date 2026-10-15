@@ -1,5 +1,27 @@
 [
   {
+    "id": "d837a2e2c58c",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/14/ice-hsi-arrests-cuban-alien-illegally-voting-past-elections-missouri",
+    "published": "2026-10-14",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "ICE",
+      "HSI",
+      "Illegal Voting",
+      "LPR",
+      "Enforcement"
+    ],
+    "added": "2026-10-14T23:59Z"
+  },
+  {
     "id": "6074436e55dc",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/14/worst-worst-ice-arrests-pedophiles-sexual-predators-and-domestic-assailants",

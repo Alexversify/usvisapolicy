@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-15T00:00:42Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38657086444",
+    "found": 1,
+    "added": [
+      {
+        "id": "d837a2e2c58c",
+        "source": "dhs_news",
+        "title": "쿠바 출신 영주권자, 미주리주 선거 불법 투표 혐의로 ICE에 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.1303,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-14T19:30:16Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38623654568",
