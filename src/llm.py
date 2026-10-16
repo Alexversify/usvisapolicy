@@ -4,11 +4,17 @@
 두 경우 모두 Claude Code CLI(`claude -p`)로 실행합니다. CLI는 API 키가 있으면 그걸 먼저 쓰므로,
 구독으로 돌릴 때는 하위 프로세스 환경에서 API 키를 뺍니다.
 크레딧이 바닥나도 카드 결제로 넘어가지 않게 하려면 Anthropic 콘솔에서 자동 충전(Auto-reload)을 꺼 두세요.
+
+월 상한: API로 쓴 금액을 data/llm_spend/YYYY-MM/ 에 실행마다 기록하고, 이번 달 합계가
+LLM_MONTHLY_CAP_USD(저장소 변수, 없으면 DEFAULT_MONTHLY_CAP) 이상이면 그달 남은 기간은 API를 쓰지 않습니다.
+그 뒤로는 Max 구독으로만 돌고, 상한을 올리려면 소유자가 저장소 변수를 직접 바꿔야 합니다(= 동의).
 """
 from __future__ import annotations
 
+import datetime as dt
 import json
 import os
+from pathlib import Path
 import shutil
 import subprocess
 import tempfile
@@ -42,6 +48,73 @@ def spent_usd() -> float:
 def _over_cap() -> bool:
     cap = _cap_usd()
     return cap is not None and _spent_usd >= cap
+
+DEFAULT_MONTHLY_CAP = 40   # 달러. 저장소 변수 LLM_MONTHLY_CAP_USD 로 바꿈 (전체 사이트 합계 $50 안에서 나눔)
+_LEDGER = Path(__file__).resolve().parents[1] / "data" / "llm_spend"
+_api_usd = 0.0         # 이번 실행에서 API(과금)로 쓴 금액
+_month_logged = False  # 이번 달 상한 도달 안내를 이미 찍었는지
+
+
+def _month() -> str:
+    return dt.datetime.now(dt.timezone.utc).strftime("%Y-%m")
+
+
+def _run_file() -> Path:
+    rid = os.environ.get("GITHUB_RUN_ID", "local")
+    att = os.environ.get("GITHUB_RUN_ATTEMPT", "1")
+    job = os.environ.get("GITHUB_JOB", "run")
+    return _LEDGER / _month() / f"{rid}-{att}-{job}.json"
+
+
+def monthly_cap() -> float:
+    v = (os.environ.get("LLM_MONTHLY_CAP_USD") or "").strip()
+    try:
+        return float(v) if v else float(DEFAULT_MONTHLY_CAP)
+    except ValueError:
+        return float(DEFAULT_MONTHLY_CAP)
+
+
+def month_api_usd() -> float:
+    """이번 달 API 사용액. 커밋된 지난 실행 기록 + 이번 실행."""
+    total, me = 0.0, _run_file()
+    d = _LEDGER / _month()
+    if d.is_dir():
+        for p in d.glob("*.json"):
+            if p == me:
+                continue
+            try:
+                total += float(json.loads(p.read_text(encoding="utf-8")).get("api_usd") or 0)
+            except Exception:  # noqa: BLE001
+                pass
+    return total + _api_usd
+
+
+def _record_api(cost: float) -> None:
+    global _api_usd
+    _api_usd += cost
+    try:
+        f = _run_file()
+        f.parent.mkdir(parents=True, exist_ok=True)
+        f.write_text(json.dumps({"api_usd": round(_api_usd, 4), "at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")}), encoding="utf-8")
+    except Exception as exc:  # noqa: BLE001
+        print(f"[llm] 사용액 기록 실패: {exc}", flush=True)
+
+
+def month_cap_reached() -> bool:
+    global _month_logged
+    used, cap = month_api_usd(), monthly_cap()
+    if used < cap:
+        return False
+    if not _month_logged:
+        _month_logged = True
+        print(f"[llm] 이번 달 API 사용 ${used:.2f} / 상한 ${cap:.2f} 도달. 이번 달은 API를 쓰지 않습니다.", flush=True)
+        try:
+            m = _LEDGER / _month() / "CAP_REACHED"
+            m.parent.mkdir(parents=True, exist_ok=True)
+            m.write_text(f"{used:.2f} / {cap:.2f}\n", encoding="utf-8")
+        except Exception:  # noqa: BLE001
+            pass
+    return True
 
 
 def _has_api() -> bool:
@@ -90,7 +163,10 @@ def _run(system: str, user: str, model: str, timeout: int, use_api: bool) -> str
         data = {}
     if isinstance(data, dict):
         try:
-            _spent_usd += float(data.get("total_cost_usd") or 0)
+            cost = float(data.get("total_cost_usd") or 0)
+            _spent_usd += cost
+            if use_api:
+                _record_api(cost)
         except (TypeError, ValueError):
             pass
     text = data.get("result") if isinstance(data, dict) else None
@@ -109,6 +185,8 @@ def complete(system: str, user: str, model: str, timeout: int = 600) -> str:
         raise LLMError("ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN 또는 claude CLI 없음")
     if _over_cap():
         raise UsageLimit(f"이번 실행 비용 한도 ${_cap_usd():.2f} 도달 (사용 ${_spent_usd:.2f}), 나머지는 다음 실행에서")
+    if _has_api() and not _api_blocked and month_cap_reached():
+        _api_blocked = True
     if _has_api() and not _api_blocked:
         try:
             return _run(system, user, model, timeout, use_api=True)
