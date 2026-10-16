@@ -1,5 +1,44 @@
 [
   {
+    "t": "2026-10-16T21:22:52Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38967804533",
+    "found": 4,
+    "added": [
+      {
+        "id": "3e324348d43a",
+        "source": "dhs_news",
+        "title": "DHS 장관, 애리조나주 추방 항공편 현장서 직접 감독"
+      },
+      {
+        "id": "2c187ca99355",
+        "source": "dhs_news",
+        "title": "DHS 장관과 CBP 청장, 애리조나 국경장벽 시찰"
+      },
+      {
+        "id": "ba3bf08c712f",
+        "source": "dhs_news",
+        "title": "DHS, 교통부, 전쟁부, 남부 국경 상공 드론 비행 제한 조치 공동 시행"
+      },
+      {
+        "id": "83f0c45b31fe",
+        "source": "dhs_news",
+        "title": "ICE, 살인·아동성범죄·마약밀매 전과자 등 불법체류자 체포 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.5739,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-16T16:50:59Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38934000983",

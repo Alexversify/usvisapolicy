@@ -1,0 +1,315 @@
+{
+  "id": "2c187ca99355",
+  "source": "dhs_news",
+  "url": "https://www.dhs.gov/news/2026/10/16/secretary-mullin-and-cbp-commissioner-rodney-scott-tour-border-wall-arizona",
+  "original_title": "Secretary Mullin and CBP Commissioner Rodney Scott Tour Border Wall in Arizona",
+  "published": "2026-10-16",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Border Wall",
+    "CBP",
+    "Border Security"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "DHS 장관과 CBP 청장, 애리조나 국경장벽 시찰",
+      "summary": "국토안보부(DHS) 마크웨인 멀린 장관과 세관국경보호청(CBP) 로드니 스콧 청장이 애리조나주 남부 국경을 방문해 국경장벽 건설 현장을 시찰했습니다. 이번 방문은 불법 입국자 석방이 17개월 연속 '제로'를 기록했다는 발표와 함께 이루어졌습니다.",
+      "points": [
+        "DHS 장관과 CBP 청장이 애리조나의 보조 장벽 건설 현장을 방문했습니다.",
+        "2026 회계연도 국경 통과 건수가 미국 역사상 가장 낮은 수준을 기록했다고 CBP가 밝혔습니다.",
+        "2025년 1월 20일 이후 남서부 국경을 따라 약 250마일의 신규 장벽이 완공되었습니다.",
+        "2025년 9월부터 2026년 9월까지 스마트월 프로젝트에 343억 달러가 투입되었습니다.",
+        "이번 발표는 비자 심사나 이민 신청 절차에 대한 구체적인 변경 사항은 포함하지 않은 정책 홍보성 보도자료입니다."
+      ],
+      "who": "이 발표는 일반적인 국경 보안 현황을 다루며, 비자 신청자나 이민 수속 당사자에게 직접적인 영향을 미치는 내용은 포함하지 않습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "DHS Secretary and CBP Commissioner Tour Border Wall in Arizona",
+      "summary": "DHS Secretary Markwayne Mullin and CBP Commissioner Rodney Scott visited the southern border in Arizona to view ongoing border wall construction. The visit coincided with the administration marking 17 months of what it called zero releases of illegal aliens and the lowest fiscal year border crossing numbers on record.",
+      "points": [
+        "Officials toured secondary barrier construction and met with construction crews.",
+        "CBP reported Fiscal Year 2026 had the lowest number of border crossings in U.S. history.",
+        "About 250 miles of new border barrier have been completed since January 20, 2025.",
+        "CBP obligated $34.3 billion for Smart Wall projects from September 2025 through September 2026.",
+        "The release is a factual and political update with no changes to visa, immigration or entry procedures."
+      ],
+      "who": "This announcement relates to general border infrastructure and enforcement statistics, not to any specific visa or immigration process.",
+      "action": ""
+    },
+    "es": {
+      "title": "Secretario del DHS y comisionado de CBP recorren el muro fronterizo en Arizona",
+      "summary": "El secretario del Departamento de Seguridad Nacional (DHS), Markwayne Mullin, y el comisionado de la Oficina de Aduanas y Protección Fronteriza (CBP), Rodney Scott, visitaron la frontera sur en Arizona para observar la construcción del muro fronterizo. La visita coincidió con el anuncio de 17 meses consecutivos sin liberaciones de inmigrantes indocumentados, según la administración.",
+      "points": [
+        "Los funcionarios recorrieron obras de barreras secundarias y se reunieron con cuadrillas de construcción.",
+        "CBP informó que el año fiscal 2026 tuvo el menor número de cruces fronterizos de la historia de Estados Unidos.",
+        "Desde el 20 de enero de 2025 se han completado aproximadamente 250 millas de nuevo muro fronterizo.",
+        "Entre septiembre de 2025 y septiembre de 2026, CBP destinó 34.3 mil millones de dólares a proyectos del Smart Wall.",
+        "El comunicado es informativo y político, y no introduce cambios en los procesos de visas o inmigración."
+      ],
+      "who": "Este anuncio se refiere a estadísticas generales de seguridad fronteriza y no afecta directamente ningún trámite de visa o inmigración.",
+      "action": ""
+    },
+    "zh": {
+      "title": "国土安全部长与CBP局长视察亚利桑那州边境墙",
+      "summary": "美国国土安全部(DHS)部长马克韦恩·穆林与海关及边境保护局(CBP)局长罗德尼·斯科特到访亚利桑那州南部边境,视察边境墙建设工程。此次访问正值政府宣布已连续17个月实现非法移民零释放,以及本财年边境越境人数创历史新低。",
+      "points": [
+        "两位官员视察了二级边境屏障的建设工地,并与施工人员会面。",
+        "CBP表示2026财年的边境越境人数为美国历史上最低。",
+        "自2025年1月20日以来,西南边境已建成约250英里新边境屏障。",
+        "2025年9月至2026年9月期间,CBP为智能边境墙项目拨款343亿美元。",
+        "此次新闻发布属于政策宣传性质,未涉及任何签证或移民程序的具体变更。"
+      ],
+      "who": "该公告涉及一般性边境基础设施与执法统计数据,与具体签证或移民申请程序无直接关系。",
+      "action": ""
+    },
+    "ja": {
+      "title": "DHS長官とCBP長官、アリゾナ州の国境の壁を視察",
+      "summary": "米国土安全保障省(DHS)のマークウェイン・マリン長官と税関国境警備局(CBP)のロドニー・スコット長官は、アリゾナ州南部国境を訪問し、国境の壁の建設状況を視察しました。この訪問は、不法入国者の釈放ゼロが17カ月連続で続いていることや、今会計年度の国境越え件数が過去最低を記録したとの発表と同時期に行われました。",
+      "points": [
+        "両長官は二次バリアの建設現場を視察し、建設作業員と面会しました。",
+        "CBPによると2026会計年度の国境越え件数は米国史上最も少なかったとのことです。",
+        "2025年1月20日以降、南西国境沿いに約250マイルの新規バリアが完成しました。",
+        "2025年9月から2026年9月にかけて、CBPはスマートウォール計画に343億ドルを拠出しました。",
+        "この発表は政策広報的な内容であり、ビザや移民手続きに関する具体的な変更は含まれていません。"
+      ],
+      "who": "この発表は一般的な国境インフラと取締統計に関するものであり、特定のビザや移民手続きに直接影響するものではありません。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-16T21:18Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "enforcement"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "li",
+        "x": "Home"
+      },
+      {
+        "t": "li",
+        "x": "News"
+      },
+      {
+        "t": "li",
+        "x": "Press Releases"
+      },
+      {
+        "t": "li",
+        "x": "Secretary Mullin and CBP Commissioner Rodney Scott Tour Border Wall in Arizona"
+      },
+      {
+        "t": "p",
+        "x": "Release Date: October 16, 2026"
+      },
+      {
+        "t": "p",
+        "x": "Secretary Mullin and Commissioner Scott observed ongoing construction along the southern border"
+      },
+      {
+        "t": "p",
+        "x": "WASHINGTON – On Thursday, United States Department of Homeland Security (DHS) Secretary Markwayne Mullin, along with U.S. Customs and Border Protection (CBP) Commissioner Rodney Scott, visited the southern border in Arizona for a tour of the border wall."
+      },
+      {
+        "t": "p",
+        "x": "Secretary Mullin and Commissioner Scott observed ongoing construction on secondary barriers and met with construction crews as the Trump Administration marked 17 months of ZERO releases of illegal aliens at the southern border. The latest data from CBP also revealed that Fiscal Year 2026 saw the lowest amount of border crossings of any fiscal year in American history."
+      },
+      {
+        "t": "p",
+        "x": "“Under the Biden Administration, there was no national security, because you can’t have national security if you don’t know who’s inside the country,” said Secretary Mullin. “A secure border, and knowing who’s entering your country, is where you can start actually saying we have national security. The American people deserve to be safe in their cities, in their towns, on their streets, and in their neighborhoods. Thanks to President Trump’s bold leadership, we have had ZERO illegal aliens released into our country for the past 17 straight months—that’s promises made, promises kept in action.”"
+      },
+      {
+        "t": "p",
+        "x": "Secretary Mullin tours the border wall in Arizona"
+      },
+      {
+        "t": "p",
+        "x": "Secretary Mullin meets with construction crews working on secondary barriers"
+      },
+      {
+        "t": "p",
+        "x": "Commissioner Scott (left) and Secretary Mullin talk to Border Patrol agents at the wall"
+      },
+      {
+        "t": "p",
+        "x": "Ongoing construction on secondary barriers along the border"
+      },
+      {
+        "t": "p",
+        "x": "Secretary Mullin, Commissioner Scott, and construction crews at the border wall"
+      },
+      {
+        "t": "p",
+        "x": "In Fiscal Year 2026, CBP completed construction of 250 miles of new border barrier along the southwest border since January 20, 2025. This includes primary and secondary barriers, waterborne barriers, and supporting technology."
+      },
+      {
+        "t": "p",
+        "x": "Funding from the Working Families Tax Cut Act enabled CBP to accelerate Smart Wall construction. From September 2025 through September 2026, CBP obligated $34.3 billion to support Smart Wall projects across all southwest border states, cementing a generational investment in physical security and operational control."
+      },
+      {
+        "t": "p",
+        "x": "# # #"
+      },
+      {
+        "t": "li",
+        "x": "Border Security"
+      },
+      {
+        "t": "li",
+        "x": "Homeland Security Enterprise"
+      },
+      {
+        "t": "li",
+        "x": "Secretary of Homeland Security"
+      },
+      {
+        "t": "h",
+        "x": "Keywords"
+      },
+      {
+        "t": "li",
+        "x": "Border Security"
+      },
+      {
+        "t": "li",
+        "x": "Border Wall"
+      },
+      {
+        "t": "li",
+        "x": "Customs and Border Protection (CBP)"
+      },
+      {
+        "t": "li",
+        "x": "Secretary Markwayne Mullin"
+      },
+      {
+        "t": "p",
+        "x": "Last Updated: 10/16/2026"
+      }
+    ],
+    "fetched": "2026-10-16T21:19Z",
+    "from": "page",
+    "chars": 2539
+  },
+  "full": {
+    "ko": [
+      "홈",
+      "뉴스",
+      "보도자료",
+      "멀린 장관과 CBP 로드니 스콧 청장, 애리조나주 국경 장벽 시찰",
+      "발표일: 2026년 10월 16일",
+      "멀린 장관과 스콧 청장, 남부 국경을 따라 진행 중인 공사 현장 시찰",
+      "워싱턴, 목요일 미국 국토안보부(DHS) 마크웨인 멀린 장관은 미국 세관국경보호청(CBP) 로드니 스콧 청장과 함께 애리조나주 남부 국경을 방문하여 국경 장벽을 시찰했습니다.",
+      "멀린 장관과 스콧 청장은 2차 장벽 공사 현장을 시찰하고 건설 작업반을 만났으며, 이는 트럼프 행정부가 남부 국경에서 불법 외국인 석방 제로 상태를 17개월째 유지한 것을 기념하는 자리였습니다. CBP의 최신 자료에 따르면 2026 회계연도는 미국 역사상 그 어떤 회계연도보다도 국경 월경 건수가 가장 낮은 해로 나타났습니다.",
+      "“바이든 행정부 하에서는 국가 안보가 존재하지 않았습니다. 왜냐하면 국내에 누가 있는지 모른다면 국가 안보를 가질 수 없기 때문입니다.”라고 멀린 장관은 말했습니다. “안전한 국경을 갖추고 누가 자국에 입국하는지 아는 것이야말로 비로소 국가 안보를 갖추고 있다고 말할 수 있는 시작점입니다. 미국 국민은 자신이 사는 도시, 마을, 거리, 그리고 동네에서 안전을 누릴 자격이 있습니다. 트럼프 대통령의 과감한 지도력 덕분에 우리는 지난 17개월 연속으로 단 한 명의 불법 외국인도 국내에 석방하지 않았습니다. 이는 약속한 것을 실제로 지킨 것입니다.”",
+      "멀린 장관, 애리조나주 국경 장벽 시찰",
+      "멀린 장관, 2차 장벽 공사 작업반과 면담",
+      "스콧 청장(왼쪽)과 멀린 장관이 장벽에서 국경순찰대 요원들과 대화를 나누는 모습",
+      "국경을 따라 진행 중인 2차 장벽 공사",
+      "멀린 장관, 스콧 청장, 그리고 건설 작업반이 국경 장벽에서 함께한 모습",
+      "2026 회계연도에 CBP는 2025년 1월 20일 이후 남서부 국경을 따라 새로운 국경 장벽 250마일의 건설을 완료했습니다. 여기에는 1차 및 2차 장벽, 수상 장벽, 그리고 이를 지원하는 기술이 포함됩니다.",
+      "근로 가정 세금 감면법(Working Families Tax Cut Act)의 재원 지원으로 CBP는 스마트 장벽(Smart Wall) 건설을 가속화할 수 있었습니다. 2025년 9월부터 2026년 9월까지 CBP는 남서부 국경의 모든 주에 걸쳐 스마트 장벽 사업을 지원하기 위해 343억 달러를 지출하기로 의결하여, 물리적 보안과 작전 통제에 있어 세대를 아우르는 투자를 확고히 했습니다.",
+      "# # #",
+      "국경 보안",
+      "국토안보 기관",
+      "국토안보부 장관",
+      "키워드",
+      "국경 보안",
+      "국경 장벽",
+      "세관국경보호청(CBP)",
+      "마크웨인 멀린 장관",
+      "최종 업데이트: 2026년 10월 16일"
+    ],
+    "es": [
+      "Inicio",
+      "Noticias",
+      "Comunicados de Prensa",
+      "El Secretario Mullin y el Comisionado de CBP Rodney Scott recorren el muro fronterizo en Arizona",
+      "Fecha de publicación: 16 de octubre de 2026",
+      "El Secretario Mullin y el Comisionado Scott observaron la construcción en curso a lo largo de la frontera sur",
+      "WASHINGTON – El jueves, el Secretario del Departamento de Seguridad Nacional (DHS) de los Estados Unidos, Markwayne Mullin, junto con el Comisionado de la Oficina de Aduanas y Protección Fronteriza (CBP) de los Estados Unidos, Rodney Scott, visitaron la frontera sur en Arizona para recorrer el muro fronterizo.",
+      "El Secretario Mullin y el Comisionado Scott observaron la construcción en curso de barreras secundarias y se reunieron con las cuadrillas de construcción mientras la Administración Trump conmemoraba 17 meses de CERO liberaciones de extranjeros ilegales en la frontera sur. Los datos más recientes de CBP también revelaron que el Año Fiscal 2026 registró la menor cantidad de cruces fronterizos de cualquier año fiscal en la historia estadounidense.",
+      "\"Bajo la Administración Biden, no había seguridad nacional, porque no se puede tener seguridad nacional si no se sabe quién está dentro del país\", dijo el Secretario Mullin. \"Una frontera segura, y saber quién ingresa a tu país, es donde se puede empezar a decir realmente que tenemos seguridad nacional. El pueblo estadounidense merece estar seguro en sus ciudades, en sus pueblos, en sus calles y en sus vecindarios. Gracias al liderazgo audaz del Presidente Trump, hemos tenido CERO extranjeros ilegales liberados en nuestro país durante los últimos 17 meses consecutivos, eso es promesas hechas, promesas cumplidas en acción\".",
+      "El Secretario Mullin recorre el muro fronterizo en Arizona",
+      "El Secretario Mullin se reúne con las cuadrillas de construcción que trabajan en las barreras secundarias",
+      "El Comisionado Scott (izquierda) y el Secretario Mullin conversan con agentes de la Patrulla Fronteriza en el muro",
+      "Construcción en curso de barreras secundarias a lo largo de la frontera",
+      "El Secretario Mullin, el Comisionado Scott y las cuadrillas de construcción en el muro fronterizo",
+      "En el Año Fiscal 2026, CBP completó la construcción de 250 millas de nueva barrera fronteriza a lo largo de la frontera suroeste desde el 20 de enero de 2025. Esto incluye barreras primarias y secundarias, barreras fluviales y tecnología de apoyo.",
+      "El financiamiento proveniente de la Ley de Reducción de Impuestos para Familias Trabajadoras (Working Families Tax Cut Act) permitió a CBP acelerar la construcción del Muro Inteligente. Desde septiembre de 2025 hasta septiembre de 2026, CBP comprometió 34.3 mil millones de dólares para apoyar los proyectos del Muro Inteligente en todos los estados fronterizos del suroeste, consolidando una inversión generacional en seguridad física y control operativo.",
+      "# # #",
+      "Seguridad Fronteriza",
+      "Entidad de Seguridad Nacional",
+      "Secretario de Seguridad Nacional",
+      "Palabras clave",
+      "Seguridad Fronteriza",
+      "Muro Fronterizo",
+      "Oficina de Aduanas y Protección Fronteriza (CBP)",
+      "Secretario Markwayne Mullin",
+      "Última actualización: 16/10/2026"
+    ],
+    "zh": [
+      "首页",
+      "新闻",
+      "新闻稿",
+      "马尔文部长与美国海关及边境保护局局长罗德尼·斯科特视察亚利桑那州边境墙",
+      "发布日期:2026年10月16日",
+      "马尔文部长和斯科特局长观摩了南部边境正在进行的建设工程",
+      "华盛顿, 周四,美国国土安全部(DHS)部长马克韦恩·马尔文(Markwayne Mullin)偕同美国海关及边境保护局(CBP)局长罗德尼·斯科特(Rodney Scott)前往亚利桑那州南部边境,视察边境墙建设情况。",
+      "马尔文部长和斯科特局长观摩了二级屏障正在进行的建设工程,并与施工队会面。此次视察正值特朗普政府标志着南部边境连续17个月实现非法外国人零释放。美国海关及边境保护局发布的最新数据还显示,2026财年的边境越境人数为美国历史上任何一个财年中最低的。",
+      "马尔文部长表示:“在拜登政府执政期间,国家安全无从谈起,因为如果你不知道谁在国内,就不可能有国家安全。只有确保边境安全,知道谁进入了你的国家,你才能真正开始谈论我们拥有国家安全。美国人民理应在自己的城市、城镇、街道和社区中享有安全。得益于特朗普总统的大胆领导,过去连续17个月以来,我们实现了非法外国人零释放,这就是信守承诺、落实于行动的体现。”",
+      "马尔文部长视察亚利桑那州边境墙",
+      "马尔文部长与从事二级屏障建设工程的施工队会面",
+      "斯科特局长(左)与马尔文部长在边境墙处与边境巡逻队特工交谈",
+      "边境二级屏障的持续建设工程",
+      "马尔文部长、斯科特局长与施工队在边境墙处合影",
+      "2026财年,自2025年1月20日以来,美国海关及边境保护局已完成西南边境新建边境屏障250英里的建设工程。这包括一级屏障和二级屏障、水上屏障以及配套技术设施。",
+      "《工薪家庭减税法案》(Working Families Tax Cut Act)提供的资金使美国海关及边境保护局得以加快“智能墙”建设。从2025年9月至2026年9月,美国海关及边境保护局已拨付343亿美元,用于支持西南边境各州的“智能墙”项目,为实体安全和行动管控奠定了具有世代意义的投资基础。",
+      "# # #",
+      "边境安全",
+      "国土安全事业",
+      "国土安全部部长",
+      "关键词",
+      "边境安全",
+      "边境墙",
+      "美国海关及边境保护局(CBP)",
+      "马克韦恩·马尔文部长",
+      "最后更新日期:2026年10月16日"
+    ],
+    "ja": [
+      "ホームページ",
+      "ニュース",
+      "プレスリリース",
+      "マリン長官とCBPロドニー・スコット長官、アリゾナ州の国境壁を視察",
+      "発表日:2026年10月16日",
+      "マリン長官とスコット長官、南部国境沿いで進行中の建設工事を視察",
+      "ワシントン, 木曜日、米国国土安全保障省(DHS)のマークウェイン・マリン長官は、米国税関・国境警備局(CBP)のロドニー・スコット長官とともに、アリゾナ州の南部国境を訪れ、国境壁を視察した。",
+      "マリン長官とスコット長官は、二次障壁の建設工事の進捗状況を視察し、建設作業員と面会した。これは、トランプ政権が南部国境における不法入国者の解放ゼロを17か月間連続で達成したことを記念するものである。CBPの最新データによれば、2026会計年度は米国史上いずれの会計年度よりも国境越境件数が最も少なかったことも明らかになった。",
+      "「バイデン政権下では、国家安全保障は存在しなかった。なぜなら、国内に誰がいるのかを把握していなければ、国家安全保障は成り立たないからだ」とマリン長官は述べた。「国境を確保し、自国に入国する者を把握して初めて、国家安全保障があると言えるようになる。米国民は、自らの都市、町、通り、そして近隣地域において安全であるべきだ。トランプ大統領の大胆な指導力のおかげで、過去17か月連続で不法入国者が国内に解放されることはゼロであった。これはまさに、公約を実行に移した結果である。」",
+      "マリン長官、アリゾナ州の国境壁を視察",
+      "マリン長官、二次障壁の建設作業員と面会",
+      "スコット長官(左)とマリン長官、国境壁にて国境警備隊員と対話",
+      "国境沿いで進行中の二次障壁建設工事",
+      "マリン長官、スコット長官、そして建設作業員ら、国境壁にて",
+      "2026会計年度において、CBPは2025年1月20日以降、南西部国境沿いに新たな国境障壁250マイルの建設を完了した。これには、一次障壁および二次障壁、水上障壁、ならびに支援技術が含まれる。",
+      "勤労家庭減税法による資金により、CBPはスマートウォールの建設を加速することができた。2025年9月から2026年9月にかけて、CBPは南西部国境沿いの全州にわたるスマートウォール事業を支援するため、343億ドルを拠出し、物理的security及び運用管理における世代を超えた投資を確固たるものとした。",
+      "# # #",
+      "国境警備",
+      "国土安全保障エンタープライズ",
+      "国土安全保障長官",
+      "キーワード",
+      "国境警備",
+      "国境壁",
+      "税関・国境警備局(CBP)",
+      "マークウェイン・マリン長官",
+      "最終更新日:2026年10月16日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

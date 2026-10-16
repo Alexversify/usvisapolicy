@@ -1,5 +1,81 @@
 [
   {
+    "id": "83f0c45b31fe",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-16T21:22Z"
+  },
+  {
+    "id": "ba3bf08c712f",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/dhs-department-transportation-and-department-war-join-forces-protect-southern",
+    "published": "2026-10-16",
+    "effective_date": "2026-10-16",
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Border Security",
+      "Drone",
+      "TFR"
+    ],
+    "added": "2026-10-16T21:20Z"
+  },
+  {
+    "id": "2c187ca99355",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/secretary-mullin-and-cbp-commissioner-rodney-scott-tour-border-wall-arizona",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Border Wall",
+      "CBP",
+      "Border Security"
+    ],
+    "added": "2026-10-16T21:18Z"
+  },
+  {
+    "id": "3e324348d43a",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/secretary-mullin-oversees-deportation-flights-out-arizona",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Deportation",
+      "ICE",
+      "Arizona"
+    ],
+    "added": "2026-10-16T21:17Z"
+  },
+  {
     "id": "02c34293c9b9",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/16/under-president-trump-and-secretary-mullin-dhs-announces-lowest-fiscal-year-border",
