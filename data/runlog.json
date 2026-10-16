@@ -1,5 +1,39 @@
 [
   {
+    "t": "2026-10-16T16:50:59Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38934000983",
+    "found": 3,
+    "added": [
+      {
+        "id": "9887c420a8f4",
+        "source": "dhs_news",
+        "title": "ICE, 2024년 대선서 불법 투표한 비시민권자 체포"
+      },
+      {
+        "id": "cd05c87b239b",
+        "source": "dhs_news",
+        "title": "ICE 수사로 미네소타주 불법체류 멕시코 국적자, 아동 포르노 제작 시도 유죄 평결"
+      },
+      {
+        "id": "02c34293c9b9",
+        "source": "dhs_news",
+        "title": "DHS, 2026 회계연도 남서부 국경 불법 입국 역대 최저치 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.5868,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 1개, 예시 [('https://www.cloudflare.com/5xx-error-landing', 'Cloudflare')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-16T11:31:13Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/38894041707",

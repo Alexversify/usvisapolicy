@@ -1,5 +1,68 @@
 [
   {
+    "id": "02c34293c9b9",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/under-president-trump-and-secretary-mullin-dhs-announces-lowest-fiscal-year-border",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel",
+      "other"
+    ],
+    "tags": [
+      "Border Security",
+      "CBP",
+      "Border Patrol",
+      "Enforcement Statistics"
+    ],
+    "added": "2026-10-16T16:49Z"
+  },
+  {
+    "id": "cd05c87b239b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/ice-hsi-investigation-leads-conviction-illegal-alien-child-pornography-minnesota",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "HSI",
+      "Enforcement",
+      "Minnesota",
+      "Criminal Conviction"
+    ],
+    "added": "2026-10-16T16:47Z"
+  },
+  {
+    "id": "9887c420a8f4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/16/ice-hsi-arrests-non-citizen-illegally-voting-2024-election",
+    "published": "2026-10-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Enforcement",
+      "Voter Fraud",
+      "ICE HSI"
+    ],
+    "added": "2026-10-16T16:45Z"
+  },
+  {
     "id": "70161e56a8f1",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/15/hsi-investigation-leads-arrest-sex-offender-illegal-alien-released-oregon-sanctuary",
