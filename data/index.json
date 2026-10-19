@@ -1,5 +1,84 @@
 [
   {
+    "id": "bc9fb3ba2b9a",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/19/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-rapists-drug-traffickers",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-19T20:45Z"
+  },
+  {
+    "id": "98e0dd3ef24d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/19/dhs-highlights-worst-illegal-aliens-criminal-histories-state-kansas",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-19T20:43Z"
+  },
+  {
+    "id": "858e7602d0ea",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/massachusetts-man-charged-for-his-role-in-marriage-and-immigration-document-fraud",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Green Card",
+      "I-130",
+      "Indictment"
+    ],
+    "added": "2026-10-19T20:41Z"
+  },
+  {
+    "id": "a96aba477d87",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/providence-immigration-attorney-pleads-guilty-to-wire-fraud-and-tax-evasion",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Attorney Fraud",
+      "Immigration Fraud",
+      "Wire Fraud",
+      "Tax Evasion"
+    ],
+    "added": "2026-10-19T20:40Z"
+  },
+  {
     "id": "1353109572e4",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/19/ice-arrests-more-100-gang-members-less-week",

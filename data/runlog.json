@@ -1,5 +1,44 @@
 [
   {
+    "t": "2026-10-19T20:47:06Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39320722312",
+    "found": 4,
+    "added": [
+      {
+        "id": "a96aba477d87",
+        "source": "uscis_news",
+        "title": "로드아일랜드 이민 변호사, 전신사기 및 조세포탈 혐의 유죄 인정"
+      },
+      {
+        "id": "858e7602d0ea",
+        "source": "uscis_news",
+        "title": "매사추세츠 남성, 위장결혼으로 그린카드 취득 공모 혐의로 기소"
+      },
+      {
+        "id": "98e0dd3ef24d",
+        "source": "dhs_news",
+        "title": "국토안보부, 캔자스주 내 범죄 전력 불법체류자 체포 사례 공개"
+      },
+      {
+        "id": "bc9fb3ba2b9a",
+        "source": "dhs_news",
+        "title": "ICE, 주말 동안 살인·아동성범죄·강간·마약밀매 전과 불법체류자 다수 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6514,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-19T13:28:26Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39259662360",
