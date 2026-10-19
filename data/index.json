@@ -1,5 +1,44 @@
 [
   {
+    "id": "1353109572e4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/19/ice-arrests-more-100-gang-members-less-week",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Gang Enforcement",
+      "MS-13",
+      "Tren de Aragua"
+    ],
+    "added": "2026-10-19T13:27Z"
+  },
+  {
+    "id": "a9e511d3af4e",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "DeepSeek",
+      "Procurement",
+      "Cybersecurity"
+    ],
+    "added": "2026-10-19T13:25Z"
+  },
+  {
     "id": "83f0c45b31fe",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/16/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers",

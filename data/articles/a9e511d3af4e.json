@@ -1,0 +1,171 @@
+{
+  "id": "a9e511d3af4e",
+  "source": "fr_public_inspection",
+  "url": "https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information",
+  "original_title": "Order: Exclusion and Removal of DeepSeek Products from Federal Civilian Executive Branch Information Technology Systems and Procurements",
+  "published": "2026-10-19",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "DeepSeek",
+    "Procurement",
+    "Cybersecurity"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "DHS, 연방 민간기관 IT 시스템에서 DeepSeek 제품 배제 및 제거 명령 발표",
+      "summary": "국토안보부(DHS)가 연방 조달공급망안보법에 따라 중국 Hangzhou DeepSeek Artificial Intelligence Co., Ltd의 IT 제품과 서비스를 연방 민간기관 조달에서 배제하고, 기존에 사용 중인 DeepSeek 및 관련 제품을 제거하도록 하는 명령을 공개했습니다. 이 문서는 이민, 비자, 시민권과는 관련이 없는 사이버보안 및 조달 관련 조치입니다.",
+      "points": [
+        "DHS 장관이 Federal Acquisition Supply Chain Security Act of 2018에 근거해 명령을 발령했습니다.",
+        "DeepSeek 및 계열사가 개발한 IT 제품과 서비스는 연방 민간기관 조달에서 배제됩니다.",
+        "DeepSeek 구현을 사용한 제3자 제품과 서비스를 포함해 기존 연방 민간기관 IT 시스템에서 모두 제거하도록 했습니다.",
+        "이 명령은 이민, 비자 정책과는 무관한 정부 조달 및 사이버보안 조치입니다.",
+        "연방관보 게재가 예정된 상태이며, 서명된 명령 전문은 regulations.gov에서 DHS 도켓 번호 DHS-2026-0628로 확인할 수 있습니다."
+      ],
+      "who": "이민자, 비자 신청자 등 일반 대중이 아니라 연방 민간기관 및 연방 조달업체가 영향을 받습니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "DHS orders exclusion and removal of DeepSeek products from federal civilian IT systems",
+      "summary": "The Department of Homeland Security has issued an order, under the Federal Acquisition Supply Chain Security Act of 2018, excluding IT products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd from federal civilian agency procurement and requiring removal of existing DeepSeek-related products from federal civilian IT systems. This notice concerns federal procurement and cybersecurity, not immigration, visas, or citizenship.",
+      "points": [
+        "The Secretary of Homeland Security issued the order under 41 U.S.C. 1321-1328 and implementing regulations at 41 CFR 201-1.",
+        "DeepSeek and its affiliated entities are excluded from federal civilian agency procurements.",
+        "Federal civilian agencies must remove DeepSeek and DeepSeek-affiliate products, as well as third-party products built using DeepSeek implementations.",
+        "The order is unrelated to visa policy, immigration status, or citizenship.",
+        "The order is scheduled to be published in the Federal Register, and the signed order is available on regulations.gov under docket DHS-2026-0628."
+      ],
+      "who": "Federal civilian agencies and federal contractors are affected, not individual immigrants or visa applicants.",
+      "action": ""
+    },
+    "es": {
+      "title": "DHS ordena excluir y eliminar productos de DeepSeek de los sistemas de TI del gobierno civil federal",
+      "summary": "El Departamento de Seguridad Nacional (DHS) emitió una orden, bajo la Ley de Seguridad de la Cadena de Suministro de Adquisiciones Federales de 2018, para excluir productos y servicios de tecnología de la información desarrollados por Hangzhou DeepSeek Artificial Intelligence Co., Ltd de las adquisiciones de agencias civiles federales, y exige retirar los productos de DeepSeek ya existentes en esos sistemas. Este aviso trata sobre adquisiciones federales y ciberseguridad, no sobre inmigración, visas ni ciudadanía.",
+      "points": [
+        "El Secretario de Seguridad Nacional emitió la orden conforme a 41 U.S.C. 1321-1328 y su reglamento en 41 CFR 201-1.",
+        "DeepSeek y sus entidades afiliadas quedan excluidas de las adquisiciones de agencias civiles federales.",
+        "Las agencias civiles federales deben eliminar los productos de DeepSeek y sus afiliados, así como productos de terceros desarrollados con implementaciones de DeepSeek.",
+        "La orden no tiene relación con la política de visas, el estatus migratorio ni la ciudadanía.",
+        "Está programada su publicación en el Federal Register, y la orden firmada puede consultarse en regulations.gov bajo el expediente DHS-2026-0628."
+      ],
+      "who": "Afecta a las agencias civiles federales y a los contratistas federales, no a inmigrantes ni solicitantes de visa.",
+      "action": ""
+    },
+    "zh": {
+      "title": "DHS下令将DeepSeek产品从联邦民用机构信息技术系统中排除并移除",
+      "summary": "美国国土安全部(DHS)依据2018年联邦采购供应链安全法发布命令,将杭州深度求索人工智能有限公司(DeepSeek)开发的信息技术产品和服务排除在联邦民用机构采购之外,并要求从现有联邦民用机构信息技术系统中移除相关产品。此公告涉及联邦采购和网络安全,与移民、签证或入籍事务无关。",
+      "points": [
+        "国土安全部长依据41 U.S.C. 1321-1328及其配套法规41 CFR 201-1发布该命令。",
+        "DeepSeek及其关联实体被排除在联邦民用机构采购之外。",
+        "联邦民用机构须移除DeepSeek及其关联产品,以及使用DeepSeek技术实现的第三方产品和服务。",
+        "该命令与签证政策、移民身份或入籍无关。",
+        "该命令预计将在联邦公报上刊登,签署版本可在regulations.gov网站通过DHS案卷编号DHS-2026-0628查阅。"
+      ],
+      "who": "受影响的是联邦民用机构和联邦承包商,而非个人移民或签证申请人。",
+      "action": ""
+    },
+    "ja": {
+      "title": "DHS、DeepSeek製品を連邦民間機関のITシステムから排除・撤去する命令を発表",
+      "summary": "米国国土安全保障省(DHS)は、2018年連邦調達サプライチェーン安全保障法に基づき、杭州深度求索人工智能有限公司(DeepSeek)が開発した情報技術製品およびサービスを連邦民間機関の調達から排除し、既存のDeepSeek関連製品を連邦民間機関のITシステムから撤去するよう命じる命令を発表しました。この通知は連邦調達とサイバーセキュリティに関するものであり、移民、ビザ、市民権とは無関係です。",
+      "points": [
+        "国土安全保障長官は41 U.S.C. 1321-1328および施行規則41 CFR 201-1に基づき命令を発出しました。",
+        "DeepSeekおよびその関連事業体は連邦民間機関の調達から排除されます。",
+        "連邦民間機関は、DeepSeekおよび関連製品、ならびにDeepSeekの実装を用いた第三者製品・サービスを撤去する必要があります。",
+        "この命令はビザ政策、移民資格、市民権とは関係ありません。",
+        "連邦官報への掲載が予定されており、署名済みの命令はregulations.govでDHS案件番号DHS-2026-0628を検索すると確認できます。"
+      ],
+      "who": "個々の移民やビザ申請者ではなく、連邦民間機関および連邦調達業者が影響を受けます。",
+      "action": ""
+    }
+  },
+  "added": "2026-10-19T13:25Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "BILLING CODE 9111-LF-P DEPARTMENT OF HOMELAND SECURITY [Docket No. DHS-2026-0628] Notice of Order Regarding Exclusion and Removal of DeepSeek Products from Federal Civilian Executive Branch Information Technology Systems and Procurements AGENCY: Department of Homeland Security (DHS)."
+      },
+      {
+        "t": "p",
+        "x": "ACTION: Notice of order."
+      },
+      {
+        "t": "p",
+        "x": "SUMMARY: The Department of Homeland Security is publishing notice of the Secretary of Homeland Security’s issuance of an order (1) excluding information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), to include affiliated entities as defined in applicable regulations, from federal civilian agency procurements; and, (2) removing all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology."
+      },
+      {
+        "t": "p",
+        "x": "FOR FURTHER INFORMATION CONTACT: FASCSA Order Implementation Team CISA Cybersecurity Division, fascsa.orders@cisa.dhs.gov."
+      },
+      {
+        "t": "p",
+        "x": "SUPPLEMENTARY INFORMATION: Pursuant to the authority granted by the Federal Acquisition Supply Chain Security Act of 2018, 41 U.S.C. 1321-1328, and implementing regulations at 41 CFR 201-1, following review of the Federal Acquisition Security Council Recommendation and affiliated evidence, the Secretary of Homeland Security has ordered: (1) exclusion of information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), to include This document is scheduled to be published in the Federal Register on 2026-10-20 and available online at https://www.federalregister.gov/d/2026-21447, and on https://govinfo.gov affiliated entities as defined in 48 CFR 2.101, from federal civilian agency procurements; and (2) removal of all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology."
+      },
+      {
+        "t": "p",
+        "x": "A copy of the signed order is contained in the accompanying Appendix and can be found at https://www.regulations.gov by searching for DHS Docket Number DHS-2026-0628. James H. Percival II, General Counsel, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "APPENDIX"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-21447 Filed: 10/19/2026 8:45 am; Publication Date: 10/20/2026]"
+      }
+    ],
+    "fetched": "2026-10-19T13:25Z",
+    "from": "pi-pdf",
+    "chars": 2265
+  },
+  "full": {
+    "ko": [
+      "빌링 코드 9111-LF-P 국토안보부 [문서 번호 DHS-2026-0628] 연방 민간 행정부 정보기술 시스템 및 조달에서 딥시크(DeepSeek) 제품의 배제 및 제거에 관한 명령 공고 기관: 국토안보부(Department of Homeland Security, DHS).",
+      "조치: 명령 공고.",
+      "요약: 국토안보부는 국토안보부 장관이 다음의 내용을 포함하는 명령을 발령하였음을 공고합니다. (1) 항저우 딥시크 인공지능 유한회사(Hangzhou DeepSeek Artificial Intelligence Co., Ltd, 이하 DeepSeek)가 개발한 정보기술 제품 및 서비스를, 관련 규정에서 정의된 계열 사업체를 포함하여, 연방 민간 기관의 조달에서 배제하는 것. 그리고 (2) 모든 DeepSeek 및 DeepSeek 계열사의 제품, 그리고 DeepSeek 구현 방식을 사용하여 개발된 제3자 제품 및 서비스를 민간 기관의 정보기술에서 제거하는 것.",
+      "추가 정보 문의처: FASCSA 명령 이행팀, 사이버보안 인프라보안국(CISA) 사이버보안국, fascsa.orders@cisa.dhs.gov.",
+      "보충 정보: 2018년 연방조달 공급망 보안법(Federal Acquisition Supply Chain Security Act of 2018), 41 U.S.C. 1321-1328, 및 그 시행규정인 41 CFR 201-1에 따라 부여된 권한에 의거하여, 연방조달보안위원회(Federal Acquisition Security Council)의 권고안 및 관련 증거를 검토한 후, 국토안보부 장관은 다음과 같이 명령하였습니다. (1) 항저우 딥시크 인공지능 유한회사(DeepSeek)가 개발한 정보기술 제품 및 서비스를, 이 문서는 2026년 10월 20일자로 연방관보(Federal Register)에 게재될 예정이며 https://www.federalregister.gov/d/2026-21447 및 https://govinfo.gov 에서 온라인으로 열람 가능합니다. 48 CFR 2.101에서 정의된 계열 사업체를 포함하여, 연방 민간 기관의 조달에서 배제하는 것. 그리고 (2) 모든 DeepSeek 및 DeepSeek 계열사의 제품, 그리고 DeepSeek 구현 방식을 사용하여 개발된 제3자 제품 및 서비스를 민간 기관의 정보기술에서 제거하는 것.",
+      "서명된 명령의 사본은 첨부된 부록에 수록되어 있으며, https://www.regulations.gov 에서 DHS 문서 번호 DHS-2026-0628을 검색하여 확인할 수 있습니다. 제임스 에이치 퍼시벌 2세(James H. Percival II), 법률 고문, 미국 국토안보부.",
+      "부록",
+      "[연방관보 문서 번호 2026-21447, 제출일: 2026년 10월 19일 오전 8시 45분, 게재일: 2026년 10월 20일]"
+    ],
+    "es": [
+      "CÓDIGO DE FACTURACIÓN 9111-LF-P DEPARTAMENTO DE SEGURIDAD NACIONAL [Expediente No. DHS-2026-0628] Aviso de Orden Relativa a la Exclusión y Remoción de Productos de DeepSeek de los Sistemas y Adquisiciones de Tecnología de la Información del Poder Ejecutivo Civil Federal AGENCIA: Departamento de Seguridad Nacional (DHS, por sus siglas en inglés).",
+      "ACCIÓN: Aviso de orden.",
+      "RESUMEN: El Departamento de Seguridad Nacional publica el presente aviso de la emisión, por parte del Secretario de Seguridad Nacional, de una orden que (1) excluye los productos y servicios de tecnología de la información desarrollados por Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), incluyendo las entidades afiliadas según se definen en los reglamentos aplicables, de las adquisiciones de las agencias civiles federales; y (2) elimina todos los productos de DeepSeek y de sus afiliadas, así como los productos y servicios de terceros desarrollados mediante implementaciones de DeepSeek, de la tecnología de la información de las agencias civiles.",
+      "PARA MÁS INFORMACIÓN, COMUNICARSE CON: Equipo de Implementación de Órdenes de la FASCSA, División de Ciberseguridad de la CISA, fascsa.orders@cisa.dhs.gov.",
+      "INFORMACIÓN COMPLEMENTARIA: De conformidad con la autoridad conferida por la Ley de Seguridad de la Cadena de Suministro de Adquisiciones Federales de 2018 (Federal Acquisition Supply Chain Security Act of 2018), 41 U.S.C. 1321-1328, y sus reglamentos de implementación establecidos en 41 CFR 201-1, tras la revisión de la Recomendación del Consejo de Seguridad de la Cadena de Suministro de Adquisiciones Federales y la evidencia conexa, el Secretario de Seguridad Nacional ha ordenado lo siguiente: (1) la exclusión de los productos y servicios de tecnología de la información desarrollados por Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), incluyendo Este documento está programado para publicarse en el Federal Register el 20-10-2026 y estará disponible en línea en https://www.federalregister.gov/d/2026-21447, y en https://govinfo.gov, las entidades afiliadas según se definen en 48 CFR 2.101, de las adquisiciones de las agencias civiles federales; y (2) la remoción de todos los productos de DeepSeek y de sus afiliadas, así como de los productos y servicios de terceros desarrollados mediante implementaciones de DeepSeek, de la tecnología de la información de las agencias civiles.",
+      "Una copia de la orden firmada se encuentra en el Apéndice adjunto y puede consultarse en https://www.regulations.gov buscando el Número de Expediente DHS-2026-0628. James H. Percival II, Asesor Jurídico General, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "APÉNDICE",
+      "[Doc. del FR 2026-21447 Presentado: 19/10/2026 8:45 a.m.; Fecha de Publicación: 20/10/2026]"
+    ],
+    "zh": [
+      "BILLING CODE 9111-LF-P\n国土安全部\n[案卷编号 DHS-2026-0628]\n关于将DeepSeek产品排除出联邦民事行政部门信息技术系统和采购活动并予以移除的命令通知\n机构:国土安全部(Department of Homeland Security,简称DHS)。",
+      "行动:命令通知。",
+      "摘要:国土安全部现公布国土安全部部长发布的命令通知,该命令:(1)将杭州深度求索人工智能基础技术研究有限公司(Hangzhou DeepSeek Artificial Intelligence Co., Ltd,简称DeepSeek)开发的信息技术产品和服务,包括适用法规所定义的关联实体,排除出联邦民事机构的采购活动范围;以及(2)将所有DeepSeek及DeepSeek关联企业的产品,以及使用DeepSeek技术实现方式开发的第三方产品和服务,从民事机构信息技术系统中移除。",
+      "如需更多信息,请联系:FASCSA命令实施团队,网络安全与基础设施安全局(CISA)网络安全部门,电子邮箱:fascsa.orders@cisa.dhs.gov。",
+      "补充信息:根据2018年《联邦采购供应链安全法》(Federal Acquisition Supply Chain Security Act of 2018,41 U.S.C. 1321-1328)授予的权力,以及41 CFR 201-1部分的实施法规,在审查联邦采购安全委员会的建议及相关证据后,国土安全部部长已下令:(1)将杭州深度求索人工智能基础技术研究有限公司(Hangzhou DeepSeek Artificial Intelligence Co., Ltd,简称DeepSeek)开发的信息技术产品和服务,包括本文件定于2026年10月20日在《联邦公报》刊登,并可于https://www.federalregister.gov/d/2026-21447以及https://govinfo.gov网站查阅,48 CFR 2.101所定义的关联实体,排除出联邦民事机构的采购活动范围;以及(2)将所有DeepSeek及DeepSeek关联企业的产品,以及使用DeepSeek技术实现方式开发的第三方产品和服务,从民事机构信息技术系统中移除。",
+      "签署命令的副本载于随附的附录中,亦可通过在https://www.regulations.gov网站搜索国土安全部案卷编号DHS-2026-0628查阅。James H. Percival II,美国国土安全部总法律顾问。",
+      "附录",
+      "[联邦公报文件编号2026-21447 归档时间:2026年10月19日上午8:45;刊登日期:2026年10月20日]"
+    ],
+    "ja": [
+      "BILLING CODE 9111-LF-P 国土安全保障省(DHS) [整理番号 DHS-2026-0628] 連邦文民行政府の情報技術システム及び調達からのDeepSeek製品の排除及び除去に関する命令の通知 機関:国土安全保障省(DHS)。",
+      "措置:命令の通知。",
+      "概要:国土安全保障省は、国土安全保障長官が発した命令の通知を公表するものである。当該命令は、(1)杭州深度求索人工知能有限公司(Hangzhou DeepSeek Artificial Intelligence Co., Ltd、以下「DeepSeek」という)が開発した情報技術製品及びサービス(適用規則において定義される関連会社を含む)を、連邦文民機関の調達から排除すること、及び、(2)DeepSeek及びDeepSeek関連会社の全製品、並びにDeepSeekの実装を用いて開発された第三者の製品及びサービスを、文民機関の情報技術から除去することを定めるものである。",
+      "詳細情報に関する問い合わせ先:FASCSA命令実施チーム サイバーセキュリティ・インフラセキュリティ庁(CISA)サイバーセキュリティ部門、fascsa.orders@cisa.dhs.gov。",
+      "補足情報:2018年連邦調達サプライチェーンセキュリティ法(41 U.S.C. 1321-1328)及びその施行規則である41 CFR 201-1により付与された権限に基づき、連邦調達セキュリティ評議会の勧告及び関連する証拠の検討を経て、国土安全保障長官は以下の命令を発した。すなわち、(1)杭州深度求索人工知能有限公司(Hangzhou DeepSeek Artificial Intelligence Co., Ltd、以下「DeepSeek」という)が開発した情報技術製品及びサービス(本文書は2026年10月20日付で連邦官報に掲載される予定であり、https://www.federalregister.gov/d/2026-21447 及び https://govinfo.gov にて閲覧可能である。48 CFR 2.101に定義される関連会社を含む)を、連邦文民機関の調達から排除すること、及び(2)DeepSeek及びDeepSeek関連会社の全製品、並びにDeepSeekの実装を用いて開発された第三者の製品及びサービスを、文民機関の情報技術から除去することである。",
+      "署名済み命令の写しは添付の付録に含まれており、https://www.regulations.gov においてDHS整理番号DHS-2026-0628を検索することにより閲覧することができる。ジェームズ・H・パーシバル二世、法律顧問、米国国土安全保障省。",
+      "付録",
+      "[連邦官報文書番号 2026-21447 提出日時:2026年10月19日午前8時45分、公表日:2026年10月20日]"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

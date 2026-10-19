@@ -1,5 +1,34 @@
 [
   {
+    "t": "2026-10-19T13:28:26Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39259662360",
+    "found": 2,
+    "added": [
+      {
+        "id": "a9e511d3af4e",
+        "source": "fr_public_inspection",
+        "title": "DHS, 연방 민간기관 IT 시스템에서 DeepSeek 제품 배제 및 제거 명령 발표"
+      },
+      {
+        "id": "1353109572e4",
+        "source": "dhs_news",
+        "title": "ICE, 일주일도 안 돼 갱단 조직원 100명 이상 체포 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.2475,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-19T04:47:22Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39201051423",
