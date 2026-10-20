@@ -1,5 +1,25 @@
 [
   {
+    "id": "42270fdb7787",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/canadian-alien-charged-with-illegal-voting",
+    "published": "2026-10-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Illegal Voting",
+      "Indictment",
+      "Immigration Fraud"
+    ],
+    "added": "2026-10-20T23:57Z"
+  },
+  {
     "id": "d6ab8a0d41b6",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/20/dhs-highlights-worst-illegal-aliens-arrested-north-carolina",
