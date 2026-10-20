@@ -1,5 +1,39 @@
 [
   {
+    "t": "2026-10-20T19:24:51Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39482354003",
+    "found": 3,
+    "added": [
+      {
+        "id": "aea96aeb68d6",
+        "source": "dhs_news",
+        "title": "ICE, 아동 성범죄 등 중범죄 전력의 불법체류자 5명 체포 발표"
+      },
+      {
+        "id": "8ec7a09cc7c9",
+        "source": "dhs_news",
+        "title": "플로리다서 ICE·CBP 요원 폭행한 여성, 징역 15개월 선고"
+      },
+      {
+        "id": "d6ab8a0d41b6",
+        "source": "dhs_news",
+        "title": "DHS, 노스캐롤라이나서 ICE가 체포한 전과자 불법체류자 5명 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.3603,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-20T14:24:05Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39438238333",

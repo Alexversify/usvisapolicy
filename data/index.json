@@ -1,5 +1,63 @@
 [
   {
+    "id": "d6ab8a0d41b6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/20/dhs-highlights-worst-illegal-aliens-arrested-north-carolina",
+    "published": "2026-10-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "North Carolina",
+      "Removal"
+    ],
+    "added": "2026-10-20T19:24Z"
+  },
+  {
+    "id": "8ec7a09cc7c9",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/20/woman-sentenced-more-year-prison-after-assaulting-dhs-officers-florida",
+    "published": "2026-10-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Enforcement",
+      "ICE",
+      "CBP"
+    ],
+    "added": "2026-10-20T19:22Z"
+  },
+  {
+    "id": "aea96aeb68d6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/20/worst-worst-ice-arrests-pedophiles-violent-assailants-and-other-public-safety",
+    "published": "2026-10-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-20T19:21Z"
+  },
+  {
     "id": "280abf214c2c",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/massachusetts-man-pleads-guilty-to-wire-fraud-and-the-fraudulent-use-of-government-seals",
