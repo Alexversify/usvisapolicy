@@ -1,5 +1,25 @@
 [
   {
+    "id": "85f69dfceda6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/19/secretary-mullin-and-cbp-commissioner-rodney-scott-visit-cbp-cargo-processing",
+    "published": "2026-10-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "CBP",
+      "Deportation",
+      "Cargo Inspection"
+    ],
+    "added": "2026-10-20T00:26Z"
+  },
+  {
     "id": "bc9fb3ba2b9a",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/19/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-rapists-drug-traffickers",
