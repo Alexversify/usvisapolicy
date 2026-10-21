@@ -1,5 +1,43 @@
 [
   {
+    "id": "f65756539d30",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/21/worst-worst-ice-arrests-rapists-violent-assailants-and-drug-traffickers",
+    "published": "2026-10-21",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-21T21:50Z"
+  },
+  {
+    "id": "fafd0daf2ab8",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/21/dhs-highlights-worst-illegal-aliens-arrested-south-carolina",
+    "published": "2026-10-21",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "South Carolina"
+    ],
+    "added": "2026-10-21T21:48Z"
+  },
+  {
     "id": "5341a2a134e6",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/21/illegal-aliens-caught-stealing-snap-benefits-defrauding-american-taxpayer-are-just",

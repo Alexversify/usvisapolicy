@@ -1,5 +1,34 @@
 [
   {
+    "t": "2026-10-21T21:51:13Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39681315414",
+    "found": 2,
+    "added": [
+      {
+        "id": "fafd0daf2ab8",
+        "source": "dhs_news",
+        "title": "DHS, 사우스캐롤라이나서 ICE가 체포한 불법체류자 5명 공개"
+      },
+      {
+        "id": "f65756539d30",
+        "source": "dhs_news",
+        "title": "ICE, 성폭행·마약 밀매 등 전과자 불법체류자 5명 체포 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.29,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-21T17:24:02Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39642137290",
