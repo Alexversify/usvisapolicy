@@ -1,5 +1,65 @@
 [
   {
+    "id": "5341a2a134e6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/21/illegal-aliens-caught-stealing-snap-benefits-defrauding-american-taxpayer-are-just",
+    "published": "2026-10-21",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Fraud",
+      "SNAP",
+      "DHS"
+    ],
+    "added": "2026-10-21T17:22Z"
+  },
+  {
+    "id": "cb93e7eb89f7",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-21600/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
+    "published": "2026-10-21",
+    "effective_date": "2027-01-20",
+    "importance": "low",
+    "category": "processing",
+    "agency": "cbp",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Customs",
+      "De Minimis",
+      "Postal Shipments"
+    ],
+    "added": "2026-10-21T17:20Z"
+  },
+  {
+    "id": "51ffc89d4b48",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-21570/modification-of-the-test-of-the-new-electronic-informal-entry-process-for-mail",
+    "published": "2026-10-21",
+    "effective_date": "2026-10-22",
+    "importance": "low",
+    "category": "processing",
+    "agency": "cbp",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Customs",
+      "Mail Entry",
+      "CBP"
+    ],
+    "added": "2026-10-21T17:17Z"
+  },
+  {
     "id": "42270fdb7787",
     "source": "uscis_news",
     "url": "https://www.uscis.gov/newsroom/news-releases/canadian-alien-charged-with-illegal-voting",
