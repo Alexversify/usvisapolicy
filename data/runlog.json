@@ -1,5 +1,59 @@
 [
   {
+    "t": "2026-10-22T21:51:56Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39858938094",
+    "found": 8,
+    "added": [
+      {
+        "id": "f68cc150e693",
+        "source": "state_press",
+        "title": "美 국무부, 부패와 마약밀매 혐의로 콜롬비아인 21명에 비자 제한 조치"
+      },
+      {
+        "id": "fc1b3b3773be",
+        "source": "state_press",
+        "title": "미 국무부, 부패·마약밀매 연루 혐의로 볼리비아인 15명에 비자 제한 부과"
+      },
+      {
+        "id": "44e6e4d93bed",
+        "source": "uscis_news",
+        "title": "아이다호서 불법 투표 혐의로 캐나다 국적자 2명 기소"
+      },
+      {
+        "id": "91b06bdaa7aa",
+        "source": "uscis_news",
+        "title": "새크라멘토 식료품점 매니저, 이민서류 사기 및 노동부 수사 방해 혐의로 유죄 평결"
+      },
+      {
+        "id": "58c81eb6539e",
+        "source": "uscis_news",
+        "title": "매사추세츠서 위장결혼 알선 조직원 6명 기소"
+      },
+      {
+        "id": "da5b80a6357c",
+        "source": "dhs_news",
+        "title": "ICE, 밀입국 조직·마약 밀매·강도 전과 외국인 5명 체포 발표"
+      },
+      {
+        "id": "4a0bd929a31c",
+        "source": "dhs_news",
+        "title": "DHS, 아이오와주에서 체포된 중범죄 전력 불법체류자 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.012,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-22T17:19:23Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39820795387",

@@ -1,5 +1,150 @@
 [
   {
+    "id": "4a0bd929a31c",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/22/dhs-highlights-worst-illegal-aliens-arrested-iowa",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Removal"
+    ],
+    "added": "2026-10-22T21:50Z"
+  },
+  {
+    "id": "da5b80a6357c",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/22/worst-worst-ice-arrests-alien-traffickers-drug-traffickers-and-robbers",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-22T21:49Z"
+  },
+  {
+    "id": "58c81eb6539e",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/six-charged-in-large-scale-marriage-fraud-ring",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "Marriage Fraud",
+      "Enforcement",
+      "USCIS",
+      "ICE",
+      "Massachusetts"
+    ],
+    "added": "2026-10-22T21:47Z"
+  },
+  {
+    "id": "91b06bdaa7aa",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/grocery-store-manager-convicted-of-immigration-document-fraud-obstruction-of-two-federal-labor",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "employment"
+    ],
+    "tags": [
+      "Immigration Fraud",
+      "Document Fraud",
+      "Labor Investigation",
+      "Conspiracy"
+    ],
+    "added": "2026-10-22T21:46Z"
+  },
+  {
+    "id": "44e6e4d93bed",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/aliens-in-idaho-charged-for-illegal-voting",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Illegal Voting",
+      "Enforcement",
+      "Fraud"
+    ],
+    "added": "2026-10-22T21:44Z"
+  },
+  {
+    "id": "fc1b3b3773be",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-bolivian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/",
+    "published": "2026-10-22",
+    "effective_date": "2026-10-22",
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "Visa Restrictions",
+      "Bolivia",
+      "Corruption",
+      "Narcotrafficking",
+      "INA 212(a)(3)(C)"
+    ],
+    "added": "2026-10-22T21:43Z"
+  },
+  {
+    "id": "f68cc150e693",
+    "source": "state_press",
+    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-colombian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/",
+    "published": "2026-10-22",
+    "effective_date": "2026-10-22",
+    "importance": "medium",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "Visa Restrictions",
+      "Colombia",
+      "Corruption",
+      "Narcotrafficking",
+      "INA 212(a)(3)(C)"
+    ],
+    "added": "2026-10-22T21:41Z"
+  },
+  {
     "id": "6ae90a891104",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/22/dhs-issues-statement-after-man-attempts-firebomb-ice-facility-atlanta",
