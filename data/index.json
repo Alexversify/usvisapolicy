@@ -1,5 +1,44 @@
 [
   {
+    "id": "6ae90a891104",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/22/dhs-issues-statement-after-man-attempts-firebomb-ice-facility-atlanta",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Atlanta"
+    ],
+    "added": "2026-10-22T17:18Z"
+  },
+  {
+    "id": "ffe31bf794e5",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/alien-from-south-africa-charged-with-unlawful-voting",
+    "published": "2026-10-22",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Unlawful Voting",
+      "Lawful Permanent Resident",
+      "ICE",
+      "Criminal Charge"
+    ],
+    "added": "2026-10-22T17:17Z"
+  },
+  {
     "id": "f65756539d30",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/21/worst-worst-ice-arrests-rapists-violent-assailants-and-drug-traffickers",
