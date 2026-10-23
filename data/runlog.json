@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-23T11:47:49Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39948088094",
+    "found": 1,
+    "added": [
+      {
+        "id": "34bb72536d06",
+        "source": "federal_register",
+        "title": "국무부, 여권기록 시스템 명칭 변경 및 개인정보보호법 기록체계 공지 개정"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6337,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-23T04:58:42Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39902909645",

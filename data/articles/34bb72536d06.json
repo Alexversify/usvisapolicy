@@ -1,0 +1,1098 @@
+{
+  "id": "34bb72536d06",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21695/privacy-act-of-1974-system-of-records",
+  "original_title": "Privacy Act of 1974; System of Records",
+  "published": "2026-10-23",
+  "effective_date": "2026-10-23",
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Passports",
+    "Privacy Act",
+    "SORN"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "국무부, 여권기록 시스템 명칭 변경 및 개인정보보호법 기록체계 공지 개정",
+      "summary": "미국 국무부는 기존 Passport Records 시스템을 Passport Services Records (State-26)로 명칭을 변경하고 개인정보보호법에 따른 기록체계 공지를 수정했다고 밝혔습니다. 이번 개정은 클라우드 저장 방식 전환과 새로운 예산관리국 지침을 반영한 것으로 여권 관련 기록의 보관, 열람, 공유 방식에 관한 내용입니다.",
+      "points": [
+        "국무부는 여권 기록 시스템의 이름을 Passport Records에서 Passport Services Records (State-26)로 변경했습니다.",
+        "이번 공지는 2026년 10월 23일 공표와 동시에 발효되지만, 새로 추가된 일상적 이용 항목 (u), (v), (w)는 30일간 의견수렴 대상입니다.",
+        "해당 세 항목에 대한 의견은 2026년 11월 23일까지 제출해야 하며, 수정이 필요한 의견이 없으면 같은 날 발효됩니다.",
+        "개정 내용은 클라우드 저장소 전환, 위반 통지 관련 새로운 일상적 이용, 행정심리에서의 여권 기록 활용 명확화, E-Verify 등 신원확인 목적의 이용기관 확대를 포함합니다.",
+        "이 공지는 비자 발급 요건이나 입국 심사 절차를 변경하는 것이 아니라 여권 기록의 보관과 열람에 관한 행정적 공지입니다.",
+        "의견 제출은 규제정보 포털 regulations.gov를 통해 문서번호 DOS-2026-1156으로 해야 합니다."
+      ],
+      "who": "미국 여권을 신청했거나 소지한 미국 시민, 그리고 신원확인을 위해 여권 기록을 활용하는 연방 및 주 기관, 고용주가 영향을 받습니다.",
+      "action": "새로 추가된 일상적 이용 항목에 이견이 있는 개인이나 기관은 2026년 11월 23일까지 regulations.gov를 통해 의견을 제출할 수 있습니다."
+    },
+    "en": {
+      "title": "State Department Renames Passport Records System, Updates Privacy Act Notice",
+      "summary": "The Department of State has published a modified System of Records Notice renaming its Passport Records system to Passport Services Records (State-26). The changes reflect a move to cloud storage, new OMB guidance, and expanded uses of passport data for identity verification by other agencies.",
+      "points": [
+        "The system previously known as Passport Records is being renamed Passport Services Records, State-26.",
+        "The notice takes effect upon publication on October 23, 2026, except for three new routine uses, (u), (v) and (w).",
+        "Those three routine uses are open for public comment for 30 days, with comments due by November 23, 2026, and they take effect that date unless revisions are required.",
+        "Updates reflect the Department's move to cloud storage, new OMB breach notification guidance, and clarified use of passport records in administrative hearings and for identity verification, including E-Verify and state driver's license authorities.",
+        "The notice does not change visa eligibility rules or entry procedures, it governs how passport-related records are stored and shared.",
+        "Comments must be submitted through regulations.gov under docket number DOS-2026-1156."
+      ],
+      "who": "U.S. citizens who have applied for or hold a U.S. passport, and federal, state and employer entities that use passport data for identity verification.",
+      "action": "Anyone wishing to comment on the new routine uses can submit comments via regulations.gov, docket DOS-2026-1156, by November 23, 2026."
+    },
+    "es": {
+      "title": "El Departamento de Estado renombra su sistema de registros de pasaportes y actualiza el aviso de la Ley de Privacidad",
+      "summary": "El Departamento de Estado publicó un aviso modificado de sistema de registros que renombra su sistema Passport Records como Passport Services Records (State-26). Los cambios reflejan la migración a almacenamiento en la nube, nuevas directrices de la OMB y un uso ampliado de los datos de pasaportes para verificación de identidad por parte de otras agencias.",
+      "points": [
+        "El sistema antes conocido como Passport Records pasa a llamarse Passport Services Records, State-26.",
+        "El aviso entra en vigor al publicarse, el 23 de octubre de 2026, salvo tres nuevos usos rutinarios, (u), (v) y (w).",
+        "Esos tres usos rutinarios están abiertos a comentarios públicos durante 30 días, con fecha límite el 23 de noviembre de 2026, y entrarán en vigor ese día salvo que se requieran revisiones.",
+        "Las actualizaciones reflejan la migración del Departamento a la nube, nuevas directrices de la OMB sobre notificación de brechas de seguridad, y aclaran el uso de registros de pasaportes en audiencias administrativas y para verificación de identidad, incluyendo E-Verify y autoridades estatales de licencias de conducir.",
+        "El aviso no modifica los requisitos de elegibilidad para visas ni los procedimientos de entrada, regula cómo se almacenan y comparten los registros relacionados con pasaportes.",
+        "Los comentarios deben enviarse a través de regulations.gov bajo el número de expediente DOS-2026-1156."
+      ],
+      "who": "Ciudadanos estadounidenses que han solicitado o poseen un pasaporte, y entidades federales, estatales y empleadores que usan datos de pasaportes para verificación de identidad.",
+      "action": "Quienes deseen comentar sobre los nuevos usos rutinarios pueden enviar comentarios a través de regulations.gov, expediente DOS-2026-1156, antes del 23 de noviembre de 2026."
+    },
+    "zh": {
+      "title": "美国国务院重新命名护照记录系统,更新隐私法记录公告",
+      "summary": "美国国务院发布了修订后的记录系统公告,将原有的Passport Records系统更名为Passport Services Records(State-26)。此次修改反映了国务院转向云存储、采纳新的OMB指南,并扩大了护照数据用于身份核实的用途范围。",
+      "points": [
+        "原名为Passport Records的系统更名为Passport Services Records,代号State-26。",
+        "本公告自2026年10月23日公布之日起生效,但其中三项新增常规用途(u)、(v)、(w)除外。",
+        "这三项常规用途将公开征求意见30天,截止日期为2026年11月23日,若无需修改则于当日生效。",
+        "更新内容反映了国务院转向云存储、新的OMB数据泄露通知指南,并明确了护照记录在行政听证中的使用,以及用于身份核实的用途扩展,包括E-Verify和各州驾照核发机构。",
+        "该公告不改变签证资格规则或入境程序,仅涉及护照相关记录的存储与共享方式。",
+        "意见须通过regulations.gov网站提交,案卷编号为DOS-2026-1156。"
+      ],
+      "who": "已申请或持有美国护照的美国公民,以及使用护照数据进行身份核实的联邦、州机构和雇主。",
+      "action": "对新增常规用途有意见者可于2026年11月23日前通过regulations.gov(案卷编号DOS-2026-1156)提交意见。"
+    },
+    "ja": {
+      "title": "米国務省、パスポート記録システムの名称を変更しプライバシー法の記録公告を更新",
+      "summary": "米国務省は、従来のPassport RecordsシステムをPassport Services Records(State-26)に改称する修正記録システム公告を発表しました。この変更はクラウドストレージへの移行、新しいOMB指針の反映、および他機関による身分確認目的でのパスポートデータ利用範囲の拡大を反映しています。",
+      "points": [
+        "従来Passport Recordsと呼ばれていたシステムはPassport Services Records(State-26)に改称されます。",
+        "本公告は2026年10月23日の公表と同時に発効しますが、新設された常用利用項目(u)、(v)、(w)は除きます。",
+        "この3項目については30日間の意見募集期間があり、意見提出期限は2026年11月23日で、修正が必要な意見がなければ同日発効します。",
+        "改訂内容には、クラウドストレージへの移行、情報漏洩通知に関する新しいOMB指針の反映、行政審理でのパスポート記録利用の明確化、E-Verifyや州の運転免許発行機関による身分確認利用の拡大が含まれます。",
+        "本公告はビザの資格要件や入国手続きを変更するものではなく、パスポート関連記録の保管・共有方法を定めるものです。",
+        "意見はregulations.govを通じて、docket番号DOS-2026-1156で提出する必要があります。"
+      ],
+      "who": "米国パスポートを申請または保有する米国市民、および身分確認のためパスポートデータを利用する連邦・州機関や雇用主が対象です。",
+      "action": "新設の常用利用項目に意見がある場合は、2026年11月23日までにregulations.gov(docket番号DOS-2026-1156)を通じて提出できます。"
+    }
+  },
+  "added": "2026-10-23T11:46Z",
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "travel",
+    "citizenship",
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Document Headings"
+      },
+      {
+        "t": "p",
+        "x": "Document headings vary by document type but may contain the following:"
+      },
+      {
+        "t": "li",
+        "x": "the agency or agencies that issued and signed a document"
+      },
+      {
+        "t": "li",
+        "x": "the number of the CFR title and the number of each part the document amends, proposes to amend, or is directly related to"
+      },
+      {
+        "t": "li",
+        "x": "the agency docket number / agency internal file number"
+      },
+      {
+        "t": "li",
+        "x": "the RIN which identifies each regulatory action listed in the Unified Agenda of Federal Regulatory and Deregulatory Actions"
+      },
+      {
+        "t": "p",
+        "x": "See the Document Drafting Handbook for more details."
+      },
+      {
+        "t": "h",
+        "x": "Department of State"
+      },
+      {
+        "t": "li",
+        "x": "[Public Notice: 13151]"
+      },
+      {
+        "t": "h",
+        "x": "AGENCY:"
+      },
+      {
+        "t": "p",
+        "x": "Department of State."
+      },
+      {
+        "t": "h",
+        "x": "ACTION:"
+      },
+      {
+        "t": "p",
+        "x": "Notice of a modified system of records."
+      },
+      {
+        "t": "h",
+        "x": "SUMMARY:"
+      },
+      {
+        "t": "p",
+        "x": "This system maintains information that is used to establish the U.S. nationality and identity of persons for a variety of legal purposes including, but not limited to, the adjudication of passport applications and requests for related services, social security benefits, voter eligibility, employment applications, estate settlements, and Federal and state law enforcement and counterterrorism purposes."
+      },
+      {
+        "t": "h",
+        "x": "DATES:"
+      },
+      {
+        "t": "p",
+        "x": "In accordance with 5 U.S.C. 552a(e)(4) and (11), this system of records notice is effective upon publication, with the exception of the routine uses (u), (v), and (w) that are subject to a 30-day period during which interested persons may submit comments to the Department. Please submit any comments by November 23, 2026. Unless comments are received that would require a revision, routine uses (u), (v), and (w) will become effective on November 23, 2026."
+      },
+      {
+        "t": "h",
+        "x": "ADDRESSES:"
+      },
+      {
+        "t": "p",
+        "x": "Interested parties may submit comments, identified by Department docket number DOS-2026-1156, through the Federal eRulemaking ( printed page 66907) Portal at http://www.regulations.gov. Follow the website instructions for submitting comments. Comments submitted in a manner other than the eRulemaking Portal will not be considered comments on the System of Records Notice (SORN) and might not be considered by the Department."
+      },
+      {
+        "t": "h",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Timothy J. Kootz, Senior Agency Official for Privacy; U.S. Department of State; Shared Knowledge Services, A/SKS; Room 4534, 2201 C St. NW; Washington, DC 20520 or SORN@state.gov. Please write “Passport Services Records, State-26” on the envelope or the subject line of your email."
+      },
+      {
+        "t": "h",
+        "x": "SUPPLEMENTARY INFORMATION:"
+      },
+      {
+        "t": "p",
+        "x": "The Department of State proposes to rename the current “Passport Records” system (previously published at 80 FR 15653) as the “Passport Services Records” system. The proposed system will include modifications to sections including Summary; Dates; Addresses; For Further Information Contact; Supplementary Information; System Name and Number; System Location; Authority For Maintenance of the System; Purpose(s) of the System; Routine Uses of Records Maintained in the System; Policies And Practice For Storage of Records; Policies And Practices For Retention And Disposal of Records; Administrative, Technical, And Physical Safeguards; Record Access Procedures; Contesting Record Procedures; Notification Procedures; and History. The purpose of these modifications is to reflect the Department's move to cloud storage and new Office of Management and Budget (OMB) guidance including breach notification routine uses, and to clarify the use of passport records in administrative hearings and by additional users for identity verification."
+      },
+      {
+        "t": "h",
+        "x": "SYSTEM NAME AND NUMBER:"
+      },
+      {
+        "t": "p",
+        "x": "Passport Services Records, State-26."
+      },
+      {
+        "t": "h",
+        "x": "SECURITY CLASSIFICATION:"
+      },
+      {
+        "t": "p",
+        "x": "Classified and Unclassified."
+      },
+      {
+        "t": "h",
+        "x": "SYSTEM LOCATION:"
+      },
+      {
+        "t": "p",
+        "x": "Department of State, Passport Services, Vital Records Section, 44132 Mercure Cir., P.O. Box 1213, Sterling, VA 20166-1213 and within a government cloud provided, implemented, and overseen by the Department's Enterprise Server Operations Center (ESOC), 2201 C Street NW, Washington, DC 20520."
+      },
+      {
+        "t": "h",
+        "x": "SYSTEM MANAGER(S):"
+      },
+      {
+        "t": "p",
+        "x": "Deputy Assistant Secretary of State for Passport Services, 600 19th Street NW, Fourth Floor, Washington, DC 20431."
+      },
+      {
+        "t": "h",
+        "x": "AUTHORITY FOR MAINTENANCE OF THE SYSTEM:"
+      },
+      {
+        "t": "p",
+        "x": "(a) 8 U.S.C. 1104, 1185, 1401-1504 (2025); (b) 18 U.S.C. 911, 1001, 1541-1546 (2024); (c) 22 U.S.C. 211a-218, 2651a, 2705, 2714, 2714a (2025); Executive Order 11295, August 5, 1966, 31 FR 10603; and (d) 26 U.S.C. 6039E (2025)."
+      },
+      {
+        "t": "h",
+        "x": "PURPOSE(S) OF THE SYSTEM:"
+      },
+      {
+        "t": "p",
+        "x": "The information maintained in the Passport Services Records, State-26, is used to establish the U.S. nationality and identity of persons for a variety of legal purposes including, but not limited to, the adjudication of passport applications and requests for related services, social security benefits, voter eligibility, employment applications, estate settlements, and Federal and state law enforcement and counterterrorism purposes."
+      },
+      {
+        "t": "h",
+        "x": "CATEGORIES OF INDIVIDUALS COVERED BY THE SYSTEM:"
+      },
+      {
+        "t": "p",
+        "x": "Records are maintained in the Passport Services Records system about individuals who:"
+      },
+      {
+        "t": "p",
+        "x": "(a) have applied for the issuance, amendment, extension, or renewal of U.S. passport books and passport cards;"
+      },
+      {
+        "t": "p",
+        "x": "(b) were issued U.S. passport books or cards, or had passports amended, extended, renewed, limited, revoked, or denied;"
+      },
+      {
+        "t": "p",
+        "x": "(c) applied to document the birth of a U.S. citizen born abroad;"
+      },
+      {
+        "t": "p",
+        "x": "(d) were issued a Consular Report of Birth Abroad of U.S. citizens or for whom Certifications of Birth have been issued;"
+      },
+      {
+        "t": "p",
+        "x": "(e) were born in and/or died in the former Panama Canal Zone prior to October 1979;"
+      },
+      {
+        "t": "p",
+        "x": "(f) registered at U.S. diplomatic or consular posts as U.S. citizens living or traveling abroad prior to 1990;"
+      },
+      {
+        "t": "p",
+        "x": "(g) were issued Cards of Registration and Identity as U.S. citizens;"
+      },
+      {
+        "t": "p",
+        "x": "(h) were issued Certificates of Loss of Nationality of the U.S. by the Department of State;"
+      },
+      {
+        "t": "p",
+        "x": "(i) applied at U.S. diplomatic or consular posts for issuance of Certificates of Witness to marriage and individuals who have been issued Certificates of Witness to Marriage prior to 1989;"
+      },
+      {
+        "t": "p",
+        "x": "(j) deceased individuals for whom a Report of Death of a U.S. Citizen Abroad has been obtained;"
+      },
+      {
+        "t": "p",
+        "x": "(k) although U.S. citizens, are not or may not be entitled under relevant passport laws and regulations to the issuance or possession of U.S. passport books, cards, or other documentation nor service(s);"
+      },
+      {
+        "t": "p",
+        "x": "(l) have previous passport records that must be reviewed before further action can be taken on their passport application or request for other consular services;"
+      },
+      {
+        "t": "p",
+        "x": "(m) requested their own or another's passport records under the Freedom of Information Act (FOIA) or Privacy Act, whether successfully or not; or"
+      },
+      {
+        "t": "p",
+        "x": "(n) have corresponded with Passport Services concerning various aspects of the issuance or denial of a specific applicant's U.S. passport books or cards."
+      },
+      {
+        "t": "h",
+        "x": "CATEGORIES OF RECORDS IN THE SYSTEM:"
+      },
+      {
+        "t": "p",
+        "x": "Passport Services maintains U.S. passport records for passports issued from 1925 to present, as well as vital records related to births abroad, deaths, and witnesses to marriage overseas. The passport records system does not maintain evidence of travel such as entrance/exit stamps, visas, or residence permits, since this information is entered into the passport book after it is issued. The passport records system includes the following categories of records:"
+      },
+      {
+        "t": "p",
+        "x": "(a) Passport books and passport cards (“passports”), applications for passports, and applications for additional visa pages, amendments, extensions, replacements, and/or renewals of passports (including all information and materials submitted as part of or with all such applications);"
+      },
+      {
+        "t": "p",
+        "x": "(b) Applications for registration at U.S. diplomatic and consular posts as U.S. citizens or for issuance of Cards of Identity and Registration as U.S. citizens;"
+      },
+      {
+        "t": "p",
+        "x": "(c) Consular Reports of Birth Aboard of United States citizens;"
+      },
+      {
+        "t": "p",
+        "x": "(d) Panama Canal Zone birth and death certificates;"
+      },
+      {
+        "t": "p",
+        "x": "(e) Certificates of Witness to Marriage;"
+      },
+      {
+        "t": "p",
+        "x": "(f) Certificates of Loss of United States Nationality;"
+      },
+      {
+        "t": "p",
+        "x": "(g) Oaths of Repatriation;"
+      },
+      {
+        "t": "p",
+        "x": "(h) Consular Certificates of Repatriation;"
+      },
+      {
+        "t": "p",
+        "x": "(i) Reports of Death of a U.S. Citizen Abroad;"
+      },
+      {
+        "t": "p",
+        "x": "(j) Cards of Identity and Registration as U.S. citizens;"
+      },
+      {
+        "t": "p",
+        "x": "(k) Lookout files which identify those persons whose applications for a consular or related services required other than routine examination or action;"
+      },
+      {
+        "t": "p",
+        "x": "(l) Lost, Stolen or Revoked passport status; and"
+      },
+      {
+        "t": "p",
+        "x": "(m) Miscellaneous materials, which are documents and/or records maintained separately, if not in the application, including but not limited to ( printed page 66908) the following types of documents: Investigatory reports compiled in connection with granting or denying passport and related services or prosecuting violations of passport criminal statutes; Transcripts and opinions on administrative hearings, appeals, and civil actions in Federal courts; Legal briefs, memoranda, judicial orders and opinions arising from administrative determinations relating to passports and citizenship; Birth and baptismal certificates; Copies of state-issued driver's licenses and identity cards; Court orders; Arrest warrants; Medical, personal and financial reports; Affidavits; Inter-agency and intra-agency memoranda, telegrams, letters and other miscellaneous correspondence; An electronic index of all passport application records created since 1978; and/or An electronic index of Department of State Reports of Birth of U.S. Citizens Abroad and Consular Reports of Death Abroad."
+      },
+      {
+        "t": "h",
+        "x": "RECORD SOURCE CATEGORIES:"
+      },
+      {
+        "t": "p",
+        "x": "These records contain information obtained primarily from the individual who is the subject of these records; law enforcement agencies; investigative intelligence sources; investigative security sources; and officials of foreign governments."
+      },
+      {
+        "t": "h",
+        "x": "ROUTINE USES OF RECORDS MAINTAINED IN THE SYSTEM, INCLUDING CATEGORIES OF USERS AND PURPOSES OF SUCH USES:"
+      },
+      {
+        "t": "p",
+        "x": "Records in the Passport system may be disclosed to the following users:"
+      },
+      {
+        "t": "p",
+        "x": "(a) Department of Homeland Security for border patrol, screening, and security purposes; law enforcement, counterterrorism, and fraud prevention activities; for verification of passport validity to support employment eligibility and identity corroboration for public and private employment through E-Verify, and for assisting U.S. state or territory driver's licensing or identification issuing authorities seeking to confirm the authenticity of the U.S. passport when it is presented as evidence of identity, nationality, and/or lawful status to acquire a driver's license or identification card;"
+      },
+      {
+        "t": "p",
+        "x": "(b) Department of Justice, including the Federal Bureau of Investigation, the Bureau of Alcohol, Tobacco, Firearms and Explosives, the U.S. Marshals Services, and other components, for law enforcement, counterterrorism, firearms sales and purchases in accordance with 18 U.S.C. 922, border security, fraud prevention, and criminal and civil litigation activities;"
+      },
+      {
+        "t": "p",
+        "x": "(c) Internal Revenue Service for the mailing and permanent addresses of specifically identified taxpayers in connection with pending actions to collect taxes accrued, examinations, and/or other tax-related assessment and collection activities; and an annual transmission of certain data from applications of those U.S. citizens residing abroad consistent with applicable requirements of 26 U.S.C. 6039E;"
+      },
+      {
+        "t": "p",
+        "x": "(d) INTERPOL and other international organizations for law enforcement, counterterrorism, fraud prevention, and criminal activities related to lost and stolen passports;"
+      },
+      {
+        "t": "p",
+        "x": "(e) National Counterterrorism Center to support strategic operational planning and counterterrorism intelligence activities;"
+      },
+      {
+        "t": "p",
+        "x": "(f) Office of Personnel Management (OPM), other Federal agencies, or contracted outside entities to support the investigations OPM, other Federal agencies and contractor personnel conduct for the Federal government in connection with verification of employment eligibility and/or the issuance of a security clearance;"
+      },
+      {
+        "t": "p",
+        "x": "(g) Social Security Administration to support employment-eligibility verification for public and private employers and for support in verification of social security numbers used in processing U.S. passport applications;"
+      },
+      {
+        "t": "p",
+        "x": "(h) Federal law enforcement and intelligence agencies to support their efforts in identifying, verifying identity, and investigating individuals potentially involved in or associated with criminal or terrorist activities and individuals with other ties or connections to terrorism who may pose a threat to the United States;"
+      },
+      {
+        "t": "p",
+        "x": "(i) Federal, state, local or other agencies having information on an individual's history, nationality, or identity, to the extent necessary to obtain information from these agencies relevant to adjudicating an application for a passport or related service, or where there is reason to believe that an individual has applied for or is in possession of a U.S. passport fraudulently or has violated the law;"
+      },
+      {
+        "t": "p",
+        "x": "(j) Federal, state, local or other agencies for use in legal proceedings, as government counsel deems appropriate, in accordance with any understanding reached by the agency with the U.S. Department of State;"
+      },
+      {
+        "t": "p",
+        "x": "(k) Department of Defense for the purpose of responding to inquiries from U.S. military installations concerning the current status of diplomatic, official, or no-fee regular passport applications of Department of Defense personnel and eligible family members;"
+      },
+      {
+        "t": "p",
+        "x": "(l) Immediate family when the information is necessary as a result of a serious and emergency situation, and for the benefit of the subject;"
+      },
+      {
+        "t": "p",
+        "x": "(m) Private U.S. citizen “wardens” designated by U.S. embassies and consulates to serve, primarily in emergency and evacuation situations, as channels of communication with other U.S. citizens in the local community;"
+      },
+      {
+        "t": "p",
+        "x": "(n) Parties and their attorneys in administrative or judicial passport proceedings when necessary for the adjudication of a case involving the individual who is the subject of a Departmental record;"
+      },
+      {
+        "t": "p",
+        "x": "(o) Members of Congress, at the request of the individual to whom the record pertains;"
+      },
+      {
+        "t": "p",
+        "x": "(p) Contractor personnel conducting data entry, scanning, corrections, and modifications on behalf of an agency and for a purpose otherwise covered by this Notice;"
+      },
+      {
+        "t": "p",
+        "x": "(q) Commercial vendors conducting applicant identity verification against commercial databases upon request of the Department of State;"
+      },
+      {
+        "t": "p",
+        "x": "(r) Foreign governments, to permit such governments to fulfill passport control and immigration duties and their own law enforcement, counterterrorism, and fraud prevention functions, and to support U.S. law enforcement, counterterrorism, and fraud prevention activities;"
+      },
+      {
+        "t": "p",
+        "x": "(s) U.S. state vital records issuing authorities for the purpose of confirming or validating a U.S. passport when it is presented as evidence to acquire certified copies of vital records;"
+      },
+      {
+        "t": "p",
+        "x": "(t) The National Association for Public Health Statistics and Information Systems for the purpose of verifying a Consular Report of Birth Abroad presented as evidence of nationality and/or lawful status when acquiring a driver's license or identification card at a U.S. state or territory driver's licensing or identification issuing authority;"
+      },
+      {
+        "t": "p",
+        "x": "(u) To appropriate agencies, entities, and persons when (1) the Department of State suspects or has confirmed that there has been a breach of the system of records; (2) the Department of State has determined that as a result of the suspected or confirmed breach there is a risk of harm to individuals, the Department of State (including its information systems, programs, and operations), the Federal Government, or national security; and (3) the disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with the Department of State efforts to respond to the suspected or confirmed breach or to prevent, minimize, or remedy such harm. ( printed page 66909)"
+      },
+      {
+        "t": "p",
+        "x": "(v) To another Federal agency or Federal entity, when the Department of State determines that information from this system of records is reasonably necessary to assist the recipient agency or entity in (1) responding to a suspected or confirmed breach or (2) preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and operations), the Federal Government, or national security, resulting from a suspected or confirmed breach;"
+      },
+      {
+        "t": "p",
+        "x": "(w) Various entities including, but not limited to, Federal, state, territorial, tribal, and local government agencies, and non-profit organizations, utilizing federal government verification platforms, for the purpose of verifying the identity or citizenship for users accessing government websites and applications, voter eligibility, and other governmental services; and"
+      },
+      {
+        "t": "p",
+        "x": "(x) Government agencies other than the ones listed above that have statutory or other lawful authority to maintain such information may also receive access on a need-to-know basis; however, all information is made available to users only for a previously established routine use."
+      },
+      {
+        "t": "p",
+        "x": "The Department of State periodically publishes in the Federal Register its standard routine uses that apply to all of its Privacy Act systems of records. These notices appear in the form of a Prefatory Statement (published in Volume 73, Number 136, Public Notice 6290, on July 15, 2008). All these standard routine uses apply to Passport Services Records, State-26."
+      },
+      {
+        "t": "h",
+        "x": "POLICIES AND PRACTICES FOR STORAGE OF RECORDS:"
+      },
+      {
+        "t": "p",
+        "x": "Records are stored both in hard copy and on electronic media. A description of standard Department of State policies concerning storage of electronic records is found here https://fam.state.gov/​fam/​05fam/​05fam0440.html. All hard copies of records containing personal information are in secured file cabinets in restricted areas, access to which is limited to authorized personnel only."
+      },
+      {
+        "t": "h",
+        "x": "POLICIES AND PRACTICES FOR RETRIEVAL OF RECORDS:"
+      },
+      {
+        "t": "p",
+        "x": "By individual name, date and place of birth, social security number, passport book or passport card number."
+      },
+      {
+        "t": "h",
+        "x": "POLICIES AND PRACTICES FOR RETENTION AND DISPOSAL OF RECORDS:"
+      },
+      {
+        "t": "p",
+        "x": "Records are retained in accordance with the following Records Disposition Schedule: N1-059-90-23, item 1(3); N1-059-04-02, item 15e; N1-059-04-02, item 15h; DAA-0059-2020-0017-0009 ; DAA-0059-2020-0017-0002 ; DAA-0059-2020-0017-0011 ; DAA-0059-2020-0017-0025."
+      },
+      {
+        "t": "h",
+        "x": "ADMINISTRATIVE, TECHNICAL, AND PHYSICAL SAFEGUARDS:"
+      },
+      {
+        "t": "p",
+        "x": "All users are given cyber security awareness training which covers the procedures for handling Sensitive but Unclassified (SBU) information, including personally identifiable information (PII). Annual refresher training is mandatory. In addition, all Department OpenNet users are required to take the National Foreign Affairs Training Center distance learning course instructing employees on privacy and security requirements, including the rules of behavior for handling PII and the potential consequences if it is handled improperly. Before being granted access to Passport Services Records, State-26, a user must first be granted access to the Department of State computer system."
+      },
+      {
+        "t": "p",
+        "x": "Department of State employees and contractors may remotely access this system of records using non-Department owned information technology. Such access is subject to approval by the Department of State's mobile and remote access program and is limited to information maintained in unclassified information systems. Remote access to the Department of State's information systems is configured in compliance with OMB Circular Memorandum A-130 multifactor authentication requirements and includes a time-out function."
+      },
+      {
+        "t": "p",
+        "x": "All Department of State employees and contractors with authorized access to records maintained in this system of records have undergone a background security investigation. Access to the Department of State, its annexes and posts abroad is controlled by security guards and admission is limited to those individuals possessing a valid identification card or individuals under proper escort. Access to computerized files is password-protected and under the direct supervision of the system manager. The system manager has the capability of printing audit trails of access from the computer media, thereby permitting regular and ad hoc monitoring of computer usage. When it is determined that a user no longer needs access, the user account is disabled."
+      },
+      {
+        "t": "p",
+        "x": "Physical records containing personal information are maintained in secured file cabinets or in restricted areas, access to which is limited to authorized personnel. Servers are stored in secured facilities in cipher locked server rooms. Physical access to the server rooms is limited to authorized personnel only. The system is secured with the safeguards required by OMB Memorandum M-07 16 as may be applicable."
+      },
+      {
+        "t": "p",
+        "x": "The safeguards in the following paragraphs apply only to records that are maintained in government-certified cloud systems. All cloud systems that provide IT services and process Department of State information must be specifically authorized by the Department of State Authorizing Official and Senior Agency Official for Privacy."
+      },
+      {
+        "t": "p",
+        "x": "Information that conforms with Department of State-specific definitions for Federal Information Security Modernization Act (FISMA) low, moderate, or high categorization are permissible for cloud usage and must specifically be authorized by the Department of State's Cloud Program Management Office and the Department of State Authorizing Official. Specific security measures and safeguards will depend on the FISMA categorization of the information in a given cloud system. In accordance with Department of State policy, systems that process more sensitive information will require more stringent controls and review by Department of State cybersecurity experts prior to approval. Prior to operation, all cloud systems must comply with applicable security measures that are outlined in FISMA, FedRAMP, OMB regulations, National Institute of Standards and Technology's (NIST) Special Publications (SP) and Federal Information Processing Standards (FIPS) and Department of State policies and standards."
+      },
+      {
+        "t": "p",
+        "x": "All data stored in cloud environments categorized above a low FISMA impact risk level must be encrypted at rest and in-transit using a federally-approved encryption mechanism. The encryption keys shall be generated, maintained, and controlled in a Department of State data center by the Department of State key management authority. Deviations from these encryption requirements must be approved in writing by the Department of State Authorizing Official. High FISMA impact risk level systems will additionally be subject to continual auditing and monitoring, multifactor authentication mechanism utilizing Public Key Infrastructure (PKI) and NIST 800 53 controls concerning virtualization, servers, storage and networking, as well as stringent measures to sanitize data from the cloud service once the contract is terminated."
+      },
+      {
+        "t": "h",
+        "x": "RECORD ACCESS PROCEDURES:"
+      },
+      {
+        "t": "p",
+        "x": "Individuals who wish to gain access to or amend records pertaining to themselves should submit a Privacy Act request to the U.S. Department of State Information Access Programs (IAP) ( printed page 66910) directorate by following the guidance and procedures located at https://foia.state.gov/​request/​request2.aspx. Mailed requests can be addressed to U.S. Department of State, Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000. To request information under the Privacy Act, the individual should be a citizen of the United States, or an alien lawfully admitted for permanent residence. The Privacy Act permits access to an individual's own records only if those records are within a system of records that are retrieved by an individual's name or personal identifier."
+      },
+      {
+        "t": "h",
+        "x": "CONTESTING RECORD PROCEDURES:"
+      },
+      {
+        "t": "p",
+        "x": "Individuals who wish to contest the content of any record pertaining to him or her in the system should write to U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000."
+      },
+      {
+        "t": "h",
+        "x": "NOTIFICATION PROCEDURES:"
+      },
+      {
+        "t": "p",
+        "x": "Individuals who wish to be notified if the system contains a record pertaining to him or her should write to the U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000."
+      },
+      {
+        "t": "h",
+        "x": "EXEMPTIONS PROMULGATED FOR THE SYSTEM:"
+      },
+      {
+        "t": "p",
+        "x": "Pursuant to 5 U.S.C. 552a (k)(1), (k)(2), and (k)(3), certain records contained within this system of records may be exempt from subsections 5 U.S.C. 552a (c)(3), (d), (e)(1); (e)(4)(G), (e)(4)(H), (e)(4)(I) and (f)."
+      },
+      {
+        "t": "h",
+        "x": "HISTORY:"
+      },
+      {
+        "t": "p",
+        "x": "Passport Records, State-26, was previously published at 80 FR 15653."
+      },
+      {
+        "t": "p",
+        "x": "Timothy J. Kootz,"
+      },
+      {
+        "t": "p",
+        "x": "Deputy Assistant Secretary, Shared Knowledge Services (A/SKS), U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-21695 Filed 10-22-26; 8:45 am]"
+      },
+      {
+        "t": "p",
+        "x": "BILLING CODE 4710-05-P"
+      }
+    ],
+    "fetched": "2026-10-23T11:46Z",
+    "from": "federalregister.gov",
+    "chars": 24157
+  },
+  "full": {
+    "ko": [
+      "문서 표제",
+      "문서 표제는 문서 유형에 따라 다르지만 다음 사항을 포함할 수 있습니다.",
+      "문서를 발행하고 서명한 기관 또는 기관들",
+      "문서가 개정하거나, 개정을 제안하거나, 직접적으로 관련된 CFR 편의 번호 및 각 부의 번호",
+      "기관 도켓 번호 / 기관 내부 파일 번호",
+      "연방 규제 및 규제완화 조치 통합 의제(Unified Agenda of Federal Regulatory and Deregulatory Actions)에 등재된 각 규제 조치를 식별하는 RIN",
+      "자세한 내용은 문서 작성 안내서(Document Drafting Handbook)를 참조하십시오.",
+      "국무부",
+      "[공고 번호: 13151]",
+      "기관:",
+      "국무부(Department of State).",
+      "조치:",
+      "기록 체계 변경 공고.",
+      "요약:",
+      "본 체계는 여권 신청 및 관련 서비스 요청의 심사, 사회보장 급여, 투표권, 취업 신청, 유산 정리, 연방 및 주 법 집행 및 테러 대응 목적을 포함하되 이에 국한되지 않는 다양한 법적 목적을 위하여 개인의 미국 국적 및 신원을 확인하는 데 사용되는 정보를 유지합니다.",
+      "일자:",
+      "5 U.S.C. 552a(e)(4) 및 (11)에 따라, 본 기록 체계 공고는 공표 즉시 효력을 발생하되, 일상적 이용(routine use) (u), (v), (w)는 예외로 하며, 이에 대하여는 이해관계인이 국무부에 의견을 제출할 수 있는 30일의 기간이 적용됩니다. 의견은 2026년 11월 23일까지 제출하시기 바랍니다. 수정이 필요한 의견이 접수되지 않는 한, 일상적 이용 (u), (v), (w)는 2026년 11월 23일부로 발효됩니다.",
+      "주소:",
+      "이해관계인은 연방 전자규칙제정(Federal eRulemaking) ( 인쇄본 66907쪽) 포털인 http://www.regulations.gov를 통하여 국무부 도켓 번호 DOS-2026-1156으로 식별되는 의견을 제출할 수 있습니다. 의견 제출 방법은 해당 웹사이트의 안내를 따르십시오. 전자규칙제정 포털 이외의 방법으로 제출된 의견은 기록 체계 공고(SORN)에 대한 의견으로 간주되지 아니하며, 국무부가 이를 고려하지 않을 수 있습니다.",
+      "문의처:",
+      "Timothy J. Kootz, 개인정보보호 담당 고위 기관 공무원(Senior Agency Official for Privacy); 미합중국 국무부; 공유지식서비스국(Shared Knowledge Services), A/SKS; Room 4534, 2201 C St. NW; Washington, DC 20520 또는 SORN@state.gov. 봉투 또는 이메일 제목란에 “Passport Services Records, State-26”이라고 기재하시기 바랍니다.",
+      "보충 정보:",
+      "국무부는 기존의 “여권 기록(Passport Records)” 체계(이전에 80 FR 15653에 공표됨)의 명칭을 “여권 서비스 기록(Passport Services Records)” 체계로 변경할 것을 제안합니다. 제안된 체계에는 요약, 일자, 주소, 문의처, 보충 정보, 체계 명칭 및 번호, 체계 소재지, 체계 유지 권한, 체계의 목적, 체계 내 유지되는 기록의 일상적 이용, 기록 보관에 관한 정책 및 관행, 기록의 보존 및 폐기에 관한 정책 및 관행, 행정적, 기술적 및 물리적 보호조치, 기록 열람 절차, 기록 이의제기 절차, 통지 절차 및 연혁을 포함한 각 항목에 대한 수정 사항이 포함됩니다. 이러한 수정의 목적은 국무부의 클라우드 저장소로의 전환 및 위반 통지 관련 일상적 이용을 포함한 관리예산실(Office of Management and Budget, OMB)의 새로운 지침을 반영하고, 행정 청문 절차에서의 여권 기록 이용 및 신원 확인을 위한 추가 이용자에 의한 이용을 명확히 하는 데 있습니다.",
+      "체계 명칭 및 번호:",
+      "여권 서비스 기록, State-26.",
+      "보안 분류:",
+      "기밀 및 비기밀.",
+      "체계 소재지:",
+      "국무부, 여권국(Passport Services), 생애기록과(Vital Records Section), 44132 Mercure Cir., P.O. Box 1213, Sterling, VA 20166-1213 및 국무부 기업서버운영센터(Enterprise Server Operations Center, ESOC), 2201 C Street NW, Washington, DC 20520에 의하여 제공, 구축 및 관리되는 정부 클라우드 내.",
+      "체계 관리자:",
+      "여권담당 국무부 부차관보(Deputy Assistant Secretary of State for Passport Services), 600 19th Street NW, Fourth Floor, Washington, DC 20431.",
+      "체계 유지 권한:",
+      "(a) 8 U.S.C. 1104, 1185, 1401-1504 (2025); (b) 18 U.S.C. 911, 1001, 1541-1546 (2024); (c) 22 U.S.C. 211a-218, 2651a, 2705, 2714, 2714a (2025); 1966년 8월 5일 대통령령 제11295호, 31 FR 10603; 및 (d) 26 U.S.C. 6039E (2025).",
+      "체계의 목적:",
+      "여권 서비스 기록(Passport Services Records, State-26)에 보관된 정보는 여권 신청서 및 관련 서비스 요청의 심사, 사회보장 혜택, 투표권 자격, 취업 신청, 유산 정산, 연방 및 주 법집행 및 테러 대응 목적 등 다양한 법적 목적을 위하여 개인의 미국 국적 및 신원을 확인하는 데 사용됩니다.",
+      "시스템이 적용되는 개인의 범주:",
+      "여권 서비스 기록 시스템에는 다음과 같은 개인에 관한 기록이 보관됩니다:",
+      "(a) 미국 여권책자 및 여권카드의 발급, 정정, 연장 또는 갱신을 신청한 자",
+      "(b) 미국 여권책자 또는 여권카드를 발급받았거나, 여권이 정정, 연장, 갱신, 제한, 취소 또는 거부된 자",
+      "(c) 해외에서 출생한 미국 시민의 출생 사실을 증명하기 위하여 신청한 자",
+      "(d) 해외출생 미국시민 영사보고서(Consular Report of Birth Abroad)를 발급받았거나 출생증명서(Certifications of Birth)가 발급된 자",
+      "(e) 1979년 10월 이전에 구 파나마 운하지대(Panama Canal Zone)에서 출생 및/또는 사망한 자",
+      "(f) 1990년 이전에 해외에 거주하거나 여행 중인 미국 시민으로서 미국 외교공관 또는 영사관에 등록한 자",
+      "(g) 미국 시민으로서 등록 및 신원 카드(Cards of Registration and Identity)를 발급받은 자",
+      "(h) 국무부(Department of State)로부터 미국 국적 상실 증명서(Certificates of Loss of Nationality)를 발급받은 자",
+      "(i) 미국 외교공관 또는 영사관에 혼인 증인 증명서(Certificates of Witness to Marriage) 발급을 신청하였거나 1989년 이전에 혼인 증인 증명서를 발급받은 자",
+      "(j) 해외 미국시민 사망보고서(Report of Death of a U.S. Citizen Abroad)가 작성된 사망자",
+      "(k) 미국 시민이기는 하나 관련 여권 법령 및 규정에 따라 미국 여권책자, 여권카드 또는 기타 문서나 서비스를 발급받거나 소지할 자격이 없거나 없을 수 있는 자",
+      "(l) 여권 신청 또는 기타 영사 서비스 요청에 대한 추가 조치를 취하기 전에 검토가 필요한 기존 여권 기록이 있는 자",
+      "(m) 정보자유법(Freedom of Information Act, FOIA) 또는 프라이버시법(Privacy Act)에 따라 본인 또는 타인의 여권 기록을 요청한 자, 성공 여부와 무관함, 또는",
+      "(n) 특정 신청인의 미국 여권책자 또는 여권카드의 발급 또는 거부와 관련한 다양한 사항에 관하여 여권서비스국(Passport Services)과 서신을 주고받은 자",
+      "시스템 내 기록의 범주:",
+      "여권서비스국(Passport Services)은 1925년부터 현재까지 발급된 미국 여권에 관한 기록과 함께, 해외 출생, 사망 및 해외 혼인 증인에 관한 신상기록을 보관하고 있습니다. 여권 기록 시스템에는 출입국 도장, 비자 또는 거주 허가증과 같은 여행 증빙 자료는 보관되지 않는데, 이는 이러한 정보가 여권 발급 이후에 여권책자에 기재되기 때문입니다. 여권 기록 시스템에는 다음과 같은 범주의 기록이 포함됩니다:",
+      "(a) 여권책자 및 여권카드(이하 \"여권\"), 여권 신청서, 그리고 추가 비자 페이지, 정정, 연장, 재발급 및/또는 여권 갱신 신청서(이러한 모든 신청서의 일부로 제출되거나 함께 제출된 모든 정보 및 자료 포함)",
+      "(b) 미국 외교공관 및 영사관에 미국 시민으로 등록하거나 미국 시민으로서의 신원 및 등록 카드 발급을 위한 신청서",
+      "(c) 미국 시민의 해외출생 영사보고서(Consular Reports of Birth Abroad)",
+      "(d) 파나마 운하지대 출생 및 사망 증명서",
+      "(e) 혼인 증인 증명서",
+      "(f) 미국 국적 상실 증명서",
+      "(g) 재귀화 선서서(Oaths of Repatriation)",
+      "(h) 영사 재귀화 증명서(Consular Certificates of Repatriation)",
+      "(i) 해외 미국시민 사망보고서",
+      "(j) 미국 시민으로서의 신원 및 등록 카드",
+      "(k) 영사 또는 관련 서비스 신청에 대하여 통상적인 심사 또는 조치 이외의 절차가 요구되는 자를 식별하는 감시 대상자 파일(Lookout files)",
+      "(l) 분실, 도난 또는 취소된 여권 상태, 그리고",
+      "(m) 기타 자료는 신청서 내에 포함되어 있지 않고 별도로 보관되는 문서 및/또는 기록으로서, 다음과 같은 유형의 문서를 포함하되 이에 국한되지 않습니다 (인쇄본 페이지 66908): 여권 및 관련 서비스의 승인 또는 거부, 또는 여권 관련 형사 법령 위반 사건의 기소와 관련하여 작성된 수사 보고서, 행정 심리, 항소 및 연방법원 민사 소송에 관한 녹취록 및 의견서, 여권 및 시민권에 관한 행정적 결정에서 비롯된 법률 의견서, 메모랜덤, 사법 명령 및 의견서, 출생 증명서 및 세례 증명서, 주정부가 발급한 운전면허증 및 신분증 사본, 법원 명령, 체포 영장, 의료, 개인 및 재정 관련 보고서, 선서 진술서, 기관 간 및 기관 내 메모랜덤, 전보, 서신 및 기타 잡다한 서신, 1978년 이후 작성된 모든 여권 신청 기록의 전자 색인, 및/또는 미국 시민의 해외 출생 신고서 및 해외 사망 영사 보고서에 관한 국무부의 전자 색인.",
+      "기록 출처 범주:",
+      "이 기록에는 주로 해당 기록의 대상이 되는 개인, 법 집행 기관, 수사 정보 출처, 수사 보안 출처, 그리고 외국 정부 관계자로부터 수집한 정보가 포함되어 있습니다.",
+      "시스템에 보관된 기록의 일상적 사용(사용자 범주 및 사용 목적 포함):",
+      "여권 시스템 내 기록은 다음 사용자에게 공개될 수 있습니다:",
+      "(a) 국경 순찰, 심사 및 보안 목적, 법 집행, 테러 대응 및 사기 방지 활동, E-Verify를 통한 공공 및 민간 고용을 위한 고용 자격 지원 및 신원 확인을 위한 여권 유효성 검증, 그리고 운전면허증 또는 신분증 발급을 위한 신원, 국적 및/또는 합법적 신분의 증빙으로 미국 여권이 제시될 때 그 진위 여부를 확인하고자 하는 미국 주 또는 준주의 운전면허 또는 신분증 발급 기관을 지원하기 위하여 국토안보부(DHS)에,",
+      "(b) 법 집행, 테러 대응, 18 U.S.C. 922에 따른 총기류 판매 및 구매, 국경 보안, 사기 방지, 그리고 형사 및 민사 소송 활동을 위하여 연방수사국, 주류·담배·화기 및 폭발물 단속국, 미국 연방보안관실 및 기타 산하 기관을 포함한 법무부에,",
+      "(c) 체납 세금 징수를 위한 계류 중인 조치, 세무 조사 및/또는 기타 세금 관련 사정 및 징수 활동과 관련하여 특정하여 식별된 납세자의 우편 주소 및 영구 주소를 위하여, 그리고 26 U.S.C. 6039E의 적용 요건에 따라 해외 거주 미국 시민의 신청서로부터 특정 데이터를 매년 전송하기 위하여 국세청에,",
+      "(d) 분실 및 도난 여권과 관련된 법 집행, 테러 대응, 사기 방지 및 범죄 활동을 위하여 국제형사경찰기구(INTERPOL) 및 기타 국제기구에,",
+      "(e) 전략적 작전 계획 수립 및 테러 대응 정보 활동을 지원하기 위하여 국가대테러센터에,",
+      "(f) 고용 자격 검증 및/또는 보안 등급 발급과 관련하여 연방정부를 위하여 인사관리처(OPM), 기타 연방 기관 및 계약업체 인력이 수행하는 조사를 지원하기 위하여 인사관리처(OPM), 기타 연방 기관 또는 계약을 체결한 외부 기관에,",
+      "(g) 공공 및 민간 고용주를 위한 고용 자격 검증을 지원하고, 미국 여권 신청서 처리에 사용되는 사회보장번호의 검증을 지원하기 위하여 사회보장국에,",
+      "(h) 범죄 또는 테러 활동에 관련되었거나 연루된 것으로 의심되는 개인, 그리고 미국에 위협이 될 수 있는 테러와 기타 관련성 또는 연계성을 가진 개인을 식별, 신원 확인 및 조사하는 노력을 지원하기 위하여 연방 법 집행 기관 및 정보 기관에,",
+      "(i) 여권 또는 관련 서비스 신청서를 심사하는 데 관련된 정보를 이들 기관으로부터 취득하는 데 필요한 범위 내에서, 또는 개인이 부정한 방법으로 미국 여권을 신청하였거나 소지하고 있다고, 혹은 법률을 위반하였다고 믿을 만한 이유가 있는 경우, 개인의 이력, 국적 또는 신원에 관한 정보를 보유한 연방, 주, 지방 또는 기타 기관에,",
+      "(j) 정부 측 법률대리인이 적절하다고 판단하는 경우, 미국 국무부(Department of State)와 해당 기관 간에 체결된 양해에 따라, 법적 절차에 활용하기 위한 연방, 주, 지방 또는 기타 기관",
+      "(k) 국방부 소속 인원 및 그 자격을 갖춘 가족의 외교관 여권, 관용 여권 또는 무료 일반 여권 신청의 현재 상태에 관한 미군 시설의 문의에 응답할 목적의 국방부",
+      "(l) 심각하고 긴급한 상황의 결과로 정보가 필요하며, 본인의 이익을 위한 경우의 직계가족",
+      "(m) 주로 비상 및 대피 상황에서 현지 지역사회 내 다른 미국 시민과의 연락 채널 역할을 하도록 미국 대사관 및 영사관이 지정한 민간 미국 시민 \"관리인(wardens)\"",
+      "(n) 국무부 기록의 대상인 개인과 관련된 사건의 재결에 필요한 경우, 행정 또는 사법 여권 절차의 당사자 및 그 변호인",
+      "(o) 기록이 관련된 개인의 요청이 있는 경우의 연방 의회 의원",
+      "(p) 기관을 대신하여 데이터 입력, 스캔, 정정 및 수정을 수행하며 본 고지에서 달리 다루어지는 목적을 위한 계약업체 인력",
+      "(q) 국무부의 요청에 따라 상업용 데이터베이스를 대조하여 신청인의 신원을 확인하는 상업 벤더",
+      "(r) 여권 관리 및 이민 업무 그리고 자국의 법 집행, 테러 대응 및 사기 방지 기능을 수행하고, 미국의 법 집행, 테러 대응 및 사기 방지 활동을 지원할 수 있도록 하기 위한 외국 정부",
+      "(s) 미국 여권이 생명기록(vital records)의 인증 사본을 취득하기 위한 증빙으로 제시되는 경우, 이를 확인하거나 검증할 목적의 미국 주(州) 생명기록 발급 기관",
+      "(t) 미국 주 또는 준주의 운전면허 또는 신분증 발급 기관에서 운전면허증 또는 신분증을 취득할 때 국적 및/또는 합법적 지위의 증빙으로 제시되는 해외출생 미국시민 신고서(Consular Report of Birth Abroad)를 검증할 목적의 전국 공중보건 통계 및 정보 시스템 협회(National Association for Public Health Statistics and Information Systems)",
+      "(u) 다음의 경우 적절한 기관, 단체 및 개인에게 제공됩니다. (1) 국무부가 기록 시스템의 침해를 의심하거나 확인한 경우, (2) 국무부가 의심되거나 확인된 침해의 결과로 개인, 국무부(그 정보 시스템, 프로그램 및 운영 포함), 연방 정부 또는 국가 안보에 위해가 발생할 위험이 있다고 판단한 경우, 그리고 (3) 그러한 기관, 단체 및 개인에 대한 공개가 의심되거나 확인된 침해에 대응하거나 그러한 위해를 방지, 최소화 또는 시정하기 위한 국무부의 노력을 지원하는 데 합리적으로 필요한 경우. (인쇄본 페이지 66909)",
+      "(v) 국무부가 이 기록 시스템의 정보가 다음을 지원하는 데 합리적으로 필요하다고 판단하는 경우, 다른 연방 기관 또는 연방 단체에 제공됩니다. (1) 의심되거나 확인된 침해에 대한 대응, 또는 (2) 의심되거나 확인된 침해로 인해 개인, 수령 기관 또는 단체(그 정보 시스템, 프로그램 및 운영 포함), 연방 정부 또는 국가 안보에 발생하는 위해 위험의 방지, 최소화 또는 시정",
+      "(w) 정부 웹사이트 및 애플리케이션에 접근하는 이용자의 신원 또는 시민권, 유권자 자격 및 기타 정부 서비스를 검증할 목적으로 연방 정부 검증 플랫폼을 활용하는, 연방, 주, 준주, 부족 및 지방 정부 기관과 비영리 단체를 포함하되 이에 국한되지 않는 다양한 단체, 그리고",
+      "(x) 위에 열거된 기관 외에 해당 정보를 유지할 법적 또는 기타 적법한 권한을 가진 정부 기관도 업무상 알아야 할 필요에 근거하여 접근 권한을 받을 수 있습니다. 다만 모든 정보는 사전에 수립된 일상적 이용 목적(routine use)을 위해서만 이용자에게 제공됩니다.",
+      "국무부는 모든 개인정보보호법(Privacy Act) 기록 시스템에 적용되는 표준 일상적 이용(routine uses)을 연방관보(Federal Register)에 주기적으로 공표합니다. 이러한 고지는 서문 성명(Prefatory Statement) 형식으로 게재되며(2008년 7월 15일 제73권 제136호, 공고 제6290호에 게재), 이러한 모든 표준 일상적 이용은 여권 서비스 기록(Passport Services Records), State-26에 적용됩니다.",
+      "기록의 보관에 관한 정책 및 관행:",
+      "기록은 하드 카피와 전자 매체 양쪽으로 모두 보관됩니다. 전자 기록 보관에 관한 국무부의 표준 정책에 대한 설명은 다음에서 확인할 수 있습니다 https://fam.state.gov/​fam/​05fam/​05fam0440.html. 개인정보가 포함된 모든 하드 카피는 제한구역 내 보안 서류함에 보관되며, 접근은 승인된 직원에게만 허용됩니다.",
+      "기록 검색을 위한 정책 및 관행:",
+      "개인 성명, 출생일 및 출생지, 사회보장번호, 여권 책자 번호 또는 여권 카드 번호로 검색합니다.",
+      "기록의 보존 및 폐기를 위한 정책 및 관행:",
+      "기록은 다음 기록 처리 일정에 따라 보존됩니다: N1-059-90-23, 항목 1(3); N1-059-04-02, 항목 15e; N1-059-04-02, 항목 15h; DAA-0059-2020-0017-0009; DAA-0059-2020-0017-0002; DAA-0059-2020-0017-0011; DAA-0059-2020-0017-0025.",
+      "행정적, 기술적 및 물리적 안전장치:",
+      "모든 사용자는 민감하나 비밀로 분류되지 않은 정보(SBU), 개인식별정보(PII)를 포함한 정보의 취급 절차를 다루는 사이버 보안 인식 교육을 받습니다. 매년 재교육이 의무화되어 있습니다. 또한 국무부의 모든 OpenNet 사용자는 국립외교연수원(National Foreign Affairs Training Center)의 원격 학습 과정을 이수해야 하며, 이 과정은 개인식별정보 취급에 관한 행동 수칙 및 부적절하게 취급할 경우 발생할 수 있는 결과를 포함하여 직원들에게 프라이버시 및 보안 요건을 교육합니다. 여권국 기록(State-26)에 대한 접근 권한을 부여받기 전에, 사용자는 먼저 국무부 컴퓨터 시스템에 대한 접근 권한을 부여받아야 합니다.",
+      "국무부 직원 및 계약자는 국무부 소유가 아닌 정보기술 장비를 사용하여 본 기록 시스템에 원격으로 접근할 수 있습니다. 이러한 접근은 국무부의 모바일 및 원격 접근 프로그램의 승인을 받아야 하며, 비밀로 분류되지 않은 정보 시스템에 보관된 정보로 제한됩니다. 국무부 정보 시스템에 대한 원격 접근은 관리예산처(OMB) 회람 각서 A-130의 다중 인증 요건을 준수하도록 구성되어 있으며, 시간 초과 기능을 포함합니다.",
+      "본 기록 시스템에 보관된 기록에 대한 접근 권한을 부여받은 모든 국무부 직원 및 계약자는 신원 보안 조사를 거쳤습니다. 국무부 본부, 그 부속 건물 및 해외 공관에 대한 접근은 경비원에 의해 통제되며, 입장은 유효한 신분증을 소지한 자 또는 적절한 동행 하에 있는 자로 제한됩니다. 전산화된 파일에 대한 접근은 비밀번호로 보호되며 시스템 관리자의 직접 감독 하에 있습니다. 시스템 관리자는 컴퓨터 매체로부터 접근 감사 기록을 출력할 수 있는 기능을 보유하고 있어, 정기적 및 수시 컴퓨터 사용 모니터링이 가능합니다. 사용자가 더 이상 접근이 필요하지 않다고 판단되는 경우, 해당 사용자 계정은 비활성화됩니다.",
+      "개인정보가 포함된 물리적 기록은 보안 서류함 또는 제한구역에 보관되며, 접근은 승인된 직원에게만 허용됩니다. 서버는 보안 시설 내 잠금장치가 설치된 서버실에 보관됩니다. 서버실에 대한 물리적 접근은 승인된 직원에게만 허용됩니다. 본 시스템은 해당되는 경우 관리예산처(OMB) 각서 M-07 16에서 요구하는 안전장치로 보호됩니다.",
+      "다음 단락의 안전장치는 정부 인증 클라우드 시스템에 보관된 기록에만 적용됩니다. 국무부 정보를 처리하고 정보기술 서비스를 제공하는 모든 클라우드 시스템은 국무부 승인 책임자 및 고위 기관 프라이버시 책임자로부터 구체적으로 승인을 받아야 합니다.",
+      "연방정보보안현대화법(FISMA)에 따른 국무부 고유의 하, 중, 상 등급 분류 기준에 부합하는 정보는 클라우드 사용이 허용되며, 반드시 국무부 클라우드 프로그램관리실 및 국무부 승인권자의 특별한 승인을 받아야 합니다. 구체적인 보안조치 및 안전장치는 해당 클라우드 시스템 내 정보의 FISMA 등급 분류에 따라 달라집니다. 국무부 정책에 따라, 보다 민감한 정보를 처리하는 시스템은 승인에 앞서 국무부 사이버보안 전문가에 의한 보다 엄격한 통제 및 검토를 받아야 합니다. 운영 개시에 앞서, 모든 클라우드 시스템은 FISMA, FedRAMP, 관리예산실(OMB) 규정, 국립표준기술연구소(NIST)의 특별간행물(SP) 및 연방정보처리표준(FIPS), 그리고 국무부 정책 및 기준에 명시된 해당 보안조치를 준수하여야 합니다.",
+      "낮음 수준을 초과하는 FISMA 영향 위험 등급으로 분류된 클라우드 환경에 저장되는 모든 데이터는 연방정부가 승인한 암호화 메커니즘을 사용하여 저장 시 및 전송 중에 암호화되어야 합니다. 암호화 키는 국무부 키관리 당국에 의하여 국무부 데이터센터 내에서 생성, 유지 및 관리되어야 합니다. 이러한 암호화 요건으로부터의 이탈은 국무부 승인권자의 서면 승인을 받아야 합니다. 상 등급 FISMA 영향 위험 수준 시스템은 추가적으로 지속적인 감사 및 모니터링, 공개키기반구조(PKI)를 활용한 다중요소 인증 메커니즘, 가상화, 서버, 스토리지 및 네트워킹에 관한 NIST 800 53 통제, 그리고 계약 종료 시 클라우드 서비스로부터 데이터를 완전 제거하기 위한 엄격한 조치의 적용을 받습니다.",
+      "기록 접근 절차:",
+      "자신에 관한 기록에 접근하거나 이를 정정하고자 하는 개인은 https://foia.state.gov/​request/​request2.aspx 에 게재된 안내 및 절차에 따라 미국 국무부 정보접근프로그램(IAP) 국(원문 페이지 66910)에 개인정보보호법(Privacy Act) 요청서를 제출하여야 합니다. 우편으로 요청하는 경우에는 U.S. Department of State, Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000로 보낼 수 있습니다. 개인정보보호법에 따라 정보를 요청하려면 해당 개인은 미국 시민이거나 영주권을 적법하게 취득한 외국인이어야 합니다. 개인정보보호법은 해당 기록이 개인의 성명 또는 개인식별정보에 의하여 검색되는 기록시스템 내에 있는 경우에 한하여 개인 본인의 기록에 대한 접근을 허용합니다.",
+      "기록 이의제기 절차:",
+      "시스템 내 자신에 관한 기록의 내용에 이의를 제기하고자 하는 개인은 U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000로 서면을 보내야 합니다.",
+      "통지 절차:",
+      "해당 시스템에 자신에 관한 기록이 포함되어 있는지 통지받고자 하는 개인은 U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000로 서면을 보내야 합니다.",
+      "해당 시스템에 대하여 공포된 적용 예외사항:",
+      "5 U.S.C. 552a (k)(1), (k)(2), (k)(3)에 따라, 본 기록시스템에 포함된 일부 기록은 5 U.S.C. 552a (c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I) 및 (f)항의 적용으로부터 면제될 수 있습니다.",
+      "연혁:",
+      "여권 기록, State-26은 이전에 80 FR 15653에 게재된 바 있습니다.",
+      "티머시 J. 쿠츠,",
+      "미국 국무부 공유지식서비스(A/SKS) 부차관보.",
+      "[FR Doc. 2026-21695 Filed 10-22-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ],
+    "es": [
+      "Encabezados de los documentos",
+      "Los encabezados de los documentos varían según el tipo de documento, pero pueden contener lo siguiente:",
+      "la agencia o agencias que emitieron y firmaron un documento",
+      "el número del título del CFR y el número de cada parte que el documento modifica, propone modificar o con la cual está directamente relacionado",
+      "el número de expediente de la agencia / número de archivo interno de la agencia",
+      "el RIN que identifica cada acción regulatoria incluida en la Agenda Unificada de Acciones Regulatorias y Desregulatorias Federales",
+      "Consulte el Manual de Redacción de Documentos (Document Drafting Handbook) para más detalles.",
+      "Departamento de Estado",
+      "[Aviso Público: 13151]",
+      "AGENCIA:",
+      "Departamento de Estado.",
+      "ACCIÓN:",
+      "Aviso de un sistema modificado de registros.",
+      "RESUMEN:",
+      "Este sistema mantiene información que se utiliza para establecer la nacionalidad e identidad estadounidense de las personas para una variedad de fines legales, incluyendo, entre otros, la adjudicación de solicitudes de pasaporte y de solicitudes de servicios relacionados, los beneficios de seguro social, la elegibilidad para votar, las solicitudes de empleo, la liquidación de patrimonios, y los fines de aplicación de la ley y antiterrorismo a nivel federal y estatal.",
+      "FECHAS:",
+      "De conformidad con el 5 U.S.C. 552a(e)(4) y (11), este aviso de sistema de registros entra en vigor a partir de su publicación, con excepción de los usos rutinarios (u), (v) y (w), los cuales están sujetos a un período de 30 días durante el cual las personas interesadas pueden presentar comentarios al Departamento. Favor de enviar cualquier comentario antes del 23 de noviembre de 2026. A menos que se reciban comentarios que requieran una revisión, los usos rutinarios (u), (v) y (w) entrarán en vigor el 23 de noviembre de 2026.",
+      "DIRECCIONES:",
+      "Las partes interesadas pueden presentar comentarios, identificados con el número de expediente del Departamento DOS-2026-1156, a través del Portal Federal de Reglamentación Electrónica ( printed page 66907) en http://www.regulations.gov. Siga las instrucciones del sitio web para presentar comentarios. Los comentarios presentados de una manera distinta al Portal de Reglamentación Electrónica no serán considerados como comentarios sobre el Aviso de Sistema de Registros (SORN, por sus siglas en inglés) y es posible que el Departamento no los tome en cuenta.",
+      "PARA MAYOR INFORMACIÓN, COMUNICARSE CON:",
+      "Timothy J. Kootz, Funcionario Superior de la Agencia para la Privacidad; Departamento de Estado de los Estados Unidos; Servicios Compartidos de Conocimiento, A/SKS; Oficina 4534, 2201 C St. NW; Washington, DC 20520 o SORN@state.gov. Favor de escribir “Passport Services Records, State-26” en el sobre o en la línea de asunto de su correo electrónico.",
+      "INFORMACIÓN COMPLEMENTARIA:",
+      "El Departamento de Estado propone cambiar el nombre del sistema actual “Passport Records” (publicado anteriormente en 80 FR 15653) por el de “Passport Services Records”. El sistema propuesto incluirá modificaciones a secciones tales como Resumen; Fechas; Direcciones; Para Mayor Información, Comunicarse Con; Información Complementaria; Nombre y Número del Sistema; Ubicación del Sistema; Autoridad para el Mantenimiento del Sistema; Propósito(s) del Sistema; Usos Rutinarios de los Registros Mantenidos en el Sistema; Políticas y Prácticas para el Almacenamiento de Registros; Políticas y Prácticas para la Retención y Eliminación de Registros; Salvaguardas Administrativas, Técnicas y Físicas; Procedimientos de Acceso a los Registros; Procedimientos para Impugnar los Registros; Procedimientos de Notificación; e Historial. El propósito de estas modificaciones es reflejar la transición del Departamento hacia el almacenamiento en la nube y las nuevas directrices de la Oficina de Administración y Presupuesto (OMB, por sus siglas en inglés), incluyendo los usos rutinarios de notificación de filtraciones de datos, y aclarar el uso de los registros de pasaportes en audiencias administrativas y por parte de usuarios adicionales para la verificación de identidad.",
+      "NOMBRE Y NÚMERO DEL SISTEMA:",
+      "Passport Services Records, State-26.",
+      "CLASIFICACIÓN DE SEGURIDAD:",
+      "Clasificado y No Clasificado.",
+      "UBICACIÓN DEL SISTEMA:",
+      "Departamento de Estado, Servicios de Pasaportes, Sección de Registros Vitales, 44132 Mercure Cir., P.O. Box 1213, Sterling, VA 20166-1213 y dentro de una nube gubernamental proporcionada, implementada y supervisada por el Centro de Operaciones de Servidores Empresariales (ESOC, por sus siglas en inglés) del Departamento, 2201 C Street NW, Washington, DC 20520.",
+      "ADMINISTRADOR(ES) DEL SISTEMA:",
+      "Subsecretario Adjunto de Estado para Servicios de Pasaportes, 600 19th Street NW, Cuarto Piso, Washington, DC 20431.",
+      "AUTORIDAD PARA EL MANTENIMIENTO DEL SISTEMA:",
+      "(a) 8 U.S.C. 1104, 1185, 1401-1504 (2025); (b) 18 U.S.C. 911, 1001, 1541-1546 (2024); (c) 22 U.S.C. 211a-218, 2651a, 2705, 2714, 2714a (2025); Orden Ejecutiva 11295, del 5 de agosto de 1966, 31 FR 10603; y (d) 26 U.S.C. 6039E (2025).",
+      "PROPÓSITO(S) DEL SISTEMA:",
+      "La información mantenida en los Registros de Servicios de Pasaportes, State-26, se utiliza para establecer la nacionalidad e identidad estadounidense de las personas para diversos fines legales, que incluyen, entre otros, la adjudicación de solicitudes de pasaporte y solicitudes de servicios relacionados, los beneficios del seguro social, la elegibilidad para votar, las solicitudes de empleo, la liquidación de patrimonios, y los fines de aplicación de la ley federal y estatal y de lucha contra el terrorismo.",
+      "CATEGORÍAS DE PERSONAS CUBIERTAS POR EL SISTEMA:",
+      "Se mantienen registros en el sistema de Registros de Servicios de Pasaportes sobre personas que:",
+      "(a) han solicitado la emisión, modificación, extensión o renovación de libretas de pasaporte estadounidense y tarjetas de pasaporte;",
+      "(b) recibieron libretas de pasaporte o tarjetas de pasaporte estadounidenses, o tuvieron pasaportes modificados, extendidos, renovados, limitados, revocados o denegados;",
+      "(c) solicitaron documentar el nacimiento de un ciudadano estadounidense nacido en el extranjero;",
+      "(d) recibieron un Informe Consular de Nacimiento en el Extranjero de ciudadanos estadounidenses o para quienes se han emitido Certificaciones de Nacimiento;",
+      "(e) nacieron y/o murieron en la antigua Zona del Canal de Panamá antes de octubre de 1979;",
+      "(f) se registraron en puestos diplomáticos o consulares de los Estados Unidos como ciudadanos estadounidenses que vivían o viajaban en el extranjero antes de 1990;",
+      "(g) recibieron Tarjetas de Registro e Identidad como ciudadanos estadounidenses;",
+      "(h) recibieron Certificados de Pérdida de Nacionalidad de los Estados Unidos emitidos por el Departamento de Estado;",
+      "(i) solicitaron en puestos diplomáticos o consulares de los Estados Unidos la emisión de Certificados de Testigo de matrimonio, y personas a quienes se les han emitido Certificados de Testigo de Matrimonio antes de 1989;",
+      "(j) personas fallecidas para quienes se ha obtenido un Informe de Fallecimiento de un Ciudadano Estadounidense en el Extranjero;",
+      "(k) aunque son ciudadanos estadounidenses, no tienen o podrían no tener derecho, conforme a las leyes y regulaciones de pasaportes pertinentes, a la emisión o posesión de libretas de pasaporte, tarjetas u otra documentación estadounidense, ni a servicio(s);",
+      "(l) tienen registros de pasaporte anteriores que deben revisarse antes de que se pueda tomar cualquier otra medida sobre su solicitud de pasaporte o solicitud de otros servicios consulares;",
+      "(m) solicitaron sus propios registros de pasaporte o los de otra persona conforme a la Ley de Libertad de Información (FOIA, por sus siglas en inglés) o a la Ley de Privacidad, ya sea con éxito o no; o",
+      "(n) han mantenido correspondencia con Servicios de Pasaportes relacionada con varios aspectos de la emisión o denegación de las libretas o tarjetas de pasaporte estadounidense de un solicitante específico.",
+      "CATEGORÍAS DE REGISTROS EN EL SISTEMA:",
+      "Servicios de Pasaportes mantiene registros de pasaportes estadounidenses correspondientes a pasaportes emitidos desde 1925 hasta la actualidad, así como registros de estadística vital relacionados con nacimientos en el extranjero, fallecimientos y testigos de matrimonio en el extranjero. El sistema de registros de pasaportes no mantiene evidencia de viaje, como sellos de entrada/salida, visas o permisos de residencia, ya que esta información se ingresa en la libreta de pasaporte después de su emisión. El sistema de registros de pasaportes incluye las siguientes categorías de registros:",
+      "(a) Libretas de pasaporte y tarjetas de pasaporte (\"pasaportes\"), solicitudes de pasaportes, y solicitudes de páginas de visa adicionales, modificaciones, extensiones, reemplazos y/o renovaciones de pasaportes (incluida toda la información y los materiales presentados como parte de o junto con dichas solicitudes);",
+      "(b) Solicitudes de registro en puestos diplomáticos y consulares de los Estados Unidos como ciudadanos estadounidenses, o para la emisión de Tarjetas de Identidad y Registro como ciudadanos estadounidenses;",
+      "(c) Informes Consulares de Nacimiento en el Extranjero de ciudadanos de los Estados Unidos;",
+      "(d) Certificados de nacimiento y defunción de la Zona del Canal de Panamá;",
+      "(e) Certificados de Testigo de Matrimonio;",
+      "(f) Certificados de Pérdida de la Nacionalidad de los Estados Unidos;",
+      "(g) Juramentos de Repatriación;",
+      "(h) Certificados Consulares de Repatriación;",
+      "(i) Informes de Fallecimiento de un Ciudadano Estadounidense en el Extranjero;",
+      "(j) Tarjetas de Identidad y Registro como ciudadanos estadounidenses;",
+      "(k) Archivos de control (lookout files) que identifican a aquellas personas cuyas solicitudes de servicios consulares o relacionados requirieron un examen o una acción distinta de la rutinaria;",
+      "(l) Estado de pasaporte perdido, robado o revocado; y",
+      "(m) Materiales diversos, que son documentos y/o registros mantenidos por separado, si no se encuentran en la solicitud, incluyendo pero no limitado a (página impresa 66908) los siguientes tipos de documentos: Informes de investigación compilados en relación con el otorgamiento o la denegación de pasaportes y servicios relacionados o con el enjuiciamiento de violaciones de los estatutos penales sobre pasaportes; Transcripciones y opiniones sobre audiencias administrativas, apelaciones y acciones civiles en los tribunales federales; Escritos legales, memorandos, órdenes judiciales y opiniones derivadas de determinaciones administrativas relacionadas con pasaportes y ciudadanía; Certificados de nacimiento y de bautismo; Copias de licencias de conducir y tarjetas de identidad emitidas por los estados; Órdenes judiciales; Órdenes de arresto; Informes médicos, personales y financieros; Declaraciones juradas; Memorandos interagenciales e intraagenciales, telegramas, cartas y otra correspondencia diversa; Un índice electrónico de todos los registros de solicitudes de pasaporte creados desde 1978; y/o Un índice electrónico de los Informes de Nacimiento de Ciudadanos Estadounidenses en el Extranjero y los Informes Consulares de Defunción en el Extranjero del Departamento de Estado.",
+      "CATEGORÍAS DE FUENTES DE LOS REGISTROS:",
+      "Estos registros contienen información obtenida principalmente de la persona que es objeto de estos registros; de organismos encargados de hacer cumplir la ley; de fuentes de inteligencia de investigación; de fuentes de seguridad de investigación; y de funcionarios de gobiernos extranjeros.",
+      "USOS RUTINARIOS DE LOS REGISTROS MANTENIDOS EN EL SISTEMA, INCLUYENDO LAS CATEGORÍAS DE USUARIOS Y LOS PROPÓSITOS DE DICHOS USOS:",
+      "Los registros del sistema de Pasaportes pueden divulgarse a los siguientes usuarios:",
+      "(a) El Departamento de Seguridad Nacional (DHS) para fines de patrullaje fronterizo, control y seguridad; actividades de cumplimiento de la ley, antiterrorismo y prevención de fraude; para la verificación de la validez del pasaporte con el fin de respaldar la elegibilidad de empleo y la corroboración de identidad para el empleo público y privado a través de E-Verify, y para asistir a las autoridades estatales o territoriales de los Estados Unidos encargadas de la emisión de licencias de conducir o documentos de identificación que buscan confirmar la autenticidad del pasaporte estadounidense cuando este se presenta como prueba de identidad, nacionalidad y/o estatus legal para obtener una licencia de conducir o una tarjeta de identificación;",
+      "(b) El Departamento de Justicia, incluyendo la Oficina Federal de Investigaciones (FBI), la Oficina de Alcohol, Tabaco, Armas de Fuego y Explosivos, el Servicio de Alguaciles de los Estados Unidos y otros componentes, para actividades de cumplimiento de la ley, antiterrorismo, ventas y compras de armas de fuego de conformidad con 18 U.S.C. 922, seguridad fronteriza, prevención de fraude, y actividades de litigio penal y civil;",
+      "(c) El Servicio de Impuestos Internos (IRS) para obtener las direcciones postales y permanentes de contribuyentes específicamente identificados en relación con acciones pendientes de cobro de impuestos acumulados, exámenes, y/u otras actividades de evaluación y cobro relacionadas con impuestos; y una transmisión anual de ciertos datos de las solicitudes de aquellos ciudadanos estadounidenses que residen en el extranjero, de conformidad con los requisitos aplicables del 26 U.S.C. 6039E;",
+      "(d) INTERPOL y otras organizaciones internacionales para actividades de cumplimiento de la ley, antiterrorismo, prevención de fraude, y actividades delictivas relacionadas con pasaportes perdidos y robados;",
+      "(e) El Centro Nacional de Antiterrorismo para apoyar la planificación operativa estratégica y las actividades de inteligencia antiterrorista;",
+      "(f) La Oficina de Administración de Personal (OPM), otras agencias federales, o entidades externas contratadas, para respaldar las investigaciones que la OPM, otras agencias federales y el personal contratista realizan para el gobierno federal en relación con la verificación de la elegibilidad de empleo y/o la emisión de una autorización de seguridad;",
+      "(g) La Administración del Seguro Social para respaldar la verificación de elegibilidad de empleo para empleadores públicos y privados y para apoyar la verificación de los números de seguro social utilizados en el procesamiento de solicitudes de pasaporte estadounidense;",
+      "(h) Las agencias federales de cumplimiento de la ley e inteligencia para respaldar sus esfuerzos en la identificación, verificación de identidad e investigación de personas potencialmente involucradas en o asociadas con actividades criminales o terroristas, así como de personas con otros vínculos o conexiones con el terrorismo que puedan representar una amenaza para los Estados Unidos;",
+      "(i) Las agencias federales, estatales, locales u otras que posean información sobre la historia, nacionalidad o identidad de una persona, en la medida necesaria para obtener información de estas agencias relevante para la adjudicación de una solicitud de pasaporte o servicio relacionado, o cuando haya motivos para creer que una persona ha solicitado u obtenido fraudulentamente un pasaporte estadounidense o ha infringido la ley;",
+      "(j) Agencias federales, estatales, locales u otras agencias para su uso en procedimientos legales, según lo considere apropiado el asesor jurídico del gobierno, de conformidad con cualquier entendimiento alcanzado por la agencia con el Departamento de Estado de los Estados Unidos;",
+      "(k) El Departamento de Defensa con el fin de responder a consultas de instalaciones militares estadounidenses sobre el estado actual de las solicitudes de pasaportes diplomáticos, oficiales o regulares sin costo del personal del Departamento de Defensa y los familiares elegibles;",
+      "(l) Familiares inmediatos cuando la información sea necesaria a causa de una situación grave y de emergencia, y para beneficio del titular de los datos;",
+      "(m) \"Encargados\" ciudadanos estadounidenses particulares designados por embajadas y consulados de los Estados Unidos para servir, principalmente en situaciones de emergencia y evacuación, como canales de comunicación con otros ciudadanos estadounidenses en la comunidad local;",
+      "(n) Las partes y sus abogados en procedimientos administrativos o judiciales relacionados con pasaportes, cuando sea necesario para la resolución de un caso que involucre a la persona que es objeto de un registro del Departamento;",
+      "(o) Miembros del Congreso, a solicitud de la persona a quien se refiere el registro;",
+      "(p) Personal contratista que realiza entrada de datos, escaneo, correcciones y modificaciones en nombre de una agencia y para un propósito contemplado por este Aviso;",
+      "(q) Proveedores comerciales que realizan la verificación de identidad de los solicitantes contra bases de datos comerciales a solicitud del Departamento de Estado;",
+      "(r) Gobiernos extranjeros, para permitir que dichos gobiernos cumplan con sus funciones de control de pasaportes e inmigración, así como sus propias funciones de aplicación de la ley, lucha contra el terrorismo y prevención de fraude, y para apoyar las actividades estadounidenses de aplicación de la ley, lucha contra el terrorismo y prevención de fraude;",
+      "(s) Las autoridades estatales de los Estados Unidos encargadas de la emisión de registros vitales, con el fin de confirmar o validar un pasaporte estadounidense cuando se presente como prueba para obtener copias certificadas de registros vitales;",
+      "(t) La Asociación Nacional de Estadísticas y Sistemas de Información de Salud Pública (National Association for Public Health Statistics and Information Systems), con el fin de verificar un Informe Consular de Nacimiento en el Extranjero presentado como prueba de nacionalidad y/o estatus legal al obtener una licencia de conducir o tarjeta de identificación en una autoridad estatal o territorial de los Estados Unidos emisora de licencias de conducir o identificaciones;",
+      "(u) A las agencias, entidades y personas correspondientes cuando (1) el Departamento de Estado sospeche o haya confirmado que se ha producido una violación del sistema de registros; (2) el Departamento de Estado haya determinado que, como resultado de la sospecha o confirmación de dicha violación, existe un riesgo de daño para las personas, el Departamento de Estado (incluidos sus sistemas de información, programas y operaciones), el Gobierno Federal o la seguridad nacional; y (3) la divulgación realizada a dichas agencias, entidades y personas sea razonablemente necesaria para colaborar con los esfuerzos del Departamento de Estado en responder a la sospecha o confirmación de la violación, o para prevenir, minimizar o remediar dicho daño. (página impresa 66909)",
+      "(v) A otra agencia federal o entidad federal, cuando el Departamento de Estado determine que la información de este sistema de registros es razonablemente necesaria para ayudar a la agencia o entidad receptora a (1) responder a una sospecha o confirmación de violación o (2) prevenir, minimizar o remediar el riesgo de daño para las personas, la agencia o entidad receptora (incluidos sus sistemas de información, programas y operaciones), el Gobierno Federal o la seguridad nacional, resultante de una sospecha o confirmación de violación;",
+      "(w) Diversas entidades, incluyendo, entre otras, agencias gubernamentales federales, estatales, territoriales, tribales y locales, así como organizaciones sin fines de lucro, que utilizan plataformas de verificación del gobierno federal, con el fin de verificar la identidad o la ciudadanía de los usuarios que acceden a sitios web y aplicaciones gubernamentales, la elegibilidad para votar y otros servicios gubernamentales; y",
+      "(x) Agencias gubernamentales distintas de las enumeradas anteriormente que tengan autoridad legal o de otro tipo para mantener dicha información también pueden recibir acceso según la necesidad de conocer; sin embargo, toda la información se pone a disposición de los usuarios únicamente para un uso rutinario previamente establecido.",
+      "El Departamento de Estado publica periódicamente en el Registro Federal sus usos rutinarios estándar que se aplican a todos sus sistemas de registros bajo la Ley de Privacidad. Estos avisos aparecen en forma de una Declaración Preliminar (publicada en el Volumen 73, Número 136, Aviso Público 6290, el 15 de julio de 2008). Todos estos usos rutinarios estándar se aplican a los Registros de Servicios de Pasaportes, State-26.",
+      "POLÍTICAS Y PRÁCTICAS PARA EL ALMACENAMIENTO DE REGISTROS:",
+      "Los registros se almacenan tanto en copia impresa como en medios electrónicos. Una descripción de las políticas estándar del Departamento de Estado relativas al almacenamiento de registros electrónicos se encuentra aquí https://fam.state.gov/​fam/​05fam/​05fam0440.html. Todas las copias impresas de registros que contienen información personal se encuentran en gabinetes de archivo asegurados en áreas restringidas, cuyo acceso está limitado únicamente al personal autorizado.",
+      "POLÍTICAS Y PRÁCTICAS PARA LA RECUPERACIÓN DE REGISTROS:",
+      "Por nombre individual, fecha y lugar de nacimiento, número de seguro social, número de libreta de pasaporte o tarjeta de pasaporte.",
+      "POLÍTICAS Y PRÁCTICAS PARA LA RETENCIÓN Y DISPOSICIÓN DE REGISTROS:",
+      "Los registros se conservan de conformidad con el siguiente Calendario de Disposición de Registros: N1-059-90-23, punto 1(3); N1-059-04-02, punto 15e; N1-059-04-02, punto 15h; DAA-0059-2020-0017-0009; DAA-0059-2020-0017-0002; DAA-0059-2020-0017-0011; DAA-0059-2020-0017-0025.",
+      "SALVAGUARDAS ADMINISTRATIVAS, TÉCNICAS Y FÍSICAS:",
+      "A todos los usuarios se les brinda capacitación en concientización sobre seguridad cibernética, la cual abarca los procedimientos para el manejo de información Sensible pero No Clasificada (SBU, por sus siglas en inglés), incluida la información de identificación personal (PII, por sus siglas en inglés). La capacitación de actualización anual es obligatoria. Además, se exige a todos los usuarios de OpenNet del Departamento que tomen el curso de aprendizaje a distancia del Centro Nacional de Capacitación en Asuntos Exteriores que instruye a los empleados sobre los requisitos de privacidad y seguridad, incluidas las normas de conducta para el manejo de la PII y las posibles consecuencias si se maneja de manera inadecuada. Antes de que se le otorgue acceso a los Registros de Servicios de Pasaportes, State-26, un usuario debe primero obtener acceso al sistema informático del Departamento de Estado.",
+      "Los empleados y contratistas del Departamento de Estado pueden acceder de manera remota a este sistema de registros utilizando tecnología de la información que no es propiedad del Departamento. Dicho acceso está sujeto a la aprobación del programa de acceso móvil y remoto del Departamento de Estado y se limita a la información mantenida en sistemas de información no clasificados. El acceso remoto a los sistemas de información del Departamento de Estado está configurado de conformidad con los requisitos de autenticación multifactor de la Circular Memorando A-130 de la OMB e incluye una función de tiempo de espera.",
+      "Todos los empleados y contratistas del Departamento de Estado con acceso autorizado a los registros mantenidos en este sistema de registros se han sometido a una investigación de seguridad de antecedentes. El acceso al Departamento de Estado, a sus anexos y a los puestos en el extranjero está controlado por guardias de seguridad, y la admisión se limita a aquellas personas que posean una tarjeta de identificación válida o a personas bajo la debida escolta. El acceso a los archivos computarizados está protegido por contraseña y bajo la supervisión directa del administrador del sistema. El administrador del sistema tiene la capacidad de imprimir registros de auditoría de acceso desde los medios informáticos, lo que permite el monitoreo regular y ad hoc del uso de la computadora. Cuando se determina que un usuario ya no necesita acceso, la cuenta del usuario se deshabilita.",
+      "Los registros físicos que contienen información personal se mantienen en gabinetes de archivo asegurados o en áreas restringidas, cuyo acceso está limitado al personal autorizado. Los servidores se almacenan en instalaciones aseguradas en salas de servidores con cerraduras de cifrado. El acceso físico a las salas de servidores está limitado únicamente al personal autorizado. El sistema está asegurado con las salvaguardas requeridas por el Memorando M-07 16 de la OMB, según corresponda.",
+      "Las salvaguardas de los párrafos siguientes se aplican únicamente a los registros que se mantienen en sistemas de nube certificados por el gobierno. Todos los sistemas de nube que proporcionan servicios de tecnología de la información y procesan información del Departamento de Estado deben estar específicamente autorizados por el Funcionario Autorizante y el Funcionario Superior de Privacidad de la Agencia del Departamento de Estado.",
+      "La información que se ajusta a las definiciones específicas del Departamento de Estado para la categorización baja, moderada o alta conforme a la Ley Federal de Modernización de la Seguridad de la Información (Federal Information Security Modernization Act, FISMA) es permisible para su uso en la nube y debe ser autorizada específicamente por la Oficina de Gestión del Programa de Nube (Cloud Program Management Office) del Departamento de Estado y por el Funcionario Autorizante (Authorizing Official) del Departamento de Estado. Las medidas y salvaguardas de seguridad específicas dependerán de la categorización FISMA de la información en un sistema de nube determinado. De conformidad con la política del Departamento de Estado, los sistemas que procesan información más sensible requerirán controles más estrictos y una revisión por parte de expertos en ciberseguridad del Departamento de Estado antes de su aprobación. Antes de entrar en operación, todos los sistemas de nube deben cumplir con las medidas de seguridad aplicables que se describen en FISMA, FedRAMP, los reglamentos de la Oficina de Administración y Presupuesto (OMB), las Publicaciones Especiales (SP) y los Estándares Federales de Procesamiento de Información (FIPS) del Instituto Nacional de Estándares y Tecnología (NIST), así como en las políticas y normas del Departamento de Estado.",
+      "Todos los datos almacenados en entornos de nube categorizados por encima de un nivel de riesgo de impacto FISMA bajo deben cifrarse en reposo y en tránsito utilizando un mecanismo de cifrado aprobado a nivel federal. Las claves de cifrado deberán generarse, mantenerse y controlarse en un centro de datos del Departamento de Estado por la autoridad de gestión de claves del Departamento de Estado. Cualquier desviación de estos requisitos de cifrado debe ser aprobada por escrito por el Funcionario Autorizante del Departamento de Estado. Los sistemas con nivel de riesgo de impacto FISMA alto estarán adicionalmente sujetos a auditoría y monitoreo continuos, a un mecanismo de autenticación multifactor que utilice Infraestructura de Clave Pública (Public Key Infrastructure, PKI) y los controles de NIST 800 53 relativos a virtualización, servidores, almacenamiento y redes, así como a medidas rigurosas para sanear los datos del servicio en la nube una vez finalizado el contrato.",
+      "PROCEDIMIENTOS DE ACCESO A LOS REGISTROS:",
+      "Las personas que deseen obtener acceso a los registros que les conciernen, o modificarlos, deben presentar una solicitud conforme a la Ley de Privacidad (Privacy Act) ante la Dirección de Programas de Acceso a la Información (Information Access Programs, IAP) del Departamento de Estado de los Estados Unidos (página impresa 66910), siguiendo las instrucciones y los procedimientos que se encuentran en https://foia.state.gov/​request/​request2.aspx. Las solicitudes enviadas por correo postal pueden dirigirse a: U.S. Department of State, Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000. Para solicitar información conforme a la Ley de Privacidad, la persona debe ser ciudadana de los Estados Unidos o extranjera admitida legalmente para residencia permanente. La Ley de Privacidad permite el acceso a los registros propios de una persona únicamente si dichos registros se encuentran dentro de un sistema de registros que se recupera por el nombre o un identificador personal de la persona.",
+      "PROCEDIMIENTOS PARA CONTESTAR REGISTROS:",
+      "Las personas que deseen refutar el contenido de cualquier registro que les concierna dentro del sistema deben escribir a: U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000.",
+      "PROCEDIMIENTOS DE NOTIFICACIÓN:",
+      "Las personas que deseen ser notificadas de si el sistema contiene un registro que les concierne deben escribir a: U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000.",
+      "EXENCIONES PROMULGADAS PARA EL SISTEMA:",
+      "De conformidad con 5 U.S.C. 552a (k)(1), (k)(2) y (k)(3), ciertos registros contenidos en este sistema de registros pueden estar exentos de las subsecciones 5 U.S.C. 552a (c)(3), (d), (e)(1); (e)(4)(G), (e)(4)(H), (e)(4)(I) y (f).",
+      "HISTORIAL:",
+      "Los Registros de Pasaportes, State-26, se publicaron anteriormente en 80 FR 15653.",
+      "Timothy J. Kootz,",
+      "Secretario Adjunto Auxiliar, Servicios de Conocimiento Compartido (Shared Knowledge Services, A/SKS), Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026-21695 Filed 10-22-26; 8:45 am]",
+      "CÓDIGO DE FACTURACIÓN 4710-05-P"
+    ],
+    "zh": [
+      "文件标题",
+      "文件标题因文件类型而异,但可能包含以下内容",
+      "颁发并签署文件的一个或多个机构",
+      "文件所修订、拟议修订或与之直接相关的《联邦法规汇编》(CFR)标题编号及各部分的编号",
+      "机构案卷编号/机构内部档案编号",
+      "监管信息编号(RIN),用于识别《联邦监管与放松监管行动统一议程》中列出的每项监管行动",
+      "有关详情,请参阅《文件起草手册》。",
+      "美国国务院",
+      "[公众通告:13151]",
+      "机构:",
+      "美国国务院。",
+      "行动:",
+      "修改后的记录系统通知。",
+      "摘要:",
+      "本系统保存用于确定个人美国国籍和身份的信息,用于多种法律目的,包括但不限于裁决护照申请及相关服务请求、社会安全福利、选民资格、求职申请、遗产清算,以及联邦和州执法与反恐目的。",
+      "日期:",
+      "根据《美国法典》第5编第552a(e)(4)和(11)节的规定,本记录系统通知自公布之日起生效,但常规用途(u)、(v)和(w)除外,该等用途须经过30天的意见征询期,有关人士可在此期间向国务院提交意见。请在2026年11月23日之前提交任何意见。除非收到的意见要求进行修订,否则常规用途(u)、(v)和(w)将于2026年11月23日生效。",
+      "地址:",
+      "有关各方可通过联邦电子规则制定(第66907页印刷页)门户网站 http://www.regulations.gov 提交意见,并注明国务院案卷编号DOS-2026-1156。请按照网站说明提交意见。未通过电子规则制定门户网站提交的意见将不被视为对该记录系统通知(SORN)的意见,国务院可能不予考虑。",
+      "如需更多信息,请联系:",
+      "蒂莫西·J·库茨(Timothy J. Kootz),隐私事务高级机构官员;美国国务院;共享知识服务局,A/SKS;4534室,西C街2201号;华盛顿特区20520,或发送电子邮件至SORN@state.gov。请在信封或电子邮件主题行中注明“护照服务记录,State-26”。",
+      "补充信息:",
+      "美国国务院拟将现行“护照记录”系统(此前公布于80 FR 15653)更名为“护照服务记录”系统。拟议系统将对以下部分进行修改,包括摘要、日期、地址、如需更多信息请联系、补充信息、系统名称及编号、系统位置、系统维护权限、系统目的、系统内保存记录的常规用途、记录存储的政策与做法、记录留存与销毁的政策与做法、行政、技术及实体安全保障措施、记录查阅程序、记录异议程序、通知程序,以及沿革。这些修改的目的是反映国务院向云存储的转移,以及白宫管理和预算办公室(OMB)的新指导意见,包括数据泄露通知常规用途,并澄清护照记录在行政听证程序中的使用以及其他用户出于身份验证目的对护照记录的使用。",
+      "系统名称及编号:",
+      "护照服务记录,State-26。",
+      "保密等级:",
+      "密级和非密级。",
+      "系统位置:",
+      "美国国务院,护照服务局,重要记录处,弗吉尼亚州斯特林市梅库尔环路44132号,邮政信箱1213,邮编20166-1213,以及国务院企业服务器运营中心(ESOC)提供、实施并监管的政府云内,地址为华盛顿特区西C街2201号,邮编20520。",
+      "系统管理人:",
+      "负责护照服务的助理国务卿副手,西19街600号,四楼,华盛顿特区,邮编20431。",
+      "系统维护权限:",
+      "(a)《美国法典》第8编第1104、1185、1401-1504节(2025年);(b)《美国法典》第18编第911、1001、1541-1546节(2024年);(c)《美国法典》第22编第211a-218、2651a、2705、2714、2714a节(2025年);第11295号行政命令,1966年8月5日,31 FR 10603;以及(d)《美国法典》第26编第6039E节(2025年)。",
+      "系统目的:",
+      "护照服务记录(State-26)中保存的信息用于确认个人的美国国籍和身份,以用于多种法律目的,包括但不限于护照申请和相关服务请求的裁定、社会保障福利、选民资格、求职申请、遗产结算以及联邦和州执法及反恐目的。",
+      "本系统所涵盖个人的类别:",
+      "护照服务记录系统中保存有关以下个人的记录:",
+      "(a) 已申请签发、修改、延期或更新美国护照本或护照卡的人员;",
+      "(b) 已获签发美国护照本或护照卡,或其护照已被修改、延期、更新、限制、吊销或拒发的人员;",
+      "(c) 已申请为在海外出生的美国公民办理出生证明文件的人员;",
+      "(d) 已获签发美国公民海外出生领事报告,或已获签发出生证明书的人员;",
+      "(e) 在1979年10月之前于原巴拿马运河区出生和/或死亡的人员;",
+      "(f) 在1990年之前在美国驻外使领馆以旅居海外美国公民身份进行登记的人员;",
+      "(g) 已获签发美国公民登记及身份证的人员;",
+      "(h) 已由国务院签发《丧失美国国籍证明书》的人员;",
+      "(i) 曾在美国驻外使领馆申请签发婚姻见证证明书的人员,以及在1989年之前已获签发婚姻见证证明书的人员;",
+      "(j) 已获取《美国公民海外死亡报告》的已故个人;",
+      "(k) 虽为美国公民,但根据相关护照法律法规可能无权或不再有权获得或持有美国护照本、护照卡或其他文件,或享有相关服务的人员;",
+      "(l) 在对其护照申请或其他领事服务请求采取进一步行动之前,必须先行审查其以往护照记录的人员;",
+      "(m) 曾依据《信息自由法》(FOIA)或《隐私法》申请调取本人或他人护照记录的人员,无论申请成功与否;或",
+      "(n) 曾就特定申请人美国护照本或护照卡的签发或拒发等各方面事宜与护照服务处通信联络的人员。",
+      "本系统中的记录类别:",
+      "护照服务处保存有自1925年至今签发的美国护照记录,以及与海外出生、死亡和海外婚姻见证相关的人口生命记录。该护照记录系统不保存诸如入境/出境印章、签证或居留许可等旅行证明信息,因为此类信息是在护照签发后才记入护照本的。护照记录系统包括以下记录类别:",
+      "(a) 护照本和护照卡(统称“护照”)、护照申请,以及增加签证页、修改、延期、更换和/或更新护照的申请(包括作为此类申请的一部分或随此类申请一并提交的所有信息和材料);",
+      "(b) 在美国驻外使领馆以美国公民身份登记,或申请签发美国公民身份及登记证的申请;",
+      "(c) 美国公民海外出生领事报告;",
+      "(d) 巴拿马运河区出生证明和死亡证明;",
+      "(e) 婚姻见证证明书;",
+      "(f) 丧失美国国籍证明书;",
+      "(g) 重新入籍宣誓书;",
+      "(h) 领事重新入籍证明书;",
+      "(i) 美国公民海外死亡报告;",
+      "(j) 美国公民身份及登记证;",
+      "(k) 监控档案,用于标识其领事或相关服务申请需要经过非常规审查或处理的人员;",
+      "(l) 护照遗失、被盗或吊销状态记录;以及",
+      "(m) 其他杂项材料,即单独保存的文件和/或记录(如未包含在申请中),包括但不限于以下类型的文件(印刷页第66908页):与批准或拒绝护照及相关服务,或起诉违反护照刑事法规有关而汇编的调查报告;行政听证、上诉及联邦法院民事诉讼的笔录和意见书;因与护照及公民身份有关的行政裁定而产生的法律摘要、备忘录、司法命令和意见书;出生证明和洗礼证明;州颁发的驾照和身份证复印件;法院命令;逮捕令;医疗、个人及财务报告;宣誓书;机构间及机构内部的备忘录、电报、信函及其他杂项通信;自1978年以来创建的所有护照申请记录的电子索引;和/或国务院《美国公民海外出生报告》和《领事海外死亡报告》的电子索引。",
+      "记录来源类别:",
+      "这些记录中包含的信息主要来源于作为记录主体的个人、执法机构、调查情报来源、调查安全来源以及外国政府官员。",
+      "系统内所保存记录的常规使用方式,包括使用者类别及使用目的:",
+      "护照系统中的记录可披露给以下使用者:",
+      "(a) 国土安全部(DHS),用于边境巡逻、筛查及安全目的;执法、反恐及防欺诈活动;通过E-Verify系统核实护照有效性以支持就业资格及身份核实,用于公共和私营部门的就业;以及协助美国各州或领地的驾照或身份证颁发机构,在美国护照作为身份、国籍和/或合法身份证明以申领驾照或身份证时,确认该护照的真实性;",
+      "(b) 司法部,包括联邦调查局、烟酒枪炮及爆炸物管理局、美国法警署及其他下属机构,用于执法、反恐、依据18 U.S.C. 922进行的枪支销售及购买、边境安全、防欺诈以及刑事和民事诉讼活动;",
+      "(c) 国税局,用于获取经specifically确认的纳税人的邮寄地址和永久地址,以便处理正在进行的应缴税款征收行动、审查和/或其他与税务相关的评估及征收活动;以及根据26 U.S.C. 6039E的适用要求,每年传输居住在海外的美国公民申请中的特定数据;",
+      "(d) 国际刑警组织(INTERPOL)及其他国际组织,用于与护照遗失和被盗有关的执法、反恐、防欺诈及犯罪活动;",
+      "(e) 国家反恐中心,用于支持战略行动规划及反恐情报活动;",
+      "(f) 人事管理局(OPM)、其他联邦机构或外包的外部实体,用于支持OPM、其他联邦机构及承包商人员就就业资格核实和/或安全许可颁发而为联邦政府进行的调查;",
+      "(g) 社会保障署,用于支持公共和私营雇主的就业资格核实,以及支持核实用于处理美国护照申请的社会安全号码;",
+      "(h) 联邦执法及情报机构,用于支持其识别、核实身份及调查可能涉及或与犯罪或恐怖活动有关联的个人,以及与恐怖主义有其他联系或关联、可能对美国构成威胁的个人的工作;",
+      "(i) 拥有个人历史、国籍或身份信息的联邦、州、地方或其他机构,在必要范围内,用于从这些机构获取与裁定护照或相关服务申请有关的信息,或在有理由相信某人以欺诈方式申请或持有美国护照,或违反法律的情况下;",
+      "(j) 联邦、州、地方或其他机构,在法律程序中使用,依据政府律师认为适当的方式,并根据该机构与美国国务院达成的任何谅解;",
+      "(k) 国防部,为答复美国军事基地就国防部人员及符合条件的家属的外交护照、公务护照或免费普通护照申请现状所提出的询问;",
+      "(l) 直系亲属,当由于严重紧急情况而需要该信息,且该信息有利于信息主体本人时;",
+      "(m) 由美国大使馆和领事馆指定的美国公民私人“联络员”,主要在紧急情况和撤离情况下,作为与当地社区其他美国公民沟通的渠道;",
+      "(n) 在行政或司法护照程序中,当裁决涉及作为国务院记录主体的个人的案件所必需时,相关当事方及其律师;",
+      "(o) 国会议员,应记录所涉个人本人的请求;",
+      "(p) 代表某机构进行数据录入、扫描、更正和修改的承包商人员,且用于本通知所涵盖的其他目的;",
+      "(q) 应国务院请求,根据商业数据库对申请人身份进行核实的商业供应商;",
+      "(r) 外国政府,以便该等政府履行护照管制和移民职责及其自身的执法、反恐和防欺诈职能,并支持美国的执法、反恐和防欺诈活动;",
+      "(s) 美国各州生命记录签发机构,当美国护照作为证据出示以获取生命记录的认证副本时,用于确认或验证该护照;",
+      "(t) 全国公共卫生统计与信息系统协会,用于在美国某州或领地的驾驶证或身份证签发机构申领驾驶证或身份证时,核实作为国籍和/或合法身份证明而出示的《海外出生公民报告》;",
+      "(u) 向适当的机构、实体和个人披露信息,当(1)国务院怀疑或已确认记录系统发生违规;(2)国务院已确定,由于该疑似或已确认的违规,存在对个人、国务院(包括其信息系统、项目和业务)、联邦政府或国家安全造成损害的风险;且(3)向该等机构、实体和个人作出的披露,在合理必要的范围内有助于协助国务院应对该疑似或已确认的违规,或预防、减轻或补救该损害。(印刷页第66909页)",
+      "(v) 向另一联邦机构或联邦实体披露,当国务院确定本记录系统中的信息在合理必要的范围内有助于协助接收机构或实体:(1)应对疑似或已确认的违规;或(2)预防、减轻或补救因疑似或已确认的违规而对个人、接收机构或实体(包括其信息系统、项目和业务)、联邦政府或国家安全造成损害的风险;",
+      "(w) 使用联邦政府核验平台的各类实体,包括但不限于联邦、州、领地、部落和地方政府机构以及非营利组织,用于核实访问政府网站和应用程序的用户的身份或公民身份、选民资格及其他政府服务事项;以及",
+      "(x) 上文未列出但具有法定或其他合法权限保存此类信息的其他政府机构,也可依据“需要知道”的原则获得访问权限;但是,所有信息仅依据事先确立的常规用途向使用者提供。",
+      "国务院定期在《联邦公报》上公布适用于其所有《隐私法》记录系统的标准常规用途。这些通知以“前言声明”的形式刊载(刊登于2008年7月15日第73卷第136期,公告编号6290)。所有这些标准常规用途均适用于护照服务记录,编号State-26。",
+      "记录存储的政策与做法:",
+      "记录以纸质和电子介质两种形式保存。有关国务院电子记录存储标准政策的说明见此网址:https://fam.state.gov/​fam/​05fam/​05fam0440.html。所有包含个人信息的纸质记录均存放在限制区域内的保密文件柜中,只有经授权的人员方可查阅。",
+      "检索记录的政策和做法:",
+      "按个人姓名、出生日期和出生地、社会安全号码、护照本或护照卡号码检索。",
+      "记录保存和销毁的政策和做法:",
+      "记录依照以下记录处置时间表予以保存:N1-059-90-23,第1(3)项;N1-059-04-02,第15e项;N1-059-04-02,第15h项;DAA-0059-2020-0017-0009;DAA-0059-2020-0017-0002;DAA-0059-2020-0017-0011;DAA-0059-2020-0017-0025。",
+      "行政、技术和物理保障措施:",
+      "所有用户均须接受网络安全意识培训,内容涵盖敏感但非保密信息(SBU)的处理程序,包括个人身份信息(PII)。年度复训为强制要求。此外,国务院全体OpenNet用户均须参加国家外交事务培训中心的远程学习课程,该课程向员工讲授隐私和安全要求,包括处理个人身份信息的行为准则以及处理不当可能产生的后果。在获准访问护照服务记录系统(编号State-26)之前,用户必须先获准访问国务院计算机系统。",
+      "国务院雇员及承包商可使用非国务院所属的信息技术设备远程访问本记录系统。此类访问须经国务院移动与远程访问计划批准,且仅限于访问保存在非密级信息系统中的信息。国务院信息系统的远程访问按照行政管理和预算局(OMB)A-130号通告备忘录关于多因素身份验证的要求进行配置,并设有超时自动断开功能。",
+      "所有获准访问本记录系统所保存记录的国务院雇员及承包商均已接受背景安全调查。进入国务院本部及其附属机构和驻外使领馆须由保安人员管控,只有持有有效身份证件者或在适当人员陪同下方可进入。访问计算机文件须使用密码保护,并在系统管理员的直接监督下进行。系统管理员能够从计算机介质中打印访问审计记录,从而可对计算机使用情况进行定期及临时监控。一旦确定某用户不再需要访问权限,该用户账户即被禁用。",
+      "包含个人信息的纸质记录保存在保密文件柜中或限制区域内,只有经授权的人员方可查阅。服务器存放在采用密码锁的保密服务器机房的安全设施内。进入服务器机房的权限仅限于经授权人员。本系统依照OMB M-07 16号备忘录(如适用)的要求配备了相应的安全保障措施。",
+      "以下各段所述的安全保障措施仅适用于保存在经政府认证的云系统中的记录。所有提供信息技术服务并处理国务院信息的云系统,均须经国务院授权官员和高级机构隐私官员的specifically专门授权。",
+      "符合美国国务院关于《联邦信息安全现代化法案》(FISMA)低、中或高等级分类具体定义的信息,可允许用于云端使用,且必须经美国国务院云计划管理办公室和美国国务院授权官员的特别授权。具体的安全措施和保障手段将取决于特定云系统中信息的FISMA分类等级。根据美国国务院政策,处理更敏感信息的系统在获得批准之前,将需要更严格的控制措施和美国国务院网络安全专家的审查。在投入运行之前,所有云系统必须遵守FISMA、FedRAMP、行政管理和预算局(OMB)各项法规、美国国家标准与技术研究院(NIST)特别出版物(SP)和联邦信息处理标准(FIPS)以及美国国务院政策和标准中规定的适用安全措施。",
+      "所有存储在云环境中、FISMA影响风险等级高于低级别的数据,必须使用经联邦批准的加密机制进行静态加密和传输加密。加密密钥应在美国国务院数据中心内,由美国国务院密钥管理机构生成、维护和控制。偏离这些加密要求的做法必须经美国国务院授权官员书面批准。高FISMA影响风险等级系统还须接受持续审计和监控,采用基于公钥基础设施(PKI)的多因素身份验证机制,并遵守NIST 800-53中关于虚拟化、服务器、存储和网络方面的控制要求,以及在合同终止后对云服务数据进行彻底清除的严格措施。",
+      "记录查阅程序:",
+      "希望查阅或修改与本人有关的记录的个人,应按照 https://foia.state.gov/​request/​request2.aspx 上的指南和程序,向美国国务院信息获取项目(IAP)(印刷页第66910页)理事处提交《隐私法》请求。邮寄请求可寄至以下地址:U.S. Department of State, Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000。根据《隐私法》请求信息的个人应为美国公民,或依法获准永久居留的外国人。《隐私法》仅允许个人在其记录属于以个人姓名或个人标识符检索的记录系统内时,查阅本人自己的记录。",
+      "记录异议程序:",
+      "希望对本系统中与本人有关的任何记录内容提出异议的个人,应致函:U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000。",
+      "通知程序:",
+      "希望获知本系统是否存有与本人有关记录的个人,应致函:U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000。",
+      "本系统颁布的豁免事项:",
+      "根据5 U.S.C. 552a (k)(1)、(k)(2)和(k)(3)的规定,本记录系统中包含的某些记录可能豁免适用5 U.S.C. 552a (c)(3)、(d)、(e)(1);(e)(4)(G)、(e)(4)(H)、(e)(4)(I)和(f)各款的规定。",
+      "历史沿革:",
+      "护照记录(Passport Records),编号State-26,此前已公布于80 FR 15653。",
+      "Timothy J. Kootz,",
+      "美国国务院共享知识服务部(A/SKS)副助理国务卿。",
+      "[FR Doc. 2026-21695 Filed 10-22-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ],
+    "ja": [
+      "文書の見出し",
+      "文書の見出しは文書の種類によって異なるが、以下の内容を含む場合がある。",
+      "文書を発出し、署名した1つまたは複数の機関",
+      "文書が改正し、改正を提案し、または直接関連する連邦規則集(CFR)のタイトル番号及び各パートの番号",
+      "機関のドケット番号/機関内部のファイル番号",
+      "連邦規制及び規制緩和措置統一アジェンダ(Unified Agenda of Federal Regulatory and Deregulatory Actions)に掲載される各規制措置を識別するRIN",
+      "詳細については文書作成ハンドブック(Document Drafting Handbook)を参照のこと。",
+      "国務省",
+      "[公示番号:13151]",
+      "機関:",
+      "国務省。",
+      "措置:",
+      "改訂された記録システムに関する通知。",
+      "概要:",
+      "本システムは、旅券申請及び関連サービスの申請に対する審査、社会保障給付、投票資格、雇用申請、遺産整理、並びに連邦及び州の法執行及びテロ対策目的を含むがこれらに限定されない様々な法的目的のために、個人の米国国籍及び身元を証明するために使用される情報を維持するものである。",
+      "日付:",
+      "5 U.S.C. 552a(e)(4)及び(11)に従い、本記録システム通知は公示と同時に効力を生じるものとする。ただし、利害関係者が国務省に意見を提出できる30日間の期間の対象となるルーティンユース(u)、(v)及び(w)についてはこの限りではない。意見は2026年11月23日までに提出すること。見直しを要する意見が提出されない限り、ルーティンユース(u)、(v)及び(w)は2026年11月23日に効力を生じるものとする。",
+      "住所:",
+      "利害関係者は、国務省ドケット番号DOS-2026-1156を明記の上、連邦電子規則制定ポータル(連邦電子規則制定ポータル、Federal eRulemaking Portal)(印刷版66907ページ)http://www.regulations.gov を通じて意見を提出することができる。意見提出に当たっては、同ウェブサイトの指示に従うこと。電子規則制定ポータル以外の方法で提出された意見は、記録システム通知(System of Records Notice、SORN)に対する意見として扱われず、国務省による検討の対象とならない場合がある。",
+      "問い合わせ先:",
+      "ティモシー・J・クーツ(Timothy J. Kootz)、プライバシー担当上級機関職員、米国国務省、共有知識サービス局(Shared Knowledge Services, A/SKS)、Room 4534、2201 C St. NW、Washington, DC 20520、又はSORN@state.gov。封筒または電子メールの件名に「Passport Services Records, State-26」と明記すること。",
+      "補足情報:",
+      "国務省は、現行の「旅券記録(Passport Records)」システム(80 FR 15653に既出)を「旅券サービス記録(Passport Services Records)」システムに名称変更することを提案する。提案されるシステムには、概要、日付、住所、問い合わせ先、補足情報、システム名称及び番号、システムの所在地、システム維持の権限、システムの目的、システムに維持される記録のルーティンユース、記録の保管に関する方針及び慣行、記録の保存及び廃棄に関する方針及び慣行、管理上、技術上及び物理上の保護措置、記録へのアクセス手続、記録に対する異議申立手続、通知手続、並びに沿革を含む各項目について修正が加えられる。これらの修正の目的は、国務省のクラウドストレージへの移行及び侵害通知に関するルーティンユースを含む新たな行政管理予算局(Office of Management and Budget、OMB)の指針を反映させること、並びに行政審理における旅券記録の使用及び本人確認のための追加的な利用者による使用を明確化することである。",
+      "システム名称及び番号:",
+      "旅券サービス記録(Passport Services Records)、State-26。",
+      "セキュリティ分類:",
+      "機密及び非機密。",
+      "システムの所在地:",
+      "国務省旅券サービス局、戸籍記録課、44132 Mercure Cir., P.O. Box 1213, Sterling, VA 20166-1213、並びに国務省エンタープライズサーバー運用センター(Enterprise Server Operations Center、ESOC)、2201 C Street NW, Washington, DC 20520が提供、実装及び監督する政府クラウド内。",
+      "システム管理者:",
+      "国務省旅券サービス担当次官補代理、600 19th Street NW, Fourth Floor, Washington, DC 20431。",
+      "システム維持の権限:",
+      "(a) 8 U.S.C. 1104、1185、1401から1504まで(2025年); (b) 18 U.S.C. 911、1001、1541から1546まで(2024年); (c) 22 U.S.C. 211aから218まで、2651a、2705、2714、2714a(2025年); 大統領令第11295号、1966年8月5日、31 FR 10603; 及び(d) 26 U.S.C. 6039E(2025年)。",
+      "システムの目的:",
+      "パスポート業務記録(State-26)に保持されている情報は、旅券申請及び関連業務の審査、社会保障給付、投票資格、就職申請、遺産整理、並びに連邦及び州の法執行及びテロ対策目的を含むがこれらに限定されない、様々な法的目的のために個人の米国国籍及び身元を確認するために使用される。",
+      "本システムが対象とする個人の区分",
+      "パスポート業務記録システムには、以下に該当する個人に関する記録が保持されている。",
+      "(a) 米国旅券冊子及び旅券カードの発給、修正、延長又は更新を申請した者。",
+      "(b) 米国旅券冊子若しくはカードを発給された者、又は旅券を修正、延長、更新、制限、取り消し若しくは拒否された者。",
+      "(c) 海外で出生した米国市民の出生を証明するため申請した者。",
+      "(d) 米国市民の海外出生証明書(Consular Report of Birth Abroad)を発給された者、又は出生証明書(Certifications of Birth)を発給された者。",
+      "(e) 1979年10月以前の旧パナマ運河地帯において出生及び/又は死亡した者。",
+      "(f) 1990年以前に海外に居住又は渡航する米国市民として米国大使館若しくは領事館に登録した者。",
+      "(g) 米国市民としての登録身分証明書(Cards of Registration and Identity)を発給された者。",
+      "(h) 国務省により米国国籍喪失証明書(Certificate of Loss of Nationality)を発給された者。",
+      "(i) 米国大使館若しくは領事館において婚姻立会証明書(Certificates of Witness to Marriage)の発給を申請した者、及び1989年以前に当該証明書を発給された者。",
+      "(j) 海外における米国市民死亡報告書(Report of Death of a U.S. Citizen Abroad)が取得されている死亡者。",
+      "(k) 米国市民ではあるが、関連する旅券法令の下で米国旅券冊子、カード若しくはその他の文書又はサービスの発給若しくは保有の資格を有しない、又は有しない可能性がある者。",
+      "(l) 旅券申請又は他の領事業務の申請について更なる手続を行う前に、過去の旅券記録を確認する必要がある者。",
+      "(m) 情報公開法(Freedom of Information Act, FOIA)又はプライバシー法に基づき、自己又は他者の旅券記録の開示を請求した者。開示の成否を問わない。",
+      "(n) 特定の申請者の米国旅券冊子又はカードの発給若しくは拒否に関する種々の事項について、パスポート業務部門と文書で連絡を行った者。",
+      "本システムにおける記録の区分",
+      "パスポート業務部門は、1925年から現在までに発給された米国旅券記録、並びに海外出生、死亡及び海外における婚姻立会に関する身分記録を保持している。旅券記録システムには、入国/出国スタンプ、査証又は居住許可証等の渡航記録の証拠は保持されていない。これらの情報は旅券冊子の発給後に当該冊子に記入されるためである。旅券記録システムには、以下の区分の記録が含まれる。",
+      "(a) 旅券冊子及び旅券カード(「旅券」)、旅券申請書、並びに追加査証ページ、修正、延長、再発給及び/又は旅券更新の申請書(これらの申請の一部として、又はこれに付随して提出された全ての情報及び資料を含む。)。",
+      "(b) 米国市民としての米国大使館及び領事館への登録申請書、又は米国市民としての身分証明登録カード(Cards of Identity and Registration)の発給申請書。",
+      "(c) 米国市民の海外出生証明書(Consular Reports of Birth Abroad)。",
+      "(d) パナマ運河地帯の出生証明書及び死亡証明書。",
+      "(e) 婚姻立会証明書(Certificates of Witness to Marriage)。",
+      "(f) 米国国籍喪失証明書(Certificates of Loss of United States Nationality)。",
+      "(g) 国籍回復宣誓書(Oaths of Repatriation)。",
+      "(h) 領事国籍回復証明書(Consular Certificates of Repatriation)。",
+      "(i) 海外における米国市民死亡報告書(Reports of Death of a U.S. Citizen Abroad)。",
+      "(j) 米国市民としての身分証明登録カード(Cards of Identity and Registration)。",
+      "(k) 領事業務又は関連業務の申請について通常の審査又は措置以外の対応を要する者を識別する要注意者リスト(Lookout files)。",
+      "(l) 紛失、盗難又は取消しとなった旅券の状況。並びに",
+      "(m) その他の資料であって、別途保管されている文書及び/又は記録であり、申請書に含まれていないもの。これには以下の種類の文書が含まれるが、これらに限定されない(印刷ページ66908)。旅券及び関連サービスの付与若しくは拒否、又は旅券に関する刑事法令違反の訴追に関連して作成された調査報告書。連邦裁判所における行政審理、上訴及び民事訴訟に関する記録及び意見書。旅券及び市民権に関する行政決定から生じた法律意見書、覚書、裁判所命令及び意見。出生証明書及び洗礼証明書。州発行の運転免許証及び身分証明書の写し。裁判所命令。逮捕状。医療、個人及び財務報告書。宣誓供述書。省庁間及び省内の覚書、電報、書簡その他の雑多な通信文。1978年以降に作成された旅券申請記録のすべてを網羅する電子索引。及び/又は国務省が発行する在外米国市民出生届及び在外領事死亡報告書の電子索引。",
+      "記録の情報源の区分:",
+      "これらの記録には、主として当該記録の対象となる個人、法執行機関、捜査情報源、捜査保安情報源、及び外国政府当局者から取得した情報が含まれる。",
+      "本システムで維持される記録の通常の使用目的(利用者の区分及び当該使用の目的を含む):",
+      "旅券システム内の記録は、以下の利用者に開示される場合がある。",
+      "(a) 国境警備、審査及び保安上の目的のため、法執行、テロ対策及び不正防止活動のため、E-Verifyを通じた雇用適格性の確認及び公的・私的雇用における身元確認を裏付けるための旅券有効性の確認のため、並びに米国の州若しくは準州の運転免許証又は身分証明書発行当局が、身元、国籍及び/又は適法な在留資格の証拠として提示された米国旅券の真正性を確認しようとする際の支援のための、国土安全保障省(DHS)。",
+      "(b) 法執行、テロ対策、18 U.S.C. 922に従った銃器の売買、国境警備、不正防止、並びに刑事及び民事訴訟活動のための、連邦捜査局、アルコール・タバコ・火器及び爆発物取締局、米国連邦保安官局その他の部局を含む司法省。",
+      "(c) 滞納租税の徴収、調査及び/又はその他の租税関連の賦課及び徴収活動に係る係属中の処分に関連して、特定の納税者の郵送先及び恒久的住所を得るための内国歳入庁、並びに26 U.S.C. 6039Eの適用要件に従った、海外に居住する米国市民の申請書からの特定のデータの年次送付のため。",
+      "(d) 紛失及び盗難旅券に関連する法執行、テロ対策、不正防止及び犯罪活動のための、インターポールその他の国際機関。",
+      "(e) 戦略的作戦計画及びテロ対策情報活動を支援するための、国家テロ対策センター。",
+      "(f) 雇用適格性の確認及び/又は機密取扱資格の付与に関連して、人事管理局(OPM)、他の連邦機関及び契約業者の職員が連邦政府のために実施する調査を支援するための、人事管理局(OPM)、他の連邦機関、又は委託を受けた外部機関。",
+      "(g) 公的及び私的雇用主のための雇用適格性確認の支援、並びに米国旅券申請の処理に使用される社会保障番号の確認支援のための、社会保障庁。",
+      "(h) 犯罪又はテロ活動に関与若しくは関係している可能性のある個人、並びに米国に脅威を及ぼし得るテロとのその他の関係若しくはつながりを有する個人の特定、身元確認及び捜査に係る取組みを支援するための、連邦法執行機関及び情報機関。",
+      "(i) 旅券又は関連サービスの申請の審査に関連して当該機関から情報を得るために必要な範囲において、個人の経歴、国籍又は身元に関する情報を有する連邦、州、地方その他の機関、又は、個人が不正に米国旅券を申請若しくは所持している、若しくは法律に違反していると信じるに足る理由がある場合における当該機関。",
+      "(j) 政府顧問が適切と判断する場合において、当該機関が国務省との間で合意した取り決めに従い、法的手続における使用のための連邦、州、地方その他の機関",
+      "(k) 国防総省(Department of Defense)の職員及び該当する家族の外交旅券、公用旅券又は無手数料一般旅券の申請状況に関する米軍施設からの照会に対応する目的のための国防総省",
+      "(l) 重大かつ緊急の事態の結果として情報が必要であり、かつ本人の利益のためである場合の近親者",
+      "(m) 主として緊急事態及び退避の状況において、現地社会における他の米国市民との連絡経路として機能するために米国大使館及び領事館が指定した、民間の米国市民である「ワーデン」",
+      "(n) 国務省の記録の対象である個人に関する事案の裁決に必要な場合の、行政上又は司法上の旅券手続における当事者及びその弁護士",
+      "(o) 記録が関係する本人の求めによる連邦議会議員",
+      "(p) 機関に代わりデータ入力、スキャン、訂正及び修正を行う請負業者の職員であって、本通知の対象となる目的のために行う者",
+      "(q) 国務省の要請に基づき、商業データベースに対して申請者の本人確認を行う商業ベンダー",
+      "(r) 旅券管理及び出入国管理の職務並びに自国の法執行、テロ対策及び不正防止機能を履行することを許可され、また米国の法執行、テロ対策及び不正防止活動を支援するための外国政府",
+      "(s) 米国旅券が人的記録の認証謄本を取得するための証拠として提示された場合に、当該旅券の確認又は検証を行う目的のための米国州人的記録発行当局",
+      "(t) 米国の州又は準州の運転免許証又は身分証明書発行当局において運転免許証又は身分証明書を取得する際に、国籍及び/又は適法な地位の証拠として提示された在外国民出生届(Consular Report of Birth Abroad)を検証する目的のための全米公衆衛生統計情報システム協会",
+      "(u) 次の場合における適切な機関、団体及び個人。(1) 国務省がシステム記録の漏えいが発生したことを疑い、又は確認した場合、(2) 国務省が、当該疑われ又は確認された漏えいの結果として、個人、国務省(その情報システム、プログラム及び業務を含む。)、連邦政府又は国家安全保障に対する被害のおそれがあると判断した場合、及び(3) 当該機関、団体及び個人への開示が、国務省が疑われ又は確認された漏えいに対応し、又は当該被害を防止し、最小化し、若しくは是正するための取組を支援する上で合理的に必要である場合。(印刷版66909ページ)",
+      "(v) 国務省が、本記録システムの情報が、受領機関又は団体が次のいずれかを行うのを支援するために合理的に必要であると判断した場合における、他の連邦機関又は連邦団体。(1) 疑われ又は確認された漏えいへの対応、又は(2) 疑われ又は確認された漏えいに起因する、個人、受領機関若しくは団体(その情報システム、プログラム及び業務を含む。)、連邦政府又は国家安全保障に対する被害のおそれの防止、最小化若しくは是正",
+      "(w) 政府ウェブサイト及びアプリケーションにアクセスする利用者の本人確認若しくは市民権の確認、有権者資格の確認、その他の政府サービスの目的のために、連邦政府の検証プラットフォームを利用する、連邦、州、準州、部族及び地方の政府機関並びに非営利団体を含むがこれらに限られない各種団体、並びに",
+      "(x) 上記に掲げられた機関以外であって、当該情報を保持する制定法上又はその他の適法な権限を有する政府機関も、業務上必要とされる範囲でアクセスを受けることができる。ただし、すべての情報は、あらかじめ定められたルーチンユースのためにのみ利用者に提供される。",
+      "国務省は、そのすべてのプライバシー法記録システムに適用される標準的なルーチンユースを、連邦官報(Federal Register)に定期的に公表している。これらの通知は、前文声明(2008年7月15日付、第73巻第136号、公示第6290号として公表)の形式で掲載されている。これらの標準的なルーチンユースはすべて、旅券業務記録、State-26に適用される。",
+      "記録の保管に関する方針及び実務:",
+      "記録は、ハードコピー及び電子媒体の両方で保管される。電子記録の保管に関する国務省の標準的な方針の説明は、以下のウェブサイトに掲載されている。https://fam.state.gov/​fam/​05fam/​05fam0440.html 個人情報を含む全てのハードコピーは、施錠可能なファイルキャビネット内又は立入制限区域内に保管されており、これらへのアクセスは許可された職員のみに限定されている。",
+      "記録の検索に関する方針及び方法:",
+      "個人の氏名、生年月日及び出生地、社会保障番号、旅券又は旅券カード番号による。",
+      "記録の保存及び廃棄に関する方針及び方法:",
+      "記録は、次の記録廃棄スケジュールに従って保存される。N1-059-90-23、項目1(3)、N1-059-04-02、項目15e、N1-059-04-02、項目15h、DAA-0059-2020-0017-0009、DAA-0059-2020-0017-0002、DAA-0059-2020-0017-0011、DAA-0059-2020-0017-0025。",
+      "管理上、技術上及び物理的な保護措置:",
+      "全ての利用者は、個人を特定できる情報(PII)を含む機密扱いではあるが非秘密の情報(SBU)の取扱手続を対象とするサイバーセキュリティ意識向上研修を受講する。年次の再研修は義務付けられている。さらに、国務省のOpenNetを利用する全ての利用者は、PIIの取扱いに関する行動規範及び不適切な取扱いが生じた場合の潜在的な影響を含む、プライバシー及びセキュリティ要件について職員に指導する、国立外交研修センターの遠隔学習講座を受講することが義務付けられている。旅券業務記録(State-26)へのアクセスを許可される前に、利用者はまず国務省のコンピューターシステムへのアクセスを許可されなければならない。",
+      "国務省の職員及び契約業者は、国務省が所有していない情報技術を用いて、本記録システムに遠隔アクセスすることができる。かかるアクセスは、国務省のモバイル及び遠隔アクセスプログラムによる承認を条件とし、非秘密情報システムに保持される情報に限定される。国務省の情報システムへの遠隔アクセスは、行政管理予算局(OMB)回状覚書A-130の多要素認証要件に準拠するよう構成されており、タイムアウト機能を備えている。",
+      "本記録システムに保持される記録への許可されたアクセス権を有する国務省の職員及び契約業者は、全て身元調査を受けている。国務省庁舎、その附属施設及び海外の在外公館へのアクセスは警備員により管理されており、立入りは有効な身分証明書を所持する者又は適切な同行者を伴う者に限定される。コンピューター化されたファイルへのアクセスはパスワードで保護されており、システム管理者の直接の監督下に置かれている。システム管理者は、コンピューター媒体からアクセスの監査証跡を印刷する機能を有しており、これにより、コンピューターの使用状況について定期的及び随時の監視を行うことができる。利用者がアクセスを必要としなくなったと判断された場合、当該利用者のアカウントは無効化される。",
+      "個人情報を含む物理的記録は、施錠可能なファイルキャビネット内又は立入制限区域内に保管されており、これらへのアクセスは許可された職員に限定されている。サーバーは、暗証番号錠付きのサーバー室内の安全な施設に保管されている。サーバー室への物理的アクセスは、許可された職員のみに限定されている。本システムは、該当する場合にはOMB覚書M-07 16が求める保護措置により保護されている。",
+      "以下の各項に定める保護措置は、政府認証を受けたクラウドシステムに保持される記録についてのみ適用される。ITサービスを提供し、国務省の情報を処理する全てのクラウドシステムは、国務省の認可担当官及びプライバシー担当上級職員による特別な許可を受けなければならない。",
+      "連邦情報セキュリティ近代化法(FISMA)の低区分、中区分、又は高区分に関する国務省固有の定義に適合する情報は、クラウドでの使用が許可されるものであり、国務省クラウドプログラム管理室及び国務省認可担当官により具体的に承認されなければならない。具体的なセキュリティ対策及び保護措置は、当該クラウドシステムにおける情報のFISMA区分に応じて定まる。国務省の方針に従い、より機密性の高い情報を処理するシステムについては、承認に先立ち、国務省のサイバーセキュリティ専門家によるより厳格な管理及び審査が求められる。運用開始前に、すべてのクラウドシステムは、FISMA、FedRAMP、行政管理予算局(OMB)規則、国立標準技術研究所(NIST)の特別刊行物(SP)及び連邦情報処理標準(FIPS)、並びに国務省の方針及び基準に定められた適用可能なセキュリティ対策を遵守しなければならない。",
+      "低FISMA影響リスクレベルを超えて区分されたクラウド環境に保存されるすべてのデータは、連邦政府が承認した暗号化方式を用いて、保存時及び転送時に暗号化されなければならない。暗号鍵は、国務省の鍵管理当局により、国務省のデータセンター内で生成、維持及び管理されるものとする。これらの暗号化要件からの逸脱は、国務省認可担当官による書面での承認を受けなければならない。高FISMA影響リスクレベルのシステムは、これに加えて、継続的な監査及び監視、公開鍵基盤(PKI)を利用した多要素認証機構、並びに仮想化、サーバー、ストレージ及びネットワーキングに関するNIST 800 53の管理策の対象となるとともに、契約終了後にクラウドサービスからデータを消去するための厳格な措置の対象となる。",
+      "記録へのアクセス手続:",
+      "自己に関する記録へのアクセス又はその修正を希望する者は、https://foia.state.gov/​request/​request2.aspx に掲載された案内及び手続に従い、米国国務省情報アクセスプログラム(IAP)局(66910ページ)にプライバシー法に基づく請求を提出するものとする。郵送による請求は、U.S. Department of State, Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000 宛てとすることができる。プライバシー法に基づき情報を請求する者は、米国市民、又は合法的に永住許可を得た外国人でなければならない。プライバシー法は、個人の氏名又は個人識別子によって検索される記録システム内にある記録に限り、本人による自己の記録へのアクセスを認めるものである。",
+      "記録の内容に対する異議申立手続:",
+      "自己に関する記録の内容に異議を申し立てることを希望する者は、U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000 宛てに書面で連絡するものとする。",
+      "通知手続:",
+      "本システムに自己に関する記録が含まれているか否かについて通知を受けることを希望する者は、U.S. Department of State; Information Access Programs Directorate (A/SKS/IAP); 2201 C Street NW; Washington, DC 20520-0000 宛てに書面で連絡するものとする。",
+      "本システムについて定められた適用除外:",
+      "5 U.S.C. 552a (k)(1)、(k)(2)及び(k)(3)に基づき、本記録システムに含まれる一定の記録は、5 U.S.C. 552a (c)(3)、(d)、(e)(1)、(e)(4)(G)、(e)(4)(H)、(e)(4)(I)及び(f)の各規定の適用を除外される場合がある。",
+      "沿革:",
+      "旅券記録、State-26は、以前に80 FR 15653において公表されたものである。",
+      "ティモシー・J・クーツ",
+      "共有知識サービス担当次官補代理(A/SKS)、米国国務省。",
+      "[FR Doc. 2026-21695 Filed 10-22-26; 8:45 am]",
+      "BILLING CODE 4710-05-P"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

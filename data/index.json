@@ -1,5 +1,26 @@
 [
   {
+    "id": "34bb72536d06",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21695/privacy-act-of-1974-system-of-records",
+    "published": "2026-10-23",
+    "effective_date": "2026-10-23",
+    "importance": "low",
+    "category": "notice",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "citizenship",
+      "other"
+    ],
+    "tags": [
+      "Passports",
+      "Privacy Act",
+      "SORN"
+    ],
+    "added": "2026-10-23T11:46Z"
+  },
+  {
     "id": "4a0bd929a31c",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/22/dhs-highlights-worst-illegal-aliens-arrested-iowa",
