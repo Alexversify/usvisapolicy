@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-23T04:58:42Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39902909645",
+    "found": 1,
+    "added": [
+      {
+        "id": "596cf4936e61",
+        "source": "uscis_vb_chart",
+        "title": "USCIS, 2026년 11월 영주권 신청에 'Dates for Filing' 차트 적용 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.1675,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-22T21:51:56Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39858938094",

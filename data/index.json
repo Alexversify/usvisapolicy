@@ -1452,6 +1452,27 @@
     ]
   },
   {
+    "id": "596cf4936e61",
+    "source": "uscis_vb_chart",
+    "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin?bulletin=2026-11",
+    "published": "2026-10-05",
+    "effective_date": "2026-11-01",
+    "importance": "medium",
+    "category": "processing",
+    "agency": "uscis",
+    "topics": [
+      "visa_bulletin",
+      "family",
+      "employment"
+    ],
+    "tags": [
+      "Visa Bulletin",
+      "Adjustment of Status",
+      "Dates for Filing"
+    ],
+    "added": "2026-10-23T04:58Z"
+  },
+  {
     "id": "825e99a06c78",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/05/ice-lodges-detainer-illegal-alien-charged-sexually-assaulting-minor-tennessee",
