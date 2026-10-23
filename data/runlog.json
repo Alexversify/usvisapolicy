@@ -1,5 +1,39 @@
 [
   {
+    "t": "2026-10-23T21:34:45Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40026827169",
+    "found": 3,
+    "added": [
+      {
+        "id": "7c950471b432",
+        "source": "dhs_news",
+        "title": "DHS, 버지니아 콴티코 이오지마 기념비 훼손 사건에 성명 발표"
+      },
+      {
+        "id": "ced2ca95d079",
+        "source": "dhs_news",
+        "title": "ICE, 살인 및 성범죄 전과 있는 외국인 5명 체포 발표"
+      },
+      {
+        "id": "cb65f2b6a639",
+        "source": "dhs_news",
+        "title": "HSI와 FBI, 노스캐롤라이나주 불법 투표 혐의로 비시민권자 10명 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.8292,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-23T17:14:18Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/39993062522",

@@ -1,5 +1,66 @@
 [
   {
+    "id": "cb65f2b6a639",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/23/hsi-and-fbi-arrest-ten-aliens-voter-fraud-north-carolina",
+    "published": "2026-10-23",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Voter Fraud",
+      "ICE",
+      "HSI",
+      "LPR",
+      "Deportation"
+    ],
+    "added": "2026-10-23T21:33Z"
+  },
+  {
+    "id": "ced2ca95d079",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/23/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+    "published": "2026-10-23",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-23T21:31Z"
+  },
+  {
+    "id": "7c950471b432",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/23/dhs-issues-statement-after-illegal-alien-attacks-iwo-jima-memorial-quantico",
+    "published": "2026-10-23",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "DACA",
+      "Enforcement",
+      "Crime"
+    ],
+    "added": "2026-10-23T21:29Z"
+  },
+  {
     "id": "34bb72536d06",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21695/privacy-act-of-1974-system-of-records",
