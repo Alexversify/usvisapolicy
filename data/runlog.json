@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-24T11:11:19Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40088524887",
+    "found": 1,
+    "added": [
+      {
+        "id": "39a8688f258a",
+        "source": "federal_register",
+        "title": "DHS, 임시규정에 따른 이민 민사벌금 부과를 추인, 11월 16일까지 이의 제기 가능"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.4361,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-24T04:43:04Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40063301030",

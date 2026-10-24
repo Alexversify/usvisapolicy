@@ -1,5 +1,24 @@
 [
   {
+    "id": "39a8688f258a",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21751/ratification-of-civil-penalties",
+    "published": "2026-10-26",
+    "effective_date": "2026-10-26",
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Civil Penalties",
+      "Enforcement",
+      "ICE"
+    ],
+    "added": "2026-10-24T11:09Z"
+  },
+  {
     "id": "cb65f2b6a639",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/23/hsi-and-fbi-arrest-ten-aliens-voter-fraud-north-carolina",
