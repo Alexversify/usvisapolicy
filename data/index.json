@@ -1,5 +1,46 @@
 [
   {
+    "id": "a74050af2d29",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/26/dhs-highlights-worst-illegal-aliens-arrested-michigan",
+    "published": "2026-10-26",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Michigan"
+    ],
+    "added": "2026-10-26T20:36Z"
+  },
+  {
+    "id": "fe1a960cbc89",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/alerts/litigation-related-update-sileiri-doe-class-members-may-request-reopening-or-reconsideration-of-an",
+    "published": "2026-10-26",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "fees",
+      "travel"
+    ],
+    "tags": [
+      "CBP One",
+      "Parole",
+      "Litigation",
+      "Fee Waiver"
+    ],
+    "added": "2026-10-26T20:35Z"
+  },
+  {
     "id": "39a8688f258a",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21751/ratification-of-civil-penalties",
