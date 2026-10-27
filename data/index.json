@@ -1,5 +1,45 @@
 [
   {
+    "id": "efd9cc8deec6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/26/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-and-sexual-predators",
+    "published": "2026-10-26",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-27T00:33Z"
+  },
+  {
+    "id": "b6aff3f4d4f4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/26/ice-hsi-arrests-five-non-citizens-charged-illegally-voting-florida",
+    "published": "2026-10-26",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "family"
+    ],
+    "tags": [
+      "ICE",
+      "Voter Fraud",
+      "Enforcement",
+      "LPR"
+    ],
+    "added": "2026-10-27T00:31Z"
+  },
+  {
     "id": "a74050af2d29",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/26/dhs-highlights-worst-illegal-aliens-arrested-michigan",
