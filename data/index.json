@@ -1,5 +1,27 @@
 [
   {
+    "id": "3bc2e93edb15",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21880/suspension-of-the-commonwealth-of-the-northern-mariana-islands-cnmi-economic-vitality-and-security",
+    "published": "2026-10-27",
+    "effective_date": "2026-10-30",
+    "importance": "high",
+    "category": "policy",
+    "agency": "dhs",
+    "topics": [
+      "travel",
+      "enforcement"
+    ],
+    "tags": [
+      "CNMI",
+      "EVS-TAP",
+      "Travel Ban",
+      "China",
+      "Visa Waiver"
+    ],
+    "added": "2026-10-27T09:06Z"
+  },
+  {
     "id": "efd9cc8deec6",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/26/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-and-sexual-predators",

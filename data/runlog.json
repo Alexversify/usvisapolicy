@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-27T09:09:32Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40477936462",
+    "found": 1,
+    "added": [
+      {
+        "id": "3bc2e93edb15",
+        "source": "federal_register",
+        "title": "DHS, 중국인 대상 북마리아나제도(CNMI) 무비자 입국 프로그램 EVS-TAP 중단"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.0924,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-27T00:35:14Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40426613581",
