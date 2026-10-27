@@ -1,5 +1,49 @@
 [
   {
+    "t": "2026-10-27T22:27:22Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40593626074",
+    "found": 5,
+    "added": [
+      {
+        "id": "8f074328a2df",
+        "source": "uscis_policy_manual",
+        "title": "USCIS, L-1 비자 신청 수수료 관련 정책매뉴얼 지침 개정"
+      },
+      {
+        "id": "bc22d8ef1082",
+        "source": "dhs_news",
+        "title": "DHS, 본국이 받아들이지 않아 제3국으로 추방된 강력범죄 불법체류자 사례 공개"
+      },
+      {
+        "id": "26a0ea545e19",
+        "source": "dhs_news",
+        "title": "DHS, 살인·아동학대·강도 등 중범죄 전력 불법체류자 20명 ICE 구금 사례 공개"
+      },
+      {
+        "id": "69b1c21bf5ae",
+        "source": "dhs_news",
+        "title": "멀린 장관, 해안경비대 헬기 요격 전술 비행대대(HITRON) 방문"
+      },
+      {
+        "id": "8186198d2a9d",
+        "source": "dhs_news",
+        "title": "ICE, 살인·아동성범죄 등 전력 있는 외국인 5명 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.8843,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-27T15:35:44Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40530429049",

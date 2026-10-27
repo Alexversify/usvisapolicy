@@ -1,5 +1,102 @@
 [
   {
+    "id": "8186198d2a9d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/27/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+    "published": "2026-10-27",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-27T22:26Z"
+  },
+  {
+    "id": "69b1c21bf5ae",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/27/secretary-mullin-meets-coast-guards-elite-helicopter-interdiction-tactical-squadron",
+    "published": "2026-10-27",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Coast Guard",
+      "Border Security"
+    ],
+    "added": "2026-10-27T22:25Z"
+  },
+  {
+    "id": "26a0ea545e19",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-worst-arrests-illegal-aliens-including-murderers-child-abusers",
+    "published": "2026-10-27",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-27T22:23Z"
+  },
+  {
+    "id": "bc22d8ef1082",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/27/dhs-highlights-most-barbaric-illegal-aliens-deported-third-countries-because-their",
+    "published": "2026-10-27",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Third-Country Removals",
+      "Deportation",
+      "ICE"
+    ],
+    "added": "2026-10-27T22:21Z"
+  },
+  {
+    "id": "8f074328a2df",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20261027-IntracompanyTransfereeFees.pdf",
+    "published": "2026-10-27",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "fees",
+    "agency": "uscis",
+    "topics": [
+      "employment",
+      "fees"
+    ],
+    "tags": [
+      "L-1",
+      "Fees",
+      "Policy Manual",
+      "Intracompany Transferee"
+    ],
+    "added": "2026-10-27T22:20Z"
+  },
+  {
     "id": "3bc2e93edb15",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21880/suspension-of-the-commonwealth-of-the-northern-mariana-islands-cnmi-economic-vitality-and-security",
