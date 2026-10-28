@@ -1,5 +1,54 @@
 [
   {
+    "t": "2026-10-28T20:29:44Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40762019125",
+    "found": 6,
+    "added": [
+      {
+        "id": "f0c913f57cb0",
+        "source": "uscis_news",
+        "title": "시카고 교외 거주 남성, 가짜 강도극으로 U비자 사기 공모한 혐의로 징역형 선고"
+      },
+      {
+        "id": "9634ff08e9dc",
+        "source": "fr_public_inspection",
+        "title": "DHS, 연방 민간기관 IT 시스템 및 조달에서 Acronis 제품 배제 및 제거 명령 발표"
+      },
+      {
+        "id": "d96fdfb1fbbf",
+        "source": "dhs_news",
+        "title": "DHS, 경찰관 폭행 불법체류자 석방한 뉴욕 새크추어리 정책 비판"
+      },
+      {
+        "id": "6eb9b1e4454d",
+        "source": "dhs_news",
+        "title": "DHS, 오하이오주에서 체포된 불법체류 외국인 5명 신상 공개"
+      },
+      {
+        "id": "920ec57c9539",
+        "source": "dhs_news",
+        "title": "ICE, 전국 유권자 사기 단속에서 비시민권자 수십 명 체포"
+      },
+      {
+        "id": "f8197a171961",
+        "source": "dhs_news",
+        "title": "DHS, 텍사스에서 체포된 범죄 전력 불법체류자 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.0284,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-28T13:01:55Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40692438310",

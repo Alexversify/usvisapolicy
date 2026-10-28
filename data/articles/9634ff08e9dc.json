@@ -1,0 +1,171 @@
+{
+  "id": "9634ff08e9dc",
+  "source": "fr_public_inspection",
+  "url": "https://www.federalregister.gov/public-inspection/2026-22215/order-exclusion-and-removal-of-acronis-products-from-federal-civilian-executive-branch-information",
+  "original_title": "Order: Exclusion and Removal of Acronis Products from Federal Civilian Executive Branch Information Technology Systems and Procurements",
+  "published": "2026-10-28",
+  "effective_date": null,
+  "importance": "low",
+  "category": "notice",
+  "tags": [
+    "Acronis",
+    "Cybersecurity",
+    "Federal Procurement"
+  ],
+  "relevant": false,
+  "langs": {
+    "ko": {
+      "title": "DHS, 연방 민간기관 IT 시스템 및 조달에서 Acronis 제품 배제 및 제거 명령 발표",
+      "summary": "미국 국토안보부(DHS)가 Acronis AG 및 계열사가 공급하는 정보기술 제품을 연방 민간 행정부 조달에서 배제하고, 기존 시스템에서도 제거하도록 하는 명령을 연방관보(Federal Register) 게재용으로 제출했습니다. 이는 연방조달공급망보안법(Federal Acquisition Supply Chain Security Act)에 근거한 조치입니다.",
+      "points": [
+        "국토안보부 장관이 Acronis AG, Acronis, Inc., Acronis SCS 및 계열사의 IT 제품을 대상으로 명령을 내렸습니다.",
+        "해당 제품은 연방 민간 행정부의 조달 대상에서 배제됩니다.",
+        "기존에 설치된 Acronis 관련 제품도 연방 민간기관 IT 시스템에서 제거해야 합니다.",
+        "이 명령은 2026년 10월 30일 연방관보에 게재될 예정입니다.",
+        "이 사안은 미국 비자나 이민 정책과는 직접 관련이 없습니다."
+      ],
+      "who": "미국 연방 민간 행정기관 및 Acronis 제품을 공급하거나 사용하는 계약업체가 영향을 받습니다.",
+      "action": "이민 또는 비자 신청자에게는 해당되지 않는 사안입니다."
+    },
+    "en": {
+      "title": "DHS Orders Exclusion and Removal of Acronis IT Products from Federal Civilian Agencies",
+      "summary": "The Department of Homeland Security has filed a notice for publication stating that the Secretary of Homeland Security ordered the exclusion of Acronis AG and affiliated entities' information technology products from federal civilian executive branch procurements, and their removal from existing federal civilian IT systems. The action relies on authority under the Federal Acquisition Supply Chain Security Act of 2018.",
+      "points": [
+        "The order covers Acronis, Inc., Acronis SCS, and affiliated entities as defined in federal acquisition regulations.",
+        "Covered IT products are barred from future federal civilian agency procurements.",
+        "Agencies must remove existing Acronis covered articles from their information technology systems.",
+        "The notice is scheduled to be published in the Federal Register on October 30, 2026.",
+        "This matter does not concern U.S. visa, immigration, or citizenship policy."
+      ],
+      "who": "Federal civilian executive branch agencies and contractors supplying or using Acronis products are affected.",
+      "action": "Not applicable to visa or immigration applicants."
+    },
+    "es": {
+      "title": "DHS ordena excluir y retirar los productos de Acronis de los sistemas federales civiles",
+      "summary": "El Departamento de Seguridad Nacional (DHS) presento un aviso para su publicacion en el que informa que el Secretario de Seguridad Nacional ordeno excluir a Acronis AG y sus entidades afiliadas de las adquisiciones de tecnologia de la informacion del poder ejecutivo civil federal, y retirar sus productos de los sistemas existentes. La medida se basa en la Ley de Seguridad de la Cadena de Suministro de Adquisiciones Federales de 2018.",
+      "points": [
+        "La orden abarca a Acronis, Inc., Acronis SCS y entidades afiliadas segun la definicion de las regulaciones federales de adquisiciones.",
+        "Los productos cubiertos quedan excluidos de futuras adquisiciones de agencias civiles federales.",
+        "Las agencias deben retirar los productos de Acronis ya instalados en sus sistemas de tecnologia de la informacion.",
+        "El aviso esta programado para publicarse en el Federal Register el 30 de octubre de 2026.",
+        "Este asunto no se relaciona con la politica de visas, inmigracion o ciudadania de Estados Unidos."
+      ],
+      "who": "Afecta a las agencias civiles del poder ejecutivo federal y a los contratistas que suministran o usan productos de Acronis.",
+      "action": "No aplica a solicitantes de visa o inmigracion."
+    },
+    "zh": {
+      "title": "DHS下令将Acronis产品从联邦民用行政部门信息技术系统及采购中排除并移除",
+      "summary": "美国国土安全部(DHS)提交了一份拟于联邦公报刊登的通知,宣布国土安全部长已下令将Acronis AG及其关联实体提供的信息技术产品排除在联邦民用行政部门采购之外,并要求从现有系统中移除这些产品。此举依据2018年《联邦采购供应链安全法》授权。",
+      "points": [
+        "该命令涵盖Acronis, Inc.、Acronis SCS及联邦采购法规定义下的关联实体。",
+        "受管制产品将被排除在未来联邦民用机构采购之外。",
+        "各机构须将已安装的Acronis相关产品从其信息技术系统中移除。",
+        "该通知预计于2026年10月30日在联邦公报上刊登。",
+        "此事项与美国签证、移民或入籍政策没有直接关系。"
+      ],
+      "who": "受影响的是联邦民用行政部门机构,以及提供或使用Acronis产品的承包商。",
+      "action": "与签证或移民申请人无关。"
+    },
+    "ja": {
+      "title": "DHS、Acronis製品を連邦民間機関の調達およびITシステムから排除・撤去するよう命令",
+      "summary": "米国国土安全保障省(DHS)は、国土安全保障長官がAcronis AGおよび関連企業の情報技術製品を連邦民間行政府の調達から排除し、既存の連邦民間機関のITシステムから撤去するよう命じたとする通知を、連邦官報への掲載に向けて提出しました。この措置は2018年連邦調達サプライチェーンセキュリティ法に基づくものです。",
+      "points": [
+        "命令の対象はAcronis, Inc.、Acronis SCS、および連邦調達規則で定義される関連企業です。",
+        "対象製品は今後の連邦民間機関の調達から排除されます。",
+        "各機関は既存のAcronis関連製品を情報技術システムから撤去する必要があります。",
+        "この通知は2026年10月30日に連邦官報に掲載される予定です。",
+        "本件は米国のビザ、移民、市民権政策とは直接関係ありません。"
+      ],
+      "who": "連邦民間行政府機関およびAcronis製品を供給または使用する契約業者が対象です。",
+      "action": "ビザや移民申請者には該当しません。"
+    }
+  },
+  "added": "2026-10-28T20:22Z",
+  "model": "claude-sonnet-5",
+  "agency": "dhs",
+  "topics": [
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "Billing Code 9111-LF-P DEPARTMENT OF HOMELAND SECURITY [Docket No. DHS-2026-0694] Notice of Order Regarding Exclusion and Removal of Acronis Products from Federal Civilian Executive Branch Information Technology Systems and Procurements AGENCY: Department of Homeland Security (DHS)."
+      },
+      {
+        "t": "p",
+        "x": "ACTION: Notice of order."
+      },
+      {
+        "t": "p",
+        "x": "SUMMARY: The Department of Homeland Security is publishing notice of the Secretary of Homeland Security’s issuance of an order excluding Acronis AG and all affiliated entities, as well as any covered articles directly or indirectly supplied by them (Acronis covered articles) from federal civilian agency procurements; and, removing all Acronis covered articles from civilian agency information technology systems."
+      },
+      {
+        "t": "p",
+        "x": "FOR FURTHER INFORMATION CONTACT: FASCSA Order Implementation Team CISA Cybersecurity Division, fascsa.orders@cisa.dhs.gov."
+      },
+      {
+        "t": "p",
+        "x": "SUPPLEMENTARY INFORMATION: Pursuant to the authority granted by the Federal Acquisition Supply Chain Security Act of 2018, 41 U.S.C. 1321-1328, and implementing regulations at 41 CFR 201-1, following review of the Federal Acquisition Security Council Recommendation and affiliated evidence, the Secretary of Homeland Security has ordered: (1) exclusion of information technology products developed by Acronis, Inc., Acronis SCS, and affiliated entities as defined in 48 C.F.R. § 2.101, from federal civilian executive branch procurements; and (2) to remove said information technology products from federal civilian executive branch information technology systems."
+      },
+      {
+        "t": "p",
+        "x": "A copy of the signed order is contained in the accompanying Appendix and can be found at https://www.regulations.gov by searching for DHS Docket Number DHS-2026-0694. Kateland R. Jackson, Principal Deputy General Counsel, U.S. Department of Homeland Security."
+      },
+      {
+        "t": "p",
+        "x": "This document is scheduled to be published in the Federal Register on 2026-10-30 and available online at https://www.federalregister.gov/d/2026-22215, and on https://govinfo.gov APPENDIX"
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026-22215 Filed: 10/28/2026 4:15 pm; Publication Date: 10/30/2026]"
+      }
+    ],
+    "fetched": "2026-10-28T20:22Z",
+    "from": "pi-pdf",
+    "chars": 2028
+  },
+  "full": {
+    "ko": [
+      "발행 부호 9111-LF-P 국토안보부(DHS) [문서번호 DHS-2026-0694] 연방 민간 행정부 정보기술 시스템 및 조달에서 Acronis 제품의 배제 및 제거에 관한 명령 공고 기관: 국토안보부(Department of Homeland Security, DHS).",
+      "조치: 명령 공고.",
+      "요약: 국토안보부는 국토안보부 장관이 Acronis AG 및 그 모든 계열사, 그리고 이들이 직접 또는 간접적으로 공급하는 대상 품목(이하 Acronis 대상 품목)을 연방 민간 기관 조달에서 배제하고, 연방 민간 기관 정보기술 시스템에서 모든 Acronis 대상 품목을 제거하도록 명령을 발령하였음을 공고합니다.",
+      "추가 정보 문의처: FASCSA 명령 이행팀, 사이버보안 및 인프라보안국(CISA) 사이버보안국, fascsa.orders@cisa.dhs.gov.",
+      "보충 정보: 2018년 연방조달 공급망 보안법(Federal Acquisition Supply Chain Security Act of 2018), 41 U.S.C. 1321-1328 및 그 시행규정인 41 CFR 201-1에 의하여 부여된 권한에 따라, 연방조달보안위원회(Federal Acquisition Security Council)의 권고 및 관련 증거를 검토한 후, 국토안보부 장관은 다음과 같이 명령하였습니다. (1) 48 C.F.R. § 2.101에서 정의된 Acronis, Inc., Acronis SCS 및 그 계열사가 개발한 정보기술 제품을 연방 민간 행정부 조달에서 배제할 것, 그리고 (2) 해당 정보기술 제품을 연방 민간 행정부 정보기술 시스템에서 제거할 것.",
+      "서명된 명령서 사본은 첨부된 부록에 수록되어 있으며, https://www.regulations.gov 에서 국토안보부 문서번호 DHS-2026-0694를 검색하여 확인할 수 있습니다. Kateland R. Jackson, 수석 부법률고문, 미국 국토안보부.",
+      "본 문서는 2026년 10월 30일 연방관보(Federal Register)에 게재될 예정이며, https://www.federalregister.gov/d/2026-22215 및 https://govinfo.gov 에서 온라인으로 확인할 수 있습니다. 부록",
+      "[연방관보 문서번호 2026-22215 제출: 2026년 10월 28일 오후 4시 15분; 공고일: 2026년 10월 30일]"
+    ],
+    "es": [
+      "Código de Facturación 9111-LF-P DEPARTAMENTO DE SEGURIDAD NACIONAL [Expediente No. DHS-2026-0694] Aviso de Orden Relativa a la Exclusión y Eliminación de Productos de Acronis de los Sistemas de Tecnología de la Información y Adquisiciones de la Rama Ejecutiva Civil Federal AGENCIA: Departamento de Seguridad Nacional (DHS).",
+      "ACCIÓN: Aviso de orden.",
+      "RESUMEN: El Departamento de Seguridad Nacional publica el presente aviso de la emisión, por parte de la Secretaria de Seguridad Nacional, de una orden que excluye a Acronis AG y a todas las entidades afiliadas, así como a cualquier artículo cubierto suministrado directa o indirectamente por ellas (artículos cubiertos de Acronis), de las adquisiciones de las agencias civiles federales; y que elimina todos los artículos cubiertos de Acronis de los sistemas de tecnología de la información de las agencias civiles.",
+      "PARA MAYOR INFORMACIÓN, COMUNICARSE CON: Equipo de Implementación de Órdenes FASCSA, División de Ciberseguridad de CISA, fascsa.orders@cisa.dhs.gov.",
+      "INFORMACIÓN COMPLEMENTARIA: De conformidad con la autoridad conferida por la Ley de Seguridad de la Cadena de Suministro de Adquisiciones Federales de 2018 (Federal Acquisition Supply Chain Security Act of 2018), 41 U.S.C. 1321-1328, y los reglamentos de implementación establecidos en 41 CFR 201-1, tras revisar la Recomendación del Consejo de Seguridad de la Cadena de Suministro de Adquisiciones Federales y las pruebas conexas, la Secretaria de Seguridad Nacional ha ordenado: (1) la exclusión de los productos de tecnología de la información desarrollados por Acronis, Inc., Acronis SCS, y las entidades afiliadas según se definen en 48 C.F.R. § 2.101, de las adquisiciones de la rama ejecutiva civil federal; y (2) la eliminación de dichos productos de tecnología de la información de los sistemas de tecnología de la información de la rama ejecutiva civil federal.",
+      "Una copia de la orden firmada se encuentra en el Apéndice adjunto y puede consultarse en https://www.regulations.gov buscando el Número de Expediente del DHS DHS-2026-0694. Kateland R. Jackson, Asesora Jurídica General Adjunta Principal, Departamento de Seguridad Nacional de los Estados Unidos.",
+      "Está previsto que este documento se publique en el Federal Register el 30/10/2026 y esté disponible en línea en https://www.federalregister.gov/d/2026-22215, y en https://govinfo.gov APÉNDICE",
+      "[Documento del FR 2026-22215 Presentado: 28/10/2026 4:15 pm; Fecha de Publicación: 30/10/2026]"
+    ],
+    "zh": [
+      "美国政府文件编号 9111-LF-P 国土安全部 [案卷编号 DHS-2026-0694] 关于将Acronis产品排除出联邦文职行政部门信息技术系统及采购活动的命令通知 机构:国土安全部(DHS)。",
+      "行动:命令通知。",
+      "摘要:国土安全部现发布通知,公布国土安全部部长发布的一项命令,该命令将Acronis AG及其所有关联实体,以及由其直接或间接提供的任何受管制物项(以下称“Acronis受管制物项”)排除在联邦文职机构采购活动之外;并将所有Acronis受管制物项从文职机构信息技术系统中移除。",
+      "如需进一步信息,请联系:FASCSA命令实施小组,网络安全与基础设施安全局(CISA)网络安全部,电子邮箱:fascsa.orders@cisa.dhs.gov。",
+      "补充信息:根据《2018年联邦采购供应链安全法》(41 U.S.C. 1321-1328)及其实施法规41 CFR 201-1所授予的权力,在审查联邦采购安全委员会建议及相关证据后,国土安全部部长已下令:(1)将Acronis, Inc.、Acronis SCS及48 C.F.R. § 2.101所界定的关联实体所开发的信息技术产品排除在联邦文职行政部门采购活动之外;并(2)将上述信息技术产品从联邦文职行政部门信息技术系统中移除。",
+      "已签署命令的副本载于随附附录,亦可通过访问 https://www.regulations.gov 并检索国土安全部案卷编号DHS-2026-0694查阅。凯特兰德·R·杰克逊(Kateland R. Jackson),美国国土安全部首席副总法律顾问。",
+      "本文件定于2026年10月30日在《联邦公报》上公布,可在线查阅网址为 https://www.federalregister.gov/d/2026-22215,亦可在 https://govinfo.gov 查阅 附录",
+      "[联邦公报文件编号 2026-22215 存档时间:2026年10月28日下午4:15;公布日期:2026年10月30日]"
+    ],
+    "ja": [
+      "Billing Code 9111-LF-P 国土安全保障省(DHS) [docket番号 DHS-2026-0694] アクロニス製品の連邦文民行政府情報技術システム及び調達からの排除及び撤去に関する命令の告示 機関:国土安全保障省(DHS)。",
+      "措置:命令の告示。",
+      "概要:国土安全保障省は、国土安全保障長官が、アクロニス・AG及びその全ての関連会社、並びにこれらが直接又は間接に供給する対象物品(以下「アクロニス対象物品」という。)を連邦文民機関の調達から排除し、かつ、文民機関の情報技術システムからアクロニス対象物品を全て撤去する命令を発出したことを告示する。",
+      "詳細に関する問い合わせ先:FASCSA命令実施チーム、CISAサイバーセキュリティ部門、fascsa.orders@cisa.dhs.gov。",
+      "補足情報:2018年連邦調達サプライチェーンセキュリティ法(41 U.S.C. 1321-1328)及びその施行規則である41 CFR 201-1に基づき付与された権限に従い、連邦調達セキュリティ評議会の勧告及びこれに付随する証拠の審査を経て、国土安全保障長官は次のとおり命令した。(1)アクロニス・インコーポレイテッド、アクロニスSCS、及び48 C.F.R. § 2.101に定義される関連会社が開発した情報技術製品を、連邦文民行政府の調達から排除すること。(2)当該情報技術製品を連邦文民行政府の情報技術システムから撤去すること。",
+      "署名済み命令の写しは添付の附属書に収録されており、https://www.regulations.gov においてDHS docket番号DHS-2026-0694を検索することにより閲覧可能である。ケイトランド・R・ジャクソン、国土安全保障省首席副法律顧問。",
+      "本書類は2026年10月30日付けで連邦官報(Federal Register)に掲載される予定であり、https://www.federalregister.gov/d/2026-22215 及び https://govinfo.gov においてオンラインで閲覧可能である。附属書",
+      "[FR Doc. 2026-22215 提出日時:2026年10月28日午後4時15分、掲載日:2026年10月30日]"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

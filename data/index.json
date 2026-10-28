@@ -1,5 +1,124 @@
 [
   {
+    "id": "f8197a171961",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-texas",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Texas",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-28T20:28Z"
+  },
+  {
+    "id": "920ec57c9539",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/28/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Voter Fraud",
+      "ICE",
+      "Enforcement"
+    ],
+    "added": "2026-10-28T20:27Z"
+  },
+  {
+    "id": "6eb9b1e4454d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-ohio",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Ohio",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-28T20:25Z"
+  },
+  {
+    "id": "d96fdfb1fbbf",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/28/sanctuary-insanity-dhs-slams-new-york-sanctuary-politicians-releasing-illegal-alien",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Sanctuary Cities",
+      "ICE Detainers",
+      "Enforcement"
+    ],
+    "added": "2026-10-28T20:23Z"
+  },
+  {
+    "id": "9634ff08e9dc",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-22215/order-exclusion-and-removal-of-acronis-products-from-federal-civilian-executive-branch-information",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "Acronis",
+      "Cybersecurity",
+      "Federal Procurement"
+    ],
+    "added": "2026-10-28T20:22Z"
+  },
+  {
+    "id": "f0c913f57cb0",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/suburban-chicago-man-sentenced-for-staging-robberies-to-help-others-fraudulently-apply-for",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "U Visa",
+      "Visa Fraud",
+      "USCIS",
+      "Sentencing"
+    ],
+    "added": "2026-10-28T20:21Z"
+  },
+  {
     "id": "8186198d2a9d",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/27/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
