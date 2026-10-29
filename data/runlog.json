@@ -1,5 +1,29 @@
 [
   {
+    "t": "2026-10-29T01:04:08Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40797661858",
+    "found": 1,
+    "added": [
+      {
+        "id": "284060f6d825",
+        "source": "dhs_news",
+        "title": "ICE, 살인 및 아동 성범죄 등으로 유죄 선고받은 불법체류 외국인 5명 체포 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 1,
+      "left": 0
+    },
+    "cost": 0.1225,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-28T20:29:44Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40762019125",

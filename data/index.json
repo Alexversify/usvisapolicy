@@ -1,5 +1,24 @@
 [
   {
+    "id": "284060f6d825",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/28/worst-worst-ice-arrests-murderers-pedophiles-and-violent-assailants",
+    "published": "2026-10-28",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-29T01:03Z"
+  },
+  {
     "id": "f8197a171961",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/28/dhs-highlights-worst-illegal-aliens-arrested-texas",
