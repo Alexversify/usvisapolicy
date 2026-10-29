@@ -1,5 +1,47 @@
 [
   {
+    "id": "8d37af9ef757",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/29/under-president-trumps-leadership-uscis-takes-unprecedented-22-million-enforcement",
+    "published": "2026-10-29",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "uscis",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "employment"
+    ],
+    "tags": [
+      "Enforcement",
+      "TPS",
+      "EAD",
+      "Parole",
+      "NTA"
+    ],
+    "added": "2026-10-29T18:34Z"
+  },
+  {
+    "id": "80c3cba8caef",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/29/dhs-highlights-worst-illegal-aliens-arrested-south-carolina",
+    "published": "2026-10-29",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "South Carolina"
+    ],
+    "added": "2026-10-29T18:32Z"
+  },
+  {
     "id": "a9b8f26c55d4",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",

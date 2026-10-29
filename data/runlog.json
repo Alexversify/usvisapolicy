@@ -1,5 +1,34 @@
 [
   {
+    "t": "2026-10-29T18:38:00Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40931345424",
+    "found": 2,
+    "added": [
+      {
+        "id": "80c3cba8caef",
+        "source": "dhs_news",
+        "title": "DHS, 사우스캐롤라이나서 체포된 중범죄 전력 불법체류자 사례 공개"
+      },
+      {
+        "id": "8d37af9ef757",
+        "source": "dhs_news",
+        "title": "USCIS, 2025년 1월 이후 220만 건 이민 집행 조치 발표, TPS·취업허가·패롤 정책 변경 거론"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 1,
+      "left": 0
+    },
+    "cost": 0.7614,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-29T10:07:35Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40854269152",
