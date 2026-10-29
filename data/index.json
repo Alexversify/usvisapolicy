@@ -1,5 +1,24 @@
 [
   {
+    "id": "a9b8f26c55d4",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+    "published": "2026-10-29",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "UFLPA",
+      "Forced Labor",
+      "Trade"
+    ],
+    "added": "2026-10-29T10:04Z"
+  },
+  {
     "id": "284060f6d825",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/28/worst-worst-ice-arrests-murderers-pedophiles-and-violent-assailants",
