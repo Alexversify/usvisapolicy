@@ -1,5 +1,39 @@
 [
   {
+    "t": "2026-10-30T18:08:54Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41103319311",
+    "found": 3,
+    "added": [
+      {
+        "id": "765faa74be4f",
+        "source": "dhs_news",
+        "title": "DHS, 살인·강간·아동성범죄 전과 불법체류자 체포 발표"
+      },
+      {
+        "id": "01c96c544a05",
+        "source": "dhs_news",
+        "title": "DHS, 플로리다에서 체포된 '최악의 불법체류자' 사례 공개"
+      },
+      {
+        "id": "77f76ad8371c",
+        "source": "dhs_news",
+        "title": "ICE, 메릴랜드 10대 소녀 흉기 피습 용의자에 구금 요청서 발부"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.3682,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-30T10:07:31Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41038143662",

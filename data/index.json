@@ -1,5 +1,63 @@
 [
   {
+    "id": "77f76ad8371c",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/30/ice-lodges-detainer-illegal-alien-charged-attempted-murder-and-kidnapping-after",
+    "published": "2026-10-30",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Sanctuary Policy"
+    ],
+    "added": "2026-10-30T18:08Z"
+  },
+  {
+    "id": "01c96c544a05",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/30/dhs-highlights-worst-illegal-aliens-arrested-florida",
+    "published": "2026-10-30",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Florida",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-30T18:06Z"
+  },
+  {
+    "id": "765faa74be4f",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/10/30/worst-worst-ice-arrests-murderers-rapists-and-pedophiles",
+    "published": "2026-10-30",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-10-30T18:04Z"
+  },
+  {
     "id": "4ef1beb34f87",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/29/sanctuary-insanity-ice-arrests-illegal-alien-released-sanctuary-politicians",
