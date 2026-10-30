@@ -1,5 +1,49 @@
 [
   {
+    "t": "2026-10-30T01:14:25Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40983523153",
+    "found": 5,
+    "added": [
+      {
+        "id": "7a5756e5382b",
+        "source": "state_press",
+        "title": "미 국무부, 이주 캬라반 조직자 등에 비자 제한 조치"
+      },
+      {
+        "id": "b87180cb6969",
+        "source": "uscis_news",
+        "title": "USCIS, 2025년 1월 이후 220만 건 이민 집행 조치 발표"
+      },
+      {
+        "id": "04870e64caa9",
+        "source": "dhs_news",
+        "title": "ICE, 살인·성폭행·마약밀매 전과자 등 '최악의 범죄자' 불법체류자 체포"
+      },
+      {
+        "id": "b86aad5b06bc",
+        "source": "dhs_news",
+        "title": "ICE, 텍사스 전역 'Lone Star Mission' 작전으로 열흘간 4,000명 이상 체포"
+      },
+      {
+        "id": "4ef1beb34f87",
+        "source": "dhs_news",
+        "title": "ICE, 캘리포니아 새크라멘터리 정책으로 석방됐던 불법체류자 로스앤젤레스서 재체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.7893,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
+      "visa_bulletin": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy'"
+    }
+  },
+  {
     "t": "2026-10-29T18:38:00Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/40931345424",
