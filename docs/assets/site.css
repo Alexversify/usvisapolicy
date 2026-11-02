@@ -72,6 +72,16 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 :root:not([data-theme="light"]) .badge.cat-enforcement{background:#2c2240;color:#c3a6f2}}
 .search{flex:1 1 220px;min-width:0;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font:inherit;font-size:14px;padding:8px 12px;border-radius:8px}
 .list{list-style:none;margin:0;padding:8px 0 0}
+.pager{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:18px 0 6px;font-size:14px;color:var(--muted)}
+.pg-btns{display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.pg{min-width:36px;height:36px;padding:0 10px;border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:14px;border-radius:8px;cursor:pointer}
+.pg[aria-current="page"]{background:var(--ink);border-color:var(--ink);color:var(--paper);font-weight:700}
+.pg:disabled{opacity:.4;cursor:default}
+.pg-gap{padding:0 4px;color:var(--faint)}
+.pg-per select{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 8px;border-radius:8px;margin-left:4px}
+@media (max-width:520px){.pager{justify-content:center}.pg-total{width:100%;text-align:center}}
+/* iOS 등이 숫자·주소를 자동 링크로 바꾸지 않게 합니다. */
+a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font:inherit !important}
 .card{display:grid;grid-template-columns:92px 1fr;gap:16px;padding:20px 0;border-bottom:1px solid var(--hair)}
 .card time{font-size:13px;color:var(--faint);font-variant-numeric:tabular-nums;padding-top:3px}
 .card h2{font-size:18px;line-height:1.4;margin:4px 0 6px;letter-spacing:-.015em}
