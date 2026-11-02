@@ -1,5 +1,27 @@
 [
   {
+    "id": "5821b97332b0",
+    "source": "visa_bulletin",
+    "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html",
+    "published": "2026-11-01",
+    "effective_date": "2026-11-01",
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "visa_bulletin",
+      "family",
+      "employment"
+    ],
+    "tags": [
+      "Visa Bulletin",
+      "Family-Sponsored",
+      "Employment-Based",
+      "EB-5"
+    ],
+    "added": "2026-11-02T10:53Z"
+  },
+  {
     "id": "77f76ad8371c",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/10/30/ice-lodges-detainer-illegal-alien-charged-attempted-murder-and-kidnapping-after",
@@ -2317,6 +2339,29 @@
       "enforcement",
       "citizenship"
     ]
+  },
+  {
+    "id": "687d58a7b64d",
+    "source": "visa_bulletin",
+    "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html",
+    "published": "2026-10-01",
+    "effective_date": "2026-10-01",
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "visa_bulletin",
+      "family",
+      "employment"
+    ],
+    "tags": [
+      "Visa Bulletin",
+      "Green Card",
+      "Priority Dates",
+      "EB-5",
+      "Family-Sponsored"
+    ],
+    "added": "2026-11-02T10:55Z"
   },
   {
     "id": "807179a8adaa",
