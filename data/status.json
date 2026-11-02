@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-02T11:03Z",
+  "checked": "2026-11-02T11:16Z",
   "sources": {
     "uscis_news": {
       "ok": true,
@@ -19,12 +19,12 @@
       "ok": false,
       "items": 0,
       "error": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])",
-      "fail_streak": 156,
+      "fail_streak": 157,
       "alert": false
     },
     "visa_bulletin": {
       "ok": true,
-      "items": 2,
+      "items": 3,
       "error": null,
       "via": "visacal",
       "fail_streak": 0,
