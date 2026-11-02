@@ -48,16 +48,11 @@ sources:
   visa_bulletin:
     enabled: true
     label: Visa Bulletin
-    # GitHub Actions 서버는 Cloudflare 확인 화면에 막힙니다. 막히면 인터넷 아카이브 최신 사본을 읽습니다.
-    # 차단이 알려진 소스라 연속 실패해도 알림을 보내지 않습니다.
-    alert: false
-    archive_fallback: true
-    archive_max_age_days: 14
-    list_urls:
-      - https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
-    link_pattern: "/visa-bulletin/20\\d\\d/visa-bulletin-for-[a-z]+-20\\d\\d\\.html"
+    # 국무부 사이트는 서버 접속을 보안 확인으로 막아(우회하지 않음) visacal.com 이 국무부 원문에서 옮겨
+    # 검증해 둔 데이터를 씁니다. visacal 에 새 달 문호가 들어오면 다음 실행에서 5개 언어 기사로 게시합니다.
+    mirror_base: https://raw.githubusercontent.com/Alexversify/visacal/main/data/visa_bulletin
     # 최신 몇 개월치만 봅니다.
-    max_items: 2
+    max_items: 3
 
   uscis_vb_chart:
     enabled: true
