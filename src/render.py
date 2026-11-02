@@ -22,7 +22,7 @@ from xml.sax.saxutils import escape as xesc
 import yaml
 
 from src import assets, store
-from src import fulltext, taxonomy
+from src import fulltext, taxonomy, vb_page
 from src.i18n import AGENCY_ORDER, CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, TOPIC_ORDER, agency, cat, src, t, topic
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -99,10 +99,35 @@ def topbar(sc: dict[str, Any], lang: str, langs: list[str], up: str, lang_paths:
         f'<a href="{up}{lang_paths[l]}" data-lang="{l}" hreflang="{HTML_LANG[l]}" aria-current="{str(l == lang).lower()}">{e(LANG_LABEL[l])}</a>'
         for l in langs if l in lang_paths
     )
+    vb = ""
+    if VB_STATE["recs"]:
+        cur = ' aria-current="page"' if VB_STATE.get("current") else ""
+        vb = f'<a class="navlink" href="{up}{lang}/visa-bulletin/"{cur}>{e(vb_page.t("nav", lang))}</a>'
     return f"""<header class="top"><div class="wrap">
 <a class="brand" href="{up}{lang}/">{assets.LOGO}<span>{e(title)}</span></a>
-<nav class="langs" aria-label="Language">{links}</nav>
+{vb}<nav class="langs" aria-label="Language">{links}</nav>
 </div></header>"""
+
+
+# 비자 문호 데이터 (render_all 이 채움). recs: 달별 기록, by_url: 국무부 원문 주소 -> 달 키, art: 달 키 -> 기사 id
+VB_STATE: dict[str, Any] = {"recs": [], "by_url": {}, "art": {}, "current": False}
+
+
+def page_vb(sc: dict[str, Any], lang: str, langs: list[str], rec: dict[str, Any], updated: str, is_index: bool) -> str:
+    title = (sc.get("site") or {}).get("title", "US Visa Policy")
+    y, m = int(rec["year"]), int(rec["month"])
+    name = vb_page.month_label(y, m, lang)
+    fname = "" if is_index else f"{rec['key']}.html"
+    lang_paths = {l: f"{l}/visa-bulletin/{fname}" for l in langs}
+    out = [head(sc, lang, f"{vb_page.t('h1', lang).format(m=name)} · {title}", vb_page.t("desc", lang).format(m=name),
+                lang_paths[lang], langs, 2, lang_paths), body_open(sc, lang)]
+    VB_STATE["current"] = True
+    out.append(topbar(sc, lang, langs, "../../", lang_paths))
+    VB_STATE["current"] = False
+    aid = VB_STATE["art"].get(rec["key"])
+    out.append(vb_page.page_body(lang, rec, VB_STATE["recs"], "../../", f"../news/{aid}.html" if aid else None))
+    out.append(footer(sc, lang, "../../", updated))
+    return "\n".join(out)
 
 
 def feedback(sc: dict[str, Any], lang: str) -> str:
@@ -259,6 +284,16 @@ def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[s
     return "\n".join(out)
 
 
+def vb_link(a: dict[str, Any], lang: str) -> str:
+    """비자 문호 기사에서 그 달 문호 표 페이지로."""
+    key = VB_STATE["by_url"].get(a.get("url")) if a.get("source") == "visa_bulletin" else None
+    if not key:
+        return ""
+    rec = next((r for r in VB_STATE["recs"] if r["key"] == key), None)
+    label = vb_page.t("h1", lang).format(m=vb_page.month_label(int(rec["year"]), int(rec["month"]), lang)) if rec else vb_page.t("nav", lang)
+    return f'<a class="cta" href="../visa-bulletin/{e(key)}.html">{e(label)} →</a>'
+
+
 def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, Any], updated: str) -> str:
     L = a["langs"][lang]
     title = (sc.get("site") or {}).get("title", "US Visa Policy")
@@ -302,7 +337,7 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
 <a class="btn" href="{e(a['url'])}" rel="noopener" target="_blank">{e(t('original', lang))} ↗</a>
 <a class="arch" href="https://web.archive.org/web/{e(a['url'])}" rel="noopener" target="_blank">{e(t('archived', lang))}</a>
 <p class="note">{e(t('ai_note', lang))}</p></div>
-{cta}{ad}
+{vb_link(a, lang)}{cta}{ad}
 </article>
 <script type="application/ld+json">{ld}</script>
 </main>""")
@@ -361,6 +396,10 @@ def sitemap(sc: dict[str, Any], langs: list[str], arts: list[dict[str, Any]]) ->
             rows.append(f"<url><loc>{base}/{p}</loc>{lm}{alts}</url>")
 
     entry({l: f"{l}/" for l in langs}, dt.date.today().isoformat())
+    for i, r in enumerate(VB_STATE["recs"]):
+        if i == len(VB_STATE["recs"]) - 1:
+            entry({l: f"{l}/visa-bulletin/" for l in langs}, dt.date.today().isoformat())
+        entry({l: f"{l}/visa-bulletin/{r['key']}.html" for l in langs}, f"{r['year']}-{int(r['month']):02d}-01")
     for a in arts:
         entry({l: f"{l}/news/{a['id']}.html" for l in langs if l in a["langs"]}, a.get("published"))
     return ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
@@ -409,6 +448,16 @@ def render_all(cfg: dict[str, Any]) -> str:
     (DOCS / "assets" / "site.css").write_text(assets.CSS.strip() + "\n", encoding="utf-8")
     (DOCS / "assets" / "site.js").write_text(assets.JS.strip() + "\n", encoding="utf-8")
 
+    recs = vb_page.load_all()
+    VB_STATE["recs"] = recs
+    VB_STATE["by_url"] = {r.get("source_url"): r["key"] for r in recs if r.get("source_url")}
+    VB_STATE["art"] = {VB_STATE["by_url"][a["url"]]: a["id"] for a in arts if a.get("source") == "visa_bulletin" and a.get("url") in VB_STATE["by_url"]}
+    for l in langs:
+        if recs:
+            (DOCS / l / "visa-bulletin").mkdir(parents=True, exist_ok=True)
+            (DOCS / l / "visa-bulletin" / "index.html").write_text(page_vb(sc, l, langs, recs[-1], now, True), encoding="utf-8")
+            for r in recs:
+                (DOCS / l / "visa-bulletin" / f"{r['key']}.html").write_text(page_vb(sc, l, langs, r, now, False), encoding="utf-8")
     for l in langs:
         (DOCS / l / "news").mkdir(parents=True, exist_ok=True)
         (DOCS / l / "index.html").write_text(page_list(sc, l, langs, arts, sources_used, now), encoding="utf-8")

@@ -133,6 +133,12 @@ footer p{margin:4px 0;max-width:72ch}
 }
 """
 
+# 비자 문호 페이지 스타일
+from src.vb_page import CSS as _VB_CSS  # noqa: E402
+
+CSS = CSS + _VB_CSS
+
+
 JS = r"""
 (function(){
   // 목록 필터

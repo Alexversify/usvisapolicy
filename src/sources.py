@@ -12,6 +12,7 @@ from __future__ import annotations
 import datetime as dt
 import hashlib
 import html as html_lib
+import json
 import os
 import re
 from typing import Any
@@ -592,6 +593,18 @@ def collect_vb_mirror(key: str, cfg: dict[str, Any]) -> dict[str, Any]:
             col = {"row": "All Chargeability", "china": "China", "india": "India", "mexico": "Mexico", "philippines": "Philippines"}.get(c.get("col"), c.get("col"))
             changes.append(f"- {VB_CHART_TITLE.get(c.get('chart'), c.get('chart'))} / {VB_ROWS.get(c.get('row'), c.get('row'))} / {col}: "
                            f"{_vb_cell(c.get('a', ''))} -> {_vb_cell(c.get('b', ''))} ({c.get('kind')}, {c.get('d')} days)")
+        # 이 사이트의 비자 문호 페이지(src/vb_page.py)가 쓰도록 달별 데이터를 보관합니다.
+        try:
+            from src import store as _store
+
+            keep = {k: v for k, v in data.items() if k != "summary"}
+            out = _store.DATA / "visa_bulletin" / f"{ym}.json"
+            out.parent.mkdir(parents=True, exist_ok=True)
+            txt = json.dumps(keep, ensure_ascii=False, indent=1) + "\n"
+            if not out.exists() or out.read_text(encoding="utf-8") != txt:
+                out.write_text(txt, encoding="utf-8")
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{ym}: 저장 실패 {type(exc).__name__}")
         blocks = _vb_blocks(raw, charts)
         text = "\n".join(b["x"] for b in blocks)
         if changes:
