@@ -13,7 +13,8 @@ analytics:
   search_console: ""
 
 adsense:
-  client_id: ""
+  # 구글 애드센스 (visacal.com과 같은 계정). 자동 광고로 붙고 ads.txt 도 생성됩니다.
+  client_id: "ca-pub-1964223951103950"
   slots:
     article_bottom: ""
 
