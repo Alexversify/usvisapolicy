@@ -128,6 +128,10 @@ def patch(path: Path, pairs: list[tuple[str, str]]) -> bool:
     for old, new in pairs:
         if new in s:
             continue
+        # 이미 적용된 뒤 주변 코드가 바뀐 경우: 새로 넣는 줄이 모두 들어 있으면 적용된 것으로 봅니다.
+        added = [ln.strip() for ln in new.splitlines() if ln.strip() and ln not in old.splitlines()]
+        if added and old not in s and all(ln in s for ln in added):
+            continue
         n = s.count(old)
         if n != 1:
             sys.exit(f"{path.name}: 고칠 자리를 {n}곳 찾음 (1곳이어야 함): {old[:80]!r}")
