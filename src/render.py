@@ -59,6 +59,7 @@ def head(sc: dict[str, Any], lang: str, title: str, desc: str, path: str, langs:
     verify = f'<meta name="google-site-verification" content="{e(an["search_console"])}">' if an.get("search_console") else ""
     ads = sc.get("adsense") or {}
     ad_tag = (
+        f'<meta name="google-adsense-account" content="{e(ads["client_id"])}">'
         f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(ads["client_id"])}" crossorigin="anonymous"></script>'
         if ads.get("client_id") else ""
     )
@@ -422,5 +423,9 @@ def render_all(cfg: dict[str, Any]) -> str:
         (DOCS / "CNAME").write_text(domain + "\n", encoding="utf-8")
         (DOCS / "sitemap.xml").write_text(sitemap(sc, langs, arts), encoding="utf-8")
         (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /admin\nSitemap: https://{domain}/sitemap.xml\n", encoding="utf-8")
+    # 애드센스 판매자 확인 파일
+    pub = ((sc.get("adsense") or {}).get("client_id") or "").replace("ca-", "")
+    if pub:
+        (DOCS / "ads.txt").write_text(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     return f"docs/ 생성 완료: 기사 {len(arts)}건 x {len(langs)}개 언어"
