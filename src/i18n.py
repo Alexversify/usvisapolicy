@@ -110,7 +110,7 @@ TOPIC_LABEL: dict[str, dict[str, str]] = {
     "citizenship": {"ko": "시민권·귀화", "en": "Citizenship & naturalization", "es": "Ciudadanía y naturalización", "zh": "公民与入籍", "ja": "市民権・帰化"},
     "humanitarian": {"ko": "난민·망명·TPS", "en": "Refugees, asylum & TPS", "es": "Refugio, asilo y TPS", "zh": "难民·庇护·TPS", "ja": "難民・亡命・TPS"},
     "travel": {"ko": "입국·비자발급", "en": "Entry & visa issuance", "es": "Ingreso y emisión de visas", "zh": "入境与签证签发", "ja": "入国・ビザ発給"},
-    "visa_bulletin": {"ko": "비자블러틴", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
+    "visa_bulletin": {"ko": "비자 문호", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
     "fees": {"ko": "수수료", "en": "Fees", "es": "Tarifas", "zh": "费用", "ja": "手数料"},
     "enforcement": {"ko": "단속·추방·사기", "en": "Enforcement & fraud", "es": "Control y fraude", "zh": "执法·遣返·欺诈", "ja": "取締り・送還・不正"},
     "other": {"ko": "기타", "en": "Other", "es": "Otros", "zh": "其他", "ja": "その他"},
@@ -136,7 +136,7 @@ def cat(key: str, lang: str) -> str:
 SOURCE_LABEL: dict[str, dict[str, str]] = {
     "uscis_news": {"ko": "USCIS", "en": "USCIS", "es": "USCIS", "zh": "USCIS", "ja": "USCIS"},
     "dos_visa_news": {"ko": "국무부", "en": "State Dept.", "es": "Dpto. de Estado", "zh": "国务院", "ja": "国務省"},
-    "visa_bulletin": {"ko": "비자블러틴", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
+    "visa_bulletin": {"ko": "비자 문호", "en": "Visa Bulletin", "es": "Boletín de Visas", "zh": "签证公告", "ja": "ビザ・ブリテン"},
     "federal_register": {"ko": "연방관보", "en": "Federal Register", "es": "Registro Federal", "zh": "联邦公报", "ja": "連邦官報"},
     "presidential": {"ko": "대통령령", "en": "White House", "es": "Casa Blanca", "zh": "白宫", "ja": "大統領令"},
     "fr_public_inspection": {"ko": "연방관보 공개열람", "en": "Federal Register (Public Inspection)", "es": "Registro Federal (Inspección Pública)", "zh": "联邦公报（公开预览）", "ja": "連邦官報（事前公開）"},

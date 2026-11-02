@@ -480,3 +480,124 @@ def fetch_fr_text(url: str | None, limit: int = 14000, pdf_url: str | None = Non
         except Exception:  # noqa: BLE001
             return ""
     return ""
+
+
+# ---------------------------------------------------------------- 비자 문호 (Visa Bulletin)
+# travel.state.gov 는 서버 접속을 보안 확인으로 막습니다. 우회하지 않고, 같은 운영자의 visacal.com 이
+# 국무부 원문에서 옮겨 검증해 둔 데이터(공개 저장소 Alexversify/visacal data/visa_bulletin)를 가져옵니다.
+# visacal 이 새 달 문호를 넣으면 이 사이트도 다음 실행에서 기사로 올립니다.
+
+VB_MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
+             "August", "September", "October", "November", "December"]
+VB_COLS = ["All Chargeability Areas Except Those Listed", "CHINA-mainland born", "INDIA", "MEXICO", "PHILIPPINES"]
+VB_ROWS = {
+    "EB1": "1st", "EB2": "2nd", "EB3": "3rd", "EW": "Other Workers", "EB4": "4th",
+    "RW": "Certain Religious Workers", "EB5U": "5th Unreserved (including C5, T5, I5, R5)",
+    "EB5R": "5th Set Aside: Rural (20%)", "EB5H": "5th Set Aside: High Unemployment (10%)",
+    "EB5I": "5th Set Aside: Infrastructure (2%)",
+}
+VB_CHART_TITLE = {
+    "fam_final": "Final Action Dates for Family-Sponsored Preference Cases",
+    "fam_filing": "Dates for Filing Family-Sponsored Visa Applications",
+    "emp_final": "Final Action Dates for Employment-Based Preference Cases",
+    "emp_filing": "Dates for Filing of Employment-Based Visa Applications",
+}
+_MON3 = ["", "JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"]
+
+
+def _vb_cell(v: str) -> str:
+    """2021-01-22 -> 22JAN21 (원문 표기). C, U 는 그대로."""
+    m = re.fullmatch(r"(\d{4})-(\d{2})-(\d{2})", v or "")
+    return f"{m.group(3)}{_MON3[int(m.group(2))]}{m.group(1)[2:]}" if m else (v or "")
+
+
+def _vb_table(key: str, chart: dict[str, list[str]]) -> list[dict[str, str]]:
+    first = "Family-Sponsored" if key.startswith("fam") else "Employment-based"
+    rows = [{"t": "tr", "x": " | ".join([first] + VB_COLS)}]
+    for code, vals in chart.items():
+        rows.append({"t": "tr", "x": " | ".join([VB_ROWS.get(code, code)] + [_vb_cell(v) for v in vals])})
+    return rows
+
+
+def _vb_blocks(raw: str, charts: dict[str, dict[str, list[str]]]) -> list[dict[str, str]]:
+    """원문 문단은 그대로, 표는 검증된 데이터로 다시 그립니다 (복사본의 표 줄바꿈이 깨져 있어도 정확하게)."""
+    blocks: list[dict[str, str]] = []
+    cur, done = None, set()
+    chunks = [c.strip() for c in re.split(r"\n\s*\n", raw.replace("\r", "")) if c.strip()]
+    for ch in chunks:
+        if ch.startswith("Source:") or ch.startswith("(Text copied"):
+            continue
+        head = re.match(r"^[A-Z]\.\s+(FINAL ACTION DATES|DATES FOR FILING)[^\n]*(FAMILY|EMPLOYMENT)", ch)
+        if head:
+            cur = ("fam" if head.group(2) == "FAMILY" else "emp") + ("_final" if head.group(1).startswith("FINAL") else "_filing")
+            blocks.append({"t": "h", "x": re.sub(r"\s+", " ", ch)})
+            continue
+        if "\t" in ch or re.match(r"^(Family-|Employment-)", ch):
+            # 표 덩어리. 섹션마다 한 번만 검증 데이터로 넣습니다.
+            if cur and cur not in done and cur in charts:
+                blocks.extend(_vb_table(cur, charts[cur]))
+                done.add(cur)
+            continue
+        blocks.append({"t": "p", "x": re.sub(r"\s+", " ", ch)})
+    for key in ("fam_final", "fam_filing", "emp_final", "emp_filing"):
+        if key in charts and key not in done:
+            blocks.append({"t": "h", "x": VB_CHART_TITLE[key]})
+            blocks.extend(_vb_table(key, charts[key]))
+    return blocks
+
+
+def collect_vb_mirror(key: str, cfg: dict[str, Any]) -> dict[str, Any]:
+    base = cfg["mirror_base"].rstrip("/")
+    items, errors = [], []
+    today = dt.date.today()
+    # 목록 API(요청 한도 있음) 대신 달별 파일 주소를 직접 확인합니다. 국무부는 보통 전달 중순에 다음 달 문호를 냅니다.
+    back = int(cfg.get("max_items", 3))
+    months = []
+    for k in range(-back + 1, 3):
+        y, m = today.year, today.month + k
+        while m < 1:
+            y, m = y - 1, m + 12
+        while m > 12:
+            y, m = y + 1, m - 12
+        months.append(f"{y}-{m:02d}")
+    for ym in months:
+        try:
+            r = requests.get(f"{base}/{ym}.json", timeout=30, headers={"User-Agent": UA})
+            if r.status_code == 404:
+                continue
+            r.raise_for_status()
+            data = r.json()
+            rr = requests.get(f"{base}/raw/{ym}.txt", timeout=30, headers={"User-Agent": UA})
+            raw = rr.text if rr.ok else ""
+        except Exception as exc:  # noqa: BLE001
+            errors.append(f"{ym}: {type(exc).__name__}: {str(exc)[:120]}")
+            continue
+        charts = data.get("charts") or {}
+        if len(charts) < 4:
+            errors.append(f"{ym}: 표 {len(charts)}개 (4개여야 함)")
+            continue
+        y, m = int(data["year"]), int(data["month"])
+        url = data.get("source_url") or (
+            f"https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/{y + 1 if m >= 10 else y}/"
+            f"visa-bulletin-for-{VB_MONTHS[m].lower()}-{y}.html")
+        title = f"Visa Bulletin For {VB_MONTHS[m]} {y}"
+        start = dt.date(y, m, 1)
+        try:
+            fetched = dt.date.fromisoformat(str(data.get("fetched_at", ""))[:10])
+        except ValueError:
+            fetched = today
+        published = min(start, fetched, today).isoformat()
+        changes = []
+        for c in data.get("changes") or []:
+            col = {"row": "All Chargeability", "china": "China", "india": "India", "mexico": "Mexico", "philippines": "Philippines"}.get(c.get("col"), c.get("col"))
+            changes.append(f"- {VB_CHART_TITLE.get(c.get('chart'), c.get('chart'))} / {VB_ROWS.get(c.get('row'), c.get('row'))} / {col}: "
+                           f"{_vb_cell(c.get('a', ''))} -> {_vb_cell(c.get('b', ''))} ({c.get('kind')}, {c.get('d')} days)")
+        blocks = _vb_blocks(raw, charts)
+        text = "\n".join(b["x"] for b in blocks)
+        if changes:
+            text += f"\n\nCHANGES FROM THE PREVIOUS MONTH ({data.get('prev_key')}):\n" + "\n".join(changes)
+        items.append({
+            "id": item_id(url), "source": key, "url": url, "title": title, "published": published,
+            "prefetched_text": text, "original_blocks": blocks, "via": "visacal",
+        })
+    return {"items": items, "error": "; ".join(errors) or None}

@@ -21,7 +21,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src import fulltext, render, sources, store, taxonomy, translate  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-BROWSER_SOURCES = {"uscis_news", "uscis_policy_manual", "dos_visa_news", "visa_bulletin", "dhs_news", "state_press"}
+BROWSER_SOURCES = {"uscis_news", "uscis_policy_manual", "dos_visa_news", "dhs_news", "state_press"}
+# 비자 문호: visacal.com 이 국무부 원문에서 옮겨 둔 검증 데이터를 가져옵니다 (sources.collect_vb_mirror).
+VB_SOURCES = {"visa_bulletin"}
 FR_SOURCES = {"federal_register", "presidential"}
 PI_SOURCES = {"fr_public_inspection"}
 # 실패 사유별 재시도 상한. 30분마다 실행되므로 empty 48회는 약 하루.
@@ -42,6 +44,8 @@ def collect(cfg: dict[str, Any], browser: Any, since: dt.date, report: dict[str,
             if os.environ.get("BACKFILL"):
                 scfg = {**scfg, "max_pages": int((cfg.get("backfill") or {}).get("fr_max_pages", 20))}
             res = sources.collect_federal_register(key, scfg, since)
+        elif key in VB_SOURCES:
+            res = sources.collect_vb_mirror(key, scfg)
         elif key in PI_SOURCES:
             res = sources.collect_public_inspection(key, scfg)
         elif key in CHART_SOURCES:

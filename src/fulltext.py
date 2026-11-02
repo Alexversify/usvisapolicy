@@ -266,7 +266,10 @@ def fetch_original(a: dict[str, Any], browser: Any, item: dict[str, Any] | None,
     title = a.get("original_title") or ""
     blocks: list[dict[str, str]] = []
     via = ""
-    if "federalregister.gov" in url:
+    if (item or {}).get("original_blocks"):
+        # 수집 단계에서 원문을 이미 확보한 소스 (비자 문호)
+        blocks, via = list(item["original_blocks"]), item.get("via") or "source"
+    elif "federalregister.gov" in url:
         num = (item or {}).get("doc") or sources.fr_doc_number(url)
         if num:
             blocks, via = _fr_original(num, max_chars)
