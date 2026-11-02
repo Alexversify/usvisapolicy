@@ -7,11 +7,11 @@ HTML_LANG = {"ko": "ko", "en": "en", "es": "es", "zh": "zh-Hans", "ja": "ja"}
 
 T: dict[str, dict[str, str]] = {
     "tagline": {
-        "ko": "USCIS·국무부 이민 정책 업데이트를 5개 언어로",
-        "en": "USCIS and State Department policy updates in five languages",
-        "es": "Novedades de USCIS y el Departamento de Estado en cinco idiomas",
-        "zh": "以五种语言追踪 USCIS 与美国国务院移民政策更新",
-        "ja": "USCIS・米国務省の移民政策アップデートを5言語で",
+        "ko": "미국 비자·이민 정책, 가장 빠르고 정확하게",
+        "en": "U.S. visa and immigration policy, fast and accurate",
+        "es": "Política de visas e inmigración de EE. UU., rápida y precisa",
+        "zh": "美国签证与移民政策，又快又准",
+        "ja": "米国のビザ・移民政策を、速く正確に",
     },
     "latest": {"ko": "최신 업데이트", "en": "Latest updates", "es": "Últimas novedades", "zh": "最新动态", "ja": "最新アップデート"},
     "all_sources": {"ko": "모든 출처", "en": "All sources", "es": "Todas las fuentes", "zh": "全部来源", "ja": "すべての出典"},
