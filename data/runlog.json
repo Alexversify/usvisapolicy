@@ -1,5 +1,43 @@
 [
   {
+    "t": "2026-11-02T21:52:32Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41530932224",
+    "found": 4,
+    "added": [
+      {
+        "id": "68f6d8df2ab6",
+        "source": "uscis_news",
+        "title": "플로리다서 브라질.쿠바 출신 외국인 13명, 비자.결혼 사기 등 연방 기소"
+      },
+      {
+        "id": "8c749481f049",
+        "source": "dhs_news",
+        "title": "ICE, 주말 동안 중범죄 전력 외국인 15명 체포 발표"
+      },
+      {
+        "id": "5510b4ccb83b",
+        "source": "dhs_news",
+        "title": "DHS, 캔자스주에서 체포된 전과자 불법체류자 사례 공개"
+      },
+      {
+        "id": "d44db75c781b",
+        "source": "dhs_news",
+        "title": "DHS, 아이오와주에서 체포된 불법체류자 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6485,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-02T12:25:49Z",
     "kind": "manual",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41444312836",

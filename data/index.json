@@ -1,5 +1,85 @@
 [
   {
+    "id": "d44db75c781b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-iowa",
+    "published": "2026-11-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Iowa"
+    ],
+    "added": "2026-11-02T21:51Z"
+  },
+  {
+    "id": "5510b4ccb83b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/02/dhs-highlights-worst-illegal-aliens-arrested-kansas",
+    "published": "2026-11-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Kansas"
+    ],
+    "added": "2026-11-02T21:50Z"
+  },
+  {
+    "id": "8c749481f049",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/02/worst-worst-ice-arrests-murderers-pedophiles-and-rapists-over-weekend",
+    "published": "2026-11-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-02T21:48Z"
+  },
+  {
+    "id": "68f6d8df2ab6",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/homeland-security-task-force-investigation-yields-federal-charges-for-13-aliens-charged-with-fraud",
+    "published": "2026-11-02",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "family",
+      "employment"
+    ],
+    "tags": [
+      "Fraud",
+      "Visa Fraud",
+      "Marriage Fraud",
+      "Indictment",
+      "HSI"
+    ],
+    "added": "2026-11-02T21:46Z"
+  },
+  {
     "id": "5821b97332b0",
     "source": "visa_bulletin",
     "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html",
