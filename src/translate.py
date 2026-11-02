@@ -35,6 +35,7 @@ Rules:
 - For fees, always state who pays (applicant, employer, school, sponsor) and when, if the source says so.
 - Never use the em dash character. Use commas or periods.
 - In Korean, never use the word "아울러". Write natural Korean news style (~다/~습니다 consistent within an article, prefer ~습니다).
+- In Korean, write "Visa Bulletin" as "비자 문호" (never "비자 공고" or "비자블러틴"). Do not use Chinese characters such as 美, 中, 韓 in Korean text; write 미국, 중국, 한국.
 - Each language version must be written natively, not a word-for-word translation.
 
 Return ONLY a JSON object, no code fences, in this exact shape:
