@@ -520,11 +520,11 @@ T = {
     "btn_or": {"ko": "원문", "en": "Original", "es": "Original", "zh": "原文", "ja": "原文"},
     "btn_both": {"ko": "대조", "en": "Both", "es": "Ambos", "zh": "对照", "ja": "対訳"},
     "note": {
-        "ko": "공식 원문 전체를 {date}에 이 사이트에 보관했습니다. 원문 링크가 바뀌거나 삭제되어도 여기서 전문을 볼 수 있습니다. 번역은 AI가 원문 전체를 문단 단위로 옮긴 것이며 법적 효력은 영문 원문에만 있습니다.",
+        "ko": "공식 원문 전체를 {date}에 이 사이트에 보관했습니다. 원문 링크가 바뀌거나 삭제되어도 여기서 전문을 볼 수 있습니다. 번역은 원문 전체를 문단 단위로 옮긴 것이며 법적 효력은 영문 원문에만 있습니다.",
         "en": "The complete official text was archived on this site on {date}. It stays available here even if the source link changes or is removed.",
-        "es": "El texto oficial completo se archivó en este sitio el {date}. Sigue disponible aquí aunque el enlace original cambie o se elimine. La traducción fue hecha con IA párrafo por párrafo; solo el texto original en inglés tiene validez legal.",
-        "zh": "官方原文全文已于 {date} 保存在本站。即使原链接变更或被删除，仍可在此查看全文。译文由 AI 逐段翻译，仅英文原文具有法律效力。",
-        "ja": "公式原文の全文を {date} に本サイトに保存しました。元のリンクが変更・削除されても、ここで全文を確認できます。翻訳はAIが原文全体を段落ごとに訳したもので、法的効力は英語原文のみにあります。",
+        "es": "El texto oficial completo se archivó en este sitio el {date}. Sigue disponible aquí aunque el enlace original cambie o se elimine. La traducción se hizo párrafo por párrafo; solo el texto original en inglés tiene validez legal.",
+        "zh": "官方原文全文已于 {date} 保存在本站。即使原链接变更或被删除，仍可在此查看全文。译文为逐段翻译，仅英文原文具有法律效力。",
+        "ja": "公式原文の全文を {date} に本サイトに保存しました。元のリンクが変更・削除されても、ここで全文を確認できます。翻訳は原文全体を段落ごとに訳したもので、法的効力は英語原文のみにあります。",
     },
     "pending": {
         "ko": "전문 번역을 진행 중입니다. 아직 번역되지 않은 문단은 원문으로 표시됩니다.",

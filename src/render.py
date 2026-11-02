@@ -67,6 +67,7 @@ def head(sc: dict[str, Any], lang: str, title: str, desc: str, path: str, langs:
     return f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
@@ -245,6 +246,13 @@ def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[s
             )
         out.append("</ol>")
         out.append(f'<p class="empty" id="no-match" hidden>{e(t("no_match", lang))}</p>')
+        # 페이지 나누기. 버튼은 site.js 가 만듭니다. 스크립트가 없으면 전체 목록이 그대로 보입니다.
+        opts = "".join(f'<option value="{n}">{n}</option>' for n in (10, 20, 50, 100))
+        out.append(
+            f'<nav class="pager" aria-label="pages" data-prev="{e(t("pg_prev", lang))}" data-next="{e(t("pg_next", lang))}" data-total="{e(t("pg_total", lang))}" hidden>'
+            f'<span class="pg-total"></span><div class="pg-btns"></div>'
+            f'<label class="pg-per">{e(t("pg_per", lang))} <select data-per-page>{opts}</select></label></nav>'
+        )
     out.append("</main>")
     out.append(footer(sc, lang, "../", updated))
     return "\n".join(out)
@@ -308,6 +316,7 @@ def page_root(sc: dict[str, Any], langs: list[str], prefix: str = "") -> str:
     alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{base}/{l}/">' for l in langs) if base else ""
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
 <title>{e(site.get('title', 'US Visa Policy'))}</title>
 <meta name="description" content="{e(t('tagline', 'en'))}">{alts}
 <link rel="stylesheet" href="{prefix}assets/site.css?v={VER}">

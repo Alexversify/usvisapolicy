@@ -75,6 +75,16 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 :root:not([data-theme="light"]) .badge.cat-enforcement{background:#2c2240;color:#c3a6f2}}
 .search{flex:1 1 220px;min-width:0;border:1px solid var(--rule);background:var(--paper);color:var(--ink);font:inherit;font-size:14px;padding:8px 12px;border-radius:8px}
 .list{list-style:none;margin:0;padding:8px 0 0}
+.pager{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:18px 0 6px;font-size:14px;color:var(--muted)}
+.pg-btns{display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.pg{min-width:36px;height:36px;padding:0 10px;border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:14px;border-radius:8px;cursor:pointer}
+.pg[aria-current="page"]{background:var(--ink);border-color:var(--ink);color:var(--paper);font-weight:700}
+.pg:disabled{opacity:.4;cursor:default}
+.pg-gap{padding:0 4px;color:var(--faint)}
+.pg-per select{border:1px solid var(--rule);background:var(--paper);color:var(--ink-2);font:inherit;font-size:13px;padding:6px 8px;border-radius:8px;margin-left:4px}
+@media (max-width:520px){.pager{justify-content:center}.pg-total{width:100%;text-align:center}}
+/* iOS 등이 숫자·주소를 자동 링크로 바꾸지 않게 합니다. */
+a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font:inherit !important}
 .card{display:grid;grid-template-columns:92px 1fr;gap:16px;padding:20px 0;border-bottom:1px solid var(--hair)}
 .card time{font-size:13px;color:var(--faint);font-variant-numeric:tabular-nums;padding-top:3px}
 .card h2{font-size:18px;line-height:1.4;margin:4px 0 6px;letter-spacing:-.015em}
@@ -132,17 +142,60 @@ JS = r"""
     try { var h = (location.hash || '').slice(1); if (h) state.cat = h; } catch(e) {}
     var cards = Array.prototype.slice.call(list.querySelectorAll('.card'));
     var none = document.getElementById('no-match');
+    // 페이지 나누기: 걸러진 글을 페이지당 개수만큼만 보여줍니다. 개수는 브라우저에 기억합니다.
+    var pager = document.querySelector('.pager');
+    var perSel = pager && pager.querySelector('[data-per-page]');
+    var per = 20, page = 1, matched = [];
+    try { var sv = parseInt(localStorage.getItem('uvp-per'), 10); if ([10, 20, 50, 100].indexOf(sv) !== -1) per = sv; } catch(e) {}
+    if (perSel) perSel.value = String(per);
+    function show(scroll){
+      var pages = Math.max(1, Math.ceil(matched.length / per));
+      if (page > pages) page = pages;
+      var a = (page - 1) * per, b = a + per;
+      cards.forEach(function(c){ c.hidden = true; });
+      matched.slice(a, b).forEach(function(c){ c.hidden = false; });
+      if (!pager) return;
+      pager.hidden = matched.length === 0;
+      pager.querySelector('.pg-total').textContent = pager.dataset.total.replace('{n}', matched.length);
+      var box = pager.querySelector('.pg-btns'); box.innerHTML = '';
+      function btn(label, p, cur, dis){
+        var x = document.createElement('button'); x.type = 'button'; x.className = 'pg'; x.textContent = label;
+        if (cur) x.setAttribute('aria-current', 'page');
+        if (dis) x.disabled = true; else x.addEventListener('click', function(){ page = p; show(true); });
+        box.appendChild(x);
+      }
+      function gap(){ var g = document.createElement('span'); g.className = 'pg-gap'; g.textContent = '…'; box.appendChild(g); }
+      if (pages > 1) {
+        btn(pager.dataset.prev, page - 1, false, page === 1);
+        var lo = Math.max(1, page - 2), hi = Math.min(pages, page + 2);
+        if (lo > 1) { btn('1', 1); if (lo > 2) gap(); }
+        for (var i = lo; i <= hi; i++) btn(String(i), i, i === page);
+        if (hi < pages) { if (hi < pages - 1) gap(); btn(String(pages), pages); }
+        btn(pager.dataset.next, page + 1, false, page === pages);
+      }
+      if (scroll) {
+        // 고정 필터 막대 높이만큼 띄워 목록 첫 글이 가려지지 않게 올립니다.
+        var bar = document.querySelector('.bar'), off = bar ? bar.getBoundingClientRect().height : 0;
+        window.scrollTo({top: list.getBoundingClientRect().top + window.pageYOffset - off - 8, behavior: 'smooth'});
+      }
+    }
+    if (perSel) perSel.addEventListener('change', function(){
+      per = parseInt(perSel.value, 10) || 20; page = 1;
+      try { localStorage.setItem('uvp-per', String(per)); } catch(e) {}
+      show(false);
+    });
     function apply(){
-      var shown = 0, q = state.q.trim().toLowerCase();
-      cards.forEach(function(c){
-        var ok = (state.cat === 'all' || c.dataset.cat === state.cat)
+      var q = state.q.trim().toLowerCase();
+      matched = cards.filter(function(c){
+        return (state.cat === 'all' || c.dataset.cat === state.cat)
           && (state.agency === 'all' || c.dataset.agency === state.agency)
           && (!state.topic || c.dataset.topics.indexOf(' ' + state.topic + ' ') !== -1)
           && (!state.hot || c.dataset.imp === 'high')
           && (!q || c.dataset.q.indexOf(q) !== -1);
-        c.hidden = !ok; if (ok) shown++;
       });
-      if (none) none.hidden = shown !== 0;
+      if (none) none.hidden = matched.length !== 0;
+      page = 1;
+      show(false);
     }
     var tabs = document.querySelectorAll('[data-filter-cat]');
     function setCat(v){
@@ -171,7 +224,7 @@ JS = r"""
     if (clearBtn) clearBtn.addEventListener('click', function(){ setTopic('', ''); });
     var more = document.querySelector('[data-more-topics]');
     if (more) more.addEventListener('click', function(){ more.closest('.issues').classList.add('open'); });
-    if (state.cat !== 'all') setCat(state.cat);
+    if (state.cat !== 'all') setCat(state.cat); else apply();
     // 뒤로가기 등으로 주소의 #분류가 바뀌면 탭도 따라갑니다.
     window.addEventListener('hashchange', function(){ var v = (location.hash || '').slice(1) || 'all'; if (v !== state.cat) setCat(v); });
     var hot = document.querySelector('[data-filter-hot]');
