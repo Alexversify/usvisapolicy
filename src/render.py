@@ -255,25 +255,26 @@ def page_list(sc: dict[str, Any], lang: str, langs: list[str], arts: list[dict[s
         out.append(f'<p class="empty">{e(t("empty", lang))}</p>')
     else:
         out.append('<ol class="list">')
-        for a in arts:
+        for i, a in enumerate(arts):
             L = a["langs"][lang]
             c = a.get("category") or "notice"
             ag, tps = classify(a)
-            q = " ".join([L["title"], L["summary"], " ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang),
+            # 제목과 요약은 카드 본문에 이미 있으므로 검색어에서 빼서 페이지 크기를 줄입니다. site.js 가 본문 글자를 합쳐 검색합니다.
+            q = " ".join([" ".join(a.get("tags", [])), a.get("original_title", ""), src(a["source"], lang),
                           cat(c, lang), agency(ag, lang), " ".join(topic(x, lang) for x in tps)]).lower()
             hot = '<span class="badge hot">' + e(t("imp_high", lang)) + "</span>" if a.get("importance") == "high" else ""
             tchips = "".join(f'<span class="tag">#{e(topic(x, lang))}</span>' for x in tps if x != "other")
             eff = f'<div class="eff">{e(t("effective", lang))}: {e(fmt_date(a.get("effective_date"), lang))}</div>' if a.get("effective_date") else ""
             out.append(
-                f'<li class="card" data-cat="{e(c)}" data-agency="{e(ag)}" data-topics=" {e(" ".join(tps))} " data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}">'
+                f'<li class="card" data-cat="{e(c)}" data-agency="{e(ag)}" data-topics=" {e(" ".join(tps))} " data-imp="{e(a.get("importance", ""))}" data-q="{e(q)}"{" hidden" if i >= 5 else ""}>'
                 f'<time datetime="{e(a.get("published") or "")}">{e(fmt_date(a.get("published"), lang))}</time>'
                 f'<div><div class="meta"><span class="badge cat-{e(c)}">{e(cat(c, lang))}</span><span class="badge ag">{e(agency(ag, lang))}</span>{hot}{tchips}</div>'
                 f'<h2><a href="news/{a["id"]}.html">{e(L["title"])}</a></h2><p>{e(L["summary"])}</p>{eff}</div></li>'
             )
         out.append("</ol>")
         out.append(f'<p class="empty" id="no-match" hidden>{e(t("no_match", lang))}</p>')
-        # 페이지 나누기. 버튼은 site.js 가 만듭니다. 스크립트가 없으면 전체 목록이 그대로 보입니다.
-        opts = "".join(f'<option value="{n}">{n}</option>' for n in (10, 20, 50, 100))
+        # 페이지 나누기. 버튼은 site.js 가 만듭니다. 첫 화면 속도를 위해 앞 5건만 보이게 내보내고 나머지는 site.js 가 보여 줍니다.
+        opts = "".join(f'<option value="{n}">{n}</option>' for n in (5, 10, 20))
         out.append(
             f'<nav class="pager" aria-label="pages" data-prev="{e(t("pg_prev", lang))}" data-next="{e(t("pg_next", lang))}" data-total="{e(t("pg_total", lang))}" hidden>'
             f'<span class="pg-total"></span><div class="pg-btns"></div>'
