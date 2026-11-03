@@ -22,10 +22,10 @@ html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.65;word-break:keep-all;overflow-wrap:anywhere}
 a{color:inherit}
 .wrap{max-width:980px;margin:0 auto;padding:0 16px}
-header.top{background:var(--paper);border-bottom:1px solid var(--rule)}
+header.top{background:linear-gradient(90deg,#0A3161 0 140px,transparent 140px) top/100% 6px no-repeat,linear-gradient(#B31942 0 2px,#fff 2px 4px,#B31942 4px 6px) top/100% 6px no-repeat,var(--paper);padding-top:6px;border-bottom:1px solid var(--rule)}
 header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:60px;flex-wrap:wrap}
 .brand{display:flex;align-items:center;gap:8px;text-decoration:none;font-weight:800;letter-spacing:-.02em;font-size:18px}
-.brand svg{width:22px;height:22px;flex:none}
+.brand svg{width:30px;height:20px;flex:none;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.12)}
 .langs{display:flex;gap:2px;flex-wrap:wrap}
 .langs a{font-size:13px;text-decoration:none;color:var(--muted);padding:5px 9px;border-radius:999px}
 .langs a:hover{background:var(--chip);color:var(--ink)}
@@ -287,7 +287,8 @@ JS = r"""
 })();
 """
 
-LOGO = (
-    '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="3" width="20" height="18" rx="3" fill="currentColor"/>'
-    '<path d="M6 8h12M6 12h8M6 16h10" stroke="var(--paper)" stroke-width="2" stroke-linecap="round"/></svg>'
-)
+LOGO = '<svg viewBox="0 0 30 20" aria-hidden="true"><clipPath id="uvp-flag"><rect width="30" height="20" rx="3"/></clipPath><g clip-path="url(#uvp-flag)"><rect width="30" height="20" fill="#B31942"/><rect y="1.538" width="30" height="1.538" fill="#fff"/><rect y="4.615" width="30" height="1.538" fill="#fff"/><rect y="7.692" width="30" height="1.538" fill="#fff"/><rect y="10.769" width="30" height="1.538" fill="#fff"/><rect y="13.846" width="30" height="1.538" fill="#fff"/><rect y="16.923" width="30" height="1.538" fill="#fff"/><rect width="12" height="10.769" fill="#0A3161"/><circle cx="2.4" cy="2.2" r="0.75" fill="#fff"/><circle cx="6" cy="2.2" r="0.75" fill="#fff"/><circle cx="9.6" cy="2.2" r="0.75" fill="#fff"/><circle cx="4.2" cy="4.4" r="0.75" fill="#fff"/><circle cx="7.8" cy="4.4" r="0.75" fill="#fff"/><circle cx="2.4" cy="6.6" r="0.75" fill="#fff"/><circle cx="6" cy="6.6" r="0.75" fill="#fff"/><circle cx="9.6" cy="6.6" r="0.75" fill="#fff"/><circle cx="4.2" cy="8.8" r="0.75" fill="#fff"/><circle cx="7.8" cy="8.8" r="0.75" fill="#fff"/></g></svg>'
+
+
+# 파비콘. 성조기를 단순화한 모양입니다 (작은 크기에서 보이도록 줄무늬 7개).
+FAVICON = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><clipPath id="c"><rect width="32" height="32" rx="6"/></clipPath><g clip-path="url(#c)"><rect width="32" height="32" fill="#B31942"/><rect y="4.571" width="32" height="4.571" fill="#fff"/><rect y="13.714" width="32" height="4.571" fill="#fff"/><rect y="22.857" width="32" height="4.571" fill="#fff"/><rect width="20" height="18.286" fill="#0A3161"/><circle cx="4.5" cy="4.5" r="1.6" fill="#fff"/><circle cx="10" cy="4.5" r="1.6" fill="#fff"/><circle cx="15.5" cy="4.5" r="1.6" fill="#fff"/><circle cx="7.2" cy="9.2" r="1.6" fill="#fff"/><circle cx="12.8" cy="9.2" r="1.6" fill="#fff"/><circle cx="4.5" cy="14" r="1.6" fill="#fff"/><circle cx="10" cy="14" r="1.6" fill="#fff"/><circle cx="15.5" cy="14" r="1.6" fill="#fff"/></g></svg>'

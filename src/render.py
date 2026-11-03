@@ -73,7 +73,7 @@ def head(sc: dict[str, Any], lang: str, title: str, desc: str, path: str, langs:
 <meta name="description" content="{e(desc)}">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
 {canon}{alts}{rss}{verify}
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect x='2' y='3' width='20' height='18' rx='3' fill='%2313233a'/%3E%3Cpath d='M6 8h12M6 12h8M6 16h10' stroke='white' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="icon" type="image/svg+xml" href="{up}favicon.svg">
 {font}<link rel="stylesheet" href="{up}assets/site.css?v={VER}">
 {ga_tag}{ad_tag}
 </head>"""
@@ -356,6 +356,7 @@ def page_root(sc: dict[str, Any], langs: list[str], prefix: str = "") -> str:
 <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
 <title>{e(site.get('title', 'US Visa Policy'))}</title>
 <meta name="description" content="{e(t('tagline', 'en'))}">{alts}
+<link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">
 <link rel="stylesheet" href="{prefix}assets/site.css?v={VER}">
 <script>(function(){{var L={json.dumps(langs)},c=null;
 try{{c=localStorage.getItem('uvp-lang')}}catch(e){{}}
@@ -446,6 +447,7 @@ def render_all(cfg: dict[str, Any]) -> str:
     for l in langs:
         shutil.rmtree(DOCS / l, ignore_errors=True)
     (DOCS / "assets").mkdir(parents=True, exist_ok=True)
+    (DOCS / "favicon.svg").write_text(assets.FAVICON + "\n", encoding="utf-8")
     (DOCS / "assets" / "site.css").write_text(assets.CSS.strip() + "\n", encoding="utf-8")
     (DOCS / "assets" / "site.js").write_text(assets.JS.strip() + "\n", encoding="utf-8")
 
