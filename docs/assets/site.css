@@ -19,10 +19,10 @@ html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font);font-size:16px;line-height:1.65;word-break:keep-all;overflow-wrap:anywhere}
 a{color:inherit}
 .wrap{max-width:980px;margin:0 auto;padding:0 16px}
-header.top{background:var(--paper);border-bottom:1px solid var(--rule)}
+header.top{background:linear-gradient(90deg,#0A3161 0 140px,transparent 140px) top/100% 6px no-repeat,linear-gradient(#B31942 0 2px,#fff 2px 4px,#B31942 4px 6px) top/100% 6px no-repeat,var(--paper);padding-top:6px;border-bottom:1px solid var(--rule)}
 header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:60px;flex-wrap:wrap}
 .brand{display:flex;align-items:center;gap:8px;text-decoration:none;font-weight:800;letter-spacing:-.02em;font-size:18px}
-.brand svg{width:22px;height:22px;flex:none}
+.brand svg{width:30px;height:20px;flex:none;border-radius:3px;box-shadow:0 0 0 1px rgba(0,0,0,.12)}
 .langs{display:flex;gap:2px;flex-wrap:wrap}
 .langs a{font-size:13px;text-decoration:none;color:var(--muted);padding:5px 9px;border-radius:999px}
 .langs a:hover{background:var(--chip);color:var(--ink)}
