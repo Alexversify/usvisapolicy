@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-03T08:46:53Z",
+    "kind": "backfill",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41604765149",
+    "found": 1,
+    "added": [
+      {
+        "id": "9f0982eb1cd0",
+        "source": "visa_bulletin",
+        "title": "2026년 9월 비자 문호, 가족 이민 우선순위 날짜 대폭 전진, EB-4는 61일 앞당겨져"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.2377,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-03T06:59:25Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41592644094",

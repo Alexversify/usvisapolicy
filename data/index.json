@@ -3539,6 +3539,29 @@
     "added": "2026-10-12T15:37Z"
   },
   {
+    "id": "9f0982eb1cd0",
+    "source": "visa_bulletin",
+    "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+    "published": "2026-09-01",
+    "effective_date": "2026-09-01",
+    "importance": "high",
+    "category": "policy",
+    "agency": "state",
+    "topics": [
+      "visa_bulletin",
+      "family",
+      "employment"
+    ],
+    "tags": [
+      "Visa Bulletin",
+      "Family-Sponsored",
+      "Employment-Based",
+      "Priority Dates",
+      "EB-4"
+    ],
+    "added": "2026-11-03T08:45Z"
+  },
+  {
     "id": "4b74e7b0465d",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17726/rescission-of-coordinated-enforcement-regulations",
