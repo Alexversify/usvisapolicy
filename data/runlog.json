@@ -1,5 +1,33 @@
 [
   {
+    "t": "2026-11-03T06:59:25Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41592644094",
+    "found": 2,
+    "added": [
+      {
+        "id": "2f622f22a6f6",
+        "source": "dhs_news",
+        "title": "DHS, 상업운전면허 소지 불법체류자 단속 '오퍼레이션 가디언' 결과 발표"
+      },
+      {
+        "id": "7fce9986ce6c",
+        "source": "dhs_news",
+        "title": "DHS, 캘리포니아 이민자 보호정책 비판하며 범죄 전력 불법체류자 약 2만4000명 석방 지적"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6812,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-02T21:52:32Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41530932224",
