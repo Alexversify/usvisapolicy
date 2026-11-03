@@ -1,5 +1,86 @@
 [
   {
+    "id": "775a48269dac",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border",
+    "published": "2026-11-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Border Security",
+      "ICE",
+      "CBP",
+      "Deportations",
+      "Border Wall"
+    ],
+    "added": "2026-11-03T23:33Z"
+  },
+  {
+    "id": "a3c99692da2b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/03/sanctuary-insanity-dhs-condemns-sanctuary-politicians-washington-state-refusing-ice",
+    "published": "2026-11-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Sanctuary Jurisdiction",
+      "Enforcement"
+    ],
+    "added": "2026-11-03T23:31Z"
+  },
+  {
+    "id": "c743ea5c050b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/03/worst-worst-ice-arrests-pedophiles-violent-assailants-and-drunk-drivers",
+    "published": "2026-11-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Enforcement",
+      "Criminal Aliens",
+      "DHS"
+    ],
+    "added": "2026-11-03T23:29Z"
+  },
+  {
+    "id": "15d8c1fc8d63",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/alien-from-canada-charged-with-falsely-claiming-to-be-a-us-citizen-to-register-to-vote",
+    "published": "2026-11-03",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "citizenship"
+    ],
+    "tags": [
+      "Voter Fraud",
+      "False Citizenship Claim",
+      "Lawful Permanent Resident",
+      "Enforcement"
+    ],
+    "added": "2026-11-03T23:28Z"
+  },
+  {
     "id": "7fce9986ce6c",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/02/dhs-blasts-california-sanctuary-politicians-releasing-nearly-24000-criminal-illegal",

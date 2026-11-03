@@ -1,5 +1,43 @@
 [
   {
+    "t": "2026-11-03T23:34:14Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41739083128",
+    "found": 4,
+    "added": [
+      {
+        "id": "15d8c1fc8d63",
+        "source": "uscis_news",
+        "title": "캐나다 출신 영주권자, 투표 등록 위해 미국 시민권 허위 주장 혐의로 기소"
+      },
+      {
+        "id": "c743ea5c050b",
+        "source": "dhs_news",
+        "title": "ICE, 아동 성범죄 등 중범죄 전력 외국인 5명 체포 발표"
+      },
+      {
+        "id": "a3c99692da2b",
+        "source": "dhs_news",
+        "title": "DHS, 아동 성추행 유죄 판결자에 대한 ICE 구금요청 거부한 워싱턴주 당국자 비판"
+      },
+      {
+        "id": "775a48269dac",
+        "source": "dhs_news",
+        "title": "DHS, 국경 통제와 불법체류자 추방 실적을 대대적으로 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.5298,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-03T17:07:23Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41680802041",
