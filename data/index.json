@@ -1,5 +1,24 @@
 [
   {
+    "id": "2d573976e860",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day",
+    "published": "2026-11-04",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Press Release"
+    ],
+    "added": "2026-11-04T23:44Z"
+  },
+  {
     "id": "775a48269dac",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border",

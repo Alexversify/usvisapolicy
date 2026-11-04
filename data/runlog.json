@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-04T23:45:02Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41935790832",
+    "found": 1,
+    "added": [
+      {
+        "id": "2d573976e860",
+        "source": "dhs_news",
+        "title": "DHS, 선거일 ICE가 체포한 범죄 전력 불법체류자 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.1235,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-04T17:19:42Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/41876204943",
