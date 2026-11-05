@@ -1,5 +1,38 @@
 [
   {
+    "t": "2026-11-05T23:47:32Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42131069185",
+    "found": 3,
+    "added": [
+      {
+        "id": "a5afee4cf8af",
+        "source": "dhs_news",
+        "title": "DHS, 미네소타 카운티가 ICE 디테이너 불이행하고 소말리아 출신 전과자 석방했다고 비판"
+      },
+      {
+        "id": "233e32b6827c",
+        "source": "dhs_news",
+        "title": "ICE, 아동 성범죄자와 마약 밀매범 등 불법체류 외국인 다수 체포"
+      },
+      {
+        "id": "203a7d91d25b",
+        "source": "dhs_news",
+        "title": "ICE, 뉴욕에서 강간 혐의로 체포된 페루 국적자에 디테이너 발부"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.6794,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-05T17:27:38Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42074556822",

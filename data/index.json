@@ -1,5 +1,64 @@
 [
   {
+    "id": "203a7d91d25b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/05/ice-lodges-detainer-illegal-alien-arrested-rape-new-york-city",
+    "published": "2026-11-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Sanctuary Policy",
+      "New York"
+    ],
+    "added": "2026-11-05T23:46Z"
+  },
+  {
+    "id": "233e32b6827c",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/05/worst-worst-ice-arrests-pedophiles-sexual-predators-and-drug-traffickers",
+    "published": "2026-11-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Public Safety",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-05T23:44Z"
+  },
+  {
+    "id": "a5afee4cf8af",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/05/sanctuary-insanity-sanctuary-minnesota-refuses-honor-ice-detainer-somalian-illegal",
+    "published": "2026-11-05",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Sanctuary Jurisdiction",
+      "Immigration Enforcement"
+    ],
+    "added": "2026-11-05T23:42Z"
+  },
+  {
     "id": "2d573976e860",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day",
