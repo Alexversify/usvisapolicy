@@ -1,5 +1,43 @@
 [
   {
+    "t": "2026-11-06T23:21:10Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42310244624",
+    "found": 4,
+    "added": [
+      {
+        "id": "e127026b377d",
+        "source": "uscis_news",
+        "title": "쿠바 국적자 5명과 플로리다 남성, 밀입국·망명 사기·돈세탁 공모 혐의로 실형 선고"
+      },
+      {
+        "id": "fa001ce3bda2",
+        "source": "dhs_news",
+        "title": "국토안보부, 백악관 인근서 총기 소지한 불법체류 베네수엘라인 체포 발표"
+      },
+      {
+        "id": "cb4f23b02a59",
+        "source": "dhs_news",
+        "title": "ICE, 아동 성범죄자와 마약 밀매상 등 범죄 전력 불법체류자 5명 체포"
+      },
+      {
+        "id": "97f05b6f43f7",
+        "source": "dhs_news",
+        "title": "DHS, 전과자 불법체류자 석방한 뉴욕시 새크추어리 정책 비판"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.9169,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-06T16:49:29Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42255694389",

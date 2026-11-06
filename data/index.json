@@ -1,5 +1,85 @@
 [
   {
+    "id": "97f05b6f43f7",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/06/sanctuary-insanity-new-york-sanctuary-politicians-release-illegal-alien-convicted",
+    "published": "2026-11-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Sanctuary Policy",
+      "ICE Detainer",
+      "Enforcement",
+      "New York"
+    ],
+    "added": "2026-11-06T23:20Z"
+  },
+  {
+    "id": "cb4f23b02a59",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/06/worst-worst-ice-arrests-pedophiles-sexual-assailants-and-drug-traffickers",
+    "published": "2026-11-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-06T23:18Z"
+  },
+  {
+    "id": "fa001ce3bda2",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/06/us-secret-service-arrests-illegal-alien-guns-vehicle-near-white-house",
+    "published": "2026-11-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Enforcement",
+      "ICE Detainer",
+      "Secret Service"
+    ],
+    "added": "2026-11-06T23:17Z"
+  },
+  {
+    "id": "e127026b377d",
+    "source": "uscis_news",
+    "url": "https://www.uscis.gov/newsroom/news-releases/cuban-aliens-and-florida-man-sentenced-for-their-roles-in-an-international-alien-smuggling-asylum",
+    "published": "2026-11-06",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "travel"
+    ],
+    "tags": [
+      "Alien Smuggling",
+      "Asylum Fraud",
+      "ESTA",
+      "Money Laundering"
+    ],
+    "added": "2026-11-06T23:14Z"
+  },
+  {
     "id": "203a7d91d25b",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/05/ice-lodges-detainer-illegal-alien-arrested-rape-new-york-city",
