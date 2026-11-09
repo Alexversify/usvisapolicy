@@ -23,6 +23,7 @@ import yaml
 
 from src import assets, store
 from src import fulltext, taxonomy, vb_page
+from src import legal_pages
 from src.i18n import AGENCY_ORDER, CATEGORY_ORDER, HTML_LANG, LANG_LABEL, SOURCE_LABEL, TOPIC_ORDER, agency, cat, src, t, topic
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -152,7 +153,7 @@ def footer(sc: dict[str, Any], lang: str, up: str, updated: str) -> str:
     contact = f"<p>{e(t('contact', lang))}: <a href=\"mailto:{e(mail)}\">{e(mail)}</a></p>\n" if mail else ""
     return f"""<footer><div class="wrap">
 <p>{e(t('disclaimer', lang))}</p>
-{contact}<p>{e(t('updated', lang))}: {e(updated)} · <a href="{up}{lang}/rss.xml">RSS</a></p>
+{contact}<p>{e(t('updated', lang))}: {e(updated)} · <a href="{up}{lang}/rss.xml">RSS</a> · {legal_pages.links(lang, up)}</p>
 </div></footer>
 {feedback(sc, lang)}
 <script src="{up}assets/site.js?v={VER}" defer></script>
@@ -346,11 +347,24 @@ def page_article(sc: dict[str, Any], lang: str, langs: list[str], a: dict[str, A
     return "\n".join(out)
 
 
+def page_legal(sc: dict[str, Any], lang: str, langs: list[str], kind: str, updated: str) -> str:
+    title = (sc.get("site") or {}).get("title", "US Visa Policy")
+    lang_paths = {l: f"{l}/{kind}.html" for l in langs}
+    out = [head(sc, lang, f"{legal_pages.LABEL[kind][lang]} · {title}", legal_pages.desc(kind, lang), lang_paths[lang], langs, 1, lang_paths),
+           body_open(sc, lang), topbar(sc, lang, langs, "../", lang_paths),
+           legal_pages.body(kind, lang, (sc.get("site") or {}).get("contact_email") or ""), footer(sc, lang, "../", updated)]
+    return "\n".join(out)
+
+
 def page_root(sc: dict[str, Any], langs: list[str], prefix: str = "") -> str:
     links = "".join(f'<li><a href="{prefix}{l}/" hreflang="{HTML_LANG[l]}">{e(LANG_LABEL[l])}</a></li>' for l in langs)
     site = sc.get("site") or {}
     base = f"https://{site['domain']}" if site.get("domain") else ""
     alts = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{base}/{l}/">' for l in langs) if base else ""
+    # 첫 화면(언어 선택)에도 애드센스 확인 태그를 넣습니다. 심사 크롤러가 이 주소부터 봅니다.
+    cid = (sc.get("adsense") or {}).get("client_id") or ""
+    ad = (f'<meta name="google-adsense-account" content="{e(cid)}">'
+          f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(cid)}" crossorigin="anonymous"></script>') if cid else ""
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="format-detection" content="telephone=no,date=no,address=no,email=no">
@@ -358,12 +372,13 @@ def page_root(sc: dict[str, Any], langs: list[str], prefix: str = "") -> str:
 <meta name="description" content="{e(t('tagline', 'en'))}">{alts}
 <link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">
 <link rel="stylesheet" href="{prefix}assets/site.css?v={VER}">
+{ad}
 <script>(function(){{var L={json.dumps(langs)},c=null;
 try{{c=localStorage.getItem('uvp-lang')}}catch(e){{}}
 if(!c||L.indexOf(c)<0){{var n=(navigator.languages||[navigator.language||'en']);for(var i=0;i<n.length;i++){{var k=String(n[i]).slice(0,2).toLowerCase();if(L.indexOf(k)>=0){{c=k;break}}}}}}
 location.replace('{prefix}'+(c&&L.indexOf(c)>=0?c:(L.indexOf('en')>=0?'en':L[0]))+'/');}})();</script>
 </head><body><main class="wrap"><section class="hero"><h1>{e(site.get('title', 'US Visa Policy'))}</h1><p>{e(t('tagline', 'en'))}</p></section>
-<ul>{links}</ul></main></body></html>"""
+<ul>{links}</ul><p>{legal_pages.links('en', prefix)}</p></main></body></html>"""
 
 
 def rss(sc: dict[str, Any], lang: str, arts: list[dict[str, Any]]) -> str:
@@ -402,6 +417,8 @@ def sitemap(sc: dict[str, Any], langs: list[str], arts: list[dict[str, Any]]) ->
         if i == len(VB_STATE["recs"]) - 1:
             entry({l: f"{l}/visa-bulletin/" for l in langs}, dt.date.today().isoformat())
         entry({l: f"{l}/visa-bulletin/{r['key']}.html" for l in langs}, f"{r['year']}-{int(r['month']):02d}-01")
+    for k in legal_pages.all_kinds():
+        entry({l: f"{l}/{k}.html" for l in langs}, legal_pages.EFFECTIVE)
     for a in arts:
         entry({l: f"{l}/news/{a['id']}.html" for l in langs if l in a["langs"]}, a.get("published"))
     return ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
@@ -465,6 +482,8 @@ def render_all(cfg: dict[str, Any]) -> str:
         (DOCS / l / "news").mkdir(parents=True, exist_ok=True)
         (DOCS / l / "index.html").write_text(page_list(sc, l, langs, arts, sources_used, now), encoding="utf-8")
         (DOCS / l / "rss.xml").write_text(rss(sc, l, arts), encoding="utf-8")
+        for k in legal_pages.all_kinds():
+            (DOCS / l / f"{k}.html").write_text(page_legal(sc, l, langs, k, now), encoding="utf-8")
         for a in arts:
             (DOCS / l / "news" / f"{a['id']}.html").write_text(page_article(sc, l, langs, a, kst(a.get("added") or checked)), encoding="utf-8")
 
