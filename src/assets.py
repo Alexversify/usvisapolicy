@@ -152,7 +152,7 @@ JS = r"""
     // 페이지 나누기: 걸러진 글을 페이지당 개수만큼만 보여줍니다. 개수는 브라우저에 기억합니다.
     var pager = document.querySelector('.pager');
     var perSel = pager && pager.querySelector('[data-per-page]');
-    var per = 5, page = 1, matched = [];
+    var per = 10, page = 1, matched = [];
     try { var sv = parseInt(localStorage.getItem('uvp-per'), 10); if ([5, 10, 20].indexOf(sv) !== -1) per = sv; } catch(e) {}
     if (perSel) perSel.value = String(per);
     function show(scroll){
@@ -187,7 +187,7 @@ JS = r"""
       }
     }
     if (perSel) perSel.addEventListener('change', function(){
-      per = parseInt(perSel.value, 10) || 5; page = 1;
+      per = parseInt(perSel.value, 10) || 10; page = 1;
       try { localStorage.setItem('uvp-per', String(per)); } catch(e) {}
       show(false);
     });
