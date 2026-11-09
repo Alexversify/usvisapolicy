@@ -1,5 +1,25 @@
 [
   {
+    "id": "a3318696ac3d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
+    "published": "2026-11-09",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "other"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-09T19:53Z"
+  },
+  {
     "id": "97f05b6f43f7",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/06/sanctuary-insanity-new-york-sanctuary-politicians-release-illegal-alien-convicted",
