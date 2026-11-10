@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-10T03:38:34Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42750450409",
+    "found": 1,
+    "added": [
+      {
+        "id": "24decb3a75cf",
+        "source": "dhs_news",
+        "title": "ICE, 엘살바도르서 테러단체 혐의 받은 MS-13 조직원 아이다호서 체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.0954,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-09T19:54:27Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42687289871",

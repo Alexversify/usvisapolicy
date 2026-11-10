@@ -1,5 +1,25 @@
 [
   {
+    "id": "24decb3a75cf",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el",
+    "published": "2026-11-09",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "MS-13",
+      "Enforcement",
+      "El Salvador"
+    ],
+    "added": "2026-11-10T03:38Z"
+  },
+  {
     "id": "a3318696ac3d",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators",
