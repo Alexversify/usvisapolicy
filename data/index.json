@@ -1,5 +1,82 @@
 [
   {
+    "id": "33d96cf8c599",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas",
+    "published": "2026-11-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Immigration Enforcement",
+      "Sanctuary Jurisdiction"
+    ],
+    "added": "2026-11-10T21:26Z"
+  },
+  {
+    "id": "32b176d6f24a",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/10/sanctuary-insanity-dhs-condemns-sanctuary-politicians-illinois-releasing-violent",
+    "published": "2026-11-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Sanctuary Jurisdiction",
+      "Illinois"
+    ],
+    "added": "2026-11-10T21:24Z"
+  },
+  {
+    "id": "3e88452601b6",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/10/dhs-calls-sanctuary-politicians-mecklenburg-county-north-carolina-honor-ice",
+    "published": "2026-11-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Sanctuary Jurisdiction",
+      "Enforcement"
+    ],
+    "added": "2026-11-10T21:23Z"
+  },
+  {
+    "id": "597faba77c02",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/10/worst-worst-ice-arrests-murderers-sexual-predators-and-drug-traffickers",
+    "published": "2026-11-10",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-10T21:21Z"
+  },
+  {
     "id": "24decb3a75cf",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/09/meet-one-medias-non-criminals-ice-arrests-ms-13-member-idaho-charged-terrorism-el",

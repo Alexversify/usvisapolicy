@@ -1,5 +1,43 @@
 [
   {
+    "t": "2026-11-10T21:27:16Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42903852091",
+    "found": 4,
+    "added": [
+      {
+        "id": "597faba77c02",
+        "source": "dhs_news",
+        "title": "DHS, 살인·성범죄·마약밀매 전과 불법체류자 5명 ICE 체포 발표"
+      },
+      {
+        "id": "3e88452601b6",
+        "source": "dhs_news",
+        "title": "DHS, 노스캐롤라이나주 메클렌버그 카운티에 전과 있는 성범죄자 관련 ICE 구금요청 이행 촉구"
+      },
+      {
+        "id": "32b176d6f24a",
+        "source": "dhs_news",
+        "title": "DHS, ICE 구금요청 무시하고 중범죄자 석방한 일리노이주 당국 비판"
+      },
+      {
+        "id": "33d96cf8c599",
+        "source": "dhs_news",
+        "title": "DHS, 텍사스주 오스틴에서 체포된 중범죄 전력 불법체류자 사례 공개"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.5816,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-10T14:58:14Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42839149620",
