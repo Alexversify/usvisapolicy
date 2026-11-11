@@ -1,5 +1,27 @@
 [
   {
+    "id": "e629e21e9439",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters",
+    "published": "2026-11-10",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "citizenship"
+    ],
+    "tags": [
+      "Asylum Fraud",
+      "USCIS",
+      "ICE",
+      "Enforcement"
+    ],
+    "added": "2026-11-11T06:32Z"
+  },
+  {
     "id": "33d96cf8c599",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/10/dhs-highlights-worst-illegal-aliens-arrested-austin-texas",
