@@ -1,5 +1,22 @@
 [
   {
+    "t": "2026-11-11T08:32:50Z",
+    "kind": "backfill",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42987105169",
+    "found": 0,
+    "added": [],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.0,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 1개, 예시 [('https://www.cloudflare.com/5xx-error-landing', 'Cloudflare')])"
+    }
+  },
+  {
     "t": "2026-11-11T06:33:06Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/42972763057",
