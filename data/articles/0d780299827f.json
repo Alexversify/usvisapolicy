@@ -1,0 +1,385 @@
+{
+  "id": "0d780299827f",
+  "source": "dhs_news",
+  "url": "https://www.dhs.gov/news/2026/11/12/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history",
+  "original_title": "ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History",
+  "published": "2026-11-12",
+  "effective_date": null,
+  "importance": "high",
+  "category": "enforcement",
+  "tags": [
+    "ICE",
+    "Enforcement",
+    "Deportations",
+    "Arrests"
+  ],
+  "relevant": true,
+  "langs": {
+    "en": {
+      "title": "ICE Reports Record Arrests and Deportations in Fiscal Year 2026",
+      "summary": "DHS announced that ICE recorded more than 491,000 immigration arrests and more than 483,000 deportations in Fiscal Year 2026 (FY26), the highest totals in the agency's history. The release also highlights successive monthly arrest records from June through September 2026 and describes several individual cases.",
+      "points": [
+        "ICE carried out 483,200 deportations in FY26, surpassing the previous record of 442,640 set in FY25.",
+        "ICE made more than 491,000 immigration arrests in FY26, including nearly 475,000 administrative arrests.",
+        "September 2026 alone saw more than 48,000 arrests and 44,000 removals.",
+        "Monthly arrest records were broken successively in June (43,900), July (50,208) and August 2026 (50,925).",
+        "DHS states that since President Trump took office, more than 3 million migrants have left the U.S., with nearly 1.2 million deportations and over 1.25 million arrests recorded as of October.",
+        "The release is a statistical and enforcement announcement and does not create or change any visa, filing, or eligibility rule."
+      ],
+      "who": "Individuals without lawful immigration status in the United States, and anyone subject to ICE enforcement actions, including those with detainers or pending removal.",
+      "action": "Not specified in the source; this is a statistical announcement rather than a procedural change, so no action is required in response to it."
+    },
+    "ko": {
+      "title": "ICE, 2026 회계연도 역대 최다 체포 및 추방 기록 발표",
+      "summary": "미국 국토안보부(DHS)는 이민세관단속국(ICE)이 2026회계연도(FY26)에 49만1000건 이상의 이민 단속 체포와 48만3000건 이상의 추방을 집행해 기관 역사상 최다 기록을 세웠다고 발표했습니다. 이번 발표에는 2026년 6월부터 9월까지 연이어 경신된 월간 체포 기록과 개별 사건 사례도 포함되어 있습니다.",
+      "points": [
+        "ICE는 2026회계연도에 48만3200건의 추방을 집행해 2025회계연도 기존 기록인 44만2640건을 넘어섰습니다.",
+        "2026회계연도 체포 건수는 49만1000건을 넘었으며 이 중 약 47만5000건이 행정 체포입니다.",
+        "2026년 9월 한 달에만 4만8000건 이상의 체포와 4만4000건의 추방이 이루어졌습니다.",
+        "월간 체포 기록은 2026년 6월(4만3900건), 7월(5만208건), 8월(5만925건)에 연이어 경신되었습니다.",
+        "DHS에 따르면 트럼프 대통령 취임 이후 300만 명 이상의 이주민이 미국을 떠났으며 10월 기준 약 120만 명이 추방되고 125만 명 이상이 체포되었습니다.",
+        "이번 발표는 단속 통계 공개이며 비자 발급이나 체류 자격, 신청 절차를 변경하는 내용은 아닙니다."
+      ],
+      "who": "합법적 체류 자격 없이 미국에 있는 사람들과 ICE 단속 조치의 대상이 될 수 있는 개인 및 그 가족입니다.",
+      "action": "출처에 구체적인 대응 행동은 명시되어 있지 않으며, 이는 통계 발표로서 절차 변경을 수반하지 않습니다."
+    },
+    "es": {
+      "title": "ICE reporta cifras récord de arrestos y deportaciones en el año fiscal 2026",
+      "summary": "El Departamento de Seguridad Nacional (DHS) anunció que ICE registró más de 491,000 arrestos migratorios y más de 483,000 deportaciones en el año fiscal 2026 (FY26), las cifras más altas en la historia de la agencia. El comunicado también destaca récords mensuales sucesivos de arrestos entre junio y septiembre de 2026 y describe varios casos individuales.",
+      "points": [
+        "ICE realizó 483,200 deportaciones en el FY26, superando el récord anterior de 442,640 del FY25.",
+        "ICE efectuó más de 491,000 arrestos migratorios en el FY26, de los cuales casi 475,000 fueron arrestos administrativos.",
+        "Solo en septiembre de 2026 hubo más de 48,000 arrestos y 44,000 remociones.",
+        "Se batieron récords mensuales de arrestos sucesivamente en junio (43,900), julio (50,208) y agosto de 2026 (50,925).",
+        "Según DHS, desde que el presidente Trump asumió el cargo, más de 3 millones de migrantes han salido de Estados Unidos, con casi 1.2 millones de deportaciones y más de 1.25 millones de arrestos registrados hasta octubre.",
+        "El anuncio es de carácter estadístico y no modifica ninguna regla de elegibilidad, visa o trámite migratorio."
+      ],
+      "who": "Personas sin estatus migratorio legal en Estados Unidos y cualquier persona sujeta a acciones de ejecución de ICE, incluidas aquellas con detenciones o procesos de remoción pendientes.",
+      "action": "No se especifica en la fuente ninguna acción requerida, ya que se trata de un anuncio estadístico y no de un cambio de procedimiento."
+    },
+    "zh": {
+      "title": "ICE公布2026财年创纪录的逮捕与遣返数据",
+      "summary": "美国国土安全部(DHS)宣布,ICE在2026财年(FY26)共实施超过491,000次移民逮捕和超过483,000次遣返,创下该机构历史最高纪录。声明还提到2026年6月至9月连续多月刷新单月逮捕纪录,并列举了多起个案。",
+      "points": [
+        "ICE在2026财年共执行483,200次遣返,超过2025财年442,640次的此前纪录。",
+        "2026财年移民逮捕总数超过491,000人次,其中约475,000次为行政逮捕。",
+        "仅2026年9月一个月,ICE就实施了超过48,000次逮捕和44,000次遣返。",
+        "单月逮捕纪录在2026年6月(43,900人)、7月(50,208人)和8月(50,925人)接连被刷新。",
+        "据DHS称,自特朗普总统上任以来已有超过300万名移民离开美国,截至10月已有约120万人被遣返,超过125万人被逮捕。",
+        "该公告为执法统计数据发布,并未改变任何签证、申请或资格规定。"
+      ],
+      "who": "在美国没有合法移民身份的人士,以及可能受到ICE执法行动影响的个人及其家庭。",
+      "action": "来源中未说明需要采取的具体行动,这是一份统计性公告,不涉及程序变更。"
+    },
+    "ja": {
+      "title": "ICE、2026会計年度に過去最多の逮捕・国外退去件数を記録",
+      "summary": "米国土安全保障省(DHS)は、ICEが2026会計年度(FY26)において49万1000件を超える移民関連の逮捕と48万3000件を超える国外退去を記録し、同庁史上最多となったと発表しました。発表では2026年6月から9月にかけて月間逮捕件数が相次いで更新されたことや、個別の事例も紹介されています。",
+      "points": [
+        "ICEは2026会計年度に48万3200件の国外退去を実施し、2025会計年度の従来記録44万2640件を上回りました。",
+        "2026会計年度の逮捕件数は49万1000件を超え、このうち約47万5000件が行政逮捕でした。",
+        "2026年9月だけで4万8000件を超える逮捕と4万4000件の国外退去が行われました。",
+        "月間逮捕記録は2026年6月(4万3900件)、7月(5万208件)、8月(5万925件)と連続して更新されました。",
+        "DHSによると、トランプ大統領就任以降、300万人を超える移民が米国を離れ、10月時点で約120万人が国外退去、125万人以上が逮捕されています。",
+        "本発表は統計・取り締まり実績の公表であり、ビザや在留資格、申請手続きに関する規則変更ではありません。"
+      ],
+      "who": "米国内で合法的な在留資格を持たない人々、およびICEの取り締まり対象となり得る個人とその家族です。",
+      "action": "出典には具体的な対応行動の記載はなく、本発表は統計の公表であり手続き変更を伴うものではありません。"
+    }
+  },
+  "added": "2026-11-12T20:03Z",
+  "model": "claude-sonnet-5",
+  "agency": "ice",
+  "topics": [
+    "enforcement"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "li",
+        "x": "Home"
+      },
+      {
+        "t": "li",
+        "x": "News"
+      },
+      {
+        "t": "li",
+        "x": "Press Releases"
+      },
+      {
+        "t": "li",
+        "x": "ICE Breaks Records in Fiscal Year 2026, With Most Arrests and Deportations in Agency’s History"
+      },
+      {
+        "t": "p",
+        "x": "Release Date: November 12, 2026"
+      },
+      {
+        "t": "p",
+        "x": "Fiscal Year 2026 alone dwarfed deportation and arrest numbers from the entirety of the Biden Administration"
+      },
+      {
+        "t": "p",
+        "x": "WASHINGTON – The United States Department of Homeland Security (DHS) announced that U.S. Immigration and Customs Enforcement (ICE) broke the record for the highest number of deportations and arrests in any fiscal year in Fiscal Year 2026 (FY26), with more than 491,000 immigration arrests and more than 483,000 deportations."
+      },
+      {
+        "t": "p",
+        "x": "In FY26, ICE carried out 483,200 deportations, which broke the record for the highest number of deportations in the agency’s history. This surpasses the previous record held by FY25, which saw 442,640 deportations."
+      },
+      {
+        "t": "p",
+        "x": "FY26’s deportation total is almost the same as all three full fiscal years under the Biden Administration (FY22, FY23, and FY24) combined, at 486,000. FY26’s total is also more than eight times the number of deportations in Biden’s first fiscal year, as FY21 saw just over 59,000 deportations."
+      },
+      {
+        "t": "p",
+        "x": "FY26's arrest total includes nearly 475,000 administrative arrests, which is by far the highest total in ICE’s history."
+      },
+      {
+        "t": "p",
+        "x": "FY26’s arrest total is greater than the entirety of the three full fiscal years under the Biden Administration (FY22, FY23, and FY24) combined, at less than 427,000. It is also more than six times the number of arrests in Biden’s first fiscal year, as FY21 saw just over 74,000 arrests."
+      },
+      {
+        "t": "p",
+        "x": "In the month of September, ICE carried out more than 48,000 arrests, as well as 44,000 removals. This arrest total represents a more than 300% increase over the average September during the Biden Administration."
+      },
+      {
+        "t": "p",
+        "x": "This follows several record-breaking months, with August shattering the record for the most illegal aliens arrested by ICE in a single month, at 50,925. This broke the previous record held by July 2026, which saw 50,208 illegal aliens arrested. The record prior to July was held by June 2026, when 43,900 illegal aliens were arrested."
+      },
+      {
+        "t": "p",
+        "x": "“I couldn’t be prouder of the brave men and women of ICE, who just broke more historic records,” said DHS Secretary Markwayne Mullin. “Fiscal Year 2026 saw the highest number of ICE deportations and arrests for any year in ICE’s history. September 2026 was the best September in ICE’s history in terms of arrests. The total number of ICE arrests in Fiscal Year 2026 was more than all three full fiscal years under Biden combined, as the patriots of ICE work around the clock to make America safe again. Thanks to President Trump’s leadership, ICE has been unleashed to target and remove illegal aliens so that we can save American lives.”"
+      },
+      {
+        "t": "p",
+        "x": "Under President Trump’s leadership, more than 3 million migrants have left the U.S. As of October, we have now deported nearly 1.2 million illegal aliens and arrested over 1.25 million illegal aliens."
+      },
+      {
+        "t": "p",
+        "x": "Below are some examples of the worst illegal aliens arrested by ICE during FY26:"
+      },
+      {
+        "t": "p",
+        "x": "Raul Genesis Ortiz Moran, an illegal alien from Mexico, arrested by ICE in July 2026. He has been charged with second-degree murder and aggravated sexual battery after he allegedly sexually assaulted and murdered a 2-year-old girl in Louisa County, Virginia. Following his initial arrest by the Louisa County Sheriff’s Department, local authorities cooperated with federal law enforcement and turned him over to ICE custody."
+      },
+      {
+        "t": "p",
+        "x": "Tou Lue Vang, an illegal alien from Laos, arrested by ICE on December 10, 2025. His criminal history includes a conviction for first-degree criminal sexual conduct in 2006 after he repeatedly assaulted a girl between 2002 and 2004. In June 2026, Governor Tim Walz’s Minnesota Clemency Review Commission voted to grant Vang a pardon. ICE deported Vang in July 2026."
+      },
+      {
+        "t": "p",
+        "x": "Josue David Carranza-Castellon, an illegal alien from Honduras, arrested by ICE in June 2026 at Newark International Airport in New Jersey. He was attempting to flee the country due to being wanted on charges of homicide – negligent manslaughter with a vehicle in Maryland. His criminal history includes a prior conviction for fourth-degree sex offense and an arrest for lewd or lascivious acts with a minor."
+      },
+      {
+        "t": "p",
+        "x": "Giovanna Mercedes Moreno Occhipinti, an illegal alien from Venezuela, arrested by ICE in May 2026. She has been charged with unlawful use of weapon and weapons offense after her alleged participation in a Tren de Aragua-involved mass shooting at a house party in Chicago in December 2024. She allegedly drove the vehicle while two shooters inside the vehicle opened fire on the party, killing three people and injuring several others, and then helped the shooters evade law enforcement after the crime."
+      },
+      {
+        "t": "p",
+        "x": "Georgii Gabiev, an illegal alien from Russia, arrested by ICE in June 2026 in Brooklyn, New York. Gabiev had pleaded guilty to criminal vehicular homicide after causing a crash that killed American truck driver Tim Tarnowski in Chippewa County, Minnesota in March 2024. At the time of the crash, Gabiev was watching a video about learning English on his iPad while driving. He served just 120 days in jail after his guilty plea."
+      },
+      {
+        "t": "p",
+        "x": "Felipe Linares De Oliveira Dell Aquilla, an illegal alien from Brazil, arrested by ICE in June 2026 in Mooresville, North Carolina. He previously served as the commander of Primeiro Comando Da Capital (PCC) and Comando Vermelho (CV), both of which are designated Foreign Terrorist Organizations (FTOs). He has an international warrant in his home country for criminal association and extortion. At the time of his arrest, he was holding his own wife hostage as he prepared to flee to Mexico."
+      },
+      {
+        "t": "p",
+        "x": "Aman Kumar, an illegal alien from India, arrested by ICE in May 2026 in Fresno, California. He was charged with felony hit and run: death or injury after causing an accident in April 2026 that injured a 4-year-old boy before fleeing the scene. Although he was arrested by the Fresno Sheriff’s Department the day after the accident, sanctuary politicians in California released him from jail. ICE arrested him the following month."
+      },
+      {
+        "t": "p",
+        "x": "Soili Xiomara Aparicio-Santos, an illegal alien from Honduras, arrested by ICE in April 2026. She had previously been convicted of second-degree attempted murder, first and second-degree attempted assault, and endangering the welfare of a child after she attempted to smother her one-day-old son with a pillow in New York. Local authorities cooperated with ICE and notified ICE law enforcement ahead of her release. ICE deported Aparicio-Santos on April 15."
+      },
+      {
+        "t": "p",
+        "x": "John Young Cotter Johnstone, an illegal alien from the United Kingdom, arrested by ICE in April 2026 in Las Vegas, Nevada. The Las Vegas Metropolitan Police Department arrested him and charged him with felony animal torture after receiving video evidence of Johnstone repeatedly torturing dogs at the animal shelter where he worked. The day after his arrest, Clark County officials honored ICE’s detainer and turned him over to ICE custody."
+      },
+      {
+        "t": "p",
+        "x": "Rajinder Kumar, an illegal alien from India, arrested by ICE in April 2026. He has been charged with criminally negligent homicide and reckless endangering after he jackknifed his semi-truck and trailer in Deschutes County, Oregon, causing a wreck that killed a newlywed couple. Despite ICE lodging a detainer for Kumar after his arrest, sanctuary politicians refused to honor it and released him in April. ICE arrested him later the same month."
+      },
+      {
+        "t": "p",
+        "x": "# # #"
+      },
+      {
+        "t": "li",
+        "x": "Homeland Security Enterprise"
+      },
+      {
+        "t": "li",
+        "x": "Immigration and Customs Enforcement"
+      },
+      {
+        "t": "h",
+        "x": "Keywords"
+      },
+      {
+        "t": "li",
+        "x": "Deportation"
+      },
+      {
+        "t": "li",
+        "x": "Immigration and Customs Enforcement (ICE)"
+      },
+      {
+        "t": "li",
+        "x": "Immigration Enforcement"
+      },
+      {
+        "t": "p",
+        "x": "Last Updated: 11/12/2026"
+      }
+    ],
+    "fetched": "2026-11-12T20:03Z",
+    "from": "page",
+    "chars": 7516
+  },
+  "full": {
+    "ko": [
+      "홈",
+      "뉴스",
+      "보도자료",
+      "ICE, 2026 회계연도에 기관 역사상 최다 체포 및 추방 건수 기록 경신",
+      "발표일: 2026년 11월 12일",
+      "2026 회계연도 한 해만으로도 바이든 행정부 전체 기간의 추방 및 체포 건수를 뛰어넘어",
+      "워싱턴, 미국 국토안보부(Department of Homeland Security, DHS)는 미국 이민세관집행국(U.S. Immigration and Customs Enforcement, ICE)이 2026 회계연도(FY26)에 491,000건 이상의 이민 관련 체포와 483,000건 이상의 추방을 기록하며 모든 회계연도를 통틀어 최다 추방 및 체포 건수 기록을 경신했다고 발표했습니다.",
+      "2026 회계연도에 ICE는 483,200건의 추방을 집행하여 기관 역사상 최다 추방 건수 기록을 경신했습니다. 이는 442,640건의 추방을 기록했던 2025 회계연도의 종전 기록을 넘어서는 수치입니다.",
+      "2026 회계연도의 추방 총건수는 바이든 행정부 재임 중 온전한 세 회계연도(2022, 2023, 2024 회계연도)를 합산한 486,000건과 거의 동일한 수준입니다. 2026 회계연도의 총건수는 또한 바이든 행정부 첫 회계연도 추방 건수의 8배를 넘는 수치로, 2021 회계연도의 추방 건수는 59,000건을 약간 상회하는 데 그쳤습니다.",
+      "2026 회계연도의 체포 총건수에는 거의 475,000건의 행정 체포가 포함되어 있으며, 이는 ICE 역사상 단연 최다 수치입니다.",
+      "2026 회계연도의 체포 총건수는 바이든 행정부 재임 중 온전한 세 회계연도(2022, 2023, 2024 회계연도)를 합산한 427,000건 미만의 수치보다도 많습니다. 이는 또한 바이든 행정부 첫 회계연도 체포 건수의 6배를 넘는 수치로, 2021 회계연도의 체포 건수는 74,000건을 약간 상회하는 데 그쳤습니다.",
+      "9월 한 달 동안 ICE는 48,000건 이상의 체포와 44,000건의 추방을 집행했습니다. 이 체포 총건수는 바이든 행정부 재임 기간 중 평균적인 9월 대비 300% 이상 증가한 수치입니다.",
+      "이는 여러 차례의 기록 경신 월에 이은 것으로, 8월에는 ICE가 단일 월간 체포한 불법체류 외국인 수가 50,925명에 달하며 최다 기록을 경신했습니다. 이는 50,208명의 불법체류 외국인이 체포되었던 2026년 7월의 종전 기록을 넘어선 것입니다. 7월 이전의 기록은 43,900명의 불법체류 외국인이 체포되었던 2026년 6월이 보유하고 있었습니다.",
+      "국토안보부 장관 마크웨인 멀린(Markwayne Mullin)은 다음과 같이 밝혔습니다. “방금 또다시 역사적인 기록을 경신한 ICE의 용감한 남녀 대원들이 더없이 자랑스럽습니다. 2026 회계연도는 ICE 역사상 가장 많은 추방 및 체포 건수를 기록한 해였습니다. 2026년 9월은 체포 건수 면에서 ICE 역사상 최고의 9월이었습니다. 2026 회계연도의 ICE 체포 총건수는 바이든 행정부 재임 중 온전한 세 회계연도를 합산한 것보다도 많았으며, 이는 ICE의 애국자들이 미국을 다시 안전하게 만들기 위해 밤낮없이 노력한 결과입니다. 트럼프 대통령의 리더십 덕분에 ICE는 불법체류 외국인을 색출하여 추방할 수 있는 역량을 마음껏 발휘하게 되었으며, 이를 통해 우리는 미국인의 생명을 구할 수 있게 되었습니다.”",
+      "트럼프 대통령의 리더십 하에 300만 명이 넘는 이주민이 미국을 떠났습니다. 10월 현재 우리는 거의 120만 명의 불법체류 외국인을 추방했으며 125만 명이 넘는 불법체류 외국인을 체포했습니다.",
+      "아래는 2026 회계연도 중 ICE가 체포한 최악의 불법체류 외국인 사례 중 일부입니다.",
+      "라울 헤네시스 오르티스 모란(Raul Genesis Ortiz Moran), 멕시코 출신 불법체류 외국인으로 2026년 7월 ICE에 체포되었습니다. 그는 버지니아주 루이자 카운티에서 2세 여아를 성폭행하고 살해한 혐의로 2급 살인 및 가중 성폭행 혐의로 기소되었습니다. 루이자 카운티 보안관실에 의한 최초 체포 이후, 지역 당국은 연방 법집행기관과 협력하여 그를 ICE 구금 상태로 인계했습니다.",
+      "투 루 방(Tou Lue Vang), 라오스 출신 불법체류 외국인으로 2025년 12월 10일 ICE에 체포되었습니다. 그의 범죄 전력에는 2002년부터 2004년 사이 한 소녀를 반복적으로 폭행한 혐의로 2006년에 받은 1급 성범죄 유죄판결이 포함되어 있습니다. 2026년 6월, 팀 월즈(Tim Walz) 주지사의 미네소타 사면심사위원회는 방에 대한 사면을 승인하기로 표결했습니다. ICE는 2026년 7월 방을 추방했습니다.",
+      "호수에 다비드 카란사 카스테욘(Josue David Carranza-Castellon), 온두라스 출신 불법체류 외국인으로 2026년 6월 뉴저지주 뉴어크 국제공항에서 ICE에 체포되었습니다. 그는 메릴랜드주에서 차량에 의한 과실치사 혐의로 수배 중이었기 때문에 출국을 시도하고 있었습니다. 그의 범죄 전력에는 4급 성범죄 전과와 미성년자에 대한 외설 행위 혐의로 체포된 전력이 포함되어 있습니다.",
+      "베네수엘라 출신 불법체류자인 지오반나 메르세데스 모레노 오치핀티(Giovanna Mercedes Moreno Occhipinti)는 2026년 5월 이민세관단속국(ICE)에 체포되었습니다. 그녀는 2024년 12월 시카고에서 발생한 트렌 데 아라과(Tren de Aragua) 연루 주택 파티 총격 사건에 가담한 혐의로 무기 불법 사용 및 무기 관련 범죄 혐의로 기소되었습니다. 그녀는 차량 내 두 명의 총격범이 파티 참석자들을 향해 총격을 가하여 3명이 사망하고 여러 명이 부상을 입는 동안 차량을 운전했으며, 범행 후 총격범들이 법 집행기관의 추적을 피하도록 도운 혐의를 받고 있습니다.",
+      "러시아 출신 불법체류자인 게오르기 가비예프(Georgii Gabiev)는 2026년 6월 뉴욕주 브루클린에서 이민세관단속국(ICE)에 체포되었습니다. 가비예프는 2024년 3월 미네소타주 치페와 카운티에서 미국인 트럭 운전사 팀 타노스키(Tim Tarnowski)를 사망에 이르게 한 충돌 사고를 일으킨 후 차량 과실치사 혐의에 대해 유죄를 인정한 바 있습니다. 사고 당시 가비예프는 운전 중 아이패드로 영어 학습 동영상을 시청하고 있었습니다. 그는 유죄 인정 후 단 120일간 수감되었습니다.",
+      "브라질 출신 불법체류자인 펠리페 리나레스 지 올리베이라 델 아퀼라(Felipe Linares De Oliveira Dell Aquilla)는 2026년 6월 노스캐롤라이나주 무어스빌에서 이민세관단속국(ICE)에 체포되었습니다. 그는 외국 테러조직(FTO)으로 지정된 프리메이로 코만도 다 카피탈(Primeiro Comando Da Capital, PCC)과 코만도 베르멜류(Comando Vermelho, CV) 양쪽의 지휘관을 역임한 바 있습니다. 그는 본국에서 범죄 결사 및 갈취 혐의로 국제 체포영장이 발부된 상태입니다. 체포 당시 그는 멕시코로 도주할 준비를 하면서 자신의 아내를 인질로 붙잡고 있었습니다.",
+      "인도 출신 불법체류자인 아만 쿠마르(Aman Kumar)는 2026년 5월 캘리포니아주 프레즈노에서 이민세관단속국(ICE)에 체포되었습니다. 그는 2026년 4월 4세 남아에게 부상을 입힌 사고를 일으킨 후 현장을 이탈한 혐의로 중범죄 뺑소니(사상자 발생) 혐의로 기소되었습니다. 그는 사고 다음 날 프레즈노 보안관서에 의해 체포되었으나, 캘리포니아의 소위 '피난처(sanctuary)' 정치인들이 그를 구치소에서 석방시켰습니다. 이민세관단속국(ICE)은 그 다음 달에 그를 체포했습니다.",
+      "온두라스 출신 불법체류자인 소일리 시오마라 아파리시오산토스(Soili Xiomara Aparicio-Santos)는 2026년 4월 이민세관단속국(ICE)에 체포되었습니다. 그녀는 이전에 뉴욕주에서 생후 하루 된 자신의 아들을 베개로 질식시키려 한 혐의로 2급 살인미수, 1급 및 2급 폭행미수, 아동 복지 위태화 혐의로 유죄 판결을 받은 바 있습니다. 지역 당국은 이민세관단속국(ICE)과 협력하여 그녀의 석방에 앞서 이민세관단속국(ICE) 법 집행기관에 통보했습니다. 이민세관단속국(ICE)은 4월 15일 아파리시오산토스를 추방했습니다.",
+      "영국 출신 불법체류자인 존 영 코터 존스톤(John Young Cotter Johnstone)은 2026년 4월 네바다주 라스베이거스에서 이민세관단속국(ICE)에 체포되었습니다. 라스베이거스 광역경찰국은 존스톤이 근무하던 동물보호소에서 개들을 반복적으로 학대하는 영상 증거를 입수한 후 그를 체포하여 중범죄 동물 학대 혐의로 기소했습니다. 체포 다음 날, 클라크 카운티 당국은 이민세관단속국(ICE)의 구금 요청(디테이너)을 수용하여 그를 이민세관단속국(ICE)의 구금으로 인계했습니다.",
+      "인도 출신 불법체류자인 라진더 쿠마르(Rajinder Kumar)는 2026년 4월 이민세관단속국(ICE)에 체포되었습니다. 그는 오리건주 데슈츠 카운티에서 대형 트레일러 트럭이 잭나이프 현상을 일으켜 신혼부부가 사망하는 충돌 사고를 유발한 혐의로 과실치사 및 무모한 위태화 혐의로 기소되었습니다. 체포 후 이민세관단속국(ICE)이 쿠마르에 대한 구금 요청(디테이너)을 제출했음에도 불구하고, 소위 '피난처(sanctuary)' 정치인들은 이를 수용하지 않고 4월에 그를 석방했습니다. 이민세관단속국(ICE)은 같은 달 말에 그를 체포했습니다.",
+      "# # #",
+      "국토안보 전체 체계",
+      "이민세관단속국",
+      "키워드",
+      "강제추방",
+      "이민세관단속국(ICE)",
+      "이민 법 집행",
+      "최종 업데이트: 2026년 11월 12일"
+    ],
+    "es": [
+      "Inicio",
+      "Noticias",
+      "Comunicados de Prensa",
+      "ICE Rompe Récords en el Año Fiscal 2026, con la Mayor Cantidad de Arrestos y Deportaciones en la Historia de la Agencia",
+      "Fecha de Publicación: 12 de noviembre de 2026",
+      "Solo el Año Fiscal 2026 superó ampliamente las cifras de deportaciones y arrestos de toda la Administración Biden",
+      "WASHINGTON – El Departamento de Seguridad Nacional de los Estados Unidos (DHS) anunció que el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) rompió el récord de la mayor cantidad de deportaciones y arrestos en cualquier año fiscal en el Año Fiscal 2026 (FY26), con más de 491,000 arrestos migratorios y más de 483,000 deportaciones.",
+      "En el FY26, ICE llevó a cabo 483,200 deportaciones, lo cual rompió el récord de la mayor cantidad de deportaciones en la historia de la agencia. Esto supera el récord anterior, registrado en el FY25, que tuvo 442,640 deportaciones.",
+      "El total de deportaciones del FY26 es casi igual al de los tres años fiscales completos de la Administración Biden combinados (FY22, FY23 y FY24), que suman 486,000. El total del FY26 también es más de ocho veces la cantidad de deportaciones del primer año fiscal de Biden, ya que el FY21 tuvo apenas poco más de 59,000 deportaciones.",
+      "El total de arrestos del FY26 incluye casi 475,000 arrestos administrativos, lo cual es, por mucho, el total más alto en la historia de ICE.",
+      "El total de arrestos del FY26 es mayor que la totalidad de los tres años fiscales completos de la Administración Biden combinados (FY22, FY23 y FY24), que suman menos de 427,000. También es más de seis veces la cantidad de arrestos del primer año fiscal de Biden, ya que el FY21 tuvo apenas poco más de 74,000 arrestos.",
+      "En el mes de septiembre, ICE llevó a cabo más de 48,000 arrestos, así como 44,000 expulsiones. Este total de arrestos representa un aumento de más del 300% respecto al promedio de septiembre durante la Administración Biden.",
+      "Esto se da después de varios meses que rompieron récords, con agosto superando el récord de la mayor cantidad de extranjeros ilegales arrestados por ICE en un solo mes, con 50,925. Esto rompió el récord anterior, registrado en julio de 2026, que tuvo 50,208 extranjeros ilegales arrestados. El récord previo a julio lo tenía junio de 2026, cuando se arrestó a 43,900 extranjeros ilegales.",
+      "“No podría estar más orgulloso de los valientes hombres y mujeres de ICE, quienes acaban de romper más récords históricos”, declaró el Secretario del DHS, Markwayne Mullin. “El Año Fiscal 2026 tuvo la mayor cantidad de deportaciones y arrestos de ICE de cualquier año en la historia de ICE. Septiembre de 2026 fue el mejor septiembre en la historia de ICE en términos de arrestos. La cantidad total de arrestos de ICE en el Año Fiscal 2026 fue mayor que la de los tres años fiscales completos bajo Biden combinados, mientras los patriotas de ICE trabajan las 24 horas del día para hacer que Estados Unidos vuelva a ser seguro. Gracias al liderazgo del Presidente Trump, se ha dado vía libre a ICE para identificar y expulsar a los extranjeros ilegales, de modo que podamos salvar vidas estadounidenses”.",
+      "Bajo el liderazgo del Presidente Trump, más de 3 millones de migrantes han dejado los Estados Unidos. Hasta octubre, hemos deportado a casi 1.2 millones de extranjeros ilegales y arrestado a más de 1.25 millones de extranjeros ilegales.",
+      "A continuación se presentan algunos ejemplos de los peores extranjeros ilegales arrestados por ICE durante el FY26:",
+      "Raul Genesis Ortiz Moran, un extranjero ilegal de México, arrestado por ICE en julio de 2026. Ha sido acusado de homicidio en segundo grado y agresión sexual agravada tras presuntamente abusar sexualmente y asesinar a una niña de 2 años en el condado de Louisa, Virginia. Tras su arresto inicial por parte del Departamento del Alguacil del Condado de Louisa, las autoridades locales cooperaron con las fuerzas del orden federales y lo entregaron bajo custodia de ICE.",
+      "Tou Lue Vang, un extranjero ilegal de Laos, arrestado por ICE el 10 de diciembre de 2025. Su historial delictivo incluye una condena por conducta sexual delictiva de primer grado en 2006, después de haber agredido repetidamente a una niña entre 2002 y 2004. En junio de 2026, la Comisión de Revisión de Clemencia de Minnesota del Gobernador Tim Walz votó a favor de otorgarle un indulto a Vang. ICE deportó a Vang en julio de 2026.",
+      "Josue David Carranza-Castellon, un extranjero ilegal de Honduras, arrestado por ICE en junio de 2026 en el Aeropuerto Internacional de Newark, en Nueva Jersey. Intentaba huir del país debido a que era buscado por cargos de homicidio, homicidio involuntario por negligencia con un vehículo, en Maryland. Su historial delictivo incluye una condena previa por delito sexual de cuarto grado y un arresto por actos lascivos u obscenos con un menor.",
+      "Giovanna Mercedes Moreno Occhipinti, una extranjera ilegal de Venezuela, arrestada por el Servicio de Inmigración y Control de Aduanas (ICE) en mayo de 2026. Ha sido acusada de uso ilegal de arma y delito de armas tras su presunta participación en un tiroteo masivo relacionado con el Tren de Aragua en una fiesta en una casa en Chicago en diciembre de 2024. Presuntamente condujo el vehículo mientras dos tiradores dentro del vehículo abrían fuego sobre la fiesta, matando a tres personas e hiriendo a varias más, y luego ayudó a los tiradores a evadir a las fuerzas del orden después del crimen.",
+      "Georgii Gabiev, un extranjero ilegal de Rusia, arrestado por ICE en junio de 2026 en Brooklyn, Nueva York. Gabiev se había declarado culpable de homicidio vehicular criminal tras provocar un accidente que mató al camionero estadounidense Tim Tarnowski en el condado de Chippewa, Minnesota, en marzo de 2024. En el momento del accidente, Gabiev estaba viendo un video sobre cómo aprender inglés en su iPad mientras conducía. Cumplió solo 120 días de cárcel tras su declaración de culpabilidad.",
+      "Felipe Linares De Oliveira Dell Aquilla, un extranjero ilegal de Brasil, arrestado por ICE en junio de 2026 en Mooresville, Carolina del Norte. Anteriormente se desempeñó como comandante del Primeiro Comando Da Capital (PCC) y del Comando Vermelho (CV), ambos designados como Organizaciones Terroristas Extranjeras (FTO). Tiene una orden de arresto internacional en su país de origen por asociación delictiva y extorsión. En el momento de su arresto, mantenía a su propia esposa como rehén mientras se preparaba para huir a México.",
+      "Aman Kumar, un extranjero ilegal de la India, arrestado por ICE en mayo de 2026 en Fresno, California. Fue acusado del delito grave de huida del lugar de los hechos con resultado de muerte o lesión tras provocar un accidente en abril de 2026 que hirió a un niño de 4 años antes de huir de la escena. Aunque fue arrestado por el Departamento del Alguacil de Fresno al día siguiente del accidente, políticos de ciudades santuario en California lo liberaron de la cárcel. ICE lo arrestó al mes siguiente.",
+      "Soili Xiomara Aparicio-Santos, una extranjera ilegal de Honduras, arrestada por ICE en abril de 2026. Anteriormente había sido condenada por intento de asesinato en segundo grado, agresión intentada en primer y segundo grado, y poner en peligro el bienestar de un menor, después de intentar asfixiar con una almohada a su hijo de un día de nacido en Nueva York. Las autoridades locales cooperaron con ICE y notificaron a las fuerzas del orden de ICE antes de su liberación. ICE deportó a Aparicio-Santos el 15 de abril.",
+      "John Young Cotter Johnstone, un extranjero ilegal del Reino Unido, arrestado por ICE en abril de 2026 en Las Vegas, Nevada. El Departamento de Policía Metropolitana de Las Vegas lo arrestó y lo acusó del delito grave de tortura de animales tras recibir evidencia en video de Johnstone torturando repetidamente a perros en el refugio de animales donde trabajaba. Al día siguiente de su arresto, las autoridades del condado de Clark honraron el detentor de ICE y lo entregaron bajo custodia de ICE.",
+      "Rajinder Kumar, un extranjero ilegal de la India, arrestado por ICE en abril de 2026. Ha sido acusado de homicidio por negligencia criminal y de poner en peligro de manera imprudente tras hacer que su camión semirremolque se plegara como una navaja en el condado de Deschutes, Oregón, causando un accidente que mató a una pareja recién casada. A pesar de que ICE presentó un detentor para Kumar después de su arresto, políticos de ciudades santuario se negaron a honrarlo y lo liberaron en abril. ICE lo arrestó más tarde ese mismo mes.",
+      "# # #",
+      "Empresa de Seguridad Nacional",
+      "Servicio de Inmigración y Control de Aduanas",
+      "Palabras clave",
+      "Deportación",
+      "Servicio de Inmigración y Control de Aduanas (ICE)",
+      "Aplicación de la Ley de Inmigración",
+      "Última actualización: 11/12/2026"
+    ],
+    "zh": [
+      "首页",
+      "新闻",
+      "新闻稿",
+      "2026财年移民及海关执法局创下纪录，逮捕和驱逐人数为该机构历史上最高",
+      "发布日期：2026年11月12日",
+      "仅2026财年一年的驱逐和逮捕人数就超过了拜登政府整个任期的总和",
+      "华盛顿，美国国土安全部（DHS）宣布，美国移民及海关执法局（ICE）在2026财年（FY26）创下任何财年中驱逐和逮捕人数的最高纪录，移民逮捕人数超过491,000人，驱逐人数超过483,000人。",
+      "在2026财年，移民及海关执法局（ICE）共执行了483,200次驱逐，打破了该机构历史上驱逐人数最高的纪录。这一数字超过了此前由2025财年保持的442,640次驱逐的纪录。",
+      "2026财年的驱逐总数几乎等同于拜登政府整整三个完整财年（2022财年、2023财年和2024财年）驱逐人数之和，即486,000人。2026财年的总数也是拜登政府第一个财年驱逐人数的八倍多，因为2021财年的驱逐人数仅略高于59,000人。",
+      "2026财年的逮捕总数中包括近475,000次行政逮捕，这是ICE历史上迄今为止的最高总数。",
+      "2026财年的逮捕总数超过了拜登政府整整三个完整财年（2022财年、2023财年和2024财年）的逮捕总数之和，即不到427,000人。该数字也是拜登政府第一个财年逮捕人数的六倍多，因为2021财年的逮捕人数仅略高于74,000人。",
+      "在9月份，ICE共执行了超过48,000次逮捕，以及44,000次遣返。这一逮捕总数比拜登政府执政期间9月份的平均水平增长了300%以上。",
+      "此前几个月也连续创下纪录，8月份打破了ICE单月逮捕非法移民人数最多的纪录，达到50,925人。这一纪录超过了此前由2026年7月保持的纪录，当时逮捕了50,208名非法移民。在7月之前的纪录由2026年6月保持，当月逮捕了43,900名非法移民。",
+      "“我为ICE的英勇男女员工感到无比自豪，他们再次创下了历史性纪录，”国土安全部部长马克韦恩·穆林（Markwayne Mullin）表示。“2026财年ICE的驱逐和逮捕人数为该机构历史上任何一年中的最高水平。2026年9月的逮捕人数是ICE历史上9月份的最佳表现。2026财年ICE的逮捕总数超过了拜登政府整整三个完整财年的总和，因为ICE的爱国者们夜以继日地工作，让美国重新变得安全。感谢特朗普总统的领导，ICE得以充分发挥作用，锁定并遣返非法移民，以拯救美国人的生命。”",
+      "在特朗普总统的领导下，已有超过300万名移民离开美国。截至10月，我们已驱逐近120万名非法移民，并逮捕了超过125万名非法移民。",
+      "以下是2026财年ICE逮捕的部分最恶劣非法移民的实例：",
+      "劳尔·赫内西斯·奥尔蒂斯·莫兰（Raul Genesis Ortiz Moran），一名来自墨西哥的非法移民，于2026年7月被ICE逮捕。他被控二级谋杀和加重性侵罪，涉嫌在弗吉尼亚州路易莎县性侵并杀害一名2岁女童。在路易莎县治安官办公室对其实施初次逮捕后，地方当局与联邦执法部门合作，将其移交给ICE羁押。",
+      "涛卢万（Tou Lue Vang），一名来自老挝的非法移民，于2025年12月10日被ICE逮捕。他的犯罪记录包括2006年因一级刑事性行为不端罪被定罪，此前他在2002年至2004年间多次猥亵一名女孩。2026年6月，蒂姆·沃尔茨（Tim Walz）州长的明尼苏达州赦免审查委员会投票决定赦免万。ICE于2026年7月将万驱逐出境。",
+      "约苏埃·大卫·卡兰萨-卡斯特利翁（Josue David Carranza-Castellon），一名来自洪都拉斯的非法移民，于2026年6月在新泽西州纽瓦克国际机场被ICE逮捕。他当时正试图潜逃出境，因其在马里兰州因驾车过失杀人（负有责任的过失致人死亡）罪被通缉。他的犯罪记录还包括此前因四级性犯罪被定罪，以及因与未成年人发生猥亵行为被逮捕的记录。",
+      "乔瓦娜·梅赛德斯·莫雷诺·奥奇皮恩蒂,来自委内瑞拉的非法外国人,于2026年5月被美国移民及海关执法局(ICE)逮捕。她被控非法使用武器罪和武器犯罪,原因是她涉嫌参与了2024年12月在芝加哥一处住宅派对上由阿拉瓜列车帮(Tren de Aragua)参与的大规模枪击案。她被指控在两名枪手在车内向派对人群开枪时负责驾驶车辆,该枪击造成三人死亡,数人受伤,事后她还帮助枪手逃避执法人员追捕。",
+      "格奥尔基·加比耶夫,来自俄罗斯的非法外国人,于2026年6月在纽约州布鲁克林被美国移民及海关执法局(ICE)逮捕。加比耶夫此前曾对刑事车辆杀人罪表示认罪,原因是他在2024年3月于明尼苏达州奇佩瓦县造成一起车祸,致使美国卡车司机蒂姆·塔尔诺夫斯基死亡。事故发生时,加比耶夫正在驾车途中用他的iPad观看学习英语的视频。认罪后,他仅服刑120天。",
+      "费利佩·利纳雷斯·德·奥利维拉·德尔·阿基拉,来自巴西的非法外国人,于2026年6月在北卡罗来纳州穆尔斯维尔被美国移民及海关执法局(ICE)逮捕。他此前曾担任“第一首都司令部”(Primeiro Comando Da Capital,简称PCC)和“红色司令部”(Comando Vermelho,简称CV)的指挥官,这两个组织均被认定为外国恐怖组织(FTOs)。他在本国因犯罪结社和敲诈勒索罪而被发出国际通缉令。被捕时,他正扣押自己的妻子作为人质,准备逃往墨西哥。",
+      "阿曼·库马尔,来自印度的非法外国人,于2026年5月在加利福尼亚州弗雷斯诺被美国移民及海关执法局(ICE)逮捕。他被控重罪肇事逃逸致人死亡或受伤罪,原因是他在2026年4月造成一起事故,致使一名4岁男童受伤后逃离现场。尽管他在事故发生次日即被弗雷斯诺县警长办公室逮捕,但加利福尼亚州的庇护政客将他从监狱中释放。ICE于次月将其逮捕。",
+      "索伊莉·肖马拉·阿帕里西奥-桑托斯,来自洪都拉斯的非法外国人,于2026年4月被美国移民及海关执法局(ICE)逮捕。她此前曾因在纽约州企图用枕头闷死自己出生仅一天的儿子,而被判犯有二级谋杀未遂罪、一级和二级人身伤害未遂罪以及危害儿童福祉罪。当地执法机构与ICE进行了合作,并在她获释前通知了ICE执法人员。ICE于4月15日将阿帕里西奥-桑托斯驱逐出境。",
+      "约翰·扬·科特·约翰斯通,来自英国的非法外国人,于2026年4月在内华达州拉斯维加斯被美国移民及海关执法局(ICE)逮捕。拉斯维加斯大都会警察局在收到约翰斯通在其工作的动物收容所中多次虐待狗的视频证据后,将其逮捕并控以重罪虐待动物罪。他被捕次日,克拉克县官员即执行了ICE发出的拘留请求,将其移交ICE羁押。",
+      "拉金德尔·库马尔,来自印度的非法外国人,于2026年4月被美国移民及海关执法局(ICE)逮捕。他被控过失杀人罪和危险疏忽罪,原因是他驾驶的半挂卡车及拖车在俄勒冈州德舒特县发生折叠式侧翻事故,导致一对新婚夫妇死亡。尽管ICE在库马尔被捕后对其发出拘留请求,但庇护政客拒绝执行该请求,并于4月将其释放。ICE于当月晚些时候将其逮捕。",
+      "# # #",
+      "国土安全事业",
+      "移民及海关执法局",
+      "关键词",
+      "驱逐出境",
+      "移民及海关执法局(ICE)",
+      "移民执法",
+      "最后更新日期:2026年11月12日"
+    ],
+    "ja": [
+      "ホーム",
+      "ニュース",
+      "プレスリリース",
+      "ICE、2026会計年度に過去最多の逮捕者数及び国外追放者数を記録し、同庁の歴史において記録を更新",
+      "発表日,2026年11月12日",
+      "2026会計年度単独で、バイデン政権全期間の国外追放者数及び逮捕者数を上回る",
+      "ワシントン,米国国土安全保障省(DHS)は、米国移民税関捜査局(ICE)が2026会計年度(FY26)において、491,000件を超える移民関連逮捕及び483,000件を超える国外追放を記録し、いかなる会計年度においても過去最多の国外追放者数及び逮捕者数を記録したと発表した。",
+      "FY26において、ICEは483,200件の国外追放を実施し、これは同庁の歴史上最多の国外追放件数の記録を更新するものである。これは、442,640件の国外追放を記録した従来の最多記録であるFY25を上回るものである。",
+      "FY26の国外追放件数の合計は、バイデン政権下の3つの完全な会計年度(FY22、FY23、FY24)の合計である486,000件とほぼ同数である。また、FY26の合計件数は、バイデン政権最初の会計年度における国外追放件数の8倍以上であり、FY21の国外追放件数はわずか59,000件強であった。",
+      "FY26の逮捕件数の合計には、約475,000件の行政逮捕が含まれており、これはICEの歴史上群を抜いて最多の件数である。",
+      "FY26の逮捕件数の合計は、バイデン政権下の3つの完全な会計年度(FY22、FY23、FY24)の合計である427,000件未満を上回っている。また、バイデン政権最初の会計年度における逮捕件数の6倍以上であり、FY21の逮捕件数はわずか74,000件強であった。",
+      "9月単月において、ICEは48,000件を超える逮捕及び44,000件の国外退去を実施した。この逮捕件数は、バイデン政権下における平均的な9月と比較して300%を超える増加を示すものである。",
+      "これは、数か月にわたる記録更新に続くものであり、8月にはICEが単月で逮捕した不法滞在外国人の数として50,925件という最多記録を樹立した。これは、50,208件の不法滞在外国人を逮捕した2026年7月の従来の記録を上回るものである。7月以前の記録は、43,900件の不法滞在外国人が逮捕された2026年6月に樹立されたものであった。",
+      "「ICEの勇敢な男女職員たちが、またしても歴史的な記録を更新したことを、これ以上なく誇りに思う」と、DHS長官マークウェイン・ムリンは述べた。「2026会計年度は、ICEの歴史上いかなる年と比較しても、最多の国外追放者数及び逮捕者数を記録した年となった。2026年9月は、逮捕件数においてICEの歴史上最高の9月であった。2026会計年度におけるICEの逮捕件数の合計は、バイデン政権下の3つの完全な会計年度の合計を上回るものであり、ICEの愛国者たちは、アメリカを再び安全な国にするために昼夜を問わず働いている。トランプ大統領の指導力のおかげで、ICEは不法滞在外国人を標的として国外追放するために解き放たれ、それによって我々はアメリカ人の命を救うことができるのだ。」",
+      "トランプ大統領の指導の下、300万人を超える移民が米国を去った。10月時点で、我々は現在、約120万人の不法滞在外国人を国外追放し、125万人以上の不法滞在外国人を逮捕した。",
+      "以下は、FY26中にICEによって逮捕された最も凶悪な不法滞在外国人の事例の一部である。",
+      "ラウル・ヘネシス・オルティス・モラン、メキシコ出身の不法滞在外国人で、2026年7月にICEによって逮捕された。バージニア州ルイーザ郡において2歳の女児を性的暴行の上殺害した疑いにより、第二級殺人及び加重性的暴行の罪で起訴されている。ルイーザ郡保安官事務所による当初の逮捕の後、地元当局は連邦法執行機関と協力し、同人をICEの拘留下に引き渡した。",
+      "トゥ・ルー・ヴァン、ラオス出身の不法滞在外国人で、2025年12月10日にICEによって逮捕された。その犯罪歴には、2002年から2004年にかけて少女を繰り返し暴行したことによる、2006年の第一級刑事性的暴行罪の有罪判決が含まれる。2026年6月、ティム・ウォルズ知事のミネソタ州恩赦審査委員会は、ヴァンへの恩赦付与を可決した。ICEは2026年7月にヴァンを国外追放した。",
+      "ホスエ・ダビッド・カランサ・カステジョン、ホンジュラス出身の不法滞在外国人で、2026年6月にニュージャージー州ニューアーク国際空港においてICEによって逮捕された。同人は、メリーランド州における殺人、すなわち車両による過失致死の容疑で指名手配されていたことから、国外への逃亡を図っていた。その犯罪歴には、第四級性犯罪の前科、及び未成年者に対するわいせつ行為による逮捕歴が含まれる。",
+      "ジョバンナ・メルセデス・モレノ・オッキピンティは、ベネズエラ出身の不法入国者であり、2026年5月にICE(移民関税執行局)により逮捕された。彼女は、2024年12月にシカゴで発生したトレン・デ・アラグアが関与した住宅パーティーでの銃乱射事件への関与が疑われ、銃器の不法使用及び銃器犯罪の罪で起訴されている。彼女は、車内にいた2名の銃撃犯がパーティー参加者に向けて発砲する間、車両を運転していたとされ、この事件により3名が死亡し、複数名が負傷した。その後、彼女は犯行後に銃撃犯らが法執行機関から逃れるのを手助けしたとされている。",
+      "ゲオルギー・ガビエフは、ロシア出身の不法入国者であり、2026年6月にニューヨーク州ブルックリンにおいてICEにより逮捕された。ガビエフは、2024年3月にミネソタ州チペワ郡において衝突事故を引き起こし、アメリカ人トラック運転手のティム・タルノウスキー氏を死亡させた後、刑事自動車過失致死罪について有罪を認めていた。事故当時、ガビエフは運転中にiPadで英語学習動画を視聴していた。有罪答弁の後、彼はわずか120日間の服役にとどまった。",
+      "フェリペ・リナレス・デ・オリベイラ・デル・アキラは、ブラジル出身の不法入国者であり、2026年6月にノースカロライナ州ムーアズビルにおいてICEにより逮捕された。彼は以前、外国テロ組織(FTO)に指定されているプリメイロ・コマンド・ダ・カピタル(PCC)及びコマンド・ヴェルメーリョ(CV)の両組織の指揮官を務めていた。彼には、本国において犯罪結社及び恐喝の容疑で国際逮捕状が発付されている。逮捕当時、彼はメキシコへの逃亡を準備しており、自身の妻を人質に取っていた。",
+      "アマン・クマールは、インド出身の不法入国者であり、2026年5月にカリフォルニア州フレズノにおいてICEにより逮捕された。彼は、2026年4月に4歳の男児を負傷させる事故を引き起こした後、現場から逃走したとして、重罪のひき逃げ(死亡又は傷害)の罪で起訴された。彼は事故の翌日にフレズノ郡保安官事務所により逮捕されたが、カリフォルニア州の聖域政策を支持する政治家らにより拘置所から釈放された。ICEは翌月に彼を逮捕した。",
+      "ソイリ・ショマラ・アパリシオ・サントスは、ホンジュラス出身の不法入国者であり、2026年4月にICEにより逮捕された。彼女は以前、ニューヨーク州において生後1日の息子を枕で窒息させようとした容疑で、第二級殺人未遂、第一級及び第二級傷害未遂、並びに児童の福祉を害する罪について有罪判決を受けていた。地元当局はICEに協力し、彼女の釈放に先立ちICE法執行部門に通知していた。ICEは4月15日にアパリシオ・サントスを国外退去させた。",
+      "ジョン・ヤング・コッター・ジョンストンは、英国出身の不法入国者であり、2026年4月にネバダ州ラスベガスにおいてICEにより逮捕された。ラスベガス・メトロポリタン警察は、ジョンストンが勤務していた動物保護施設において犬を繰り返し虐待していたとする映像証拠を受け、彼を逮捕し、重罪の動物虐待罪で起訴した。逮捕の翌日、クラーク郡当局はICEの拘禁要請(デテイナー)に応じ、彼をICEの拘禁下に引き渡した。",
+      "ラジンダー・クマールは、インド出身の不法入国者であり、2026年4月にICEにより逮捕された。彼は、オレゴン州デシューツ郡においてセミトラック及びトレーラーをジャックナイフ状態にさせる事故を引き起こし、新婚夫婦を死亡させたことにより、刑事上の過失致死及び無謀な危険行為の罪で起訴されている。ICEは彼の逮捕後に拘禁要請(デテイナー)を発付したにもかかわらず、聖域政策を支持する政治家らはこれに応じることを拒否し、4月に彼を釈放した。ICEは同月中に彼を逮捕した。",
+      "# # #",
+      "国土安全保障エンタープライズ",
+      "移民関税執行局",
+      "キーワード",
+      "国外退去",
+      "移民関税執行局(ICE)",
+      "移民法執行",
+      "最終更新日:2026年11月12日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}

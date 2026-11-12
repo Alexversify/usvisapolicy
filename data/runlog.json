@@ -1,5 +1,48 @@
 [
   {
+    "t": "2026-11-12T20:08:18Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43295442548",
+    "found": 5,
+    "added": [
+      {
+        "id": "1a593b8c6a2d",
+        "source": "dhs_news",
+        "title": "ICE, 살인·아동 성범죄·마약밀매 전과 불법체류자 체포 발표"
+      },
+      {
+        "id": "4624139c3c02",
+        "source": "dhs_news",
+        "title": "DHS, 텍사스주 휴스턴에서 ICE가 체포한 범죄 전력 불법체류자 명단 공개"
+      },
+      {
+        "id": "0d780299827f",
+        "source": "dhs_news",
+        "title": "ICE, 2026 회계연도 역대 최다 체포 및 추방 기록 발표"
+      },
+      {
+        "id": "806eb7f6cea3",
+        "source": "dhs_news",
+        "title": "ICE, 시카고에서 차량으로 요원을 치고 끌고 간 불법체류자 체포"
+      },
+      {
+        "id": "19881e12283d",
+        "source": "dhs_news",
+        "title": "ICE, 항공기 납치 시도 혐의 불법체류 외국인 석방 자제 요청"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.0532,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-12T11:21:05Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43208123684",

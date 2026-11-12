@@ -1,5 +1,102 @@
 [
   {
+    "id": "19881e12283d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/12/ice-requests-local-authorities-not-release-criminal-illegal-alien-who-attempted",
+    "published": "2026-11-12",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement",
+      "humanitarian"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Asylum Fraud",
+      "Hijacking Attempt"
+    ],
+    "added": "2026-11-12T20:07Z"
+  },
+  {
+    "id": "806eb7f6cea3",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/12/ice-arrests-illegal-alien-who-intentionally-ran-over-and-dragged-officer-vehicle",
+    "published": "2026-11-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Chicago"
+    ],
+    "added": "2026-11-12T20:05Z"
+  },
+  {
+    "id": "0d780299827f",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/12/ice-breaks-records-fiscal-year-2026-most-arrests-and-deportations-agencys-history",
+    "published": "2026-11-12",
+    "effective_date": null,
+    "importance": "high",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Deportations",
+      "Arrests"
+    ],
+    "added": "2026-11-12T20:03Z"
+  },
+  {
+    "id": "4624139c3c02",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/12/dhs-highlights-worst-illegal-aliens-arrested-houston-texas",
+    "published": "2026-11-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Removal"
+    ],
+    "added": "2026-11-12T20:01Z"
+  },
+  {
+    "id": "1a593b8c6a2d",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/12/worst-worst-ice-arrests-murderers-pedophiles-and-drug-traffickers",
+    "published": "2026-11-12",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-12T20:00Z"
+  },
+  {
     "id": "e629e21e9439",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters",
