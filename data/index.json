@@ -1,5 +1,45 @@
 [
   {
+    "id": "bd835d00fc61",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/13/ice-arrests-illegal-alien-responsible-fatal-dui-after-illinois-sanctuary",
+    "published": "2026-11-13",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Sanctuary Jurisdiction",
+      "DUI",
+      "Illinois"
+    ],
+    "added": "2026-11-13T19:50Z"
+  },
+  {
+    "id": "c538fec3c758",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/13/sanctuary-insanity-dhs-blasts-sanctuary-california-releasing-illegal-alien-gang",
+    "published": "2026-11-13",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Sanctuary Jurisdiction",
+      "Enforcement"
+    ],
+    "added": "2026-11-13T19:48Z"
+  },
+  {
     "id": "19881e12283d",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/12/ice-requests-local-authorities-not-release-criminal-illegal-alien-who-attempted",

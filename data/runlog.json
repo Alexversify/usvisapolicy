@@ -1,5 +1,33 @@
 [
   {
+    "t": "2026-11-13T19:50:57Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43495147557",
+    "found": 2,
+    "added": [
+      {
+        "id": "c538fec3c758",
+        "source": "dhs_news",
+        "title": "DHS, 캘리포니아 '보호도시' 정책 비판하며 갱단 연루 불법체류자 석방 사례 공개"
+      },
+      {
+        "id": "bd835d00fc61",
+        "source": "dhs_news",
+        "title": "ICE, 일리노이주가 가석방 석방한 음주운전 사망사고 불법체류자 재검거"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 0.5836,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-13T11:05:14Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43413971299",

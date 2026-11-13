@@ -1,0 +1,389 @@
+{
+  "id": "bd835d00fc61",
+  "source": "dhs_news",
+  "url": "https://www.dhs.gov/news/2026/11/13/ice-arrests-illegal-alien-responsible-fatal-dui-after-illinois-sanctuary",
+  "original_title": "ICE Arrests Illegal Alien Responsible for Fatal DUI After Illinois Sanctuary Politicians Released Him",
+  "published": "2026-11-13",
+  "effective_date": null,
+  "importance": "low",
+  "category": "enforcement",
+  "tags": [
+    "ICE",
+    "Enforcement",
+    "Sanctuary Jurisdiction",
+    "DUI",
+    "Illinois"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "ICE, 일리노이주가 가석방 석방한 음주운전 사망사고 불법체류자 재검거",
+      "summary": "DHS는 2026년 11월 13일 발표한 보도자료에서 ICE가 멕시코 국적의 불법체류자 Vicente Torres-Vasquez를 11월 11일 체포했다고 밝혔습니다. 그는 2011년 음주운전 사고로 1명을 숨지게 하고 2명에게 부상을 입혀 25년형을 선고받았으며, 일리노이주 교정당국이 ICE의 구금요청(detainer)을 이행하지 않고 그를 가석방으로 석방한 뒤 ICE가 다시 체포했습니다.",
+      "points": [
+        "Torres-Vasquez는 2012년 가중 음주운전치사 및 가중 음주운전치상 2건으로 유죄판결을 받고 25년형을 선고받았습니다.",
+        "ICE는 2017년과 2026년 두 차례 구금요청(detainer)을 제기했으나, Stateville 교정시설이 2026년 11월 2일 ICE에 통보 없이 그를 가석방 석방했습니다.",
+        "ICE 시카고 지역 단속·추방국(ERO)이 11월 11일 그를 체포했으며, 현재 추방 절차를 앞두고 ICE 구금 상태입니다.",
+        "그는 과거 음주운전으로 4차례 체포된 적이 있으며 그 중 3건에서 유죄판결을 받았습니다.",
+        "DHS는 Markwayne Mullin 국토안보부 장관의 발언을 인용해 일리노이주의 생츄어리(sanctuary) 정책을 비판했으며, 보도자료에는 최근 일리노이주에서 발생한 다른 불법체류자 관련 범죄 사례들도 함께 나열되었습니다."
+      ],
+      "who": "불법체류 신분으로 중범죄를 저지른 후 생츄어리 관할권에서 석방된 개인과 관련 추방 절차를 다루는 이민 집행 당국이 해당됩니다.",
+      "action": ""
+    },
+    "en": {
+      "title": "ICE Re-Arrests Illegal Alien Freed by Illinois Officials After Fatal DUI Sentence",
+      "summary": "DHS announced on November 13, 2026 that ICE arrested Vicente Torres-Vasquez, a Mexican national, on November 11 after Illinois state corrections officials released him on parole without honoring an ICE detainer. Torres-Vasquez had served part of a 25-year sentence for a 2011 DUI crash that killed one person and injured two others.",
+      "points": [
+        "Torres-Vasquez was convicted in 2012 of aggravated DUI resulting in death and two counts of aggravated DUI resulting in great bodily injury, receiving a 25-year sentence.",
+        "ICE lodged detainers in January 2017 and again in 2026, but Stateville Correctional Center released him on parole on November 2, 2026 without notifying ICE.",
+        "ICE Enforcement and Removal Operations (ERO) Chicago arrested him on November 11, 2026, and he remains in ICE custody pending removal proceedings.",
+        "He had previously been arrested four times for DUI, with three convictions, and had entered the U.S. illegally multiple times before receiving a final removal order in 2010.",
+        "DHS included a statement from Secretary Markwayne Mullin criticizing Illinois sanctuary policies, and the release listed several other recent cases involving illegal aliens in Illinois."
+      ],
+      "who": "Affects individuals in ICE custody or removal proceedings, and relates to ICE's enforcement interactions with state and local jurisdictions that limit cooperation with immigration detainers.",
+      "action": ""
+    },
+    "es": {
+      "title": "ICE vuelve a arrestar a inmigrante indocumentado liberado por Illinois tras condena por DUI mortal",
+      "summary": "El DHS anunció el 13 de noviembre de 2026 que ICE arrestó a Vicente Torres-Vasquez, ciudadano mexicano, el 11 de noviembre, después de que las autoridades penitenciarias de Illinois lo liberaran en libertad condicional sin respetar una orden de detención (detainer) de ICE. Torres-Vasquez cumplía parte de una condena de 25 años por un accidente de 2011 causado por manejar bajo los efectos del alcohol, que dejó una persona muerta y dos heridas.",
+      "points": [
+        "En 2012 fue condenado por DUI agravado con resultado de muerte y dos cargos de DUI agravado con lesiones graves, recibiendo una sentencia de 25 años.",
+        "ICE presentó detainers en enero de 2017 y de nuevo en 2026, pero el Centro Correccional Stateville lo liberó en libertad condicional el 2 de noviembre de 2026 sin notificar a ICE.",
+        "ICE Enforcement and Removal Operations (ERO) Chicago lo arrestó el 11 de noviembre de 2026 y permanece bajo custodia de ICE en espera de un proceso de remoción.",
+        "Había sido arrestado previamente cuatro veces por DUI, con tres condenas, y había ingresado ilegalmente a Estados Unidos varias veces antes de recibir una orden final de remoción en 2010.",
+        "El DHS incluyó una declaración del secretario Markwayne Mullin criticando las políticas de santuario de Illinois, y el comunicado enumeró otros casos recientes relacionados con inmigrantes indocumentados en ese estado."
+      ],
+      "who": "Afecta a personas bajo custodia o en procesos de remoción de ICE, y se relaciona con la cooperación entre ICE y jurisdicciones estatales y locales que limitan el cumplimiento de órdenes de detención migratoria.",
+      "action": ""
+    },
+    "zh": {
+      "title": "伊利诺伊州释放致命醉驾非法移民后 ICE再次将其逮捕",
+      "summary": "美国国土安全部（DHS）于2026年11月13日宣布，ICE在11月11日逮捕了墨西哥籍非法移民Vicente Torres-Vasquez。此前伊利诺伊州惩教部门在未通知ICE的情况下将其假释释放，未遵守ICE的拘留请求（detainer）。Torres-Vasquez因2011年醉驾致一人死亡、两人受伤被判处25年监禁，此次被捕时尚在服刑期间。",
+      "points": [
+        "2012年他被判定犯有加重醉驾致死罪及两项加重醉驾致重伤罪，获刑25年。",
+        "ICE分别于2017年1月和2026年提出拘留请求，但Stateville惩教中心于2026年11月2日未通知ICE即将其假释释放。",
+        "ICE芝加哥执法与遣返行动处（ERO）于2026年11月11日将其逮捕，目前他被ICE拘留，等待遣返程序。",
+        "他此前曾四次因醉驾被捕，其中三次被定罪，并曾多次非法入境美国，2010年已被移民法官下达最终遣返令。",
+        "DHS在声明中引用了国土安全部长Markwayne Mullin对伊利诺伊州庇护政策的批评，并列举了该州近期发生的其他涉及非法移民的犯罪案件。"
+      ],
+      "who": "涉及正被ICE拘留或面临遣返程序的个人，以及ICE与限制配合移民拘留请求的州和地方辖区之间的执法互动。",
+      "action": ""
+    },
+    "ja": {
+      "title": "イリノイ州が仮釈放した飲酒死亡事故の不法滞在者をICEが再逮捕",
+      "summary": "米国土安全保障省（DHS）は2026年11月13日、メキシコ国籍の不法滞在者ヴィセンテ・トーレス＝バスケス容疑者を11月11日にICEが逮捕したと発表しました。同容疑者は2011年の飲酒運転事故で1人を死亡させ2人を負傷させた罪で25年の実刑判決を受けていましたが、イリノイ州の矯正当局がICEへの通知なしに仮釈放していました。",
+      "points": [
+        "2012年、死亡を伴う加重飲酒運転罪と重傷を伴う加重飲酒運転罪2件で有罪判決を受け、25年の実刑が言い渡されました。",
+        "ICEは2017年1月と2026年の2度にわたり拘束要請（デテイナー）を発出しましたが、Stateville矯正センターは2026年11月2日、ICEに通知せずに同容疑者を仮釈放しました。",
+        "ICEシカゴ執行・送還局（ERO）が2026年11月11日に身柄を確保し、現在は強制送還手続きを待つためICEの拘束下にあります。",
+        "同容疑者は過去に飲酒運転で4回逮捕され、うち3回有罪となっており、複数回不法入国した後、2010年に最終送還命令を受けていました。",
+        "DHSの声明にはマークウェイン・マリン国土安全保障長官によるイリノイ州のサンクチュアリ政策への批判が含まれており、発表文では同州で最近発生した他の不法滞在者関連事件も列挙されています。"
+      ],
+      "who": "ICEに拘束されている、または送還手続き中の個人、ならびに移民拘束要請への協力を制限する州・地方自治体とICEとの執行上の関係に関わる内容です。",
+      "action": ""
+    }
+  },
+  "added": "2026-11-13T19:50Z",
+  "model": "claude-sonnet-5",
+  "agency": "ice",
+  "topics": [
+    "enforcement"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "li",
+        "x": "Home"
+      },
+      {
+        "t": "li",
+        "x": "News"
+      },
+      {
+        "t": "li",
+        "x": "Press Releases"
+      },
+      {
+        "t": "li",
+        "x": "ICE Arrests Illegal Alien Responsible for Fatal DUI After Illinois Sanctuary Politicians Released Him"
+      },
+      {
+        "t": "p",
+        "x": "Release Date: November 13, 2026"
+      },
+      {
+        "t": "p",
+        "x": "This illegal alien had previously been arrested FOUR TIMES for driving under the influence"
+      },
+      {
+        "t": "p",
+        "x": "WASHINGTON – The United States Department of Homeland Security (DHS) released the following statement announcing that U.S. Immigration and Customs Enforcement (ICE) arrested an illegal alien who had been RELEASED by sanctuary politicians in Illinois, after serving a prison sentence for causing a fatal accident while driving under the influence."
+      },
+      {
+        "t": "p",
+        "x": "Vicente Torres-Vasquez, an illegal alien from Mexico, was arrested in Wauconda, Illinois after causing a fatal crash on July 24, 2011, while driving under the influence (DUI). His victim was 55-year-old Gregory Errol Homola, a veteran of the U.S. Marine Corps, who was riding his motorcycle when he was struck by Torres-Vasquez. Two other women in another vehicle were also injured in the accident."
+      },
+      {
+        "t": "p",
+        "x": "The victim: Gregory Errol Homola"
+      },
+      {
+        "t": "p",
+        "x": "Torres-Vasquez was convicted in 2012 for aggravated driving under the influence resulting in the death of another person and TWO counts of aggravated driving under the influence resulting in great bodily injury. He was sentenced to 25 years in prison."
+      },
+      {
+        "t": "p",
+        "x": "Torres-Vasquez had previously been arrested FOUR TIMES for driving under the influence, being convicted on three of the four counts."
+      },
+      {
+        "t": "p",
+        "x": "The killer: Vicente Torres-Vasquez"
+      },
+      {
+        "t": "p",
+        "x": "On January 16, 2017, ICE lodged a detainer with the Illinois River Correctional Center (IRCC) in Canton, Illinois. On March 3, 2026, IRCC transferred Torres-Vasquez to the Stateville Correctional Center (SCC) in Crest Hill, Illinois, in anticipation of his parole release date. ICE then lodged another detainer. But on November 2, 2026, SCC refused to honor the ICE detainer and RELEASED him on parole without notifying ICE."
+      },
+      {
+        "t": "p",
+        "x": "On November 11, ICE Enforcement and Removal Operations (ERO) Chicago arrested Vicente Torres-Vasquez at large. He will remain in ICE custody pending removal proceedings."
+      },
+      {
+        "t": "p",
+        "x": "“This illegal alien was sentenced to 25 years in prison after killing a man while drunk behind the wheel. When ICE lodged a detainer ahead of his release on parole, sanctuary politicians in J.B. Pritzker’s Illinois refused to cooperate with us and released him without notifying ICE,” said Homeland Security Secretary Markwayne Mullin. “Thankfully, the brave patriots of ICE managed to arrest this killer anyway, and he will now be deported from our country. These heartless sanctuary politicians need to stop prioritizing political power over the safety of their constituents. They owe it to the Angel Families to work with us so that we can prevent any more American lives from being lost to illegal alien crime.”"
+      },
+      {
+        "t": "p",
+        "x": "Torres-Vasquez illegally entered the United States through Arizona TWICE in March 2004, and was granted voluntary departures both times. He then illegally entered the country for a third time at an unknown date and location. An Immigration Judge issued him a final order of removal on November 11, 2010."
+      },
+      {
+        "t": "p",
+        "x": "Under Governor J.B. Pritzker, Illinois has become a hotbed of illegal alien crime. Some of the recent illegal alien crimes in the sanctuary state include:"
+      },
+      {
+        "t": "li",
+        "x": "In August, ICE arrested Hamed Mohammed Hamed Alsaidi, an illegal alien from Jordan, after he had been arrested for having EIGHT Molotov cocktails in his possession in Mokena, Illinois. He had been released by sanctuary politicians in Will County who refused to honor ICE’s detainer, and ICE arrested him two days later."
+      },
+      {
+        "t": "li",
+        "x": "In June, ICE lodged a detainer for Janio Gionel Velasquez-Muro, an illegal alien from Venezuela, after he was arrested for kidnapping and sexually assaulting a 9-year-old girl in Kane County, Illinois."
+      },
+      {
+        "t": "li",
+        "x": "In June, ICE arrested Giovanna Mercedes Moreno Occhipinti, an illegal alien from Venezuela and former teacher, for her involvement in a Tren de Aragua mass shooting in December 2024 that killed three people and injured several others at a house party in Chicago, Illinois."
+      },
+      {
+        "t": "li",
+        "x": "In March, ICE lodged a detainer for Jose Medina-Medina, an illegal alien from Venezuela, after he was arrested for shooting and killing 18-year-old Loyola College student Sheridan Gorman in Chicago, Illinois."
+      },
+      {
+        "t": "li",
+        "x": "In October 2025, ICE lodged a detainer for Leyter Jeferson Arauz-Medina, an illegal alien from Nicaragua, after his arrest for raping a 54-year-old woman in Chicago, Illinois."
+      },
+      {
+        "t": "li",
+        "x": "In October 2025, ICE arrested Radule Bojovic, an illegal alien from Montenegro, who was working as a sworn police officer with the Hanover Park Police Department."
+      },
+      {
+        "t": "li",
+        "x": "In September 2025, ICE lodged a detainer for Jose Javier Coronado-Meza, an illegal alien from Venezuela, after he was arrested for killing a man execution-style and then burying his body in concrete in Cook County, Illinois."
+      },
+      {
+        "t": "li",
+        "x": "In July 2025, ICE arrested Luis Mendoza-Gonzalez, an illegal alien from Mexico, after he was released by sanctuary politicians in Lake County, despite being arrested for hiding the body of 37-year-old Megan Bos on his property."
+      },
+      {
+        "t": "li",
+        "x": "In January 2025, Julio Cucul-Bol, an illegal alien from Guatemala, caused a drunk-driving crash that killed 20-year-old Katie Abraham in Urbana, Illinois. Cucul-Bol now faces charges of leaving the scene of a crash resulting in death, aggravated driving under the influence resulting in death, and reckless homicide. Operation Midway Blitz was launched in September 2025 in Katie’s honor."
+      },
+      {
+        "t": "p",
+        "x": "# # #"
+      },
+      {
+        "t": "li",
+        "x": "Homeland Security Enterprise"
+      },
+      {
+        "t": "li",
+        "x": "Immigration and Customs Enforcement"
+      },
+      {
+        "t": "h",
+        "x": "Keywords"
+      },
+      {
+        "t": "li",
+        "x": "Detainer"
+      },
+      {
+        "t": "li",
+        "x": "Immigration and Customs Enforcement (ICE)"
+      },
+      {
+        "t": "li",
+        "x": "Immigration Enforcement"
+      },
+      {
+        "t": "li",
+        "x": "Sanctuary Jurisdiction"
+      },
+      {
+        "t": "p",
+        "x": "Last Updated: 11/13/2026"
+      }
+    ],
+    "fetched": "2026-11-13T19:50Z",
+    "from": "page",
+    "chars": 5572
+  },
+  "full": {
+    "ko": [
+      "홈",
+      "뉴스",
+      "보도자료",
+      "일리노이 피난처 정치인들이 석방한 음주운전 사망사고 책임자, ICE가 체포",
+      "발표일: 2026년 11월 13일",
+      "이 불법체류자는 과거 음주운전으로 네 차례나 체포된 전력이 있습니다",
+      "워싱턴, 미국 국토안보부(DHS)는 미국 이민세관단속국(ICE)이 음주운전으로 사망사고를 일으킨 혐의로 복역을 마친 후 일리노이 주 피난처 정치인들에 의해 석방되었던 불법체류자를 체포했다고 발표하는 다음 성명을 발표했습니다.",
+      "멕시코 출신 불법체류자 비센테 토레스-바스케스는 2011년 7월 24일 음주운전(DUI) 상태에서 치명적인 충돌사고를 일으킨 후 일리노이 주 워콘다에서 체포되었습니다. 피해자는 미국 해병대 참전용사인 55세의 그레고리 에롤 호몰라로, 오토바이를 타고 가던 중 토레스-바스케스의 차량에 치였습니다. 다른 차량에 타고 있던 두 명의 여성도 이 사고로 부상을 입었습니다.",
+      "피해자: 그레고리 에롤 호몰라",
+      "토레스-바스케스는 2012년 타인의 사망을 초래한 가중 음주운전 혐의 및 중대한 신체 상해를 초래한 가중 음주운전 혐의 2건으로 유죄판결을 받았습니다. 그는 징역 25년을 선고받았습니다.",
+      "토레스-바스케스는 과거 음주운전으로 네 차례 체포된 전력이 있으며, 그 중 세 건에 대해 유죄판결을 받았습니다.",
+      "가해자: 비센테 토레스-바스케스",
+      "2017년 1월 16일, ICE는 일리노이 주 캔턴에 있는 일리노이강 교정센터(IRCC)에 구금요청서(디테이너)를 접수했습니다. 2026년 3월 3일, IRCC는 가석방 출소 예정일을 앞두고 토레스-바스케스를 일리노이 주 크레스트 힐에 있는 스테이트빌 교정센터(SCC)로 이송했습니다. ICE는 이후 또 다른 구금요청서를 접수했습니다. 그러나 2026년 11월 2일, SCC는 ICE의 구금요청을 거부하고 ICE에 통보하지 않은 채 그를 가석방으로 석방했습니다.",
+      "11월 11일, ICE 집행단속국(ERO) 시카고 지부는 도피 중이던 비센테 토레스-바스케스를 체포했습니다. 그는 추방 절차가 진행되는 동안 ICE 구금 상태로 남게 됩니다.",
+      "\"이 불법체류자는 술에 취한 채 운전대를 잡고 한 남성을 살해한 혐의로 징역 25년을 선고받았습니다. ICE가 그의 가석방 출소를 앞두고 구금요청서를 접수했을 때, J.B. 프리츠커 주지사 치하의 일리노이 주 피난처 정치인들은 우리와의 협조를 거부하고 ICE에 통보하지 않은 채 그를 석방했습니다.\" 마크웨인 멀린 국토안보부 장관은 이렇게 말했습니다. \"다행히 ICE의 용감한 애국자들이 그럼에도 불구하고 이 살인자를 체포하는 데 성공했으며, 그는 이제 우리 나라에서 추방될 것입니다. 이 냉혹한 피난처 정치인들은 정치권력을 주민의 안전보다 우선시하는 행태를 중단해야 합니다. 그들은 엔젤 패밀리(Angel Families)에게 빚을 지고 있으며, 더 이상 불법체류자 범죄로 미국인의 생명이 희생되지 않도록 우리와 협력해야 합니다.\"",
+      "토레스-바스케스는 2004년 3월에 애리조나를 통해 두 차례 불법으로 입국했으며, 두 번 모두 자진출국을 허가받았습니다. 이후 그는 알 수 없는 날짜와 장소에서 세 번째로 불법 입국했습니다. 이민판사는 2010년 11월 11일 그에게 최종 추방명령을 내렸습니다.",
+      "J.B. 프리츠커 주지사 치하에서 일리노이 주는 불법체류자 범죄의 온상이 되었습니다. 이 피난처 주에서 최근 발생한 불법체류자 범죄의 일부는 다음과 같습니다.",
+      "8월, ICE는 일리노이 주 모키나에서 몰로토프 칵테일 8개를 소지한 혐의로 체포되었던 요르단 출신 불법체류자 하메드 모하메드 하메드 알사이디를 체포했습니다. 그는 ICE의 구금요청을 거부한 윌 카운티의 피난처 정치인들에 의해 석방되었으며, ICE는 이틀 후 그를 체포했습니다.",
+      "6월, ICE는 일리노이 주 케인 카운티에서 9세 소녀를 납치하고 성폭행한 혐의로 체포된 베네수엘라 출신 불법체류자 하니오 지오넬 벨라스케스-무로에 대해 구금요청서를 접수했습니다.",
+      "6월, ICE는 2024년 12월 일리노이 주 시카고의 한 주택 파티에서 세 명이 사망하고 여러 명이 부상당한 트렌 데 아라구아(Tren de Aragua) 집단 총격 사건에 연루된 혐의로, 베네수엘라 출신 불법체류자이자 전직 교사인 지오반나 메르세데스 모레노 오치핀티를 체포했습니다.",
+      "3월, ICE는 일리노이 주 시카고에서 18세 로욜라 대학교 학생 셰리던 고먼을 총격으로 살해한 혐의로 체포된 베네수엘라 출신 불법체류자 호세 메디나-메디나에 대해 구금요청서를 접수했습니다.",
+      "2025년 10월, ICE는 일리노이 주 시카고에서 54세 여성을 강간한 혐의로 체포된 니카라과 출신 불법체류자 레이터 제퍼슨 아라우스-메디나에 대해 구금요청서를 접수했습니다.",
+      "2025년 10월, 이민세관단속국(ICE)은 몬테네그로 출신 불법체류 외국인인 라둘레 보요비치를 체포했습니다. 그는 하노버 파크 경찰서에서 선서한 경찰관으로 근무하고 있었습니다.",
+      "2025년 9월, 이민세관단속국(ICE)은 베네수엘라 출신 불법체류 외국인인 호세 하비에르 코로나도-메사에 대해 디테이너를 발부했습니다. 그는 일리노이주 쿡 카운티에서 한 남성을 처형식으로 살해한 후 시신을 콘크리트에 매장한 혐의로 체포된 후였습니다.",
+      "2025년 7월, 이민세관단속국(ICE)은 멕시코 출신 불법체류 외국인인 루이스 멘도사-곤살레스를 체포했습니다. 그는 자신의 소유지에 37세의 메건 보스의 시신을 은닉한 혐의로 체포되었음에도 불구하고, 레이크 카운티의 생추어리 정치인들에 의해 석방된 바 있습니다.",
+      "2025년 1월, 과테말라 출신 불법체류 외국인인 훌리오 쿠쿨-볼은 일리노이주 어바나에서 음주운전 사고를 일으켜 20세의 케이티 에이브러햄을 사망에 이르게 했습니다. 쿠쿨-볼은 현재 사망을 초래한 사고 현장 이탈, 사망을 초래한 가중 음주운전, 그리고 중과실치사 혐의를 받고 있습니다. 미드웨이 블리츠 작전은 케이티를 기리기 위해 2025년 9월에 개시되었습니다.",
+      "# # #",
+      "국토안보 전체 조직",
+      "이민세관단속국(ICE)",
+      "키워드",
+      "디테이너",
+      "이민세관단속국(ICE)",
+      "이민 단속",
+      "생추어리 관할구역",
+      "최종 업데이트: 2026년 11월 13일"
+    ],
+    "es": [
+      "Inicio",
+      "Noticias",
+      "Comunicados de Prensa",
+      "ICE arresta a extranjero ilegal responsable de un DUI fatal después de que políticos santuario de Illinois lo liberaran",
+      "Fecha de publicación: 13 de noviembre de 2026",
+      "Este extranjero ilegal había sido arrestado anteriormente CUATRO VECES por conducir bajo la influencia",
+      "WASHINGTON. El Departamento de Seguridad Nacional de los Estados Unidos (DHS) publicó la siguiente declaración anunciando que el Servicio de Inmigración y Control de Aduanas de los Estados Unidos (ICE) arrestó a un extranjero ilegal que había sido LIBERADO por políticos santuario en Illinois, después de cumplir una sentencia de prisión por causar un accidente fatal mientras conducía bajo la influencia.",
+      "Vicente Torres-Vasquez, un extranjero ilegal de México, fue arrestado en Wauconda, Illinois, después de causar un choque fatal el 24 de julio de 2011, mientras conducía bajo la influencia (DUI, por sus siglas en inglés). Su víctima fue Gregory Errol Homola, de 55 años, un veterano del Cuerpo de Marines de los Estados Unidos, quien conducía su motocicleta cuando fue atropellado por Torres-Vasquez. Otras dos mujeres que viajaban en otro vehículo también resultaron heridas en el accidente.",
+      "La víctima: Gregory Errol Homola",
+      "Torres-Vasquez fue condenado en 2012 por conducir bajo la influencia agravado con resultado de muerte de otra persona y DOS cargos de conducir bajo la influencia agravado con resultado de lesiones corporales graves. Fue sentenciado a 25 años de prisión.",
+      "Torres-Vasquez había sido arrestado anteriormente CUATRO VECES por conducir bajo la influencia, siendo condenado en tres de los cuatro cargos.",
+      "El asesino: Vicente Torres-Vasquez",
+      "El 16 de enero de 2017, ICE presentó un detenedor (detainer) ante el Centro Correccional Illinois River (IRCC) en Canton, Illinois. El 3 de marzo de 2026, el IRCC trasladó a Torres-Vasquez al Centro Correccional Stateville (SCC) en Crest Hill, Illinois, en anticipación de su fecha de libertad condicional. ICE presentó entonces otro detenedor. Pero el 2 de noviembre de 2026, el SCC se negó a honrar el detenedor de ICE y lo LIBERÓ en libertad condicional sin notificar a ICE.",
+      "El 11 de noviembre, la Oficina de Control de Inmigración y Aduanas, división de Ejecución y Remoción (ERO) de ICE en Chicago arrestó a Vicente Torres-Vasquez, quien se encontraba prófugo. Permanecerá bajo custodia de ICE en espera de los procedimientos de deportación.",
+      "“Este extranjero ilegal fue sentenciado a 25 años de prisión después de matar a un hombre mientras conducía ebrio. Cuando ICE presentó un detenedor antes de su liberación en libertad condicional, los políticos santuario en el Illinois de J.B. Pritzker se negaron a cooperar con nosotros y lo liberaron sin notificar a ICE,” dijo el Secretario de Seguridad Nacional Markwayne Mullin. “Afortunadamente, los valientes patriotas de ICE lograron arrestar a este asesino de todas formas, y ahora será deportado de nuestro país. Estos políticos santuario desalmados necesitan dejar de priorizar el poder político sobre la seguridad de sus electores. Se lo deben a las Familias Ángel de trabajar con nosotros para que podamos evitar que se pierdan más vidas estadounidenses a causa del crimen de extranjeros ilegales.”",
+      "Torres-Vasquez ingresó ilegalmente a los Estados Unidos a través de Arizona DOS VECES en marzo de 2004, y se le concedió salida voluntaria en ambas ocasiones. Luego ingresó ilegalmente al país por tercera vez en una fecha y lugar desconocidos. Un Juez de Inmigración le emitió una orden final de remoción el 11 de noviembre de 2010.",
+      "Bajo el Gobernador J.B. Pritzker, Illinois se ha convertido en un foco de crimen de extranjeros ilegales. Algunos de los crímenes recientes de extranjeros ilegales en el estado santuario incluyen:",
+      "En agosto, ICE arrestó a Hamed Mohammed Hamed Alsaidi, un extranjero ilegal de Jordania, después de que había sido arrestado por tener en su posesión OCHO cócteles Molotov en Mokena, Illinois. Había sido liberado por políticos santuario del Condado de Will que se negaron a honrar el detenedor de ICE, y ICE lo arrestó dos días después.",
+      "En junio, ICE presentó un detenedor para Janio Gionel Velasquez-Muro, un extranjero ilegal de Venezuela, después de que fue arrestado por secuestrar y agredir sexualmente a una niña de 9 años en el Condado de Kane, Illinois.",
+      "En junio, ICE arrestó a Giovanna Mercedes Moreno Occhipinti, una extranjera ilegal de Venezuela y exmaestra, por su participación en un tiroteo masivo del Tren de Aragua en diciembre de 2024 que mató a tres personas e hirió a varias otras en una fiesta en una casa en Chicago, Illinois.",
+      "En marzo, ICE presentó un detenedor para Jose Medina-Medina, un extranjero ilegal de Venezuela, después de que fue arrestado por disparar y matar a Sheridan Gorman, estudiante de 18 años del Loyola College, en Chicago, Illinois.",
+      "En octubre de 2025, ICE presentó un detenedor para Leyter Jeferson Arauz-Medina, un extranjero ilegal de Nicaragua, después de su arresto por violar a una mujer de 54 años en Chicago, Illinois.",
+      "En octubre de 2025, el Servicio de Inmigración y Control de Aduanas (ICE) arrestó a Radule Bojovic, un extranjero ilegal de Montenegro, quien trabajaba como oficial de policía juramentado en el Departamento de Policía de Hanover Park.",
+      "En septiembre de 2025, ICE presentó un detentor contra Jose Javier Coronado-Meza, un extranjero ilegal de Venezuela, después de que fuera arrestado por matar a un hombre al estilo de una ejecución y luego enterrar su cuerpo en concreto en el condado de Cook, Illinois.",
+      "En julio de 2025, ICE arrestó a Luis Mendoza-Gonzalez, un extranjero ilegal de México, después de que fuera liberado por políticos santuario en el condado de Lake, a pesar de haber sido arrestado por ocultar el cuerpo de Megan Bos, de 37 años, en su propiedad.",
+      "En enero de 2025, Julio Cucul-Bol, un extranjero ilegal de Guatemala, provocó un choque por manejar en estado de ebriedad que mató a Katie Abraham, de 20 años, en Urbana, Illinois. Cucul-Bol ahora enfrenta cargos por abandonar el lugar de un choque con resultado de muerte, conducir bajo la influencia de forma agravada con resultado de muerte, y homicidio imprudencial. La Operación Midway Blitz fue lanzada en septiembre de 2025 en honor a Katie.",
+      "# # #",
+      "Entidad de Seguridad Nacional",
+      "Servicio de Inmigración y Control de Aduanas",
+      "Palabras clave",
+      "Detentor",
+      "Servicio de Inmigración y Control de Aduanas (ICE)",
+      "Aplicación de la Ley de Inmigración",
+      "Jurisdicción Santuario",
+      "Última actualización: 13/11/2026"
+    ],
+    "zh": [
+      "首页",
+      "新闻",
+      "新闻稿",
+      "非法外国人因酒后驾车致人死亡,在伊利诺伊州庇护政客将其释放后被ICE逮捕",
+      "发布日期:2026年11月13日",
+      "该非法外国人此前曾因酒后驾车被逮捕四次",
+      "华盛顿,美国国土安全部(DHS)发布以下声明,宣布美国移民及海关执法局(ICE)逮捕了一名此前因酒后驾车致人死亡而服刑,后被伊利诺伊州庇护政客释放的非法外国人。",
+      "文森特·托雷斯瓦斯克斯(Vicente Torres-Vasquez)是一名来自墨西哥的非法外国人,于2011年7月24日酒后驾车(DUI)导致一起致命车祸后,在伊利诺伊州沃康达(Wauconda)被捕。他的受害者是55岁的格雷戈里·埃罗尔·霍莫拉(Gregory Errol Homola),一名美国海军陆战队退伍军人,当时他正骑摩托车,被托雷斯瓦斯克斯撞上。另一辆车上的两名女性也在事故中受伤。",
+      "受害者:格雷戈里·埃罗尔·霍莫拉",
+      "托雷斯瓦斯克斯于2012年被判犯有加重酒后驾车致人死亡罪,以及两项加重酒后驾车致人重伤罪。他被判处25年监禁。",
+      "托雷斯瓦斯克斯此前曾因酒后驾车被逮捕四次,其中三次被定罪。",
+      "凶手:文森特·托雷斯瓦斯克斯",
+      "2017年1月16日,ICE向位于伊利诺伊州坎顿(Canton)的伊利诺伊河畔惩教中心(IRCC)发出拘留令。2026年3月3日,IRCC在预期其假释释放日期之前,将托雷斯瓦斯克斯转移至位于伊利诺伊州克雷斯特希尔(Crest Hill)的斯泰特维尔惩教中心(SCC)。ICE随后又发出了另一份拘留令。但在2026年11月2日,SCC拒绝执行ICE的拘留令,在未通知ICE的情况下将其假释释放。",
+      "11月11日,ICE执法与遣返行动局(ERO)芝加哥办事处逮捕了在逃的文森特·托雷斯瓦斯克斯。他将继续被ICE拘留,等待遣返程序。",
+      "“这名非法外国人酒后驾车致人死亡,被判处25年监禁。当ICE在其假释释放前发出拘留令时,J.B.普里茨克(J.B. Pritzker)治下伊利诺伊州的庇护政客拒绝与我们合作,在未通知ICE的情况下将其释放,”国土安全部部长马克韦恩·马林(Markwayne Mullin)表示。“幸运的是,ICE的英勇爱国者们最终还是成功逮捕了这名杀人犯,他现在将被驱逐出我国。这些冷酷无情的庇护政客必须停止将政治权力置于其选民安全之上。他们欠'天使家庭'(Angel Families)一个交代,应当与我们合作,以防止更多美国人的生命因非法外国人犯罪而丧失。”",
+      "托雷斯瓦斯克斯于2004年3月两次通过亚利桑那州非法入境美国,两次均被准予自愿离境。随后他在未知的日期和地点第三次非法入境该国。一名移民法官于2010年11月11日对其签发了最终遣返令。",
+      "在州长J.B.普里茨克的治理下,伊利诺伊州已成为非法外国人犯罪的温床。该庇护州近期发生的部分非法外国人犯罪案件包括:",
+      "8月,ICE逮捕了来自约旦的非法外国人哈米德·穆罕默德·哈米德·阿尔赛迪(Hamed Mohammed Hamed Alsaidi),此前他因在伊利诺伊州莫基纳(Mokena)持有八枚燃烧瓶而被捕。威尔县(Will County)的庇护政客拒绝执行ICE的拘留令将其释放,两天后ICE将其逮捕。",
+      "6月,ICE对来自委内瑞拉的非法外国人哈尼奥·吉奥内尔·贝拉斯克斯穆罗(Janio Gionel Velasquez-Muro)发出拘留令,此前他因在伊利诺伊州凯恩县(Kane County)绑架并性侵一名9岁女童而被捕。",
+      "6月,ICE逮捕了来自委内瑞拉的非法外国人、前教师焦万娜·梅赛德斯·莫雷诺·奥奇皮恩蒂(Giovanna Mercedes Moreno Occhipinti),她参与了2024年12月阿拉瓜火车帮(Tren de Aragua)在伊利诺伊州芝加哥一场住宅派对上制造的大规模枪击事件,该事件造成三人死亡,多人受伤。",
+      "3月,ICE对来自委内瑞拉的非法外国人何塞·梅迪纳梅迪纳(Jose Medina-Medina)发出拘留令,此前他因在伊利诺伊州芝加哥枪杀18岁的洛约拉学院学生谢里登·戈尔曼(Sheridan Gorman)而被捕。",
+      "2025年10月,ICE对来自尼加拉瓜的非法外国人雷特·杰斐逊·阿劳斯梅迪纳(Leyter Jeferson Arauz-Medina)发出拘留令,此前他因在伊利诺伊州芝加哥强奸一名54岁女性而被捕。",
+      "2025年10月,美国移民及海关执法局(ICE)逮捕了拉杜勒·博约维奇(Radule Bojovic),这名来自黑山的非法外国人曾在汉诺威公园警察局担任宣誓警察。",
+      "2025年9月,美国移民及海关执法局(ICE)对何塞·哈维尔·科罗纳多梅萨(Jose Javier Coronado-Meza)发出拘留请求,这名来自委内瑞拉的非法外国人因在伊利诺伊州库克县以行刑方式杀害一名男子并将其尸体埋入混凝土中而被捕。",
+      "2025年7月,美国移民及海关执法局(ICE)逮捕了路易斯·门多萨冈萨雷斯(Luis Mendoza-Gonzalez),这名来自墨西哥的非法外国人此前曾因在其名下房产上藏匿37岁的梅根·博斯(Megan Bos)的尸体而被捕,但此后却被湖县的庇护政客释放。",
+      "2025年1月,来自危地马拉的非法外国人胡里奥·库库尔博尔(Julio Cucul-Bol)在伊利诺伊州厄巴纳酒后驾车造成车祸,致使20岁的凯蒂·亚伯拉罕(Katie Abraham)死亡。库库尔博尔目前面临肇事逃逸致人死亡、加重酒后驾驶致人死亡以及鲁莽杀人罪的指控。为纪念凯蒂,“中途封锁行动”(Operation Midway Blitz)于2025年9月启动。",
+      "# # #",
+      "国土安全事业",
+      "移民及海关执法局",
+      "关键词",
+      "拘留请求",
+      "移民及海关执法局(ICE)",
+      "移民执法",
+      "庇护管辖区",
+      "最后更新日期:2026年11月13日"
+    ],
+    "ja": [
+      "ホーム",
+      "ニュース",
+      "プレスリリース",
+      "イリノイ州の聖域政治家が釈放した飲酒運転死亡事故の責任者である不法入国者をICEが逮捕",
+      "発表日：2026年11月13日",
+      "この不法入国者はこれまでに飲酒運転で4回逮捕されていた",
+      "ワシントン, 米国国土安全保障省(DHS)は、飲酒運転により死亡事故を起こした罪で服役した後、イリノイ州の聖域政治家によって釈放された不法入国者を、米国移民税関捜査局(ICE)が逮捕したことを発表する以下の声明を発表した。",
+      "メキシコ出身の不法入国者であるビセンテ・トーレス・バスケスは、2011年7月24日に飲酒運転(DUI)中に死亡事故を起こした後、イリノイ州ウォーコンダで逮捕された。被害者は、オートバイに乗っていたところをトーレス・バスケスに轢かれた、米国海兵隊の退役軍人である55歳のグレゴリー・エロール・ホモラ氏であった。別の車両に乗っていた他の2名の女性も、この事故で負傷した。",
+      "被害者：グレゴリー・エロール・ホモラ",
+      "トーレス・バスケスは2012年に、他人を死亡させた加重飲酒運転の罪および重大な身体傷害を引き起こした加重飲酒運転の罪2件で有罪判決を受けた。彼には禁錮25年の判決が下された。",
+      "トーレス・バスケスはこれまでに飲酒運転で4回逮捕されており、そのうち3件について有罪判決を受けていた。",
+      "加害者：ビセンテ・トーレス・バスケス",
+      "2016年1月16日、ICEはイリノイ州キャントンにあるイリノイ・リバー矯正センター(IRCC)にデテイナー(勾留依頼)を提出した。2026年3月3日、IRCCはトーレス・バスケスの仮釈放予定日を見越して、彼をイリノイ州クレストヒルにあるステイトビル矯正センター(SCC)に移送した。ICEはその後、別のデテイナーを提出した。しかし2026年11月2日、SCCはICEのデテイナーの履行を拒否し、ICEに通知することなく彼を仮釈放により釈放した。",
+      "11月11日、ICEの執行・送還業務局(ERO)シカゴ支局は、逃亡中であったビセンテ・トーレス・バスケスを逮捕した。彼は送還手続きが行われるまでICEの拘束下に置かれる。",
+      "「この不法入国者は、飲酒運転中に男性を死亡させた後、禁錮25年の判決を受けた。ICEが彼の仮釈放に先立ちデテイナーを提出した際、J.B.プリツカー氏が率いるイリノイ州の聖域政治家たちは我々への協力を拒否し、ICEに通知することなく彼を釈放した」と、マークウェイン・マリン国土安全保障長官は述べた。「幸いにも、ICEの勇敢な愛国者たちはそれでもこの殺人者を逮捕することができ、彼は今や我が国から強制送還されることになる。これらの非情な聖域政治家たちは、政治的権力を住民の安全よりも優先することをやめなければならない。彼らは、不法入国者による犯罪でこれ以上の米国人の命が失われることを防ぐために我々と協力する義務を、エンジェル・ファミリーズに対して負っているのだ」。",
+      "トーレス・バスケスは2004年3月にアリゾナ州経由で2回不法入国し、いずれの場合も自主出国を認められた。その後、不明の日時と場所で3回目の不法入国を行った。移民判事は2010年11月11日、彼に対して最終送還命令を下した。",
+      "J.B.プリツカー知事の下で、イリノイ州は不法入国者犯罪の温床となっている。この聖域州における最近の不法入国者犯罪には、以下のようなものがある。",
+      "8月、ICEはヨルダン出身の不法入国者であるハメド・モハメド・ハメド・アルサイディを逮捕した。同人はイリノイ州モキーナで火炎瓶8本を所持していた容疑で逮捕されていた。同人はウィル郡の聖域政治家によって釈放されていたが、同政治家らはICEのデテイナーの履行を拒否していた。ICEはその2日後に彼を逮捕した。",
+      "6月、ICEはベネズエラ出身の不法入国者であるハニオ・ジオネル・ベラスケス・ムロに対するデテイナーを提出した。同人はイリノイ州ケーン郡で9歳の少女を誘拐し性的暴行を加えた容疑で逮捕されていた。",
+      "6月、ICEはベネズエラ出身の不法入国者で元教師のジオバンナ・メルセデス・モレノ・オッキピンティを逮捕した。同人は2024年12月にイリノイ州シカゴの自宅パーティーで発生した、トレン・デ・アラグアによる3名死亡・複数名負傷の銃乱射事件への関与が理由であった。",
+      "3月、ICEはベネズエラ出身の不法入国者であるホセ・メディナ・メディナに対するデテイナーを提出した。同人はイリノイ州シカゴでロヨラ・カレッジの学生である18歳のシェリダン・ゴーマン氏を銃撃して死亡させた容疑で逮捕されていた。",
+      "2025年10月、ICEはニカラグア出身の不法入国者であるレイター・ジェファーソン・アラウス・メディナに対するデテイナーを提出した。同人はイリノイ州シカゴで54歳の女性を強姦した容疑で逮捕されていた。",
+      "2025年10月、ICE(移民関税執行局)はモンテネグロ出身の不法滞在外国人であるラデュール・ボヨビッチを逮捕した。同人はハノーバーパーク警察署において宣誓を行った警察官として勤務していた。",
+      "2025年9月、ICEはベネズエラ出身の不法滞在外国人であるホセ・ハビエル・コロナド・メサに対してディテイナー(身柄拘束要請)を発出した。これは、同人がイリノイ州クック郡において、ある男性を処刑方式で殺害し、その遺体をコンクリートに埋めたとして逮捕された後のことであった。",
+      "2025年7月、ICEはメキシコ出身の不法滞在外国人であるルイス・メンドーサ・ゴンザレスを逮捕した。同人は、37歳のメーガン・ボス氏の遺体を自己の所有地に隠匿したとして逮捕されていたにもかかわらず、レイク郡のサンクチュアリ政策を推進する政治家らによって釈放されていた。",
+      "2025年1月、グアテマラ出身の不法滞在外国人であるフリオ・ククル・ボルは、イリノイ州アーバナにおいて飲酒運転による衝突事故を引き起こし、20歳のケイティ・エイブラハム氏を死亡させた。ククル・ボルは現在、死亡事故を伴う事故現場からの逃走、死亡を伴う加重飲酒運転、及び無謀致死罪で起訴されている。オペレーション・ミッドウェイ・ブリッツは、ケイティ氏を追悼して2025年9月に開始された。",
+      "# # #",
+      "国土安全保障エンタープライズ",
+      "移民関税執行局(ICE)",
+      "キーワード",
+      "ディテイナー(身柄拘束要請)",
+      "移民関税執行局(ICE)",
+      "移民法執行",
+      "サンクチュアリ管轄区域",
+      "最終更新日:2026年11月13日"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
