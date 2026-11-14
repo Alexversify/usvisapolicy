@@ -1,5 +1,33 @@
 [
   {
+    "t": "2026-11-14T08:17:56Z",
+    "kind": "backfill",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43574218538",
+    "found": 2,
+    "added": [
+      {
+        "id": "53f200f1e3a5",
+        "source": "federal_register",
+        "title": "국무부, 여권 신청서(DS-11) 온라인 제출 시범사업 시행"
+      },
+      {
+        "id": "03bac16c4bba",
+        "source": "federal_register",
+        "title": "미국 국무부, '로스 로렌사나스'를 외국 테러조직으로 지정"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.1229,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-14T01:29:19Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43540705834",

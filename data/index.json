@@ -1,5 +1,47 @@
 [
   {
+    "id": "03bac16c4bba",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23246/foreign-terrorist-organization-designation-of-los-lorenzanas",
+    "published": "2026-11-16",
+    "effective_date": "2026-11-16",
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "state",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "Foreign Terrorist Organization",
+      "INA 219",
+      "Inadmissibility"
+    ],
+    "added": "2026-11-14T08:17Z"
+  },
+  {
+    "id": "53f200f1e3a5",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11",
+    "published": "2026-11-16",
+    "effective_date": "2026-11-16",
+    "importance": "low",
+    "category": "processing",
+    "agency": "state",
+    "topics": [
+      "travel",
+      "citizenship",
+      "other"
+    ],
+    "tags": [
+      "Passport",
+      "DS-11",
+      "Pilot Program",
+      "Login.gov"
+    ],
+    "added": "2026-11-14T08:13Z"
+  },
+  {
     "id": "bd835d00fc61",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/13/ice-arrests-illegal-alien-responsible-fatal-dui-after-illinois-sanctuary",

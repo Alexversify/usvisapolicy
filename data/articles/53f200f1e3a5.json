@@ -1,0 +1,915 @@
+{
+  "id": "53f200f1e3a5",
+  "source": "federal_register",
+  "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11",
+  "original_title": "Pilot for Online Version of Application for a U.S. Passport (Form DS-11)",
+  "published": "2026-11-16",
+  "effective_date": "2026-11-16",
+  "importance": "low",
+  "category": "processing",
+  "tags": [
+    "Passport",
+    "DS-11",
+    "Pilot Program",
+    "Login.gov"
+  ],
+  "relevant": true,
+  "langs": {
+    "ko": {
+      "title": "국무부, 여권 신청서(DS-11) 온라인 제출 시범사업 시행",
+      "summary": "미국 국무부는 2026년 11월 16일부터 일부 최초 여권 신청자와 DS-82 갱신 대상이 아닌 기존 여권 소지자를 대상으로 DS-11 여권 신청서를 온라인으로 제출할 수 있는 시범사업을 시행한다고 발표했습니다. 신청자는 America.gov에서 자격 여부를 확인하고 Login.gov를 통해 신원을 확인한 뒤 온라인으로 신청서를 완료하게 됩니다. 이번 시범사업은 2027년 11월 20일까지 단계적으로 운영되며 추후 확대될 수 있습니다.",
+      "points": [
+        "지금까지는 DS-82 갱신 신청만 온라인 제출이 가능했으나, 이번 시범사업으로 DS-11(최초 신청 등) 온라인 제출이 처음 시행됩니다.",
+        "초기 대상은 미국 내 거주하는 만 18세 이상으로, 기존에 유효한 여권을 발급받았으나 DS-82 갱신 대상이 아닌 사람과 USCIS 발급 귀화증명서로 최초 신청하는 사람입니다.",
+        "신청자는 Login.gov를 통해 신분증 확인, 라이브니스 검사(실제 사람 여부 확인), 사회보장번호 입력 등 신원 확인 절차를 거칩니다.",
+        "대면 선서 대신 본인이 선서문을 낭독하는 영상을 녹화해 제출하며, 여권 담당관이 이를 검토해 승인 여부를 결정합니다.",
+        "대면 접수가 아니어도 35달러의 집행 수수료는 동일하게 부과되며, 수수료 면제 대상자는 온라인 신청 시에도 면제됩니다.",
+        "국무부는 Docket No. DOS-2026-1222로 Regulations.gov를 통해 의견을 받고 있으며, 의견 제출 마감일은 자료에 명시되어 있지 않습니다."
+      ],
+      "who": "미국 내에서 최초로 여권을 신청하거나 DS-82 갱신 대상이 아닌 기존 여권 소지자 중 시범사업 자격 요건을 충족하는 성인이 영향을 받습니다.",
+      "action": "자격 여부가 궁금한 신청자는 America.gov에서 확인할 수 있으며, 자격이 없는 경우 기존의 서면 신청 절차를 이용해야 합니다."
+    },
+    "en": {
+      "title": "State Department Launches Pilot for Online DS-11 Passport Applications",
+      "summary": "The U.S. Department of State announced a pilot program, effective November 16, 2026, allowing certain first-time and other DS-82-ineligible passport applicants to submit Form DS-11 online for the first time. Eligible applicants will check eligibility and verify identity through America.gov and Login.gov, then record themselves taking the required oath instead of appearing in person. The pilot is scheduled to run through November 20, 2027, with possible expansion of eligibility over time.",
+      "points": [
+        "Previously, only DS-82 renewal applicants could apply for a passport online; this pilot extends online submission to DS-11 applications for the first time.",
+        "Initial eligibility is limited to adults 18 and older located in the United States, including prior passport holders not eligible for DS-82 renewal and first-time applicants using a USCIS Certificate of Naturalization.",
+        "Applicants must verify identity through Login.gov, including a liveness check and providing a Social Security number, before completing the DS-11 on America.gov.",
+        "Instead of an in-person oath, applicants will record a video of themselves reciting the oath, which a passport agent reviews before the application is adjudicated.",
+        "The standard $35 execution fee still applies even though the application is not executed in person, and fee-exempt applicants remain exempt.",
+        "The Department is accepting public comments via Regulations.gov under Docket No. DOS-2026-1222; no specific comment deadline is stated in the notice."
+      ],
+      "who": "Adults in the United States applying for a first-time U.S. passport or holding a prior passport but ineligible for DS-82 renewal, who meet the pilot's identity-document requirements.",
+      "action": "Interested applicants can check eligibility at America.gov; those not eligible for the pilot should continue using the existing paper or DS-82 application process, and comments may be submitted via Regulations.gov under Docket No. DOS-2026-1222."
+    },
+    "es": {
+      "title": "Departamento de Estado lanza programa piloto para solicitudes de pasaporte DS-11 en linea",
+      "summary": "El Departamento de Estado de Estados Unidos anuncio un programa piloto, vigente desde el 16 de noviembre de 2026, que permite por primera vez presentar el Formulario DS-11 en linea a ciertos solicitantes de pasaporte por primera vez y a titulares de pasaportes previos que no califican para la renovacion DS-82. Los solicitantes elegibles verificaran su elegibilidad e identidad a traves de America.gov y Login.gov, y grabaran un video prestando el juramento requerido en lugar de acudir en persona. El piloto esta programado hasta el 20 de noviembre de 2027, con posible expansion de elegibilidad.",
+      "points": [
+        "Hasta ahora solo los solicitantes de renovacion DS-82 podian presentar su solicitud en linea; este piloto extiende la presentacion en linea al formulario DS-11.",
+        "La elegibilidad inicial se limita a adultos de 18 anos o mas ubicados en Estados Unidos, incluyendo titulares de pasaportes previos no elegibles para DS-82 y solicitantes primerizos que usan un Certificado de Naturalizacion emitido por USCIS.",
+        "Los solicitantes deben verificar su identidad mediante Login.gov, incluyendo una prueba de deteccion de vida y el ingreso de su numero de Seguro Social, antes de completar el DS-11 en America.gov.",
+        "En lugar de prestar el juramento en persona, los solicitantes grabaran un video recitandolo, el cual sera revisado por un agente de pasaportes antes de la adjudicacion.",
+        "La tarifa estandar de ejecucion de 35 dolares, pagada por el solicitante, se mantiene aunque la solicitud no se ejecute en persona; los solicitantes exentos de tarifas siguen exentos.",
+        "El Departamento acepta comentarios publicos a traves de Regulations.gov bajo el Docket No. DOS-2026-1222; el aviso no indica una fecha limite especifica para comentar."
+      ],
+      "who": "Adultos en Estados Unidos que solicitan un pasaporte estadounidense por primera vez, o que ya tuvieron un pasaporte pero no son elegibles para la renovacion DS-82, y que cumplen los requisitos de identificacion del piloto.",
+      "action": "Los interesados pueden verificar su elegibilidad en America.gov; quienes no califiquen para el piloto deben continuar con el proceso en papel o DS-82 existente, y los comentarios pueden enviarse via Regulations.gov bajo el Docket No. DOS-2026-1222."
+    },
+    "zh": {
+      "title": "美国国务院推出DS-11护照申请在线试点项目",
+      "summary": "美国国务院宣布一项试点项目,自2026年11月16日起生效,首次允许部分首次申请人以及持有旧护照但不符合DS-82续签资格的人在线提交DS-11护照申请表。符合条件的申请人将通过America.gov和Login.gov核实资格与身份,并以录制宣誓视频代替现场宣誓。该试点计划运行至2027年11月20日,未来可能扩大适用范围。",
+      "points": [
+        "此前只有DS-82续签申请可在线提交,此次试点首次将在线提交范围扩展到DS-11申请表。",
+        "初期适用范围限于居住在美国境内、年满18岁的成年人,包括持有效护照但不符合DS-82续签条件者,以及使用USCIS颁发的入籍证明首次申请护照者。",
+        "申请人需通过Login.gov完成身份验证,包括活体检测和提供社会安全号码,然后在America.gov上完成DS-11申请。",
+        "申请人无需现场宣誓,而是录制一段自己宣读誓词的视频,由护照工作人员审核后再作出裁定。",
+        "即使未现场办理,标准的35美元执行费仍由申请人支付;符合费用减免条件的申请人在线申请时仍可享受减免。",
+        "国务院正通过Regulations.gov接受公众意见,案号为DOS-2026-1222;公告中未说明具体的意见提交截止日期。"
+      ],
+      "who": "居住在美国境内、首次申请护照或持有旧护照但不符合DS-82续签资格、且符合试点身份证明要求的成年人。",
+      "action": "有兴趣的申请人可前往America.gov查询是否符合资格;不符合试点条件者应继续使用现有的纸质或DS-82申请流程,公众意见可通过Regulations.gov以案号DOS-2026-1222提交。"
+    },
+    "ja": {
+      "title": "米国務省、パスポート申請書DS-11のオンライン提出試験プログラムを開始",
+      "summary": "米国国務省は2026年11月16日付で、初回申請者やDS-82更新の対象外となる既存パスポート保持者を対象に、DS-11フォームを初めてオンライン提出できる試験プログラムを発表しました。対象者はAmerica.govとLogin.govを通じて資格確認と本人確認を行い、対面での宣誓の代わりに宣誓を録画して提出します。この試験プログラムは2027年11月20日まで実施予定で、今後対象範囲が拡大される可能性があります。",
+      "points": [
+        "これまではDS-82更新申請のみオンライン提出が可能でしたが、今回の試験プログラムによりDS-11申請も初めてオンラインで提出できるようになります。",
+        "当初の対象は米国内に居住する18歳以上の成人で、有効なパスポートを以前取得したがDS-82更新の対象外の人、およびUSCIS発行の帰化証明書を用いて初回申請する人です。",
+        "申請者はLogin.govを通じて身分証確認、ライブネス検査(本人確認のための生体確認)、社会保障番号の入力などの本人確認手続きを行います。",
+        "対面での宣誓の代わりに、申請者本人が宣誓文を読み上げる動画を録画して提出し、パスポート担当官が審査のうえ承認可否を判断します。",
+        "対面で手続きしない場合でも、通常の35ドルの執行手数料は引き続き申請者が支払う必要があり、手数料免除対象者はオンライン申請でも免除が適用されます。",
+        "国務省はDocket No. DOS-2026-1222としてRegulations.govで意見を受け付けていますが、公告には具体的な意見提出期限は明記されていません。"
+      ],
+      "who": "米国内で初めてパスポートを申請する、またはDS-82更新の対象外で以前パスポートを取得したことがある成人のうち、試験プログラムの本人確認要件を満たす人が対象です。",
+      "action": "関心のある申請者はAmerica.govで資格を確認できます。試験プログラムの対象外となる人は既存の書面またはDS-82による申請手続きを継続する必要があり、意見はDocket No. DOS-2026-1222としてRegulations.govから提出できます。"
+    }
+  },
+  "added": "2026-11-14T08:13Z",
+  "model": "claude-sonnet-5",
+  "agency": "state",
+  "topics": [
+    "travel",
+    "citizenship",
+    "other"
+  ],
+  "original": {
+    "blocks": [
+      {
+        "t": "p",
+        "x": "73629 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 1 OMB Control No. 1405–0020."
+      },
+      {
+        "t": "p",
+        "x": "2 OMB Control No. 1405–0004."
+      },
+      {
+        "t": "p",
+        "x": "CFR 3041.110(n); 39 CFR 3041.205(a)."
+      },
+      {
+        "t": "p",
+        "x": "Such requests are reviewed in summary proceedings pursuant to 39 CFR 3041.325(c)(2) and 39 CFR 3041.505(f)(1). Pursuant to 39 CFR 3041.405(c)–(d), the Commission does not appoint a Public Representative or request public comment in proceedings to review such requests."
+      },
+      {
+        "t": "p",
+        "x": "II. Public Proceeding(s)"
+      },
+      {
+        "t": "p",
+        "x": "1. Docket No(s).: K2025–1632; Filing Title: USPS Request Concerning Amendment One to Priority Mail & USPS Ground Advantage Contract 828 and Materials Under Seal; Filing Acceptance Date: November 10, 2026;"
+      },
+      {
+        "t": "p",
+        "x": "Filing Authority: 39 CFR. 3035.105 and 39 CFR 3041.505; Public Representative:"
+      },
+      {
+        "t": "p",
+        "x": "Christopher Mohr; Comments Due:"
+      },
+      {
+        "t": "p",
+        "x": "November 19, 2026."
+      },
+      {
+        "t": "p",
+        "x": "2. Docket No(s).: K2025–1642; Filing Title: USPS Request Concerning Amendment One to Priority Mail & USPS Ground Advantage Contract 833 and Materials Under Seal; Filing Acceptance Date: November 10, 2026;"
+      },
+      {
+        "t": "p",
+        "x": "Filing Authority: 39 CFR. 3035.105 and 39 CFR 3041.505; Public Representative:"
+      },
+      {
+        "t": "p",
+        "x": "Jennaca Upperman; Comments Due:"
+      },
+      {
+        "t": "p",
+        "x": "November 19, 2026."
+      },
+      {
+        "t": "p",
+        "x": "3. Docket No(s).: K2026–286; Filing Title: USPS Request Concerning Amendment One to Priority Mail Express, Priority Mail & USPS Ground Advantage Contract 1502 and Materials Under Seal; Filing Acceptance Date:"
+      },
+      {
+        "t": "p",
+        "x": "November 10, 2026; Filing Authority: 39 CFR. 3035.105 and 39 CFR 3041.505;"
+      },
+      {
+        "t": "p",
+        "x": "Public Representative: Christopher Mohr; Comments Due: November 19, 2026."
+      },
+      {
+        "t": "p",
+        "x": "4. Docket No(s).: MC2027–30 and K2027–31; Filing Title: USPS Request to Add Priority Mail & USPS Ground Advantage Contract 1127 to the Competitive Product List and Notice of Filing Materials Under Seal; Filing Acceptance Date: November 10, 2026;"
+      },
+      {
+        "t": "p",
+        "x": "Filing Authority: 39 U.S.C. 3642, 39 CFR 3035.105, and 39 CFR 3041.310; Public Representative: Kenneth Moeller;"
+      },
+      {
+        "t": "p",
+        "x": "Comments Due: November 19, 2026."
+      },
+      {
+        "t": "p",
+        "x": "III. Summary Proceeding(s) None. See Section II for Public Proceedings."
+      },
+      {
+        "t": "p",
+        "x": "This Notice will be published in the Federal Register."
+      },
+      {
+        "t": "p",
+        "x": "Danielle LeFlore, Legal Assistant."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026–23252 Filed 11–13–26; 8:45 am] BILLING CODE 7710–FW–P SMALL BUSINESS ADMINISTRATION Performance Review Board Members AGENCY: U.S. Small Business Administration."
+      },
+      {
+        "t": "p",
+        "x": "ACTION: Notice of Performance Review Board appointment."
+      },
+      {
+        "t": "p",
+        "x": "SUMMARY: Federal law requires each agency to publish a notification of the appointment of individuals who will serve as members of that agency’s Performance Review Board (PRB). The U.S. Small Business Administration (SBA) hereby provides notice that the membership of its PRB, previously published in the Federal Register on December 5, 2025, is no longer in effect."
+      },
+      {
+        "t": "p",
+        "x": "SUPPLEMENTARY INFORMATION: The following individuals have been designated to serve on the PRB for the SBA."
+      },
+      {
+        "t": "p",
+        "x": "Members"
+      },
+      {
+        "t": "p",
+        "x": "1. Robin Wright (Chair), Chief Operating Officer, Office of the Administrator"
+      },
+      {
+        "t": "p",
+        "x": "2. Benjamin Grayson, Deputy Chief of Staff, Office of the Administrator"
+      },
+      {
+        "t": "p",
+        "x": "3. Randle Logan, Deputy Associate Administrator, Office of Disaster Recovery"
+      },
+      {
+        "t": "p",
+        "x": "4. Katherine Morgan, Deputy Associate Administrator, Office of Field Operations"
+      },
+      {
+        "t": "p",
+        "x": "5. Daniel Pische, Director for Financial Assistance, Office of Capital Access Authority: 5 U.S.C. 4314(c)(4) and 5 CFR 430.311(a)(4)."
+      },
+      {
+        "t": "p",
+        "x": "Kelly Loeffler, Administrator."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026–23256 Filed 11–13–26; 8:45 am] BILLING CODE 8026–09–P DEPARTMENT OF STATE [Public Notice: 13173] RIN1400–ZA28 Pilot for Online Version of Application for a U.S. Passport (Form DS–11) ACTION: Notice of pilot program;"
+      },
+      {
+        "t": "p",
+        "x": "comments."
+      },
+      {
+        "t": "p",
+        "x": "SUMMARY: The Department of State is announcing a pilot program to accept certain renewal and first-time passport applications online. Interested applicants will be able to visit America.gov to check their eligibility to submit a passport application through this pilot. It is anticipated that the pool of eligible applicants will be expanded as testing progresses."
+      },
+      {
+        "t": "p",
+        "x": "DATES: This pilot will be effective November 16, 2026, until November 20, 2027, unless further extended."
+      },
+      {
+        "t": "p",
+        "x": "FOR FURTHER INFORMATION CONTACT:"
+      },
+      {
+        "t": "p",
+        "x": "Jennifer Tinianow, Bureau of Consular Affairs, Passport Services, Office of Adjudication, 202–765–6517."
+      },
+      {
+        "t": "p",
+        "x": "SUPPLEMENTARY INFORMATION: Currently, only applicants who are eligible for a passport renewal using form DS–82:"
+      },
+      {
+        "t": "p",
+        "x": "U.S. Passport Renewal Application for Eligible Individuals 1 can submit a U.S."
+      },
+      {
+        "t": "p",
+        "x": "passport application online. The Department is seeking to expand the availability of online passport applications to first-time applicants and other applicants previously issued U.S."
+      },
+      {
+        "t": "p",
+        "x": "passports who are not eligible to apply using form DS–82. As part of this effort, Passport Services will run a pilot for the online use of form DS–11: Application for a U.S. Passport.2 The pilot will be deployed in phases starting on November 16, 2026, and will be limited to individuals age 18 and over, who have an identification document accepted by Login.gov, excluding mobile driver’s licenses."
+      },
+      {
+        "t": "p",
+        "x": "Accepted ID types include valid U.S."
+      },
+      {
+        "t": "p",
+        "x": "passport books and cards, and valid driver’s licenses or non-driver’s license state-issued ID cards issued by a U.S."
+      },
+      {
+        "t": "p",
+        "x": "State, District of Columbia, or U.S."
+      },
+      {
+        "t": "p",
+        "x": "territory."
+      },
+      {
+        "t": "p",
+        "x": "The pilot will begin with adult applicants located in the United States who have been previously issued a fully valid U.S. passport who are not eligible for a DS–82 renewal application, and first-time adult applicants located in the United States using a Certificate of Naturalization issued by USCIS as evidence of U.S. citizenship. As the Department makes progress on testing and technological capability, it anticipates later expanding the pilot to adult applicants with no previous U.S."
+      },
+      {
+        "t": "p",
+        "x": "passport who are using a valid certified U.S. birth certificate that meets all requirements listed in 22 CFR 51.42 issued by vital records authorities in a state that elects to participate when the capability becomes available, a Certificate of Citizenship issued by USCIS, or a Consular Report of Birth Abroad (CRBA) as evidence of U.S."
+      },
+      {
+        "t": "p",
+        "x": "citizenship, and to eligible applicants who are located overseas. Further expansions may be considered during the course of the pilot."
+      },
+      {
+        "t": "p",
+        "x": "The pilot application will be accessible via America.gov. Interested applicants will answer a series of questions on that website to determine if they are eligible to use this pilot application. Eligible applicants will be directed to Login.gov for identification verification and then returned to America.gov to complete and submit VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73630 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 3 Liveness detection is the process which determines that the application is being completed by a live human (not a bot or SI) and that the identity of that human matches the biometric information of the applicant. This process is completed by capturing a live photo of the applicant using Login.gov’s technology that confirms the applicant’s live presence in front of the camera. Login.gov then compares the identity to the application’s information using a variety of tools, including facial recognition to the identification documents provided."
+      },
+      {
+        "t": "p",
+        "x": "their application online. Applicants who do not meet the criteria for this pilot will be redirected to the appropriate application process, detailed below."
+      },
+      {
+        "t": "p",
+        "x": "Process Applicants who indicate on America.gov that they are seeking passport services will be first asked a series of eligibility-related questions such as whether they are applying for their own passport, whether they are U.S. citizens, and whether they have urgent travel plans. Technical limitations may prevent otherwise eligible applicants from using the pilot application. Those who are not eligible for the online DS–11 pilot will be provided with information about the passport application process that is appropriate for them based on their answers. For instance, individuals who wish to submit an affidavit or court order, or whose applications require one, will be directed to the paper application process."
+      },
+      {
+        "t": "p",
+        "x": "Once eligibility for the online DS–11 is confirmed, applicants will be prompted to sign in to or create an account for Login.gov. Login.gov will prompt them to provide an ID for verification, pass a liveness detection check,3 enter their Social Security Number, put in their address, and verify the information provided."
+      },
+      {
+        "t": "p",
+        "x": "After signing in to Login.gov, the applicant’s information will be provided to the Department of State. Applicants will be returned to America.gov and asked to review and confirm the basic biographical information that their Login.gov account provided to the Department of State such as name, sex, and date of birth. They will have an opportunity to correct any imported information before they confirm."
+      },
+      {
+        "t": "p",
+        "x": "America.gov will then ask applicants to accept terms and conditions for Form DS–11 before asking applicants to provide information specific to the form that is not collected by Login.gov, including their USCIS or alien registration number (if applicable), emergency contact, and occupation."
+      },
+      {
+        "t": "p",
+        "x": "Finally, applicants will be asked to submit an eligible passport photo, choose their desired product and delivery type, review their applications, and take the oath declaring under penalty of perjury that all of the information in the form is true and correct. Since the pilot uses an online process for the DS–11, applicants will fulfill the oath requirement by recording themselves stating the oath. That recording will then be reviewed alongside the rest of the application by a passport agent for confirmation and acceptance."
+      },
+      {
+        "t": "p",
+        "x": "Once accepted by the passport agent, the application will be adjudicated and processed by a passport authorizing officer following the same procedures as the paper DS–11 applications. This adjudication process will involve verifying the applicant’s citizenship records using system checks, including those from USCIS. When an application is approved, the passport will be issued and mailed to the address provided by the applicant through their online application submission."
+      },
+      {
+        "t": "p",
+        "x": "Authorities The pilot program is being launched pursuant to 22 U.S.C. 211a—Authority to grant, issue, and verify passports, which authorizes the Department to ‘‘grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries . . . .’’ 22 U.S.C. 213—Application for Passport;"
+      },
+      {
+        "t": "p",
+        "x": "Verification by Oath requires that certain passport applications ‘‘be duly verified by his oath before a person authorized and empowered by the Secretary of State to administer oaths.’’ For purposes of this temporary pilot program, eligible applicants who are required to take an oath will record themselves reciting it, the recording will be uploaded, and a passport agent will review and confirm the recorded oath before the application is adjudicated."
+      },
+      {
+        "t": "p",
+        "x": "The pilot program will also temporarily alter the application of the following regulations in Title 22, Code of Federal Regulations:"
+      },
+      {
+        "t": "li",
+        "x": "51.8(b)—Submission of currently valid passport, which provides that ‘‘[w]hen applying for a new passport on- line, an applicant must have the currently valid passport of the same type available for cancellation via the on-line process.’’ A first-time applicant eligible for the online DS–11 pilot will not have a currently valid passport available for cancellation."
+      },
+      {
+        "t": "li",
+        "x": "51.21—Execution of Passport Application, which provides that specific populations ‘‘must apply for a passport by appearing in person before a passport agent or passport acceptance agent’’ and ‘‘must verify the application by oath or affirmation before the passport agent or passport acceptance agent’’ as well as spelling out processes for passport renewal by mail or online."
+      },
+      {
+        "t": "p",
+        "x": "Persons belonging to those populations who are eligible for the online DS–11 pilot, including such persons overseas, will not appear in person for the oath to be administered."
+      },
+      {
+        "t": "li",
+        "x": "51.22(e)—Responsibilities, which includes those of persons acting as passport acceptance agents’ ‘‘certify[ing] that they have personally witnessed the applicant signing his or her application’’ and others as part of their responsibilities. Persons who are eligible for the online DS–11 pilot will not be personally witnessed."
+      },
+      {
+        "t": "li",
+        "x": "51.29—Attorney or other third- party assistance, which permits persons seeking passport services to be physically accompanied by third parties of their choice when seeking passport services. Persons who are eligible for the online DS–11 pilot will not need to be physically accompanied by those third parties."
+      },
+      {
+        "t": "li",
+        "x": "51.42—Persons born in the United States applying for a passport for the first time, which specifies certain evidence persons born in the U.S. must submit in original copies when applying for a passport for the first time. Some persons who are eligible for the online DS–11 pilot will be first-time applicants, and they may only be required to submit evidence electronically."
+      },
+      {
+        "t": "li",
+        "x": "51.43—Persons born outside the United States applying for a passport for the first time, which specifies evidence persons born outside the U.S. may be required to submit by paper when applying for a passport for the first time."
+      },
+      {
+        "t": "p",
+        "x": "Some persons who are eligible for the online DS–11 pilot will be first-time applicants, and they may only be required to submit evidence electronically."
+      },
+      {
+        "t": "li",
+        "x": "51.51—Passport fees, which includes an execution fee ‘‘when the applicant is required to execute the application in person.’’ The Department expects the execution of online DS–11 applications during the pilot to cost the same as execution of in-person DS–11 applications because the Department must still review the entire application, including the recorded oath and evidence of identity, for execution and acceptance. Therefore, even though applications submitted by persons who are eligible for the pilot will not be executed in person, the $35 execution fee will still apply. However, the Department will also use the pilot to study and verify associated costs and will update its fee schedule as necessary."
+      },
+      {
+        "t": "li",
+        "x": "51.52(b)—Exemption from payment of passport fees, which specifies that VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73631 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices persons exempt from passport fees are also exempt from passport execution fees if their applications are executed before a federal official. Persons who are eligible for the online DS–11 pilot who fall into the categories under this section will be exempt from passport fees and passport execution fees."
+      },
+      {
+        "t": "p",
+        "x": "Paperwork Reduction Act The application for a passport, form DS–11, is approved under OMB Control Number 1405–0004. The latest approval was on June 25, 2025, for three years."
+      },
+      {
+        "t": "p",
+        "x": "The following information applies to the existing DS–11 procedures. The Department processed 13,913,231 DS– 11 applications in FY 2025. The average time for an applicant to complete a DS– 11 (which includes the time required to search existing data sources, gather the necessary information, provide the information required, review the final collection, and submit the collection to Passport Services for processing) is 85 minutes per response. The Department anticipates that accepting a percentage of these applications online will decrease the time burden for the applicants, although the amount of time saved will be one of the data points to be learned in the pilot. Eligibility criteria for a U.S. passport and the applicability of relevant passport statutes and regulations, including 18 U.S.C. 1541 et seq., will not change during or as a result of this pilot."
+      },
+      {
+        "t": "p",
+        "x": "Applicants will still be required to establish their U.S. citizenship and their identity and follow all relevant Department instructions. By running this pilot, the Department hopes to gain insights to inform an eventual transition to allow an option to submit DS–11 applications online on a permanent basis."
+      },
+      {
+        "t": "p",
+        "x": "Request for Comments The Department welcomes comments on this initiative. Comments relating to the time and money saved (keeping in mind that submitting a paper application takes an average of 85 minutes) will be particularly helpful."
+      },
+      {
+        "t": "p",
+        "x": "Navigate to Regulations.gov, search for Docket No. DOS–2026–1222, and submit a comment. Please note that comments will assist Department personnel in evaluating the pilot and deciding on future actions, including possible rulemaking. The comments will not receive a response."
+      },
+      {
+        "t": "p",
+        "x": "Matthew D. Pierce, Deputy Assistant Secretary, Passport Services, U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026–23317 Filed 11–12–26; 4:15 pm] BILLING CODE 4710–05–P DEPARTMENT OF STATE [Public Notice: 13167] Specially Designated Global Terrorist Designation of Los Lorenzanas Acting under the authority of and in accordance with section 1(a)(ii)(A) of Executive Order 13224, as amended (‘‘E.O. 13224’’ or ‘‘Order’’), I hereby determine that the person known as Los Lorenzanas (also known as The Lorenzana Family; The Lorenzana Clan;"
+      },
+      {
+        "t": "p",
+        "x": "and Lorenzana Drug Trafficking Organization) is a foreign person who has committed or has attempted to commit, poses a significant risk of committing, or has participated in training to commit acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States."
+      },
+      {
+        "t": "p",
+        "x": "Consistent with the determination in section 10 of E.O. 13224 that prior notice to persons determined to be subject to the Order who might have a constitutional presence in the United States would render ineffectual the blocking and other measures authorized in the Order because of the ability to transfer funds instantaneously, I determine that no prior notice needs to be provided to any person subject to this determination who might have a constitutional presence in the United States, because to do so would render ineffectual the measures authorized in the Order."
+      },
+      {
+        "t": "p",
+        "x": "This determination shall be published in the Federal Register."
+      },
+      {
+        "t": "p",
+        "x": "Dated: October 29, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Marco Rubio, Secretary of State, U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026–23240 Filed 11–13–26; 8:45 am] BILLING CODE 4710–05–P DEPARTMENT OF STATE [Public Notice: 13168] Foreign Terrorist Organization Designation of Los Lorenzanas Based upon a review of the Administrative Record assembled in this matter, and in consultation with the Attorney General and the Secretary of the Treasury, I have concluded that there is a sufficient factual basis to find that the relevant circumstances described in section 219 of the Immigration and Nationality Act, as amended (hereinafter ‘‘INA’’) (8 U.S.C."
+      },
+      {
+        "t": "p",
+        "x": "1189), exist with respect to: Los Lorenzanas (also known as The Lorenzana Family; The Lorenzana Clan;"
+      },
+      {
+        "t": "p",
+        "x": "and Lorenzana Drug Trafficking Organization)."
+      },
+      {
+        "t": "p",
+        "x": "Therefore, I hereby designate the aforementioned organization and its respective aliases as a Foreign Terrorist Organization pursuant to section 219 of the INA."
+      },
+      {
+        "t": "p",
+        "x": "This determination shall be published in the Federal Register. The designation goes into effect upon publication."
+      },
+      {
+        "t": "p",
+        "x": "Dated: October 29, 2026."
+      },
+      {
+        "t": "p",
+        "x": "Marco Rubio, Secretary of State, U.S. Department of State."
+      },
+      {
+        "t": "p",
+        "x": "[FR Doc. 2026–23246 Filed 11–13–26; 8:45 am] BILLING CODE 4710–05–P DEPARTMENT OF TRANSPORTATION Federal Aviation Administration [Docket No.: FAA–2026–4426; Summary Notice No. 2026–31] Petition for Exemption; Summary of Petition Received; Blue Vigil, LLC AGENCY: Federal Aviation Administration (FAA), Department of Transportation (DOT)."
+      },
+      {
+        "t": "p",
+        "x": "ACTION: Notice."
+      },
+      {
+        "t": "p",
+        "x": "SUMMARY: This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public’s awareness of, and participation in, the FAA’s exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition."
+      },
+      {
+        "t": "p",
+        "x": "DATES: Comments on this petition must identify the petition docket number and must be received on or before December 7, 2026."
+      },
+      {
+        "t": "p",
+        "x": "ADDRESSES: Send comments identified by docket number [FAA–2026–4426] using any of the following methods:"
+      },
+      {
+        "t": "li",
+        "x": "Federal eRulemaking Portal: Go to http://www.regulations.gov and follow the online instructions for sending your comments electronically."
+      },
+      {
+        "t": "li",
+        "x": "Mail: Send comments to Docket Operations, M–30; U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W12–140, West Building Ground Floor, Washington, DC 20590–0001."
+      },
+      {
+        "t": "li",
+        "x": "Hand Delivery or Courier: Take comments to Docket Operations in Room W12–140 of the West Building Ground Floor at 1200 New Jersey Avenue SE, Washington, DC 20590– 0001, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+      },
+      {
+        "t": "li",
+        "x": "Fax: Fax comments to Docket Operations at (202) 493–2251."
+      },
+      {
+        "t": "p",
+        "x": "VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE"
+      }
+    ],
+    "fetched": "2026-11-14T08:13Z",
+    "from": "pdf",
+    "chars": 20734
+  },
+  "full": {
+    "ko": [
+      "73629 연방관보 (Federal Register) / 제91권, 제219호 / 2026년 11월 16일 월요일 / 공고 1 OMB 통제번호 1405-0020.",
+      "2 OMB 통제번호 1405-0004.",
+      "CFR 3041.110(n); 39 CFR 3041.205(a).",
+      "이러한 요청은 39 CFR 3041.325(c)(2) 및 39 CFR 3041.505(f)(1)에 따라 약식절차에서 검토됩니다. 39 CFR 3041.405(c)부터 (d)까지에 따라, 위원회는 이러한 요청을 검토하는 절차에서 공공대표를 지정하거나 공공의견을 요청하지 아니합니다.",
+      "II. 공개절차",
+      "1. 사건번호: K2025-1632; 제출 제목: 우편공사(USPS) 프라이어리티 메일 및 USPS 그라운드 어드밴티지 계약 828의 수정조항 1호 및 봉인 자료에 관한 요청; 제출 접수일: 2026년 11월 10일;",
+      "제출 권한: 39 CFR 3035.105 및 39 CFR 3041.505; 공공대표:",
+      "크리스토퍼 모어(Christopher Mohr); 의견 제출 기한:",
+      "2026년 11월 19일.",
+      "2. 사건번호: K2025-1642; 제출 제목: 우편공사(USPS) 프라이어리티 메일 및 USPS 그라운드 어드밴티지 계약 833의 수정조항 1호 및 봉인 자료에 관한 요청; 제출 접수일: 2026년 11월 10일;",
+      "제출 권한: 39 CFR 3035.105 및 39 CFR 3041.505; 공공대표:",
+      "제나카 어퍼만(Jennaca Upperman); 의견 제출 기한:",
+      "2026년 11월 19일.",
+      "3. 사건번호: K2026-286; 제출 제목: 우편공사(USPS) 프라이어리티 메일 익스프레스, 프라이어리티 메일 및 USPS 그라운드 어드밴티지 계약 1502의 수정조항 1호 및 봉인 자료에 관한 요청; 제출 접수일:",
+      "2026년 11월 10일; 제출 권한: 39 CFR 3035.105 및 39 CFR 3041.505;",
+      "공공대표: 크리스토퍼 모어(Christopher Mohr); 의견 제출 기한: 2026년 11월 19일.",
+      "4. 사건번호: MC2027-30 및 K2027-31; 제출 제목: 우편공사(USPS)의 프라이어리티 메일 및 USPS 그라운드 어드밴티지 계약 1127을 경쟁제품목록에 추가하기 위한 요청 및 봉인 자료 제출 통지; 제출 접수일: 2026년 11월 10일;",
+      "제출 권한: 39 U.S.C. 3642, 39 CFR 3035.105 및 39 CFR 3041.310; 공공대표: 케네스 몰러(Kenneth Moeller);",
+      "의견 제출 기한: 2026년 11월 19일.",
+      "III. 약식절차 해당 없음. 공개절차에 관하여는 제II절을 참조하시기 바랍니다.",
+      "본 공고는 연방관보(Federal Register)에 게재될 예정입니다.",
+      "다니엘 르플로어(Danielle LeFlore), 법무보조원.",
+      "[FR Doc. 2026-23252 Filed 11-13-26; 8:45 am] 청구코드 7710-FW-P 중소기업청(SMALL BUSINESS ADMINISTRATION) 성과검토위원회 위원 기관: 미합중국 중소기업청(SBA).",
+      "조치: 성과검토위원회 위원 임명 공고.",
+      "요약: 연방법은 각 기관으로 하여금 해당 기관의 성과검토위원회(Performance Review Board, PRB) 위원으로 재직할 개인의 임명에 관한 통지를 게재하도록 요구하고 있습니다. 미합중국 중소기업청(SBA)은 2025년 12월 5일자 연방관보에 이전에 게재되었던 성과검토위원회 구성이 더 이상 유효하지 아니함을 이에 통지합니다.",
+      "보충정보: 다음 개인들이 SBA의 성과검토위원회 위원으로 지정되었습니다.",
+      "위원",
+      "1. 로빈 라이트(Robin Wright) (위원장), 최고운영책임자, 청장실",
+      "2. 벤자민 그레이슨(Benjamin Grayson), 부비서실장, 청장실",
+      "3. 랜들 로건(Randle Logan), 부부청장, 재해복구실",
+      "4. 캐서린 모건(Katherine Morgan), 부부청장, 현장업무실",
+      "5. 다니엘 피셰(Daniel Pische), 재정지원국장, 자본접근청 권한: 5 U.S.C. 4314(c)(4) 및 5 CFR 430.311(a)(4).",
+      "켈리 로플러(Kelly Loeffler), 청장.",
+      "[FR Doc. 2026-23256 Filed 11-13-26; 8:45 am] 청구코드 8026-09-P 국무부(DEPARTMENT OF STATE) [공공고지 13173] RIN 1400-ZA28 미국 여권 신청서(DS-11 양식)의 온라인 버전 시범사업 조치: 시범사업 공고 및",
+      "의견 제출.",
+      "요약: 국무부는 특정 갱신 및 최초 여권 신청을 온라인으로 접수하는 시범사업을 발표합니다. 관심 있는 신청자는 America.gov를 방문하여 본 시범사업을 통한 여권 신청서 제출 자격 여부를 확인할 수 있습니다. 시험이 진행됨에 따라 자격이 있는 신청자의 범위가 확대될 것으로 예상됩니다.",
+      "일자: 본 시범사업은 추가로 연장되지 아니하는 한 2026년 11월 16일부터 2027년 11월 20일까지 시행됩니다.",
+      "추가 정보 문의처:",
+      "제니퍼 티니아노우(Jennifer Tinianow), 영사국, 여권업무과, 심사실, 202-765-6517.",
+      "보충정보: 현재는 DS-82 양식을 사용하여 여권 갱신 자격이 있는 신청자만이:",
+      "자격이 있는 개인을 위한 미국 여권 갱신 신청서 1 온라인으로 미국",
+      "여권 신청서를 제출할 수 있습니다. 국무부는 온라인 여권 신청 제도의 이용 가능 범위를 최초 신청자 및 이전에 미국 여권을 발급받은 적이 있는 그 밖의 신청자에게까지 확대하고자 합니다.",
+      "DS–82 양식을 사용하여 신청할 자격이 없는 여권 소지자를 대상으로 합니다. 이 노력의 일환으로, 여권과는 DS–11 양식(미국 여권 신청서)의 온라인 사용에 대한 시범 프로그램을 시행할 예정입니다.2 이 시범 프로그램은 2026년 11월 16일부터 단계적으로 시행되며, 모바일 운전면허증을 제외하고 Login.gov에서 허용하는 신분증명서를 보유한 만 18세 이상인 개인으로 제한됩니다.",
+      "허용되는 신분증명서 유형에는 유효한 미국",
+      "여권 책자 및 카드, 그리고 유효한 운전면허증 또는 운전면허증이 아닌 주 발급 신분증으로서 미국",
+      "주, 컬럼비아 특별구 또는 미국",
+      "영토에서 발급된 것이 포함됩니다.",
+      "이 시범 프로그램은 미국 내에 거주하며 이전에 완전히 유효한 미국 여권을 발급받았으나 DS–82 갱신 신청 자격이 없는 성인 신청자, 그리고 미국 내에 거주하며 미국 시민권의 증거로 미국 시민권 및 이민서비스국(USCIS)이 발급한 귀화 증명서를 사용하는 최초 신청 성인 신청자를 대상으로 시작됩니다. 국무부는 시험 및 기술 역량에서 진전을 이룸에 따라, 향후 이 시범 프로그램을 이전에 미국",
+      "여권을 발급받은 적이 없는 성인 신청자로서, 해당 기능이 제공될 때 참여하기로 선택한 주의 공공기록 당국이 발급한 22 CFR 51.42에 명시된 모든 요건을 충족하는 유효한 공인 미국 출생증명서, USCIS가 발급한 시민권 증명서, 또는 해외출생 영사보고서(CRBA)를 미국",
+      "시민권의 증거로 사용하는 신청자에게까지 확대하고, 해외에 거주하는 자격을 갖춘 신청자에게도 확대할 것으로 예상하고 있습니다. 시범 프로그램 진행 중 추가 확대가 고려될 수 있습니다.",
+      "시범 신청은 America.gov를 통해 이용할 수 있습니다. 관심 있는 신청자는 해당 웹사이트에서 일련의 질문에 답변하여 이 시범 신청을 사용할 자격이 있는지 확인하게 됩니다. 자격을 갖춘 신청자는 신원 확인을 위해 Login.gov로 안내되며, 이후 America.gov로 돌아와 완료하고 제출하게 됩니다 VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73630 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 3 라이브니스 탐지란 신청서를 작성하는 주체가 살아있는 인간(봇이나 합성 신원이 아님)이며, 그 인간의 신원이 신청자의 생체 정보와 일치하는지를 판별하는 절차를 말합니다. 이 절차는 Login.gov의 기술을 사용하여 신청자의 실시간 사진을 촬영함으로써 신청자가 카메라 앞에 실제로 있음을 확인함으로써 완료됩니다. 이후 Login.gov는 얼굴 인식을 포함한 다양한 도구를 사용하여 제공된 신분증명서와 신청서 정보상의 신원을 대조합니다.",
+      "신청서를 온라인으로 제출합니다. 이 시범 프로그램의 기준을 충족하지 못하는 신청자는 아래에 상세히 설명된 적절한 신청 절차로 안내됩니다.",
+      "절차 America.gov에서 여권 서비스를 요청한다고 표시한 신청자는 먼저 본인의 여권을 신청하는 것인지, 미국 시민인지, 긴급한 여행 계획이 있는지 등 자격 관련 일련의 질문을 받게 됩니다. 기술적 제한으로 인해 자격을 갖춘 신청자라도 시범 신청을 이용하지 못할 수 있습니다. 온라인 DS–11 시범 프로그램의 자격이 없는 신청자에게는 본인의 답변에 따라 적절한 여권 신청 절차에 관한 정보가 제공됩니다. 예를 들어, 진술서나 법원 명령서를 제출하고자 하거나 신청서에 이러한 서류가 요구되는 사람은 서면 신청 절차로 안내됩니다.",
+      "온라인 DS–11에 대한 자격이 확인되면, 신청자는 Login.gov 계정에 로그인하거나 새 계정을 생성하라는 안내를 받게 됩니다. Login.gov는 신청자에게 신원 확인을 위한 신분증 제출, 라이브니스 탐지 검사 통과,3 사회보장번호 입력, 주소 입력, 그리고 제공된 정보의 확인을 요청하게 됩니다.",
+      "Login.gov에 로그인한 후, 신청자의 정보는 국무부에 제공됩니다. 신청자는 America.gov로 돌아가 Login.gov 계정이 국무부에 제공한 성명, 성별, 생년월일 등 기본 인적사항을 검토하고 확인하도록 요청받게 됩니다. 신청자는 확인하기 전에 가져온 정보 중 잘못된 부분을 수정할 기회를 갖게 됩니다.",
+      "America.gov는 이후 신청자에게 Form DS-11의 약관에 동의하도록 요청한 다음, Login.gov에서 수집되지 않는 해당 양식 고유의 정보, 즉 미국 시민권 및 이민서비스국(USCIS) 번호 또는 외국인등록번호(해당되는 경우), 비상연락처, 직업 등을 제공하도록 요청합니다.",
+      "마지막으로 신청자는 적격한 여권용 사진을 제출하고, 원하는 상품 및 배송 유형을 선택하며, 신청서를 검토한 후, 양식에 기재된 모든 정보가 사실이며 정확함을 위증죄의 벌을 받을 것을 서약하는 선서를 하도록 요청받습니다. 이번 시범사업은 DS-11에 대한 온라인 절차를 사용하므로, 신청자는 본인이 선서문을 낭독하는 모습을 녹화함으로써 선서 요건을 이행하게 됩니다. 해당 녹화본은 신청서의 나머지 부분과 함께 여권담당관이 검토하여 확인 및 승인 여부를 결정합니다.",
+      "여권담당관이 접수를 승인하면, 해당 신청서는 종이 DS-11 신청서와 동일한 절차에 따라 여권 승인 담당관이 심사 및 처리하게 됩니다. 이 심사 절차에는 USCIS의 기록을 포함한 시스템 조회를 통해 신청자의 시민권 기록을 검증하는 과정이 포함됩니다. 신청이 승인되면 여권이 발급되며, 신청자가 온라인 신청서 제출 시 기재한 주소로 우편 발송됩니다.",
+      "권한 근거 본 시범사업은 22 U.S.C. 211a, 즉 여권의 부여, 발급 및 검증 권한에 관한 규정에 따라 시행되며, 이 조항은 국무부가 \"여권을 부여 및 발급하고, 외국에서 여권이 부여, 발급 및 검증되도록 하는\" 권한을 부여합니다. 22 U.S.C. 213, 여권 신청에 관한 규정.",
+      "선서에 의한 검증 규정은 특정 여권 신청서가 \"국무장관으로부터 선서를 집행할 권한을 위임받은 자 앞에서 본인의 선서에 의하여 정식으로 검증되어야\" 한다고 규정하고 있습니다. 본 임시 시범사업의 목적상, 선서가 요구되는 적격 신청자는 본인이 선서문을 낭독하는 모습을 녹화하고, 그 녹화본을 업로드하며, 여권담당관이 이를 검토 및 확인한 후 신청서가 심사됩니다.",
+      "본 시범사업은 또한 연방규정집(Code of Federal Regulations) 제22편의 다음 규정들의 적용을 일시적으로 변경합니다.",
+      "51.8(b), 유효한 여권의 제출에 관한 규정으로, \"신규 여권을 온라인으로 신청하는 경우, 신청자는 온라인 절차를 통하여 말소 처리가 가능하도록 동일한 종류의 현재 유효한 여권을 보유하고 있어야 한다\"고 규정하고 있습니다. 온라인 DS-11 시범사업 대상인 최초 신청자는 말소를 위하여 제출할 유효한 여권을 보유하고 있지 않습니다.",
+      "51.21, 여권 신청서 작성에 관한 규정으로, 특정 집단에 속하는 자는 \"여권담당관 또는 여권접수담당관 앞에 직접 출석하여 여권을 신청하여야\" 하며 \"여권담당관 또는 여권접수담당관 앞에서 선서 또는 확약으로써 신청서를 검증하여야\" 한다고 규정하는 한편, 우편 또는 온라인을 통한 여권 갱신 절차도 규정하고 있습니다.",
+      "온라인 DS-11 시범사업 대상에 해당하는 위와 같은 집단에 속하는 자는, 해외 거주자를 포함하여, 선서 집행을 위하여 직접 출석하지 않습니다.",
+      "51.22(e), 책임 사항에 관한 규정으로, 여권접수담당관 역할을 하는 자의 책임 중에는 \"신청자가 본인의 신청서에 서명하는 것을 직접 목격하였음을 증명\"하는 것 등이 포함됩니다. 온라인 DS-11 시범사업 대상자에 대하여는 직접 목격이 이루어지지 않습니다.",
+      "51.29, 변호사 또는 기타 제3자의 지원에 관한 규정으로, 여권 서비스를 신청하는 자가 본인이 선택한 제3자를 동반하여 신체적으로 함께 여권 서비스를 받을 수 있도록 허용하고 있습니다. 온라인 DS-11 시범사업 대상자는 해당 제3자를 신체적으로 동반할 필요가 없습니다.",
+      "51.42, 미국 내 출생자로서 최초로 여권을 신청하는 자에 관한 규정으로, 미국 내 출생자가 최초로 여권을 신청할 때 원본 사본으로 제출하여야 하는 특정 증빙자료를 명시하고 있습니다. 온라인 DS-11 시범사업 대상자 중 일부는 최초 신청자에 해당하며, 이들은 증빙자료를 전자적으로만 제출하도록 요구될 수 있습니다.",
+      "51.43, 미국 외 지역 출생자로서 최초로 여권을 신청하는 자에 관한 규정으로, 미국 외 지역에서 출생한 자가 최초로 여권을 신청할 때 서면으로 제출하도록 요구될 수 있는 증빙자료를 명시하고 있습니다.",
+      "온라인 DS-11 시범사업 대상자 중 일부는 최초 신청자에 해당하며, 이들은 증빙자료를 전자적으로만 제출하도록 요구될 수 있습니다.",
+      "51.51, 여권 수수료. 이는 ‘‘신청인이 신청서를 본인이 직접 작성하여야 하는 경우’’의 작성 수수료를 포함합니다. 국무부(Department of State)는 시범 프로그램 기간 동안 온라인 DS-11 신청서의 작성 처리 비용이 대면 DS-11 신청서의 작성 처리 비용과 동일할 것으로 예상합니다. 이는 국무부가 작성 및 접수를 위하여 녹화된 선서 및 신원 증빙을 포함한 신청서 전체를 여전히 검토하여야 하기 때문입니다. 따라서 시범 프로그램 자격을 갖춘 자가 제출하는 신청서는 대면으로 작성되지 아니함에도 불구하고 35달러의 작성 수수료가 계속 적용됩니다. 다만, 국무부는 이번 시범 프로그램을 통하여 관련 비용을 조사 및 검증하고 필요한 경우 수수료 일정을 갱신할 것입니다.",
+      "51.52(b), 여권 수수료 면제. 이는 VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73631 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 여권 수수료가 면제되는 자는 그 신청서가 연방 공무원 앞에서 작성되는 경우 여권 작성 수수료 또한 면제됨을 명시하고 있습니다. 본 조항에 따른 범주에 해당하여 온라인 DS-11 시범 프로그램 자격을 갖춘 자는 여권 수수료 및 여권 작성 수수료가 면제됩니다.",
+      "문서 작업 감축법(Paperwork Reduction Act). 여권 신청서인 DS-11 서식은 관리예산실(OMB) 통제번호 1405-0004에 따라 승인되었습니다. 가장 최근 승인은 2025년 6월 25일에 이루어졌으며, 유효기간은 3년입니다.",
+      "다음 정보는 기존 DS-11 절차에 적용됩니다. 국무부는 2025회계연도에 13,913,231건의 DS-11 신청서를 처리하였습니다. 신청인이 DS-11을 작성하는 데 소요되는 평균 시간(기존 자료 출처 검색, 필요한 정보 수집, 요구되는 정보 제공, 최종 수집 내용 검토 및 여권과(Passport Services)에 처리를 위하여 제출하는 데 필요한 시간을 포함함)은 1건당 85분입니다. 국무부는 이러한 신청서 중 일정 비율을 온라인으로 접수함으로써 신청인의 시간 부담이 감소할 것으로 예상하나, 절감되는 시간의 규모는 이번 시범 프로그램을 통하여 파악할 자료 항목 중 하나가 될 것입니다. 미합중국 여권 발급 자격요건 및 18 U.S.C. 1541 이하를 포함한 관련 여권 관련 법률 및 규정의 적용은 이번 시범 프로그램 기간 동안 또는 이로 인하여 변경되지 아니합니다.",
+      "신청인은 여전히 자신의 미합중국 시민권 및 신원을 입증하고 국무부의 모든 관련 지침을 준수하여야 합니다. 국무부는 이번 시범 프로그램 운영을 통하여 궁극적으로 DS-11 신청서를 영구적으로 온라인으로 제출할 수 있는 선택지로 전환하는 데 참고가 될 통찰을 얻고자 합니다.",
+      "의견 요청. 국무부는 본 시책에 관한 의견을 환영합니다. 절감되는 시간 및 비용에 관한 의견(서면 신청서 제출에 평균 85분이 소요됨을 감안할 때)이 특히 유익할 것입니다.",
+      "Regulations.gov에 접속하여 사건번호 DOS-2026-1222를 검색한 후 의견을 제출하시기 바랍니다. 제출된 의견은 국무부 직원이 이번 시범 프로그램을 평가하고 향후 규칙 제정 가능성을 포함한 향후 조치를 결정하는 데 도움이 될 것임을 유의하시기 바랍니다. 해당 의견에 대하여는 별도의 답변이 제공되지 아니합니다.",
+      "매튜 D. 피어스(Matthew D. Pierce), 여권과(Passport Services) 부차관보, 미합중국 국무부.",
+      "[연방관보 문서번호 2026-23317, 2026년 11월 12일 오후 4시 15분 제출] 청구 코드 4710-05-P 국무부 [공고 번호: 13167] 로스 로렌사나스(Los Lorenzanas)에 대한 특별지정 국제테러리스트 지정. 행정명령 13224호(개정판, 이하 ‘‘E.O. 13224’’ 또는 ‘‘동 명령’’이라 함) 제1조(a)(ii)(A)항에 따른 권한에 의거하여, 본인은 로스 로렌사나스(일명 로렌사나 패밀리(The Lorenzana Family), 로렌사나 클랜(The Lorenzana Clan),",
+      "및 로렌사나 마약밀매조직(Lorenzana Drug Trafficking Organization)으로도 알려짐)로 알려진 자가 미합중국 국민의 안전 또는 미합중국의 국가안보, 외교정책 또는 경제를 위협하는 테러행위를 저질렀거나 저지르려고 시도하였거나, 저지를 중대한 위험이 있거나, 이를 저지르기 위한 훈련에 참여한 외국인임을 이에 결정합니다.",
+      "행정명령 13224호 제10조의 결정, 즉 미국 내 헌법상 체류 자격을 가질 수 있는 명령 대상자에게 사전 통지를 하는 경우 자금의 즉각적인 이전이 가능하다는 점으로 인하여 해당 명령에서 승인된 자산동결 및 그 밖의 조치가 무력화될 것이라는 결정과 일치되게, 본인은 미국 내 헌법상 체류 자격을 가질 수 있는 이 결정의 대상자에게는 사전 통지를 제공할 필요가 없다고 결정하는바, 이는 사전 통지를 할 경우 해당 명령에서 승인된 조치가 무력화될 것이기 때문입니다.",
+      "이 결정은 연방관보(Federal Register)에 게재되어야 합니다.",
+      "작성일: 2026년 10월 29일.",
+      "마르코 루비오, 국무장관, 미합중국 국무부(U.S. Department of State).",
+      "[FR Doc. 2026-23240 Filed 11-13-26; 8:45 am] 청구 코드 4710-05-P 국무부(DEPARTMENT OF STATE) [공공고시: 13168] 로스 로렌자나스(Los Lorenzanas)에 대한 외국 테러 조직 지정 본건과 관련하여 작성된 행정 기록에 대한 검토를 바탕으로, 그리고 법무장관 및 재무장관과의 협의를 거쳐, 본인은 개정된 이민국적법(Immigration and Nationality Act, 이하 'INA') 제219조(8 U.S.C.",
+      "1189)에 기술된 관련 상황이 다음 조직과 관련하여 존재한다고 판단할 충분한 사실적 근거가 있다고 결론을 내렸습니다: 로스 로렌자나스(일명 로렌자나 패밀리, 로렌자나 클랜,",
+      "그리고 로렌자나 마약 밀매 조직으로도 알려짐).",
+      "따라서 본인은 이에 전술한 조직 및 그 각각의 별칭을 INA 제219조에 따라 외국 테러 조직으로 지정합니다.",
+      "이 결정은 연방관보에 게재되어야 합니다. 이 지정은 게재 즉시 발효됩니다.",
+      "작성일: 2026년 10월 29일.",
+      "마르코 루비오, 국무장관, 미합중국 국무부.",
+      "[FR Doc. 2026-23246 Filed 11-13-26; 8:45 am] 청구 코드 4710-05-P 교통부(DEPARTMENT OF TRANSPORTATION) 연방항공청(Federal Aviation Administration) [문서번호: FAA-2026-4426; 요약고시 번호 2026-31] 적용면제 청원, 접수된 청원서 요약, Blue Vigil, LLC 기관: 연방항공청(Federal Aviation Administration, FAA), 교통부(Department of Transportation, DOT).",
+      "조치: 고시.",
+      "요약: 본 고시는 연방항공규정의 특정 요건에 대한 적용면제를 구하는 청원서의 요약을 포함하고 있습니다. 본 고시의 목적은 FAA의 적용면제 절차에 대한 대중의 인지도 및 참여를 제고하는 데 있습니다. 본 고시의 게재 또는 요약문 내 정보의 포함이나 누락은 해당 청원서의 법적 지위나 최종 처리 결과에 영향을 미치고자 하는 것이 아닙니다.",
+      "일자: 본 청원서에 대한 의견에는 청원 문서번호를 명시하여야 하며, 2026년 12월 7일 또는 그 이전까지 접수되어야 합니다.",
+      "주소: 다음 방법 중 하나를 이용하여 문서번호 [FAA-2026-4426]을 명시한 의견을 제출하십시오.",
+      "연방규칙제정 전자포털(Federal eRulemaking Portal): http://www.regulations.gov 에 접속하여 온라인 안내에 따라 의견을 전자적으로 제출하십시오.",
+      "우편: 의견을 다음 주소로 보내십시오. Docket Operations, M-30, U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W12-140, West Building Ground Floor, Washington, DC 20590-0001.",
+      "직접 제출 또는 택배: 연방 공휴일을 제외한 월요일부터 금요일까지 오전 9시부터 오후 5시까지, 1200 New Jersey Avenue SE, Washington, DC 20590-0001 소재 West Building Ground Floor, Room W12-140의 Docket Operations로 의견을 직접 제출하십시오.",
+      "팩스: Docket Operations로 (202) 493-2251번으로 의견을 팩스 송부하십시오.",
+      "VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE"
+    ],
+    "es": [
+      "73629 Registro Federal / Vol. 91, No. 219 / Lunes, 16 de noviembre de 2026 / Avisos 1 Número de Control de OMB 1405–0020.",
+      "2 Número de Control de OMB 1405–0004.",
+      "CFR 3041.110(n); 39 CFR 3041.205(a).",
+      "Dichas solicitudes son revisadas en procedimientos sumarios conforme a 39 CFR 3041.325(c)(2) y 39 CFR 3041.505(f)(1). Conforme a 39 CFR 3041.405(c)-(d), la Comisión no designa a un Representante Público ni solicita comentarios públicos en los procedimientos para revisar dichas solicitudes.",
+      "II. Procedimiento(s) Público(s)",
+      "1. Expediente(s) No.: K2025–1632; Título de la Presentación: Solicitud del USPS Relativa a la Enmienda Uno al Contrato 828 de Priority Mail y USPS Ground Advantage y Materiales Bajo Sello; Fecha de Aceptación de la Presentación: 10 de noviembre de 2026;",
+      "Autoridad de Presentación: 39 CFR 3035.105 y 39 CFR 3041.505; Representante Público:",
+      "Christopher Mohr; Fecha Límite para Comentarios:",
+      "19 de noviembre de 2026.",
+      "2. Expediente(s) No.: K2025–1642; Título de la Presentación: Solicitud del USPS Relativa a la Enmienda Uno al Contrato 833 de Priority Mail y USPS Ground Advantage y Materiales Bajo Sello; Fecha de Aceptación de la Presentación: 10 de noviembre de 2026;",
+      "Autoridad de Presentación: 39 CFR 3035.105 y 39 CFR 3041.505; Representante Público:",
+      "Jennaca Upperman; Fecha Límite para Comentarios:",
+      "19 de noviembre de 2026.",
+      "3. Expediente(s) No.: K2026–286; Título de la Presentación: Solicitud del USPS Relativa a la Enmienda Uno al Contrato 1502 de Priority Mail Express, Priority Mail y USPS Ground Advantage y Materiales Bajo Sello; Fecha de Aceptación de la Presentación:",
+      "10 de noviembre de 2026; Autoridad de Presentación: 39 CFR 3035.105 y 39 CFR 3041.505;",
+      "Representante Público: Christopher Mohr; Fecha Límite para Comentarios: 19 de noviembre de 2026.",
+      "4. Expediente(s) No.: MC2027–30 y K2027–31; Título de la Presentación: Solicitud del USPS para Agregar el Contrato 1127 de Priority Mail y USPS Ground Advantage a la Lista de Productos Competitivos y Aviso de Presentación de Materiales Bajo Sello; Fecha de Aceptación de la Presentación: 10 de noviembre de 2026;",
+      "Autoridad de Presentación: 39 U.S.C. 3642, 39 CFR 3035.105, y 39 CFR 3041.310; Representante Público: Kenneth Moeller;",
+      "Fecha Límite para Comentarios: 19 de noviembre de 2026.",
+      "III. Procedimiento(s) Sumario(s) Ninguno. Véase la Sección II para los Procedimientos Públicos.",
+      "Este Aviso será publicado en el Registro Federal.",
+      "Danielle LeFlore, Asistente Legal.",
+      "[Doc. del FR 2026–23252 Presentado el 13–11–26; 8:45 am] CÓDIGO DE FACTURACIÓN 7710–FW–P ADMINISTRACIÓN DE PEQUEÑOS NEGOCIOS Miembros de la Junta de Revisión de Desempeño AGENCIA: Administración de Pequeños Negocios de los Estados Unidos (SBA).",
+      "ACCIÓN: Aviso de nombramiento de la Junta de Revisión de Desempeño.",
+      "RESUMEN: La ley federal exige que cada agencia publique una notificación del nombramiento de las personas que se desempeñarán como miembros de la Junta de Revisión de Desempeño (PRB) de dicha agencia. La Administración de Pequeños Negocios de los Estados Unidos (SBA) por medio del presente notifica que la composición de su PRB, publicada anteriormente en el Registro Federal el 5 de diciembre de 2025, ya no está vigente.",
+      "INFORMACIÓN COMPLEMENTARIA: Las siguientes personas han sido designadas para desempeñarse en la PRB de la SBA.",
+      "Miembros",
+      "1. Robin Wright (Presidenta), Directora de Operaciones, Oficina del Administrador",
+      "2. Benjamin Grayson, Subjefe de Gabinete, Oficina del Administrador",
+      "3. Randle Logan, Administrador Asociado Adjunto, Oficina de Recuperación ante Desastres",
+      "4. Katherine Morgan, Administradora Asociada Adjunta, Oficina de Operaciones de Campo",
+      "5. Daniel Pische, Director de Asistencia Financiera, Oficina de Autoridad de Acceso al Capital. Autoridad: 5 U.S.C. 4314(c)(4) y 5 CFR 430.311(a)(4).",
+      "Kelly Loeffler, Administradora.",
+      "[Doc. del FR 2026–23256 Presentado el 13–11–26; 8:45 am] CÓDIGO DE FACTURACIÓN 8026–09–P DEPARTAMENTO DE ESTADO [Aviso Público: 13173] RIN1400–ZA28 Programa Piloto para la Versión en Línea de la Solicitud de Pasaporte Estadounidense (Formulario DS–11) ACCIÓN: Aviso de programa piloto;",
+      "comentarios.",
+      "RESUMEN: El Departamento de Estado anuncia un programa piloto para aceptar en línea ciertas solicitudes de renovación y de primera vez de pasaporte. Los solicitantes interesados podrán visitar America.gov para verificar su elegibilidad para presentar una solicitud de pasaporte a través de este programa piloto. Se anticipa que el grupo de solicitantes elegibles se ampliará a medida que avancen las pruebas.",
+      "FECHAS: Este programa piloto estará vigente desde el 16 de noviembre de 2026 hasta el 20 de noviembre de 2027, a menos que se prorrogue posteriormente.",
+      "PARA MAYOR INFORMACIÓN CONTACTAR A:",
+      "Jennifer Tinianow, Oficina de Asuntos Consulares, Servicios de Pasaportes, Oficina de Adjudicación, 202–765–6517.",
+      "INFORMACIÓN COMPLEMENTARIA: Actualmente, solo los solicitantes que son elegibles para una renovación de pasaporte mediante el formulario DS–82:",
+      "Solicitud de Renovación de Pasaporte Estadounidense para Personas Elegibles 1 pueden presentar una solicitud de pasaporte estadounidense en línea.",
+      "El Departamento busca ampliar la disponibilidad de las solicitudes de pasaporte en línea a solicitantes de primera vez y a otros solicitantes a quienes se les haya expedido previamente un pasaporte estadounidense.",
+      "pasaportes que no sean elegibles para solicitar mediante el formulario DS-82. Como parte de este esfuerzo, Passport Services llevará a cabo un programa piloto para el uso en línea del formulario DS-11: Solicitud de Pasaporte de los Estados Unidos.2 El programa piloto se implementará por fases a partir del 16 de noviembre de 2026, y estará limitado a personas de 18 años de edad o más que cuenten con un documento de identificación aceptado por Login.gov, excluyendo las licencias de conducir móviles.",
+      "Los tipos de identificación aceptados incluyen libretas y tarjetas de pasaporte de los Estados Unidos",
+      "válidas, y licencias de conducir válidas o tarjetas de identificación estatales que no sean de conducir, emitidas por un estado de los Estados Unidos,",
+      "el Distrito de Columbia, o un territorio de los Estados",
+      "Unidos.",
+      "El programa piloto comenzará con solicitantes adultos ubicados en los Estados Unidos a quienes previamente se les haya expedido un pasaporte de los Estados Unidos con validez plena y que no sean elegibles para una solicitud de renovación mediante el DS-82, y con solicitantes adultos que presenten su primera solicitud y se encuentren ubicados en los Estados Unidos, utilizando un Certificado de Naturalización expedido por USCIS como prueba de ciudadanía estadounidense. A medida que el Departamento avance en las pruebas y en la capacidad tecnológica, anticipa ampliar posteriormente el programa piloto a solicitantes adultos que no hayan tenido previamente un pasaporte",
+      "de los Estados Unidos y que utilicen un certificado de nacimiento estadounidense válido y certificado que cumpla con todos los requisitos establecidos en 22 CFR 51.42, expedido por las autoridades de registros vitales de un estado que opte por participar cuando dicha capacidad esté disponible, un Certificado de Ciudadanía expedido por USCIS, o un Informe Consular de Nacimiento en el Extranjero (CRBA, por sus siglas en inglés) como prueba de ciudadanía",
+      "estadounidense, así como a solicitantes elegibles que se encuentren ubicados en el extranjero. Durante el transcurso del programa piloto podrán considerarse ampliaciones adicionales.",
+      "Se podrá acceder a la solicitud del programa piloto a través de America.gov. Los solicitantes interesados responderán una serie de preguntas en ese sitio web para determinar si son elegibles para utilizar esta solicitud piloto. Los solicitantes elegibles serán dirigidos a Login.gov para la verificación de identidad y luego regresarán a America.gov para completar y enviar VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73630 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 3 La detección de vida (liveness detection) es el proceso que determina que la solicitud está siendo completada por un ser humano en vivo (no un bot o IA) y que la identidad de esa persona coincide con la información biométrica del solicitante. Este proceso se lleva a cabo capturando una fotografía en vivo del solicitante mediante la tecnología de Login.gov, que confirma la presencia en vivo del solicitante frente a la cámara. Login.gov luego compara la identidad con la información de la solicitud utilizando diversas herramientas, incluido el reconocimiento facial con los documentos de identificación proporcionados.",
+      "su solicitud en línea. Los solicitantes que no cumplan con los criterios de este programa piloto serán redirigidos al proceso de solicitud correspondiente, que se detalla a continuación.",
+      "Proceso Los solicitantes que indiquen en America.gov que están buscando servicios de pasaporte recibirán primero una serie de preguntas relacionadas con la elegibilidad, tales como si están solicitando su propio pasaporte, si son ciudadanos estadounidenses, y si tienen planes de viaje urgentes. Las limitaciones técnicas podrían impedir que solicitantes que de otro modo serían elegibles utilicen la solicitud piloto. A quienes no sean elegibles para el programa piloto del DS-11 en línea se les proporcionará información sobre el proceso de solicitud de pasaporte que corresponda según sus respuestas. Por ejemplo, las personas que deseen presentar una declaración jurada u orden judicial, o cuyas solicitudes requieran una, serán dirigidas al proceso de solicitud en papel.",
+      "Una vez confirmada la elegibilidad para el DS-11 en línea, se pedirá a los solicitantes que inicien sesión o creen una cuenta en Login.gov. Login.gov les solicitará que proporcionen una identificación para su verificación, que aprueben una verificación de detección de vida,3 que ingresen su número de Seguro Social, que proporcionen su dirección, y que verifiquen la información proporcionada.",
+      "Después de iniciar sesión en Login.gov, la información del solicitante será proporcionada al Departamento de Estado. Los solicitantes regresarán a America.gov y se les pedirá que revisen y confirmen la información biográfica básica que su cuenta de Login.gov proporcionó al Departamento de Estado, tal como nombre, sexo, y fecha de nacimiento. Tendrán la oportunidad de corregir cualquier información importada antes de confirmarla.",
+      "Luego, America.gov pedirá a los solicitantes que acepten los términos y condiciones del Formulario DS-11 antes de solicitarles que proporcionen información específica del formulario que no es recopilada por Login.gov, incluyendo su número de USCIS o número de registro de extranjero (si corresponde), contacto de emergencia y ocupación.",
+      "Finalmente, se pedirá a los solicitantes que presenten una fotografía de pasaporte apta, elijan el tipo de producto y entrega deseados, revisen sus solicitudes y presten el juramento declarando bajo pena de perjurio que toda la información contenida en el formulario es verdadera y correcta. Dado que el programa piloto utiliza un proceso en línea para el DS-11, los solicitantes cumplirán con el requisito del juramento grabándose a sí mismos mientras lo declaran. Dicha grabación será luego revisada junto con el resto de la solicitud por un agente de pasaportes para su confirmación y aceptación.",
+      "Una vez aceptada por el agente de pasaportes, la solicitud será adjudicada y procesada por un funcionario autorizador de pasaportes siguiendo los mismos procedimientos que las solicitudes en papel del DS-11. Este proceso de adjudicación implicará la verificación de los registros de ciudadanía del solicitante mediante controles del sistema, incluyendo los del Servicio de Ciudadanía e Inmigración de los Estados Unidos (USCIS). Cuando se apruebe una solicitud, el pasaporte será emitido y enviado por correo a la dirección proporcionada por el solicitante a través de su presentación de solicitud en línea.",
+      "Autoridades El programa piloto se está implementando conforme a 22 U.S.C. 211a, Autoridad para otorgar, emitir y verificar pasaportes, el cual autoriza al Departamento a \"otorgar y emitir pasaportes, y hacer que se otorguen, emitan y verifiquen pasaportes en países extranjeros...\". 22 U.S.C. 213, Solicitud de Pasaporte;",
+      "La Verificación mediante Juramento requiere que ciertas solicitudes de pasaporte \"sean debidamente verificadas mediante su juramento ante una persona autorizada y facultada por el Secretario de Estado para administrar juramentos\". Para los fines de este programa piloto temporal, los solicitantes elegibles que deban prestar un juramento se grabarán a sí mismos recitándolo, la grabación será cargada y un agente de pasaportes revisará y confirmará el juramento grabado antes de que se adjudique la solicitud.",
+      "El programa piloto también alterará temporalmente la aplicación de los siguientes reglamentos del Título 22 del Código de Reglamentos Federales:",
+      "51.8(b), Presentación del pasaporte vigente, el cual establece que \"[a]l solicitar un nuevo pasaporte en línea, el solicitante debe tener disponible el pasaporte vigente del mismo tipo para su cancelación mediante el proceso en línea\". Un solicitante por primera vez que sea elegible para el programa piloto en línea del DS-11 no tendrá un pasaporte vigente disponible para su cancelación.",
+      "51.21, Ejecución de la Solicitud de Pasaporte, el cual establece que determinadas poblaciones \"deben solicitar un pasaporte presentándose en persona ante un agente de pasaportes o un agente de aceptación de pasaportes\" y \"deben verificar la solicitud mediante juramento o afirmación ante el agente de pasaportes o el agente de aceptación de pasaportes\", además de detallar los procesos para la renovación de pasaportes por correo o en línea.",
+      "Las personas pertenecientes a dichas poblaciones que sean elegibles para el programa piloto en línea del DS-11, incluidas aquellas que se encuentren en el extranjero, no se presentarán en persona para que se les administre el juramento.",
+      "51.22(e), Responsabilidades, que incluye las de las personas que actúan como agentes de aceptación de pasaportes de \"certificar que han presenciado personalmente la firma de la solicitud por parte del solicitante\", entre otras responsabilidades. Las personas que sean elegibles para el programa piloto en línea del DS-11 no serán presenciadas personalmente.",
+      "51.29, Asistencia de un abogado u otro tercero, el cual permite que las personas que buscan servicios de pasaporte sean acompañadas físicamente por terceros de su elección al solicitar dichos servicios. Las personas que sean elegibles para el programa piloto en línea del DS-11 no necesitarán ser acompañadas físicamente por dichos terceros.",
+      "51.42, Personas nacidas en los Estados Unidos que solicitan un pasaporte por primera vez, el cual especifica determinadas pruebas que las personas nacidas en los Estados Unidos deben presentar en copias originales al solicitar un pasaporte por primera vez. Algunas de las personas que sean elegibles para el programa piloto en línea del DS-11 serán solicitantes por primera vez, y es posible que únicamente se les exija presentar las pruebas de forma electrónica.",
+      "51.43, Personas nacidas fuera de los Estados Unidos que solicitan un pasaporte por primera vez, el cual especifica las pruebas que las personas nacidas fuera de los Estados Unidos pueden estar obligadas a presentar en papel al solicitar un pasaporte por primera vez.",
+      "Algunas de las personas que sean elegibles para el programa piloto en línea del DS-11 serán solicitantes por primera vez, y es posible que únicamente se les exija presentar las pruebas de forma electrónica.",
+      "51.51, Tarifas de pasaporte, que incluye una tarifa de ejecución «cuando se requiera que el solicitante ejecute la solicitud en persona». El Departamento espera que la ejecución de las solicitudes DS-11 en línea durante el programa piloto tenga el mismo costo que la ejecución de las solicitudes DS-11 en persona, debido a que el Departamento debe revisar igualmente la solicitud completa, incluido el juramento grabado y la evidencia de identidad, para su ejecución y aceptación. Por lo tanto, aunque las solicitudes presentadas por personas elegibles para el programa piloto no se ejecutarán en persona, la tarifa de ejecución de 35 dólares seguirá aplicándose. Sin embargo, el Departamento también utilizará el programa piloto para estudiar y verificar los costos asociados y actualizará su lista de tarifas según sea necesario.",
+      "51.52(b), Exención del pago de tarifas de pasaporte, que especifica que VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73631 Federal Register / Vol. 91, No. 219 / lunes, 16 de noviembre de 2026 / Avisos las personas exentas de las tarifas de pasaporte también están exentas de las tarifas de ejecución de pasaporte si sus solicitudes se ejecutan ante un funcionario federal. Las personas elegibles para el programa piloto de DS-11 en línea que se encuentren dentro de las categorías previstas en esta sección estarán exentas de las tarifas de pasaporte y de las tarifas de ejecución de pasaporte.",
+      "Ley de Reducción de Trámites La solicitud de pasaporte, formulario DS-11, está aprobada bajo el Número de Control de la OMB 1405-0004. La aprobación más reciente se emitió el 25 de junio de 2025, por un período de tres años.",
+      "La siguiente información corresponde a los procedimientos existentes para el DS-11. El Departamento procesó 13,913,231 solicitudes DS-11 en el año fiscal 2025. El tiempo promedio que le toma a un solicitante completar un DS-11 (que incluye el tiempo necesario para buscar fuentes de datos existentes, recopilar la información necesaria, proporcionar la información requerida, revisar la recopilación final y enviar la recopilación a los Servicios de Pasaportes para su procesamiento) es de 85 minutos por respuesta. El Departamento anticipa que aceptar un porcentaje de estas solicitudes en línea disminuirá la carga de tiempo para los solicitantes, aunque la cantidad de tiempo ahorrado será uno de los datos que se aprenderán durante el programa piloto. Los criterios de elegibilidad para un pasaporte estadounidense y la aplicabilidad de los estatutos y reglamentos pertinentes sobre pasaportes, incluido el 18 U.S.C. 1541 y siguientes, no cambiarán durante ni como resultado de este programa piloto.",
+      "A los solicitantes se les seguirá exigiendo que establezcan su ciudadanía estadounidense y su identidad, y que cumplan con todas las instrucciones pertinentes del Departamento. Al llevar a cabo este programa piloto, el Departamento espera obtener información que permita orientar una eventual transición hacia una opción permanente para presentar solicitudes DS-11 en línea.",
+      "Solicitud de Comentarios El Departamento acoge con beneplácito los comentarios sobre esta iniciativa. Los comentarios relacionados con el tiempo y el dinero ahorrados (teniendo en cuenta que presentar una solicitud en papel toma un promedio de 85 minutos) serán particularmente útiles.",
+      "Ingrese a Regulations.gov, busque el Expediente No. DOS-2026-1222, y envíe un comentario. Tenga en cuenta que los comentarios ayudarán al personal del Departamento a evaluar el programa piloto y decidir sobre acciones futuras, incluida la posible elaboración de normas. Los comentarios no recibirán respuesta.",
+      "Matthew D. Pierce, Subsecretario Adjunto, Servicios de Pasaportes, Departamento de Estado de los Estados Unidos.",
+      "[Doc. del FR 2026-23317 Presentado el 12-11-26; 4:15 pm] CÓDIGO DE FACTURACIÓN 4710-05-P DEPARTAMENTO DE ESTADO [Aviso Público: 13167] Designación de Terrorista Global Especialmente Designado de Los Lorenzanas Actuando bajo la autoridad conferida y de conformidad con la sección 1(a)(ii)(A) de la Orden Ejecutiva 13224, en su versión enmendada («E.O. 13224» o la «Orden»), por la presente determino que la persona conocida como Los Lorenzanas (también conocida como The Lorenzana Family; The Lorenzana Clan;",
+      "y Lorenzana Drug Trafficking Organization) es una persona extranjera que ha cometido o ha intentado cometer, representa un riesgo significativo de cometer, o ha participado en entrenamiento para cometer actos de terrorismo que amenazan la seguridad de los nacionales estadounidenses o la seguridad nacional, la política exterior o la economía de los Estados Unidos.",
+      "De conformidad con la determinación contenida en la sección 10 de la Orden Ejecutiva (E.O.) 13224, en el sentido de que la notificación previa a las personas determinadas como sujetas a la Orden que pudieran tener una presencia constitucional en los Estados Unidos haría ineficaces el bloqueo y las demás medidas autorizadas en la Orden, debido a la posibilidad de transferir fondos de manera instantánea, determino que no es necesario proporcionar notificación previa a ninguna persona sujeta a esta determinación que pudiera tener una presencia constitucional en los Estados Unidos, debido a que hacerlo haría ineficaces las medidas autorizadas en la Orden.",
+      "Esta determinación se publicará en el Registro Federal.",
+      "Fecha: 29 de octubre de 2026.",
+      "Marco Rubio, Secretario de Estado, Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026–23240 Presentado el 13–11–26; 8:45 a.m.] CÓDIGO DE FACTURACIÓN 4710–05–P DEPARTAMENTO DE ESTADO [Aviso Público: 13168] Designación de Los Lorenzanas como Organización Terrorista Extranjera Sobre la base de una revisión del Expediente Administrativo reunido en este asunto, y en consulta con el Fiscal General y el Secretario del Tesoro, he concluido que existe una base fáctica suficiente para determinar que las circunstancias pertinentes descritas en la sección 219 de la Ley de Inmigración y Nacionalidad, en su versión modificada (en adelante, la \"INA\") (8 U.S.C.",
+      "1189), existen con respecto a: Los Lorenzanas (también conocida como The Lorenzana Family; The Lorenzana Clan;",
+      "y Lorenzana Drug Trafficking Organization).",
+      "Por lo tanto, por medio del presente designo a la organización antes mencionada y a sus respectivos alias como una Organización Terrorista Extranjera, de conformidad con la sección 219 de la INA.",
+      "Esta determinación se publicará en el Registro Federal. La designación entrará en vigor a partir de su publicación.",
+      "Fecha: 29 de octubre de 2026.",
+      "Marco Rubio, Secretario de Estado, Departamento de Estado de los Estados Unidos.",
+      "[FR Doc. 2026–23246 Presentado el 13–11–26; 8:45 a.m.] CÓDIGO DE FACTURACIÓN 4710–05–P DEPARTAMENTO DE TRANSPORTE Administración Federal de Aviación [Número de Expediente: FAA–2026–4426; Aviso Resumen N.º 2026–31] Petición de Exención; Resumen de Petición Recibida; Blue Vigil, LLC AGENCIA: Administración Federal de Aviación (FAA), Departamento de Transporte (DOT).",
+      "ACCIÓN: Aviso.",
+      "RESUMEN: Este aviso contiene un resumen de una petición que solicita exención de requisitos específicos de los Reglamentos Federales de Aviación. El propósito de este aviso es mejorar el conocimiento y la participación del público en el proceso de exención de la FAA. Ni la publicación de este aviso, ni la inclusión u omisión de información en el resumen, tienen por objeto afectar la situación jurídica de la petición ni su disposición final.",
+      "FECHAS: Los comentarios sobre esta petición deben identificar el número de expediente de la petición y deben recibirse a más tardar el 7 de diciembre de 2026.",
+      "DIRECCIONES: Envíe los comentarios identificados con el número de expediente [FAA–2026–4426] utilizando cualquiera de los siguientes métodos:",
+      "Portal Federal de Reglamentación Electrónica (eRulemaking): Visite http://www.regulations.gov y siga las instrucciones en línea para enviar sus comentarios electrónicamente.",
+      "Correo: Envíe los comentarios a Docket Operations, M–30; U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W12–140, West Building Ground Floor, Washington, DC 20590–0001.",
+      "Entrega en persona o por mensajería: Lleve los comentarios a Docket Operations, en la Room W12–140 del West Building Ground Floor, ubicado en 1200 New Jersey Avenue SE, Washington, DC 20590–0001, entre las 9:00 a.m. y las 5:00 p.m., de lunes a viernes, excepto días feriados federales.",
+      "Fax: Envíe los comentarios por fax a Docket Operations al (202) 493–2251.",
+      "VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE"
+    ],
+    "zh": [
+      "73629 联邦公报 / 第91卷,第219期 / 2026年11月16日,星期一 / 通知 1 预算管理局(OMB)控制编号1405-0020。",
+      "2 预算管理局(OMB)控制编号1405-0004。",
+      "39 CFR 3041.110(n);39 CFR 3041.205(a)。",
+      "此类请求依据39 CFR 3041.325(c)(2)和39 CFR 3041.505(f)(1)在简易程序中审查。根据39 CFR 3041.405(c)至(d),委员会在审查此类请求的程序中不指定公众代表,也不征求公众意见。",
+      "二、公开程序",
+      "1. 案卷编号:K2025-1632;提交标题:美国邮政管理局(USPS)关于《优先邮件及USPS地面优势合同828修正案一》及密封材料的请求;提交受理日期:2026年11月10日;",
+      "提交依据:39 CFR 3035.105和39 CFR 3041.505;公众代表:",
+      "克里斯托弗·莫尔(Christopher Mohr);意见截止日期:",
+      "2026年11月19日。",
+      "2. 案卷编号:K2025-1642;提交标题:美国邮政管理局(USPS)关于《优先邮件及USPS地面优势合同833修正案一》及密封材料的请求;提交受理日期:2026年11月10日;",
+      "提交依据:39 CFR 3035.105和39 CFR 3041.505;公众代表:",
+      "珍娜卡·厄珀曼(Jennaca Upperman);意见截止日期:",
+      "2026年11月19日。",
+      "3. 案卷编号:K2026-286;提交标题:美国邮政管理局(USPS)关于《优先快递邮件、优先邮件及USPS地面优势合同1502修正案一》及密封材料的请求;提交受理日期:",
+      "2026年11月10日;提交依据:39 CFR 3035.105和39 CFR 3041.505;",
+      "公众代表:克里斯托弗·莫尔(Christopher Mohr);意见截止日期:2026年11月19日。",
+      "4. 案卷编号:MC2027-30和K2027-31;提交标题:美国邮政管理局(USPS)关于将《优先邮件及USPS地面优势合同1127》列入竞争性产品清单的请求及密封提交材料通知;提交受理日期:2026年11月10日;",
+      "提交依据:39 U.S.C. 3642、39 CFR 3035.105和39 CFR 3041.310;公众代表:肯尼思·莫勒(Kenneth Moeller);",
+      "意见截止日期:2026年11月19日。",
+      "三、简易程序 无。参见第二部分公开程序。",
+      "本通知将在联邦公报上公布。",
+      "丹妮尔·勒弗洛尔(Danielle LeFlore),法律助理。",
+      "[联邦公报文件编号2026-23252,于2026年11月13日上午8:45存档] 账单代码7710-FW-P 小企业管理局 绩效评审委员会成员 机构:美国小企业管理局。",
+      "行动:绩效评审委员会任命通知。",
+      "摘要:联邦法律要求各机构公布将担任该机构绩效评审委员会(PRB)成员的人员任命通知。美国小企业管理局(SBA)特此通知,此前于2025年12月5日在联邦公报上公布的绩效评审委员会成员名单现已失效。",
+      "补充信息:以下人员已被指定担任美国小企业管理局绩效评审委员会成员。",
+      "成员",
+      "1. 罗宾·赖特(主席),首席运营官,局长办公室",
+      "2. 本杰明·格雷森,副幕僚长,局长办公室",
+      "3. 兰德尔·洛根,副助理局长,灾害恢复办公室",
+      "4. 凯瑟琳·摩根,副助理局长,实地业务办公室",
+      "5. 丹尼尔·皮舍,资金援助主任,资本准入局 依据:5 U.S.C. 4314(c)(4)和5 CFR 430.311(a)(4)。",
+      "凯利·洛夫勒,局长。",
+      "[联邦公报文件编号2026-23256,于2026年11月13日上午8:45存档] 账单代码8026-09-P 国务院 [公告编号:13173] RIN1400-ZA28 美国护照申请表(DS-11表)在线版本试点项目 行动:试点项目通知;",
+      "征求意见。",
+      "摘要:国务院宣布一项试点项目,以在线方式受理某些续签及首次护照申请。有意申请人可访问America.gov网站,查询其是否符合通过该试点项目提交护照申请的资格。预计随着测试的推进,符合条件的申请人范围将不断扩大。",
+      "日期:本试点项目自2026年11月16日起生效,至2027年11月20日止,除非进一步延长。",
+      "如需更多信息,请联系:",
+      "珍妮弗·蒂尼亚诺,领事事务局,护照服务处,裁决办公室,电话:202-765-6517。",
+      "补充信息:目前,仅有使用DS-82表格:",
+      "《符合条件人员美国护照续签申请表》1 的护照续签申请人可",
+      "在线提交美国护照申请。国务院正寻求将在线护照申请的适用范围扩大至首次申请人及此前曾获发美国",
+      "护照持有人,且不符合使用DS–82表格申请资格者。作为本项工作的一部分,护照服务处(Passport Services)将试行DS–11表格(美国护照申请表)的在线使用。2 该试点项目将自2026年11月16日起分阶段实施,仅限于年满18周岁且持有Login.gov认可的身份证件(不包括移动驾照)的个人使用。",
+      "可接受的证件类型包括有效的美国",
+      "护照本和护照卡,以及由美国某州、",
+      "哥伦比亚特区或美国",
+      "领地签发的有效驾照或非驾照类州级身份证。",
+      "该试点项目将首先面向位于美国境内、此前曾获颁完全有效的美国护照且不符合DS–82续签申请资格的成年申请人,以及位于美国境内、首次申请并使用美国公民及移民服务局(USCIS)签发的《入籍证书》作为美国公民身份证明的成年申请人开放。随着国务院在测试和技术能力方面的进展,预计将来会将该试点扩大至此前未持有美国",
+      "护照、且使用符合22 CFR 51.42所列全部要求、由选择参与该项目(待该项功能可用时)的州级生命记录机构签发的有效经认证的美国出生证明、USCIS签发的《公民身份证书》,或《海外出生公民报告》(CRBA)作为美国",
+      "公民身份证明的成年申请人,以及位于海外的符合条件的申请人。在试点项目实施过程中可能会考虑进一步扩大范围。",
+      "该试点申请将可通过America.gov网站访问。有意申请者将在该网站上回答一系列问题,以确定其是否符合使用该试点申请的资格。符合条件的申请人将被引导至Login.gov进行身份验证,随后返回America.gov完成并提交 VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73630 联邦公报 / 第91卷,第219号 / 2026年11月16日,星期一 / 通告 3 生命体征检测(Liveness detection)是指确定申请是由真实的人(而非机器人或合成身份)完成,且该人的身份与申请人的生物特征信息相符的过程。该过程通过使用Login.gov的技术对申请人进行实时拍照来完成,以确认申请人正实时出现在摄像头前。随后,Login.gov利用包括与所提交身份证件进行面部识别比对在内的多种工具,将该身份与申请信息进行比对。",
+      "其在线申请。不符合本试点项目条件的申请人将被引导至下文详述的相应申请流程。",
+      "流程 在America.gov上表明其正在寻求护照服务的申请人,首先将被询问一系列与资格相关的问题,例如他们是否正在为本人申请护照、是否为美国公民,以及是否有紧急旅行计划。技术限制可能使原本符合条件的申请人无法使用该试点申请。对于不符合在线DS–11试点条件的申请人,将根据其回答为其提供适用于其情况的护照申请流程信息。例如,希望提交宣誓书或法院命令、或其申请需要提交此类文件的个人,将被引导至纸质申请流程。",
+      "一旦确认符合在线DS–11申请条件,申请人将被提示登录或创建Login.gov账户。Login.gov将提示其提供用于验证的身份证件、通过生命体征检测3、输入其社会安全号码、填写其地址,并对所提供信息进行核实。",
+      "在登录Login.gov后,申请人的信息将被提供给国务院。申请人将返回America.gov,并被要求审核和确认其Login.gov账户向国务院提供的基本个人信息,例如姓名、性别和出生日期。在确认之前,他们将有机会更正任何已导入的信息。",
+      "随后,America.gov将要求申请人接受DS–11表格的条款和条件,之后才会要求申请人提供该表格特有而Login.gov未收集的信息,包括其USCIS或外国人登记号码(如适用)、紧急联系人和职业。",
+      "最后,申请人将被要求提交符合条件的护照照片,选择其所需的产品和投递方式,审查其申请,并进行宣誓,在伪证罪的处罚下声明表格中的所有信息真实无误。由于本试点项目对DS–11采用在线流程,申请人将通过录制自己宣读誓词的方式完成宣誓要求。该录音随后将与申请的其余部分一并由护照官员审核,以确认并接受申请。",
+      "一旦护照官员接受申请,该申请将由护照审批官按照与纸质DS–11申请相同的程序进行裁定和处理。该裁定过程将通过系统核查(包括来自USCIS的核查)来验证申请人的公民身份记录。申请获批后,护照将被签发并邮寄至申请人通过其在线申请提交时提供的地址。",
+      "授权依据 本试点项目依据《美国法典》第22编第211a条,即“颁发、签发及核验护照的权力”而启动,该条款授权国务院“颁发并签发护照,并促使在外国颁发、签发及核验护照……”。《美国法典》第22编第213条,护照申请;",
+      "宣誓核验要求某些护照申请“须经国务卿授权和委任的具有宣誓权限的人员,在申请人宣誓后予以正式核验”。就本临时试点项目而言,被要求宣誓的合格申请人将录制自己宣读誓词的过程,该录音将被上传,护照官员将在申请裁定前审核并确认该录制的誓词。",
+      "本试点项目还将暂时改变以下《联邦法规汇编》第22编法规的适用:",
+      "第51.8(b)条,现持有效护照的提交,该条规定“[在]线申请新护照时,申请人必须备有同类型的现持有效护照,以便通过在线流程注销”。符合在线DS–11试点条件的首次申请人将不会持有可供注销的现持有效护照。",
+      "第51.21条,护照申请的办理,该条规定特定人群“必须亲自到护照官员或护照受理代办人处申请护照”,并且“必须在护照官员或护照受理代办人面前以宣誓或郑重声明的方式核验申请”,同时还规定了通过邮寄或在线方式办理护照续签的流程。",
+      "属于上述人群且符合在线DS–11试点条件的人员(包括身处海外者),将无需亲自到场进行宣誓。",
+      "第51.22(e)条,职责,其中包括作为护照受理代办人的人员须“证明其已亲眼见证申请人签署其申请”等职责。符合在线DS–11试点条件的人员将无需被亲眼见证。",
+      "第51.29条,律师或其他第三方协助,该条允许寻求护照服务的人员在办理护照服务时由其选择的第三方实际陪同。符合在线DS–11试点条件的人员将无需由该等第三方实际陪同。",
+      "第51.42条,在美国出生者首次申请护照,该条规定在美国出生者首次申请护照时必须提交原件形式的特定证明文件。部分符合在线DS–11试点条件的人员将属于首次申请人,他们可能仅需以电子方式提交证明文件。",
+      "第51.43条,在美国以外出生者首次申请护照,该条规定在美国以外出生者首次申请护照时可能被要求以纸质方式提交的证明文件。",
+      "部分符合在线DS–11试点条件的人员将属于首次申请人,他们可能仅需以电子方式提交证明文件。",
+      "51.51, , 护照费用，其中包括“申请人须亲自到场办理申请手续时”所需缴纳的受理费。国务院预计，在试点期间在线提交DS-11申请的受理成本将与现场提交DS-11申请的受理成本相同，因为国务院仍须审查整个申请，包括录制的宣誓誓词和身份证明文件，以完成受理和核准。因此，尽管符合试点资格的人员提交的申请将不会以现场方式受理，35美元的受理费仍将适用。但是，国务院也将利用此次试点来研究和核实相关成本，并将根据需要更新其收费标准。",
+      "51.52(b), , 免缴护照费用，该条款规定，VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73631 联邦公报 / 第91卷，第219期 / 2026年11月16日星期一 / 通知 凡免缴护照费用的人员，如其申请是在联邦官员面前受理的，也可免缴护照受理费。符合在线DS-11试点资格且属于本条所列类别的人员，将免缴护照费用和护照受理费。",
+      "文书削减法案 护照申请表DS-11已根据管理和预算办公室（OMB）管控编号1405-0004获得批准。最近一次批准于2025年6月25日作出，有效期为三年。",
+      "以下信息适用于现行的DS-11受理程序。国务院在2025财年共处理了13,913,231份DS-11申请。申请人完成一份DS-11（包括搜索现有数据来源、收集必要信息、提供所需信息、审核最终填报内容以及将填报内容提交护照服务局处理所需的时间）平均耗时每份85分钟。国务院预计，接受一定比例的此类申请在线提交将减少申请人所承担的时间负担，不过节省的具体时间量将是此次试点中需要了解的数据点之一。美国护照的资格标准以及相关护照法规的适用性，包括《美国法典》第18编第1541条及其后续条款，在本次试点期间及因本次试点而发生的变化均不会改变。",
+      "申请人仍须证明其美国公民身份和身份，并遵循国务院的所有相关指示。通过开展此次试点，国务院希望获得相关见解，为最终过渡到允许永久性在线提交DS-11申请的选项提供参考。",
+      "征求意见 国务院欢迎对本举措提出意见。关于所节省的时间和费用的意见（请注意，提交纸质申请平均耗时85分钟）将特别有帮助。",
+      "请前往Regulations.gov网站，搜索案卷编号DOS-2026-1222，并提交意见。请注意，相关意见将有助于国务院工作人员评估该试点并决定未来的行动，包括可能的制定规章程序。对所提交的意见将不予答复。",
+      "马修·D·皮尔斯，副助理国务卿，护照服务局，美国国务院。",
+      "[FR Doc. 2026-23317 Filed 11-12-26; 4:15 pm] 账单代码 4710-05-P 美国国务院 [公共通知：13167] 认定洛斯·洛伦萨纳斯为特别指定全球恐怖分子 依据经修订的第13224号行政命令（“第13224号行政命令”或“该命令”）第1(a)(ii)(A)条所赋予的职权并据此行事，本人特此认定，被称为洛斯·洛伦萨纳斯（又名洛伦萨纳家族；洛伦萨纳家族集团；",
+      "以及洛伦萨纳贩毒组织）的个人为一名外国人，该人曾实施或企图实施、构成重大实施风险，或曾参与培训以实施威胁美国国民安全或美国国家安全、外交政策或经济的恐怖主义行为。",
+      "根据第13224号行政命令第10条中的认定,鉴于向可能在美国境内享有宪法权利的被认定受该命令约束的人员提前发出通知,将因资金可瞬时转移的特性而使该命令所授权的冻结及其他措施归于无效,本人认定,无需向任何可能在美国境内享有宪法权利的、受本认定约束的人员提前发出通知,因为提前通知将使该命令所授权的措施归于无效。",
+      "本认定应在《联邦公报》上公布。",
+      "日期:2026年10月29日。",
+      "马尔科·鲁比奥,美国国务院国务卿。",
+      "[联邦公报文件编号2026-23240,存档日期2026年11月13日上午8:45] 账单代码4710-05-P 美国国务院 [公共通告:13168号] 对洛伦萨纳斯(Los Lorenzanas)的外国恐怖组织认定 基于对本案所汇编的行政记录的审查,并经与司法部长及财政部长协商,本人认定有充分的事实依据确定,经修订的《移民与国籍法》(以下简称“INA”)第219条(8 U.S.C. ",
+      "第1189节)所述的相关情形,就以下组织而言成立:洛伦萨纳斯(又名洛伦萨纳家族;洛伦萨纳集团;",
+      "及洛伦萨纳贩毒组织)。",
+      "因此,本人兹根据INA第219条,将上述组织及其各自别名指定为外国恐怖组织。",
+      "本认定应在《联邦公报》上公布。该指定自公布之日起生效。",
+      "日期:2026年10月29日。",
+      "马尔科·卢比奥,美国国务院国务卿。",
+      "[联邦公报文件编号 2026–23246,于2026年11月13日上午8:45存档] 账单代码 4710–05–P 交通运输部 联邦航空管理局 [案卷编号:FAA–2026–4426;摘要通知第2026–31号] 豁免申请;收到申请摘要;Blue Vigil, LLC公司 机构:交通运输部(DOT)联邦航空管理局(FAA)。",
+      "行动:通知。",
+      "摘要:本通知包含一份请求豁免联邦航空条例特定规定的申请摘要。本通知的目的是提高公众对联邦航空管理局豁免程序的认识并促进公众参与。本通知的发布,以及摘要中信息的纳入或省略,均不旨在影响该申请的法律地位或其最终处理结果。",
+      "日期:对本申请的意见必须注明申请案卷编号,并且必须于2026年12月7日或之前收到。",
+      "地址:请使用以下任一方式提交注明案卷编号[FAA–2026–4426]的意见:",
+      "联邦在线规则制定门户网站:访问 http://www.regulations.gov 并按照在线说明以电子方式提交您的意见。",
+      "邮寄:将意见邮寄至 Docket Operations, M–30;美国交通运输部,1200 New Jersey Avenue SE, Room W12–140, West Building Ground Floor, Washington, DC 20590–0001。",
+      "专人递送或快递:将意见送至位于1200 New Jersey Avenue SE, Washington, DC 20590–0001的西楼一层W12–140室的Docket Operations办公室,收件时间为周一至周五上午9时至下午5时,联邦假日除外。",
+      "传真:将意见传真至Docket Operations,传真号码为(202) 493–2251。",
+      "VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE"
+    ],
+    "ja": [
+      "73629 連邦官報(Federal Register) 第91巻 第219号 2026年11月16日(月曜日) 告示欄 1 OMB管理番号1405-0020。",
+      "2 OMB管理番号1405-0004。",
+      "CFR 3041.110(n)、39 CFR 3041.205(a)。",
+      "当該請求は、39 CFR 3041.325(c)(2)及び39 CFR 3041.505(f)(1)に基づき、略式手続において審査される。39 CFR 3041.405(c)から(d)までの規定に基づき、委員会は、当該請求を審査する手続において、公衆代表者を任命せず、また公衆からの意見を求めない。",
+      "II. 公開手続",
+      "1. 案件番号:K2025–1632、申請名称:プライオリティメール及びUSPSグラウンドアドバンテージ契約828の修正第1号並びに封印資料に関する米国郵政公社(USPS)の申請、申請受理日:2026年11月10日、",
+      "申請根拠規定:39 CFR 3035.105及び39 CFR 3041.505、公衆代表者:",
+      "クリストファー・モア、意見提出期限:",
+      "2026年11月19日。",
+      "2. 案件番号:K2025–1642、申請名称:プライオリティメール及びUSPSグラウンドアドバンテージ契約833の修正第1号並びに封印資料に関するUSPSの申請、申請受理日:2026年11月10日、",
+      "申請根拠規定:39 CFR 3035.105及び39 CFR 3041.505、公衆代表者:",
+      "ジェナカ・アッパーマン、意見提出期限:",
+      "2026年11月19日。",
+      "3. 案件番号:K2026–286、申請名称:プライオリティメールエクスプレス、プライオリティメール及びUSPSグラウンドアドバンテージ契約1502の修正第1号並びに封印資料に関するUSPSの申請、申請受理日:",
+      "2026年11月10日、申請根拠規定:39 CFR 3035.105及び39 CFR 3041.505、",
+      "公衆代表者:クリストファー・モア、意見提出期限:2026年11月19日。",
+      "4. 案件番号:MC2027–30及びK2027–31、申請名称:プライオリティメール及びUSPSグラウンドアドバンテージ契約1127を競争役務一覧表に追加することに関するUSPSの申請及び封印資料提出の通知、申請受理日:2026年11月10日、",
+      "申請根拠規定:39 U.S.C. 3642、39 CFR 3035.105及び39 CFR 3041.310、公衆代表者:ケネス・モーラー、",
+      "意見提出期限:2026年11月19日。",
+      "III. 簡易手続 該当なし。公開手続については第II節を参照のこと。",
+      "本告示は連邦官報(Federal Register)に掲載される。",
+      "ダニエル・ルフロア、法務補佐官。",
+      "[FR Doc. 2026–23252 Filed 11–13–26; 8:45 am] BILLING CODE 7710–FW–P 米国中小企業庁(SBA) 業績審査委員会委員 機関:米国中小企業庁。",
+      "措置:業績審査委員会委員任命の告示。",
+      "概要:連邦法は、各機関に対し、その機関の業績審査委員会(PRB)の委員として勤務する者の任命について告示を公表することを求めている。米国中小企業庁(SBA)は、2025年12月5日付けの連邦官報に先に公表されたそのPRBの委員構成が、もはや効力を有しないことをここに告示する。",
+      "補足情報:以下の者が、SBAのPRBの委員として勤務するよう指名された。",
+      "委員",
+      "1. ロビン・ライト(委員長)、最高執行責任者、長官室",
+      "2. ベンジャミン・グレイソン、副首席補佐官、長官室",
+      "3. ランドル・ローガン、副准長官、災害復旧室",
+      "4. キャサリン・モーガン、副准長官、現地業務室",
+      "5. ダニエル・ピッシェ、金融支援担当局長、資本アクセス室 根拠規定:5 U.S.C. 4314(c)(4)及び5 CFR 430.311(a)(4)。",
+      "ケリー・レフラー、長官。",
+      "[FR Doc. 2026–23256 Filed 11–13–26; 8:45 am] BILLING CODE 8026–09–P 国務省(DEPARTMENT OF STATE) [公示番号:13173] RIN1400–ZA28 米国旅券申請書(様式DS-11)オンライン版のパイロット事業 措置:パイロット事業の告示、",
+      "意見募集。",
+      "概要:国務省は、特定の更新用及び新規申請用の旅券申請をオンラインで受け付けるパイロット事業を発表する。申請を希望する者は、America.govにアクセスし、本パイロット事業を通じて旅券申請を提出する資格があるかどうかを確認することができる。試験の進行に伴い、対象となる申請者の範囲が拡大されることが見込まれている。",
+      "日付:本パイロット事業は、さらに延長されない限り、2026年11月16日から2027年11月20日まで実施される。",
+      "問い合わせ先:",
+      "ジェニファー・ティニアノウ、領事局、旅券業務部、審査課、202–765–6517。",
+      "補足情報:現在、様式DS-82、",
+      "すなわち「対象者向け米国旅券更新申請書」1を用いた旅券更新の資格を有する申請者のみが、米国",
+      "旅券申請をオンラインで提出することができる。国務省は、オンライン旅券申請の利用可能範囲を、新規申請者及び以前に米国の",
+      "DS-82様式を用いて申請する資格を有しないパスポート(保持者)について。この取組みの一環として、パスポートサービス局(Passport Services)は、DS-11様式:米国パスポート申請書2のオンライン利用に関する試行的事業を実施する。本試行事業は2026年11月16日から段階的に展開され、モバイル運転免許証を除き、Login.govが受け付ける本人確認書類を有する18歳以上の者に限定される。",
+      "承認される本人確認書類の種類には、有効な米国の",
+      "パスポート帳及びパスポートカード、並びに有効な運転免許証又は運転免許証以外の州発行の身分証明書カードであって、米国の",
+      "州、コロンビア特別区、又は米国の",
+      "領土が発行したものを含む。",
+      "本試行事業は、米国内に所在し、以前に完全に有効な米国パスポートの発給を受けたことがあり、DS-82更新申請の対象とならない成人申請者、及び米国内に所在し、米国市民権の証拠として米国市民権・移民局(USCIS)が発行した帰化証明書を用いる初回申請の成人申請者から開始される。国務省は、試験及び技術的能力の進展に伴い、以後、本試行事業を、米国の",
+      "パスポートの発給を受けたことがなく、22 CFR 51.42に規定される全ての要件を満たす有効な認証済み米国出生証明書であって、当該能力が利用可能となった時点で参加を選択した州の戸籍当局が発行したもの、USCISが発行した市民権証明書、又は在外米国人出生証明書(CRBA)を、米国",
+      "市民権の証拠として用いる成人申請者、及び海外に所在する適格な申請者にも拡大することを予定している。本試行事業の実施過程において、更なる拡大が検討される場合がある。",
+      "本試行申請はAmerica.govを通じて利用可能となる。関心を有する申請者は、同ウェブサイト上で一連の質問に回答し、本試行申請を利用する資格を有するか否かが判定される。資格を有する申請者は、本人確認のためLogin.govへ誘導され、その後America.govに戻り、VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73630 Federal Register / Vol. 91, No. 219 / Monday, November 16, 2026 / Notices 3 ライブネス検知(liveness detection)とは、申請が生身の人間(ボット又はSIではない)によって行われていること、及びその人間の身元が申請者の生体情報と一致することを判定するプロセスをいう。このプロセスは、Login.govの技術を用いて申請者のライブ写真を撮影し、申請者がカメラの前に実際に存在していることを確認することにより完了する。その後、Login.govは、提供された本人確認書類に対する顔認証を含む様々な手法を用いて、身元情報を申請内容と照合する。",
+      "オンラインでの申請を完了し、提出する。本試行事業の基準を満たさない申請者は、以下に詳述する適切な申請手続へ案内される。",
+      "手続 America.gov上でパスポートサービスを希望する旨を示した申請者は、まず、自己のパスポートを申請するものであるか、米国市民であるか、及び緊急の渡航予定があるか等、資格に関する一連の質問を受ける。技術的な制約により、本来資格を有する申請者であっても本試行申請を利用できない場合がある。オンラインDS-11試行事業の対象とならない者には、その回答に基づき、当該者に適した旅券申請手続に関する情報が提供される。例えば、宣誓供述書又は裁判所命令の提出を希望する者、又はその申請にこれらが必要とされる者は、書面による申請手続に案内される。",
+      "オンラインDS-11の利用資格が確認されると、申請者はLogin.govへのサインイン又はアカウントの新規作成を求められる。Login.govは、本人確認のための身分証明書の提出、ライブネス検知検査3の合格、社会保障番号の入力、住所の入力、及び提供された情報の確認を申請者に求める。",
+      "Login.govへのサインイン後、申請者の情報は国務省に提供される。申請者はAmerica.govに戻り、氏名、性別、及び生年月日等、Login.govアカウントが国務省に提供した基本的な身上情報を確認する。申請者には、確認を行う前に、取り込まれた情報を訂正する機会が与えられる。",
+      "次に、America.govは申請者に対し、Login.govでは収集されない当該様式固有の情報(該当する場合はUSCIS番号又は外国人登録番号、緊急連絡先及び職業を含む)の入力を求める前に、DS-11様式の利用規約への同意を求める。",
+      "最後に、申請者は要件を満たすパスポート用写真を提出し、希望する製品及び配送方法を選択し、申請内容を確認した上で、様式に記載された全ての情報が真実かつ正確であることを偽証罪の下で宣誓する宣誓を行うよう求められる。本パイロットプログラムではDS-11のオンライン手続を使用するため、申請者は自身が宣誓文を読み上げる様子を録画することにより宣誓要件を満たすものとする。当該録画は、申請書類の他の部分と併せてパスポート担当官により審査され、確認及び受理が行われる。",
+      "パスポート担当官により受理された後、当該申請は、紙媒体によるDS-11申請と同一の手続に従い、パスポート裁定官により審査及び処理される。この審査手続には、USCISによるものを含むシステム照会を用いた申請者の市民権記録の確認が含まれる。申請が承認された場合、パスポートが発給され、申請者がオンライン申請の提出時に指定した住所宛てに郵送される。",
+      "権限 本パイロットプログラムは、合衆国法典第22編第211a条(パスポートの発給、交付及び確認に関する権限)に基づき開始されるものであり、同条は国務省に対し「外国においてパスポートを発給し、交付し、及びパスポートの発給、交付並びに確認を行わせる・・・」権限を付与している。合衆国法典第22編第213条(パスポート申請)。",
+      "宣誓による確認については、特定のパスポート申請が「国務長官により宣誓を執行する権限を付与された者の面前において、本人による宣誓をもって適正に確認されなければならない」ことを要求している。本一時的パイロットプログラムの目的上、宣誓を行うことを要する資格のある申請者は、自身が宣誓文を読み上げる様子を録画し、当該録画をアップロードするものとし、パスポート担当官が当該申請の審査に先立ち、録画された宣誓内容を確認し承認するものとする。",
+      "本パイロットプログラムはまた、連邦規則集第22編の以下の規定の適用を一時的に変更するものである。",
+      "第51.8条(b)項(有効なパスポートの提出)は、「新規パスポートをオンラインで申請する場合、申請者は、オンライン手続を通じて失効処理を行うことができる、同一種類の現に有効なパスポートを保有していなければならない」と規定している。オンラインDS-11パイロットの対象となる初回申請者は、失効処理を行うべき現に有効なパスポートを保有していない。",
+      "第51.21条(パスポート申請の執行)は、特定の集団が「パスポート担当官又はパスポート受理担当官の面前に出頭することによりパスポートを申請しなければならない」こと、及び「パスポート担当官又はパスポート受理担当官の面前において宣誓又は確約により申請内容を確認しなければならない」ことを規定するとともに、郵送又はオンラインによるパスポート更新手続についても定めている。",
+      "これらの集団に属する者であって、海外に所在する者を含めオンラインDS-11パイロットの対象となる者は、宣誓の執行のために本人出頭を行わない。",
+      "第51.22条(e)項(責務)には、パスポート受理担当官として行動する者の責務の一部として「申請者が自己の申請書に署名する場面を自ら立ち会って確認したことを証明する」ことなどが含まれている。オンラインDS-11パイロットの対象となる者については、本人による立会い確認は行われない。",
+      "第51.29条(弁護士又はその他の第三者による補助)は、パスポート業務の利用を希望する者が、その選択する第三者の物理的な同伴を受けることを認めている。オンラインDS-11パイロットの対象となる者は、当該第三者の物理的な同伴を必要としない。",
+      "第51.42条(米国内で出生し初めてパスポートを申請する者)は、米国内で出生した者が初めてパスポートを申請する際に原本の形式で提出しなければならない一定の証拠書類を定めている。オンラインDS-11パイロットの対象となる者のうち一部は初回申請者であり、これらの者については証拠書類を電子的形式のみで提出することが求められる場合がある。",
+      "第51.43条(米国外で出生し初めてパスポートを申請する者)は、米国外で出生した者が初めてパスポートを申請する際に紙媒体での提出が求められる場合がある証拠書類を定めている。",
+      "オンラインDS-11パイロットの対象となる者のうち一部は初回申請者であり、これらの者については証拠書類を電子的形式のみで提出することが求められる場合がある。",
+      "51.51、旅券手数料であり、これには「申請者が本人出頭にて申請書を作成することを要求される場合」の作成手数料が含まれる。国務省は、試行プログラム中のオンラインDS-11申請書の作成について、対面でのDS-11申請書の作成と同じ費用がかかると見込んでいる。これは、記録された宣誓及び身元証明を含む申請書全体を、作成及び受理のために引き続き国務省が審査しなければならないためである。したがって、試行プログラムの対象となる者が提出する申請書は対面で作成されることはないものの、35ドルの作成手数料は引き続き適用される。ただし、国務省は、関連費用を調査及び検証するために本試行プログラムを活用し、必要に応じて手数料表を更新する。",
+      "51.52(b)、旅券手数料の支払免除であり、これは連邦職員の面前で申請書が作成される場合、旅券手数料を免除される者は旅券作成手数料も免除されることを定めるものである。VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE 73631 連邦官報 / 第91巻 第219号 / 2026年11月16日月曜日 / 告示 本項に基づく区分に該当するオンラインDS-11試行プログラムの対象となる者は、旅券手数料及び旅券作成手数料を免除される。",
+      "文書削減法 旅券申請書様式DS-11は、OMB管理番号1405-0004の下で承認されている。最新の承認は2025年6月25日に行われ、3年間有効である。",
+      "以下の情報は、既存のDS-11手続に適用されるものである。国務省は2025会計年度に13,913,231件のDS-11申請を処理した。申請者がDS-11を完成させるために要する平均時間(既存のデータ源を検索し、必要な情報を収集し、要求される情報を提供し、最終的な収集内容を確認し、旅券業務局に提出するために処理する時間を含む)は、1回の回答につき85分である。国務省は、これらの申請の一部をオンラインで受け付けることにより、申請者の時間的負担が軽減されると見込んでいるが、節約される時間の量は本試行プログラムで明らかにされるべきデータ項目の一つである。米国旅券の資格要件及び18 U.S.C. 1541以下を含む関連旅券法令・規則の適用は、本試行プログラムの実施中又はその結果として変更されることはない。",
+      "申請者は引き続き、自己の米国市民権及び身元を証明し、国務省のすべての関連指示に従うことが求められる。本試行プログラムの実施を通じて、国務省は、最終的にDS-11申請のオンライン提出を恒久的な選択肢として認める方向への移行に資する知見を得ることを期待している。",
+      "意見募集 国務省は本イニシアチブに関する意見を歓迎する。紙による申請書の提出には平均85分を要することを踏まえ、時間及び費用の節約に関する意見が特に有益である。",
+      "Regulations.govにアクセスし、整理番号DOS-2026-1222を検索して、意見を提出されたい。なお、寄せられた意見は、国務省職員が本試行プログラムを評価し、今後の対応(規則制定の可能性を含む)を決定する際の参考とされるものであり、意見に対する回答は行われない。",
+      "マシュー・D・ピアース 旅券業務担当次官補代理 旅券業務局 米国国務省",
+      "[FR Doc. 2026-23317 Filed 11-12-26; 4:15 pm] BILLING CODE 4710-05-P 国務省 [公告番号:13167] 「ロス・ロレンサナス」の特別指定グローバルテロリストとしての指定 大統領令13224号(改正済み。以下「E.O. 13224」又は「本命令」という。)第1条(a)(ii)(A)に基づく権限を行使し、これに従い、私はここに、ロス・ロレンサナス(別名ロレンサナ・ファミリー、ロレンサナ・クラン、",
+      "及びロレンサナ麻薬密売組織としても知られる者)として知られる人物が、米国国民の安全保障又は米国の国家安全保障、外交政策若しくは経済を脅かすテロ行為を実行し若しくは実行を企て、実行する重大な危険性を有し、又はこれを実行するための訓練に参加したことのある外国人であると決定する。",
+      "大統領令13224第10条における、米国内において憲法上の存在を有し得ると判断される同令の対象者に対して事前通知を行うことは、資金を即時に移転できる能力があることから、同令に基づき許可された資産凍結その他の措置を無効化することになるとの決定と整合的に、本決定の対象者であって米国内において憲法上の存在を有し得る者に対しては、事前通知を行うことなく、これを行うことは同令に基づき許可された措置を無効化することになることから、いかなる者に対しても事前通知を行う必要はないものと決定する。",
+      "本決定は、連邦官報に公示されるものとする。",
+      "日付、2026年10月29日。",
+      "マルコ・ルビオ、国務長官、米国国務省。",
+      "[連邦官報文書番号 2026-23240、2026年11月13日午前8時45分提出] 公示コード 4710-05-P 国務省 [公示番号、13168] ロス・ロレンサナスの外国テロ組織指定について、本件に関して作成された行政記録の検討に基づき、また司法長官及び財務長官と協議の上、私は改正移民国籍法(以下「INA」という。)第219条(合衆国法典第8編1189条)に規定される関連事情が、以下の組織に関して存在することを認定するに足る十分な事実上の根拠があるとの結論に至った。",
+      "すなわち、ロス・ロレンサナス(別名、ロレンサナ・ファミリー、ロレンサナ・クラン、",
+      "並びにロレンサナ麻薬密売組織)である。",
+      "したがって、私はここに、INA第219条に基づき、前記組織及びそのそれぞれの別名を外国テロ組織として指定するものである。",
+      "本決定は、連邦官報に公示されるものとする。本指定は、公示をもって効力を生じる。",
+      "日付、2026年10月29日。",
+      "マルコ・ルビオ、国務長官、米国国務省。",
+      "[FR Doc. 2026–23246 Filed 11–13–26; 8:45 am] BILLING CODE 4710–05–P 運輸省 連邦航空局 [Docket No.: FAA–2026–4426; Summary Notice No. 2026–31] 適用除外の申請、受理した申請の概要、ブルー・ビジル合同会社 (Blue Vigil, LLC) 担当機関:運輸省 (DOT) 連邦航空局 (FAA)。",
+      "措置:通知。",
+      "概要:本通知は、連邦航空規則の特定の要件からの救済を求める申請の概要を含むものである。本通知の目的は、FAAの適用除外手続に対する国民の認識及び参加を向上させることにある。本通知の公表、及び概要における情報の記載又は不記載は、当該申請の法的地位又はその最終的な処分に影響を与えることを意図するものではない。",
+      "日付:本申請に関する意見書には、当該申請の整理番号を明記するものとし、2026年12月7日までに受理されなければならない。",
+      "住所:整理番号[FAA–2026–4426]を明記した意見書を、以下のいずれかの方法により送付すること。",
+      "連邦規則制定ポータル(Federal eRulemaking Portal):http://www.regulations.gov にアクセスし、オンライン上の指示に従って意見書を電子的に送付すること。",
+      "郵送:意見書は、Docket Operations, M–30; U.S. Department of Transportation, 1200 New Jersey Avenue SE, Room W12–140, West Building Ground Floor, Washington, DC 20590–0001 宛に送付すること。",
+      "持参又は宅配便による提出:意見書は、1200 New Jersey Avenue SE, Washington, DC 20590–0001所在のWest Building Ground Floor内Room W12–140のDocket Operationsに、連邦祝日を除く月曜日から金曜日までの午前9時から午後5時までの間に持参すること。",
+      "ファックス:意見書は、(202) 493–2251宛にファックス送信すること。",
+      "VerDate Sep<11>2014 17:45 Nov 13, 2026 Jkt 271001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\\FR\\FM\\16NON1.SGM 16NON1khammond on DSK9W7S144PROD with NOTICE"
+    ]
+  },
+  "full_model": "claude-sonnet-5"
+}
