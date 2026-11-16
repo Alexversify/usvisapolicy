@@ -1,5 +1,27 @@
 [
   {
+    "id": "2cc5e5d43e81",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals",
+    "published": "2026-11-16",
+    "effective_date": "2026-12-17",
+    "importance": "high",
+    "category": "policy",
+    "agency": "doj",
+    "topics": [
+      "enforcement",
+      "humanitarian",
+      "other"
+    ],
+    "tags": [
+      "BIA",
+      "Appeals",
+      "Immigration Court",
+      "EOIR"
+    ],
+    "added": "2026-11-16T19:42Z"
+  },
+  {
     "id": "03bac16c4bba",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23246/foreign-terrorist-organization-designation-of-los-lorenzanas",

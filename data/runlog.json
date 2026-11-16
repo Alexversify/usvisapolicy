@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-16T19:46:29Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43941440890",
+    "found": 3,
+    "added": [
+      {
+        "id": "2cc5e5d43e81",
+        "source": "fr_public_inspection",
+        "title": "EOIR, BIA 항소 기한 단축하고 약식 기각을 기본 절차로 하는 최종규칙 확정"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 0,
+      "left": 0
+    },
+    "cost": 1.6247,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-16T08:44:02Z",
     "kind": "backfill",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/43832829967",
