@@ -1,8 +1,47 @@
 [
   {
+    "id": "041ab8f65a4f",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/16/under-president-trump-and-secretary-mullin-cbps-nationwide-encounters-october-were",
+    "published": "2026-11-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "cbp",
+    "topics": [
+      "enforcement",
+      "travel"
+    ],
+    "tags": [
+      "CBP",
+      "Border Security",
+      "Enforcement Statistics"
+    ],
+    "added": "2026-11-17T09:55Z"
+  },
+  {
+    "id": "58bdda03e5a5",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/16/worst-worst-over-weekend-ice-arrests-murderers-pedophiles-and-child-abusers",
+    "published": "2026-11-16",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-17T09:52Z"
+  },
+  {
     "id": "841f276bf8bd",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-permanent-labor",
+    "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
     "published": "2026-11-16",
     "effective_date": null,
     "importance": "high",
@@ -24,7 +63,7 @@
   {
     "id": "2cc5e5d43e81",
     "source": "fr_public_inspection",
-    "url": "https://www.federalregister.gov/public-inspection/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals",
+    "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals",
     "published": "2026-11-16",
     "effective_date": "2026-12-17",
     "importance": "high",
