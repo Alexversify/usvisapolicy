@@ -1,5 +1,25 @@
 [
   {
+    "id": "a61b63bc5cc9",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/17/sanctuary-insanity-dhs-calls-out-sanctuary-politicians-new-york-releasing-illegal",
+    "published": "2026-11-17",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Sanctuary Jurisdiction",
+      "Detainer",
+      "Enforcement"
+    ],
+    "added": "2026-11-17T16:06Z"
+  },
+  {
     "id": "041ab8f65a4f",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/16/under-president-trump-and-secretary-mullin-cbps-nationwide-encounters-october-were",
