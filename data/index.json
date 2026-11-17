@@ -1,5 +1,27 @@
 [
   {
+    "id": "841f276bf8bd",
+    "source": "fr_public_inspection",
+    "url": "https://www.federalregister.gov/public-inspection/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-permanent-labor",
+    "published": "2026-11-16",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "dol",
+    "topics": [
+      "employment"
+    ],
+    "tags": [
+      "PERM",
+      "Labor Certification",
+      "EB-2",
+      "EB-3",
+      "Schedule A",
+      "DOL"
+    ],
+    "added": "2026-11-17T03:59Z"
+  },
+  {
     "id": "2cc5e5d43e81",
     "source": "fr_public_inspection",
     "url": "https://www.federalregister.gov/public-inspection/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals",
