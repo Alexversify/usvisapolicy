@@ -1,5 +1,43 @@
 [
   {
+    "id": "6c1d538f8fc4",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/18/ice-lodges-detainer-alien-arrested-oklahoma-kidnapping-and-raping-minor",
+    "published": "2026-11-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Oklahoma"
+    ],
+    "added": "2026-11-18T20:39Z"
+  },
+  {
+    "id": "4a40705d0793",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/18/worst-worst-ice-arrests-murderers-sexual-predators-and-violent-assailants",
+    "published": "2026-11-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-18T20:38Z"
+  },
+  {
     "id": "8f6b54233a06",
     "source": "federal_register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures",
