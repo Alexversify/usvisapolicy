@@ -1,5 +1,24 @@
 [
   {
+    "id": "094c57f65b9b",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/17/worst-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars",
+    "published": "2026-11-17",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Aliens"
+    ],
+    "added": "2026-11-18T01:00Z"
+  },
+  {
     "id": "a61b63bc5cc9",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/17/sanctuary-insanity-dhs-calls-out-sanctuary-politicians-new-york-releasing-illegal",

@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-18T01:03:39Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44212168665",
+    "found": 1,
+    "added": [
+      {
+        "id": "094c57f65b9b",
+        "source": "dhs_news",
+        "title": "ICE, 폭행·마약밀매·주거침입 전과 있는 불법체류자 5명 체포 발표"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 1,
+      "left": 0
+    },
+    "cost": 1.259,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-17T16:10:05Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44121544269",
