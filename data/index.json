@@ -1,5 +1,23 @@
 [
   {
+    "id": "8f6b54233a06",
+    "source": "federal_register",
+    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures",
+    "published": "2026-11-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "notice",
+    "agency": "dhs",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "NEPA",
+      "Environmental Policy"
+    ],
+    "added": "2026-11-18T09:21Z"
+  },
+  {
     "id": "094c57f65b9b",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/17/worst-worst-ice-arrests-violent-assailants-drug-traffickers-and-burglars",
