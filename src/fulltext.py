@@ -576,7 +576,11 @@ CSS = """
 """
 
 JS = """(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();"""
 
@@ -606,9 +610,11 @@ def section(a: dict[str, Any], lang: str) -> str:
         if t is None:
             missing += 1
         miss = " ft-miss" if t is None else ""
+        # 번역 페이지에는 영어 원문을 싣지 않고, 원문 보기를 누르면 영어 페이지에서 불러옵니다.
+        # 같은 원문이 5개 언어 페이지에 반복되면 검색엔진·광고 심사에서 중복 콘텐츠로 봅니다.
         rows.append(
             f'<div class="ft-row ft-{e(b["t"])}{miss}"><div class="ft-t" lang="{HTML_LANG.get(lang, lang)}">{e(t or "")}</div>'
-            f'<div class="ft-o" lang="en">{orig}</div></div>'
+            f'<div class="ft-o" lang="en"></div></div>'
         )
     notes = [e(_t("note", lang).format(date=date))]
     if lang != "en" and missing:
@@ -626,7 +632,8 @@ def section(a: dict[str, Any], lang: str) -> str:
             f'<button type="button" data-m="both" aria-pressed="false">{e(_t("btn_both", lang))}</button></div>'
         )
     return (
-        f'{style}<section class="ft" id="fulltext" data-mode="{"or" if lang == "en" else "tr"}">'
+        f'{style}<section class="ft" id="fulltext" data-mode="{"or" if lang == "en" else "tr"}"'
+        f'{"" if lang == "en" else " data-src=" + chr(34) + "../../en/news/" + e(a["id"]) + ".html" + chr(34)}>'
         f'<h2>{e(_t("full", lang))}</h2>{bar}<p class="ft-note">{"<br>".join(notes)}</p>'
         f'<div class="ft-body">{"".join(rows)}</div></section><script>{JS}</script>'
     )
