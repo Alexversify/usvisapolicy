@@ -1,5 +1,25 @@
 [
   {
+    "id": "8da1c4e90173",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/19/sanctuary-insanity-ice-arrests-previously-deported-pedophile-after-he-was-released",
+    "published": "2026-11-19",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Detainer",
+      "Sanctuary Jurisdiction",
+      "Enforcement"
+    ],
+    "added": "2026-11-19T20:43Z"
+  },
+  {
     "id": "34cc0239428a",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/18/sanctuary-insanity-dhs-condemns-sanctuary-politicians-minneapolis-releasing-illegal",

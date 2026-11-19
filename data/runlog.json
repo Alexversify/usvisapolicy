@@ -1,5 +1,28 @@
 [
   {
+    "t": "2026-11-19T20:47:01Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44611118925",
+    "found": 1,
+    "added": [
+      {
+        "id": "8da1c4e90173",
+        "source": "dhs_news",
+        "title": "DHS, 캘리포니아 당국이 석방한 전과자 불법체류자 ICE가 재체포"
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 1,
+      "left": 0
+    },
+    "cost": 1.2881,
+    "limited": true,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-19T11:48:50Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44517530637",
