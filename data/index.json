@@ -1,5 +1,44 @@
 [
   {
+    "id": "34cc0239428a",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/18/sanctuary-insanity-dhs-condemns-sanctuary-politicians-minneapolis-releasing-illegal",
+    "published": "2026-11-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "Sanctuary Jurisdiction",
+      "ICE",
+      "Detainer",
+      "Enforcement"
+    ],
+    "added": "2026-11-19T02:40Z"
+  },
+  {
+    "id": "23e7a9da12e7",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/18/dhs-denounces-texas-officials-allegedly-planning-end-cooperation-ice",
+    "published": "2026-11-18",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Sanctuary Jurisdiction",
+      "Texas"
+    ],
+    "added": "2026-11-19T02:38Z"
+  },
+  {
     "id": "6c1d538f8fc4",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/18/ice-lodges-detainer-alien-arrested-oklahoma-kidnapping-and-raping-minor",
