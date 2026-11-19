@@ -7,7 +7,7 @@
 <meta property="og:title" content="USCIS Finalizes EB-5 Fee Increases, Effective November 30, 2026 · US Visa Policy"><meta property="og:description" content="DHS and USCIS published a final rule adjusting fees for the EB-5 Immigrant Investor Program, codifying provisions of the EB-5 Reform and Integrity Act of 2022. The rule takes effect November 30, 2026, and raises several Integrity Fund fees along with other EB-5 immigration benefit request fees. It responds to public comments on a proposed version of the rule published October 23, 2025."><meta property="og:type" content="website">
 <link rel="canonical" href="https://usvisapolicy.com/en/news/328b02f931a3.html"><link rel="alternate" hreflang="ko" href="https://usvisapolicy.com/ko/news/328b02f931a3.html"><link rel="alternate" hreflang="en" href="https://usvisapolicy.com/en/news/328b02f931a3.html"><link rel="alternate" hreflang="es" href="https://usvisapolicy.com/es/news/328b02f931a3.html"><link rel="alternate" hreflang="zh-Hans" href="https://usvisapolicy.com/zh/news/328b02f931a3.html"><link rel="alternate" hreflang="ja" href="https://usvisapolicy.com/ja/news/328b02f931a3.html"><link rel="alternate" hreflang="x-default" href="https://usvisapolicy.com/en/news/328b02f931a3.html"><link rel="alternate" type="application/rss+xml" href="../../en/rss.xml">
 <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
-<link rel="stylesheet" href="../../assets/site.css?v=a4fba678">
+<link rel="stylesheet" href="../../assets/site.css?v=e8acc386">
 <meta name="google-adsense-account" content="ca-pub-1964223951103950"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1964223951103950" crossorigin="anonymous"></script>
 </head>
 <body data-fb-endpoint="/feedback" data-fb-site="usvisapolicy" data-fb-mail="info@usvisapolicy.com" data-fb-ok="Received. Thank you." data-fb-fail="Could not send. Opening your email app instead." data-article="328b02f931a3">
@@ -664,7 +664,11 @@ https://www.dhs.gov/​sites/​default/​files/​publications/​DHS_​Instr
  
 Instruction Manual 023-01
 at V.B(2)(a)-(c).</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Back to Citation</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">[FR Doc. 2026-20016 Filed 9-29-26; 8:45 am]</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">BILLING CODE 9111-97-P</div></div></div></section><script>(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();</script>
 <div class="src">Original title: U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule<br>
@@ -689,5 +693,5 @@ try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[d
 <div id="fb-msg" role="status"></div>
 <div class="acts"><button type="button" data-close>Close</button><button type="submit">Send</button></div>
 </form></dialog>
-<script src="../../assets/site.js?v=a4fba678" defer></script>
+<script src="../../assets/site.js?v=e8acc386" defer></script>
 </body></html>

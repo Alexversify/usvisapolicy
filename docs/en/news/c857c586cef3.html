@@ -7,7 +7,7 @@
 <meta property="og:title" content="USCIS to Open New International Field Office in Addis Ababa, Ethiopia · US Visa Policy"><meta property="og:description" content="USCIS is opening a new international field office in Addis Ababa, Ethiopia, beginning operations on September 9, 2026. The office will directly handle document verification, fraud investigations, and DNA collection for family relationship confirmation, functions previously coordinated with the Department of State."><meta property="og:type" content="website">
 <link rel="canonical" href="https://usvisapolicy.com/en/news/c857c586cef3.html"><link rel="alternate" hreflang="ko" href="https://usvisapolicy.com/ko/news/c857c586cef3.html"><link rel="alternate" hreflang="en" href="https://usvisapolicy.com/en/news/c857c586cef3.html"><link rel="alternate" hreflang="es" href="https://usvisapolicy.com/es/news/c857c586cef3.html"><link rel="alternate" hreflang="zh-Hans" href="https://usvisapolicy.com/zh/news/c857c586cef3.html"><link rel="alternate" hreflang="ja" href="https://usvisapolicy.com/ja/news/c857c586cef3.html"><link rel="alternate" hreflang="x-default" href="https://usvisapolicy.com/en/news/c857c586cef3.html"><link rel="alternate" type="application/rss+xml" href="../../en/rss.xml">
 <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
-<link rel="stylesheet" href="../../assets/site.css?v=a4fba678">
+<link rel="stylesheet" href="../../assets/site.css?v=e8acc386">
 <meta name="google-adsense-account" content="ca-pub-1964223951103950"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1964223951103950" crossorigin="anonymous"></script>
 </head>
 <body data-fb-endpoint="/feedback" data-fb-site="usvisapolicy" data-fb-mail="info@usvisapolicy.com" data-fb-ok="Received. Thank you." data-fb-fail="Could not send. Opening your email app instead." data-article="c857c586cef3">
@@ -46,7 +46,11 @@
 .ft[data-mode="both"] .ft-miss{display:block}
 @media (max-width:700px){.ft[data-mode="both"] .ft-row{grid-template-columns:1fr;gap:4px}}
 </style><section class="ft" id="fulltext" data-mode="or"><h2>Full text</h2><p class="ft-note">The complete official text was archived on this site on 2026-10-12. It stays available here even if the source link changes or is removed.</p><div class="ft-body"><div class="ft-row ft-p"><div class="ft-o" lang="en">Release Date</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">09/03/2026</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">U.S. Citizenship and Immigration Services (USCIS) is opening a new international field office in Addis Ababa, Ethiopia. The office will begin operations on September 9, 2026, and will handle USCIS immigration matters in Ethiopia.</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">USCIS staff in Addis Ababa will verify the authenticity of foreign documents, investigate suspected fraud, and collect DNA to confirm family relationships. Historically, these functions have been supported through coordination with the Department of State. The new office will provide USCIS with a dedicated presence to perform these critical workloads directly. This action is part of a broader effort to better align USCIS’ overseas operations with agency priorities and strengthen the agency’s overseas operational capacity.</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Services at the office in Addis Ababa will be available only by appointment. USCIS will update its International Immigration Offices webpage to include information about the field office, its services, and appointments.</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">09/03/2026</div></div></div></section><script>(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();</script>
 <div class="src">Original title: USCIS Opens New International Field Office in Ethiopia to Support Fraud Prevention<br>
@@ -71,5 +75,5 @@ try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[d
 <div id="fb-msg" role="status"></div>
 <div class="acts"><button type="button" data-close>Close</button><button type="submit">Send</button></div>
 </form></dialog>
-<script src="../../assets/site.js?v=a4fba678" defer></script>
+<script src="../../assets/site.js?v=e8acc386" defer></script>
 </body></html>

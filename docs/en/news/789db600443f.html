@@ -7,7 +7,7 @@
 <meta property="og:title" content="DHS Sets FY 2027 Inflation Adjustments for Parole, I-94, ESTA and EVUS Fees · US Visa Policy"><meta property="og:description" content="DHS has announced Fiscal Year 2027 inflation-adjusted amounts for certain immigration fees required by the One Big Beautiful Bill Act (HR-1), including the parole fee, ESTA fee and EVUS enrollment fee. The new amounts take effect October 16, 2026. The Form I-94 fee at land border ports of entry will not change for FY 2027 due to the statutory rounding rule."><meta property="og:type" content="website">
 <link rel="canonical" href="https://usvisapolicy.com/en/news/789db600443f.html"><link rel="alternate" hreflang="ko" href="https://usvisapolicy.com/ko/news/789db600443f.html"><link rel="alternate" hreflang="en" href="https://usvisapolicy.com/en/news/789db600443f.html"><link rel="alternate" hreflang="es" href="https://usvisapolicy.com/es/news/789db600443f.html"><link rel="alternate" hreflang="zh-Hans" href="https://usvisapolicy.com/zh/news/789db600443f.html"><link rel="alternate" hreflang="ja" href="https://usvisapolicy.com/ja/news/789db600443f.html"><link rel="alternate" hreflang="x-default" href="https://usvisapolicy.com/en/news/789db600443f.html"><link rel="alternate" type="application/rss+xml" href="../../en/rss.xml">
 <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
-<link rel="stylesheet" href="../../assets/site.css?v=a4fba678">
+<link rel="stylesheet" href="../../assets/site.css?v=e8acc386">
 <meta name="google-adsense-account" content="ca-pub-1964223951103950"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1964223951103950" crossorigin="anonymous"></script>
 </head>
 <body data-fb-endpoint="/feedback" data-fb-site="usvisapolicy" data-fb-mail="info@usvisapolicy.com" data-fb-ok="Received. Thank you." data-fb-fail="Could not send. Opening your email app instead." data-article="789db600443f">
@@ -164,7 +164,11 @@ https://www.bls.gov/​news.release/​archives/​cpi_​08122026.htm
  In a
 Federal Register
 notice published on October 20, 2016 (81 FR 72600), DHS identified the PRC as an EVUS country and designated B-1, B-2, and B-1/B-2 visas issued without restriction for the maximum validity period and contained in a passport issued by the PRC as designated visa categories for purposes of EVUS.</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Back to Citation</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">[FR Doc. 2026-20185 Filed 9-30-26; 8:45 am]</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">BILLING CODE 9111-14-P</div></div></div></section><script>(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();</script>
 <div class="src">Original title: Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation<br>
@@ -189,5 +193,5 @@ try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[d
 <div id="fb-msg" role="status"></div>
 <div class="acts"><button type="button" data-close>Close</button><button type="submit">Send</button></div>
 </form></dialog>
-<script src="../../assets/site.js?v=a4fba678" defer></script>
+<script src="../../assets/site.js?v=e8acc386" defer></script>
 </body></html>

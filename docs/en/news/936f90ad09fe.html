@@ -7,7 +7,7 @@
 <meta property="og:title" content="DHS Raises Two HR-1 Immigration Enforcement Fees to $5,300 for FY2027 · US Visa Policy"><meta property="og:description" content="The Department of Homeland Security has issued its fiscal year 2027 inflation adjustment for two immigration enforcement fees created by HR-1, the One Big Beautiful Bill Act. Both fees, which apply to aliens arrested after an in absentia removal order and to inadmissible aliens apprehended between ports of entry, rise from $5,130 to $5,300. DHS will begin assessing and collecting the new amounts on October 16, 2026."><meta property="og:type" content="website">
 <link rel="canonical" href="https://usvisapolicy.com/en/news/936f90ad09fe.html"><link rel="alternate" hreflang="ko" href="https://usvisapolicy.com/ko/news/936f90ad09fe.html"><link rel="alternate" hreflang="en" href="https://usvisapolicy.com/en/news/936f90ad09fe.html"><link rel="alternate" hreflang="es" href="https://usvisapolicy.com/es/news/936f90ad09fe.html"><link rel="alternate" hreflang="zh-Hans" href="https://usvisapolicy.com/zh/news/936f90ad09fe.html"><link rel="alternate" hreflang="ja" href="https://usvisapolicy.com/ja/news/936f90ad09fe.html"><link rel="alternate" hreflang="x-default" href="https://usvisapolicy.com/en/news/936f90ad09fe.html"><link rel="alternate" type="application/rss+xml" href="../../en/rss.xml">
 <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
-<link rel="stylesheet" href="../../assets/site.css?v=a4fba678">
+<link rel="stylesheet" href="../../assets/site.css?v=e8acc386">
 <meta name="google-adsense-account" content="ca-pub-1964223951103950"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1964223951103950" crossorigin="anonymous"></script>
 </head>
 <body data-fb-endpoint="/feedback" data-fb-site="usvisapolicy" data-fb-mail="info@usvisapolicy.com" data-fb-ok="Received. Thank you." data-fb-fail="Could not send. Opening your email app instead." data-article="936f90ad09fe">
@@ -103,7 +103,11 @@ https://data.bls.gov/​timeseries/​CUUR0000SA0?​years_​option=​all_​y
  An alien is “ordered removed in absentia” by an immigration judge under section 240(b)(5) of the INA, 8 U.S.C. 1229a(b)(5), when the alien fails to attend removal proceedings after written notice “required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien&#x27;s counsel of record” and DHS has established “by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable.”</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Back to Citation</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">9.
  INA section 240(b)(5)(C), 8 U.S.C. 1229a(b)(5)(C) (“Such an order may be rescinded only—(i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1)), or (ii) upon a motion to reopen filed at any time if the alien demonstrates that the alien did not receive notice in accordance with paragraph (1) or (2) of section 1229(a) of this title or the alien demonstrates that the alien was in Federal or State custody and the failure to appear was through no fault of the alien”).</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Back to Citation</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">10.
  INA section 212(a)(6), 8 U.S.C. 1182(a)(6).</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Back to Citation</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">[FR Doc. 2026-20186 Filed 9-30-26; 8:45 am]</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">BILLING CODE 9111-CB-P</div></div></div></section><script>(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();</script>
 <div class="src">Original title: Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation<br>
@@ -128,5 +132,5 @@ try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[d
 <div id="fb-msg" role="status"></div>
 <div class="acts"><button type="button" data-close>Close</button><button type="submit">Send</button></div>
 </form></dialog>
-<script src="../../assets/site.js?v=a4fba678" defer></script>
+<script src="../../assets/site.js?v=e8acc386" defer></script>
 </body></html>

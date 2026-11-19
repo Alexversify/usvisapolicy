@@ -7,7 +7,7 @@
 <meta property="og:title" content="State Department Announces New Visa Restriction Policy on Birth Tourism · US Visa Policy"><meta property="og:description" content="The U.S. Department of State has announced a new policy restricting visas for individuals who engage in or facilitate birth tourism, referring to travel to the United States for the purpose of giving birth so a child obtains U.S. citizenship. The source available does not specify which visa categories are affected, the effective date, or detailed eligibility criteria."><meta property="og:type" content="website">
 <link rel="canonical" href="https://usvisapolicy.com/en/news/45b440e65d30.html"><link rel="alternate" hreflang="ko" href="https://usvisapolicy.com/ko/news/45b440e65d30.html"><link rel="alternate" hreflang="en" href="https://usvisapolicy.com/en/news/45b440e65d30.html"><link rel="alternate" hreflang="es" href="https://usvisapolicy.com/es/news/45b440e65d30.html"><link rel="alternate" hreflang="zh-Hans" href="https://usvisapolicy.com/zh/news/45b440e65d30.html"><link rel="alternate" hreflang="ja" href="https://usvisapolicy.com/ja/news/45b440e65d30.html"><link rel="alternate" hreflang="x-default" href="https://usvisapolicy.com/en/news/45b440e65d30.html"><link rel="alternate" type="application/rss+xml" href="../../en/rss.xml">
 <link rel="icon" type="image/svg+xml" href="../../favicon.svg">
-<link rel="stylesheet" href="../../assets/site.css?v=a4fba678">
+<link rel="stylesheet" href="../../assets/site.css?v=e8acc386">
 <meta name="google-adsense-account" content="ca-pub-1964223951103950"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1964223951103950" crossorigin="anonymous"></script>
 </head>
 <body data-fb-endpoint="/feedback" data-fb-site="usvisapolicy" data-fb-mail="info@usvisapolicy.com" data-fb-ok="Received. Thank you." data-fb-fail="Could not send. Opening your email app instead." data-article="45b440e65d30">
@@ -63,7 +63,11 @@ Preferences</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">The 
 Statistics</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">The technical storage or access that is used exclusively for statistical purposes.
 The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">Marketing
 Marketing</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</div></div><div class="ft-row ft-li"><div class="ft-o" lang="en">Manage options</div></div><div class="ft-row ft-li"><div class="ft-o" lang="en">Manage services</div></div><div class="ft-row ft-li"><div class="ft-o" lang="en">Manage {vendor_count} vendors</div></div><div class="ft-row ft-li"><div class="ft-o" lang="en">Read more about these purposes</div></div><div class="ft-row ft-p"><div class="ft-o" lang="en">View preferences</div></div><div class="ft-row ft-li"><div class="ft-o" lang="en">{title}</div></div></div></section><script>(function(){var s=document.querySelector('.ft');if(!s)return;var bs=s.querySelectorAll('.ft-bar button');
-function set(m){s.dataset.mode=m;bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
+var got=false;function load(){if(got||!s.dataset.src)return;got=true;
+fetch(s.dataset.src).then(function(r){return r.text()}).then(function(h){var d=new DOMParser().parseFromString(h,'text/html');
+var src=d.querySelectorAll('.ft-body .ft-o'),dst=s.querySelectorAll('.ft-body .ft-o');for(var i=0;i<dst.length&&i<src.length;i++)dst[i].textContent=src[i].textContent;}).catch(function(){got=false;});}
+if(s.querySelector('.ft-miss'))load();
+function set(m){s.dataset.mode=m;if(m!=='tr')load();bs.forEach(function(x){x.setAttribute('aria-pressed',String(x.dataset.m===m))});}
 bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.m);try{localStorage.setItem('uvp-ft',b.dataset.m)}catch(e){}})});
 try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[data-m="'+m+'"]'))set(m)}catch(e){}})();</script>
 <div class="src">Original title: Protecting the Sanctity of U.S. Citizenship: A New Visa Restriction Policy for Those Who Engage in or Facilitate Birth Tourism<br>
@@ -88,5 +92,5 @@ try{var m=localStorage.getItem('uvp-ft');if(m&&s.querySelector('.ft-bar button[d
 <div id="fb-msg" role="status"></div>
 <div class="acts"><button type="button" data-close>Close</button><button type="submit">Send</button></div>
 </form></dialog>
-<script src="../../assets/site.js?v=a4fba678" defer></script>
+<script src="../../assets/site.js?v=e8acc386" defer></script>
 </body></html>

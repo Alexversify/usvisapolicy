@@ -100,7 +100,7 @@
 
   // 언어 선택 기억
   document.querySelectorAll('.langs a').forEach(function(a){
-    a.addEventListener('click', function(){ try { localStorage.setItem('uvp-lang', a.dataset.lang); } catch(e){} });
+    a.addEventListener('click', function(){ try { localStorage.setItem('uvp-lang', a.dataset.lang); } catch(e){} document.cookie = 'uvp-lang=' + a.dataset.lang + ';path=/;max-age=31536000;samesite=lax'; });
   });
 
   // feedbal.com 피드백
