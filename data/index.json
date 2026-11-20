@@ -1,5 +1,63 @@
 [
   {
+    "id": "e9e137f13d93",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/20/ice-hsi-nebraska-state-patrol-secure-50-year-sentence-child-exploitation-offender",
+    "published": "2026-11-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "other"
+    ],
+    "tags": [
+      "HSI",
+      "Criminal Sentencing"
+    ],
+    "added": "2026-11-20T20:31Z"
+  },
+  {
+    "id": "df1d89792dc3",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20261120-SIJIntegrity.pdf",
+    "published": "2026-11-20",
+    "effective_date": null,
+    "importance": "high",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "family"
+    ],
+    "tags": [
+      "SIJ",
+      "Policy Manual",
+      "USCIS"
+    ],
+    "added": "2026-11-20T20:29Z"
+  },
+  {
+    "id": "0fb527b0f670",
+    "source": "uscis_policy_manual",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20261120-SIJAdjustment.pdf",
+    "published": "2026-11-20",
+    "effective_date": null,
+    "importance": "medium",
+    "category": "policy",
+    "agency": "uscis",
+    "topics": [
+      "humanitarian",
+      "family"
+    ],
+    "tags": [
+      "SIJ",
+      "Adjustment of Status",
+      "Policy Manual"
+    ],
+    "added": "2026-11-20T20:27Z"
+  },
+  {
     "id": "3ff8603bbf61",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/19/worst-worst-ice-arrests-sexual-deviants-violent-assailants-drug-dealers-and-other",
