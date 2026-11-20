@@ -1,5 +1,24 @@
 [
   {
+    "id": "3ff8603bbf61",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/19/worst-worst-ice-arrests-sexual-deviants-violent-assailants-drug-dealers-and-other",
+    "published": "2026-11-19",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Arrests"
+    ],
+    "added": "2026-11-20T02:23Z"
+  },
+  {
     "id": "8da1c4e90173",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/19/sanctuary-insanity-ice-arrests-previously-deported-pedophile-after-he-was-released",
