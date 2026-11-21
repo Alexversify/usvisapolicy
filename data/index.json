@@ -1,5 +1,43 @@
 [
   {
+    "id": "cf0cc0646d00",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/20/worst-worst-ice-protects-american-families-arresting-child-sex-offenders-violent",
+    "published": "2026-11-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "ice",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE",
+      "Enforcement",
+      "Criminal Alien"
+    ],
+    "added": "2026-11-21T02:24Z"
+  },
+  {
+    "id": "83ddb17b3569",
+    "source": "dhs_news",
+    "url": "https://www.dhs.gov/news/2026/11/20/sanctuary-insanity-dhs-slams-minnesota-sanctuary-politicians-releasing-illegal",
+    "published": "2026-11-20",
+    "effective_date": null,
+    "importance": "low",
+    "category": "enforcement",
+    "agency": "dhs",
+    "topics": [
+      "enforcement"
+    ],
+    "tags": [
+      "ICE Detainer",
+      "Sanctuary Policy",
+      "DHS Statement"
+    ],
+    "added": "2026-11-21T02:23Z"
+  },
+  {
     "id": "e9e137f13d93",
     "source": "dhs_news",
     "url": "https://www.dhs.gov/news/2026/11/20/ice-hsi-nebraska-state-patrol-secure-50-year-sentence-child-exploitation-offender",

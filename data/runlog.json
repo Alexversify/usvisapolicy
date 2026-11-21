@@ -1,5 +1,33 @@
 [
   {
+    "t": "2026-11-21T02:26:41Z",
+    "kind": "news",
+    "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44855306947",
+    "found": 2,
+    "added": [
+      {
+        "id": "83ddb17b3569",
+        "source": "dhs_news",
+        "title": "DHS, ICE 구금 요청 불이행한 미니애폴리스 당국 비판 성명 발표"
+      },
+      {
+        "id": "cf0cc0646d00",
+        "source": "dhs_news",
+        "title": "ICE, 아동 성범죄 등 전과자 5명 체포 발표, DHS \"공공안전 위협 대응\""
+      }
+    ],
+    "failed": [],
+    "fulltext": {
+      "done": 1,
+      "left": 0
+    },
+    "cost": 0.7318,
+    "limited": false,
+    "errors": {
+      "dos_visa_news": "https://travel.state.gov/content/travel/en/News/visas-news.html: 일치 링크 0 (전체 링크 2개, 예시 [('https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m', 'Cloudflare'), ('https://www.cloudflare.com/privacypolicy/', 'Privacy')])"
+    }
+  },
+  {
     "t": "2026-11-20T20:32:40Z",
     "kind": "news",
     "run": "https://github.com/Alexversify/usvisapolicy/actions/runs/44811213179",
